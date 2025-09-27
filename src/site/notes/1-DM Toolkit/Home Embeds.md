@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-dm-toolkit/home-embeds/"}
+{"dg-publish":true,"permalink":"/1-dm-toolkit/home-embeds/","dgPassFrontmatter":true}
 ---
 
 # Party
