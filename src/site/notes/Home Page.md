@@ -3,22 +3,9 @@
 ---
 
 
-> **[[2-World/Continents/Faerûn\|Faerûn]]**
-> ![Faerûn.png|200](/img/user/z_Assets/Maps/Faer%C3%BBn.png)
-> 
-> **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**
-> ![Neverwood Academy Square.png|200](/img/user/z_Assets/Neverwood%20Academy%20square.png)
-> 
-> **[[2-World/Groups/Cohort of 1508\|Cohort of 1508]]**
-> ![class of 1508.png|200](/img/user/z_Assets/classLogos/class%20of%201508.png)
-> 
-> **[[1-Party/Group 1/Group 1\|Group 1]]**
-> ![group 1.png|200](/img/user/z_Assets/character_art/Players/Group%201.png)
-> 
- > **[[1-Party/Group 2/Group 2\|Group 2]]**
-> ![group 2.png|200](/img/user/z_Assets/character_art/Players/Group%202.png)
-
-
+| **[[2-World/Continents/Faerûn\|Faerûn]]**       | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**              | **[[2-World/Groups/Cohort of 1508\|Cohort of 1508]]**      | **[[1-Party/Group 1/Group 1\|Group 1]]**       | **[[1-Party/Group 2/Group 2\|Group 2]]**       |
+| -------------------- | -------------------------------------- | --------------------------- | --------------------- | --------------------- |
+| ![[Faerûn.png\|200]] | ![[Neverwood Academy Square.png\|200]] | ![[class of 1508.png\|200]] | ![[group 1.png\|200]] | ![[group 2.png\|200]] |
 
 > [!NOTE|no-title]
 > ~~~meta-bind
