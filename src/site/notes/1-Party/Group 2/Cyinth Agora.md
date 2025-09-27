@@ -10,7 +10,7 @@
 >> ![Cyinth.png](/img/user/z_Assets/character_art/Players/Cyinth.png)
 >
 >> [!div-m|no-title] Place Name
->> ~~~meta-bind
+>> ~~~
 >> INPUT[select(
 >> option(1, ℹ️General),
 >> option(2, 🧙Description),
@@ -34,7 +34,7 @@
 >>> 
 
 > [!NOTE|no-title]
-> ~~~meta-bind
+> ~~~
 > INPUT[select(
 > option(1, 🤹Abilities+Skills),
 > option(2, 💪Traits),
