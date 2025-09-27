@@ -3,9 +3,6 @@
 ---
 
 
-
-> [!cards|5]
-> 
 > **[[2-World/Continents/Faerûn\|Faerûn]]**
 > ![Faerûn.png|200](/img/user/z_Assets/Maps/Faer%C3%BBn.png)
 > 
