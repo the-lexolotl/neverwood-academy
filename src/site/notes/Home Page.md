@@ -1,11 +1,12 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-27T18:24:20.000+01:00"}
 ---
 
 
 | **[[2-World/Continents/Faerûn\|Faerûn]]**  | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**         | **[[2-World/Groups/Cohort of 1508\|Cohort of 1508]]** | **[[1-Party/Group 1/Group 1\|Group 1]]**  | **[[1-Party/Group 2/Group 2\|Group 2]]**  |
 | --------------- | --------------------------------- | ---------------------- | ---------------- | ---------------- |
 | ![Faerûn.png](/img/user/z_Assets/Maps/Faer%C3%BBn.png) | ![Neverwood Academy square.png](/img/user/z_Assets/Neverwood%20Academy%20square.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) |
+
 ```base
 formulas:
   Untitled: ""
@@ -97,7 +98,7 @@ views:
 > >[!tabbed-box]
 > > >[!div-m|no-title]
 > > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#party" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -193,7 +194,7 @@ views:
 > >
 > > >[!div-m|no-title]
 > > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#session-journals" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -255,7 +256,7 @@ views:
 > >
 > > > [!div-m|no-title]
 > > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#recently-modified" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -519,7 +520,7 @@ views:
 > > 
 > > > [!div-m|no-title]
 > > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#vault-graph" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
