@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-27T18:39:24.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-27T18:42:02.000+01:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 | --------------- | --------------------------------- | ---------------------- | ---------------- | ---------------- |
 | ![Faerûn.png](/img/user/z_Assets/Maps/Faer%C3%BBn.png) | ![Neverwood Academy square.png](/img/user/z_Assets/Neverwood%20Academy%20square.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) |
 
-## Players
+# Players
 | File                                                                |
 | ------------------------------------------------------------------- |
 | [[1-Party/Group 1/Atudark\|Atudark]]                             |
@@ -23,7 +23,7 @@
 
 { .block-language-dataview}
 
-## Session Journals
+# Session Journals
 | File                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------- |
 | [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       |
