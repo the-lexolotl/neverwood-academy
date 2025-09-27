@@ -1,48 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-dm-toolkit/home-embeds/"}
 ---
-
-This is the homepage test
-
-> [!cards|5]
-> 
-> **[[2-World/Continents/Faerûn\|Faerûn]]**
-> [![Faerûn.png|Faerûn](/img/user/z_Assets/Maps/Faer%C3%BBn.png)](Faerûn)
-> 
-> **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**
-> [![Neverwood Academy Square.png|Neverwood Academy](/img/user/z_Assets/Neverwood%20Academy%20square.png)](Neverwood%20Academy)
-> 
-> **[[2-World/Groups/Cohort of 1508\|Cohort of 1508]]**
-> [![class of 1508.png|Cohort of 1508](/img/user/z_Assets/classLogos/class%20of%201508.png)](Cohort%20of%201508)
-> 
-> **[[1-Party/Group 1/Group 1\|Group 1]]**
-> [![group 1.png|Players - Group 1](/img/user/z_Assets/character_art/Players/Group%201.png)](Group%201)
-> 
- > **[[1-Party/Group 2/Group 2\|Group 2]]**
-> [![group 2.png|Players - Group 2](/img/user/z_Assets/character_art/Players/Group%202.png)](Group%202)
-
-
-> [!NOTE|no-title]
-> ~~~meta-bind
-> INPUT[select(
-> option(1, 🧙Party),
-> option(2, 📚Session Journals),
-> option(4, 🪶Recently Modified),
-> option(5, 📈Vault Graph),
-> class(tabbed)
-> )]
-> ~~~
-> >[!tabbed-box]
-> > >[!div-m|no-title]
-> > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#party" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# no-h1 clean
-
-</div>
-
 
 # Party
 
@@ -125,82 +83,46 @@ views:
 
 ```
 
+# Create New
 
-</div></div>
+#### Player Elements
 
-> >
-> > >[!div-m|no-title]
-> > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#session-journals" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# no-h clean
-
-</div>
-
-
-# Session Journals
-
+- `BUTTON[button_player]` – Create a new Player Character note
+    
 - `BUTTON[button_journal]` – Start a new Journal Entry for a Player or Session
+    
 
-```base
-properties:
-  note.sessionstatus:
-    displayName: Status
-  note.sessionDate:
-    displayName: Date
-  note.players:
-    displayName: Players
-  note.OneLiner:
-    displayName: One Liner
-  note.fc-category:
-    displayName: Catagory
-views:
-  - type: cards
-    name: Journals - Vards
-    filters:
-      and:
-        - file.folder == "1-Session Journals"
-    order:
-      - fc-display-name
-      - OneLiner
-      - sessionDate
-      - players
-      - sessionstatus
-      - fc-category
-    sort:
-      - property: file.name
-        direction: ASC
-    limit: 15
-    image: note.image
-  - type: table
-    name: Session Journals
-    filters:
-      and:
-        - file.folder == "1-Session Journals"
-    order:
-      - file.name
-      - Status
-      - players
-    limit: 15
+---
 
-```
+#### World Elements
 
-
-</div></div>
-
-> >
-> > > [!div-m|no-title]
-> > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#recently-modified" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# no-h1 clean
-
-</div>
-
+- `BUTTON[button_person]` – Create a new Person – an individual NPC or character in the world
+    
+- `BUTTON[button_item]` – Create a new Item – gear, artifacts, treasures, relics, or magical items
+    
+- `BUTTON[button_quest]` – Create a new Quest – assignable tasks, missions, or narrative arcs
+    
+- `BUTTON[button_group]` – Create a new Group – organizations like cults, guilds, factions, military orders
+    
+- `BUTTON[button_club]` – Create a Extracurricular Club
+    
+- `BUTTON[button_species]` – Define a new Sapient Species – intelligent inhabitants of your world
+    
+- `BUTTON[button_pointofinterest]` – Create a new Point of Interest – explorable sites like dungeons, ruins, crash sites, shrines
+    
+- `BUTTON[button_place]` – Create a new Place – natural or constructed locations like mountains, ruins, temples
+    
+- `BUTTON[button_hub]` – Create a new Hub – populated places like Cities, Towns, Villages, Hamlets, Encampments, Keeps, Fortresses, Strongholds
+    
+- `BUTTON[button_region]` – Create a new Region – a local area within a continent (political, geographic, or cultural)
+    
+- `BUTTON[button_continent]` – Create a new Continent – a major landmass on a planet
+    
+- `BUTTON[button_planet]` – Create a new Planet – a world within a star system
+	
+- `BUTTON[button_starsystem]` – Create a new Star System – a sun and its orbiting bodies
+	
+- `BUTTON[button_galaxy]` – Create a new Galaxy – the largest cosmic structure in your universe
 
 # Recently Modified
 
@@ -451,20 +373,52 @@ views:
 
 
 
+# Session Journals
 
-</div></div>
+- `BUTTON[button_journal]` – Start a new Journal Entry for a Player or Session
 
-> > 
-> > > [!div-m|no-title]
-> > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/1-dm-toolkit/home-embeds/#vault-graph" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+```base
+properties:
+  note.sessionstatus:
+    displayName: Status
+  note.sessionDate:
+    displayName: Date
+  note.players:
+    displayName: Players
+  note.OneLiner:
+    displayName: One Liner
+  note.fc-category:
+    displayName: Catagory
+views:
+  - type: cards
+    name: Journals - Vards
+    filters:
+      and:
+        - file.folder == "1-Session Journals"
+    order:
+      - fc-display-name
+      - OneLiner
+      - sessionDate
+      - players
+      - sessionstatus
+      - fc-category
+    sort:
+      - property: file.name
+        direction: ASC
+    limit: 15
+    image: note.image
+  - type: table
+    name: Session Journals
+    filters:
+      and:
+        - file.folder == "1-Session Journals"
+    order:
+      - file.name
+      - Status
+      - players
+    limit: 15
 
-<div class="markdown-embed-title">
-
-# no-h clean
-
-</div>
-
+```
 
 # Vault Graph
 
@@ -475,9 +429,6 @@ views:
 
 <canvas height="0" width="0" style="display: block; box-sizing: border-box; height: 0px; width: 0px;"></canvas>
 
-
-
-</div></div>
 
 
 </div></div>
