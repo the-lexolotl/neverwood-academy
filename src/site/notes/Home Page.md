@@ -6,6 +6,83 @@
 | **[[2-World/Continents/Faerûn\|Faerûn]]**  | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**         | **[[2-World/Groups/Cohort of 1508\|Cohort of 1508]]** | **[[1-Party/Group 1/Group 1\|Group 1]]**  | **[[1-Party/Group 2/Group 2\|Group 2]]**  |
 | --------------- | --------------------------------- | ---------------------- | ---------------- | ---------------- |
 | ![Faerûn.png](/img/user/z_Assets/Maps/Faer%C3%BBn.png) | ![Neverwood Academy square.png](/img/user/z_Assets/Neverwood%20Academy%20square.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) |
+```base
+formulas:
+  Untitled: ""
+  TestForm: ""
+  Untitled 2: char_age.
+properties:
+  property.char_race:
+    displayName: Race
+  property.char_gender:
+    displayName: Gender
+  property.char_status:
+    displayName: Status
+  property.char_class:
+    displayName: Class
+  property.char_age:
+    displayName: Age
+  property.char_items:
+    displayName: Inventory
+  file.name:
+    displayName: Character Name
+  property.Player:
+    displayName: Player Name
+  property.level:
+    displayName: Level
+  note.char_status:
+    displayName: Character Status
+  note.char_race:
+    displayName: Race
+  note.char_gender:
+    displayName: Gender
+  note.char_items:
+    displayName: Items
+  note.char_age:
+    displayName: Age
+  note.level:
+    displayName: Level
+  note.char_class:
+    displayName: Class
+  note.char_college:
+    displayName: College
+views:
+  - type: cards
+    name: Party Members
+    filters:
+      and:
+        - tags == ["Category/Player"]
+        - file.folder != "z_Templates/World Builder Templates"
+    order:
+      - file.name
+      - Player
+      - char_status
+      - char_gender
+      - char_race
+      - char_class
+      - level
+      - char_college
+    image: note.image
+  - type: table
+    name: Party View - Tables
+    filters:
+      and:
+        - tags == ["Category/Player"]
+        - file.folder != "z_Templates/World Builder Templates"
+    order:
+      - file.name
+      - Player
+      - char_race
+      - char_gender
+      - level
+      - char_status
+      - char_class
+      - char_age
+    image: note.image
+  - type: table
+    name: View
+
+```
 
 > [!NOTE|no-title]
 > ~~~meta-bind
