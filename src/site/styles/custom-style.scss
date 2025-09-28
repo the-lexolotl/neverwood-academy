@@ -20,7 +20,7 @@
 body {
     font-family: 'Diphylleia', sans-serif;
     background-color: #323244;
-    color: #c5c7c1;
+    color: #c5c7a1;
     line-height: 1.6;
     margin: 0;
     padding: 0 1em;
@@ -43,12 +43,12 @@ h6 { font-size: 1em; }
 
 /* --- Links --- */
 a {
-    color: #c5c7c1;
+    color: #c5c7a1;
     text-decoration: underline dotted;
     transition: color 0.3s ease;
 }
 a:hover {
-    color: #ffffff;
+    color: #c5c7a1;
     text-decoration: underline solid;
 }
 
@@ -69,7 +69,7 @@ a:hover {
 /* --- Code Blocks --- */
 pre, code {
     background-color: #323244;
-    color: #c5c7c1;
+    color: #c5c7a1;
     padding: 0.5em 0.75em;
     border-radius: 6px;
     font-family: monospace;
@@ -80,8 +80,8 @@ pre { margin-bottom: 1em; }
 /* --- Inline Inputs --- */
 input, .inline-input {
     background-color: #323244;
-    color: #c5c7c1;
-    border: 1px solid #56567a;
+    color: #c5c7a1;
+    border: 1px solid #c5c7a1;
     border-radius: 6px;
     padding: 0.25em 0.5em;
     font-family: 'Diphylleia', sans-serif;
@@ -89,9 +89,9 @@ input, .inline-input {
 
 /* --- Blockquotes & Callouts --- */
 blockquote, .callout {
-    border-left: 4px solid #5c5ca0;
+    border-left: 4px solid #c5c7a1;
     padding-left: 1em;
-    color: #d0d2d0;
+    color: #c5c7a1;
     font-style: italic;
     margin: 1em 0;
     background-color: #323244;
@@ -108,7 +108,7 @@ th, td {
     border: 1px solid #56567a;
     padding: 0.5em 1em;
 }
-th { background-color: #3b3b55; }
+th { background-color: #323244; }
 tr:nth-child(even) { background-color: #323244; }
 
 /* --- Buttons / Tags / Badges --- */
@@ -123,7 +123,7 @@ button, .btn, .tag, .badge {
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
 button:hover, .btn:hover, .tag:hover, .badge:hover {
-    background-color: #7d7dcf;
+    background-color: #323244;
     transform: translateY(-2px);
 }
 
