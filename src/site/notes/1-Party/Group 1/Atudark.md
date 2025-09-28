@@ -1,15 +1,9 @@
 ---
-{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Dead Language Society.md|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Atudark.md","permalink":"/party/group-1/atudark/","dgPassFrontmatter":true,"updated":"2025-09-28T21:32:34.000+01:00"}
+{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Dead Language Society.md|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Atudark.md","permalink":"/party/group-1/atudark/","dgPassFrontmatter":true,"updated":"2025-09-28T21:35:46.000+01:00"}
 ---
 
 
 # General
-
-# Description
-
-This is the persons description. 
-
-# Configure
 
 
 | Stat     | Value       |
@@ -25,6 +19,11 @@ This is the persons description.
 | AC       | 9           |
 | Modifier | -1          |
 | College  | Witherbloom |
+
+# Description
+
+This is the persons description. 
+
 
 # GM Notes
 
@@ -169,63 +168,3 @@ items:
 **Groups:** [[2-World/Groups/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 1/Group 1\|Group 1]], [[2-World/Groups/Dead Language Society\|Dead Language Society]]
 
 # Relationships
-::hidden
-List important relationships here. 
-
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:1182416)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)</pre>mermaid\nflowchart LR\n" +
-  // Parents with internal-link on individual nodes only
-  (parents.length > 0 ? parents.map((parent, index) => `P${index + 1}[${parent}]:::internal-link\nP${index + 1} --> Current\n`).join('') : '') +
-  
-  // Current node
-  `Current[${current}]\n` +
-  
-  // Partner group node (no internal-link applied)
-  (partner.length > 0 ? `PT[Partner]\nCurrent --> PT\n` : '') +
-  
-  // Individual partners with internal-link
-  (partner.length > 0 ? partner.map((p, index) => `PT${index + 1}[${p}]:::internal-link\nPT --> PT${index + 1}\n`).join('') : '') +
-
-  // Children group node (no internal-link applied)
-  (children.length > 0 ? `C[Children]\nCurrent --> C\n${children.map((child, index) => `C${index + 1}[${child}]:::internal-link\nC --> C${index + 1}\n`).join('')}` : '') +
-
-  // Siblings group node (no internal-link applied)
-  (siblings.length > 0 ? `S[Siblings]\nCurrent --> S\n${siblings.map((sibling, index) => `S${index + 1}[${sibling}]:::internal-link\nS --> S${index + 1}\n`).join('')}` : '') +
-
-  // Enemies group node (no internal-link applied)
-  (enemies.length > 0 ? `E[Enemies]\nCurrent --> E\n${enemies.map((enemy, index) => `E${index + 1}[${enemy}]:::internal-link\nE --> E${index + 1}\n`).join('')}` : '') +
-
-  // Allies group node (no internal-link applied)
-  (allies.length > 0 ? `A[Allies]\nCurrent --> A\n${allies.map((ally, index) => `A${index + 1}[${ally}]:::internal-link\nA --> A${index + 1}\n`).join('')}` : '') +
-
-  // Styling: Apply internal-link only to individual nodes, not group nodes
-  `class ${parents.length > 0 ? parents.map((_, index) => `P${index + 1},`).join('') : ''}Current${children.length > 0 ? children.map((_, index) => `C${index + 1},`).join('') : ''}${siblings.length > 0 ? siblings.map((_, index) => `S${index + 1},`).join('') : ''}${enemies.length > 0 ? enemies.map((_, index) => `E${index + 1},`).join('') : ''}${allies.length > 0 ? allies.map((_, index) => `A${index + 1},`).join('') : ''} internal-link;`
-)
-```
-
-
-
-> [!NOTE]- Relationship Config - Enter name of People Notes
-> `BUTTON[button_person]` Nodes will link to notes of the same name. 
-> 
-> | Parents    | Partner    | Children |
-> | --- | --- | --- |
-> | `INPUT[list:parents]`    | `INPUT[list:partner]`    | `INPUT[list:children]`  |
-> 
-> | Siblings    | Enemies    | Allies |
-> | --- | --- | --- |
-> | `INPUT[list:siblings]`    | `INPUT[list:enemies]`    | `INPUT[list:allies]`  |
-
-
-
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Faction</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Your Standing</span></th><th class="table-view-th"><span>Benefits</span></th><th class="table-view-th"><span>Primary Contact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
-:::
