@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-// adjust this if your notes live in a different folder
-const NOTES_DIR = path.join(process.cwd(), "content");
+// your notes live here:
+const NOTES_DIR = path.join(process.cwd(), "src", "site", "notes");
 
 function replaceMetaBind(content) {
   return content
