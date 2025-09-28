@@ -1,140 +1,31 @@
 ---
-{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[2-World/Groups/Distinguished Society of Fine Artists.md|Distinguished Society of Fine Artists]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-path":"Party/Group 2/H'er.md","permalink":"/party/group-2/h-er/","dgPassFrontmatter":true,"updated":"2025-09-27T18:28:58.000+01:00"}
+{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[2-World/Groups/Distinguished Society of Fine Artists.md|Distinguished Society of Fine Artists]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-path":"Party/Group 2/H'er.md","permalink":"/party/group-2/h-er/","dgPassFrontmatter":true,"updated":"2025-09-28T22:39:18.000+01:00"}
 ---
 
-
-> [!NOTE|div-m] Player Name:  `Rain`
-
-> [!column|no-i no-t]
->> [!div-m|no-title]
->> ![Rain.png](/img/user/z_Assets/character_art/Players/Rain.png)
->
->> [!div-m|no-title] Place Name
->> ~~~meta-bind
->> INPUT[select(
->> option(1, ℹ️General),
->> option(2, 🧙Description),
->> option(3, ⚙️Configure),
->> option(4, 📝GM Notes),
->> class(tabbed)
->> )]
->> ~~~
->>>[!tabbed-box-maxh480|10]
->>> >[!div-m|no-title]
->>> > ![[#General|no-h clean]]
->>> 
->>> >[!div-m|no-title]
->>> > ![[#Description|no-h clean]]
->>> 
->>> >[!div-m|no-title]
->>> > ![[#Configure|no-h clean]]
->>> 
->>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
->>> 
-
-> [!NOTE|no-title]
-> ~~~meta-bind
-> INPUT[select(
-> option(1, 🤹Abilities+Skills),
-> option(2, 💪Traits),
-> option(3, 📖Spell Book),
-> option(4, ⚔️Inventory),
-> option(5, 🔗Connections),
-> option(6, 🧑‍🤝‍🧑Relationships),
-> class(tabbed)
-> )]
-> ~~~
-> >[!tabbed-box-maxh]
-> > >[!div-m|no-title]
-> > > ![[#Skills|no-h clean]]
-> >
-> > >[!div-m|no-title]
-> > > ![[#Traits|no-h1 clean]]
-> >
-> > >[!div-m|no-title]
-> > > ![[#Spell Book|no-h1 clean]]
-> >
-> > > ![[#Inventory|no-h1 clean]]
-> >
-> > > [!div-m|no-title]
-> > > ![[#Connections|no-h1 clean]]
-> > 
-> > > [!div-m|no-title]
-> > > ![[#Relationships|no-h1 clean]]
-
----
 
 # General
 
-```badges
-items:
-  - label: College
-    value: '{{frontmatter.char_college}}'
-```
-<br>
+![Rain.png](/img/user/z_Assets/character_art/Players/Rain.png)
 
-```badges
-items:
-  - label: Race
-    value: 'Teifling'
-  - label: Level
-    value: '{{frontmatter.level}}'
-  - label: Initiative
-    value: '{{frontmatter.modifier}}'
-```
-<br>
+| Stat     | Value       |
+| -------- | ----------- |
+| Status   | Alive       |
+| Race     | Teifling    |
+| Class    | Sorcerer    |
+| Level    | 2           |
+| Gender   | Female      |
+| Age      | Young Adult |
+| HP       | 10          |
+| Max HP   | 10          |
+| AC       | 11          |
+| Modifier | +1          |
+| College  | Prismari    |
 
-```badges
-items:
-  - label: Spell Save
-    value: 13
-  - label: AC
-    value: '{{frontmatter.ac}}'
-  - label: AC (Mage Armor)
-    value: 14
-```
-
-<br>
-
-```healthpoints
-state_key: her_health
-health: '{{ frontmatter.hp }}'
-reset_on: long-rest
-hitdice:
-  dice: d6
-  value: 1
-```
-
-```event-btns
-items:
-  - name: Short Rest
-    value: short-rest
-  - name: Long Rest
-    value: long-rest
-```
 
 # Description
 
 This is the persons description. 
 
-# Configure
-
-
-
-| Stat     | Value                                         |
-| -------- | --------------------------------------------- |
-| Status   | `INPUT[template-person-status][:char_status]` |
-| Race     | `INPUT[template-person-race][:char_race]`     |
-| Class    | `INPUT[template-person-class][:char_class]`   |
-| Level    | `INPUT[number:level]`                         |
-| Gender   | `INPUT[template-person-gender][:char_gender]` |
-| Age      | `INPUT[template-person-age-range][:char_age]` |
-| HP       | `INPUT[number:hp]`                            |
-| Max HP   | `INPUT[number:max_hp]`                        |
-| AC       | `INPUT[number:ac]`                            |
-| Modifier | `INPUT[number:modifier]`                      |
-| College  | `INPUT[template-college][:char_college]`      |
 
 # GM Notes
 
@@ -142,33 +33,7 @@ Make notes of what you need to track in the town here.
 
 # Skills
 
-
-
-
-```ability
-abilities:
-  strength: 8
-  dexterity: 12
-  constitution: 11
-  intelligence: 14
-  wisdom: 13
-  charisma: 17
-
-proficiencies:
-  - constitution
-  - charisma
-```
-
-<br>
-
-```skills
-proficiencies:
-  - acrobatics
-  - deception
-  - performance
-  - persuasion
-```
-
+![Pasted image 20250928223732.png](/img/user/z_Assets/Pasted%20image%2020250928223732.png)
 
 # Traits
 
@@ -185,12 +50,6 @@ During your Innate Sorcery, you gain the following benefits:
 
 Innate Sorcery: 1 Bonus Action
 Uses: 2/Long Rest
-```consumable
-label: ""
-state_key: her_innate_sorcery
-uses: 2
-reset_on: long-rest
-```
 
 ### Font of Magic
 *PHB-2024, pg. 140*
@@ -206,12 +65,8 @@ You can use your Sorcery Points to fuel the options below, along with other feat
 
 Any spell slot you create with this feature vanishes when you finish a Long Rest.
 
-```consumable
-label: "Sorcery Points"
-state_key: her_sorcery_points
-uses: 2
-reset_on: long-rest
-```
+Sorcery Points: 2/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
+
 
 ### Metamagic
 *PHB-2024, pg. 141*
@@ -249,46 +104,12 @@ Your spellcasting ability for this feat’s spells is Charisma.
 [[3-Mechanics/CLI/spells/prestidigitation-xphb\|Prestidigitation]] (Cantrip)
 [[3-Mechanics/CLI/spells/spare-the-dying-xphb\|Spare the Dying]] (Cantrip)
 [[3-Mechanics/CLI/spells/color-spray-xphb\|Colour Spray]] (1st/Long Rest)
-```consumable
-label: "Colour Spray/Long Rest"
-state_key: her_colour_spray
-uses: 1
-reset_on: long-rest
-```
 
 
 # Spell Book
 
-## Spell Slots
-
-```consumable
-items:
-  - label: "Level 1"
-    state_key: her_spells_1
-    reset_on: long-rest
-    uses: 3
-```
-```consumable
-label: "Sorcery Points"
-state_key: her_sorcery_points
-uses: 2
-reset_on: long-rest
-```
-
-```spell-components
-casting_time: 1 bonus action
-range: Self
-duration: Concentration, up to 1 minute
-```
-
 ### Innate Sorcery
-
-```consumable
-items:
-  - label: "Innate Sorcery"
-    state_key: her_innate_sorcery
-    uses: 2
-```
+Innate Sorcery: 2/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 
 > [!NOTE]- Prepared
 > Acid Splash(Cantrip)
@@ -364,86 +185,11 @@ Silvery Barbs(1st)
 
 # Inventory
 
-The following items belong to H'er.
-
-Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
- 
-
-#### Ring of Investigation
-```consumable
-label: ""
-state_key: din_items__ring_of_investigation
-uses: 3
-```
-
-_May the ability to see also provide you with a clear vision" Grants +1 to Investigation Roles_
 
 # Connections
-Is the person linked to any groups or quests?
 
-Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
- 
+**Quests:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
-Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
- 
+**Groups:** [[2-World/Groups/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 2/Group 2\|Group 2]], [[2-World/Groups/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]]
 
 # Relationships
-
-List important relationships here. 
-
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:1182416)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)</pre>mermaid\nflowchart LR\n" +
-  // Parents with internal-link on individual nodes only
-  (parents.length > 0 ? parents.map((parent, index) => `P${index + 1}[${parent}]:::internal-link\nP${index + 1} --> Current\n`).join('') : '') +
-  
-  // Current node
-  `Current[${current}]\n` +
-  
-  // Partner group node (no internal-link applied)
-  (partner.length > 0 ? `PT[Partner]\nCurrent --> PT\n` : '') +
-  
-  // Individual partners with internal-link
-  (partner.length > 0 ? partner.map((p, index) => `PT${index + 1}[${p}]:::internal-link\nPT --> PT${index + 1}\n`).join('') : '') +
-
-  // Children group node (no internal-link applied)
-  (children.length > 0 ? `C[Children]\nCurrent --> C\n${children.map((child, index) => `C${index + 1}[${child}]:::internal-link\nC --> C${index + 1}\n`).join('')}` : '') +
-
-  // Siblings group node (no internal-link applied)
-  (siblings.length > 0 ? `S[Siblings]\nCurrent --> S\n${siblings.map((sibling, index) => `S${index + 1}[${sibling}]:::internal-link\nS --> S${index + 1}\n`).join('')}` : '') +
-
-  // Enemies group node (no internal-link applied)
-  (enemies.length > 0 ? `E[Enemies]\nCurrent --> E\n${enemies.map((enemy, index) => `E${index + 1}[${enemy}]:::internal-link\nE --> E${index + 1}\n`).join('')}` : '') +
-
-  // Allies group node (no internal-link applied)
-  (allies.length > 0 ? `A[Allies]\nCurrent --> A\n${allies.map((ally, index) => `A${index + 1}[${ally}]:::internal-link\nA --> A${index + 1}\n`).join('')}` : '') +
-
-  // Styling: Apply internal-link only to individual nodes, not group nodes
-  `class ${parents.length > 0 ? parents.map((_, index) => `P${index + 1},`).join('') : ''}Current${children.length > 0 ? children.map((_, index) => `C${index + 1},`).join('') : ''}${siblings.length > 0 ? siblings.map((_, index) => `S${index + 1},`).join('') : ''}${enemies.length > 0 ? enemies.map((_, index) => `E${index + 1},`).join('') : ''}${allies.length > 0 ? allies.map((_, index) => `A${index + 1},`).join('') : ''} internal-link;`
-)
-```
-
-
-
-> [!NOTE]- Relationship Config - Enter name of People Notes
-> `BUTTON[button_person]` Nodes will link to notes of the same name. 
-> 
-> | Parents    | Partner    | Children |
-> | --- | --- | --- |
-> | `INPUT[list:parents]`    | `INPUT[list:partner]`    | `INPUT[list:children]`  |
-> 
-> | Siblings    | Enemies    | Allies |
-> | --- | --- | --- |
-> | `INPUT[list:siblings]`    | `INPUT[list:enemies]`    | `INPUT[list:allies]`  |
-
-
-
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Faction</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Your Standing</span></th><th class="table-view-th"><span>Benefits</span></th><th class="table-view-th"><span>Primary Contact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>

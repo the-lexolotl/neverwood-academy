@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Dragonsguard Historical Society.md|Dragonsguard Historical Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 1/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/","dgPassFrontmatter":true,"updated":"2025-09-28T22:16:16.000+01:00"}
+{"aliases":["Kristy"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Dragonsguard Historical Society.md|Dragonsguard Historical Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 1/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/","dgPassFrontmatter":true,"updated":"2025-09-28T22:39:00.000+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 | Max HP   | 13                |
 | AC       | 15                |
 | Modifier | +2                |
-| College  | Witherbloom       |
+| College  | Quandrix          |
 
 # Description
 
@@ -58,6 +58,7 @@ When you take the Attack action on your turn, you can replace one attack with a 
 Breath Weapon (Fire): 1 Action
 Uses: 2/Long Rest
 
+
 ### Step of the Wind.
 *PHB-2024, pg. 101*
  You can take the Dash action as a Bonus Action or expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
@@ -70,11 +71,15 @@ Flurry of Blows: 1 Bonus Action
 Patient Defence: 1 Bonus Action
 Step of the Wind: 1 Bonus Action
 
+
+
 ### Uncanny Metabolism
 *PHB-2024, pg. 102*
 Once per Long Rest, when you roll Initiative you can regain all expended Focus Points, and regain 1d6+2 HP.
 
 Uncanny Metabolism: (No Action) 1/Long Rest
+
+
 
 ### Neverwood Initiate - Quandrix
 *Homebrew*
@@ -87,29 +92,29 @@ Your spellcasting ability for this feat’s spells is Intelligence.
 [[3-Mechanics/CLI/spells/shield-xphb\|Shield]] (1st/Long Rest)
 
 
-# Spell Book
 
-```spell-components
-casting_time: 1 bonus action
-range: Self
-duration: Concentration, up to 1 minute
-```
+# Spell Book
 
 ### Breath Weapon
 Breath Weapon (Fire) 2/Long Rest
-hidden
-```consumable
-label: "Focus Points/Short Rest"
-state_key: vigilius_step_of_the_wind 
-uses: 2
-reset_on: short-rest
-```
-:::
+
+
+### Step of the Wind.
+Flurry of Blows: 1 Bonus Action
+Patient Defence: 1 Bonus Action
+Step of the Wind: 1 Bonus Action
+Focus Points 2/[[3-Mechanics/CLI/variant-rules/short-rest-xphb\|Short Rest]]
+
+
 ### Uncanny Metabolism
 Uncanny Metabolism 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 
+
+
 ### Neverwood Initiate - Quandrix
 Shield 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
+
+
 
 > [!NOTE]- Prepared
 > List Spells Here
@@ -118,6 +123,7 @@ Shield 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 > List Spells Here
 
 # Inventory
+
 
 - A blue knit hat that looks a bit like a bottle folding in on itself
 - Abacus
@@ -150,6 +156,7 @@ Shield 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 - [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
 - [[3-Mechanics/CLI/items/torch-xphb\|Torch]]
 - [[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
+
 
 
 # Connections
