@@ -1,12 +1,12 @@
 ---
-{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-09-28T23:39:32.000+01:00"}
+{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-09-28T23:44:00.000+01:00"}
 ---
 
 
 
 
 # General Info
-![[Pasted image 20250914210200.png]]
+![Pasted image 20250928234357.png](/img/user/z_Assets/Pasted%20image%2020250928234357.png)
 See [[2-World/Continents/Faerun Interactive Map\|Faerun Interactive Map]]
 
 # Region Details
