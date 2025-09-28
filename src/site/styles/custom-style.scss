@@ -19,7 +19,7 @@
 
 /* --- Base body --- */
 body {
-    font-family: 'Diphylleia', sans-serif;
+    font-family: 'Diphylleia', sans-serif !important;
     background-color: #323244;
     color: #c5c7a1 !important;
     line-height: 1.6;
@@ -29,7 +29,7 @@ body {
 
 /* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Distillery Strong', cursive;
+    font-family: 'Distillery Strong', cursive !important;
     color: #c5c7a1 !important;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
