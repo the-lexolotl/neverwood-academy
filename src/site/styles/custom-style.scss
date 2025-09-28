@@ -5,22 +5,31 @@
    Colors: #323244 (bg), #c5c7c1 (text)
 ============================== */
 
-/* --- Load Diphylliea via embed --- */
-@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap'); /* Replace with actual embed URL */
+/* --- Load Diphylliea via @import --- */
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
 
-/* --- Base Body & Fonts --- */
+/* --- Load Distillery Strong via self-hosted .woff2 --- */
+@font-face {
+    font-family: 'Distillery Strong';
+    src: url('/fonts/DistilleryStrong.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* --- Base body --- */
 body {
+    font-family: 'Diphylleia', sans-serif;
     background-color: #323244;
     color: #c5c7c1;
-    font-family: 'Diphylliea', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0 1em;
 }
 
+/* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Distillery Strong', serif;
-    color: #c5c7a1;
+    color: #ffffff;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
@@ -38,7 +47,6 @@ a {
     text-decoration: underline dotted;
     transition: color 0.3s ease;
 }
-
 a:hover {
     color: #ffffff;
     text-decoration: underline solid;
@@ -46,14 +54,13 @@ a:hover {
 
 /* --- Cards / Notes --- */
 .garden-card, .note-card, .block {
-    background-color: #323244;
+    background-color: #3b3b55;
     border-radius: 12px;
     padding: 1em;
     margin-bottom: 1.5em;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-
 .garden-card:hover, .note-card:hover, .block:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.4);
@@ -61,26 +68,23 @@ a:hover {
 
 /* --- Code Blocks --- */
 pre, code {
-    background-color: #323244;
+    background-color: #2a2a3a;
     color: #c5c7c1;
     padding: 0.5em 0.75em;
     border-radius: 6px;
     font-family: monospace;
     overflow-x: auto;
 }
-
-pre {
-    margin-bottom: 1em;
-}
+pre { margin-bottom: 1em; }
 
 /* --- Inline Inputs --- */
 input, .inline-input {
-    background-color: #323244;
+    background-color: #454565;
     color: #c5c7c1;
     border: 1px solid #56567a;
     border-radius: 6px;
     padding: 0.25em 0.5em;
-    font-family: 'Diphylliea', sans-serif;
+    font-family: 'Diphylleia', sans-serif;
 }
 
 /* --- Blockquotes & Callouts --- */
@@ -100,19 +104,12 @@ table {
     border-collapse: collapse;
     margin: 1em 0;
 }
-
 th, td {
     border: 1px solid #56567a;
     padding: 0.5em 1em;
 }
-
-th {
-    background-color: #3b3b55;
-}
-
-tr:nth-child(even) {
-    background-color: #323244;
-}
+th { background-color: #3b3b55; }
+tr:nth-child(even) { background-color: #323244; }
 
 /* --- Buttons / Tags / Badges --- */
 button, .btn, .tag, .badge {
@@ -125,7 +122,6 @@ button, .btn, .tag, .badge {
     cursor: pointer;
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
-
 button:hover, .btn:hover, .tag:hover, .badge:hover {
     background-color: #7d7dcf;
     transform: translateY(-2px);
