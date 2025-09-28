@@ -1,13 +1,145 @@
+/* ==============================
+   DIGITAL GARDEN FULL THEME
+   Brand: Dark Modern
+   Fonts: Distillery Strong (headings), Diphylliea (body)
+   Colors: #323244 (bg), #c5c7c1 (text)
+============================== */
+
+/* --- Base Body & Fonts --- */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    background-color: #323244;
+    color: #c5c7c1;
+    font-family: 'Diphylliea', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Distillery Strong', serif;
+    color: #ffffff;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.75em; }
+h4 { font-size: 1.5em; }
+h5 { font-size: 1.25em; }
+h6 { font-size: 1em; }
+
+/* --- Links --- */
+a {
+    color: #c5c7c1;
+    text-decoration: underline dotted;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline solid;
+}
+
+/* --- Cards / Notes --- */
+.garden-card, .note-card, .block {
+    background-color: #3b3b55;
+    border-radius: 12px;
+    padding: 1em;
+    margin-bottom: 1.5em;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.garden-card:hover, .note-card:hover, .block:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+
+/* --- Code Blocks --- */
+pre, code {
+    background-color: #2a2a3a;
+    color: #c5c7c1;
+    padding: 0.5em 0.75em;
+    border-radius: 6px;
+    font-family: monospace;
+    overflow-x: auto;
+}
+
+pre {
+    margin-bottom: 1em;
+}
+
+/* --- Inline Inputs --- */
+input, .inline-input {
+    background-color: #454565;
+    color: #c5c7c1;
+    border: 1px solid #56567a;
+    border-radius: 6px;
+    padding: 0.25em 0.5em;
+    font-family: 'Diphylliea', sans-serif;
+}
+
+/* --- Blockquotes & Callouts --- */
+blockquote, .callout {
+    border-left: 4px solid #5c5ca0;
+    padding-left: 1em;
+    color: #d0d2d0;
+    font-style: italic;
+    margin: 1em 0;
+    background-color: #2f2f4f;
+    border-radius: 6px;
+}
+
+/* --- Tables --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+th, td {
+    border: 1px solid #56567a;
+    padding: 0.5em 1em;
+}
+
+th {
+    background-color: #3b3b55;
+}
+
+tr:nth-child(even) {
+    background-color: #323244;
+}
+
+/* --- Buttons / Tags / Badges --- */
+button, .btn, .tag, .badge {
+    background-color: #5c5ca0;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 0.3em 0.8em;
+    font-size: 0.9em;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+button:hover, .btn:hover, .tag:hover, .badge:hover {
+    background-color: #7d7dcf;
+    transform: translateY(-2px);
+}
+
+/* --- Misc Spacing & Responsiveness --- */
+p { margin-bottom: 1em; }
+ul, ol { margin-bottom: 1em; padding-left: 1.5em; }
+img { max-width: 100%; border-radius: 8px; }
+@media (max-width: 768px) {
+    body { padding: 0 0.5em; }
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.75em; }
+    h3 { font-size: 1.5em; }
+}
+
+/* --- Smooth Transitions --- */
+* {
+    transition: color 0.2s ease, background-color 0.2s ease;
 }
