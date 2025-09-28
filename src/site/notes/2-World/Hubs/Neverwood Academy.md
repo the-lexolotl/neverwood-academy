@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"dg-path":"World/Hubs/Neverwood Academy.md","permalink":"/world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-09-28T20:33:00.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"dg-path":"World/Hubs/Neverwood Academy.md","permalink":"/world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-09-28T20:37:32.000+01:00"}
 ---
 
 
@@ -205,11 +205,11 @@ Make notes of what you need to track in the town here.
 
 
 
-`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
-[[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
+8 hrs per day
+[[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]] Level: 0
 
-| Destination       | Travel Days                                                                                       |
-| ----------------- | ------------------------------------------------------------------------------------------------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]]   | 🕓: `VIEW[round((78* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]` |
-| [[2-World/Hubs/Xvart Village\|Xvart Village]] | 🕓: `VIEW[round((50* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]` |
+| Destination       | Travel Days |
+| ----------------- | ----------- |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]   | 🕓: 3.2     |
+| [[2-World/Hubs/Xvart Village\|Xvart Village]] | 🕓: 2.1     |
 
