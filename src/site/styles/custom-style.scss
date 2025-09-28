@@ -8,7 +8,6 @@
 /* --- Load Diphylliea via embed --- */
 @import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap'); /* Replace with actual embed URL */
 
-
 /* --- Base Body & Fonts --- */
 body {
     background-color: #323244;
@@ -21,7 +20,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Distillery Strong', serif;
-    color: #ffffff;
+    color: #c5c7a1;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
@@ -47,7 +46,7 @@ a:hover {
 
 /* --- Cards / Notes --- */
 .garden-card, .note-card, .block {
-    background-color: #3b3b55;
+    background-color: #323244;
     border-radius: 12px;
     padding: 1em;
     margin-bottom: 1.5em;
@@ -62,7 +61,7 @@ a:hover {
 
 /* --- Code Blocks --- */
 pre, code {
-    background-color: #2a2a3a;
+    background-color: #323244;
     color: #c5c7c1;
     padding: 0.5em 0.75em;
     border-radius: 6px;
@@ -76,7 +75,7 @@ pre {
 
 /* --- Inline Inputs --- */
 input, .inline-input {
-    background-color: #454565;
+    background-color: #323244;
     color: #c5c7c1;
     border: 1px solid #56567a;
     border-radius: 6px;
