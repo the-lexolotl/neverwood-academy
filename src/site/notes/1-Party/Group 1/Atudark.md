@@ -1,56 +1,9 @@
 ---
-{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Dead Language Society.md|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Atudark.md","permalink":"/party/group-1/atudark/","dgPassFrontmatter":true,"updated":"2025-09-28T19:05:34.000+01:00"}
+{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Dead Language Society.md|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Atudark.md","permalink":"/party/group-1/atudark/","dgPassFrontmatter":true,"updated":"2025-09-28T21:32:34.000+01:00"}
 ---
 
 
 # General
-
-```badges
-items:
-  - label: College
-    value: '{{frontmatter.char_college}}'
-```
-<br>
-
-```badges
-items:
-  - label: Race
-    value: 'Yuan-Ti'
-  - label: Level
-    value: '{{frontmatter.level}}'
-  - label: Initiative
-    value: '{{frontmatter.modifier}}'
-```
-<br>
-
-```badges
-items:
-  - label: Spell Save
-    value: 12
-  - label: AC
-    value: '{{frontmatter.ac}}'
-  - label: AC (Mage Armor)
-    value: 12
-```
-
-<br>
-
-```healthpoints
-state_key: atudark_health
-health: '{{ frontmatter.hp }}'
-reset_on: long-rest
-hitdice:
-  dice: d8
-  value: 2
-```
-
-```event-btns
-items:
-  - name: Short Rest
-    value: short-rest
-  - name: Long Rest
-    value: long-rest
-```
 
 # Description
 
@@ -59,21 +12,19 @@ This is the persons description.
 # Configure
 
 
-
-| Stat     | Value                                         |
-| -------- | --------------------------------------------- |
-| Status   | `INPUT[template-person-status][:char_status]` |
-| Race     | `INPUT[template-person-race][:char_race]`     |
-| Class    | `INPUT[template-person-class][:char_class]`   |
-| Level    | `INPUT[number:level]`                         |
-| Gender   | `INPUT[template-person-gender][:char_gender]` |
-| Age      | `INPUT[template-person-age-range][:char_age]` |
-| HP       | `INPUT[number:hp]`                            |
-| Max HP   | `INPUT[number:max_hp]`                        |
-| AC       | `INPUT[number:ac]`                            |
-| Modifier | `INPUT[number:modifier]`                      |
-| College  | `INPUT[template-college][:char_college]`      |
-
+| Stat     | Value       |
+| -------- | ----------- |
+| Status   | Alive       |
+| Race     | Yuan-Ti     |
+| Class    | Warlock     |
+| Level    | 2           |
+| Gender   | Male        |
+| Age      | Young Adult |
+| HP       | 13          |
+| Max HP   | 13          |
+| AC       | 9           |
+| Modifier | -1          |
+| College  | Witherbloom |
 
 # GM Notes
 
@@ -81,34 +32,7 @@ Make notes of what you need to track in the town here.
 
 # Skills
 
-
-
-
-```ability
-abilities:
-  strength: 13
-  dexterity: 9
-  constitution: 11
-  intelligence: 15
-  wisdom: 12
-  charisma: 15
-
-proficiencies:
-  - wisdom
-  - charisma
-```
-
-<br>
-
-```skills
-proficiencies:
-  - deception
-  - intimidation
-  - nature
-  - survival
-```
-
-
+![Pasted image 20250928212558.png](/img/user/z_Assets/Pasted%20image%2020250928212558.png)
 # Traits
 
 ### Serpentine Spellcasting
@@ -238,31 +162,14 @@ items:
 
 # Inventory
 
-The following items belong to Atudark.
-
-Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
- 
-
-#### Ring of Investigation
-```consumable
-label: ""
-state_key: din_items__ring_of_investigation
-uses: 3
-```
-
-_May the ability to see also provide you with a clear vision" Grants +1 to Investigation Roles_
-
 # Connections
-Is the person linked to any groups or quests?
 
-Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
- 
+**Quest:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/The Missing Professor\|The Missing Professor]], [[2-World/Quests/Heist the Records Room\|Heist the Records Room]], [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
-Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
- 
+**Groups:** [[2-World/Groups/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 1/Group 1\|Group 1]], [[2-World/Groups/Dead Language Society\|Dead Language Society]]
 
 # Relationships
-
+::hidden
 List important relationships here. 
 
 <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
@@ -321,3 +228,4 @@ List important relationships here.
 
 
 <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Faction</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Your Standing</span></th><th class="table-view-th"><span>Benefits</span></th><th class="table-view-th"><span>Primary Contact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+:::
