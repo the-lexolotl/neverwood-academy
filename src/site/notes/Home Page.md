@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-28T19:37:08.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-28T23:36:48.000+01:00"}
 ---
 
 
@@ -8,35 +8,35 @@
 | ![Faerûn.png](/img/user/z_Assets/Maps/Faer%C3%BBn.png) | ![Neverwood Academy square.png](/img/user/z_Assets/Neverwood%20Academy%20square.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) |
 
 # Players
-| File                                                                |
-| ------------------------------------------------------------------- |
-| [[1-Party/Group 1/Atudark\|Atudark]]                             |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           |
-| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   |
-| [[1-Party/Group 2/H'er\|H'er]]                                   |
-| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]           |
-| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]               |
+| File                                                                | Player   | Level | Class     | Gender | College     |
+| ------------------------------------------------------------------- | -------- | ----- | --------- | ------ | ----------- |
+| [[1-Party/Group 1/Atudark\|Atudark]]                             | Jacob    | 2     | Warlock   | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] | Cameron  | 2     | Druid     | Male   | Witherbloom |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         | Theo     | 2     | Druid     | Male   | Witherbloom |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Kristy   | 2     | Monk      | Male   | Quandrix    |
+| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   | Catarina | 2     | Artificer | Female | Lorehold    |
+| [[1-Party/Group 2/H'er\|H'er]]                                   | Rain     | 2     | Sorcerer  | Female | Prismari    |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]           | Ross     | 2     | Wizard    | Male   | Quandrix    |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]               | Megan    | 2     | Cleric    | Female | Silverquill |
 
 { .block-language-dataview}
 
 # Session Journals
-| File                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       |
-| [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           |
-| [[1-Session Journals/2025-07-26 - Frog's the Word\|2025-07-26 - Frog's the Word]]                                       |
-| [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]                                                   |
-| [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]                                                 |
-| [[1-Session Journals/2025-08-02 - Autumn Equinox\|2025-08-02 - Autumn Equinox]]                                         |
-| [[1-Session Journals/2025-08-09 - The Missing Professor\|2025-08-09 - The Missing Professor]]                           |
-| [[1-Session Journals/2025-08-16 - The Joy of Extradimensional Spaces\|2025-08-16 - The Joy of Extradimensional Spaces]] |
-| [[1-Session Journals/2025-08-23 - Cyinth's Dinner Party\|2025-08-23 - Cyinth's Dinner Party]]                           |
-| [[1-Session Journals/2025-08-30 - Back to the Mansion\|2025-08-30 - Back to the Mansion]]                               |
-| [[1-Session Journals/2025-09-06 - Heist the Records Room\|2025-09-06 - Heist the Records Room]]                         |
-| [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             |
-| [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     |
-| [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     |
+| File                                                                                                                       | Status                      | Category                                   | Players |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------ | ------- |
+| [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 8       |
+| [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           | Occurred                    | <ul><li>Academy Event</li></ul>            | 7       |
+| [[1-Session Journals/2025-07-26 - Frog's the Word\|2025-07-26 - Frog's the Word]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 6       |
+| [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]                                                   | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]                                                 | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-08-02 - Autumn Equinox\|2025-08-02 - Autumn Equinox]]                                         | Occurred                    | <ul><li>Academy Event</li></ul>            | 6       |
+| [[1-Session Journals/2025-08-09 - The Missing Professor\|2025-08-09 - The Missing Professor]]                           | Occurred                    | <ul><li>Exams</li><li>Side Quest</li></ul> | 6       |
+| [[1-Session Journals/2025-08-16 - The Joy of Extradimensional Spaces\|2025-08-16 - The Joy of Extradimensional Spaces]] | Occurred                    | <ul><li>Side Quest</li></ul>               | 6       |
+| [[1-Session Journals/2025-08-23 - Cyinth's Dinner Party\|2025-08-23 - Cyinth's Dinner Party]]                           | Occurred                    | <ul><li>Downtime</li></ul>                 | 6       |
+| [[1-Session Journals/2025-08-30 - Back to the Mansion\|2025-08-30 - Back to the Mansion]]                               | Occurred                    | <ul><li>Side Quest</li></ul>               | 7       |
+| [[1-Session Journals/2025-09-06 - Heist the Records Room\|2025-09-06 - Heist the Records Room]]                         | Occurred                    | <ul><li>Main Story</li></ul>               | 7       |
+| [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             | Occurred                    | <ul><li>Exams</li></ul>                    | 7       |
+| [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | Occurred                    | <ul><li>Side Quest</li></ul>               | 5       |
+| [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | Occurred - Writing up Notes | <ul><li>Side Quest</li></ul>               | 8       |
 
 { .block-language-dataview}
