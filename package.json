@@ -13,7 +13,7 @@
     "build:sass": "sass src/site/styles:dist/styles --style compressed",
     "get-theme": "node src/site/get-theme.js",
     "build": "npm-run-all clean:metabind get-theme build:*"
-}
+},
     "keywords": [],
     "author": "",
     "license": "ISC",
