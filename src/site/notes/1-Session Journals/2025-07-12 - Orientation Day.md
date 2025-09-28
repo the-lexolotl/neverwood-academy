@@ -1,24 +1,18 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Orientation Day","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-12","players":8,"OneLiner":"Settling in & Scavenger Hunt","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[2-World/People/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Zoei.md|Zoei]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-12 - Orientation Day.md","permalink":"/session-journals/2025-07-12-orientation-day/","dgPassFrontmatter":true,"updated":"2025-09-28T18:18:36.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Orientation Day","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-12","players":8,"OneLiner":"Settling in & Scavenger Hunt","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[2-World/People/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Zoei.md|Zoei]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-12 - Orientation Day.md","permalink":"/session-journals/2025-07-12-orientation-day/","dgPassFrontmatter":true,"updated":"2025-09-28T18:37:52.000+01:00"}
 ---
 
 
 # Roster 
 
-
-
 [[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]], [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/H'er\|H'er]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]], [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
- 
+
 
 ## Absent
 
-
-
-
- 
+None
 
 # Session Overview
-
 
 **Session Status:**  Occurred
 
@@ -30,6 +24,7 @@
 |   40    |   40    |
 
 ## NPC's
+
 
 [[2-World/Groups/Cohort of 1508\|Cohort of 1508]], [[2-World/People/Taiva Loreweaver\|Taiva Loreweaver]], [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]], [[2-World/People/Zoei\|Zoei]]
 

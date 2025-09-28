@@ -1,25 +1,20 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionAbsent":["[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]"],"sessionNPC":["[[2-World/People/Matreous.md|Matreous]]","[[2-World/People/Losheel.md|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-09-27T18:55:36.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Matreous.md|Matreous]]","[[2-World/People/Losheel.md|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-09-28T18:37:00.000+01:00"}
 ---
 
 
 # Roster 
 
 
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`
- 
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]],  [[1-Party/Group 2/H'er\|H'er]],  [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]],  [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
 ## Absent
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
- 
+[[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]
 
 # Session Overview
 
-**Session Status:** `INPUT[template-session-status][:sessionstatus]`
+**Session Status:** Occurred
 
 ## Group Cup Points
 
@@ -30,7 +25,7 @@
 
 ## NPC's
 
-`INPUT[inlineListSuggester(optionQuery(#Category/People), optionQuery(#Category/Group)):sessionNPC]`
+[[2-World/People/Matreous\|Matreous]], [[2-World/People/Losheel\|Losheel]]
 
 ## Summary
 After the chaos of the Autumn Equinox Feast and the first exams of the term, the students of Neverwood Academy found themselves drawn into a new mystery. A large, ancient tome fell from the library shelves, revealing secrets tied to the disappearance of [[2-World/People/Matreous\|Professor Matreous]] and the enigmatic extradimensional mansion of [[2-World/People/Fistandria\|Fistandria]]. With careful investigation, clever deduction, and a daring entry through a locked office chimney, the party uncovered hidden notebooks, arcane scrolls, and the command word that opened a shimmering doorway into a strange and otherworldly space — a discovery that promised adventures far beyond the familiar campus halls.

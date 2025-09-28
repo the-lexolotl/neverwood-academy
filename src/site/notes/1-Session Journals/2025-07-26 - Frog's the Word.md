@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Frog's the Word","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-26","players":6,"OneLiner":"Giant frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[2-World/People/Cadoras Damellawar.md|Cadoras Damellawar]]","[[2-World/People/Osgir, the Reconstructor.md|Osgir, the Reconstructor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-26 - Frog's the Word.md","permalink":"/session-journals/2025-07-26-frog-s-the-word/","dgPassFrontmatter":true,"updated":"2025-09-27T18:55:26.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Frog's the Word","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-26","players":6,"OneLiner":"Giant frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[2-World/People/Cadoras Damellawar.md|Cadoras Damellawar]]","[[2-World/People/Osgir, the Reconstructor.md|Osgir, the Reconstructor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-26 - Frog's the Word.md","permalink":"/session-journals/2025-07-26-frog-s-the-word/","dgPassFrontmatter":true,"updated":"2025-09-28T18:26:32.000+01:00"}
 ---
 
 
@@ -7,19 +7,18 @@
 
 
 
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`
- 
+[[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] ,  [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]], [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
 ## Absent
 
 
 
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
- 
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]
 
 # Session Overview
 
-**Session Status:** `INPUT[template-session-status][:sessionstatus]`
+
+**Session Status:** Occurred
 
 ## Group Cup Points
 
@@ -30,7 +29,7 @@
 
 ## NPC's
 
-`INPUT[inlineListSuggester(optionQuery(#Category/People)):sessionNPC]`
+[[2-World/People/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]]
 
 ## Summary
 The students of Neverwood settled into their first proper week of academic life, navigating the balance between classes, downtime adventures, and the ever-surprising magic of campus life.

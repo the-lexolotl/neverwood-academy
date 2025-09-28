@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Academy Event"],"fc-display-name":"Freshers Fair","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-19","players":7,"OneLiner":"Freshers Fair and Ochre Jelly","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]"],"sessionNPC":null,"dg-publish":true,"dg-path":"Session Journals/2025-07-19 - Freshers Fair.md","permalink":"/session-journals/2025-07-19-freshers-fair/","dgPassFrontmatter":true,"updated":"2025-09-27T18:55:24.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Academy Event"],"fc-display-name":"Freshers Fair","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-19","players":7,"OneLiner":"Freshers Fair and Ochre Jelly","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]"],"sessionNPC":null,"dg-publish":true,"dg-path":"Session Journals/2025-07-19 - Freshers Fair.md","permalink":"/session-journals/2025-07-19-freshers-fair/","dgPassFrontmatter":true,"updated":"2025-09-28T18:26:54.000+01:00"}
 ---
 
 
@@ -7,19 +7,14 @@
 
 
 
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`
- 
-
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]], [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]], [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 ## Absent
 
 
 
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
- 
-
+[[1-Party/Group 2/H'er\|H'er]]
 # Session Overview
 
-**Session Status:** `INPUT[template-session-status][:sessionstatus]`
 
 ## Group Cup Points
 
@@ -30,7 +25,6 @@
 
 ## NPC's
 
-`INPUT[inlineListSuggester(optionQuery(#Category/People)):sessionNPC]`
 
 ## Summary
 

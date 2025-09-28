@@ -1,25 +1,20 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Academy Event"],"fc-display-name":"Autumn Equinox","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-02","players":6,"OneLiner":"Autumn Equinox and frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionAbsent":["[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 2/H'er.md|H'er]]"],"sessionNPC":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-02 - Autumn Equinox.md","permalink":"/session-journals/2025-08-02-autumn-equinox/","dgPassFrontmatter":true,"updated":"2025-09-27T18:55:34.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Academy Event"],"fc-display-name":"Autumn Equinox","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-02","players":6,"OneLiner":"Autumn Equinox and frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-02 - Autumn Equinox.md","permalink":"/session-journals/2025-08-02-autumn-equinox/","dgPassFrontmatter":true,"updated":"2025-09-28T18:33:20.000+01:00"}
 ---
 
 
 # Roster 
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`
- 
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]], [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]],  [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
 ## Absent
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
- 
+[[1-Party/Group 2/H'er\|H'er]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]
 
 # Session Overview
 
-**Session Status:** `INPUT[template-session-status][:sessionstatus]`
+
+**Session Status:** Occurred
 
 ## Group Cup Points
 
@@ -30,7 +25,7 @@
 
 ## NPC's
 
-`INPUT[inlineListSuggester(optionQuery(#Category/People),optionQuery(#Category/group)):sessionNPC]`
+[[2-World/Groups/Cohort of 1508\|Cohort of 1508]]
 
 ## Summary
 After a tense few weeks of magical mishaps and escalating frog-related chaos, the students of Neverwood Academy gathered for the grand Autumn Equinox Feast — a celebration of the season, the end of the first half of term, and the community they were beginning to build.

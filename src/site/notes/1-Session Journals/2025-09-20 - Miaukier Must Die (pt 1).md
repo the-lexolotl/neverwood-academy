@@ -1,36 +1,30 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"Miaukier Must Die (pt 1)","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-20","players":5,"OneLiner":"Heading on an adventure to find Miaukier","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 2/H'er.md|H'er]]"],"sessionNPC":["[[2-World/People/Theodore Moss.md|Theodore Moss]]","[[2-World/People/Krzrzrgh the Fat-bellied.md|Krzrzrgh the Fat-bellied]]","[[2-World/People/Yedora.md|Yedora]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-20 - Miaukier Must Die (pt 1).md","permalink":"/session-journals/2025-09-20-miaukier-must-die-pt-1/","dgPassFrontmatter":true,"updated":"2025-09-27T18:34:06.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"Miaukier Must Die (pt 1)","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-20","players":5,"OneLiner":"Heading on an adventure to find Miaukier","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Theodore Moss.md|Theodore Moss]]","[[2-World/People/Krzrzrgh the Fat-bellied.md|Krzrzrgh the Fat-bellied]]","[[2-World/People/Yedora.md|Yedora]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-20 - Miaukier Must Die (pt 1).md","permalink":"/session-journals/2025-09-20-miaukier-must-die-pt-1/","dgPassFrontmatter":true,"updated":"2025-09-28T18:50:58.000+01:00"}
 ---
 
 
 # Roster 
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`
- 
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] ,  [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]],  [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]],  [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
 ## Absent
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
- 
+[[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]],  [[1-Party/Group 2/H'er\|H'er]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]
 
 # Session Overview
 
-**Session Status:** `INPUT[template-session-status][:sessionstatus]`
+**Session Status:** Occurred
 
 ## Group Cup Points
 
 | Group 1 | Group 2 |
 | :-----: | :-----: |
-|    +    |    +    |
+|  +/-0   |  +/-0   |
 |   290   |   200   |
 
 ## NPC's
 
-`INPUT[inlineListSuggester(optionQuery(#Category/People), optionQuery(#Category/Group)):sessionNPC]`
+[[2-World/People/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]], [[2-World/People/Theodore Moss\|Theodore Moss]], [[2-World/People/Yedora\|Yedora]]
 
 ## Summary
 

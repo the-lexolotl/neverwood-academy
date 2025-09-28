@@ -1,25 +1,19 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams"],"fc-display-name":"Term 2 Exams","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-13","players":7,"OneLiner":"Catching up with homework and term 2 exams","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]"],"sessionNPC":["[[2-World/People/Theodore Moss.md|Theodore Moss]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-13 - Exams & Missing Cats.md","permalink":"/session-journals/2025-09-13-exams-and-missing-cats/","dgPassFrontmatter":true,"updated":"2025-09-27T18:33:58.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams"],"fc-display-name":"Term 2 Exams","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-13","players":7,"OneLiner":"Catching up with homework and term 2 exams","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]"],"sessionNPC":["[[2-World/People/Theodore Moss.md|Theodore Moss]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-13 - Exams & Missing Cats.md","permalink":"/session-journals/2025-09-13-exams-and-missing-cats/","dgPassFrontmatter":true,"updated":"2025-09-28T18:48:14.000+01:00"}
 ---
 
 
 # Roster 
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionRoster]`
- 
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/H'er\|H'er]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]], [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
 ## Absent
 
-
-
-`INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
- 
+[[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]
 
 # Session Overview
 
-**Session Status:** `INPUT[template-session-status][:sessionstatus]`
+**Session Status:** Occurred
 
 ## Group Cup Points
 
@@ -30,7 +24,7 @@
 
 ## NPC's
 
-`INPUT[inlineListSuggester(optionQuery(#Category/People), optionQuery(#Category/Group)):sessionNPC]`
+[[2-World/People/Theodore Moss\|Theodore Moss]]
 
 ## Summary
 
