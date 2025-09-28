@@ -1,21 +1,21 @@
 /* ==============================
    DIGITAL GARDEN FULL THEME
    Brand: Dark Modern
-   Fonts: Distillery Strong (headings), Diphylleia (body)
+   Fonts: Distillery Strong (headings), Diphylliea (body)
    Colors: #323244 (bg), #c5c7c1 (text)
 ============================== */
 
 /* --- Load custom fonts --- */
 @font-face {
     font-family: 'Distillery Strong';
-    src: url('/public/fonts/Distillery Strong (1).otf') format('opentype');
+    src: url('/fonts/DistilleryStrong.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Diphylliea';
-    src: url('/public/fonts/Diphylliea-Regular.ttf') format('truetype');
+    src: url('/fonts/Diphylliea.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@
 body {
     background-color: #323244;
     color: #c5c7c1;
-    font-family: 'Diphylleia', sans-serif;
+    font-family: 'Diphylliea', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0 1em;
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Distillery Strong', serif;
-    color: #c5c7a1;
+    color: #ffffff;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
@@ -58,7 +58,7 @@ a:hover {
 
 /* --- Cards / Notes --- */
 .garden-card, .note-card, .block {
-    background-color: #323244;
+    background-color: #3b3b55;
     border-radius: 12px;
     padding: 1em;
     margin-bottom: 1.5em;
@@ -147,6 +147,7 @@ button:hover, .btn:hover, .tag:hover, .badge:hover {
 p { margin-bottom: 1em; }
 ul, ol { margin-bottom: 1em; padding-left: 1.5em; }
 img { max-width: 100%; border-radius: 8px; }
+
 @media (max-width: 768px) {
     body { padding: 0 0.5em; }
     h1 { font-size: 2em; }
