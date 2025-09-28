@@ -5,6 +5,21 @@
    Colors: #323244 (bg), #c5c7c1 (text)
 ============================== */
 
+/* --- Load custom fonts --- */
+@font-face {
+    font-family: 'Distillery Strong';
+    src: url('/fonts/DistilleryStrong.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Diphylliea';
+    src: url('/fonts/Diphylliea.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* --- Base Body & Fonts --- */
 body {
     background-color: #323244;
