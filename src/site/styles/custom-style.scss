@@ -1,11 +1,12 @@
 /* ==============================
    DIGITAL GARDEN FULL THEME
    Brand: Dark Modern
-   Fonts: Distillery Strong (headings), Diphylliea (body)
-   Colors: #323244 (bg), #c5c7c1 (text)
+   Text Color: #c5c7a1 everywhere
+   Background: #323244
+   Fonts: Distillery Strong (headings), Diphylleia (body)
 ============================== */
 
-/* --- Load Diphylliea via @import --- */
+/* --- Load Diphylleia via @import --- */
 @import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
 
 /* --- Load Distillery Strong via self-hosted .woff2 --- */
@@ -20,7 +21,7 @@
 body {
     font-family: 'Diphylleia', sans-serif;
     background-color: #323244;
-    color: #c5c7a1;
+    color: #c5c7a1 !important;
     line-height: 1.6;
     margin: 0;
     padding: 0 1em;
@@ -28,8 +29,8 @@ body {
 
 /* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Distillery Strong', serif;
-    color: #c5c7a1;
+    font-family: 'Distillery Strong', cursive;
+    color: #c5c7a1 !important;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
@@ -41,20 +42,24 @@ h4 { font-size: 1.5em; }
 h5 { font-size: 1.25em; }
 h6 { font-size: 1em; }
 
+/* --- Force all text elements to brand color --- */
+body, p, span, a, li, blockquote, code, pre, input, textarea, button, label, td, th {
+    color: #c5c7a1 !important;
+}
+
 /* --- Links --- */
 a {
-    color: #c5c7a1;
     text-decoration: underline dotted;
     transition: color 0.3s ease;
 }
 a:hover {
-    color: #c5c7a1;
+    color: #ffffff !important;
     text-decoration: underline solid;
 }
 
 /* --- Cards / Notes --- */
 .garden-card, .note-card, .block {
-    background-color: #323244;
+    background-color: #3b3b55;
     border-radius: 12px;
     padding: 1em;
     margin-bottom: 1.5em;
@@ -68,8 +73,8 @@ a:hover {
 
 /* --- Code Blocks --- */
 pre, code {
-    background-color: #323244;
-    color: #c5c7a1;
+    background-color: #2a2a3a;
+    color: #c5c7a1 !important;
     padding: 0.5em 0.75em;
     border-radius: 6px;
     font-family: monospace;
@@ -78,24 +83,24 @@ pre, code {
 pre { margin-bottom: 1em; }
 
 /* --- Inline Inputs --- */
-input, .inline-input {
-    background-color: #323244;
-    color: #c5c7a1;
-    border: 1px solid #c5c7a1;
+input, .inline-input, textarea {
+    background-color: #454565;
+    border: 1px solid #56567a;
     border-radius: 6px;
     padding: 0.25em 0.5em;
     font-family: 'Diphylleia', sans-serif;
+    color: #c5c7a1 !important;
 }
 
 /* --- Blockquotes & Callouts --- */
 blockquote, .callout {
-    border-left: 4px solid #c5c7a1;
+    border-left: 4px solid #5c5ca0;
     padding-left: 1em;
-    color: #c5c7a1;
     font-style: italic;
     margin: 1em 0;
-    background-color: #323244;
+    background-color: #2f2f4f;
     border-radius: 6px;
+    color: #c5c7a1 !important;
 }
 
 /* --- Tables --- */
@@ -107,39 +112,14 @@ table {
 th, td {
     border: 1px solid #56567a;
     padding: 0.5em 1em;
+    color: #c5c7a1 !important;
 }
-th { background-color: #323244; }
+th { background-color: #3b3b55; }
 tr:nth-child(even) { background-color: #323244; }
 
 /* --- Buttons / Tags / Badges --- */
 button, .btn, .tag, .badge {
-    background-color: #323244;
-    color: #c5c7a1;
+    background-color: #5c5ca0;
+    color: #c5c7a1 !important;
     border: none;
-    border-radius: 6px;
-    padding: 0.3em 0.8em;
-    font-size: 0.9em;
-    cursor: pointer;
-    transition: background-color 0.2s ease, transform 0.2s ease;
-}
-button:hover, .btn:hover, .tag:hover, .badge:hover {
-    background-color: #323244;
-    transform: translateY(-2px);
-}
-
-/* --- Misc Spacing & Responsiveness --- */
-p { margin-bottom: 1em; }
-ul, ol { margin-bottom: 1em; padding-left: 1.5em; }
-img { max-width: 100%; border-radius: 8px; }
-
-@media (max-width: 768px) {
-    body { padding: 0 0.5em; }
-    h1 { font-size: 2em; }
-    h2 { font-size: 1.75em; }
-    h3 { font-size: 1.5em; }
-}
-
-/* --- Smooth Transitions --- */
-* {
-    transition: color 0.0s ease, background-color 0.2s ease;
-}
+    border-rad
