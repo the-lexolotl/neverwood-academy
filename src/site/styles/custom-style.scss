@@ -5,20 +5,9 @@
    Colors: #323244 (bg), #c5c7c1 (text)
 ============================== */
 
-/* --- Load custom fonts --- */
-@font-face {
-    font-family: 'Distillery Strong';
-    src: url('/fonts/DistilleryStrong.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
+/* --- Load Diphylliea via embed --- */
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap'); /* Replace with actual embed URL */
 
-@font-face {
-    font-family: 'Diphylliea';
-    src: url('/fonts/Diphylliea.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 
 /* --- Base Body & Fonts --- */
 body {
