@@ -17,7 +17,7 @@
 >> ![group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png)
 >
 >> [!note|div-m] Group 1
->> ~~~
+>> ~~~meta-bind
 >> INPUT[select(
 >> option(1, ℹ️General),
 >> option(2, ⁉️Goals),
@@ -39,7 +39,7 @@
 
 
 > [!NOTE|no-title]
-> ~~~
+> ~~~meta-bind
 > INPUT[select(
 > option(1, 🔗People),
 > option(2, 🔗Hierarchy),
