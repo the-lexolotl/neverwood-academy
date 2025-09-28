@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-28T16:05:04.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-28T19:37:08.000+01:00"}
 ---
 
 
@@ -11,12 +11,10 @@
 | File                                                                |
 | ------------------------------------------------------------------- |
 | [[1-Party/Group 1/Atudark\|Atudark]]                             |
-| [[1-Party/Group 1/Group 1\|Group 1]]                             |
 | [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] |
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   |
-| [[1-Party/Group 2/Group 2\|Group 2]]                             |
 | [[1-Party/Group 2/H'er\|H'er]]                                   |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]           |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]               |

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Galaxy"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","dg-publish":true,"dg-path":"World/Galaxies/Prime Material plane.md","permalink":"/world/galaxies/prime-material-plane/","dgPassFrontmatter":true,"updated":"2025-09-28T19:23:22.000+01:00"}
+{"tags":["Category/Galaxy"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","dg-publish":true,"dg-path":"World/Galaxies/Prime Material plane.md","permalink":"/world/galaxies/prime-material-plane/","dgPassFrontmatter":true,"updated":"2025-09-28T20:07:42.000+01:00"}
 ---
 
 
