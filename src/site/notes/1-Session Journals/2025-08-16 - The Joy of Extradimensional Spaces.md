@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"The Joy of Extradimensional Spaces","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-16","players":6,"OneLiner":"Exploring the extradimensional mansion","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Matreous.md|Matreous]]","[[2-World/People/Coriander.md|Coriander]]","[[2-World/People/Cumin.md|Cumin]]","[[2-World/People/Fistandria.md|Fistandria]]","[[2-World/People/Plargg.md|Plargg]]","[[2-World/People/Augusta Tullus.md|Augusta Tullus]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-16 - The Joy of Extradimensional Spaces.md","permalink":"/session-journals/2025-08-16-the-joy-of-extradimensional-spaces/","dgPassFrontmatter":true,"updated":"2025-09-28T18:46:20.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"The Joy of Extradimensional Spaces","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-16","players":6,"OneLiner":"Exploring the extradimensional mansion","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Matreous.md|Matreous]]","[[2-World/People/Coriander.md|Coriander]]","[[2-World/People/Cumin.md|Cumin]]","[[2-World/People/Fistandria.md|Fistandria]]","[[2-World/People/Plargg.md|Plargg]]","[[2-World/People/Augusta Tullus.md|Augusta Tullus]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-16 - The Joy of Extradimensional Spaces.md","permalink":"/session-journals/2025-08-16-the-joy-of-extradimensional-spaces/","dgPassFrontmatter":true,"updated":"2025-09-28T19:10:38.000+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 | Group 1 | Group 2 |
 | :-----: | :-----: |
-|  +/-0   |  +/-0   |
+|  +/- 0  |  +/- 0  |
 |   280   |   190   |
 
 ## NPC's
