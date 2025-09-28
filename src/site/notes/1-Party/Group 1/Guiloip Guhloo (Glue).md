@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cameron","Glue"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Fantastical Horticulture Club.md|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Guiloip Guhloo (Glue).md","permalink":"/party/group-1/guiloip-guhloo-glue/","dgPassFrontmatter":true,"updated":"2025-09-28T21:50:42.000+01:00"}
+{"aliases":["Cameron","Glue"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[2-World/Groups/Fantastical Horticulture Club.md|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Guiloip Guhloo (Glue).md","permalink":"/party/group-1/guiloip-guhloo-glue/","dgPassFrontmatter":true,"updated":"2025-09-28T22:09:10.000+01:00"}
 ---
 
 
@@ -11,15 +11,15 @@
 | Stat     | Value       |
 | -------- | ----------- |
 | Status   | Alive       |
-| Race     | Yuan-Ti     |
-| Class    | Warlock     |
+| Race     | Triton      |
+| Class    | Druid       |
 | Level    | 2           |
 | Gender   | Male        |
 | Age      | Young Adult |
-| HP       | 13          |
-| Max HP   | 13          |
-| AC       | 9           |
-| Modifier | -1          |
+| HP       | 11          |
+| Max HP   | 11          |
+| AC       | 12          |
+| Modifier | +1          |
 | College  | Witherbloom |
 
 # Description
