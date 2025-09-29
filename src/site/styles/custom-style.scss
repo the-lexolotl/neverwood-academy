@@ -30,17 +30,22 @@ body {
 /* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Distillery Strong', cursive !important;
-    color: #a2a384 !important;
+    color: #9b9d79 !important; /* darker than #a2a384 */
     margin-top: 1.5em;
     margin-bottom: 0.5em;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
 }
 
-h1 { font-size: 3.5em; }
-h2 { font-size: 3em; }
-h3 { font-size: 2.75em; }
-h4 { font-size: 2.5em; }
-h5 { font-size: 2.25em; }
-h6 { font-size: 2em; }
+/* Bigger sizes */
+h1 { font-size: 4em; }
+h2 { font-size: 3.5em; }
+h3 { font-size: 3em; }
+h4 { font-size: 2.75em; }
+h5 { font-size: 2.5em; }
+h6 { font-size: 2.25em; }
+
 
 /* --- Force all text elements to brand color --- */
 body, p, span, a, li, blockquote, code, pre, input, textarea, button, label, td, th {
