@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Encounter","obsidianUIMode":"preview","image":"Free - Strixhaven Stadium - summer day - 4096x4096 - 64x64 - 64px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Stadium.md","permalink":"/world/points-of-interest/neverwood-stadium/","dgPassFrontmatter":true,"updated":"2025-09-29T15:20:54.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Encounter","obsidianUIMode":"preview","image":"Free - Strixhaven Stadium - summer day - 4096x4096 - 64x64 - 64px - grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/neverwood-stadium/","dgPassFrontmatter":true,"updated":"2025-09-29T15:20:54.000+01:00"}
 ---
 
 

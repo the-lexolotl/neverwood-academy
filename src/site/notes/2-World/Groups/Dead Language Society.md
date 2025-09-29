@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dead Language Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":"History","dg-publish":true,"dg-path":"World/Groups/Dead Language Society.md","permalink":"/world/groups/dead-language-society/","dgPassFrontmatter":true,"updated":"2025-09-29T12:27:40.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dead Language Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":"History","dg-publish":true,"permalink":"/2-world/groups/dead-language-society/","dgPassFrontmatter":true,"updated":"2025-09-29T12:27:40.000+01:00"}
 ---
 
 

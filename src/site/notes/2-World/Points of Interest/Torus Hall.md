@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Torus Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Torus Hall.md","permalink":"/world/points-of-interest/torus-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:34:36.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Torus Hall.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/torus-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:34:36.000+01:00"}
 ---
 
 

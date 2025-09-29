@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace.md|Realmspace]]","image":"Template_Planet_Placeholder.png","dg-publish":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgPassFrontmatter":true,"updated":"2025-09-28T20:10:24.000+01:00"}
+{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace.md|Realmspace]]","image":"Template_Planet_Placeholder.png","dg-publish":true,"permalink":"/2-world/planets/toril/","dgPassFrontmatter":true,"updated":"2025-09-28T20:10:24.000+01:00"}
 ---
 
 

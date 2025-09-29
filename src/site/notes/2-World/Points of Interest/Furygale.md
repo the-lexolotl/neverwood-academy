@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Furygale - 32x40 - 3200x4000 - light - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Furygale.md","permalink":"/world/points-of-interest/furygale/","dgPassFrontmatter":true,"updated":"2025-09-29T15:15:28.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Furygale - 32x40 - 3200x4000 - light - grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/furygale/","dgPassFrontmatter":true,"updated":"2025-09-29T15:15:28.000+01:00"}
 ---
 
 

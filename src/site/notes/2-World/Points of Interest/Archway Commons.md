@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Archway Commons - Day - 4000x4000 - 40x40 - 100px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Archway Commons.md","permalink":"/world/points-of-interest/archway-commons/","dgPassFrontmatter":true,"updated":"2025-09-29T14:48:14.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Archway Commons - Day - 4000x4000 - 40x40 - 100px - grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/archway-commons/","dgPassFrontmatter":true,"updated":"2025-09-29T14:48:14.000+01:00"}
 ---
 
 

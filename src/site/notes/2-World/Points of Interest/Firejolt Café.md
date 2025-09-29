@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Firejolt Cafe.webp","dg-publish":true,"dg-path":"World/Points of Interest/Firejolt Café.md","permalink":"/world/points-of-interest/firejolt-cafe/","dgPassFrontmatter":true,"updated":"2025-09-29T15:13:14.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Firejolt Cafe.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/firejolt-cafe/","dgPassFrontmatter":true,"updated":"2025-09-29T15:13:14.000+01:00"}
 ---
 
 

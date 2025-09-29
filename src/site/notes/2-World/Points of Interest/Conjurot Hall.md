@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Conjorot Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Conjurot Hall.md","permalink":"/world/points-of-interest/conjurot-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:07:10.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Conjorot Hall.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/conjurot-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:07:10.000+01:00"}
 ---
 
 

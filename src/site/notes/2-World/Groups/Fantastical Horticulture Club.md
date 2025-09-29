@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Horticulture.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Nature","Skill2":"Survival","dg-publish":true,"dg-path":"World/Groups/Fantastical Horticulture Club.md","permalink":"/world/groups/fantastical-horticulture-club/","dgPassFrontmatter":true,"updated":"2025-09-29T12:39:34.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Horticulture.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Nature","Skill2":"Survival","dg-publish":true,"permalink":"/2-world/groups/fantastical-horticulture-club/","dgPassFrontmatter":true,"updated":"2025-09-29T12:39:34.000+01:00"}
 ---
 
 

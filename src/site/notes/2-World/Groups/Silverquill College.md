@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-path":"World/Groups/Silverquill College.md","permalink":"/world/groups/silverquill-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:25:04.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"permalink":"/2-world/groups/silverquill-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:25:04.000+01:00"}
 ---
 
 

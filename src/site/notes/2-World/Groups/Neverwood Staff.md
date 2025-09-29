@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Magic Academy","image":"Staff.png","obsidianUIMode":"preview","oracle":["Pythia"],"headteacher":["Taiva Loreweaver"],"deans":null,"staff":null,"faction":null,"primary_contact":"John Doe","benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-path":"World/Groups/Neverwood Staff.md","permalink":"/world/groups/neverwood-staff/","dgPassFrontmatter":true,"updated":"2025-09-29T13:30:10.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Magic Academy","image":"Staff.png","obsidianUIMode":"preview","oracle":["Pythia"],"headteacher":["Taiva Loreweaver"],"deans":null,"staff":null,"faction":null,"primary_contact":"John Doe","benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"permalink":"/2-world/groups/neverwood-staff/","dgPassFrontmatter":true,"updated":"2025-09-29T13:30:10.000+01:00"}
 ---
 
 

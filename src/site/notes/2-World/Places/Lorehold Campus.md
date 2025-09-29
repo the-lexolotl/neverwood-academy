@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.2-lorehold-campus.jpg","dg-publish":true,"dg-path":"World/Places/Lorehold Campus.md","permalink":"/world/places/lorehold-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:27:38.000+01:00"}
+{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.2-lorehold-campus.jpg","dg-publish":true,"permalink":"/2-world/places/lorehold-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:27:38.000+01:00"}
 ---
 
 

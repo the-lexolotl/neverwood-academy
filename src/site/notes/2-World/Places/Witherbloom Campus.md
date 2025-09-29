@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.6-witherbloom-campus.jpg","dg-publish":true,"dg-path":"World/Places/Witherbloom Campus.md","permalink":"/world/places/witherbloom-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:39:00.000+01:00"}
+{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.6-witherbloom-campus.jpg","dg-publish":true,"permalink":"/2-world/places/witherbloom-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:39:00.000+01:00"}
 ---
 
 

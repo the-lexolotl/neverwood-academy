@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Bow's End Tavern.webp","dg-publish":true,"dg-path":"World/Points of Interest/Bow's End Tavern.md","permalink":"/world/points-of-interest/bow-s-end-tavern/","dgPassFrontmatter":true,"updated":"2025-09-29T15:05:18.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Bow's End Tavern.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/bow-s-end-tavern/","dgPassFrontmatter":true,"updated":"2025-09-29T15:05:18.000+01:00"}
 ---
 
 

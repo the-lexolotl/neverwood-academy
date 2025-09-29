@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Sedgemoor  - Day - 3000x4000 - 30x40 - 100px - Grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Sedgemoor.md","permalink":"/world/points-of-interest/sedgemoor/","dgPassFrontmatter":true,"updated":"2025-09-29T15:26:38.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Sedgemoor  - Day - 3000x4000 - 30x40 - 100px - Grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/sedgemoor/","dgPassFrontmatter":true,"updated":"2025-09-29T15:26:38.000+01:00"}
 ---
 
 

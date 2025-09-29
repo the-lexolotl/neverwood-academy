@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Cu;tivarium.webp","dg-publish":true,"dg-path":"World/Points of Interest/The Cultivarium.md","permalink":"/world/points-of-interest/the-cultivarium/","dgPassFrontmatter":true,"updated":"2025-09-29T15:30:06.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Cu;tivarium.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/the-cultivarium/","dgPassFrontmatter":true,"updated":"2025-09-29T15:30:06.000+01:00"}
 ---
 
 

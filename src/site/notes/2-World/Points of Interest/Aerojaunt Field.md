@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Aerojaunt Field - 48x64 - 3072x4096 - 64px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Aerojaunt Field.md","permalink":"/world/points-of-interest/aerojaunt-field/","dgPassFrontmatter":true,"updated":"2025-09-29T14:45:32.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Aerojaunt Field - 48x64 - 3072x4096 - 64px - grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/aerojaunt-field/","dgPassFrontmatter":true,"updated":"2025-09-29T14:45:32.000+01:00"}
 ---
 
 
