@@ -95,7 +95,6 @@ This is the places description.
 | [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     |
 | [[2-World/People/Pythia\|Pythia]]                                                         |
 | [[2-World/People/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] |
-| [[2-World/People/Reymous Dapplewing\|Reymous Dapplewing]]                                 |
 | [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                         |
 | [[2-World/People/Rixy\|Rixy]]                                                             |
 | [[2-World/People/Rock\|Rock]]                                                             |
@@ -149,6 +148,7 @@ This is the places description.
 | [[2-World/People/Pebble\|Pebble]]                                                         |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
+| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                 |
 
 { .block-language-dataview}
 

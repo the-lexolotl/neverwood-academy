@@ -67,7 +67,6 @@ The following people are members of this group.
 | [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | Giant                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Plargg\|Plargg]]                                     | Orc                    | Male       | Lorehold    | College Dean               |
 | [[2-World/People/Pythia\|Pythia]]                                     | Human                  | Female     | None        | Oracle                     |
-| [[2-World/People/Reymous Dapplewing\|Reymous Dapplewing]]             | Owlin                  | Male       | Lorehold    | Veteran                    |
 | [[2-World/People/Riri Brighteye\|Riri Brighteye]]                     | Owlin                  | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
@@ -98,5 +97,6 @@ The following people are members of this group.
 | [[2-World/People/Zaffai\|Zaffai]]                                     | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Zaph\|Zaph]]                                         | Air Genasi             | FtM        | Prismari    | Professor of Perfection    |
 | [[2-World/People/Zoei\|Zoei]]                                         | Satyr                  | Female     | None        | Student Life Administrator |
+| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]             | Owlin                  | Male       | Lorehold    | Veteran                    |
 
 { .block-language-dataview}

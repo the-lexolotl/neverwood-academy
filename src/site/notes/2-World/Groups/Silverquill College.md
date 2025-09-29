@@ -50,7 +50,6 @@ The following people are members of this group.
 | [[2-World/People/Luc Brandford\|Luc Brandford]]               | Human    | Male       | Professor of Shadow   |
 | [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]]       | Owlin    | Female     | Professor of Radience |
 | [[2-World/People/Nils\|Nils]]                                 | Human    | Male       | Professor of Radience |
-| [[2-World/People/Reymous Dapplewing\|Reymous Dapplewing]]     | Owlin    | Male       | Veteran               |
 | [[2-World/People/Sace Solindiel\|Sace Solindiel]]             | Half-Elf | Female     | Professor of Radience |
 | [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]   | Dragon   | Male       | Founder Dragon        |
 | [[2-World/People/Shaile Talonrook\|Shaile Talonrook]]         | Owlin    | Female     | College Dean          |
@@ -61,5 +60,6 @@ The following people are members of this group.
 | [[2-World/People/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]       | Aasimar  | Female     | Student               |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
+| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]     | Owlin    | Male       | Veteran               |
 
 { .block-language-dataview}
