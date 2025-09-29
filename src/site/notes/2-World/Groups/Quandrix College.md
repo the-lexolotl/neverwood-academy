@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.4-quandrix-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":"John Doe","founder":["Tanazir Quandrix"],"deans":["Kianne","Imbraham"],"staff":["Adrix","Nev","Deekah","Bildra Forheim","Clem Greenthumb","Jazzack Quickfood","Ronald Rothton","Rixy"],"dg-publish":true,"permalink":"/2-world/groups/quandrix-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:22:26.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.4-quandrix-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":"John Doe","founder":["Tanazir Quandrix"],"deans":["Kianne","Imbraham"],"staff":["Adrix","Nev","Deekah","Bildra Forheim","Clem Greenthumb","Jazzack Quickfood","Ronald Rothton","Rixy"],"dg-publish":true,"dg-path":"World/Groups/Quandrix College.md","permalink":"/world/groups/quandrix-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:22:26.000+01:00"}
 ---
 
 

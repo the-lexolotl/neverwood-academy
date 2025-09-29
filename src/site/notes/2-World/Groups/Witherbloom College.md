@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"permalink":"/2-world/groups/witherbloom-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:27:06.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"dg-path":"World/Groups/Witherbloom College.md","permalink":"/world/groups/witherbloom-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:27:06.000+01:00"}
 ---
 
 
