@@ -9,13 +9,8 @@
 /* --- Load Diphylleia via @import --- */
 @import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
 
-/* --- Load Distillery Strong via self-hosted .woff2 --- */
-@font-face {
-    font-family: 'Distillery Strong';
-    src: url('/fonts/DistilleryStrong.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
+/* --- Load fonts via Google Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Metamorphous&display=swap');
 
 /* --- Base body --- */
 body {
@@ -29,8 +24,8 @@ body {
 
 /* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Distillery Strong', cursive !important;
-    color: #9b9d79 !important; /* darker than #a2a384 */
+    font-family: 'Metamorphous', cursive !important;
+    color: #9b9d79 !important; /* slightly darker */
     margin-top: 1.5em;
     margin-bottom: 0.5em;
     text-decoration: underline;
