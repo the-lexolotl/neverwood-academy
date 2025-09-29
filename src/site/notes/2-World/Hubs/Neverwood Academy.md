@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"dg-path":"Hubs/Neverwood Academy.md","permalink":"/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-09-28T20:37:32.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"permalink":"/2-world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-09-28T20:37:32.000+01:00"}
 ---
 
 
