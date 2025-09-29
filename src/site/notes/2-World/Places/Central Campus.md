@@ -24,7 +24,6 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
 | [[2-World/People/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
 | [[2-World/People/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
-| [[2-World/People/Ellena Tanglewood\|Ellena Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
 | [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
@@ -38,6 +37,7 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling               | Female | Applicant                  |
 | [[2-World/People/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
+| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 
 { .block-language-dataview}
 

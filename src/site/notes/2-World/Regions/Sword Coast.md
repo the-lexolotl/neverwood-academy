@@ -23,9 +23,9 @@ Make notes of what you need to track in the region here.
 
 | File                                                     |
 | -------------------------------------------------------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]]             |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]         |
 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]             |
 
 { .block-language-dataview}
 

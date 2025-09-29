@@ -46,7 +46,6 @@ This is the places description.
 | [[2-World/People/Dramitia\|Dramitia]]                                                     |
 | [[2-World/People/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   |
 | [[2-World/People/Elandra Stormwhisper\|Elandra Stormwhisper]]                             |
-| [[2-World/People/Ellena Tanglewood\|Ellena Tanglewood]]                                   |
 | [[2-World/People/Elowen Quickwhisper\|Elowen Quickwhisper]]                               |
 | [[2-World/People/Embrose Lu\|Embrose Lu]]                                                 |
 | [[2-World/People/Emeline Redstream\|Emeline Redstream]]                                   |
@@ -149,6 +148,7 @@ This is the places description.
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
 | [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                 |
+| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]                                   |
 
 { .block-language-dataview}
 

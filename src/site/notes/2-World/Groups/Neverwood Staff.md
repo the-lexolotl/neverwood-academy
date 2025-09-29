@@ -38,7 +38,6 @@ The following people are members of this group.
 | [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]                   | Half-Bullywug          | Male       | Witherbloom | Alumni                     |
 | [[2-World/People/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Dramitia\|Dramitia]]                                 | Tiefling               | Female     | None        | Coach                      |
-| [[2-World/People/Ellena Tanglewood\|Ellena Tanglewood]]               | Elf                    | Female     | None        | Cafe Manager               |
 | [[2-World/People/Embrose Lu\|Embrose Lu]]                             | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Fain\|Fain]]                                         | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
@@ -98,5 +97,6 @@ The following people are members of this group.
 | [[2-World/People/Zaph\|Zaph]]                                         | Air Genasi             | FtM        | Prismari    | Professor of Perfection    |
 | [[2-World/People/Zoei\|Zoei]]                                         | Satyr                  | Female     | None        | Student Life Administrator |
 | [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]             | Owlin                  | Male       | Lorehold    | Veteran                    |
+| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]               | Elf                    | Female     | None        | Cafe Manager               |
 
 { .block-language-dataview}
