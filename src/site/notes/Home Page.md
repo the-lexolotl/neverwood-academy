@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-29T16:31:22.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-29T16:35:52.000+01:00"}
 ---
 
 
@@ -24,8 +24,8 @@
 # Session Journals
 | File                                                                                                                       | Status                      | Category                                   | Players |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------ | ------- |
-| [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           | Occurred                    | <ul><li>Academy Event</li></ul>            | 7       |
 | [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 8       |
+| [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           | Occurred                    | <ul><li>Academy Event</li></ul>            | 7       |
 | [[1-Session Journals/2025-07-26 - Frog's the Word\|2025-07-26 - Frog's the Word]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 6       |
 | [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]                                                   | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
 | [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]                                                 | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
@@ -36,7 +36,7 @@
 | [[1-Session Journals/2025-08-30 - Back to the Mansion\|2025-08-30 - Back to the Mansion]]                               | Occurred                    | <ul><li>Side Quest</li></ul>               | 7       |
 | [[1-Session Journals/2025-09-06 - Heist the Records Room\|2025-09-06 - Heist the Records Room]]                         | Occurred                    | <ul><li>Main Story</li></ul>               | 7       |
 | [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             | Occurred                    | <ul><li>Exams</li></ul>                    | 7       |
-| [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | Occurred - Writing up Notes | <ul><li>Side Quest</li></ul>               | 8       |
 | [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | Occurred                    | <ul><li>Side Quest</li></ul>               | 5       |
+| [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | Occurred - Writing up Notes | <ul><li>Side Quest</li></ul>               | 8       |
 
 { .block-language-dataview}
