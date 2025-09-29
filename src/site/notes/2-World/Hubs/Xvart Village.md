@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgPassFrontmatter":true,"updated":"2025-09-28T20:57:44.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-path":"Hubs/Xvart Village.md","permalink":"/hubs/xvart-village/","dgPassFrontmatter":true,"updated":"2025-09-28T20:57:44.000+01:00"}
 ---
 
 

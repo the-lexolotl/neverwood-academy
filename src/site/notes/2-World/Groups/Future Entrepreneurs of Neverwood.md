@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Future Entrepreneurs.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Insight","Skill2":"Persuasion","dg-publish":true,"dg-path":"World/Groups/Future Entrepreneurs of Neverwood.md","permalink":"/world/groups/future-entrepreneurs-of-neverwood/","dgPassFrontmatter":true,"updated":"2025-09-29T12:41:46.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Future Entrepreneurs.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Insight","Skill2":"Persuasion","dg-publish":true,"permalink":"/2-world/groups/future-entrepreneurs-of-neverwood/","dgPassFrontmatter":true,"updated":"2025-09-29T12:41:46.000+01:00"}
 ---
 
 

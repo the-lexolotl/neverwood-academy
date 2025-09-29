@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Pasted image 20250914220527.png","dg-publish":true,"dg-path":"World/Regions/Sword Coast.md","permalink":"/world/regions/sword-coast/","dgPassFrontmatter":true,"updated":"2025-09-28T20:19:56.000+01:00"}
+{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Pasted image 20250914220527.png","dg-publish":true,"permalink":"/2-world/regions/sword-coast/","dgPassFrontmatter":true,"updated":"2025-09-28T20:19:56.000+01:00"}
 ---
 
 
