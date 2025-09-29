@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"LARP.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Animal Handling","Skill2":"Performance","dg-publish":true,"permalink":"/2-world/groups/live-action-roleplaying-guild/","dgPassFrontmatter":true,"updated":"2025-09-29T12:54:12.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"LARP.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Animal Handling","Skill2":"Performance","dg-publish":true,"dg-path":"World/Groups/Live-Action Roleplaying Guild.md","permalink":"/world/groups/live-action-roleplaying-guild/","dgPassFrontmatter":true,"updated":"2025-09-29T12:54:12.000+01:00"}
 ---
 
 
@@ -39,8 +39,8 @@ The following people are members of this group.
 | File                                                                       | Race       | Gender | College     |
 | -------------------------------------------------------------------------- | ---------- | ------ | ----------- |
 | [[2-World/People/Cadoras Damellawar\|Cadoras Damellawar]]               | Elf        | Male   | Quandrix    |
-| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                         | Owlin      | Female | Quandrix    |
 | [[2-World/People/Dorian Wavecrest\|Dorian Wavecrest]]                   | Triton     | Male   | Prismari    |
+| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                         | Owlin      | Female | Quandrix    |
 | [[2-World/People/Orion Duskmantle\|Orion Duskmantle]]                   | Shadar-Kai | Male   | Silverquill |
 | [[2-World/People/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Gnome      | Female | Lorehold    |
 

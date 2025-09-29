@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"permalink":"/2-world/hubs/xvart-village/","dgPassFrontmatter":true,"updated":"2025-09-28T20:57:44.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgPassFrontmatter":true,"updated":"2025-09-29T16:02:56.000+01:00"}
 ---
 
 
@@ -7,16 +7,18 @@
 # General
 
 **Region:** [[2-World/Regions/Sword Coast\|Sword Coast]]
+
 **Category:** Village (+80)
 
+### Description
 This is the town description. 
 
 # NPCs
 
 
-| File                                                                     |
-| ------------------------------------------------------------------------ |
-| [[2-World/People/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] |
+| File                                                                     | Race  | Gender     | Role  |
+| ------------------------------------------------------------------------ | ----- | ---------- | ----- |
+| [[2-World/People/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart | Non-binary | Other |
 
 { .block-language-dataview}
 

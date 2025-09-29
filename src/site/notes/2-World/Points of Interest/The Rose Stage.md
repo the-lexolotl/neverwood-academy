@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Rose Stage.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/the-rose-stage/","dgPassFrontmatter":true,"updated":"2025-09-29T15:33:04.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Rose Stage.webp","dg-publish":true,"dg-path":"World/Points of Interest/The Rose Stage.md","permalink":"/world/points-of-interest/the-rose-stage/","dgPassFrontmatter":true,"updated":"2025-09-29T15:33:04.000+01:00"}
 ---
 
 

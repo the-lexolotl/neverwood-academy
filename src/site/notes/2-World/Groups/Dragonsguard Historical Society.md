@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"DragonsGuard Historical Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"History","dg-publish":true,"permalink":"/2-world/groups/dragonsguard-historical-society/","dgPassFrontmatter":true,"updated":"2025-09-29T12:37:20.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"DragonsGuard Historical Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"History","dg-publish":true,"dg-path":"World/Groups/Dragonsguard Historical Society.md","permalink":"/world/groups/dragonsguard-historical-society/","dgPassFrontmatter":true,"updated":"2025-09-29T12:37:20.000+01:00"}
 ---
 
 

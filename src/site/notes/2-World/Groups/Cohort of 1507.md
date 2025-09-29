@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1507.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"permalink":"/2-world/groups/cohort-of-1507/","dgPassFrontmatter":true,"updated":"2025-09-29T12:19:06.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1507.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-path":"World/Groups/Cohort of 1507.md","permalink":"/world/groups/cohort-of-1507/","dgPassFrontmatter":true,"updated":"2025-09-29T12:19:06.000+01:00"}
 ---
 
 
@@ -23,8 +23,8 @@ The following people are members of this group.
 | [[2-World/People/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg      | Female     | Lorehold    |
 | [[2-World/People/Dain Montagu\|Dain Montagu]]                                   | Aasimar      | Male       | Prismari    |
 | [[2-World/People/Derthag Shadowslayer\|Derthag Shadowslayer]]                   | Orc          | Non-binary | Prismari    |
-| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                                 | Owlin        | Female     | Quandrix    |
 | [[2-World/People/Dorian Wavecrest\|Dorian Wavecrest]]                           | Triton       | Male       | Prismari    |
+| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                                 | Owlin        | Female     | Quandrix    |
 | [[2-World/People/Drazhomir Yarnask\|Drazhomir Yarnask]]                         | Minotaur     | Male       | Quandrix    |
 | [[2-World/People/Elowen Quickwhisper\|Elowen Quickwhisper]]                     | Halfling     | Female     | Quandrix    |
 | [[2-World/People/Emeline Redstream\|Emeline Redstream]]                         | Loxodon      | Female     | Prismari    |
@@ -47,12 +47,12 @@ The following people are members of this group.
 | [[2-World/People/Mina Lee\|Mina Lee]]                                           | Human        | Female     | Silverquill |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                         | Aasimar      | Female     | Silverquill |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                         | Orc          | Female     | Silverquill |
-| [[2-World/People/Francis Farlight\|Francis Farlight]]                           | Human        | Male       | Witherbloom |
 | [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                               | Tiefling     | Male       | Witherbloom |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                                         | Half-Orc     | Female     | Witherbloom |
+| [[2-World/People/Francis Farlight\|Francis Farlight]]                           | Human        | Male       | Witherbloom |
 | [[2-World/People/Pebble\|Pebble]]                                               | Earth Genasi | Non-binary | Witherbloom |
-| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                     | Elf          | Male       | Witherbloom |
+| [[2-World/People/Ivy Drake\|Ivy Drake]]                                         | Half-Orc     | Female     | Witherbloom |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                           | Orc          | Male       | Witherbloom |
+| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                     | Elf          | Male       | Witherbloom |
 
 { .block-language-dataview}
 

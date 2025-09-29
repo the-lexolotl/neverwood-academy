@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Effigy Row.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/effigy-row/","dgPassFrontmatter":true,"updated":"2025-09-29T15:10:32.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Effigy Row.webp","dg-publish":true,"dg-path":"World/Points of Interest/Effigy Row.md","permalink":"/world/points-of-interest/effigy-row/","dgPassFrontmatter":true,"updated":"2025-09-29T15:10:32.000+01:00"}
 ---
 
 

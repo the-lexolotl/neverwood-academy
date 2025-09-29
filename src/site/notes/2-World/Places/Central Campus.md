@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.1-central-campus.jpg","dg-publish":true,"permalink":"/2-world/places/central-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:21:10.000+01:00"}
+{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.1-central-campus.jpg","dg-publish":true,"dg-path":"World/Places/Central Campus.md","permalink":"/world/places/central-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:21:10.000+01:00"}
 ---
 
 
@@ -24,6 +24,7 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
 | [[2-World/People/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
 | [[2-World/People/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
+| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
 | [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
@@ -37,7 +38,6 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling               | Female | Applicant                  |
 | [[2-World/People/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
-| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 
 { .block-language-dataview}
 
@@ -52,8 +52,8 @@ Make notes of what you need to track in the town here.
 | ---------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Firejolt Café\|Firejolt Café]]                           |
-| [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Archway Commons\|Archway Commons]]                       |
+| [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Stadium\|Neverwood Stadium]]                   |
 | [[2-World/Points of Interest/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |

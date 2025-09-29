@@ -10,22 +10,22 @@
 # Players
 | File                                                                | Player   | Level | Class     | Gender | College     |
 | ------------------------------------------------------------------- | -------- | ----- | --------- | ------ | ----------- |
-| [[1-Party/Group 1/Atudark\|Atudark]]                             | Jacob    | 2     | Warlock   | Male   | Witherbloom |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] | Cameron  | 2     | Druid     | Male   | Witherbloom |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         | Theo     | 2     | Druid     | Male   | Witherbloom |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Kristy   | 2     | Monk      | Male   | Quandrix    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   | Catarina | 2     | Artificer | Female | Lorehold    |
 | [[1-Party/Group 2/H'er\|H'er]]                                   | Rain     | 2     | Sorcerer  | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]           | Ross     | 2     | Wizard    | Male   | Quandrix    |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]               | Megan    | 2     | Cleric    | Female | Silverquill |
+| [[1-Party/Group 1/Atudark\|Atudark]]                             | Jacob    | 2     | Warlock   | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] | Cameron  | 2     | Druid     | Male   | Witherbloom |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         | Theo     | 2     | Druid     | Male   | Witherbloom |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Kristy   | 2     | Monk      | Male   | Quandrix    |
 
 { .block-language-dataview}
 
 # Session Journals
 | File                                                                                                                       | Status                      | Category                                   | Players |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------ | ------- |
-| [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 8       |
 | [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           | Occurred                    | <ul><li>Academy Event</li></ul>            | 7       |
+| [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 8       |
 | [[1-Session Journals/2025-07-26 - Frog's the Word\|2025-07-26 - Frog's the Word]]                                       | Occurred                    | <ul><li>Main Story</li></ul>               | 6       |
 | [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]                                                   | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
 | [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]                                                 | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
@@ -36,7 +36,7 @@
 | [[1-Session Journals/2025-08-30 - Back to the Mansion\|2025-08-30 - Back to the Mansion]]                               | Occurred                    | <ul><li>Side Quest</li></ul>               | 7       |
 | [[1-Session Journals/2025-09-06 - Heist the Records Room\|2025-09-06 - Heist the Records Room]]                         | Occurred                    | <ul><li>Main Story</li></ul>               | 7       |
 | [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             | Occurred                    | <ul><li>Exams</li></ul>                    | 7       |
-| [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | Occurred                    | <ul><li>Side Quest</li></ul>               | 5       |
 | [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | Occurred - Writing up Notes | <ul><li>Side Quest</li></ul>               | 8       |
+| [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | Occurred                    | <ul><li>Side Quest</li></ul>               | 5       |
 
 { .block-language-dataview}

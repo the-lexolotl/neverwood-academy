@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"permalink":"/2-world/groups/cohort-of-1508/","dgPassFrontmatter":true,"updated":"2025-09-28T23:15:22.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-path":"World/Groups/Cohort of 1508.md","permalink":"/world/groups/cohort-of-1508/","dgPassFrontmatter":true,"updated":"2025-09-28T23:15:22.000+01:00"}
 ---
 
 
@@ -41,13 +41,13 @@ The following people are members of this group.
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]                                           | Human           | Female | Quandrix    |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male   | Lorehold    |
 | [[2-World/People/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi     | Male   | Prismari    |
-| [[1-Party/Group 1/Atudark\|Atudark]]                                                      | Yuan-Ti         | Male   | Witherbloom |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]                          | Triton          | Male   | Witherbloom |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                                  | Halfling        | Male   | Witherbloom |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                                    | Dragonborn      | Male   | Quandrix    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                                            | Aarakocra       | Female | Lorehold    |
 | [[1-Party/Group 2/H'er\|H'er]]                                                            | Tiefling        | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                                    | Human           | Male   | Quandrix    |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                                        | Variant Aasimar | Female | Silverquill |
+| [[1-Party/Group 1/Atudark\|Atudark]]                                                      | Yuan-Ti         | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]                          | Triton          | Male   | Witherbloom |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                                  | Halfling        | Male   | Witherbloom |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                                    | Dragonborn      | Male   | Quandrix    |
 
 { .block-language-dataview}

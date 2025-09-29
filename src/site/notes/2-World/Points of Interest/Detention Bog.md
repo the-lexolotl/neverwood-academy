@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 -  The Detention Bog - 32x45 - 3200x4500 - 100px - grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/detention-bog/","dgPassFrontmatter":true,"updated":"2025-09-29T15:08:54.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 -  The Detention Bog - 32x45 - 3200x4500 - 100px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Detention Bog.md","permalink":"/world/points-of-interest/detention-bog/","dgPassFrontmatter":true,"updated":"2025-09-29T15:08:54.000+01:00"}
 ---
 
 

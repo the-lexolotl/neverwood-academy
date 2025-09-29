@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.5-silverquill-campus.jpg","dg-publish":true,"permalink":"/2-world/places/silverquill-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:35:58.000+01:00"}
+{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.5-silverquill-campus.jpg","dg-publish":true,"dg-path":"World/Places/Silverquill Campus.md","permalink":"/world/places/silverquill-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:35:58.000+01:00"}
 ---
 
 

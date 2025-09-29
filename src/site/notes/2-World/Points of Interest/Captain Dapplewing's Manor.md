@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dapplewings Manor.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/captain-dapplewing-s-manor/","dgPassFrontmatter":true,"updated":"2025-09-29T15:02:06.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dapplewings Manor.webp","dg-publish":true,"dg-path":"World/Points of Interest/Captain Dapplewing's Manor.md","permalink":"/world/points-of-interest/captain-dapplewing-s-manor/","dgPassFrontmatter":true,"updated":"2025-09-29T15:02:06.000+01:00"}
 ---
 
 

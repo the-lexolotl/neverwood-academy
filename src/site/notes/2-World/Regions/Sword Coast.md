@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Pasted image 20250914220527.png","dg-publish":true,"permalink":"/2-world/regions/sword-coast/","dgPassFrontmatter":true,"updated":"2025-09-28T20:19:56.000+01:00"}
+{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Pasted image 20250914220527.png","dg-publish":true,"dg-path":"World/Regions/Sword Coast.md","permalink":"/world/regions/sword-coast/","dgPassFrontmatter":true,"updated":"2025-09-28T20:19:56.000+01:00"}
 ---
 
 
@@ -35,8 +35,8 @@ Make notes of what you need to track in the region here.
 | ---------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Firejolt Café\|Firejolt Café]]                           |
-| [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Archway Commons\|Archway Commons]]                       |
+| [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Stadium\|Neverwood Stadium]]                   |
 | [[2-World/Points of Interest/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
@@ -45,12 +45,12 @@ Make notes of what you need to track in the region here.
 | [[2-World/Points of Interest/Kollema Hall\|Kollema Hall]]                             |
 | [[2-World/Points of Interest/Furygale\|Furygale]]                                     |
 | [[2-World/Points of Interest/Conjurot Hall\|Conjurot Hall]]                           |
-| [[2-World/Points of Interest/Opus Walk\|Opus Walk]]                                   |
 | [[2-World/Points of Interest/Torus Hall\|Torus Hall]]                                 |
 | [[2-World/Points of Interest/The Arithmodrome\|The Arithmodrome]]                     |
-| [[2-World/Points of Interest/Grandloft Hall\|Grandloft Hall]]                         |
 | [[2-World/Points of Interest/The Cultivarium\|The Cultivarium]]                       |
+| [[2-World/Points of Interest/Grandloft Hall\|Grandloft Hall]]                         |
 | [[2-World/Points of Interest/The Rose Stage\|The Rose Stage]]                         |
+| [[2-World/Points of Interest/Opus Walk\|Opus Walk]]                                   |
 | [[2-World/Points of Interest/The Dramarium\|The Dramarium]]                           |
 | [[2-World/Points of Interest/Sedgemoor\|Sedgemoor]]                                   |
 | [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]]                     |
@@ -80,12 +80,12 @@ Make notes of what you need to track in the region here.
 | [[2-World/Groups/Lorehold College\|Lorehold College]]                                           |
 | [[2-World/Groups/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               |
 | [[2-World/Groups/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               |
-| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                             |
 | [[2-World/Groups/Neverwood Show Band Association\|Neverwood Show Band Association]]             |
 | [[2-World/Groups/Neverwood Times\|Neverwood Times]]                                             |
 | [[2-World/Groups/Play Actors Drama Guild\|Play Actors Drama Guild]]                             |
-| [[2-World/Groups/Prismari College\|Prismari College]]                                           |
+| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                             |
 | [[2-World/Groups/Quandrix College\|Quandrix College]]                                           |
+| [[2-World/Groups/Prismari College\|Prismari College]]                                           |
 | [[2-World/Groups/Silverquill College\|Silverquill College]]                                     |
 | [[2-World/Groups/Student-Mages of Faith\|Student-Mages of Faith]]                               |
 | [[2-World/Groups/Witherbloom College\|Witherbloom College]]                                     |
@@ -98,7 +98,7 @@ Make notes of what you need to track in the region here.
 | -------------------------------------------------------------------- |
 | [[2-World/Quests/Heist the Records Room\|Heist the Records Room]] |
 | [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]         |
-| [[2-World/Quests/The Missing Professor\|The Missing Professor]]   |
 | [[2-World/Quests/Whos goo\|Whos goo]]                             |
+| [[2-World/Quests/The Missing Professor\|The Missing Professor]]   |
 
 { .block-language-dataview}

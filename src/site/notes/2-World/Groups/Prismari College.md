@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"permalink":"/2-world/groups/prismari-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:20:04.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-path":"World/Groups/Prismari College.md","permalink":"/world/groups/prismari-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:20:04.000+01:00"}
 ---
 
 

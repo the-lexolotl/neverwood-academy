@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"permalink":"/2-world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-09-28T20:37:32.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"dg-path":"World/Hubs/Neverwood Academy.md","permalink":"/world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-09-28T20:37:32.000+01:00"}
 ---
 
 
@@ -38,20 +38,21 @@ This is the places description.
 | [[2-World/People/Coriander\|Coriander]]                                                   |
 | [[2-World/People/Curtie Axechucker\|Curtie Axechucker]]                                   |
 | [[2-World/People/Dain Montagu\|Dain Montagu]]                                             |
-| [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]                                       |
 | [[2-World/People/Deekah\|Deekah]]                                                         |
+| [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]                                       |
 | [[2-World/People/Derthag Shadowslayer\|Derthag Shadowslayer]]                             |
-| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                                           |
 | [[2-World/People/Dorian Wavecrest\|Dorian Wavecrest]]                                     |
-| [[2-World/People/Dramitia\|Dramitia]]                                                     |
+| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                                           |
 | [[2-World/People/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   |
+| [[2-World/People/Dramitia\|Dramitia]]                                                     |
 | [[2-World/People/Elandra Stormwhisper\|Elandra Stormwhisper]]                             |
+| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]                                   |
 | [[2-World/People/Elowen Quickwhisper\|Elowen Quickwhisper]]                               |
 | [[2-World/People/Embrose Lu\|Embrose Lu]]                                                 |
 | [[2-World/People/Emeline Redstream\|Emeline Redstream]]                                   |
 | [[2-World/People/Fain\|Fain]]                                                             |
-| [[2-World/People/Garyson Wildemere\|Garyson Wildemere]]                                   |
 | [[2-World/People/Galazeth Prismari\|Galazeth Prismari]]                                   |
+| [[2-World/People/Garyson Wildemere\|Garyson Wildemere]]                                   |
 | [[2-World/People/Gethrick Ironbranch\|Gethrick Ironbranch]]                               |
 | [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]]                                   |
 | [[2-World/People/Greta Gorunn\|Greta Gorunn]]                                             |
@@ -63,8 +64,8 @@ This is the places description.
 | [[2-World/People/Isabrough\|Isabrough]]                                                   |
 | [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]                                   |
 | [[2-World/People/Kealen Starfury\|Kealen Starfury]]                                       |
-| [[2-World/People/Kianne\|Kianne]]                                                         |
 | [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                                       |
+| [[2-World/People/Kianne\|Kianne]]                                                         |
 | [[2-World/People/Larine Arneza\|Larine Arneza]]                                           |
 | [[2-World/People/Lianna Flametongue\|Lianna Flametongue]]                                 |
 | [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]]                                   |
@@ -94,6 +95,7 @@ This is the places description.
 | [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     |
 | [[2-World/People/Pythia\|Pythia]]                                                         |
 | [[2-World/People/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] |
+| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                 |
 | [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                         |
 | [[2-World/People/Rixy\|Rixy]]                                                             |
 | [[2-World/People/Rock\|Rock]]                                                             |
@@ -111,24 +113,24 @@ This is the places description.
 | [[2-World/People/Shtomp\|Shtomp]]                                                         |
 | [[2-World/People/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             |
 | [[2-World/People/Smart Mouth\|Smart Mouth]]                                               |
+| [[2-World/People/The Earl\|The Earl]]                                                     |
 | [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]                                     |
 | [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                     |
-| [[2-World/People/The Earl\|The Earl]]                                                     |
 | [[2-World/People/Theodore Moss\|Theodore Moss]]                                           |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]                                   |
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]                                           |
+| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]                                   |
 | [[2-World/People/Tivash\|Tivash]]                                                         |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                   |
 | [[2-World/People/Tulk Tusktooth\|Tulk Tusktooth]]                                         |
 | [[2-World/People/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                   |
 | [[2-World/People/Valentin\|Valentin]]                                                     |
-| [[2-World/People/Venoc Plaguescale\|Venoc Plaguescale]]                                   |
 | [[2-World/People/Velomachus Lorehold\|Velomachus Lorehold]]                               |
+| [[2-World/People/Venoc Plaguescale\|Venoc Plaguescale]]                                   |
 | [[2-World/People/Verelda Lang\|Verelda Lang]]                                             |
 | [[2-World/People/Verooja\|Verooja]]                                                       |
 | [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]                                         |
-| [[2-World/People/Willowdusk\|Willowdusk]]                                                 |
 | [[2-World/People/Veyran\|Veyran]]                                                         |
+| [[2-World/People/Willowdusk\|Willowdusk]]                                                 |
 | [[2-World/People/Xyla Langning\|Xyla Langning]]                                           |
 | [[2-World/People/Yedora\|Yedora]]                                                         |
 | [[2-World/People/Zaffai\|Zaffai]]                                                         |
@@ -141,14 +143,12 @@ This is the places description.
 | [[2-World/People/Mina Lee\|Mina Lee]]                                                     |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                   |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                   |
-| [[2-World/People/Francis Farlight\|Francis Farlight]]                                     |
 | [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                                         |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                                                   |
+| [[2-World/People/Francis Farlight\|Francis Farlight]]                                     |
 | [[2-World/People/Pebble\|Pebble]]                                                         |
-| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               |
+| [[2-World/People/Ivy Drake\|Ivy Drake]]                                                   |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                 |
-| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]                                   |
+| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               |
 
 { .block-language-dataview}
 
@@ -190,12 +190,12 @@ Make notes of what you need to track in the town here.
 | [[2-World/Groups/Lorehold College\|Lorehold College]]                                           |
 | [[2-World/Groups/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               |
 | [[2-World/Groups/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               |
-| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                             |
 | [[2-World/Groups/Neverwood Show Band Association\|Neverwood Show Band Association]]             |
 | [[2-World/Groups/Neverwood Times\|Neverwood Times]]                                             |
 | [[2-World/Groups/Play Actors Drama Guild\|Play Actors Drama Guild]]                             |
-| [[2-World/Groups/Prismari College\|Prismari College]]                                           |
+| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                             |
 | [[2-World/Groups/Quandrix College\|Quandrix College]]                                           |
+| [[2-World/Groups/Prismari College\|Prismari College]]                                           |
 | [[2-World/Groups/Silverquill College\|Silverquill College]]                                     |
 | [[2-World/Groups/Student-Mages of Faith\|Student-Mages of Faith]]                               |
 | [[2-World/Groups/Witherbloom College\|Witherbloom College]]                                     |

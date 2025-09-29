@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dragonchess.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Deception","Skill2":"Investigation","dg-publish":true,"permalink":"/2-world/groups/dragonchess-club/","dgPassFrontmatter":true,"updated":"2025-09-29T12:34:02.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dragonchess.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Deception","Skill2":"Investigation","dg-publish":true,"dg-path":"World/Groups/Dragonchess Club.md","permalink":"/world/groups/dragonchess-club/","dgPassFrontmatter":true,"updated":"2025-09-29T12:34:02.000+01:00"}
 ---
 
 
@@ -43,8 +43,8 @@ The following people are members of this group.
 | [[2-World/People/Dain Montagu\|Dain Montagu]]             | Aasimar  | Male       | Prismari    |
 | [[2-World/People/Inding Kithollal\|Inding Kithollal]]     | Half-Elf | Female     | Lorehold    |
 | [[2-World/People/Mirella Blackbriar\|Mirella Blackbriar]] | Reborn   | Female     | Witherbloom |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Kenku    | Non-binary | Quandrix    |
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]           | Human    | Female     | Quandrix    |
+| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Kenku    | Non-binary | Quandrix    |
 | [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]         | Tiefling | Male       | Witherbloom |
 
 { .block-language-dataview}

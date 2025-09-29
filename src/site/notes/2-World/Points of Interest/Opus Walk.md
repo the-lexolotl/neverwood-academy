@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Opus Walk.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/opus-walk/","dgPassFrontmatter":true,"updated":"2025-09-29T15:22:52.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Opus Walk.webp","dg-publish":true,"dg-path":"World/Points of Interest/Opus Walk.md","permalink":"/world/points-of-interest/opus-walk/","dgPassFrontmatter":true,"updated":"2025-09-29T15:22:52.000+01:00"}
 ---
 
 

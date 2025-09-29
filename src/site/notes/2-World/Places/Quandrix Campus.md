@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.4-quandrix-campus.jpg","dg-publish":true,"permalink":"/2-world/places/quandrix-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:32:48.000+01:00"}
+{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.4-quandrix-campus.jpg","dg-publish":true,"dg-path":"World/Places/Quandrix Campus.md","permalink":"/world/places/quandrix-campus/","dgPassFrontmatter":true,"updated":"2025-09-29T14:32:48.000+01:00"}
 ---
 
 
@@ -40,8 +40,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Rowan Montagu\|Rowan Montagu]]             | Orc        | Male       | Student                |
 | [[2-World/People/Ruxa\|Ruxa]]                               | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]       | Dragon     | Female     | Founder Dragon         |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku      | Non-binary | Student                |
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]             | Human      | Female     | Student                |
+| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku      | Non-binary | Student                |
 
 { .block-language-dataview}
 

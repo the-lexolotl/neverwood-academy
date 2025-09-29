@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1309.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"permalink":"/2-world/groups/cohort-of-1309/","dgPassFrontmatter":true,"updated":"2025-09-29T12:15:46.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1309.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"World/Groups/Cohort of 1309.md","permalink":"/world/groups/cohort-of-1309/","dgPassFrontmatter":true,"updated":"2025-09-29T12:15:46.000+01:00"}
 ---
 
 

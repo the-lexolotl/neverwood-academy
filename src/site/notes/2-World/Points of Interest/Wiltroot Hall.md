@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Wiltroot Hall - Day - 3150x4200 -  45x60 - 70px - grid.webp","dg-publish":true,"permalink":"/2-world/points-of-interest/wiltroot-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:40:12.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Wiltroot Hall - Day - 3150x4200 -  45x60 - 70px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Wiltroot Hall.md","permalink":"/world/points-of-interest/wiltroot-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:40:12.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"permalink":"/2-world/groups/witherbloom-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:27:06.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"dg-path":"World/Groups/Witherbloom College.md","permalink":"/world/groups/witherbloom-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:27:06.000+01:00"}
 ---
 
 
@@ -56,11 +56,11 @@ The following people are members of this group.
 | [[2-World/People/Verelda Lang\|Verelda Lang]]                 | Dryad         | Female     | Professor of Growth |
 | [[2-World/People/Verooja\|Verooja]]                           | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Willowdusk\|Willowdusk]]                     | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Francis Farlight\|Francis Farlight]]         | Human         | Male       | Student             |
 | [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]             | Tiefling      | Male       | Student             |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                       | Half-Orc      | Female     | Student             |
+| [[2-World/People/Francis Farlight\|Francis Farlight]]         | Human         | Male       | Student             |
 | [[2-World/People/Pebble\|Pebble]]                             | Earth Genasi  | Non-binary | Student             |
-| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]   | Elf           | Male       | Student             |
+| [[2-World/People/Ivy Drake\|Ivy Drake]]                       | Half-Orc      | Female     | Student             |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]         | Orc           | Male       | Student             |
+| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]   | Elf           | Male       | Student             |
 
 { .block-language-dataview}
