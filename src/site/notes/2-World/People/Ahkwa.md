@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Tortle","char_gender":"Female","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[2-World/Groups/Prismari College.md|Prismari College]]"],"dg-publish":true,"dg-path":"World/People/Ahkwa.md","permalink":"/world/people/ahkwa/","dgPassFrontmatter":true,"updated":"2025-10-01T18:09:22.000+01:00"}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Tortle","char_gender":"Female","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[2-World/Groups/Prismari College.md|Prismari College]]"],"dg-publish":true,"dg-path":"World/People/Ahkwa.md","permalink":"/world/people/ahkwa/","dgPassFrontmatter":true,"updated":"2025-10-01T18:25:26.000+01:00"}
 ---
 
 
@@ -21,7 +21,6 @@
 This is the persons description. 
 
 # Connections
-Is the person linked to any groups or quests?
 
 
 **Quests:** None 
