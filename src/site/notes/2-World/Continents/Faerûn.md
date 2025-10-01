@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-01T22:52:48.000+01:00"}
+{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-01T22:53:42.000+01:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # General Info
 ![Pasted image 20250928234357.png](/img/user/z_Assets/Pasted%20image%2020250928234357.png)
-The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as Neverwinter, Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
+The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]], Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
 
 See [[2-World/Continents/Faerun Interactive Map\|Faerun Interactive Map]]
 
