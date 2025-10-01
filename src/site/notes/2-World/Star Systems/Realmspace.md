@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgPassFrontmatter":true,"updated":"2025-10-01T22:40:42.000+01:00"}
+{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgPassFrontmatter":true,"updated":"2025-10-01T22:41:14.000+01:00"}
 ---
 
 
@@ -50,9 +50,6 @@ The last wave of migrations, estimated to have happened around the time humans l
 During the Time of Troubles, the chanting of the Wanderers had temporarily ceased due to the fall of Realmspace's powers. For the duration of this period, no portals could be opened through the crystal sphere.
 Travellers in Realmspace were sometimes terrorized by a mysterious and intimidating bat-shaped vessel known as the Batship, an invasive presence that originated in a remote crystal sphere and adopted Realmspace as its hunting grounds.
 
-# GM Notes
-
-Make notes of what you need to track in the star system here. 
 
 # Planets
 
