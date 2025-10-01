@@ -1,11 +1,13 @@
 ---
-{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgPassFrontmatter":true,"updated":"2025-10-01T22:20:40.000+01:00"}
+{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgPassFrontmatter":true,"updated":"2025-10-01T22:40:42.000+01:00"}
 ---
 
 
 ![realmspace-2023.png](/img/user/z_Assets/Maps/realmspace-2023.png)
 # General Info
+Realmspace is the term used to describe the Torilian system and its surrounding environs within the Prime Material Plane. To those on the surface of Toril, Realmspace was called the Sea of Night, while the Netherese referred to it as the Skyward Realms. Contained within a crystal sphere suspended in the enormous expanse of the phlogiston, Realmspace consisted of wildspace (empty vacuum), a sun, eight planets and their satellites, and a variety of asteroids, comets, and nebulae.
 
+# Star System Details
 ## The Sun
 The largest fire body of Realmspace was located at its centre and radiated a comfortable amount of warmth throughout the entire sphere. It was particularly susceptible to solar flares, which erupted almost continually.
 
@@ -18,10 +20,10 @@ Coliar was a gas giant mostly populated with avian life-forms and other flying c
 ## Toril
 The third planet in the system was the most populated, teeming with life. Approximately 60% of the surface being covered with water, fauna on Toril ranged from creatures living in the air, on the land, under the water and subterranean habitats. This planet was formerly known as Abeir-Toril.
 
-## Abeir
+#### Abeir
 Toril's "twin planet", existing near Toril's orbit but located within a "pocket dimension" that was out of synchronicity with the rest of Realmspace. It had roughly the same characteristics of Toril.
 
-## Selûne
+#### Selûne
 Selûne was Toril's largest natural satellite. It orbited about 183,000 miles (295,000 kilometers) from Toril, although some sages from the late 14th century DR claimed that its orbital distance was only about 20,000 miles (32,000 kilometers). Only one side of it ever faced the planet; the other side was called the "dark side", yet it was not always dark. This was where most activity took place. Although Torilians had named it after the deity Selûne, the moon's own inhabitants named their home after Leira. Trailing in the orbit of this satellite were the Tears of Selûne.
 
 ## Karpri
