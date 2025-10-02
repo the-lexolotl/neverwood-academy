@@ -1,13 +1,7 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Veyra.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]"],"dg-path":"Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/veyra-murgaxor-student-records/","dgPassFrontmatter":true,"updated":"2025-10-02T15:35:48.000+01:00"}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Veyra.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]"],"dg-path":"Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/veyra-murgaxor-student-records/","dgPassFrontmatter":true,"updated":"2025-10-02T15:53:32.000+01:00"}
 ---
 
-
-
-
-
-> [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Hub),optionQuery(#Category/Region),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
- 
 
 # Connections
 

@@ -1,10 +1,8 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Daniel.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]"],"dg-path":"Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/daniel-murgaxor-student-records/","dgPassFrontmatter":true,"updated":"2025-10-02T15:28:52.000+01:00"}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Daniel.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]"],"dg-path":"Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/daniel-murgaxor-student-records/","dgPassFrontmatter":true,"updated":"2025-10-02T15:53:04.000+01:00"}
 ---
 
 
-
-> [!NOTE] Parent Location: `INPUT[suggester(optionQuery(#Category/Continent)):MyContainer]`
 
 # Connections
 
