@@ -171,34 +171,34 @@ Make notes of what you need to track in the town here.
 { .block-language-dataview}
 # Groups
 
-| File                                                                                               |
-| -------------------------------------------------------------------------------------------------- |
-| [[2-World/Groups/Cohort of 1309\|Cohort of 1309]]                                               |
-| [[2-World/Groups/Cohort of 1506\|Cohort of 1506]]                                               |
-| [[2-World/Groups/Cohort of 1507\|Cohort of 1507]]                                               |
-| [[2-World/Groups/Cohort of 1508\|Cohort of 1508]]                                               |
-| [[2-World/Groups/Dead Language Society\|Dead Language Society]]                                 |
-| [[2-World/Groups/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] |
-| [[2-World/Groups/Dragonchess Club\|Dragonchess Club]]                                           |
-| [[2-World/Groups/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             |
-| [[2-World/Groups/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 |
-| [[2-World/Groups/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         |
-| [[2-World/Groups/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       |
-| [[2-World/Groups/Intramural Silkball Club\|Intramural Silkball Club]]                           |
-| [[2-World/Groups/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 |
-| [[2-World/Groups/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 |
-| [[2-World/Groups/Lorehold College\|Lorehold College]]                                           |
-| [[2-World/Groups/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               |
-| [[2-World/Groups/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               |
-| [[2-World/Groups/Neverwood Show Band Association\|Neverwood Show Band Association]]             |
-| [[2-World/Groups/Neverwood Times\|Neverwood Times]]                                             |
-| [[2-World/Groups/Play Actors Drama Guild\|Play Actors Drama Guild]]                             |
-| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                             |
-| [[2-World/Groups/Quandrix College\|Quandrix College]]                                           |
-| [[2-World/Groups/Prismari College\|Prismari College]]                                           |
-| [[2-World/Groups/Silverquill College\|Silverquill College]]                                     |
-| [[2-World/Groups/Student-Mages of Faith\|Student-Mages of Faith]]                               |
-| [[2-World/Groups/Witherbloom College\|Witherbloom College]]                                     |
+| File                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   |
+| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 |
+| [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] |
+| [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           |
+| [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             |
+| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 |
+| [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         |
+| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       |
+| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           |
+| [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 |
+| [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 |
+| [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               |
+| [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               |
+| [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             |
+| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             |
+| [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             |
+| [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               |
+| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       |
+| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       |
+| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       |
+| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
 
 { .block-language-dataview}
 # Travel

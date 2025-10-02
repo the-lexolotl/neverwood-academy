@@ -36,7 +36,6 @@ The following people are members of this group.
 | [[2-World/People/Clem Greenthumb\|Clem Greenthumb]]                   | Fairy                  | Female     | Quandrix    | Professor of Substance     |
 | [[2-World/People/Curtie Axechucker\|Curtie Axechucker]]               | Dwarf                  | Female     | None        | Tavern Chef                |
 | [[2-World/People/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]                   | Half-Bullywug          | Male       | Witherbloom | Alumni                     |
 | [[2-World/People/Dramitia\|Dramitia]]                                 | Tiefling               | Female     | None        | Coach                      |
 | [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]               | Elf                    | Female     | None        | Cafe Manager               |
 | [[2-World/People/Embrose Lu\|Embrose Lu]]                             | Human                  | Male       | Silverquill | College Dean               |

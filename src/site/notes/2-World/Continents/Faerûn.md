@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-01T22:53:42.000+01:00"}
+{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-01T22:56:32.000+01:00"}
 ---
 
 
@@ -163,14 +163,6 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 
 The Underdark also hosts kuo-toa, illithid, and beholder cities, hidden in its endless depths.
 
-# Region Details
-
-**Dominant Races:**  
-**Climate:** 
-
-# GM Notes
-
-Make notes of what you need to track in the region here. 
 
 # Regions
 
