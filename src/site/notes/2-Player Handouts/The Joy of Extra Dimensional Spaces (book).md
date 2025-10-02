@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Handout"],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"image":"009-02-001.book 1.webp","permalink":"/2-player-handouts/the-joy-of-extra-dimensional-spaces-book/","dgPassFrontmatter":true,"updated":"2025-10-02T15:25:02.000+01:00"}
+{"dg-publish":true,"tags":["Handout"],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"image":"009-02-001.book 1.webp","dg-path":"Player Handouts/The Joy of Extra Dimensional Spaces (book).md","permalink":"/player-handouts/the-joy-of-extra-dimensional-spaces-book/","dgPassFrontmatter":true,"updated":"2025-10-02T15:25:02.000+01:00"}
 ---
 
 
