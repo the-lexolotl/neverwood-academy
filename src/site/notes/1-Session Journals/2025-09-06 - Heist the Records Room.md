@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Heist the Records Room","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-06","players":7,"OneLiner":"Breaking into the admin offices for Murgaxor student records","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]"],"sessionNPC":["[[2-World/People/Veyra Murgaxor.md|Veyra Murgaxor]]","[[2-World/People/Daniel Murgaxor.md|Daniel Murgaxor]]","[[2-World/People/Grenshel Murgaxor.md|Grenshel Murgaxor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-06 - Heist the Records Room.md","permalink":"/session-journals/2025-09-06-heist-the-records-room/","dgPassFrontmatter":true,"updated":"2025-09-28T18:45:58.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Heist the Records Room","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-06","players":7,"OneLiner":"Breaking into the admin offices for Murgaxor student records","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]"],"sessionNPC":["[[2-World/People/Veyra Murgaxor.md|Veyra Murgaxor]]","[[2-World/People/Daniel Murgaxor.md|Daniel Murgaxor]]","[[2-World/People/Grenshel Murgaxor.md|Grenshel Murgaxor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-06 - Heist the Records Room.md","permalink":"/session-journals/2025-09-06-heist-the-records-room/","dgPassFrontmatter":true,"updated":"2025-10-02T15:38:28.000+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]], [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]], [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]
+[[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]], [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]], [[2-World/People/Veyra Murgaxor\|2-World/People/Veyra Murgaxor]]
 
 ## Summary
 After weeks of strange discoveries and half-answers, the party resolved to take matters into their own hands. Their target: the **student records office**, in hopes of uncovering information about the mysterious **[[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]**. What began as a clever infiltration quickly spiralled into chaos, leaving behind wrecked doors, a destroyed security bot, and stolen files that could change everything.
@@ -67,3 +67,8 @@ After weeks of strange discoveries and half-answers, the party resolved to take 
 	  * How long before professors piece together the party’s role in repeated campus chaos?  
 * **The Bigger Picture**  
 	  * Between Fistandria’s return, black goo experiments, and now the Murgaxor files, the threads are starting to connect.
+
+## Player Handouts
+[[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]
+[[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]]
+[[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]
