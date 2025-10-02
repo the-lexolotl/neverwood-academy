@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-09-29T16:35:52.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-02T17:29:58.000+01:00"}
 ---
 
 
@@ -20,7 +20,15 @@
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Kristy   | 2     | Monk      | Male   | Quandrix    |
 
 { .block-language-dataview}
+# Quests
+| File                                                                 | Status      | Obtained           | Quest Giver                                        | Location                                                 |
+| -------------------------------------------------------------------- | ----------- | ------------------ | -------------------------------------------------- | -------------------------------------------------------- |
+| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]         | In Progress | September 13, 2025 | [[2-World/People/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Whos goo\|Whos goo]]                             | In Progress | July 12, 2025      | \-                                                 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]] | Complete    | August 23, 2025    | \-                                                 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/The Missing Professor\|The Missing Professor]]   | Complete    | August 09, 2025    | \-                                                 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 
+{ .block-language-dataview}
 # Session Journals
 | File                                                                                                                       | Status                      | Category                                   | Players |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------ | ------- |
