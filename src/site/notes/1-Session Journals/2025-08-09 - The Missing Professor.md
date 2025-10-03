@@ -55,7 +55,7 @@ Cynith tucked the book away for safekeeping and the party sought answers.
 
 ### Investigating Matreous
 
-The Librarian [[2-World/People/Isabrough\|Isabrough]] described Matreous as:
+The Librarian [[2-World/People/Staff/Isabrough\|Isabrough]] described Matreous as:
 
 * *Eccentric*,  
 * A specialist in **Planar Theory**,  

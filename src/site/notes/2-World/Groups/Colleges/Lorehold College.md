@@ -78,9 +78,6 @@ The following people are members of this group.
 
 | File                                                                                        | Race     | Gender     | Role               |
 | ------------------------------------------------------------------------------------------- | -------- | ---------- | ------------------ |
-| [[2-World/People/Hazkira Ravenfang\|Hazkira Ravenfang]]                                  | Halfling | Female     | Professor of Order |
-| [[2-World/People/Hofri Ghostforge\|Hofri Ghostforge]]                                    | Dwarf    | Male       | Professor of Order |
-| [[2-World/People/Inding Kithollal\|Inding Kithollal]]                                    | Half-Elf | Female     | Student            |
 | [[2-World/People/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                                | Owlin    | Male       | Student            |
 | [[2-World/People/Lianna Flametongue\|Lianna Flametongue]]                                | Elf      | Female     | Professor of Chaos |
 | [[2-World/People/Losheel\|Losheel]]                                                      | Loxodon  | Female     | Professor of Chaos |
@@ -98,6 +95,9 @@ The following people are members of this group.
 | [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg  | Female     | Student            |
 | [[2-World/People/Students/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome    | Male       | Student            |
 | [[2-World/People/Students/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human    | Female     | Student            |
+| [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf | Female     | Student            |
 | [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                  | Human    | Female     | College Dean       |
+| [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling | Female     | Professor of Order |
+| [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf    | Male       | Professor of Order |
 
 { .block-language-dataview}

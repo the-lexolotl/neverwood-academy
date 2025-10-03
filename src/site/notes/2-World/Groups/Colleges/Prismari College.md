@@ -41,7 +41,6 @@ The following people are members of this group.
 
 | File                                                                      | Race         | Gender     | Role                    |
 | ------------------------------------------------------------------------- | ------------ | ---------- | ----------------------- |
-| [[2-World/People/Ignaria Kahafi\|Ignaria Kahafi]]                      | Eladrin      | Female     | Professor of Expression |
 | [[2-World/People/Nassari\|Nassari]]                                    | Fire Genasi  | Other      | College Dean            |
 | [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                            | Human        | Female     | Student                 |
 | [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                  | Fire Genasi  | Male       | Student                 |
@@ -58,5 +57,6 @@ The following people are members of this group.
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                  | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                  | Human        | Male       | Professor of Expression |
 | [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]          | Dragon       | Male       | Founder Dragon          |
+| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                | Eladrin      | Female     | Professor of Expression |
 
 { .block-language-dataview}

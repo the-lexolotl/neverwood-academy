@@ -18,7 +18,6 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 
 | File                                                                    | Race       | Gender     | Role                  |
 | ----------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
-| [[2-World/People/Helios Sunmane\|Helios Sunmane]]                    | Leonin     | Male       | Professor of Radience |
 | [[2-World/People/Kealen Starfury\|Kealen Starfury]]                  | Elf        | Male       | Student               |
 | [[2-World/People/Liv Brandford\|Liv Brandford]]                      | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Luc Brandford\|Luc Brandford]]                      | Human      | Male       | Professor of Shadow   |
@@ -42,6 +41,7 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]    | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                      | Human      | Male       | College Dean          |
 | [[2-World/People/Staff/Fain\|Fain]]                                  | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]              | Leonin     | Male       | Professor of Radiance |
 
 { .block-language-dataview}
 

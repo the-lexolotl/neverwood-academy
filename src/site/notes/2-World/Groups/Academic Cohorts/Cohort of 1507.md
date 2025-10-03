@@ -20,7 +20,6 @@ The following people are members of this group.
 
 | File                                                                                        | Race         | Gender     | College     |
 | ------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------- |
-| [[2-World/People/Inding Kithollal\|Inding Kithollal]]                                    | Half-Elf     | Female     | Lorehold    |
 | [[2-World/People/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                                | Owlin        | Male       | Lorehold    |
 | [[2-World/People/Lindsey Stonesworn\|Lindsey Stonesworn]]                                | Human        | Female     | Quandrix    |
 | [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                              | Human        | Female     | Prismari    |
@@ -35,9 +34,7 @@ The following people are members of this group.
 | [[2-World/People/Mina Lee\|Mina Lee]]                                                    | Human        | Female     | Silverquill |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                  | Aasimar      | Female     | Silverquill |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                  | Orc          | Female     | Silverquill |
-| [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                                        | Tiefling     | Male       | Witherbloom |
 | [[2-World/People/Pebble\|Pebble]]                                                        | Earth Genasi | Non-binary | Witherbloom |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                                                  | Half-Orc     | Female     | Witherbloom |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                    | Orc          | Male       | Witherbloom |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                              | Elf          | Male       | Witherbloom |
 | [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg      | Female     | Lorehold    |
@@ -53,6 +50,9 @@ The following people are members of this group.
 | [[2-World/People/Students/Francis Farlight\|Francis Farlight]]                           | Human        | Male       | Witherbloom |
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human        | Male       | Silverquill |
 | [[2-World/People/Students/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human        | Female     | Lorehold    |
+| [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]                               | Tiefling     | Male       | Witherbloom |
+| [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf     | Female     | Lorehold    |
+| [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                                         | Half-Orc     | Female     | Witherbloom |
 
 { .block-language-dataview}
 

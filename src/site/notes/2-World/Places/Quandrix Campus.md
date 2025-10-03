@@ -18,7 +18,6 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | File                                                                    | Race       | Gender     | Role                   |
 | ----------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Imbraham\|Imbraham]]                                | Owlin      | Male       | College Dean           |
 | [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]              | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Kianne\|Kianne]]                                    | Elf        | Female     | College Dean           |
 | [[2-World/People/Larine Arneza\|Larine Arneza]]                      | Human      | Female     | Student                |
@@ -42,6 +41,7 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]              | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]            | Fairy      | Female     | Professor of Substance |
 | [[2-World/People/Staff/Deekah\|Deekah]]                              | Human      | Female     | Professor of Theory    |
+| [[2-World/People/Staff/Imbraham\|Imbraham]]                          | Owlin      | Male       | College Dean           |
 
 { .block-language-dataview}
 

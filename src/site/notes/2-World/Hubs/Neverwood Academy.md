@@ -17,12 +17,6 @@ This is the places description.
 
 | File                                                                                         |
 | -------------------------------------------------------------------------------------------- |
-| [[2-World/People/Hazkira Ravenfang\|Hazkira Ravenfang]]                                   |
-| [[2-World/People/Helios Sunmane\|Helios Sunmane]]                                         |
-| [[2-World/People/Hofri Ghostforge\|Hofri Ghostforge]]                                     |
-| [[2-World/People/Ignaria Kahafi\|Ignaria Kahafi]]                                         |
-| [[2-World/People/Imbraham\|Imbraham]]                                                     |
-| [[2-World/People/Isabrough\|Isabrough]]                                                   |
 | [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]                                   |
 | [[2-World/People/Kealen Starfury\|Kealen Starfury]]                                       |
 | [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                                       |
@@ -102,9 +96,7 @@ This is the places description.
 | [[2-World/People/Mina Lee\|Mina Lee]]                                                     |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                   |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                   |
-| [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                                         |
 | [[2-World/People/Pebble\|Pebble]]                                                         |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                                                   |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               |
 | [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]                          |
@@ -127,6 +119,8 @@ This is the places description.
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                      |
 | [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                      |
 | [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                    |
+| [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]                                |
+| [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                                          |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                     |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                     |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                               |
@@ -146,6 +140,12 @@ This is the places description.
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                                           |
 | [[2-World/People/Staff/Fain\|Fain]]                                                       |
 | [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]                             |
+| [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                             |
+| [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]                                   |
+| [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                               |
+| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                                   |
+| [[2-World/People/Staff/Imbraham\|Imbraham]]                                               |
+| [[2-World/People/Staff/Isabrough\|Isabrough]]                                             |
 | [[2-World/People/Other/Coriander\|Coriander]]                                             |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                 |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                             |

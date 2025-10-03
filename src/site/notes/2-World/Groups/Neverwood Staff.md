@@ -22,11 +22,6 @@ The following people are members of this group.
 
 | File                                                                     | Race                   | Gender     | college     | Role                       |
 | ------------------------------------------------------------------------ | ---------------------- | ---------- | ----------- | -------------------------- |
-| [[2-World/People/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
-| [[2-World/People/Helios Sunmane\|Helios Sunmane]]                     | Leonin                 | Male       | Silverquill | Professor of Radience      |
-| [[2-World/People/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
-| [[2-World/People/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
-| [[2-World/People/Imbraham\|Imbraham]]                                 | Owlin                  | Male       | Quandrix    | College Dean               |
 | [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]               | Harengon               | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                   | Firbolg                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Kianne\|Kianne]]                                     | Elf                    | Female     | Quandrix    | College Dean               |
@@ -97,5 +92,11 @@ The following people are members of this group.
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                       | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Staff/Fain\|Fain]]                                   | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]         | Dragon                 | Male       | Prismari    | Founder Dragon             |
+| [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]         | Halfling               | Female     | Lorehold    | Professor of Order         |
+| [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]               | Leonin                 | Male       | Silverquill | Professor of Radiance      |
+| [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]           | Dwarf                  | Male       | Lorehold    | Professor of Order         |
+| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]               | Eladrin                | Female     | Prismari    | Professor of Expression    |
+| [[2-World/People/Staff/Imbraham\|Imbraham]]                           | Owlin                  | Male       | Quandrix    | College Dean               |
+| [[2-World/People/Staff/Isabrough\|Isabrough]]                         | Treant                 | Female     | None        | Head Librarian             |
 
 { .block-language-dataview}

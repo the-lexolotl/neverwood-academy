@@ -39,11 +39,11 @@ The following people are members of this group.
 | [[2-World/People/Nyssa Willowmere\|Nyssa Willowmere]]                | Dryad      | Female | Witherbloom |
 | [[2-World/People/Orion Duskmantle\|Orion Duskmantle]]                | Shadar-Kai | Male   | Silverquill |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]              | Aasimar    | Female | Silverquill |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                              | Half-Orc   | Female | Witherbloom |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                | Orc        | Male   | Witherbloom |
 | [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]]   | Firbolg    | Female | Lorehold    |
 | [[2-World/People/Students/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female | Quandrix    |
 | [[2-World/People/Students/Elowen Quickwhisper\|Elowen Quickwhisper]] | Halfling   | Female | Quandrix    |
+| [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                     | Half-Orc   | Female | Witherbloom |
 | [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]     | Triton     | Male   | Witherbloom |
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]             | Halfling   | Male   | Witherbloom |
 

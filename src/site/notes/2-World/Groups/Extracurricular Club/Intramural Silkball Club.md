@@ -35,14 +35,14 @@ Make notes of what you need to track in the group here.
 The following people are members of this group.  
 
 
-| File                                                         | Race         | Gender     | College     |
-| ------------------------------------------------------------ | ------------ | ---------- | ----------- |
-| [[2-World/People/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Owlin        | Male       | Lorehold    |
-| [[2-World/People/Melwythorn\|Melwythorn]]                 | Dryad        | Male       | Witherbloom |
-| [[2-World/People/Rose Mugwort\|Rose Mugwort]]             | Halfling     | Female     | Prismari    |
-| [[2-World/People/Tilana Kapule\|Tilana Kapule]]           | Human        | Female     | Quandrix    |
-| [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]         | Leonin       | Female     | Lorehold    |
-| [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]         | Tiefling     | Male       | Witherbloom |
-| [[2-World/People/Pebble\|Pebble]]                         | Earth Genasi | Non-binary | Witherbloom |
+| File                                                          | Race         | Gender     | College     |
+| ------------------------------------------------------------- | ------------ | ---------- | ----------- |
+| [[2-World/People/Javenesh Stoutclaw\|Javenesh Stoutclaw]]  | Owlin        | Male       | Lorehold    |
+| [[2-World/People/Melwythorn\|Melwythorn]]                  | Dryad        | Male       | Witherbloom |
+| [[2-World/People/Rose Mugwort\|Rose Mugwort]]              | Halfling     | Female     | Prismari    |
+| [[2-World/People/Tilana Kapule\|Tilana Kapule]]            | Human        | Female     | Quandrix    |
+| [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]          | Leonin       | Female     | Lorehold    |
+| [[2-World/People/Pebble\|Pebble]]                          | Earth Genasi | Non-binary | Witherbloom |
+| [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]] | Tiefling     | Male       | Witherbloom |
 
 { .block-language-dataview}
