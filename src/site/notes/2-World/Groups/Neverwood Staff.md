@@ -22,25 +22,6 @@ The following people are members of this group.
 
 | File                                                                     | Race                   | Gender     | college     | Role                       |
 | ------------------------------------------------------------------------ | ---------------------- | ---------- | ----------- | -------------------------- |
-| [[2-World/People/Adrix\|Adrix]]                                       | Triton                 | Non-binary | Quandrix    | Professor of Substance     |
-| [[2-World/People/Ahkwa\|Ahkwa]]                                       | Tortle                 | Female     | Prismari    | Professor of Perfection    |
-| [[2-World/People/Aisla Fitzbottom\|Aisla Fitzbottom]]                 | Gnome                  | Female     | None        | Cafe Manager               |
-| [[2-World/People/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
-| [[2-World/People/Asana Vargundil\|Asana Vargundil]]                   | Elf                    | Female     | Witherbloom | Professor of Growth        |
-| [[2-World/People/Augusta Tullus\|Augusta Tullus]]                     | Human                  | Female     | Lorehold    | College Dean               |
-| [[2-World/People/Beledros Witherbloom\|Beledros Witherbloom]]         | Dragon                 | Female     | Witherbloom | Founder Dragon             |
-| [[2-World/People/Bildra Forheim\|Bildra Forheim]]                     | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Breena\|Breena]]                                     | Owlin                  | Female     | Silverquill | Professor of Shadow        |
-| [[2-World/People/Brenneth Blackstone\|Brenneth Blackstone]]           | Dhampir                | Male       | Silverquill | Professor of Shadow        |
-| [[2-World/People/Cleaner\|Cleaner]]                                   | Automaton              | Other      | None        | Cleaner                    |
-| [[2-World/People/Clem Greenthumb\|Clem Greenthumb]]                   | Fairy                  | Female     | Quandrix    | Professor of Substance     |
-| [[2-World/People/Curtie Axechucker\|Curtie Axechucker]]               | Dwarf                  | Female     | None        | Tavern Chef                |
-| [[2-World/People/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Dramitia\|Dramitia]]                                 | Tiefling               | Female     | None        | Coach                      |
-| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]               | Elf                    | Female     | None        | Cafe Manager               |
-| [[2-World/People/Embrose Lu\|Embrose Lu]]                             | Human                  | Male       | Silverquill | College Dean               |
-| [[2-World/People/Fain\|Fain]]                                         | Human                  | Male       | Silverquill | Professor of Shadow        |
-| [[2-World/People/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
 | [[2-World/People/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Helios Sunmane\|Helios Sunmane]]                     | Leonin                 | Male       | Silverquill | Professor of Radience      |
 | [[2-World/People/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
@@ -97,5 +78,24 @@ The following people are members of this group.
 | [[2-World/People/Zaffai\|Zaffai]]                                     | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Zaph\|Zaph]]                                         | Air Genasi             | FtM        | Prismari    | Professor of Perfection    |
 | [[2-World/People/Zoei\|Zoei]]                                         | Satyr                  | Female     | None        | Student Life Administrator |
+| [[2-World/People/Staff/Adrix\|Adrix]]                                 | Triton                 | Non-binary | Quandrix    | Professor of Substance     |
+| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                 | Tortle                 | Female     | Prismari    | Professor of Perfection    |
+| [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]           | Gnome                  | Female     | None        | Cafe Manager               |
+| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                 | Human                  | Male       | Prismari    | Professor of Expression    |
+| [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]             | Elf                    | Female     | Witherbloom | Professor of Growth        |
+| [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]               | Human                  | Female     | Lorehold    | College Dean               |
+| [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]   | Dragon                 | Female     | Witherbloom | Founder Dragon             |
+| [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]               | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Breena\|Breena]]                               | Owlin                  | Female     | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]     | Dhampir                | Male       | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Cleaner\|Cleaner]]                             | Automaton              | Other      | None        | Cleaner                    |
+| [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]             | Fairy                  | Female     | Quandrix    | Professor of Substance     |
+| [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]]         | Dwarf                  | Female     | None        | Tavern Chef                |
+| [[2-World/People/Staff/Deekah\|Deekah]]                               | Human                  | Female     | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Dramitia\|Dramitia]]                           | Tiefling               | Female     | None        | Coach                      |
+| [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]]         | Elf                    | Female     | None        | Cafe Manager               |
+| [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                       | Human                  | Male       | Silverquill | College Dean               |
+| [[2-World/People/Staff/Fain\|Fain]]                                   | Human                  | Male       | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]         | Dragon                 | Male       | Prismari    | Founder Dragon             |
 
 { .block-language-dataview}

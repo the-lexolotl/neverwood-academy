@@ -18,16 +18,6 @@ The following people are members of this group.
 
 | File                                                                                         | Race            | Gender | College     |
 | -------------------------------------------------------------------------------------------- | --------------- | ------ | ----------- |
-| [[2-World/People/Althea Nightshade\|Althea Nightshade]]                                   | Hexblood        | Female | Witherbloom |
-| [[2-World/People/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Dhampir         | Female | Witherbloom |
-| [[2-World/People/Bhedum Sooviij\|Bhedum Sooviij]]                                         | Loxodon         | Male   | Lorehold    |
-| [[2-World/People/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome           | Male   | Quandrix    |
-| [[2-World/People/Cadoras Damellawar\|Cadoras Damellawar]]                                 | Elf             | Male   | Quandrix    |
-| [[2-World/People/Calla Fernbrook\|Calla Fernbrook]]                                       | Satyr           | Female | Lorehold    |
-| [[2-World/People/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi      | Female | Prismari    |
-| [[2-World/People/Garyson Wildemere\|Garyson Wildemere]]                                   | Human           | Male   | Silverquill |
-| [[2-World/People/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged       | Male   | Quandrix    |
-| [[2-World/People/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf           | Female | Lorehold    |
 | [[2-World/People/Kealen Starfury\|Kealen Starfury]]                                       | Elf             | Male   | Silverquill |
 | [[2-World/People/Larine Arneza\|Larine Arneza]]                                           | Human           | Female | Quandrix    |
 | [[2-World/People/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling        | Male   | Prismari    |
@@ -41,6 +31,16 @@ The following people are members of this group.
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]                                           | Human           | Female | Quandrix    |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male   | Lorehold    |
 | [[2-World/People/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi     | Male   | Prismari    |
+| [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]                          | Hexblood        | Female | Witherbloom |
+| [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]            | Dhampir         | Female | Witherbloom |
+| [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]]                                | Loxodon         | Male   | Lorehold    |
+| [[2-World/People/Students/Briswick Goldpenny\|Briswick Goldpenny]]                        | Gnome           | Male   | Quandrix    |
+| [[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]]                        | Elf             | Male   | Quandrix    |
+| [[2-World/People/Students/Calla Fernbrook\|Calla Fernbrook]]                              | Satyr           | Female | Lorehold    |
+| [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]                    | Air Genasi      | Female | Prismari    |
+| [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]                          | Human           | Male   | Silverquill |
+| [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                      | Warforged       | Male   | Quandrix    |
+| [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                    | Dwarf           | Female | Lorehold    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                                            | Aarakocra       | Female | Lorehold    |
 | [[1-Party/Group 2/H'er\|H'er]]                                                            | Tiefling        | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                                    | Human           | Male   | Quandrix    |

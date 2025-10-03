@@ -36,13 +36,13 @@ Make notes of what you need to track in the group here.
 The following people are members of this group.  
 
 
-| File                                                                               | Race      | Gender | College     |
-| ---------------------------------------------------------------------------------- | --------- | ------ | ----------- |
-| [[2-World/People/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom |
-| [[2-World/People/Dramitia\|Dramitia]]                                           | Tiefling  | Female | None        |
-| [[2-World/People/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    |
-| [[2-World/People/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    |
-| [[2-World/People/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill |
-| [[2-World/People/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill |
+| File                                                                                        | Race      | Gender | College     |
+| ------------------------------------------------------------------------------------------- | --------- | ------ | ----------- |
+| [[2-World/People/Rubina Larkingdale\|Rubina Larkingdale]]                                | Human     | Female | Silverquill |
+| [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom |
+| [[2-World/People/Students/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    |
+| [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill |
+| [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    |
+| [[2-World/People/Staff/Dramitia\|Dramitia]]                                              | Tiefling  | Female | None        |
 
 { .block-language-dataview}

@@ -16,34 +16,34 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 
 # NPCs
 
-| File                                                                     | Race          | Gender     | Role                |
-| ------------------------------------------------------------------------ | ------------- | ---------- | ------------------- |
-| [[2-World/People/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
-| [[2-World/People/Asana Vargundil\|Asana Vargundil]]                   | Elf           | Female     | Professor of Growth |
-| [[2-World/People/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]] | Dhampir       | Female     | Student             |
-| [[2-World/People/Beledros Witherbloom\|Beledros Witherbloom]]         | Dragon        | Female     | Founder Dragon      |
-| [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]                   | Half-Bullywug | Male       | Alumni              |
-| [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]]               | Bullywug      | Male       | Alumni              |
-| [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                   | Firbolg       | Male       | Professor of Growth |
-| [[2-World/People/Lissette\|Lissette]]                                 | Human         | Female     | College Dean        |
-| [[2-World/People/Melwythorn\|Melwythorn]]                             | Dryad         | Male       | Student             |
-| [[2-World/People/Miaukier\|Miaukier]]                                 | Cat           | Male       | Other               |
-| [[2-World/People/Mirella Blackbriar\|Mirella Blackbriar]]             | Reborn        | Female     | Student             |
-| [[2-World/People/Nyssa Willowmere\|Nyssa Willowmere]]                 | Dryad         | Female     | Student             |
-| [[2-World/People/Serafina Onyx\|Serafina Onyx]]                       | Human         | Female     | Professor of Decay  |
-| [[2-World/People/Theodore Moss\|Theodore Moss]]                       | Human         | Male       | Veteran             |
-| [[2-World/People/Tivash\|Tivash]]                                     | Human         | Male       | Professor of Decay  |
-| [[2-World/People/Valentin\|Valentin]]                                 | Vampire       | Male       | College Dean        |
-| [[2-World/People/Venoc Plaguescale\|Venoc Plaguescale]]               | Dragonborn    | Male       | Professor of Decay  |
-| [[2-World/People/Verelda Lang\|Verelda Lang]]                         | Dryad         | Female     | Professor of Growth |
-| [[2-World/People/Verooja\|Verooja]]                                   | Loxodon       | Male       | Professor of Growth |
-| [[2-World/People/Willowdusk\|Willowdusk]]                             | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                     | Tiefling      | Male       | Student             |
-| [[2-World/People/Francis Farlight\|Francis Farlight]]                 | Human         | Male       | Student             |
-| [[2-World/People/Pebble\|Pebble]]                                     | Earth Genasi  | Non-binary | Student             |
-| [[2-World/People/Ivy Drake\|Ivy Drake]]                               | Half-Orc      | Female     | Student             |
-| [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                 | Orc           | Male       | Student             |
-| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]           | Elf           | Male       | Student             |
+| File                                                                              | Race          | Gender     | Role                |
+| --------------------------------------------------------------------------------- | ------------- | ---------- | ------------------- |
+| [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                            | Firbolg       | Male       | Professor of Growth |
+| [[2-World/People/Lissette\|Lissette]]                                          | Human         | Female     | College Dean        |
+| [[2-World/People/Melwythorn\|Melwythorn]]                                      | Dryad         | Male       | Student             |
+| [[2-World/People/Miaukier\|Miaukier]]                                          | Cat           | Male       | Other               |
+| [[2-World/People/Mirella Blackbriar\|Mirella Blackbriar]]                      | Reborn        | Female     | Student             |
+| [[2-World/People/Nyssa Willowmere\|Nyssa Willowmere]]                          | Dryad         | Female     | Student             |
+| [[2-World/People/Serafina Onyx\|Serafina Onyx]]                                | Human         | Female     | Professor of Decay  |
+| [[2-World/People/Theodore Moss\|Theodore Moss]]                                | Human         | Male       | Veteran             |
+| [[2-World/People/Tivash\|Tivash]]                                              | Human         | Male       | Professor of Decay  |
+| [[2-World/People/Valentin\|Valentin]]                                          | Vampire       | Male       | College Dean        |
+| [[2-World/People/Venoc Plaguescale\|Venoc Plaguescale]]                        | Dragonborn    | Male       | Professor of Decay  |
+| [[2-World/People/Verelda Lang\|Verelda Lang]]                                  | Dryad         | Female     | Professor of Growth |
+| [[2-World/People/Verooja\|Verooja]]                                            | Loxodon       | Male       | Professor of Growth |
+| [[2-World/People/Willowdusk\|Willowdusk]]                                      | Treant        | Female     | Professor of Growth |
+| [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                              | Tiefling      | Male       | Student             |
+| [[2-World/People/Pebble\|Pebble]]                                              | Earth Genasi  | Non-binary | Student             |
+| [[2-World/People/Ivy Drake\|Ivy Drake]]                                        | Half-Orc      | Female     | Student             |
+| [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                          | Orc           | Male       | Student             |
+| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                    | Elf           | Male       | Student             |
+| [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
+| [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]] | Dhampir       | Female     | Student             |
+| [[2-World/People/Students/Francis Farlight\|Francis Farlight]]                 | Human         | Male       | Student             |
+| [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]                      | Elf           | Female     | Professor of Growth |
+| [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]            | Dragon        | Female     | Founder Dragon      |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                      | Half-Bullywug | Male       | Alumni              |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                  | Bullywug      | Male       | Alumni              |
 
 { .block-language-dataview}
 

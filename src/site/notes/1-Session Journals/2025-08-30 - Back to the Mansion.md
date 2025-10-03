@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"Back to the Mansion","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-30","players":7,"OneLiner":"Heading back into Fistandria's Mansion","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionAbsent":["[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionNPC":["[[2-World/People/Fistandria.md|Fistandria]]","[[2-World/People/Cumin.md|Cumin]]","[[2-World/People/Coriander.md|Coriander]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-30 - Back to the Mansion.md","permalink":"/session-journals/2025-08-30-back-to-the-mansion/","dgPassFrontmatter":true,"updated":"2025-09-28T18:46:06.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"Back to the Mansion","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-30","players":7,"OneLiner":"Heading back into Fistandria's Mansion","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionAbsent":["[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionNPC":["[[Fistandria|Fistandria]]","[[Cumin|Cumin]]","[[Coriander|Coriander]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-30 - Back to the Mansion.md","permalink":"/session-journals/2025-08-30-back-to-the-mansion/","dgPassFrontmatter":true,"updated":"2025-10-03T13:34:36.000+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Coriander\|Coriander]], [[2-World/People/Cumin\|Cumin]], [[2-World/People/Fistandria\|Fistandria]]
+[[2-World/People/Other/Coriander\|Coriander]], [[2-World/People/Other/Cumin\|Cumin]], [[2-World/People/Other/Fistandria\|Fistandria]]
 
 ## Summary
 After piecing together the secrets of Professor Matreous’s disappearance, the students of Neverwood Academy decided to risk a second journey into **Fistandria’s extradimensional mansion**. What began as another cautious investigation quickly turned tense when the mansion’s true master returned. Forced to think fast, hide, and eventually flee, the group left with more questions than answers — and the looming certainty that they had drawn the attention of a powerful mage.
@@ -33,7 +33,7 @@ After piecing together the secrets of Professor Matreous’s disappearance, the 
 
 * The party returned to **Professor [[2-World/People/Matreous\|Matreous]]'s office**, spoke the command word, and stepped once more into the extradimensional mansion.  
 * Dust covered most surfaces — time had clearly passed since their last visit.  
-* In the **kitchen**, the homunculi, **[[2-World/People/Cumin\|Cumin]] and [[2-World/People/Coriander\|Coriander]]**, confirmed that a couple of weeks had gone by. They apologised for the mess, explaining they’d been too busy to keep the mansion tidy.
+* In the **kitchen**, the homunculi, **[[2-World/People/Other/Cumin\|Cumin]] and [[2-World/People/Other/Coriander\|Coriander]]**, confirmed that a couple of weeks had gone by. They apologised for the mess, explaining they’d been too busy to keep the mansion tidy.
 
 ### Exploring Again
 

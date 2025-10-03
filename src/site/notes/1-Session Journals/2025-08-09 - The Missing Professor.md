@@ -28,7 +28,7 @@
 [[2-World/People/Matreous\|Matreous]], [[2-World/People/Losheel\|Losheel]]
 
 ## Summary
-After the chaos of the Autumn Equinox Feast and the first exams of the term, the students of Neverwood Academy found themselves drawn into a new mystery. A large, ancient tome fell from the library shelves, revealing secrets tied to the disappearance of [[2-World/People/Matreous\|Professor Matreous]] and the enigmatic extradimensional mansion of [[2-World/People/Fistandria\|Fistandria]]. With careful investigation, clever deduction, and a daring entry through a locked office chimney, the party uncovered hidden notebooks, arcane scrolls, and the command word that opened a shimmering doorway into a strange and otherworldly space — a discovery that promised adventures far beyond the familiar campus halls.
+After the chaos of the Autumn Equinox Feast and the first exams of the term, the students of Neverwood Academy found themselves drawn into a new mystery. A large, ancient tome fell from the library shelves, revealing secrets tied to the disappearance of [[2-World/People/Matreous\|Professor Matreous]] and the enigmatic extradimensional mansion of [[2-World/People/Other/Fistandria\|Fistandria]]. With careful investigation, clever deduction, and a daring entry through a locked office chimney, the party uncovered hidden notebooks, arcane scrolls, and the command word that opened a shimmering doorway into a strange and otherworldly space — a discovery that promised adventures far beyond the familiar campus halls.
 
 ### The Neverwood Times
 
@@ -76,7 +76,7 @@ The group made a brief stop at Whalebucks, where they met [[2-World/People/Loshe
 Finding the correct office locked, **Lyra** flew in through the chimney and opened the door. Inside, the group found:
 
 * Several books on **Interdimensional Travel** & **Extradimensional Magic**  
-* A **small notebook** of Matreous’s ramblings about an extradimensional mansion belonging to **[[2-World/People/Fistandria\|Fistandria]], which he claimed to have located in her former office  
+* A **small notebook** of Matreous’s ramblings about an extradimensional mansion belonging to **[[2-World/People/Other/Fistandria\|Fistandria]], which he claimed to have located in her former office  
 * Theories that the entrance required a specific command word 
 
 They also investigated a heavy statue by the door, eventually toppling it to reveal:

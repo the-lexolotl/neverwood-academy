@@ -39,27 +39,27 @@ Make notes of what you need to track in the group here.
 
 The following people are members of this group.  
 
-| File                                                             | Race     | Gender     | Role                  |
-| ---------------------------------------------------------------- | -------- | ---------- | --------------------- |
-| [[2-World/People/Breena\|Breena]]                             | Owlin    | Female     | Professor of Shadow   |
-| [[2-World/People/Brenneth Blackstone\|Brenneth Blackstone]]   | Dhampir  | Male       | Professor of Shadow   |
-| [[2-World/People/Embrose Lu\|Embrose Lu]]                     | Human    | Male       | College Dean          |
-| [[2-World/People/Fain\|Fain]]                                 | Human    | Male       | Professor of Shadow   |
-| [[2-World/People/Helios Sunmane\|Helios Sunmane]]             | Leonin   | Male       | Professor of Radience |
-| [[2-World/People/Liv Brandford\|Liv Brandford]]               | Human    | Female     | Professor of Shadow   |
-| [[2-World/People/Luc Brandford\|Luc Brandford]]               | Human    | Male       | Professor of Shadow   |
-| [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]]       | Owlin    | Female     | Professor of Radience |
-| [[2-World/People/Nils\|Nils]]                                 | Human    | Male       | Professor of Radience |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]     | Owlin    | Male       | Veteran               |
-| [[2-World/People/Sace Solindiel\|Sace Solindiel]]             | Half-Elf | Female     | Professor of Radience |
-| [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]   | Dragon   | Male       | Founder Dragon        |
-| [[2-World/People/Shaile Talonrook\|Shaile Talonrook]]         | Owlin    | Female     | College Dean          |
-| [[2-World/People/Smart Mouth\|Smart Mouth]]                   | Kenku    | Non-binary | Professor of Radience |
-| [[2-World/People/Fay McKinnon\|Fay McKinnon]]                 | Satyr    | Female     | Student               |
-| [[2-World/People/Geoffrey Writingham\|Geoffrey Writingham]]   | Human    | Male       | Student               |
-| [[2-World/People/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Elf      | Non-binary | Student               |
-| [[2-World/People/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
-| [[2-World/People/Thalia Everbright\|Thalia Everbright]]       | Aasimar  | Female     | Student               |
-| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
+| File                                                                    | Race     | Gender     | Role                  |
+| ----------------------------------------------------------------------- | -------- | ---------- | --------------------- |
+| [[2-World/People/Helios Sunmane\|Helios Sunmane]]                    | Leonin   | Male       | Professor of Radience |
+| [[2-World/People/Liv Brandford\|Liv Brandford]]                      | Human    | Female     | Professor of Shadow   |
+| [[2-World/People/Luc Brandford\|Luc Brandford]]                      | Human    | Male       | Professor of Shadow   |
+| [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]]              | Owlin    | Female     | Professor of Radience |
+| [[2-World/People/Nils\|Nils]]                                        | Human    | Male       | Professor of Radience |
+| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]            | Owlin    | Male       | Veteran               |
+| [[2-World/People/Sace Solindiel\|Sace Solindiel]]                    | Half-Elf | Female     | Professor of Radience |
+| [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]          | Dragon   | Male       | Founder Dragon        |
+| [[2-World/People/Shaile Talonrook\|Shaile Talonrook]]                | Owlin    | Female     | College Dean          |
+| [[2-World/People/Smart Mouth\|Smart Mouth]]                          | Kenku    | Non-binary | Professor of Radience |
+| [[2-World/People/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]        | Elf      | Non-binary | Student               |
+| [[2-World/People/Mina Lee\|Mina Lee]]                                | Human    | Female     | Student               |
+| [[2-World/People/Thalia Everbright\|Thalia Everbright]]              | Aasimar  | Female     | Student               |
+| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]              | Orc      | Female     | Student               |
+| [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]               | Satyr    | Female     | Student               |
+| [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]] | Human    | Male       | Student               |
+| [[2-World/People/Staff/Breena\|Breena]]                              | Owlin    | Female     | Professor of Shadow   |
+| [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]    | Dhampir  | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                      | Human    | Male       | College Dean          |
+| [[2-World/People/Staff/Fain\|Fain]]                                  | Human    | Male       | Professor of Shadow   |
 
 { .block-language-dataview}

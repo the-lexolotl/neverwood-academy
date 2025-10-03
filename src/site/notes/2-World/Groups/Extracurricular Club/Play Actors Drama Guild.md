@@ -38,12 +38,12 @@ The following people are members of this group.
 
 | File                                                                                         | Race            | Gender     | College     |
 | -------------------------------------------------------------------------------------------- | --------------- | ---------- | ----------- |
-| [[2-World/People/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc             | Non-binary | Prismari    |
-| [[2-World/People/Dramitia\|Dramitia]]                                                     | Tiefling        | Female     | None        |
 | [[2-World/People/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human           | Male       | Prismari    |
 | [[2-World/People/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female     | Silverquill |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male       | Lorehold    |
 | [[2-World/People/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf             | Non-binary | Silverquill |
+| [[2-World/People/Students/Derthag Shadowslayer\|Derthag Shadowslayer]]                    | Orc             | Non-binary | Prismari    |
+| [[2-World/People/Staff/Dramitia\|Dramitia]]                                               | Tiefling        | Female     | None        |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                                        | Variant Aasimar | Female     | Silverquill |
 
 { .block-language-dataview}

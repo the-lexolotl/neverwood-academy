@@ -10,7 +10,7 @@
 **Category:** Landmark
 
 ### Description
-At the edge of Archway Commons and just outside the Biblioplex stands the cozy Firejolt Café, where students cram both information and caffeine into themselves before exams. The café’s name comes from its trademark beverage, which the manager, an elf mage named [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]], brews with her fire magic. The Firejolt has a reputation as a hangout for first-year students, but older students from all five colleges can be seen inside at all hours.
+At the edge of Archway Commons and just outside the Biblioplex stands the cozy Firejolt Café, where students cram both information and caffeine into themselves before exams. The café’s name comes from its trademark beverage, which the manager, an elf mage named [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]], brews with her fire magic. The Firejolt has a reputation as a hangout for first-year students, but older students from all five colleges can be seen inside at all hours.
 
 # GM Notes
 

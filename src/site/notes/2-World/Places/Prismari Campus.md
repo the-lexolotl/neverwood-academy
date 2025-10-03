@@ -18,14 +18,6 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 
 | File                                                                                         | Race         | Gender     | Role                    |
 | -------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------------------- |
-| [[2-World/People/Ahkwa\|Ahkwa]]                                                           | Tortle       | Female     | Professor of Perfection |
-| [[2-World/People/Arkin Minexes\|Arkin Minexes]]                                           | Human        | Male       | Professor of Expression |
-| [[2-World/People/Dain Montagu\|Dain Montagu]]                                             | Aasimar      | Male       | Student                 |
-| [[2-World/People/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc          | Non-binary | Student                 |
-| [[2-World/People/Dorian Wavecrest\|Dorian Wavecrest]]                                     | Triton       | Male       | Student                 |
-| [[2-World/People/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi   | Female     | Student                 |
-| [[2-World/People/Emeline Redstream\|Emeline Redstream]]                                   | Loxodon      | Female     | Student                 |
-| [[2-World/People/Galazeth Prismari\|Galazeth Prismari]]                                   | Dragon       | Male       | Founder Dragon          |
 | [[2-World/People/Ignaria Kahafi\|Ignaria Kahafi]]                                         | Eladrin      | Female     | Professor of Expression |
 | [[2-World/People/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling     | Male       | Student                 |
 | [[2-World/People/Nassari\|Nassari]]                                                       | Fire Genasi  | Other      | College Dean            |
@@ -38,6 +30,14 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Zaffai\|Zaffai]]                                                         | Human        | Male       | Professor of Expression |
 | [[2-World/People/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi  | Male       | Student                 |
 | [[2-World/People/Zaph\|Zaph]]                                                             | Air Genasi   | FtM        | Professor of Perfection |
+| [[2-World/People/Students/Dain Montagu\|Dain Montagu]]                                    | Aasimar      | Male       | Student                 |
+| [[2-World/People/Students/Derthag Shadowslayer\|Derthag Shadowslayer]]                    | Orc          | Non-binary | Student                 |
+| [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]]                            | Triton       | Male       | Student                 |
+| [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]                    | Air Genasi   | Female     | Student                 |
+| [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]                          | Loxodon      | Female     | Student                 |
+| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                     | Tortle       | Female     | Professor of Perfection |
+| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                                     | Human        | Male       | Professor of Expression |
+| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]                             | Dragon       | Male       | Founder Dragon          |
 
 { .block-language-dataview}
 

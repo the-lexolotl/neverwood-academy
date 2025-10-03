@@ -39,9 +39,9 @@ The following people are associated with this quest.
 
 | File                                                                | Race            | Gender | Role      |
 | ------------------------------------------------------------------- | --------------- | ------ | --------- |
-| [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]              | Half-Bullywug   | Male   | Alumni    |
-| [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]]          | Bullywug        | Male   | Alumni    |
 | [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]                | Halfling        | Female | Applicant |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]        | Half-Bullywug   | Male   | Alumni    |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]    | Bullywug        | Male   | Alumni    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   | Aarakocra       | Female | Player    |
 | [[1-Party/Group 2/H'er\|H'er]]                                   | Tiefling        | Female | Player    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]           | Human           | Male   | Player    |

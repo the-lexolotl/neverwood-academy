@@ -16,8 +16,8 @@
 
 The following people are members of this group.  
 
-| File                                                       | Race     | Gender | College     |
-| ---------------------------------------------------------- | -------- | ------ | ----------- |
-| [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug | Male   | Witherbloom |
+| File                                                             | Race     | Gender | College     |
+| ---------------------------------------------------------------- | -------- | ------ | ----------- |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug | Male   | Witherbloom |
 
 { .block-language-dataview}

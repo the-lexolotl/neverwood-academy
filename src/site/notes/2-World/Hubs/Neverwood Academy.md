@@ -17,45 +17,6 @@ This is the places description.
 
 | File                                                                                         |
 | -------------------------------------------------------------------------------------------- |
-| [[2-World/People/Adrix\|Adrix]]                                                           |
-| [[2-World/People/Ahkwa\|Ahkwa]]                                                           |
-| [[2-World/People/Aisla Fitzbottom\|Aisla Fitzbottom]]                                     |
-| [[2-World/People/Althea Nightshade\|Althea Nightshade]]                                   |
-| [[2-World/People/Arkin Minexes\|Arkin Minexes]]                                           |
-| [[2-World/People/Asana Vargundil\|Asana Vargundil]]                                       |
-| [[2-World/People/Augusta Tullus\|Augusta Tullus]]                                         |
-| [[2-World/People/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     |
-| [[2-World/People/Beledros Witherbloom\|Beledros Witherbloom]]                             |
-| [[2-World/People/Bhedum Sooviij\|Bhedum Sooviij]]                                         |
-| [[2-World/People/Bildra Forheim\|Bildra Forheim]]                                         |
-| [[2-World/People/Breena\|Breena]]                                                         |
-| [[2-World/People/Brenneth Blackstone\|Brenneth Blackstone]]                               |
-| [[2-World/People/Briswick Goldpenny\|Briswick Goldpenny]]                                 |
-| [[2-World/People/Cadoras Damellawar\|Cadoras Damellawar]]                                 |
-| [[2-World/People/Calla Fernbrook\|Calla Fernbrook]]                                       |
-| [[2-World/People/Cleaner\|Cleaner]]                                                       |
-| [[2-World/People/Clem Greenthumb\|Clem Greenthumb]]                                       |
-| [[2-World/People/Coriander\|Coriander]]                                                   |
-| [[2-World/People/Curtie Axechucker\|Curtie Axechucker]]                                   |
-| [[2-World/People/Dain Montagu\|Dain Montagu]]                                             |
-| [[2-World/People/Deekah\|Deekah]]                                                         |
-| [[2-World/People/Daniel Murgaxor\|Daniel Murgaxor]]                                       |
-| [[2-World/People/Derthag Shadowslayer\|Derthag Shadowslayer]]                             |
-| [[2-World/People/Dorian Wavecrest\|Dorian Wavecrest]]                                     |
-| [[2-World/People/Diana Fenwick\|Diana Fenwick]]                                           |
-| [[2-World/People/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   |
-| [[2-World/People/Dramitia\|Dramitia]]                                                     |
-| [[2-World/People/Elandra Stormwhisper\|Elandra Stormwhisper]]                             |
-| [[2-World/People/Ellina Tanglewood\|Ellina Tanglewood]]                                   |
-| [[2-World/People/Elowen Quickwhisper\|Elowen Quickwhisper]]                               |
-| [[2-World/People/Embrose Lu\|Embrose Lu]]                                                 |
-| [[2-World/People/Emeline Redstream\|Emeline Redstream]]                                   |
-| [[2-World/People/Fain\|Fain]]                                                             |
-| [[2-World/People/Galazeth Prismari\|Galazeth Prismari]]                                   |
-| [[2-World/People/Garyson Wildemere\|Garyson Wildemere]]                                   |
-| [[2-World/People/Gethrick Ironbranch\|Gethrick Ironbranch]]                               |
-| [[2-World/People/Grenshel Murgaxor\|Grenshel Murgaxor]]                                   |
-| [[2-World/People/Greta Gorunn\|Greta Gorunn]]                                             |
 | [[2-World/People/Hazkira Ravenfang\|Hazkira Ravenfang]]                                   |
 | [[2-World/People/Helios Sunmane\|Helios Sunmane]]                                         |
 | [[2-World/People/Hofri Ghostforge\|Hofri Ghostforge]]                                     |
@@ -137,18 +98,57 @@ This is the places description.
 | [[2-World/People/Zanther Brown\|Zanther Brown]]                                           |
 | [[2-World/People/Zaph\|Zaph]]                                                             |
 | [[2-World/People/Zoei\|Zoei]]                                                             |
-| [[2-World/People/Fay McKinnon\|Fay McKinnon]]                                             |
-| [[2-World/People/Geoffrey Writingham\|Geoffrey Writingham]]                               |
 | [[2-World/People/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             |
 | [[2-World/People/Mina Lee\|Mina Lee]]                                                     |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                   |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                   |
 | [[2-World/People/Henry Woodleaf\|Henry Woodleaf]]                                         |
-| [[2-World/People/Francis Farlight\|Francis Farlight]]                                     |
 | [[2-World/People/Pebble\|Pebble]]                                                         |
 | [[2-World/People/Ivy Drake\|Ivy Drake]]                                                   |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               |
+| [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]                          |
+| [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]            |
+| [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]]                                |
+| [[2-World/People/Students/Briswick Goldpenny\|Briswick Goldpenny]]                        |
+| [[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]]                        |
+| [[2-World/People/Students/Calla Fernbrook\|Calla Fernbrook]]                              |
+| [[2-World/People/Students/Dain Montagu\|Dain Montagu]]                                    |
+| [[2-World/People/Students/Derthag Shadowslayer\|Derthag Shadowslayer]]                    |
+| [[2-World/People/Students/Diana Fenwick\|Diana Fenwick]]                                  |
+| [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]]                            |
+| [[2-World/People/Students/Drazhomir Yarnask\|Drazhomir Yarnask]]                          |
+| [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]                    |
+| [[2-World/People/Students/Elowen Quickwhisper\|Elowen Quickwhisper]]                      |
+| [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]                          |
+| [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]                                    |
+| [[2-World/People/Students/Francis Farlight\|Francis Farlight]]                            |
+| [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]                          |
+| [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                      |
+| [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                      |
+| [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                    |
+| [[2-World/People/Staff/Adrix\|Adrix]]                                                     |
+| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                     |
+| [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                               |
+| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                                     |
+| [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]                                 |
+| [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                   |
+| [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]                       |
+| [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]                                   |
+| [[2-World/People/Staff/Breena\|Breena]]                                                   |
+| [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]                         |
+| [[2-World/People/Staff/Cleaner\|Cleaner]]                                                 |
+| [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]                                 |
+| [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]]                             |
+| [[2-World/People/Staff/Deekah\|Deekah]]                                                   |
+| [[2-World/People/Staff/Dramitia\|Dramitia]]                                               |
+| [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]]                             |
+| [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                                           |
+| [[2-World/People/Staff/Fain\|Fain]]                                                       |
+| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]                             |
+| [[2-World/People/Other/Coriander\|Coriander]]                                             |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                 |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                             |
 
 { .block-language-dataview}
 

@@ -35,14 +35,14 @@ Make notes of what you need to track in the group here.
 
 The following people are members of this group.  
 
-| File                                                                               | Race       | Gender | College     |
-| ---------------------------------------------------------------------------------- | ---------- | ------ | ----------- |
-| [[2-World/People/Cadoras Damellawar\|Cadoras Damellawar]]                       | Elf        | Male   | Quandrix    |
-| [[2-World/People/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Air Genasi | Female | Prismari    |
-| [[2-World/People/Emeline Redstream\|Emeline Redstream]]                         | Loxodon    | Female | Prismari    |
-| [[2-World/People/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome      | Male   | Lorehold    |
-| [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                     | Human      | Female | Prismari    |
-| [[2-World/People/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human      | Male   | Silverquill |
-| [[1-Party/Group 2/H'er\|H'er]]                                                  | Tiefling   | Female | Prismari    |
+| File                                                                                        | Race       | Gender | College     |
+| ------------------------------------------------------------------------------------------- | ---------- | ------ | ----------- |
+| [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                              | Human      | Female | Prismari    |
+| [[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]]                       | Elf        | Male   | Quandrix    |
+| [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Air Genasi | Female | Prismari    |
+| [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]                         | Loxodon    | Female | Prismari    |
+| [[2-World/People/Students/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome      | Male   | Lorehold    |
+| [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human      | Male   | Silverquill |
+| [[1-Party/Group 2/H'er\|H'er]]                                                           | Tiefling   | Female | Prismari    |
 
 { .block-language-dataview}

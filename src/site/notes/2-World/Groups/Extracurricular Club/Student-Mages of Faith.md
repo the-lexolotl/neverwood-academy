@@ -35,12 +35,12 @@ Make notes of what you need to track in the group here.
 The following people are members of this group.  
 
 
-| File                                                             | Race    | Gender | College     |
-| ---------------------------------------------------------------- | ------- | ------ | ----------- |
-| [[2-World/People/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Firbolg | Female | Lorehold    |
-| [[2-World/People/Melwythorn\|Melwythorn]]                     | Dryad   | Male   | Witherbloom |
-| [[2-World/People/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin   | Female | Silverquill |
-| [[2-World/People/Fay McKinnon\|Fay McKinnon]]                 | Satyr   | Female | Silverquill |
-| [[2-World/People/Thalia Everbright\|Thalia Everbright]]       | Aasimar | Female | Silverquill |
+| File                                                                  | Race    | Gender | College     |
+| --------------------------------------------------------------------- | ------- | ------ | ----------- |
+| [[2-World/People/Melwythorn\|Melwythorn]]                          | Dryad   | Male   | Witherbloom |
+| [[2-World/People/Shuvadri Glintmantle\|Shuvadri Glintmantle]]      | Owlin   | Female | Silverquill |
+| [[2-World/People/Thalia Everbright\|Thalia Everbright]]            | Aasimar | Female | Silverquill |
+| [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]] | Firbolg | Female | Lorehold    |
+| [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]             | Satyr   | Female | Silverquill |
 
 { .block-language-dataview}
