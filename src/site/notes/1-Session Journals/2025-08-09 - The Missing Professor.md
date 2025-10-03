@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Matreous.md|Matreous]]","[[2-World/People/Losheel.md|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-02T15:40:56.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Matreous.md|Matreous]]","[[Losheel|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-03T15:03:42.000+01:00"}
 ---
 
 
@@ -25,7 +25,7 @@
 
 ## NPC's
 
-[[2-World/People/Matreous\|Matreous]], [[2-World/People/Losheel\|Losheel]]
+[[2-World/People/Matreous\|Matreous]], [[2-World/People/Staff/Losheel\|Losheel]]
 
 ## Summary
 After the chaos of the Autumn Equinox Feast and the first exams of the term, the students of Neverwood Academy found themselves drawn into a new mystery. A large, ancient tome fell from the library shelves, revealing secrets tied to the disappearance of [[2-World/People/Matreous\|Professor Matreous]] and the enigmatic extradimensional mansion of [[2-World/People/Other/Fistandria\|Fistandria]]. With careful investigation, clever deduction, and a daring entry through a locked office chimney, the party uncovered hidden notebooks, arcane scrolls, and the command word that opened a shimmering doorway into a strange and otherworldly space — a discovery that promised adventures far beyond the familiar campus halls.
@@ -65,7 +65,7 @@ The Librarian directed them to **[[2-World/Points of Interest/Pillardrop\|Pillar
 
 ### Whalebucks Interlude
 
-The group made a brief stop at Whalebucks, where they met [[2-World/People/Losheel\|Professor Losheel]] of Lorehold:
+The group made a brief stop at Whalebucks, where they met [[2-World/People/Staff/Losheel\|Professor Losheel]] of Lorehold:
 
 * Losheel recalled Matreous as brilliant but “a bit mad.”  
 * Claimed Matreous believed he was on the brink of a major discovery.  

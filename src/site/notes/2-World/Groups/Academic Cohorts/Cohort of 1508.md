@@ -18,8 +18,6 @@ The following people are members of this group.
 
 | File                                                                                         | Race            | Gender | College     |
 | -------------------------------------------------------------------------------------------- | --------------- | ------ | ----------- |
-| [[2-World/People/Larine Arneza\|Larine Arneza]]                                           | Human           | Female | Quandrix    |
-| [[2-World/People/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling        | Male   | Prismari    |
 | [[2-World/People/Melwythorn\|Melwythorn]]                                                 | Dryad           | Male   | Witherbloom |
 | [[2-World/People/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn          | Female | Witherbloom |
 | [[2-World/People/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad           | Female | Witherbloom |
@@ -41,6 +39,8 @@ The following people are members of this group.
 | [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                      | Warforged       | Male   | Quandrix    |
 | [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                    | Dwarf           | Female | Lorehold    |
 | [[2-World/People/Students/Kealen Starfury\|Kealen Starfury]]                              | Elf             | Male   | Silverquill |
+| [[2-World/People/Students/Larine Arneza\|Larine Arneza]]                                  | Human           | Female | Quandrix    |
+| [[2-World/People/Students/Lysander Frostbane\|Lysander Frostbane]]                        | Tiefling        | Male   | Prismari    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                                            | Aarakocra       | Female | Lorehold    |
 | [[1-Party/Group 2/H'er\|H'er]]                                                            | Tiefling        | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                                    | Human           | Male   | Quandrix    |

@@ -20,7 +20,6 @@ The following people are members of this group.
 
 | File                                                                                        | Race         | Gender     | College     |
 | ------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------- |
-| [[2-World/People/Lindsey Stonesworn\|Lindsey Stonesworn]]                                | Human        | Female     | Quandrix    |
 | [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                              | Human        | Female     | Prismari    |
 | [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                                    | Fire Genasi  | Male       | Lorehold    |
 | [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg      | Non-binary | Lorehold    |
@@ -29,7 +28,6 @@ The following people are members of this group.
 | [[2-World/People/Rowan Montagu\|Rowan Montagu]]                                          | Orc          | Male       | Quandrix    |
 | [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]                                  | Kenku        | Non-binary | Quandrix    |
 | [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin       | Female     | Lorehold    |
-| [[2-World/People/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                            | Elf          | Non-binary | Silverquill |
 | [[2-World/People/Mina Lee\|Mina Lee]]                                                    | Human        | Female     | Silverquill |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                  | Aasimar      | Female     | Silverquill |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                  | Orc          | Female     | Silverquill |
@@ -53,6 +51,8 @@ The following people are members of this group.
 | [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf     | Female     | Lorehold    |
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                                         | Half-Orc     | Female     | Witherbloom |
 | [[2-World/People/Students/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin        | Male       | Lorehold    |
+| [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                   | Elf          | Non-binary | Silverquill |
+| [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]                       | Human        | Female     | Quandrix    |
 
 { .block-language-dataview}
 

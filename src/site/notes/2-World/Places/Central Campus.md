@@ -19,7 +19,6 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 
 | File                                                             | Race                   | Gender | Role                       |
 | ---------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
-| [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]]       | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Master Chef Gyome\|Master Chef Gyome]]       | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Molvi Le Donto\|Molvi Le Donto]]             | Human                  | Female | Lab Administrator          |
 | [[2-World/People/Orvlo\|Orvlo]]                               | Vedalken               | Male   | General Studies Professor  |
@@ -37,6 +36,7 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
+| [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Other/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
 
 { .block-language-dataview}

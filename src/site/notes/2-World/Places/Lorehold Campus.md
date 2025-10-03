@@ -18,8 +18,6 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 
 | File                                                                                        | Race        | Gender     | Role               |
 | ------------------------------------------------------------------------------------------- | ----------- | ---------- | ------------------ |
-| [[2-World/People/Lianna Flametongue\|Lianna Flametongue]]                                | Elf         | Female     | Professor of Chaos |
-| [[2-World/People/Losheel\|Losheel]]                                                      | Loxodon     | Female     | Professor of Chaos |
 | [[2-World/People/Marrick Deepfindee\|Marrick Deepfindee]]                                | Halfling    | Male       | Professor of Chaos |
 | [[2-World/People/Matreous\|Matreous]]                                                    | Human       | Male       | Professor of Chaos |
 | [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    | Giant       | Male       | Professor of Order |
@@ -45,6 +43,8 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                  | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling    | Female     | Professor of Order |
 | [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf       | Male       | Professor of Order |
+| [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]                          | Elf         | Female     | Professor of Chaos |
+| [[2-World/People/Staff/Losheel\|Losheel]]                                                | Loxodon     | Female     | Professor of Chaos |
 
 { .block-language-dataview}
 

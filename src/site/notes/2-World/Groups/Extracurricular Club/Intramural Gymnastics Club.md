@@ -35,9 +35,9 @@ Make notes of what you need to track in the town here.
 The following people are members of this group.  
 
 
-| File                                                         | Race        | Gender | College  |
-| ------------------------------------------------------------ | ----------- | ------ | -------- |
-| [[2-World/People/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari |
-| [[2-World/People/Zanther Brown\|Zanther Brown]]           | Fire Genasi | Male   | Prismari |
+| File                                                                  | Race        | Gender | College  |
+| --------------------------------------------------------------------- | ----------- | ------ | -------- |
+| [[2-World/People/Zanther Brown\|Zanther Brown]]                    | Fire Genasi | Male   | Prismari |
+| [[2-World/People/Students/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari |
 
 { .block-language-dataview}

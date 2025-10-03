@@ -18,7 +18,6 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 
 | File                                                                                         | Race         | Gender     | Role                    |
 | -------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------------------- |
-| [[2-World/People/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling     | Male       | Student                 |
 | [[2-World/People/Nassari\|Nassari]]                                                       | Fire Genasi  | Other      | College Dean            |
 | [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                               | Human        | Female     | Student                 |
 | [[2-World/People/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human        | Male       | Student                 |
@@ -34,6 +33,7 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]]                            | Triton       | Male       | Student                 |
 | [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]                    | Air Genasi   | Female     | Student                 |
 | [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]                          | Loxodon      | Female     | Student                 |
+| [[2-World/People/Students/Lysander Frostbane\|Lysander Frostbane]]                        | Tiefling     | Male       | Student                 |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                     | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                                     | Human        | Male       | Professor of Expression |
 | [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]                             | Dragon       | Male       | Founder Dragon          |

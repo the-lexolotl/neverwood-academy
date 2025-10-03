@@ -22,12 +22,6 @@ The following people are members of this group.
 
 | File                                                                     | Race                   | Gender     | college     | Role                       |
 | ------------------------------------------------------------------------ | ---------------------- | ---------- | ----------- | -------------------------- |
-| [[2-World/People/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]]               | Owlin                  | Male       | None        | Dean of Admissions         |
-| [[2-World/People/Lissette\|Lissette]]                                 | Human                  | Female     | Witherbloom | College Dean               |
-| [[2-World/People/Liv Brandford\|Liv Brandford]]                       | Human                  | Female     | Silverquill | Professor of Shadow        |
-| [[2-World/People/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Luc Brandford\|Luc Brandford]]                       | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Marrick Deepfindee\|Marrick Deepfindee]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Master Chef Gyome\|Master Chef Gyome]]               | Troll                  | Male       | None        | Head Chef                  |
 | [[2-World/People/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
@@ -98,5 +92,11 @@ The following people are members of this group.
 | [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]         | Harengon               | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Kianne\|Kianne]]                               | Elf                    | Female     | Quandrix    | College Dean               |
 | [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]             | Firbolg                | Male       | Witherbloom | Professor of Growth        |
+| [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]       | Elf                    | Female     | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]         | Owlin                  | Male       | None        | Dean of Admissions         |
+| [[2-World/People/Staff/Lissette\|Lissette]]                           | Human                  | Female     | Witherbloom | College Dean               |
+| [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                 | Human                  | Female     | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Losheel\|Losheel]]                             | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                 | Human                  | Male       | Silverquill | Professor of Shadow        |
 
 { .block-language-dataview}

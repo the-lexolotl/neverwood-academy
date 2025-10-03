@@ -42,7 +42,6 @@ The following people are members of this group.
 
 | File                                                                    | Race       | Gender     | Role                   |
 | ----------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Lindsey Stonesworn\|Lindsey Stonesworn]]            | Human      | Female     | Student                |
 | [[2-World/People/Nev\|Nev]]                                          | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Rixy\|Rixy]]                                        | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                    | Half-Elf   | Male       | Student                |
@@ -54,6 +53,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |
 | [[2-World/People/Students/Drazhomir Yarnask\|Drazhomir Yarnask]]     | Minotaur   | Male       | Student                |
 | [[2-World/People/Students/Elowen Quickwhisper\|Elowen Quickwhisper]] | Halfling   | Female     | Student                |
+| [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human      | Female     | Student                |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]              | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]            | Fairy      | Female     | Professor of Substance |
