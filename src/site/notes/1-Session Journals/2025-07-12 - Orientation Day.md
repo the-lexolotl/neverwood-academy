@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Orientation Day","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-12","players":8,"OneLiner":"Settling in & Scavenger Hunt","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/People/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Zoei.md|Zoei]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-12 - Orientation Day.md","permalink":"/session-journals/2025-07-12-orientation-day/","dgPassFrontmatter":true,"updated":"2025-10-02T14:19:36.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Orientation Day","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-12","players":8,"OneLiner":"Settling in & Scavenger Hunt","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/People/Taiva Loreweaver.md|Taiva Loreweaver]]","[[Mavinda Sharpbeak|Mavinda Sharpbeak]]","[[2-World/People/Zoei.md|Zoei]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-12 - Orientation Day.md","permalink":"/session-journals/2025-07-12-orientation-day/","dgPassFrontmatter":true,"updated":"2025-10-03T15:32:20.000+01:00"}
 ---
 
 
@@ -26,13 +26,13 @@ None
 ## NPC's
 
 
-[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/People/Taiva Loreweaver\|Taiva Loreweaver]], [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]], [[2-World/People/Zoei\|Zoei]]
+[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/People/Taiva Loreweaver\|Taiva Loreweaver]], [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]], [[2-World/People/Zoei\|Zoei]]
 
 ## Summary
 The first-year students arrived at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], greeted by the school’s signature Campus Guide Automatons — brass, floating, bookish constructs who directed them around the grounds and provided them with basic schedules and maps.  
 The day began in the [[2-World/Points of Interest/Biblioplex\|Biblioplex]], the Academy’s vast central library and ceremonial hall. Students gathered alongside their peers to listen to two major speakers:  
 Head Teacher [[2-World/People/Taiva Loreweaver\|Taiva Loreweaver]], who gave an inspiring and cryptic welcome about the power of knowledge and the weight of legacy.  
-Professor [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]], Professor of Radiance and Guidance Counsellor, who encouraged students to seek truth in themselves as well as in books.  
+Professor [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]], Professor of Radiance and Guidance Counsellor, who encouraged students to seek truth in themselves as well as in books.  
 After speeches concluded, all first-year students were officially divided into their year-long adventuring groups — including the player characters — and given their first challenge.
 
 ### Treasure Hunt Challenge

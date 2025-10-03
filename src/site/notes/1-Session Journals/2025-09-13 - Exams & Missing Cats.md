@@ -58,7 +58,7 @@ The man, trembling, described his experience in **Neverwood Forest**:
 
 * After sobbing into his drink, the party asked his name: **[[2-World/People/Theodore Moss\|Theodore Moss]]**.  
 * Theodore pulled out a **map**, pointing to a location deep in Neverwood Forest, a day and a half’s journey away.  
-* The group agreed to help find [[2-World/People/Miaukier\|Miaukier]], deciding to use their **half-term holidays** to prepare and travel into the forest.
+* The group agreed to help find [[2-World/People/Other/Miaukier\|Miaukier]], deciding to use their **half-term holidays** to prepare and travel into the forest.
 
 ### Plans & Preparation
 

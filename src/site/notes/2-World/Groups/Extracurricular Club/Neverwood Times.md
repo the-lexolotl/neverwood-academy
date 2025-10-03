@@ -40,11 +40,11 @@ The following people are members of this group.
 | ----------------------------------------------------------------------- | -------- | ---------- | ----------- |
 | [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                    | Firbolg  | Non-binary | Lorehold    |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]              | Half-Orc | Male       | Lorehold    |
-| [[2-World/People/Mina Lee\|Mina Lee]]                                | Human    | Female     | Silverquill |
 | [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]     | Loxodon  | Female     | Prismari    |
 | [[2-World/People/Students/Francis Farlight\|Francis Farlight]]       | Human    | Male       | Witherbloom |
 | [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]     | Human    | Male       | Silverquill |
 | [[2-World/People/Students/Gilmirie Runlithmae\|Gilmirie Runlithmae]] | Human    | Female     | Lorehold    |
+| [[2-World/People/Students/Mina Lee\|Mina Lee]]                       | Human    | Female     | Silverquill |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]               | Human    | Male       | Quandrix    |
 
 { .block-language-dataview}

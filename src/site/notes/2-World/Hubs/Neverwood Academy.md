@@ -17,14 +17,6 @@ This is the places description.
 
 | File                                                                                         |
 | -------------------------------------------------------------------------------------------- |
-| [[2-World/People/Marrick Deepfindee\|Marrick Deepfindee]]                                 |
-| [[2-World/People/Master Chef Gyome\|Master Chef Gyome]]                                   |
-| [[2-World/People/Matreous\|Matreous]]                                                     |
-| [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                                   |
-| [[2-World/People/Melwythorn\|Melwythorn]]                                                 |
-| [[2-World/People/Miaukier\|Miaukier]]                                                     |
-| [[2-World/People/Mirella Blackbriar\|Mirella Blackbriar]]                                 |
-| [[2-World/People/Molvi Le Donto\|Molvi Le Donto]]                                         |
 | [[2-World/People/Nassari\|Nassari]]                                                       |
 | [[2-World/People/Nev\|Nev]]                                                               |
 | [[2-World/People/Nils\|Nils]]                                                             |
@@ -79,7 +71,6 @@ This is the places description.
 | [[2-World/People/Zanther Brown\|Zanther Brown]]                                           |
 | [[2-World/People/Zaph\|Zaph]]                                                             |
 | [[2-World/People/Zoei\|Zoei]]                                                             |
-| [[2-World/People/Mina Lee\|Mina Lee]]                                                     |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                   |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                   |
 | [[2-World/People/Pebble\|Pebble]]                                                         |
@@ -112,6 +103,9 @@ This is the places description.
 | [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                    |
 | [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]                        |
 | [[2-World/People/Students/Lysander Frostbane\|Lysander Frostbane]]                        |
+| [[2-World/People/Students/Melwythorn\|Melwythorn]]                                        |
+| [[2-World/People/Students/Mina Lee\|Mina Lee]]                                            |
+| [[2-World/People/Students/Mirella Blackbriar\|Mirella Blackbriar]]                        |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                     |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                     |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                               |
@@ -146,9 +140,15 @@ This is the places description.
 | [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                                     |
 | [[2-World/People/Staff/Losheel\|Losheel]]                                                 |
 | [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                                     |
+| [[2-World/People/Staff/Marrick Deepfindee\|Marrick Deepfindee]]                           |
+| [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]]                             |
+| [[2-World/People/Staff/Matreous\|Matreous]]                                               |
+| [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                             |
+| [[2-World/People/Staff/Molvi Le Donto\|Molvi Le Donto]]                                   |
 | [[2-World/People/Other/Coriander\|Coriander]]                                             |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                 |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                             |
+| [[2-World/People/Other/Miaukier\|Miaukier]]                                               |
 
 { .block-language-dataview}
 

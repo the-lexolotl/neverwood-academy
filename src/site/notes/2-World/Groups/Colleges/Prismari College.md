@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Prismari College.md","permalink":"/world/groups/colleges/prismari-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:20:04.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Prismari College.md","permalink":"/world/groups/colleges/prismari-college/","dgPassFrontmatter":true,"updated":"2025-10-03T15:14:54.000+01:00"}
 ---
 
 
@@ -42,21 +42,21 @@ The following people are members of this group.
 | File                                                                      | Race         | Gender     | Role                    |
 | ------------------------------------------------------------------------- | ------------ | ---------- | ----------------------- |
 | [[2-World/People/Nassari\|Nassari]]                                    | Fire Genasi  | Other      | College Dean            |
+| [[2-World/People/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                | Air Genasi   | Female     | College Dean            |
+| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]          | Dragon       | Male       | Founder Dragon          |
+| [[2-World/People/Rock\|Rock]]                                          | Earth Genasi | Male       | Professor of Expression |
+| [[2-World/People/Zaffai\|Zaffai]]                                      | Human        | Male       | Professor of Expression |
+| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                  | Human        | Male       | Professor of Expression |
+| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                | Eladrin      | Female     | Professor of Expression |
+| [[2-World/People/Veyran\|Veyran]]                                      | Water Genasi | Female     | Professor of Perfection |
+| [[2-World/People/Zaph\|Zaph]]                                          | Air Genasi   | FtM        | Professor of Perfection |
+| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                  | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                            | Human        | Female     | Student                 |
 | [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                  | Fire Genasi  | Male       | Student                 |
-| [[2-World/People/Rock\|Rock]]                                          | Earth Genasi | Male       | Professor of Expression |
 | [[2-World/People/Rose Mugwort\|Rose Mugwort]]                          | Halfling     | Female     | Student                 |
-| [[2-World/People/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                | Air Genasi   | Female     | College Dean            |
-| [[2-World/People/Veyran\|Veyran]]                                      | Water Genasi | Female     | Professor of Perfection |
-| [[2-World/People/Zaffai\|Zaffai]]                                      | Human        | Male       | Professor of Expression |
-| [[2-World/People/Zaph\|Zaph]]                                          | Air Genasi   | FtM        | Professor of Perfection |
 | [[2-World/People/Students/Dain Montagu\|Dain Montagu]]                 | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/Derthag Shadowslayer\|Derthag Shadowslayer]] | Orc          | Non-binary | Student                 |
 | [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]]         | Triton       | Male       | Student                 |
 | [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]       | Loxodon      | Female     | Student                 |
-| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                  | Tortle       | Female     | Professor of Perfection |
-| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                  | Human        | Male       | Professor of Expression |
-| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]          | Dragon       | Male       | Founder Dragon          |
-| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                | Eladrin      | Female     | Professor of Expression |
 
 { .block-language-dataview}

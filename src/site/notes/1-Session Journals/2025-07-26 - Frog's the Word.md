@@ -38,7 +38,7 @@ The students of Neverwood settled into their first proper week of academic life,
 
 Each student shared a glimpse into their solo adventures between sessions:
 * Kristy   
-  * Heard a spicy rumour: Professor [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]] may be romantically involved with Dean [[2-World/People/Shaile Talonrook\|Shaile Talonrook]].  
+  * Heard a spicy rumour: Professor [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]] may be romantically involved with Dean [[2-World/People/Shaile Talonrook\|Shaile Talonrook]].  
 * Megan  
   * Explored the backstage storage beneath [[2-World/Points of Interest/The Rose Stage\|The Rose Stage]] on [[2-World/Places/Silverquill Campus\|Silverquill Campus]], learning about its hidden passages and supply rooms.  
 * Rain  

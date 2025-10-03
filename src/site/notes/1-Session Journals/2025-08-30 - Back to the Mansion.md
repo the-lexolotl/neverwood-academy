@@ -31,7 +31,7 @@ After piecing together the secrets of Professor Matreous’s disappearance, the 
 
 ### Back Through the Portal
 
-* The party returned to **Professor [[2-World/People/Matreous\|Matreous]]'s office**, spoke the command word, and stepped once more into the extradimensional mansion.  
+* The party returned to **Professor [[2-World/People/Staff/Matreous\|Matreous]]'s office**, spoke the command word, and stepped once more into the extradimensional mansion.  
 * Dust covered most surfaces — time had clearly passed since their last visit.  
 * In the **kitchen**, the homunculi, **[[2-World/People/Other/Cumin\|Cumin]] and [[2-World/People/Other/Coriander\|Coriander]]**, confirmed that a couple of weeks had gone by. They apologised for the mess, explaining they’d been too busy to keep the mansion tidy.
 

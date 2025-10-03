@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgPassFrontmatter":true,"updated":"2025-09-29T13:19:58.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgPassFrontmatter":true,"updated":"2025-10-03T15:14:24.000+01:00"}
 ---
 
 
@@ -78,26 +78,26 @@ The following people are members of this group.
 
 | File                                                                                        | Race     | Gender     | Role               |
 | ------------------------------------------------------------------------------------------- | -------- | ---------- | ------------------ |
-| [[2-World/People/Marrick Deepfindee\|Marrick Deepfindee]]                                | Halfling | Male       | Professor of Chaos |
-| [[2-World/People/Matreous\|Matreous]]                                                    | Human    | Male       | Professor of Chaos |
-| [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    | Giant    | Male       | Professor of Order |
 | [[2-World/People/Plargg\|Plargg]]                                                        | Orc      | Male       | College Dean       |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                | Owlin    | Male       | Veteran            |
-| [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg  | Non-binary | Student            |
-| [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                        | Owlin    | Female     | Professor of Order |
-| [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin    | Male       | Professor of Chaos |
-| [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin   | Female     | Student            |
+| [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                  | Human    | Female     | College Dean       |
 | [[2-World/People/Velomachus Lorehold\|Velomachus Lorehold]]                              | Dragon   | Female     | Founder Dragon     |
+| [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin    | Male       | Professor of Chaos |
+| [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]                          | Elf      | Female     | Professor of Chaos |
+| [[2-World/People/Staff/Losheel\|Losheel]]                                                | Loxodon  | Female     | Professor of Chaos |
+| [[2-World/People/Staff/Marrick Deepfindee\|Marrick Deepfindee]]                          | Halfling | Male       | Professor of Chaos |
+| [[2-World/People/Staff/Matreous\|Matreous]]                                              | Human    | Male       | Professor of Chaos |
+| [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    | Giant    | Male       | Professor of Order |
+| [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                        | Owlin    | Female     | Professor of Order |
 | [[2-World/People/Xyla Langning\|Xyla Langning]]                                          | Gnome    | Female     | Professor of Order |
+| [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling | Female     | Professor of Order |
+| [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf    | Male       | Professor of Order |
+| [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg  | Non-binary | Student            |
+| [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin   | Female     | Student            |
 | [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg  | Female     | Student            |
 | [[2-World/People/Students/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome    | Male       | Student            |
 | [[2-World/People/Students/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human    | Female     | Student            |
 | [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf | Female     | Student            |
 | [[2-World/People/Students/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin    | Male       | Student            |
-| [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                  | Human    | Female     | College Dean       |
-| [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling | Female     | Professor of Order |
-| [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf    | Male       | Professor of Order |
-| [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]                          | Elf      | Female     | Professor of Chaos |
-| [[2-World/People/Staff/Losheel\|Losheel]]                                                | Loxodon  | Female     | Professor of Chaos |
+| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                | Owlin    | Male       | Veteran            |
 
 { .block-language-dataview}

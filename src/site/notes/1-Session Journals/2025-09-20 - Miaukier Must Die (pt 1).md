@@ -71,7 +71,7 @@ The party left the safety of Neverwood Academy, supplied with tents, rations, an
 
 ### Ongoing Threads
 
-* **[[2-World/People/Miaukier\|Miaukier]]’s Fate** – The cat is still missing. The cave may yet hold answers.  
+* **[[2-World/People/Other/Miaukier\|Miaukier]]’s Fate** – The cat is still missing. The cave may yet hold answers.  
 * **[[2-World/People/Theodore Moss\|Theodore Moss]]’s Warning** – His ramblings of a “larger leader” with black eyes linger in the party’s mind.  
 * **The Xvarts** – Who do they serve? What compels their rituals?  
 * **The Golden Fork** – A strange trophy from a fatter Xvart. Does it signify leadership or something more sinister?
