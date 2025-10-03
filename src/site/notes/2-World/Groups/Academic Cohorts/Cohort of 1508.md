@@ -43,8 +43,8 @@ The following people are members of this group.
 | [[2-World/People/Students/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad           | Female | Witherbloom |
 | [[2-World/People/Students/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai      | Male   | Silverquill |
 | [[2-World/People/Students/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human           | Male   | Prismari    |
-| [[2-World/People/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                            | Gnome           | Female | Lorehold    |
-| [[2-World/People/Rubina Larkingdale\|Rubina Larkingdale]]                                          | Human           | Female | Silverquill |
+| [[2-World/People/Students/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome           | Female | Lorehold    |
+| [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female | Silverquill |
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]                                                    | Human           | Female | Quandrix    |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                            | Half-Orc        | Male   | Lorehold    |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                                             | Dragonborn      | Male   | Quandrix    |

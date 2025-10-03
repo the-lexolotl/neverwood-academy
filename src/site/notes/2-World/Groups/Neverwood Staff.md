@@ -30,12 +30,12 @@ The following people are members of this group.
 | [[2-World/People/Staff/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Marrick Deepfindee\|Marrick Deepfindee]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Riri Brighteye\|Riri Brighteye]]                           | Owlin                  | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Xyla Langning\|Xyla Langning]]                             | Gnome                  | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | Giant                  | Male       | Lorehold    | Professor of Order         |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                   | Owlin                  | Male       | Lorehold    | Veteran                    |
+| [[2-World/People/Staff/Riri Brighteye\|Riri Brighteye]]                     | Owlin                  | Female     | Lorehold    | Professor of Order         |
+| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]             | Owlin                  | Male       | Lorehold    | Veteran                    |
 | [[2-World/People/The Earl\|The Earl]]                                       | Neverwood Campus Guide | Male       | None        | Butler                     |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                 | Gnome                  | Female     | None        | Cafe Manager               |
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]]               | Elf                    | Female     | None        | Cafe Manager               |
@@ -55,25 +55,25 @@ The following people are members of this group.
 | [[2-World/People/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                     | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Staff/Nassari\|Nassari]]                                   | Fire Genasi            | Other      | Prismari    | College Dean               |
 | [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
-| [[2-World/People/Rock\|Rock]]                                               | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Zaffai\|Zaffai]]                                           | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
+| [[2-World/People/Staff/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Veyran\|Veyran]]                                           | Water Genasi           | Female     | Prismari    | Professor of Perfection    |
 | [[2-World/People/Zaph\|Zaph]]                                               | Air Genasi             | FtM        | Prismari    | Professor of Perfection    |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                       | Tortle                 | Female     | Prismari    | Professor of Perfection    |
 | [[2-World/People/Staff/Imbraham\|Imbraham]]                                 | Owlin                  | Male       | Quandrix    | College Dean               |
 | [[2-World/People/Staff/Kianne\|Kianne]]                                     | Elf                    | Female     | Quandrix    | College Dean               |
 | [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]                       | Dragon                 | Female     | Quandrix    | Founder Dragon             |
-| [[2-World/People/Ruxa\|Ruxa]]                                               | Brown Bear             | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                       | Triton                 | Non-binary | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]                   | Fairy                  | Female     | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]               | Harengon               | Male       | Quandrix    | Professor of Substance     |
-| [[2-World/People/Rixy\|Rixy]]                                               | Changling              | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Ronald Rothton\|Ronald Rothton]]                           | Human                  | Male       | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Ruxa\|Ruxa]]                                         | Brown Bear             | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]                     | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Ronald Rothton\|Ronald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
 | [[2-World/People/Shaile Talonrook\|Shaile Talonrook]]                       | Owlin                  | Female     | Silverquill | College Dean               |
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                             | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]                 | Dragon                 | Male       | Silverquill | Founder Dragon             |

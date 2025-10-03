@@ -38,11 +38,11 @@ The following people are members of this group.
 
 | File                                                                                        | Race      | Gender | College     |
 | ------------------------------------------------------------------------------------------- | --------- | ------ | ----------- |
-| [[2-World/People/Rubina Larkingdale\|Rubina Larkingdale]]                                | Human     | Female | Silverquill |
 | [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom |
 | [[2-World/People/Students/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    |
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill |
 | [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    |
+| [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                              | Tiefling  | Female | None        |
 
 { .block-language-dataview}

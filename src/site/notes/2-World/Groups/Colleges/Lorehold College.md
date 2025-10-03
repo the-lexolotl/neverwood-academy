@@ -86,18 +86,18 @@ The following people are members of this group.
 | [[2-World/People/Staff/Losheel\|Losheel]]                                                | Loxodon  | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Marrick Deepfindee\|Marrick Deepfindee]]                          | Halfling | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Matreous\|Matreous]]                                              | Human    | Male       | Professor of Chaos |
-| [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                        | Owlin    | Female     | Professor of Order |
 | [[2-World/People/Xyla Langning\|Xyla Langning]]                                          | Gnome    | Female     | Professor of Order |
 | [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling | Female     | Professor of Order |
 | [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf    | Male       | Professor of Order |
 | [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]              | Giant    | Male       | Professor of Order |
-| [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg  | Non-binary | Student            |
+| [[2-World/People/Staff/Riri Brighteye\|Riri Brighteye]]                                  | Owlin    | Female     | Professor of Order |
 | [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin   | Female     | Student            |
 | [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg  | Female     | Student            |
 | [[2-World/People/Students/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome    | Male       | Student            |
 | [[2-World/People/Students/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human    | Female     | Student            |
 | [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf | Female     | Student            |
 | [[2-World/People/Students/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin    | Male       | Student            |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                | Owlin    | Male       | Veteran            |
+| [[2-World/People/Students/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg  | Non-binary | Student            |
+| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]                          | Owlin    | Male       | Veteran            |
 
 { .block-language-dataview}

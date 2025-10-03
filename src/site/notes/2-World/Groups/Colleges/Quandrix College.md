@@ -45,22 +45,22 @@ The following people are members of this group.
 | [[2-World/People/Staff/Imbraham\|Imbraham]]                          | Owlin      | Male       | College Dean           |
 | [[2-World/People/Staff/Kianne\|Kianne]]                              | Elf        | Female     | College Dean           |
 | [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]                | Dragon     | Female     | Founder Dragon         |
-| [[2-World/People/Ruxa\|Ruxa]]                                        | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]            | Fairy      | Female     | Professor of Substance |
 | [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]        | Harengon   | Male       | Professor of Substance |
-| [[2-World/People/Rixy\|Rixy]]                                        | Changling  | Female     | Professor of Theory    |
-| [[2-World/People/Ronald Rothton\|Ronald Rothton]]                    | Human      | Male       | Professor of Theory    |
+| [[2-World/People/Staff/Ruxa\|Ruxa]]                                  | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]              | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Deekah\|Deekah]]                              | Human      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Nev\|Nev]]                                    | Triton     | Non-binary | Professor of Theory    |
-| [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                    | Half-Elf   | Male       | Student                |
-| [[2-World/People/Rowan Montagu\|Rowan Montagu]]                      | Orc        | Male       | Student                |
+| [[2-World/People/Staff/Rixy\|Rixy]]                                  | Changling  | Female     | Professor of Theory    |
+| [[2-World/People/Staff/Ronald Rothton\|Ronald Rothton]]              | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]              | Kenku      | Non-binary | Student                |
 | [[2-World/People/Students/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |
 | [[2-World/People/Students/Drazhomir Yarnask\|Drazhomir Yarnask]]     | Minotaur   | Male       | Student                |
 | [[2-World/People/Students/Elowen Quickwhisper\|Elowen Quickwhisper]] | Halfling   | Female     | Student                |
 | [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human      | Female     | Student                |
+| [[2-World/People/Students/Ronald Caskbow\|Ronald Caskbow]]           | Half-Elf   | Male       | Student                |
+| [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]             | Orc        | Male       | Student                |
 
 { .block-language-dataview}
 

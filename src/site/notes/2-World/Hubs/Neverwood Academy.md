@@ -17,17 +17,6 @@ This is the places description.
 
 | File                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                          |
-| [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                                  |
-| [[2-World/People/Rixy\|Rixy]]                                                                      |
-| [[2-World/People/Rock\|Rock]]                                                                      |
-| [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                                                  |
-| [[2-World/People/Ronald Rothton\|Ronald Rothton]]                                                  |
-| [[2-World/People/Rose Mugwort\|Rose Mugwort]]                                                      |
-| [[2-World/People/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                            |
-| [[2-World/People/Rowan Montagu\|Rowan Montagu]]                                                    |
-| [[2-World/People/Rubina Larkingdale\|Rubina Larkingdale]]                                          |
-| [[2-World/People/Ruxa\|Ruxa]]                                                                      |
 | [[2-World/People/Sace Solindiel\|Sace Solindiel]]                                                  |
 | [[2-World/People/Serafina Onyx\|Serafina Onyx]]                                                    |
 | [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]                                        |
@@ -100,6 +89,11 @@ This is the places description.
 | [[2-World/People/Students/Pebble\|Pebble]]                                                         |
 | [[2-World/People/Students/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     |
 | [[2-World/People/Students/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] |
+| [[2-World/People/Students/Ronald Caskbow\|Ronald Caskbow]]                                         |
+| [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]                                             |
+| [[2-World/People/Students/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   |
+| [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]                                           |
+| [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                                 |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                              |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                              |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                        |
@@ -145,6 +139,12 @@ This is the places description.
 | [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                        |
 | [[2-World/People/Staff/Plargg\|Plargg]]                                                            |
 | [[2-World/People/Staff/Pythia\|Pythia]]                                                            |
+| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]                                    |
+| [[2-World/People/Staff/Riri Brighteye\|Riri Brighteye]]                                            |
+| [[2-World/People/Staff/Rixy\|Rixy]]                                                                |
+| [[2-World/People/Staff/Rock\|Rock]]                                                                |
+| [[2-World/People/Staff/Ronald Rothton\|Ronald Rothton]]                                            |
+| [[2-World/People/Staff/Ruxa\|Ruxa]]                                                                |
 | [[2-World/People/Other/Coriander\|Coriander]]                                                      |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                          |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                      |

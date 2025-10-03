@@ -43,10 +43,10 @@ The following people are members of this group.
 | [[2-World/People/Students/Nora Ann Wu\|Nora Ann Wu]]                                     | Human        | Female     | Prismari    |
 | [[2-World/People/Students/Pebble\|Pebble]]                                               | Earth Genasi | Non-binary | Witherbloom |
 | [[2-World/People/Students/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi  | Male       | Lorehold    |
-| [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg      | Non-binary | Lorehold    |
-| [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                                        | Half-Elf     | Male       | Quandrix    |
-| [[2-World/People/Rose Mugwort\|Rose Mugwort]]                                            | Halfling     | Female     | Prismari    |
-| [[2-World/People/Rowan Montagu\|Rowan Montagu]]                                          | Orc          | Male       | Quandrix    |
+| [[2-World/People/Students/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg      | Non-binary | Lorehold    |
+| [[2-World/People/Students/Ronald Caskbow\|Ronald Caskbow]]                               | Half-Elf     | Male       | Quandrix    |
+| [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]                                   | Halfling     | Female     | Prismari    |
+| [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]                                 | Orc          | Male       | Quandrix    |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                              | Elf          | Male       | Witherbloom |
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                  | Aasimar      | Female     | Silverquill |
 | [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]                                  | Kenku        | Non-binary | Quandrix    |

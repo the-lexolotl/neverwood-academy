@@ -38,9 +38,9 @@ The following people are members of this group.
 
 | File                                                              | Race       | Gender | College  |
 | ----------------------------------------------------------------- | ---------- | ------ | -------- |
-| [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]              | Half-Elf   | Male   | Quandrix |
 | [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]]     | Loxodon    | Male   | Lorehold |
 | [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]] | Triton     | Male   | Prismari |
+| [[2-World/People/Students/Ronald Caskbow\|Ronald Caskbow]]     | Half-Elf   | Male   | Quandrix |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]         | Dragonborn | Male   | Quandrix |
 
 { .block-language-dataview}

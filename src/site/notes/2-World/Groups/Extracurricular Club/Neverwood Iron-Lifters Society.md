@@ -38,10 +38,10 @@ The following people are members of this group.
 
 | File                                                              | Race         | Gender     | College     |
 | ----------------------------------------------------------------- | ------------ | ---------- | ----------- |
-| [[2-World/People/Rose Mugwort\|Rose Mugwort]]                  | Halfling     | Female     | Prismari    |
 | [[2-World/People/Students/Calla Fernbrook\|Calla Fernbrook]]   | Satyr        | Female     | Lorehold    |
 | [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]         | Dwarf        | Female     | Lorehold    |
 | [[2-World/People/Students/Pebble\|Pebble]]                     | Earth Genasi | Non-binary | Witherbloom |
 | [[2-World/People/Students/Pyrus Flintbrand\|Pyrus Flintbrand]] | Fire Genasi  | Male       | Lorehold    |
+| [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]         | Halfling     | Female     | Prismari    |
 
 { .block-language-dataview}

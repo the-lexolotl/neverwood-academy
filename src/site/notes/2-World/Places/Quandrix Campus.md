@@ -18,11 +18,6 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | File                                                                    | Race       | Gender     | Role                   |
 | ----------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Rixy\|Rixy]]                                        | Changling  | Female     | Professor of Theory    |
-| [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                    | Half-Elf   | Male       | Student                |
-| [[2-World/People/Ronald Rothton\|Ronald Rothton]]                    | Human      | Male       | Professor of Theory    |
-| [[2-World/People/Rowan Montagu\|Rowan Montagu]]                      | Orc        | Male       | Student                |
-| [[2-World/People/Ruxa\|Ruxa]]                                        | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]                | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]                      | Human      | Female     | Student                |
 | [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]              | Kenku      | Non-binary | Student                |
@@ -34,6 +29,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged  | Male       | Student                |
 | [[2-World/People/Students/Larine Arneza\|Larine Arneza]]             | Human      | Female     | Student                |
 | [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human      | Female     | Student                |
+| [[2-World/People/Students/Ronald Caskbow\|Ronald Caskbow]]           | Half-Elf   | Male       | Student                |
+| [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]             | Orc        | Male       | Student                |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]              | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]            | Fairy      | Female     | Professor of Substance |
@@ -42,6 +39,9 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]        | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Staff/Kianne\|Kianne]]                              | Elf        | Female     | College Dean           |
 | [[2-World/People/Staff/Nev\|Nev]]                                    | Triton     | Non-binary | Professor of Theory    |
+| [[2-World/People/Staff/Rixy\|Rixy]]                                  | Changling  | Female     | Professor of Theory    |
+| [[2-World/People/Staff/Ronald Rothton\|Ronald Rothton]]              | Human      | Male       | Professor of Theory    |
+| [[2-World/People/Staff/Ruxa\|Ruxa]]                                  | Brown Bear | Male       | Professor of Substance |
 
 { .block-language-dataview}
 

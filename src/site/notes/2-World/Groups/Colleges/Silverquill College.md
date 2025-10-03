@@ -60,6 +60,6 @@ The following people are members of this group.
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]   | Human    | Male       | Student               |
 | [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Elf      | Non-binary | Student               |
 | [[2-World/People/Students/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]              | Owlin    | Male       | Veteran               |
+| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]        | Owlin    | Male       | Veteran               |
 
 { .block-language-dataview}

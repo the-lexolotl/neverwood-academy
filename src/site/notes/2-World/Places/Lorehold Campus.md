@@ -18,10 +18,6 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 
 | File                                                                                        | Race        | Gender     | Role               |
 | ------------------------------------------------------------------------------------------- | ----------- | ---------- | ------------------ |
-| [[2-World/People/Raymous Dapplewing\|Raymous Dapplewing]]                                | Owlin       | Male       | Veteran            |
-| [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg     | Non-binary | Student            |
-| [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                        | Owlin       | Female     | Professor of Order |
-| [[2-World/People/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                  | Gnome       | Female     | Student            |
 | [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin       | Male       | Professor of Chaos |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                  | Half-Orc    | Male       | Student            |
 | [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin      | Female     | Student            |
@@ -36,6 +32,8 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf    | Female     | Student            |
 | [[2-World/People/Students/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin       | Male       | Student            |
 | [[2-World/People/Students/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |
+| [[2-World/People/Students/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg     | Non-binary | Student            |
+| [[2-World/People/Students/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]         | Gnome       | Female     | Student            |
 | [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                  | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling    | Female     | Professor of Order |
 | [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf       | Male       | Professor of Order |
@@ -45,6 +43,8 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Staff/Matreous\|Matreous]]                                              | Human       | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]              | Giant       | Male       | Professor of Order |
 | [[2-World/People/Staff/Plargg\|Plargg]]                                                  | Orc         | Male       | College Dean       |
+| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]                          | Owlin       | Male       | Veteran            |
+| [[2-World/People/Staff/Riri Brighteye\|Riri Brighteye]]                                  | Owlin       | Female     | Professor of Order |
 
 { .block-language-dataview}
 
