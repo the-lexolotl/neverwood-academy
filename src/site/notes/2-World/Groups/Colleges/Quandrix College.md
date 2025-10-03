@@ -42,8 +42,6 @@ The following people are members of this group.
 
 | File                                                                    | Race       | Gender     | Role                   |
 | ----------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]              | Harengon   | Male       | Professor of Substance |
-| [[2-World/People/Kianne\|Kianne]]                                    | Elf        | Female     | College Dean           |
 | [[2-World/People/Lindsey Stonesworn\|Lindsey Stonesworn]]            | Human      | Female     | Student                |
 | [[2-World/People/Nev\|Nev]]                                          | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Rixy\|Rixy]]                                        | Changling  | Female     | Professor of Theory    |
@@ -61,6 +59,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]            | Fairy      | Female     | Professor of Substance |
 | [[2-World/People/Staff/Deekah\|Deekah]]                              | Human      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Imbraham\|Imbraham]]                          | Owlin      | Male       | College Dean           |
+| [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]        | Harengon   | Male       | Professor of Substance |
+| [[2-World/People/Staff/Kianne\|Kianne]]                              | Elf        | Female     | College Dean           |
 
 { .block-language-dataview}
 

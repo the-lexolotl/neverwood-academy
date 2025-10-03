@@ -22,9 +22,6 @@ The following people are members of this group.
 
 | File                                                                     | Race                   | Gender     | college     | Role                       |
 | ------------------------------------------------------------------------ | ---------------------- | ---------- | ----------- | -------------------------- |
-| [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]               | Harengon               | Male       | Quandrix    | Professor of Substance     |
-| [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                   | Firbolg                | Male       | Witherbloom | Professor of Growth        |
-| [[2-World/People/Kianne\|Kianne]]                                     | Elf                    | Female     | Quandrix    | College Dean               |
 | [[2-World/People/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]]               | Owlin                  | Male       | None        | Dean of Admissions         |
 | [[2-World/People/Lissette\|Lissette]]                                 | Human                  | Female     | Witherbloom | College Dean               |
@@ -98,5 +95,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]               | Eladrin                | Female     | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Imbraham\|Imbraham]]                           | Owlin                  | Male       | Quandrix    | College Dean               |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                         | Treant                 | Female     | None        | Head Librarian             |
+| [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]         | Harengon               | Male       | Quandrix    | Professor of Substance     |
+| [[2-World/People/Staff/Kianne\|Kianne]]                               | Elf                    | Female     | Quandrix    | College Dean               |
+| [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]             | Firbolg                | Male       | Witherbloom | Professor of Growth        |
 
 { .block-language-dataview}

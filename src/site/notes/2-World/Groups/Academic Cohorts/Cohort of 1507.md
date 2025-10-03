@@ -20,7 +20,6 @@ The following people are members of this group.
 
 | File                                                                                        | Race         | Gender     | College     |
 | ------------------------------------------------------------------------------------------- | ------------ | ---------- | ----------- |
-| [[2-World/People/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                                | Owlin        | Male       | Lorehold    |
 | [[2-World/People/Lindsey Stonesworn\|Lindsey Stonesworn]]                                | Human        | Female     | Quandrix    |
 | [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                              | Human        | Female     | Prismari    |
 | [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                                    | Fire Genasi  | Male       | Lorehold    |
@@ -53,6 +52,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]                               | Tiefling     | Male       | Witherbloom |
 | [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf     | Female     | Lorehold    |
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                                         | Half-Orc     | Female     | Witherbloom |
+| [[2-World/People/Students/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin        | Male       | Lorehold    |
 
 { .block-language-dataview}
 

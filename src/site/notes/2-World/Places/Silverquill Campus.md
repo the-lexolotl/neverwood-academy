@@ -18,7 +18,6 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 
 | File                                                                    | Race       | Gender     | Role                  |
 | ----------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
-| [[2-World/People/Kealen Starfury\|Kealen Starfury]]                  | Elf        | Male       | Student               |
 | [[2-World/People/Liv Brandford\|Liv Brandford]]                      | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Luc Brandford\|Luc Brandford]]                      | Human      | Male       | Professor of Shadow   |
 | [[2-World/People/Mavinda Sharpbeak\|Mavinda Sharpbeak]]              | Owlin      | Female     | Professor of Radience |
@@ -37,6 +36,7 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]               | Satyr      | Female     | Student               |
 | [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]     | Human      | Male       | Student               |
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]] | Human      | Male       | Student               |
+| [[2-World/People/Students/Kealen Starfury\|Kealen Starfury]]         | Elf        | Male       | Student               |
 | [[2-World/People/Staff/Breena\|Breena]]                              | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]    | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                      | Human      | Male       | College Dean          |

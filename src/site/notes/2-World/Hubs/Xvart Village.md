@@ -16,9 +16,9 @@ This is the town description.
 # NPCs
 
 
-| File                                                                     | Race  | Gender     | Role  |
-| ------------------------------------------------------------------------ | ----- | ---------- | ----- |
-| [[2-World/People/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart | Non-binary | Other |
+| File                                                                           | Race  | Gender     | Role  |
+| ------------------------------------------------------------------------------ | ----- | ---------- | ----- |
+| [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart | Non-binary | Other |
 
 { .block-language-dataview}
 

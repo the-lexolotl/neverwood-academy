@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Harry's Library Heist","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-31","players":1,"OneLiner":"Harry's Library Heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]"],"sessionAbsent":null,"sessionNPC":["[[Cadoras Damellawar|Cadoras Damellawar]]","[[2-World/People/Verelda Lang.md|Verelda Lang]]","[[2-World/People/Kianne.md|Kianne]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-31 - Ross Async.md","permalink":"/session-journals/2025-07-31-ross-async/","dgPassFrontmatter":true,"updated":"2025-10-03T13:33:04.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Harry's Library Heist","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-31","players":1,"OneLiner":"Harry's Library Heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]"],"sessionAbsent":null,"sessionNPC":["[[Cadoras Damellawar|Cadoras Damellawar]]","[[2-World/People/Verelda Lang.md|Verelda Lang]]","[[Kianne|Kianne]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-31 - Ross Async.md","permalink":"/session-journals/2025-07-31-ross-async/","dgPassFrontmatter":true,"updated":"2025-10-03T14:39:20.000+01:00"}
 ---
 
 
@@ -29,7 +29,7 @@
 ## NPC's
 
 
-[[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Verelda Lang\|Verelda Lang]], [[2-World/People/Kianne\|Kianne]]
+[[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Verelda Lang\|Verelda Lang]], [[2-World/People/Staff/Kianne\|Kianne]]
 
 ## Summary
 Determined to uncover more information about strange magical occurrences on campus — particularly the black goo from the Firejolt incident — Ross, accompanied by fellow student [[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], planned and executed a stealthy break-in at the [[2-World/Points of Interest/Biblioplex\|Biblioplex]].
@@ -65,7 +65,7 @@ No windows were available, and the magically reinforced walls were blast-proof �
 
 * Cadoras sensed the remaining guardian moving.  
 * The duo attempted to sneak back downstairs.  
-* Ross spotted [[2-World/People/Verelda Lang\|Professors Lang]] and [[2-World/People/Kianne\|Dean Kianne]] at the base of the stairs, investigating the earlier fire.  
+* Ross spotted [[2-World/People/Verelda Lang\|Professors Lang]] and [[2-World/People/Staff/Kianne\|Dean Kianne]] at the base of the stairs, investigating the earlier fire.  
 * A Thaumaturgy distraction failed — Lang suspected the students were still in the building and began heading upstairs.
 
 Ross handed the books to Cadoras, who escaped via the floor’s teleporter, promising to regroup the next morning.  

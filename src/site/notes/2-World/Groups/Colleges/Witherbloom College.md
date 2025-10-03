@@ -41,7 +41,6 @@ The following people are members of this group.
 
 | File                                                                   | Race          | Gender     | Role                |
 | ---------------------------------------------------------------------- | ------------- | ---------- | ------------------- |
-| [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                 | Firbolg       | Male       | Professor of Growth |
 | [[2-World/People/Lissette\|Lissette]]                               | Human         | Female     | College Dean        |
 | [[2-World/People/Miaukier\|Miaukier]]                               | Cat           | Male       | Other               |
 | [[2-World/People/Serafina Onyx\|Serafina Onyx]]                     | Human         | Female     | Professor of Decay  |
@@ -60,6 +59,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                    | Half-Orc      | Female     | Student             |
 | [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]           | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]] | Dragon        | Female     | Founder Dragon      |
+| [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]           | Firbolg       | Male       | Professor of Growth |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]           | Half-Bullywug | Male       | Alumni              |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]       | Bullywug      | Male       | Alumni              |
 

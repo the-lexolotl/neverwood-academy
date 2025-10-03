@@ -39,7 +39,6 @@ The following people are members of this group.
 
 | File                                                                                         | Race     | Gender | College     |
 | -------------------------------------------------------------------------------------------- | -------- | ------ | ----------- |
-| [[2-World/People/Kealen Starfury\|Kealen Starfury]]                                       | Elf      | Male   | Silverquill |
 | [[2-World/People/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human    | Male   | Prismari    |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                               | Elf      | Male   | Witherbloom |
 | [[2-World/People/Students/Briswick Goldpenny\|Briswick Goldpenny]]                        | Gnome    | Male   | Quandrix    |
@@ -47,6 +46,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Drazhomir Yarnask\|Drazhomir Yarnask]]                          | Minotaur | Male   | Quandrix    |
 | [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]                                    | Satyr    | Female | Silverquill |
 | [[2-World/People/Students/Francis Farlight\|Francis Farlight]]                            | Human    | Male   | Witherbloom |
+| [[2-World/People/Students/Kealen Starfury\|Kealen Starfury]]                              | Elf      | Male   | Silverquill |
 | [[1-Party/Group 1/Atudark\|Atudark]]                                                      | Yuan-Ti  | Male   | Witherbloom |
 
 { .block-language-dataview}

@@ -17,10 +17,6 @@ This is the places description.
 
 | File                                                                                         |
 | -------------------------------------------------------------------------------------------- |
-| [[2-World/People/Jazzack Quickfood\|Jazzack Quickfood]]                                   |
-| [[2-World/People/Kealen Starfury\|Kealen Starfury]]                                       |
-| [[2-World/People/Kojil the Tamer\|Kojil the Tamer]]                                       |
-| [[2-World/People/Kianne\|Kianne]]                                                         |
 | [[2-World/People/Larine Arneza\|Larine Arneza]]                                           |
 | [[2-World/People/Lianna Flametongue\|Lianna Flametongue]]                                 |
 | [[2-World/People/Lidbrix Teawillow\|Lidbrix Teawillow]]                                   |
@@ -121,6 +117,7 @@ This is the places description.
 | [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                    |
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]                                |
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                                          |
+| [[2-World/People/Students/Kealen Starfury\|Kealen Starfury]]                              |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                     |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                     |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                               |
@@ -146,6 +143,9 @@ This is the places description.
 | [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                                   |
 | [[2-World/People/Staff/Imbraham\|Imbraham]]                                               |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                                             |
+| [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]                             |
+| [[2-World/People/Staff/Kianne\|Kianne]]                                                   |
+| [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]                                 |
 | [[2-World/People/Other/Coriander\|Coriander]]                                             |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                 |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                             |

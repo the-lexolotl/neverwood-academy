@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]"],"MyCategory":null,"image":"Pasted image 20250920140440.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"In Progress","questGiver":"[[2-World/People/Theodore Moss.md|Theodore Moss]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-09-13 - Exams & Missing Cats.md|2025-09-13 - Exams & Missing Cats]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Miaukier Must Die!.md","permalink":"/world/quests/miaukier-must-die/","dgPassFrontmatter":true,"updated":"2025-10-02T17:29:30.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]"],"MyCategory":null,"image":"Pasted image 20250920140440.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"In Progress","questGiver":"[[2-World/People/Theodore Moss.md|Theodore Moss]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-09-13 - Exams & Missing Cats.md|2025-09-13 - Exams & Missing Cats]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Miaukier Must Die!.md","permalink":"/world/quests/miaukier-must-die/","dgPassFrontmatter":true,"updated":"2025-10-02T17:29:30.000+01:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - [x]  Investigate the "little blue creatures"
 - [x]  Head to the [[3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm\|Xvart]] Village
 - [x]  Find a way into the Village
-- [x]  Talk to the King [[2-World/People/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]
+- [x]  Talk to the King [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]
 - [ ]  Bribe the King 
 - [x]  Investigate the Sharman's cave 
 - [ ]  Save [[2-World/People/Miaukier\|Miaukier]] before the ritual is complete
@@ -38,18 +38,18 @@
 
 The following people are associated with this quest.
 
-| File                                                                     | Race            | Gender     | Role    |
-| ------------------------------------------------------------------------ | --------------- | ---------- | ------- |
-| [[2-World/People/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
-| [[2-World/People/Miaukier\|Miaukier]]                                 | Cat             | Male       | Other   |
-| [[2-World/People/Theodore Moss\|Theodore Moss]]                       | Human           | Male       | Veteran |
-| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                        | Aarakocra       | Female     | Player  |
-| [[1-Party/Group 2/H'er\|H'er]]                                        | Tiefling        | Female     | Player  |
-| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                | Human           | Male       | Player  |
-| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                    | Variant Aasimar | Female     | Player  |
-| [[1-Party/Group 1/Atudark\|Atudark]]                                  | Yuan-Ti         | Male       | Player  |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]      | Triton          | Male       | Player  |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]              | Halfling        | Male       | Player  |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                | Dragonborn      | Male       | Player  |
+| File                                                                           | Race            | Gender     | Role    |
+| ------------------------------------------------------------------------------ | --------------- | ---------- | ------- |
+| [[2-World/People/Miaukier\|Miaukier]]                                       | Cat             | Male       | Other   |
+| [[2-World/People/Theodore Moss\|Theodore Moss]]                             | Human           | Male       | Veteran |
+| [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
+| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                              | Aarakocra       | Female     | Player  |
+| [[1-Party/Group 2/H'er\|H'er]]                                              | Tiefling        | Female     | Player  |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                      | Human           | Male       | Player  |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                          | Variant Aasimar | Female     | Player  |
+| [[1-Party/Group 1/Atudark\|Atudark]]                                        | Yuan-Ti         | Male       | Player  |
+| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]            | Triton          | Male       | Player  |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                    | Halfling        | Male       | Player  |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                      | Dragonborn      | Male       | Player  |
 
 { .block-language-dataview}
