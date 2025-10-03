@@ -55,12 +55,12 @@ The following people are members of this group.
 | [[2-World/People/Willowdusk\|Willowdusk]]                           | Treant        | Female     | Professor of Growth |
 | [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]           | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]           | Firbolg       | Male       | Professor of Growth |
-| [[2-World/People/Pebble\|Pebble]]                                   | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]               | Orc           | Male       | Student             |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]         | Elf           | Male       | Student             |
 | [[2-World/People/Students/Francis Farlight\|Francis Farlight]]      | Human         | Male       | Student             |
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]          | Tiefling      | Male       | Student             |
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                    | Half-Orc      | Female     | Student             |
+| [[2-World/People/Students/Pebble\|Pebble]]                          | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Theodore Moss\|Theodore Moss]]                     | Human         | Male       | Veteran             |
 
 { .block-language-dataview}

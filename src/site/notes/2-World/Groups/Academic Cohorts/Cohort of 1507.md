@@ -40,9 +40,9 @@ The following people are members of this group.
 | [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                   | Elf          | Non-binary | Silverquill |
 | [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]                       | Human        | Female     | Quandrix    |
 | [[2-World/People/Students/Mina Lee\|Mina Lee]]                                           | Human        | Female     | Silverquill |
-| [[2-World/People/Nora Ann Wu\|Nora Ann Wu]]                                              | Human        | Female     | Prismari    |
-| [[2-World/People/Pebble\|Pebble]]                                                        | Earth Genasi | Non-binary | Witherbloom |
-| [[2-World/People/Pyrus Flintbrand\|Pyrus Flintbrand]]                                    | Fire Genasi  | Male       | Lorehold    |
+| [[2-World/People/Students/Nora Ann Wu\|Nora Ann Wu]]                                     | Human        | Female     | Prismari    |
+| [[2-World/People/Students/Pebble\|Pebble]]                                               | Earth Genasi | Non-binary | Witherbloom |
+| [[2-World/People/Students/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi  | Male       | Lorehold    |
 | [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg      | Non-binary | Lorehold    |
 | [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                                        | Half-Elf     | Male       | Quandrix    |
 | [[2-World/People/Rose Mugwort\|Rose Mugwort]]                                            | Halfling     | Female     | Prismari    |

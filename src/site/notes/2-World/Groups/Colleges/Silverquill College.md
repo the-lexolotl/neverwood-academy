@@ -46,7 +46,7 @@ The following people are members of this group.
 | [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]            | Dragon   | Male       | Founder Dragon        |
 | [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]                | Leonin   | Male       | Professor of Radiance |
 | [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]]          | Owlin    | Female     | Professor of Radiance |
-| [[2-World/People/Nils\|Nils]]                                          | Human    | Male       | Professor of Radience |
+| [[2-World/People/Staff/Nils\|Nils]]                                    | Human    | Male       | Professor of Radiance |
 | [[2-World/People/Sace Solindiel\|Sace Solindiel]]                      | Half-Elf | Female     | Professor of Radience |
 | [[2-World/People/Smart Mouth\|Smart Mouth]]                            | Kenku    | Non-binary | Professor of Radience |
 | [[2-World/People/Staff/Breena\|Breena]]                                | Owlin    | Female     | Professor of Shadow   |

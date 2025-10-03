@@ -18,7 +18,6 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | File                                                                    | Race       | Gender     | Role                   |
 | ----------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Nev\|Nev]]                                          | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Rixy\|Rixy]]                                        | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Ronald Caskbow\|Ronald Caskbow]]                    | Half-Elf   | Male       | Student                |
 | [[2-World/People/Ronald Rothton\|Ronald Rothton]]                    | Human      | Male       | Professor of Theory    |
@@ -42,6 +41,7 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Imbraham\|Imbraham]]                          | Owlin      | Male       | College Dean           |
 | [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]        | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Staff/Kianne\|Kianne]]                              | Elf        | Female     | College Dean           |
+| [[2-World/People/Staff/Nev\|Nev]]                                    | Triton     | Non-binary | Professor of Theory    |
 
 { .block-language-dataview}
 

@@ -78,19 +78,19 @@ The following people are members of this group.
 
 | File                                                                                        | Race     | Gender     | Role               |
 | ------------------------------------------------------------------------------------------- | -------- | ---------- | ------------------ |
-| [[2-World/People/Plargg\|Plargg]]                                                        | Orc      | Male       | College Dean       |
 | [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                  | Human    | Female     | College Dean       |
+| [[2-World/People/Staff/Plargg\|Plargg]]                                                  | Orc      | Male       | College Dean       |
 | [[2-World/People/Velomachus Lorehold\|Velomachus Lorehold]]                              | Dragon   | Female     | Founder Dragon     |
 | [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin    | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]                          | Elf      | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Losheel\|Losheel]]                                                | Loxodon  | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Marrick Deepfindee\|Marrick Deepfindee]]                          | Halfling | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Matreous\|Matreous]]                                              | Human    | Male       | Professor of Chaos |
-| [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    | Giant    | Male       | Professor of Order |
 | [[2-World/People/Riri Brighteye\|Riri Brighteye]]                                        | Owlin    | Female     | Professor of Order |
 | [[2-World/People/Xyla Langning\|Xyla Langning]]                                          | Gnome    | Female     | Professor of Order |
 | [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                            | Halfling | Female     | Professor of Order |
 | [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                              | Dwarf    | Male       | Professor of Order |
+| [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]              | Giant    | Male       | Professor of Order |
 | [[2-World/People/Rhys Oakhollow\|Rhys Oakhollow]]                                        | Firbolg  | Non-binary | Student            |
 | [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin   | Female     | Student            |
 | [[2-World/People/Students/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg  | Female     | Student            |

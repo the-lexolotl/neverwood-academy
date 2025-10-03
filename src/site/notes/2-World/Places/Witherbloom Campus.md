@@ -18,7 +18,6 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 
 | File                                                                              | Race          | Gender     | Role                |
 | --------------------------------------------------------------------------------- | ------------- | ---------- | ------------------- |
-| [[2-World/People/Nyssa Willowmere\|Nyssa Willowmere]]                          | Dryad         | Female     | Student             |
 | [[2-World/People/Serafina Onyx\|Serafina Onyx]]                                | Human         | Female     | Professor of Decay  |
 | [[2-World/People/Theodore Moss\|Theodore Moss]]                                | Human         | Male       | Veteran             |
 | [[2-World/People/Tivash\|Tivash]]                                              | Human         | Male       | Professor of Decay  |
@@ -27,7 +26,6 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Verelda Lang\|Verelda Lang]]                                  | Dryad         | Female     | Professor of Growth |
 | [[2-World/People/Verooja\|Verooja]]                                            | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Willowdusk\|Willowdusk]]                                      | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Pebble\|Pebble]]                                              | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                          | Orc           | Male       | Student             |
 | [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                    | Elf           | Male       | Student             |
 | [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
@@ -37,6 +35,8 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                               | Half-Orc      | Female     | Student             |
 | [[2-World/People/Students/Melwythorn\|Melwythorn]]                             | Dryad         | Male       | Student             |
 | [[2-World/People/Students/Mirella Blackbriar\|Mirella Blackbriar]]             | Reborn        | Female     | Student             |
+| [[2-World/People/Students/Nyssa Willowmere\|Nyssa Willowmere]]                 | Dryad         | Female     | Student             |
+| [[2-World/People/Students/Pebble\|Pebble]]                                     | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]                      | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]            | Dragon        | Female     | Founder Dragon      |
 | [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]                      | Firbolg       | Male       | Professor of Growth |

@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"The Joy of Extradimensional Spaces","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-16","players":6,"OneLiner":"Exploring the extradimensional mansion","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Matreous|Matreous]]","[[Coriander|Coriander]]","[[Cumin|Cumin]]","[[Fistandria|Fistandria]]","[[2-World/People/Plargg.md|Plargg]]","[[Augusta Tullus|Augusta Tullus]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-16 - The Joy of Extradimensional Spaces.md","permalink":"/session-journals/2025-08-16-the-joy-of-extradimensional-spaces/","dgPassFrontmatter":true,"updated":"2025-10-03T15:30:18.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"The Joy of Extradimensional Spaces","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-16","players":6,"OneLiner":"Exploring the extradimensional mansion","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Matreous|Matreous]]","[[Coriander|Coriander]]","[[Cumin|Cumin]]","[[Fistandria|Fistandria]]","[[Plargg|Plargg]]","[[Augusta Tullus|Augusta Tullus]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-16 - The Joy of Extradimensional Spaces.md","permalink":"/session-journals/2025-08-16-the-joy-of-extradimensional-spaces/","dgPassFrontmatter":true,"updated":"2025-10-03T16:15:06.000+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]], [[2-World/People/Other/Coriander\|Coriander]], [[2-World/People/Other/Cumin\|Cumin]], [[2-World/People/Other/Fistandria\|Fistandria]], [[2-World/People/Staff/Matreous\|Matreous]], [[2-World/People/Plargg\|Plargg]]
+[[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]], [[2-World/People/Other/Coriander\|Coriander]], [[2-World/People/Other/Cumin\|Cumin]], [[2-World/People/Other/Fistandria\|Fistandria]], [[2-World/People/Staff/Matreous\|Matreous]], [[2-World/People/Staff/Plargg\|Plargg]]
 
 ## Summary
 The students of Neverwood Academy stepped boldly into the unknown, finding themselves trapped inside Fistandria’s mysterious extradimensional mansion. Within its shifting rooms and enchanted laboratories, they uncovered puzzle books, battled animated objects, and pieced together the command word needed to escape. But freedom came at a cost — for when they finally reopened the portal, they found Professor Matreous lying dead in his office, with secrets older and stranger than they could have imagined stirring in the shadows.
@@ -96,7 +96,7 @@ The students of Neverwood Academy stepped boldly into the unknown, finding thems
 - Inside, they found the professor dead and cold, long since lifeless — despite having just spoken with him.
 - To avoid suspicion, the group devised a quick cover story:
 	- Cyinth mimicked a school alarm.
-	- Deans [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]] and [[2-World/People/Plargg\|Plargg]] arrived to investigate.
+	- Deans [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]] and [[2-World/People/Staff/Plargg\|Plargg]] arrived to investigate.
 	- Augusta determined Matreous had been dead for several days, with signs of death by a small creature.
 	- An Imp attacked Plargg during the inspection, but the students helped defeat it.
 

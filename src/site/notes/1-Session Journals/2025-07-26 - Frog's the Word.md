@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Frog's the Word","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-26","players":6,"OneLiner":"Giant frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[Cadoras Damellawar|Cadoras Damellawar]]","[[2-World/People/Osgir, the Reconstructor.md|Osgir, the Reconstructor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-26 - Frog's the Word.md","permalink":"/session-journals/2025-07-26-frog-s-the-word/","dgPassFrontmatter":true,"updated":"2025-10-03T13:33:04.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Frog's the Word","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-26","players":6,"OneLiner":"Giant frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[Cadoras Damellawar|Cadoras Damellawar]]","[[Osgir, the Reconstructor|Osgir, the Reconstructor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-26 - Frog's the Word.md","permalink":"/session-journals/2025-07-26-frog-s-the-word/","dgPassFrontmatter":true,"updated":"2025-10-03T16:11:58.000+01:00"}
 ---
 
 
@@ -29,7 +29,7 @@
 
 ## NPC's
 
-[[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Osgir, the Reconstructor\|Osgir, the Reconstructor]]
+[[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]
 
 ## Summary
 The students of Neverwood settled into their first proper week of academic life, navigating the balance between classes, downtime adventures, and the ever-surprising magic of campus life.
@@ -67,11 +67,11 @@ While relaxing on campus, the group was approached by other students who invited
 * In the chaos, Harry (Ross) summoned a bonfire that tragically incinerated five small frogs.  
 * The giant frog, now enraged, tried to attack.  
 * The party calmed the creature, who then vomited up a mass of thick black goo before shrinking back to normal size and fleeing.  
-* The frog bolted through the café and was intercepted and captured by [[2-World/People/Osgir, the Reconstructor\|Professor Osgir]], the Reconstructor, Lorehold’s Professor of Order.
+* The frog bolted through the café and was intercepted and captured by [[2-World/People/Staff/Osgir, the Reconstructor\|Professor Osgir]], the Reconstructor, Lorehold’s Professor of Order.
 
 ### Aftermath & Mysterious Goo
 
-The party questioned  [[2-World/People/Osgir, the Reconstructor\|Professor Osgir]] about the black goo. He didn’t provide much, but confirmed the anomaly would be reviewed with other faculty.  
+The party questioned  [[2-World/People/Staff/Osgir, the Reconstructor\|Professor Osgir]] about the black goo. He didn’t provide much, but confirmed the anomaly would be reviewed with other faculty.  
 The nature and source of the goo remains unknown, but this marks the third magical anomaly encountered on campus in three weeks.
 
 ### Week 2 Homework

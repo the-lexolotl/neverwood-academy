@@ -40,9 +40,9 @@ The following people are associated with this quest.
 
 | File                                                       | Race            | Gender | Role               |
 | ---------------------------------------------------------- | --------------- | ------ | ------------------ |
-| [[2-World/People/Plargg\|Plargg]]                       | Orc             | Male   | College Dean       |
 | [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
 | [[2-World/People/Staff/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
+| [[2-World/People/Staff/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[2-World/People/Other/Coriander\|Coriander]]           | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Cumin\|Cumin]]                   | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandria\|Fistandria]]         | Human           | Female | Mage               |
