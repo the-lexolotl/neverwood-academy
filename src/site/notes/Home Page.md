@@ -32,22 +32,22 @@
 { .block-language-dataview}
 
 # Session Journals
-| Title                              | Date               | Status                      | Category                                   | Players |
-| ---------------------------------- | ------------------ | --------------------------- | ------------------------------------------ | ------- |
-| Orientation Day                    | July 12, 2025      | Occurred                    | <ul><li>Main Story</li></ul>               | 8       |
-| Freshers Fair                      | July 19, 2025      | Occurred                    | <ul><li>Academy Event</li></ul>            | 7       |
-| Frog's the Word                    | July 26, 2025      | Occurred                    | <ul><li>Main Story</li></ul>               | 6       |
-| The Mimic in the Dungeon           | July 30, 2025      | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
-| Harry's Library Heist              | July 31, 2025      | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
-| Autumn Equinox                     | August 02, 2025    | Occurred                    | <ul><li>Academy Event</li></ul>            | 6       |
-| The Missing Professor              | August 09, 2025    | Occurred                    | <ul><li>Exams</li><li>Side Quest</li></ul> | 6       |
-| The Joy of Extradimensional Spaces | August 16, 2025    | Occurred                    | <ul><li>Side Quest</li></ul>               | 6       |
-| Cyinth's Dinner Party              | August 23, 2025    | Occurred                    | <ul><li>Downtime</li></ul>                 | 6       |
-| Back to the Mansion                | August 30, 2025    | Occurred                    | <ul><li>Side Quest</li></ul>               | 7       |
-| Heist the Records Room             | September 06, 2025 | Occurred                    | <ul><li>Main Story</li></ul>               | 7       |
-| Term 2 Exams                       | September 13, 2025 | Occurred                    | <ul><li>Exams</li></ul>                    | 7       |
-| Miaukier Must Die (pt 1)           | September 20, 2025 | Occurred                    | <ul><li>Side Quest</li></ul>               | 5       |
-| Miaukier Must Die (pt 2)           | September 27, 2025 | Occurred - Writing up Notes | <ul><li>Side Quest</li></ul>               | 8       |
+| Title                              | Date               | Status   | Category                                   | Players |
+| ---------------------------------- | ------------------ | -------- | ------------------------------------------ | ------- |
+| Orientation Day                    | July 12, 2025      | Occurred | <ul><li>Main Story</li></ul>               | 8       |
+| Freshers Fair                      | July 19, 2025      | Occurred | <ul><li>Academy Event</li></ul>            | 7       |
+| Frog's the Word                    | July 26, 2025      | Occurred | <ul><li>Main Story</li></ul>               | 6       |
+| The Mimic in the Dungeon           | July 30, 2025      | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| Harry's Library Heist              | July 31, 2025      | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| Autumn Equinox                     | August 02, 2025    | Occurred | <ul><li>Academy Event</li></ul>            | 6       |
+| The Missing Professor              | August 09, 2025    | Occurred | <ul><li>Exams</li><li>Side Quest</li></ul> | 6       |
+| The Joy of Extradimensional Spaces | August 16, 2025    | Occurred | <ul><li>Side Quest</li></ul>               | 6       |
+| Cyinth's Dinner Party              | August 23, 2025    | Occurred | <ul><li>Downtime</li></ul>                 | 6       |
+| Back to the Mansion                | August 30, 2025    | Occurred | <ul><li>Side Quest</li></ul>               | 7       |
+| Heist the Records Room             | September 06, 2025 | Occurred | <ul><li>Main Story</li></ul>               | 7       |
+| Term 2 Exams                       | September 13, 2025 | Occurred | <ul><li>Exams</li></ul>                    | 7       |
+| Miaukier Must Die (pt 1)           | September 20, 2025 | Occurred | <ul><li>Side Quest</li></ul>               | 5       |
+| Miaukier Must Die (pt 2)           | September 27, 2025 | Occurred | <ul><li>Side Quest</li></ul>               | 8       |
 
 { .block-language-dataview}
 
