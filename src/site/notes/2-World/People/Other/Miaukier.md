@@ -55,4 +55,4 @@ This is the persons description.
 
 List important relationships here. 
 
-**Owner:** [[2-World/People/Theodore Moss\|Theodore Moss]]
+**Owner:** [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]

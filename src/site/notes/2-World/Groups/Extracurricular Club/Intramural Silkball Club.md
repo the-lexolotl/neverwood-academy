@@ -37,12 +37,12 @@ The following people are members of this group.
 
 | File                                                                  | Race         | Gender     | College     |
 | --------------------------------------------------------------------- | ------------ | ---------- | ----------- |
-| [[2-World/People/Tilana Kapule\|Tilana Kapule]]                    | Human        | Female     | Quandrix    |
-| [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                  | Leonin       | Female     | Lorehold    |
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]         | Tiefling     | Male       | Witherbloom |
 | [[2-World/People/Students/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Owlin        | Male       | Lorehold    |
 | [[2-World/People/Students/Melwythorn\|Melwythorn]]                 | Dryad        | Male       | Witherbloom |
 | [[2-World/People/Students/Pebble\|Pebble]]                         | Earth Genasi | Non-binary | Witherbloom |
 | [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]             | Halfling     | Female     | Prismari    |
+| [[2-World/People/Students/Tilana Kapule\|Tilana Kapule]]           | Human        | Female     | Quandrix    |
+| [[2-World/People/Students/Valka Runeclaw\|Valka Runeclaw]]         | Leonin       | Female     | Lorehold    |
 
 { .block-language-dataview}

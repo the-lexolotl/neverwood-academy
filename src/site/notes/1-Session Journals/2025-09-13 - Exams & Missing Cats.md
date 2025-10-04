@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams"],"fc-display-name":"Term 2 Exams","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-13","players":7,"OneLiner":"Catching up with homework and term 2 exams","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]"],"sessionNPC":["[[2-World/People/Theodore Moss.md|Theodore Moss]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-13 - Exams & Missing Cats.md","permalink":"/session-journals/2025-09-13-exams-and-missing-cats/","dgPassFrontmatter":true,"updated":"2025-09-28T19:11:28.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams"],"fc-display-name":"Term 2 Exams","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-13","players":7,"OneLiner":"Catching up with homework and term 2 exams","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]"],"sessionNPC":["[[Theodore Moss|Theodore Moss]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-13 - Exams & Missing Cats.md","permalink":"/session-journals/2025-09-13-exams-and-missing-cats/","dgPassFrontmatter":true,"updated":"2025-10-04T11:59:36.000+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Theodore Moss\|Theodore Moss]]
+[[2-World/People/Staff/Theodore Moss\|Theodore Moss]]
 
 ## Summary
 
@@ -56,7 +56,7 @@ The man, trembling, described his experience in **Neverwood Forest**:
 
 ### The Map
 
-* After sobbing into his drink, the party asked his name: **[[2-World/People/Theodore Moss\|Theodore Moss]]**.  
+* After sobbing into his drink, the party asked his name: **[[2-World/People/Staff/Theodore Moss\|Theodore Moss]]**.  
 * Theodore pulled out a **map**, pointing to a location deep in Neverwood Forest, a day and a half’s journey away.  
 * The group agreed to help find [[2-World/People/Other/Miaukier\|Miaukier]], deciding to use their **half-term holidays** to prepare and travel into the forest.
 

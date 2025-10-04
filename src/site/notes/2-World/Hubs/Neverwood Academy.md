@@ -17,33 +17,6 @@ This is the places description.
 
 | File                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |
-| [[2-World/People/The Earl\|The Earl]]                                                              |
-| [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]                                              |
-| [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                              |
-| [[2-World/People/Theodore Moss\|Theodore Moss]]                                                    |
-| [[2-World/People/Tilana Kapule\|Tilana Kapule]]                                                    |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]                                            |
-| [[2-World/People/Tivash\|Tivash]]                                                                  |
-| [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                            |
-| [[2-World/People/Tulk Tusktooth\|Tulk Tusktooth]]                                                  |
-| [[2-World/People/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                            |
-| [[2-World/People/Valentin\|Valentin]]                                                              |
-| [[2-World/People/Velomachus Lorehold\|Velomachus Lorehold]]                                        |
-| [[2-World/People/Venoc Plaguescale\|Venoc Plaguescale]]                                            |
-| [[2-World/People/Verelda Lang\|Verelda Lang]]                                                      |
-| [[2-World/People/Verooja\|Verooja]]                                                                |
-| [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]                                                  |
-| [[2-World/People/Veyran\|Veyran]]                                                                  |
-| [[2-World/People/Willowdusk\|Willowdusk]]                                                          |
-| [[2-World/People/Xyla Langning\|Xyla Langning]]                                                    |
-| [[2-World/People/Yedora\|Yedora]]                                                                  |
-| [[2-World/People/Zaffai\|Zaffai]]                                                                  |
-| [[2-World/People/Zanther Brown\|Zanther Brown]]                                                    |
-| [[2-World/People/Zaph\|Zaph]]                                                                      |
-| [[2-World/People/Zoei\|Zoei]]                                                                      |
-| [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                            |
-| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                            |
-| [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                              |
 | [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]                                   |
 | [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     |
 | [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]]                                         |
@@ -88,6 +61,13 @@ This is the places description.
 | [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                                 |
 | [[2-World/People/Students/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             |
 | [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]]                               |
+| [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]                                   |
+| [[2-World/People/Students/Thorn Hollowbrook\|Thorn Hollowbrook]]                                   |
+| [[2-World/People/Students/Tilana Kapule\|Tilana Kapule]]                                           |
+| [[2-World/People/Students/Tobias Thornfield\|Tobias Thornfield]]                                   |
+| [[2-World/People/Students/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
+| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]                                   |
+| [[2-World/People/Students/Zanther Brown\|Zanther Brown]]                                           |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                              |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                              |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                        |
@@ -145,10 +125,30 @@ This is the places description.
 | [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]                                        |
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                                                            |
 | [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                                                  |
+| [[2-World/People/Staff/Tanazir Quandrix\|Tanazir Quandrix]]                                        |
+| [[2-World/People/Staff/Tervis Sharpwing\|Tervis Sharpwing]]                                        |
+| [[2-World/People/Staff/The Earl\|The Earl]]                                                        |
+| [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]                                              |
+| [[2-World/People/Staff/Tivash\|Tivash]]                                                            |
+| [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]                                            |
+| [[2-World/People/Staff/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                      |
+| [[2-World/People/Staff/Valentin\|Valentin]]                                                        |
+| [[2-World/People/Staff/Velomachus Lorehold\|Velomachus Lorehold]]                                  |
+| [[2-World/People/Staff/Venoc Plaguescale\|Venoc Plaguescale]]                                      |
+| [[2-World/People/Staff/Verelda Lang\|Verelda Lang]]                                                |
+| [[2-World/People/Staff/Verooja\|Verooja]]                                                          |
+| [[2-World/People/Staff/Veyran\|Veyran]]                                                            |
+| [[2-World/People/Staff/Willowdusk\|Willowdusk]]                                                    |
+| [[2-World/People/Staff/Xyla Langning\|Xyla Langning]]                                              |
+| [[2-World/People/Staff/Yedora\|Yedora]]                                                            |
+| [[2-World/People/Staff/Zaffai\|Zaffai]]                                                            |
+| [[2-World/People/Staff/Zaph\|Zaph]]                                                                |
+| [[2-World/People/Staff/Zoei\|Zoei]]                                                                |
 | [[2-World/People/Other/Coriander\|Coriander]]                                                      |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                          |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                      |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                                        |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                            |
 
 { .block-language-dataview}
 

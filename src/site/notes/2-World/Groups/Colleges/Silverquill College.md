@@ -54,12 +54,12 @@ The following people are members of this group.
 | [[2-World/People/Staff/Fain\|Fain]]                                    | Human    | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                  | Human    | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                  | Human    | Male       | Professor of Shadow   |
-| [[2-World/People/Thalia Everbright\|Thalia Everbright]]                | Aasimar  | Female     | Student               |
-| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                | Orc      | Female     | Student               |
 | [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]                 | Satyr    | Female     | Student               |
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]   | Human    | Male       | Student               |
 | [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Elf      | Non-binary | Student               |
 | [[2-World/People/Students/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
+| [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]       | Aasimar  | Female     | Student               |
+| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
 | [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]        | Owlin    | Male       | Veteran               |
 
 { .block-language-dataview}

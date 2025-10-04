@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"Miaukier Must Die (pt 1)","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-20","players":5,"OneLiner":"Heading on an adventure to find Miaukier","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[2-World/People/Theodore Moss.md|Theodore Moss]]","[[Krzrzrgh the Fat-bellied|Krzrzrgh the Fat-bellied]]","[[2-World/People/Yedora.md|Yedora]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-20 - Miaukier Must Die (pt 1).md","permalink":"/session-journals/2025-09-20-miaukier-must-die-pt-1/","dgPassFrontmatter":true,"updated":"2025-10-03T14:42:22.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Side Quest"],"fc-display-name":"Miaukier Must Die (pt 1)","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-09-20","players":5,"OneLiner":"Heading on an adventure to find Miaukier","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Theodore Moss|Theodore Moss]]","[[Krzrzrgh the Fat-bellied|Krzrzrgh the Fat-bellied]]","[[Yedora|Yedora]]"],"dg-publish":true,"dg-path":"Session Journals/2025-09-20 - Miaukier Must Die (pt 1).md","permalink":"/session-journals/2025-09-20-miaukier-must-die-pt-1/","dgPassFrontmatter":true,"updated":"2025-10-04T12:33:14.000+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]], [[2-World/People/Theodore Moss\|Theodore Moss]], [[2-World/People/Yedora\|Yedora]]
+[[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]], [[2-World/People/Staff/Theodore Moss\|Theodore Moss]], [[2-World/People/Staff/Yedora\|Yedora]]
 
 ## Summary
 
@@ -33,7 +33,7 @@ The party left the safety of Neverwood Academy, supplied with tents, rations, an
 ### 🏕️ Preparations & Setting Out
 
 * The group stocked up on **camping supplies** and potions before leaving campus.  
-* Cyinth spoke with **[[2-World/People/Yedora\|Yedora]] the groundskeeper**, learning that the small blue goblins were likely **Xvarts** — creatures rumoured to dwell in Neverwinter Woods. Yedora pointed her to a **[[Xvart Info Sheets.png|textbook page]]** for more details.  
+* Cyinth spoke with **[[2-World/People/Staff/Yedora\|Yedora]] the groundskeeper**, learning that the small blue goblins were likely **Xvarts** — creatures rumoured to dwell in Neverwinter Woods. Yedora pointed her to a **[[Xvart Info Sheets.png|textbook page]]** for more details.  
 * With this knowledge, the students headed northwest toward the reported settlement. 
 ### 🌊 The River Crossing
 * After hours of travel, the party reached a **50ft-wide river**.  
@@ -72,7 +72,7 @@ The party left the safety of Neverwood Academy, supplied with tents, rations, an
 ### Ongoing Threads
 
 * **[[2-World/People/Other/Miaukier\|Miaukier]]’s Fate** – The cat is still missing. The cave may yet hold answers.  
-* **[[2-World/People/Theodore Moss\|Theodore Moss]]’s Warning** – His ramblings of a “larger leader” with black eyes linger in the party’s mind.  
+* **[[2-World/People/Staff/Theodore Moss\|Theodore Moss]]’s Warning** – His ramblings of a “larger leader” with black eyes linger in the party’s mind.  
 * **The Xvarts** – Who do they serve? What compels their rituals?  
 * **The Golden Fork** – A strange trophy from a fatter Xvart. Does it signify leadership or something more sinister?
 * **Trust in the Party** – Friction is growing: Cyinth cutting the rope, Harry nearly cooked by accident, Lyra enforcing morals. Will these tensions boil over?

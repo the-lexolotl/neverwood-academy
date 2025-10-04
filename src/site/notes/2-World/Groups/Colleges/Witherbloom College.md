@@ -43,24 +43,24 @@ The following people are members of this group.
 | ----------------------------------------------------------------------- | ------------- | ---------- | ------------------- |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]            | Half-Bullywug | Male       | Alumni              |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]        | Bullywug      | Male       | Alumni              |
-| [[2-World/People/Valentin\|Valentin]]                                | Vampire       | Male       | College Dean        |
 | [[2-World/People/Staff/Lissette\|Lissette]]                          | Human         | Female     | College Dean        |
+| [[2-World/People/Staff/Valentin\|Valentin]]                          | Vampire       | Male       | College Dean        |
 | [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]  | Dragon        | Female     | Founder Dragon      |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                          | Cat           | Male       | Other               |
-| [[2-World/People/Tivash\|Tivash]]                                    | Human         | Male       | Professor of Decay  |
-| [[2-World/People/Venoc Plaguescale\|Venoc Plaguescale]]              | Dragonborn    | Male       | Professor of Decay  |
 | [[2-World/People/Staff/Serafina Onyx\|Serafina Onyx]]                | Human         | Female     | Professor of Decay  |
-| [[2-World/People/Verelda Lang\|Verelda Lang]]                        | Dryad         | Female     | Professor of Growth |
-| [[2-World/People/Verooja\|Verooja]]                                  | Loxodon       | Male       | Professor of Growth |
-| [[2-World/People/Willowdusk\|Willowdusk]]                            | Treant        | Female     | Professor of Growth |
+| [[2-World/People/Staff/Tivash\|Tivash]]                              | Human         | Male       | Professor of Decay  |
+| [[2-World/People/Staff/Venoc Plaguescale\|Venoc Plaguescale]]        | Dragonborn    | Male       | Professor of Decay  |
 | [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]            | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]            | Firbolg       | Male       | Professor of Growth |
-| [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                | Orc           | Male       | Student             |
+| [[2-World/People/Staff/Verelda Lang\|Verelda Lang]]                  | Dryad         | Female     | Professor of Growth |
+| [[2-World/People/Staff/Verooja\|Verooja]]                            | Loxodon       | Male       | Professor of Growth |
+| [[2-World/People/Staff/Willowdusk\|Willowdusk]]                      | Treant        | Female     | Professor of Growth |
 | [[2-World/People/Students/Francis Farlight\|Francis Farlight]]       | Human         | Male       | Student             |
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]           | Tiefling      | Male       | Student             |
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                     | Half-Orc      | Female     | Student             |
 | [[2-World/People/Students/Pebble\|Pebble]]                           | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]] | Elf           | Male       | Student             |
-| [[2-World/People/Theodore Moss\|Theodore Moss]]                      | Human         | Male       | Veteran             |
+| [[2-World/People/Students/Urzmaktok Grojsh\|Urzmaktok Grojsh]]       | Orc           | Male       | Student             |
+| [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]                | Human         | Male       | Veteran             |
 
 { .block-language-dataview}

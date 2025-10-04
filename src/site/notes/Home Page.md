@@ -22,12 +22,12 @@
 { .block-language-dataview}
 
 # Quests
-| Quest                  | Status      | Obtained           | Quest Giver                                        | Location                                                 |
-| ---------------------- | ----------- | ------------------ | -------------------------------------------------- | -------------------------------------------------------- |
-| The Missing Professor  | Complete    | August 09, 2025    | \-                                                 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| Heist the Records Room | Complete    | August 23, 2025    | \-                                                 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| Whos goo               | In Progress | July 12, 2025      | \-                                                 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| Miaukier Must Die!     | In Progress | September 13, 2025 | [[2-World/People/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| Quest                  | Status      | Obtained           | Quest Giver                                              | Location                                                 |
+| ---------------------- | ----------- | ------------------ | -------------------------------------------------------- | -------------------------------------------------------- |
+| The Missing Professor  | Complete    | August 09, 2025    | \-                                                       | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| Heist the Records Room | Complete    | August 23, 2025    | \-                                                       | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| Whos goo               | In Progress | July 12, 2025      | \-                                                       | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| Miaukier Must Die!     | In Progress | September 13, 2025 | [[2-World/People/Staff/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 
 { .block-language-dataview}
 

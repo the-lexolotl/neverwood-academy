@@ -48,11 +48,11 @@ The following people are members of this group.
 | [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]                                   | Halfling     | Female     | Prismari    |
 | [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]                                 | Orc          | Male       | Quandrix    |
 | [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]]                     | Elf          | Male       | Witherbloom |
-| [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                  | Aasimar      | Female     | Silverquill |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]                                  | Kenku        | Non-binary | Quandrix    |
-| [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                    | Orc          | Male       | Witherbloom |
-| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                  | Orc          | Female     | Silverquill |
-| [[2-World/People/Valka Runeclaw\|Valka Runeclaw]]                                        | Leonin       | Female     | Lorehold    |
+| [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]                         | Aasimar      | Female     | Silverquill |
+| [[2-World/People/Students/Thorn Hollowbrook\|Thorn Hollowbrook]]                         | Kenku        | Non-binary | Quandrix    |
+| [[2-World/People/Students/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                           | Orc          | Male       | Witherbloom |
+| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]                         | Orc          | Female     | Silverquill |
+| [[2-World/People/Students/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin       | Female     | Lorehold    |
 
 { .block-language-dataview}
 

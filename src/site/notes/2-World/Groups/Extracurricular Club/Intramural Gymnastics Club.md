@@ -37,7 +37,7 @@ The following people are members of this group.
 
 | File                                                                  | Race        | Gender | College  |
 | --------------------------------------------------------------------- | ----------- | ------ | -------- |
-| [[2-World/People/Zanther Brown\|Zanther Brown]]                    | Fire Genasi | Male   | Prismari |
 | [[2-World/People/Students/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari |
+| [[2-World/People/Students/Zanther Brown\|Zanther Brown]]           | Fire Genasi | Male   | Prismari |
 
 { .block-language-dataview}

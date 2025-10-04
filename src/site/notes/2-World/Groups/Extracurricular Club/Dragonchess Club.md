@@ -38,13 +38,13 @@ The following people are members of this group.
 
 | File                                                                  | Race     | Gender     | College     |
 | --------------------------------------------------------------------- | -------- | ---------- | ----------- |
-| [[2-World/People/Tilana Kapule\|Tilana Kapule]]                    | Human    | Female     | Quandrix    |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]            | Kenku    | Non-binary | Quandrix    |
 | [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]   | Hexblood | Female     | Witherbloom |
 | [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]]         | Loxodon  | Male       | Lorehold    |
 | [[2-World/People/Students/Dain Montagu\|Dain Montagu]]             | Aasimar  | Male       | Prismari    |
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]         | Tiefling | Male       | Witherbloom |
 | [[2-World/People/Students/Inding Kithollal\|Inding Kithollal]]     | Half-Elf | Female     | Lorehold    |
 | [[2-World/People/Students/Mirella Blackbriar\|Mirella Blackbriar]] | Reborn   | Female     | Witherbloom |
+| [[2-World/People/Students/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Kenku    | Non-binary | Quandrix    |
+| [[2-World/People/Students/Tilana Kapule\|Tilana Kapule]]           | Human    | Female     | Quandrix    |
 
 { .block-language-dataview}

@@ -37,4 +37,4 @@ List important relationships here.
 **Parents:** Unknown
 **Children:** Unknown
 **Grandchildren:** [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]
-**Other Family:** [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]
+**Other Family:** [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]

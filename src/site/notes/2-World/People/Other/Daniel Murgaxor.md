@@ -37,5 +37,5 @@ List important relationships here.
 Grand Parents: [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]
 **Parents:** Unknown
 **Children:** Unknown
-**Grandchildren:** [[2-World/People/Veyra Murgaxor\|Veyra Murgaxor]]
+**Grandchildren:** [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]
 **Other Family:** 

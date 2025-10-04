@@ -37,10 +37,10 @@ The following people are members of this group.
 
 | File                                                                    | Race     | Gender     | College     |
 | ----------------------------------------------------------------------- | -------- | ---------- | ----------- |
-| [[2-World/People/Thorn Hollowbrook\|Thorn Hollowbrook]]              | Kenku    | Non-binary | Quandrix    |
-| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]              | Orc      | Female     | Silverquill |
 | [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]     | Hexblood | Female     | Witherbloom |
 | [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]     | Human    | Male       | Silverquill |
 | [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]] | Elf      | Male       | Witherbloom |
+| [[2-World/People/Students/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku    | Non-binary | Quandrix    |
+| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]     | Orc      | Female     | Silverquill |
 
 { .block-language-dataview}

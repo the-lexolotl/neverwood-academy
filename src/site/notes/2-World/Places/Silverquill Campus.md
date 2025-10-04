@@ -18,8 +18,6 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 
 | File                                                                      | Race       | Gender     | Role                  |
 | ------------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
-| [[2-World/People/Thalia Everbright\|Thalia Everbright]]                | Aasimar    | Female     | Student               |
-| [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                | Orc        | Female     | Student               |
 | [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]                 | Satyr      | Female     | Student               |
 | [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]       | Human      | Male       | Student               |
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]   | Human      | Male       | Student               |
@@ -29,6 +27,8 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/Orion Duskmantle\|Orion Duskmantle]]         | Shadar-Kai | Male       | Student               |
 | [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]     | Human      | Female     | Student               |
 | [[2-World/People/Students/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin      | Female     | Student               |
+| [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]       | Aasimar    | Female     | Student               |
+| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc        | Female     | Student               |
 | [[2-World/People/Staff/Breena\|Breena]]                                | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]      | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                        | Human      | Male       | College Dean          |
