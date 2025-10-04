@@ -17,13 +17,6 @@ This is the places description.
 
 | File                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |
-| [[2-World/People/Sace Solindiel\|Sace Solindiel]]                                                  |
-| [[2-World/People/Serafina Onyx\|Serafina Onyx]]                                                    |
-| [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]                                        |
-| [[2-World/People/Shaile Talonrook\|Shaile Talonrook]]                                              |
-| [[2-World/People/Shtomp\|Shtomp]]                                                                  |
-| [[2-World/People/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                                      |
-| [[2-World/People/Smart Mouth\|Smart Mouth]]                                                        |
 | [[2-World/People/The Earl\|The Earl]]                                                              |
 | [[2-World/People/Tanazir Quandrix\|Tanazir Quandrix]]                                              |
 | [[2-World/People/Tervis Sharpwing\|Tervis Sharpwing]]                                              |
@@ -51,7 +44,6 @@ This is the places description.
 | [[2-World/People/Thalia Everbright\|Thalia Everbright]]                                            |
 | [[2-World/People/Urzoth Clanripper\|Urzoth Clanripper]]                                            |
 | [[2-World/People/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                              |
-| [[2-World/People/Solren Verdantbloom\|Solren Verdantbloom]]                                        |
 | [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]                                   |
 | [[2-World/People/Students/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     |
 | [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]]                                         |
@@ -94,6 +86,8 @@ This is the places description.
 | [[2-World/People/Students/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   |
 | [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]                                           |
 | [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                                 |
+| [[2-World/People/Students/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             |
+| [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]]                               |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                              |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                              |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                        |
@@ -145,6 +139,12 @@ This is the places description.
 | [[2-World/People/Staff/Rock\|Rock]]                                                                |
 | [[2-World/People/Staff/Ronald Rothton\|Ronald Rothton]]                                            |
 | [[2-World/People/Staff/Ruxa\|Ruxa]]                                                                |
+| [[2-World/People/Staff/Sace Solindiel\|Sace Solindiel]]                                            |
+| [[2-World/People/Staff/Serafina Onyx\|Serafina Onyx]]                                              |
+| [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]                                  |
+| [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]                                        |
+| [[2-World/People/Staff/Shtomp\|Shtomp]]                                                            |
+| [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                                                  |
 | [[2-World/People/Other/Coriander\|Coriander]]                                                      |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                          |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                      |

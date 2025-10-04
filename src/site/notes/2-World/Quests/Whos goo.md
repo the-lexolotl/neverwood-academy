@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-07-12 - Orientation Day.md|2025-07-12 - Orientation Day]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-02T16:22:16.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-07-12 - Orientation Day.md|2025-07-12 - Orientation Day]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-04T00:43:38.000+01:00"}
 ---
 
 

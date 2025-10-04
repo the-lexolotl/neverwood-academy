@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Society of Fine Artists.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":["Cadoras Damellawar"],"primary_contact":null,"Skill1":"Performance","Skill2":"Slight of Hand","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Distinguished Society of Fine Artists.md","permalink":"/world/groups/extracurricular-club/distinguished-society-of-fine-artists/","dgPassFrontmatter":true,"updated":"2025-09-29T12:28:02.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Society of Fine Artists.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":["Cadoras Damellawar"],"primary_contact":null,"Skill1":"Performance","Skill2":"Slight of Hand","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Distinguished Society of Fine Artists.md","permalink":"/world/groups/extracurricular-club/distinguished-society-of-fine-artists/","dgPassFrontmatter":true,"updated":"2025-10-04T00:46:04.000+01:00"}
 ---
 
 

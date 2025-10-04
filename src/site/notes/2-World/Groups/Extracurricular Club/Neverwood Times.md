@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Neverwood Times.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Investigation","Skill2":"Insight","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Neverwood Times.md","permalink":"/world/groups/extracurricular-club/neverwood-times/","dgPassFrontmatter":true,"updated":"2025-09-29T13:02:56.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Neverwood Times.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Investigation","Skill2":"Insight","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Neverwood Times.md","permalink":"/world/groups/extracurricular-club/neverwood-times/","dgPassFrontmatter":true,"updated":"2025-10-04T00:48:04.000+01:00"}
 ---
 
 

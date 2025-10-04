@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dragonchess.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Deception","Skill2":"Investigation","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Dragonchess Club.md","permalink":"/world/groups/extracurricular-club/dragonchess-club/","dgPassFrontmatter":true,"updated":"2025-09-29T12:34:02.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dragonchess.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Deception","Skill2":"Investigation","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Dragonchess Club.md","permalink":"/world/groups/extracurricular-club/dragonchess-club/","dgPassFrontmatter":true,"updated":"2025-10-04T00:46:14.000+01:00"}
 ---
 
 

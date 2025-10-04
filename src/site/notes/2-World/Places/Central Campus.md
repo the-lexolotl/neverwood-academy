@@ -19,7 +19,6 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 
 | File                                                             | Race                   | Gender | Role                       |
 | ---------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
-| [[2-World/People/Shtomp\|Shtomp]]                             | Orc                    | Male   | Coach                      |
 | [[2-World/People/Taiva Loreweaver\|Taiva Loreweaver]]         | Human                  | Female | Head Teacher               |
 | [[2-World/People/The Earl\|The Earl]]                         | Neverwood Campus Guide | Male   | Butler                     |
 | [[2-World/People/Tulk Tusktooth\|Tulk Tusktooth]]             | Orc                    | Male   | Cafe Manager               |
@@ -37,6 +36,7 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Staff/Molvi Le Donto\|Molvi Le Donto]]       | Human                  | Female | Lab Administrator          |
 | [[2-World/People/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
+| [[2-World/People/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Other/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
 
 { .block-language-dataview}

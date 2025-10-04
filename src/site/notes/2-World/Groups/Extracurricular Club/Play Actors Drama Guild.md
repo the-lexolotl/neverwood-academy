@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Playactors Drama Guild.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"Deception","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Play Actors Drama Guild.md","permalink":"/world/groups/extracurricular-club/play-actors-drama-guild/","dgPassFrontmatter":true,"updated":"2025-09-29T13:05:00.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Playactors Drama Guild.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"Deception","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Play Actors Drama Guild.md","permalink":"/world/groups/extracurricular-club/play-actors-drama-guild/","dgPassFrontmatter":true,"updated":"2025-10-04T00:48:12.000+01:00"}
 ---
 
 

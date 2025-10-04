@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Show Band.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Slight of Hand","Skill2":"Performance","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Neverwood Show Band Association.md","permalink":"/world/groups/extracurricular-club/neverwood-show-band-association/","dgPassFrontmatter":true,"updated":"2025-09-29T13:00:36.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Show Band.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Slight of Hand","Skill2":"Performance","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Neverwood Show Band Association.md","permalink":"/world/groups/extracurricular-club/neverwood-show-band-association/","dgPassFrontmatter":true,"updated":"2025-10-04T00:47:54.000+01:00"}
 ---
 
 

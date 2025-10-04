@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgPassFrontmatter":true,"updated":"2025-10-03T15:14:24.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgPassFrontmatter":true,"updated":"2025-10-04T00:44:52.000+01:00"}
 ---
 
 

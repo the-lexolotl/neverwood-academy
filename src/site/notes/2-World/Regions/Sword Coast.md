@@ -94,11 +94,12 @@ Make notes of what you need to track in the region here.
 
 # Quests
 
-| File                                                                 |
-| -------------------------------------------------------------------- |
-| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]] |
-| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]         |
-| [[2-World/Quests/Whos goo\|Whos goo]]                             |
-| [[2-World/Quests/The Missing Professor\|The Missing Professor]]   |
+| File                                                                                   |
+| -------------------------------------------------------------------------------------- |
+| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]                   |
+| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]                           |
+| [[2-World/Quests/Whos goo\|Whos goo]]                                               |
+| [[2-World/Quests/The Missing Professor\|The Missing Professor]]                     |
+| [[2-World/Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Silverquill College.md","permalink":"/world/groups/colleges/silverquill-college/","dgPassFrontmatter":true,"updated":"2025-10-03T15:15:40.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Silverquill College.md","permalink":"/world/groups/colleges/silverquill-college/","dgPassFrontmatter":true,"updated":"2025-10-04T00:45:30.000+01:00"}
 ---
 
 
@@ -41,14 +41,14 @@ The following people are members of this group.
 
 | File                                                                      | Race     | Gender     | Role                  |
 | ------------------------------------------------------------------------- | -------- | ---------- | --------------------- |
-| [[2-World/People/Shaile Talonrook\|Shaile Talonrook]]                  | Owlin    | Female     | College Dean          |
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                        | Human    | Male       | College Dean          |
-| [[2-World/People/Shadrix SIlverquill\|Shadrix SIlverquill]]            | Dragon   | Male       | Founder Dragon        |
+| [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]            | Owlin    | Female     | College Dean          |
+| [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]      | Dragon   | Male       | Founder Dragon        |
 | [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]                | Leonin   | Male       | Professor of Radiance |
 | [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]]          | Owlin    | Female     | Professor of Radiance |
 | [[2-World/People/Staff/Nils\|Nils]]                                    | Human    | Male       | Professor of Radiance |
-| [[2-World/People/Sace Solindiel\|Sace Solindiel]]                      | Half-Elf | Female     | Professor of Radience |
-| [[2-World/People/Smart Mouth\|Smart Mouth]]                            | Kenku    | Non-binary | Professor of Radience |
+| [[2-World/People/Staff/Sace Solindiel\|Sace Solindiel]]                | Half-Elf | Female     | Professor of Radiance |
+| [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                      | Kenku    | Non-binary | Professor of Radiance |
 | [[2-World/People/Staff/Breena\|Breena]]                                | Owlin    | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]      | Dhampir  | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Fain\|Fain]]                                    | Human    | Male       | Professor of Shadow   |

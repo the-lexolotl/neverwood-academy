@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Neverwood Iron-Lifters Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":"Medicine","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society.md","permalink":"/world/groups/extracurricular-club/neverwood-iron-lifters-society/","dgPassFrontmatter":true,"updated":"2025-09-29T12:58:26.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Neverwood Iron-Lifters Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":"Medicine","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society.md","permalink":"/world/groups/extracurricular-club/neverwood-iron-lifters-society/","dgPassFrontmatter":true,"updated":"2025-10-04T00:47:44.000+01:00"}
 ---
 
 

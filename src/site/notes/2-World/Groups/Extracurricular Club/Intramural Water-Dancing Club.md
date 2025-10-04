@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Intramural Water Dancing.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":"Performance","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Intramural Water-Dancing Club.md","permalink":"/world/groups/extracurricular-club/intramural-water-dancing-club/","dgPassFrontmatter":true,"updated":"2025-09-29T12:51:56.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Intramural Water Dancing.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":"Performance","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Intramural Water-Dancing Club.md","permalink":"/world/groups/extracurricular-club/intramural-water-dancing-club/","dgPassFrontmatter":true,"updated":"2025-10-04T00:47:16.000+01:00"}
 ---
 
 

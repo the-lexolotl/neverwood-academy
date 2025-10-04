@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-path":"World/Groups/Academic Cohorts/Cohort of 1508.md","permalink":"/world/groups/academic-cohorts/cohort-of-1508/","dgPassFrontmatter":true,"updated":"2025-10-03T15:17:08.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-path":"World/Groups/Academic Cohorts/Cohort of 1508.md","permalink":"/world/groups/academic-cohorts/cohort-of-1508/","dgPassFrontmatter":true,"updated":"2025-10-04T00:44:36.000+01:00"}
 ---
 
 
@@ -45,6 +45,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human           | Male   | Prismari    |
 | [[2-World/People/Students/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome           | Female | Lorehold    |
 | [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female | Silverquill |
+| [[2-World/People/Students/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin           | Female | Silverquill |
 | [[2-World/People/Tilana Kapule\|Tilana Kapule]]                                                    | Human           | Female | Quandrix    |
 | [[2-World/People/Tobias Thornfield\|Tobias Thornfield]]                                            | Half-Orc        | Male   | Lorehold    |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                                             | Dragonborn      | Male   | Quandrix    |

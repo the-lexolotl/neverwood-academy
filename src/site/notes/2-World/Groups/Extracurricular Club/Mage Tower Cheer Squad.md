@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Cheer Squad.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Perception","Skill2":"Persuasion","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md","permalink":"/world/groups/extracurricular-club/mage-tower-cheer-squad/","dgPassFrontmatter":true,"updated":"2025-09-29T12:56:12.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Cheer Squad.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Perception","Skill2":"Persuasion","dg-publish":true,"dg-path":"World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md","permalink":"/world/groups/extracurricular-club/mage-tower-cheer-squad/","dgPassFrontmatter":true,"updated":"2025-10-04T00:47:36.000+01:00"}
 ---
 
 
