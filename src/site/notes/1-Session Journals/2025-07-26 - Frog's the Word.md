@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Frog's the Word","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-26","players":6,"OneLiner":"Giant frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[Cadoras Damellawar|Cadoras Damellawar]]","[[Osgir, the Reconstructor|Osgir, the Reconstructor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-26 - Frog's the Word.md","permalink":"/session-journals/2025-07-26-frog-s-the-word/","dgPassFrontmatter":true,"updated":"2025-10-03T16:11:58.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Frog's the Word","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-26","players":6,"OneLiner":"Giant frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[Cadoras Damellawar|Cadoras Damellawar]]","[[Osgir, the Reconstructor|Osgir, the Reconstructor]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-26 - Frog's the Word.md","permalink":"/session-journals/2025-07-26-frog-s-the-word/","dgPassFrontmatter":true,"updated":"2025-10-05T16:07:02.000+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 
 
 
-[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]
 
 # Session Overview
 

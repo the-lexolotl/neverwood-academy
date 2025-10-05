@@ -34,11 +34,11 @@ Make notes of what you need to track in the group here.
 
 The following people are members of this group.  
 
-| File                                                                | Race       | Gender | College     |
-| ------------------------------------------------------------------- | ---------- | ------ | ----------- |
-| [[1-Party/Group 1/Atudark\|Atudark]]                             | Yuan-Ti    | Male   | Witherbloom |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] | Triton     | Male   | Witherbloom |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         | Halfling   | Male   | Witherbloom |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Dragonborn | Male   | Quandrix    |
+| File                                                        | Race       | Gender | College     |
+| ----------------------------------------------------------- | ---------- | ------ | ----------- |
+| [[1-Party/Group 1/Atudark\|Atudark]]                     | Yuan-Ti    | Male   | Witherbloom |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling   | Male   | Witherbloom |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]   | Dragonborn | Male   | Quandrix    |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]       | Triton     | Male   | Witherbloom |
 
 { .block-language-dataview}

@@ -30,7 +30,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]                                   | Human           | Male   | Silverquill |
 | [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged       | Male   | Quandrix    |
 | [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf           | Female | Lorehold    |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]]                                   | Triton          | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                                                 | Triton          | Male   | Witherbloom |
 | [[1-Party/Group 2/H'er\|H'er]]                                                                     | Tiefling        | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                                             | Human           | Male   | Quandrix    |
 | [[2-World/People/Students/Kealen Starfury\|Kealen Starfury]]                                       | Elf             | Male   | Silverquill |

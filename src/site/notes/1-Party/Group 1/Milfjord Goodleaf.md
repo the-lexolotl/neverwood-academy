@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theo"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Milfjord Goodleaf.md","permalink":"/party/group-1/milfjord-goodleaf/","dgPassFrontmatter":true,"updated":"2025-10-02T14:19:34.000+01:00"}
+{"aliases":["Theo"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Milfjord Goodleaf.md","permalink":"/party/group-1/milfjord-goodleaf/","dgPassFrontmatter":true,"updated":"2025-10-05T16:22:34.000+01:00"}
 ---
 
 
@@ -22,17 +22,32 @@
 | College  | Witherbloom |
 
 # Description
+## Appearance
 
+|                 |                                             |
+| --------------- | ------------------------------------------- |
+| Age             | 20                                          |
+| Height          | 2ft 9                                       |
+| Weight          | 36 lbs                                      |
+| Eye Colour      | Grey                                        |
+| Hair/Fur Colour | Brown                                       |
+| Skin Colour     | Fair                                        |
+| Faith           | Other                                       |
+| Other           | Long frizzy hair, mutton chops, neck beard. |
+
+## Biography
 This is the persons description. 
 
-
-# GM Notes
-
-Make notes of what you need to track in the town here. 
 
 # Skills
 
 ![Pasted image 20250928220650.png](/img/user/z_Assets/Pasted%20image%2020250928220650.png)
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| ---------------- | ---------------- | ---------------- | ---- | ---------- |
+| -1               | 2                | 2                | 0    | 0          |
+
 # Traits
 
 ### Druidic
@@ -160,6 +175,42 @@ WIld Shape 2/ [[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
   Thunderwave(1st)
 
 # Inventory
+### Equipment (23)
+[[3-Mechanics/CLI/items/staff-of-fire-xdmg\|Staff of Fire]] (Modified, no recharge)
+[[3-Mechanics/CLI/items/alchemy-jug-xdmg\|Alchemy Jug]]
+A necklace of five small vials, each filled with luminescent white liquid
+[[3-Mechanics/CLI/items/alchemists-supplies-xphb\|Alchemist's Supplies]]
+Cuddly Neverwood Mascot
+[[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism Kit]]
+[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+[[3-Mechanics/CLI/items/leather-armor-xphb\|Leather Armor]]
+Milfjord's Dorm Room Key
+Neverwood - First Year Uniform
+Neverwood Pennant
+[[3-Mechanics/CLI/items/iron-pot-xphb\|Iron Pot]]
+[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
+[[3-Mechanics/CLI/items/rope-xphb\|Rope]]
+[[3-Mechanics/CLI/items/shield-xphb\|Shield]]
+[[3-Mechanics/CLI/items/shortsword-xphb\|Shortsword]]
+[[3-Mechanics/CLI/items/shortsword-xphb\|Shortsword]]
+[[3-Mechanics/CLI/items/sickle-xphb\|Sickle]]
+[[3-Mechanics/CLI/items/sling-xphb\|Sling]]
+[[3-Mechanics/CLI/items/sling-xphb\|Sling]]
+[[3-Mechanics/CLI/items/staff-xphb\|Staff]]
+Whalebucks Free Meal Ticket
+
+### Backpack (5)
+[[3-Mechanics/CLI/items/bedroll-xphb\|Bedroll]]
+[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+[[3-Mechanics/CLI/items/torch-xphb\|Torch]]
+[[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
+
+### Pouch (2)
+[[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism Kit]]
+[[3-Mechanics/CLI/items/poisoners-kit-xphb\|Poisoner's Kit]]
+
 
 # Connections
 
@@ -168,3 +219,10 @@ WIld Shape 2/ [[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 1/Group 1\|Group 1]],  [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]
 
 # Relationships
+
+**Pets:** Mossy (Pet Rock)
+**Parents:** Unknown
+**Siblings:** Unknown 
+**Partner:** Unknown
+**Friends:** [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]], [[2-World/People/Students/Ivy Drake\|Ivy Drake]]
+**Enemies:** 

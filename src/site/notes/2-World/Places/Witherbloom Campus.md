@@ -29,6 +29,9 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Students/Pebble\|Pebble]]                                     | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]]           | Elf           | Male       | Student             |
 | [[2-World/People/Students/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                 | Orc           | Male       | Student             |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                      | Half-Bullywug | Male       | Alumni              |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                  | Bullywug      | Male       | Alumni              |
+| [[2-World/People/Other/Miaukier\|Miaukier]]                                    | Cat           | Male       | Other               |
 | [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]                      | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]            | Dragon        | Female     | Founder Dragon      |
 | [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]                      | Firbolg       | Male       | Professor of Growth |
@@ -41,9 +44,6 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Staff/Verelda Lang\|Verelda Lang]]                            | Dryad         | Female     | Professor of Growth |
 | [[2-World/People/Staff/Verooja\|Verooja]]                                      | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Willowdusk\|Willowdusk]]                                | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                      | Half-Bullywug | Male       | Alumni              |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                  | Bullywug      | Male       | Alumni              |
-| [[2-World/People/Other/Miaukier\|Miaukier]]                                    | Cat           | Male       | Other               |
 
 { .block-language-dataview}
 

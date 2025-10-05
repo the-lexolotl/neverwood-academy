@@ -1,12 +1,12 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[1-Party/Group 1/Guiloip Guhloo (Glue).md|Guiloip Guhloo (Glue)]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Matreous|Matreous]]","[[Losheel|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-03T15:30:18.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Matreous|Matreous]]","[[Losheel|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-05T16:07:02.000+01:00"}
 ---
 
 
 # Roster 
 
 
-[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]],  [[1-Party/Group 2/H'er\|H'er]],  [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]],  [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
+[[1-Party/Group 1/Atudark\|Atudark]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]],  [[1-Party/Group 2/H'er\|H'er]],  [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]],  [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
 ## Absent
 

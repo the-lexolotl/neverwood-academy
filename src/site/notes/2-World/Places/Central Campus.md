@@ -20,6 +20,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | File                                                             | Race                   | Gender | Role                       |
 | ---------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
 | [[2-World/People/Students/Orvlo\|Orvlo]]                      | Vedalken               | Male   | General Studies Professor  |
+| [[2-World/People/Other/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling               | Female | Applicant                  |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
 | [[2-World/People/Staff/Cleaner\|Cleaner]]                     | Automaton              | Other  | Cleaner                    |
 | [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
@@ -36,8 +38,6 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Cafe Manager               |
 | [[2-World/People/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Staff/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
-| [[2-World/People/Other/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling               | Female | Applicant                  |
 
 { .block-language-dataview}
 
@@ -52,8 +52,8 @@ Make notes of what you need to track in the town here.
 | ---------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Firejolt Café\|Firejolt Café]]                           |
-| [[2-World/Points of Interest/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]                     |
+| [[2-World/Points of Interest/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Stadium\|Neverwood Stadium]]                   |
 | [[2-World/Points of Interest/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |

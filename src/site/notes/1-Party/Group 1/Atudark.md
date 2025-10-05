@@ -1,5 +1,5 @@
 ---
-{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Atudark.md","permalink":"/party/group-1/atudark/","dgPassFrontmatter":true,"updated":"2025-10-02T14:19:34.000+01:00"}
+{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Atudark.md","permalink":"/party/group-1/atudark/","dgPassFrontmatter":true,"updated":"2025-10-05T16:08:28.000+01:00"}
 ---
 
 
@@ -23,16 +23,38 @@
 
 # Description
 
-This is the persons description. 
+## Appearance
 
+|                 |                                                                                                              |     |     |
+| --------------- | ------------------------------------------------------------------------------------------------------------ | --- | --- |
+| Age             | 22                                                                                                           |     |     |
+| Height          | 5ft 8                                                                                                        |     |     |
+| Weight          | 124 lbs                                                                                                      |     |     |
+| Eye Colour      | Red                                                                                                          |     |     |
+| Hair/Fur Colour | Black                                                                                                        |     |     |
+| Skin Colour     | Pale White                                                                                                   |     |     |
+| Faith           | Kelemvor - God of Death                                                                                      |     |     |
+| Other           | Scorpion Tattoo all over the left forearm, a few scars on the left hand, streaks of red with his black hair. |     |     |
 
-# GM Notes
+## Biography
 
-Make notes of what you need to track in the town here. 
+Atudark is a Yuan-Ti student from the city of Chystone, a place renowned for its serpentine heritage and magical traditions. His parents, both sorcerers, run a shop devoted to recovering forgotten spells and creating new tomes of arcane knowledge. He also has an identical twin brother at the Academy, though his wider family tree remains a mystery. Atudark keeps in close touch with his kin, preferring magical messages or animal couriers over mundane means.
+
+Within the Academy, Atudark pursues necromancy with a singular passion. He dreams of compiling his own definitive volume on the subject — a book that proves necromancy can be used for good, despite its dark reputation. His studies are promising, though not without challenges: he is prone to misreading texts, forgetting notes, or losing focus when faced with subjects outside his interests.
+
+In his personal life, Atudark sees himself as heroic, striving to be a reliable ally to his companions. He is loyal but sometimes wanders from the group or loses sight of the mission. He has a few quirks — quietly snacking when unobserved and collecting intriguing items during adventures — that make him both endearing and a little troublesome. His greatest fear is letting down his team or becoming a burden, a worry he keeps carefully hidden.
+
+Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have been one of the first and greatest necromancers. He respects other beliefs but finds inspiration in this god’s mastery of forbidden arts. His ultimate goal is to recover the Book of Necromancers and, in time, write his own work on the subject. He imagines a future of scholarship and discovery, though he dreads one fate above all others: failing in his ambitions and being forced into the role of a teacher, shackled to a classroom rather than free to explore the secrets of life and death.
+
 
 # Skills
 
 ![Pasted image 20250928212558.png](/img/user/z_Assets/Pasted%20image%2020250928212558.png)
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| ---------------- | ---------------- | ---------------- | ---- | ---------- |
+| 1                | 2                | -1               | 1    | 0          |
 # Traits
 
 ### Serpentine Spellcasting
@@ -125,6 +147,37 @@ You can cast [[3-Mechanics/CLI/spells/mage-armor-xphb\|Mage Armor]] on yourself 
   Witch Bolt(1st)
 
 # Inventory
+### Equipment (20)
+A notebook containing waterproof paper
+[[3-Mechanics/CLI/items/amber-xdmg\|Amber]]
+Atudark's Dorm Room Key
+[[3-Mechanics/CLI/items/book-xphb\|Book]]
+[[3-Mechanics/CLI/items/cast-off-armor-xdmg\|Cast-Off Chain Mail]]
+[[3-Mechanics/CLI/items/chain-mail-xphb\|Chain Mail]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism Kit]]
+[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+[[3-Mechanics/CLI/items/leather-armor-xphb\|Leather Armor]]
+Neverwood - First Year Uniform
+[[3-Mechanics/CLI/items/orb-xphb\|Orb]]
+[[3-Mechanics/CLI/items/iron-pot-xphb\|Iron Pot]]
+[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
+[[3-Mechanics/CLI/items/shortsword-xphb\|Shortsword]]
+[[3-Mechanics/CLI/items/sickle-xphb\|Sickle]]
+Spell Scroll: [[3-Mechanics/CLI/spells/spider-climb-xphb\|Spider Climb]]
+Whalebucks Free Meal Ticket
+### Backpack (7)
+[[3-Mechanics/CLI/items/book-xphb\|Book]]
+[[3-Mechanics/CLI/items/ink-xphb\|Ink]]
+[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+[[3-Mechanics/CLI/items/lamp-xphb\|Lamp]]
+[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+[[3-Mechanics/CLI/items/parchment-xphb\|Parchment]]
+[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+### Pouch (0)
+
 
 # Connections
 
@@ -133,3 +186,11 @@ You can cast [[3-Mechanics/CLI/spells/mage-armor-xphb\|Mage Armor]] on yourself 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 1/Group 1\|Group 1]], [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]
 
 # Relationships
+
+
+**Pets:** ɘɿɘʜɈollɘH ([[3-Mechanics/CLI/bestiary/beast/raven-xmm\|Raven]])
+**Parents:** Unknown
+**Siblings:** Unknown 
+**Partner:** Unknown
+**Friends:** [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]], 
+**Enemies:** 

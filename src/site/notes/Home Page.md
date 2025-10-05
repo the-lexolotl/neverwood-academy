@@ -8,16 +8,16 @@
 | ![Faerûn.png](/img/user/z_Assets/Maps/Faer%C3%BBn.png) | ![Neverwood Academy square.png](/img/user/z_Assets/Neverwood%20Academy%20square.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) | ![Pasted image 20250929163117.png](/img/user/z_Assets/Pasted%20image%2020250929163117.png)                                 |
 
 # Players
-| File                                                                | Player   | Level | Class     | Gender | College     |
-| ------------------------------------------------------------------- | -------- | ----- | --------- | ------ | ----------- |
-| [[1-Party/Group 1/Atudark\|Atudark]]                             | Jacob    | 2     | Warlock   | Male   | Witherbloom |
-| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   | Catarina | 2     | Artificer | Female | Lorehold    |
-| [[1-Party/Group 1/Guiloip Guhloo (Glue)\|Guiloip Guhloo (Glue)]] | Cameron  | 2     | Druid     | Male   | Witherbloom |
-| [[1-Party/Group 2/H'er\|H'er]]                                   | Rain     | 2     | Sorcerer  | Female | Prismari    |
-| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]           | Ross     | 2     | Wizard    | Male   | Quandrix    |
-| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]               | Megan    | 2     | Cleric    | Female | Silverquill |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]         | Theo     | 2     | Druid     | Male   | Witherbloom |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Kristy   | 2     | Monk      | Male   | Quandrix    |
+| File                                                        | Player   | Level | Class     | Gender | College     |
+| ----------------------------------------------------------- | -------- | ----- | --------- | ------ | ----------- |
+| [[1-Party/Group 1/Atudark\|Atudark]]                     | Jacob    | 2     | Warlock   | Male   | Witherbloom |
+| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]           | Catarina | 2     | Artificer | Female | Lorehold    |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]       | Cameron  | 2     | Druid     | Male   | Witherbloom |
+| [[1-Party/Group 2/H'er\|H'er]]                           | Rain     | 2     | Sorcerer  | Female | Prismari    |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]   | Ross     | 2     | Wizard    | Male   | Quandrix    |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]       | Megan    | 2     | Cleric    | Female | Silverquill |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]] | Theo     | 2     | Druid     | Male   | Witherbloom |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]   | Kristy   | 2     | Monk      | Male   | Quandrix    |
 
 { .block-language-dataview}
 
@@ -48,6 +48,7 @@
 | [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             | September 13, 2025 | Occurred | <ul><li>Exams</li></ul>                    | 7       |
 | [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | September 20, 2025 | Occurred | <ul><li>Side Quest</li></ul>               | 5       |
 | [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | September 27, 2025 | Occurred | <ul><li>Side Quest</li></ul>               | 8       |
+| [[1-Session Journals/2025-10-04 - Work Hard, Play Harder\|2025-10-04 - Work Hard, Play Harder]]                         | October 04, 2025   | Prepared | <ul><li>Main Story</li></ul>               | \-      |
 
 { .block-language-dataview}
 
