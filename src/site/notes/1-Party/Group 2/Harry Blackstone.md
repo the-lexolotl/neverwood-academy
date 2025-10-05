@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ross"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":2,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend","Cadoras Damellawar"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 2/Harry Blackstone.md","permalink":"/party/group-2/harry-blackstone/","dgPassFrontmatter":true,"updated":"2025-10-05T17:53:58.000+01:00"}
+{"aliases":["Ross"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":2,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend","Cadoras Damellawar"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 2/Harry Blackstone.md","permalink":"/party/group-2/harry-blackstone/","dgPassFrontmatter":true,"updated":"2025-10-05T18:53:24.000+01:00"}
 ---
 
 
@@ -8,19 +8,19 @@
 
 ![Ross.png](/img/user/z_Assets/character_art/Players/Ross.png)
 
-| Stat     | Value       |
-| -------- | ----------- |
-| Status   | Alive       |
-| Race     | Human       |
-| Class    | Wizard      |
-| Level    | 2           |
-| Gender   | Male        |
-| Age      | Young Adult |
-| HP       | 14          |
-| Max HP   | 14          |
-| AC       | 11          |
-| Modifier | +1          |
-| College  | Quandrix    |
+| Stat       | Value       |
+| ---------- | ----------- |
+| Status     | Alive       |
+| Race       | Human       |
+| Class      | Wizard      |
+| Level      | 2           |
+| Gender     | Male        |
+| Age        | Young Adult |
+| HP         | 14          |
+| Max HP     | 14          |
+| AC         | 11          |
+| Initiative | +1          |
+| College    | Quandrix    |
 
 
 # Description

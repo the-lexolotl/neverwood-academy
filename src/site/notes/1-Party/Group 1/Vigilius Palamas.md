@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 1/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/","dgPassFrontmatter":true,"updated":"2025-10-05T18:07:38.000+01:00"}
+{"aliases":["Kristy"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 1/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/","dgPassFrontmatter":true,"updated":"2025-10-05T18:52:48.000+01:00"}
 ---
 
 
@@ -7,19 +7,19 @@
 
 ![Kristy.png](/img/user/z_Assets/character_art/Players/Kristy.png)
 
-| Stat     | Value             |
-| -------- | ----------------- |
-| Status   | Alive             |
-| Race     | Dragonborn (Gold) |
-| Class    | Monk              |
-| Level    | 2                 |
-| Gender   | Male              |
-| Age      | Young Adult       |
-| HP       | 13                |
-| Max HP   | 13                |
-| AC       | 15                |
-| Modifier | +2                |
-| College  | Quandrix          |
+| Stat       | Value             |
+| ---------- | ----------------- |
+| Status     | Alive             |
+| Race       | Dragonborn (Gold) |
+| Class      | Monk              |
+| Level      | 2                 |
+| Gender     | Male              |
+| Age        | Young Adult       |
+| HP         | 13                |
+| Max HP     | 13                |
+| AC         | 15                |
+| Initiative | +2                |
+| College    | Quandrix          |
 
 # Description
 ## Appearance

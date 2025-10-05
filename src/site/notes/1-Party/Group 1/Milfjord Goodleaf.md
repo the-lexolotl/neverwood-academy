@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theo"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Milfjord Goodleaf.md","permalink":"/party/group-1/milfjord-goodleaf/","dgPassFrontmatter":true,"updated":"2025-10-05T16:59:50.000+01:00"}
+{"aliases":["Theo"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Milfjord Goodleaf.md","permalink":"/party/group-1/milfjord-goodleaf/","dgPassFrontmatter":true,"updated":"2025-10-05T18:52:40.000+01:00"}
 ---
 
 
@@ -7,19 +7,19 @@
 
 ![Theo.png](/img/user/z_Assets/character_art/Players/Theo.png)
 
-| Stat     | Value       |
-| -------- | ----------- |
-| Status   | Alive       |
-| Race     | Halfling    |
-| Class    | Druid       |
-| Level    | 2           |
-| Gender   | Male        |
-| Age      | Young Adult |
-| HP       | 19          |
-| Max HP   | 19          |
-| AC       | 13          |
-| Modifier | +1          |
-| College  | Witherbloom |
+| Stat       | Value       |
+| ---------- | ----------- |
+| Status     | Alive       |
+| Race       | Halfling    |
+| Class      | Druid       |
+| Level      | 2           |
+| Gender     | Male        |
+| Age        | Young Adult |
+| HP         | 19          |
+| Max HP     | 19          |
+| AC         | 13          |
+| Initiative | +1          |
+| College    | Witherbloom |
 
 # Description
 ## Appearance
