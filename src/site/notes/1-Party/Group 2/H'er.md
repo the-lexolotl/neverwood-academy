@@ -1,5 +1,5 @@
 ---
-{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-path":"Party/Group 2/H'er.md","permalink":"/party/group-2/h-er/","dgPassFrontmatter":true,"updated":"2025-10-02T14:19:36.000+01:00"}
+{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-path":"Party/Group 2/H'er.md","permalink":"/party/group-2/h-er/","dgPassFrontmatter":true,"updated":"2025-10-05T17:50:04.000+01:00"}
 ---
 
 
@@ -22,18 +22,21 @@
 | College  | Prismari    |
 
 
-# Description
+# Description 
+## Appearance
 
-This is the persons description. 
+## Biography 
 
 
-# GM Notes
-
-Make notes of what you need to track in the town here. 
 
 # Skills
 
 ![Pasted image 20250928223732.png](/img/user/z_Assets/Pasted%20image%2020250928223732.png)
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| ---------------- | ---------------- | ---------------- | ---- | ---------- |
+| 2                | 2                | 2                | -1   | -2         |
 
 # Traits
 
@@ -119,7 +122,7 @@ Innate Sorcery: 2/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
   Chromatic Orb(1st)
   Magic Missile(1st)
 
-> [!NOTE]+ Known
+> [!NOTE]- Known
 > **Cantrips**
 > Acid Splash(Cantrip)
 Blade Ward(Cantrip)
@@ -184,6 +187,36 @@ Silvery Barbs(1st)
   Witch Bolt(1st)
 
 # Inventory
+### Equipment (18)
+[[3-Mechanics/CLI/items/astral-shard-tce\|Astral Shard]]
+A bandolier of watercolour paints
+[[3-Mechanics/CLI/items/crystal-xphb\|Crystal]]
+Cuddly Neverwood Mascot
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+H'er's Dorm Room Key
+[[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]]
+[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+Neverwood - First Year Uniform
+Neverwood Pennant
+[[3-Mechanics/CLI/items/painters-supplies-xphb\|Painter's Supplies]]
+[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
+[[3-Mechanics/CLI/items/rope-xphb\|Rope]]
+[[3-Mechanics/CLI/items/spear-xphb\|Spear]]
+Spell Scroll: [[3-Mechanics/CLI/spells/ray-of-frost-xphb\|Ray of Frost]]
+Whalebucks Free Meal Ticket
+#### Backpack (6)
+[[3-Mechanics/CLI/items/caltrops-xphb\|Caltrops]]
+[[3-Mechanics/CLI/items/crowbar-xphb\|Crowbar]]
+[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+[[3-Mechanics/CLI/items/torch-xphb\|Torch]]
+[[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
+
+#### Pouch (0)
+
+
 
 
 # Connections
@@ -193,3 +226,10 @@ Silvery Barbs(1st)
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 2/Group 2\|Group 2]], [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]]
 
 # Relationships
+
+**Pets:** None
+**Parents:** Unknown
+**Siblings:** Unknown 
+**Partner:** Unknown
+**Friends:** [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]
+**Enemies:** 

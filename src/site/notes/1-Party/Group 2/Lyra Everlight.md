@@ -1,5 +1,5 @@
 ---
-{"aliases":["Megan"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-path":"Party/Group 2/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/","dgPassFrontmatter":true,"updated":"2025-10-02T14:20:12.000+01:00"}
+{"aliases":["Megan"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-path":"Party/Group 2/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/","dgPassFrontmatter":true,"updated":"2025-10-05T18:04:30.000+01:00"}
 ---
 
 
@@ -23,17 +23,31 @@
 
 
 # Description
+## Appearance
 
+|                 |                                    |
+| --------------- | ---------------------------------- |
+| Age             | 19                                 |
+| Height          | 5ft 10                             |
+| Weight          | 133lbs                             |
+| Eye Colour      | Gold                               |
+| Hair/Fur Colour | Pure Black                         |
+| Skin Colour     | Pale                               |
+| Faith           | Lliira - Goddess of Joy            |
+| Other           | Big white wings that glow slightly |
+
+## Biography
 This is the persons description. 
 
-
-# GM Notes
-
-Make notes of what you need to track in the town here. 
 
 # Skills
 
 ![Pasted image 20250928225051.png](/img/user/z_Assets/Pasted%20image%2020250928225051.png)
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| ---------------- | ---------------- | ---------------- | ---- | ---------- |
+| +1               | +1               | -1               | 0    | +2         |
 
 
 # Traits
@@ -102,15 +116,22 @@ Healing Hands 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 
 
 > [!NOTE]- Prepared
-> Spare the Dying(Cantrip)
-Toll the Dead(Cantrip)
-Word of Radiance(Cantrip)
-Cure Wounds(1st)
-Guiding Bolt(1st)
-Healing Word(1st)
-Inflict Wounds(1st)
+> **Cantrips:**
+> [[3-Mechanics/CLI/spells/light-xphb\|Light]]
+> [[3-Mechanics/CLI/spells/sacred-flame-xphb\|Sacred Flame]]
+> [[3-Mechanics/CLI/spells/spare-the-dying-xphb\|Spare the Dying]]
+> [[3-Mechanics/CLI/spells/thaumaturgy-xphb\|Thaumaturgy]]
+> [[3-Mechanics/CLI/spells/toll-the-dead-xphb\|Toll the Dead]]
+> [[3-Mechanics/CLI/spells/word-of-radiance-xphb\|Word of Radiance]]
+> ** 1st Level:**
+> [[3-Mechanics/CLI/spells/cure-wounds-xphb\|Cure Wounds]]
+> [[3-Mechanics/CLI/spells/detect-poison-and-disease-xphb\|Detect Poison and Disease]]
+> [[3-Mechanics/CLI/spells/guiding-bolt-xphb\|Guiding Bolt]]
+> [[3-Mechanics/CLI/spells/healing-word-xphb\|Healing Word]]
+> [[3-Mechanics/CLI/spells/inflict-wounds-xphb\|Inflict Wounds]]
+> [[3-Mechanics/CLI/spells/shield-of-faith-xphb\|Shield of Faith]]
 
-> [!NOTE]+ Known
+> [!NOTE]-  Known
 > **Cantrips**
 > Guidance(Cantrip)
 Light(Cantrip)
@@ -141,9 +162,10 @@ Sanctuary(1st)
 Shield of Faith(1st)
 
 # Inventory
-
-
-[[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]] - Wondrous item
+### Equipment (20).
+[[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]
+[[3-Mechanics/CLI/items/basic-poison-xphb\|Basic Poison]]
+[[3-Mechanics/CLI/items/bedroll-xphb\|Bedroll]]
 [[3-Mechanics/CLI/items/blanket-xphb\|Blanket]]
 [[3-Mechanics/CLI/items/chain-shirt-xphb\|Chain Shirt]]
 [[3-Mechanics/CLI/items/holy-symbol-xphb\|Holy Symbol]]
@@ -151,21 +173,26 @@ Shield of Faith(1st)
 [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
 Lyra's Dorm Room Key
 [[3-Mechanics/CLI/items/mace-xphb\|Mace]]
-Murgaxor, Daniel - Student Records
-Murgaxor, Grenshel - Student Records
-Murgaxor, Veyra - Student Records
+[[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]
+[[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]]
+[[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]
 Neverwood - First Year Uniform
+[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
 [[3-Mechanics/CLI/items/shield-xphb\|Shield]]
-Two-Person [[3-Mechanics/CLI/items/tent-xphb\|Tent]]
+[[3-Mechanics/CLI/items/tent-xphb\|Tent]]
 [[3-Mechanics/CLI/items/weavers-tools-xphb\|Weaver's Tools]]
 Whalebucks Free Meal Ticket
-Book of Poetry
 ### Backpack (5)
 [[3-Mechanics/CLI/items/blanket-xphb\|Blanket]]
 [[3-Mechanics/CLI/items/holy-water-xphb\|Holy Water]]
 [[3-Mechanics/CLI/items/lamp-xphb\|Lamp]]
 [[3-Mechanics/CLI/items/robe-xphb\|Robe]]
 [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+### Pouch (0)
+
+
+
 
 
 # Connections
@@ -175,3 +202,11 @@ Book of Poetry
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 2/Group 2\|Group 2]], [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]], [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]
 
 # Relationships
+
+
+**Pets:** Midnight ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]]), Unnamed ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
+**Parents:** Unknown
+**Siblings:** Unknown 
+**Partner:** Unknown
+**Friends:** [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]
+**Enemies:** 

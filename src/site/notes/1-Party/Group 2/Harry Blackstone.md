@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ross"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":2,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend","Cadoras Damellawar"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 2/Harry Blackstone.md","permalink":"/party/group-2/harry-blackstone/","dgPassFrontmatter":true,"updated":"2025-10-05T16:49:42.000+01:00"}
+{"aliases":["Ross"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":2,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend","Cadoras Damellawar"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 2/Harry Blackstone.md","permalink":"/party/group-2/harry-blackstone/","dgPassFrontmatter":true,"updated":"2025-10-05T17:53:58.000+01:00"}
 ---
 
 
@@ -102,15 +102,23 @@ Your spellcasting ability for this feat’s spells is Intelligence.
 Arcane Recovery 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 
 > [!NOTE]- Prepared
-> Create Bonfire(Cantrip)
-Fire Bolt(Cantrip)
-Light(Cantrip)
-Burning Hands(1st)
-Detect Magic(1st)
-Shield(1st)
-Thunderwave(1st)
+> **Cantrips:**
+> [[3-Mechanics/CLI/spells/create-bonfire-xge\|Create Bonfire]]
+> [[3-Mechanics/CLI/spells/druidcraft-xphb\|Druidcraft]]
+> [[3-Mechanics/CLI/spells/fire-bolt-xphb\|Fire Bolt]]
+> [[3-Mechanics/CLI/spells/light-xphb\|Light]]
+> [[3-Mechanics/CLI/spells/mage-hand-xphb\|Mage Hand]]
+> ** 1st Level:**
+> [[3-Mechanics/CLI/spells/absorb-elements-xge\|Absorb Elements]]
+> [[3-Mechanics/CLI/spells/alarm-xphb\|Alarm]]
+> [[3-Mechanics/CLI/spells/burning-hands-xphb\|Burning Hands]]
+> [[3-Mechanics/CLI/spells/detect-magic-xphb\|Detect Magic]]
+> [[3-Mechanics/CLI/spells/identify-xphb\|Identify]]
+> [[3-Mechanics/CLI/spells/mage-armor-xphb\|Mage Armor]]
+> [[3-Mechanics/CLI/spells/shield-xphb\|Shield]]
+> [[3-Mechanics/CLI/spells/thunderwave-xphb\|Thunderwave]]
 
-> [!NOTE]+ Known
+> [!NOTE]- Known
 > **Cantrips**
 > Acid Splash(Cantrip)
 Blade Ward(Cantrip)

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":11,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-path":"Party/Group 2/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/","dgPassFrontmatter":true,"updated":"2025-10-02T14:19:36.000+01:00"}
+{"aliases":["Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":11,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"partner":[],"children":[],"enemies":["Enemy"],"allies":["Bhedum Sooviij","Quentillius Antiphiun Melentor III"],"siblings":[],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-path":"Party/Group 2/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/","dgPassFrontmatter":true,"updated":"2025-10-05T17:31:44.000+01:00"}
 ---
 
 
@@ -22,18 +22,32 @@
 | College  | Lorehold    |
 
 # Description
+## Appearance
+
+|                 |                                                                          |
+| --------------- | ------------------------------------------------------------------------ |
+| Age             | 25                                                                       |
+| Height          | 2m                                                                       |
+| Weight          | 95kg/200lbs                                                              |
+| Eye Colour      | Red                                                                      |
+| Hair/Fur Colour | Black and Silver                                                         |
+| Skin Colour     | Grey                                                                     |
+| Faith           | None                                                                     |
+| Other           | Unlike most Aarakocra, Cyinth and her family appear to look like corvids |
+
+## Biography
 
 This is the persons description. 
 
 
-# GM Notes
-
-Make notes of what you need to track in the town here. 
-
 # Skills
 
 ![Pasted image 20250928223117.png](/img/user/z_Assets/Pasted%20image%2020250928223117.png)
+## Student Skill Points 
 
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| ---------------- | ---------------- | ---------------- | ---- | ---------- |
+| -1               | 2                | 0                | 0    | 2          |
 # Traits
 
 ### Magical Tinkering
@@ -73,13 +87,18 @@ Some infusions specify a minimum artificer level, and unless an infusion’s des
 [[3-Mechanics/CLI/spells/guiding-bolt-xphb\|Guiding Bolt]] 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 
 > [!NOTE]- Prepared
-> Fire Bolt(Cantrip)
-  Thunderclap(Cantrip)
-  Cure Wounds(1st)
-  False Life(1st)
-  Tasha's Caustic Brew(1st)
+> **Cantrips:**
+> [[3-Mechanics/CLI/spells/fire-bolt-xphb\|Fire Bolt]]
+> [[3-Mechanics/CLI/spells/light-xphb\|Light]]
+> [[3-Mechanics/CLI/spells/thaumaturgy-xphb\|Thaumaturgy]]
+> [[3-Mechanics/CLI/spells/thunderclap-xphb\|Thunderclap]]
+> ** 1st Level:**
+> [[3-Mechanics/CLI/spells/cure-wounds-xphb\|Cure Wounds]]
+> [[3-Mechanics/CLI/spells/false-life-xphb\|False Life]]
+> [[3-Mechanics/CLI/spells/guiding-bolt-xphb\|Guiding Bolt]]
+> [[3-Mechanics/CLI/spells/tashas-caustic-brew-tce\|Tasha's Caustic Brew]]
 
-> [!NOTE]+ Known
+> [!NOTE]- Known
 > ** Cantrips **
 > Acid Splash(Cantrip)
   Booming Blade(Cantrip)
@@ -126,30 +145,35 @@ Some infusions specify a minimum artificer level, and unless an infusion’s des
   Tasha's Caustic Brew(1st)
 
 # Inventory
-
-
-[[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]] - Wondrous item
-[[3-Mechanics/CLI/items/alchemists-supplies-xphb\|Alchemist's Supplies]] - Gear
-Crossbow [[3-Mechanics/CLI/items/bolts-20-xphb\|Bolts (20)]] - Ammunition
+### Equipment (33)
+[[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]
+Gray [[3-Mechanics/CLI/items/bag-of-tricks-xdmg\|Bag of Tricks]]
+[[3-Mechanics/CLI/items/alchemists-supplies-xphb\|Alchemist's Supplies]]
+[[3-Mechanics/CLI/items/ball-bearings-xphb\|Ball Bearings]] (bag of 1,000)
+[[3-Mechanics/CLI/items/black-pearl-xdmg\|Black Pearl]]
+[[3-Mechanics/CLI/items/blue-sapphire-xdmg\|Blue Sapphire]]
+Crossbow [[3-Mechanics/CLI/items/bolts-20-xphb\|Bolts (20)]]
 [[3-Mechanics/CLI/items/light-crossbow-xphb\|Light Crossbow]]
-Cuddly Neverwood Mascot*
+Cuddly Neverwood Mascot
 Cyinth's Dorm Room Key
 [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
 [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+Golden Fork
 Hammer
-[[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]]
-Ink (1 ounce bottle)
-Ink Pen
-Lantern, Hooded
+[[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]] x 2
+[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
 Neverwood - First Year Uniform
-[[3-Mechanics/CLI/items/strixhaven-pennant-scc\|Neverwood Pennant]]* -Wondrous item
-[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]] - Potion
+Neverwood Pennant
+[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
 [[3-Mechanics/CLI/items/rope-xphb\|Rope]], Hempen (50 feet)
+Shiny Rocks
+[[3-Mechanics/CLI/items/silvered-weapon-xdmg\|Silvered Pistol]]
 Spell Scroll: [[3-Mechanics/CLI/spells/identify-xphb\|Identify]]
-Syllabus Pages - Book
-The Joy of Extradimensional Spaces - Book
-The head of a broken statue that houses the consciousness of a snarky sage - Trinket
-Shiny rocks
+Syllabus Pages
+[[2-Player Handouts/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]]
+The head of a broken statue that houses the consciousness of a snarky sage
 [[3-Mechanics/CLI/items/thieves-tools-xphb\|Thieves' Tools]]
 [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
 [[3-Mechanics/CLI/items/tinkers-tools-xphb\|Tinker's Tools]]
@@ -161,6 +185,9 @@ Piton
 [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
 [[3-Mechanics/CLI/items/torch-xphb\|Torch]]
 [[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
+### Pouch (0)
+
+
 
 
 # Connections
@@ -170,3 +197,10 @@ Piton
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 2/Group 2\|Group 2]]
 
 # Relationships
+
+**Pets:** Hornfellow the Grand ([[3-Mechanics/CLI/bestiary/beast/raven-xmm\|Raven]]), Mr Muffin ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
+**Parents:** Elwar Trytha (Father), Hestha Agora (Mother)
+**Siblings:** None 
+**Partner:** None 
+**Friends:** [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]], [[2-World/People/Students/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
+**Enemies:**  

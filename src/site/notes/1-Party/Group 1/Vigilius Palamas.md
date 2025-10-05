@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 1/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/","dgPassFrontmatter":true,"updated":"2025-10-02T14:19:34.000+01:00"}
+{"aliases":["Kristy"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-path":"Party/Group 1/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/","dgPassFrontmatter":true,"updated":"2025-10-05T18:07:38.000+01:00"}
 ---
 
 
@@ -22,20 +22,41 @@
 | College  | Quandrix          |
 
 # Description
+## Appearance
 
-This is the persons description. 
+|                 |                       |
+| --------------- | --------------------- |
+| Age             | 19                    |
+| Height          | 6ft 7                 |
+| Weight          | 225lbs                |
+| Eye Colour      | Purple                |
+| Hair/Fur Colour | No hair, Golden Horns |
+| Skin Colour     | Gold Scales           |
+| Faith           | None                  |
+| Other           |                       |
 
+## Biography
+Vagilius Palamas grew up with two worlds pulling at his heart. Though his first memories trace back to Dragonlance, he was raised not by his birth parents, whom he barely remembers, but by Corven and Elara Palamas — a pair of human traders who took him in as their own. With his siblings Kabo and Eliania, Vagilius grew up constantly on the move, traveling from market to market. While he has always felt a certain distance from the societies around him, his bond with his human family is steadfast, and he treasures every chance to keep in touch with them.
 
-# GM Notes
+At Neverwood Academy, Vagilius approaches study with quiet determination, though his goals differ from most of his peers. His true ambition is not tied to academic rank or accolades, but to uncover the truth of what happened to his birth parents — a mystery stretching back to the earliest days of his life. In class, he finds joy in subjects like A is for Ankheg, fascinated by the vast array of creatures that roam the world. Yet other areas, such as Connecting the Dots, challenge him more than he’d like to admit, demanding greater focus and research.
 
-Make notes of what you need to track in the town here. 
+Unlike the majority of his classmates, Vagilius is not a wizard or sorcerer but a monk, blending physical discipline with spiritual practice. This path sets him apart and sometimes accentuates his sense of being an outsider. Still, he channels his loyalty into fierce devotion to those he calls friends. His greatest fear is failing to protect those he loves, whether his companions at Neverwood or the family waiting for him back home.
+
+Though he does not follow any deity, Vagilius respects the faith of others and strives for inclusivity. His ideals are simple yet profound: to do good where he can, to protect the weak, and to seek peace between peoples who too often view one another with distrust. He admires the resilience and qualities of those around him — Harry’s tenacity, Glue’s curiosity, Lyra’s reason — as much as he admires the lessons of respect and honesty passed down by his father. Yet his caution toward students like Cyinth and his uncertainty around He’r remind him that trust must be earned carefully.
+
+Looking ahead, Vagilius envisions himself standing as a protector, shielding the helpless and living by the values he holds closest. He does not dream of glory or heroism, but of ensuring no one suffers as he did, cast aside for being different. His greatest fear is not his own failure, but the consequences of that failure: being unable to uncover the fate of his birth family, or worse, being too weak to protect those who now depend on him.
+
 
 # Skills
 
 ![Pasted image 20250928221448.png](/img/user/z_Assets/Pasted%20image%2020250928221448.png)
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| ---------------- | ---------------- | ---------------- | ---- | ---------- |
+| 1                | 2                | -1               | 0    | 1          |
 
 # Traits
-
 ### Martial Arts
 *PHB-2024, pg. 101*
 
@@ -117,45 +138,49 @@ Shield 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 
 
 > [!NOTE]- Prepared
-> List Spells Here
+> **Cantrips**
+> [[3-Mechanics/CLI/spells/guidance-xphb\|Guidance]]
+> [[3-Mechanics/CLI/spells/mage-hand-xphb\|Mage Hand]]
+> [[3-Mechanics/CLI/spells/shield-xphb\|Shield]]
 
-> [!NOTE]+ Known
-> List Spells Here
+> [!NOTE]- Known
+> 
 
 # Inventory
-
-
-- A blue knit hat that looks a bit like a bottle folding in on itself
-- Abacus
-- [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-- [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-- [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-- [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-- [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-- [[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]]
-- [[3-Mechanics/CLI/items/horn-xphb\|Horn]]
-- [[3-Mechanics/CLI/items/ink-xphb\|Ink]](1 ounce bottle)
-- [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
-- Neverwood - First Year Uniform
-- [[3-Mechanics/CLI/items/strixhaven-pennant-scc\|Neverwood Pennant]]* - Wondrous item
-- [[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
-- [[3-Mechanics/CLI/items/rope-xphb\|Rope]]
-- [[3-Mechanics/CLI/items/spear-xphb\|Spear]]
-- Spell Scroll: [[3-Mechanics/CLI/spells/detect-magic-xphb\|Detect Magic]]
-- [[3-Mechanics/CLI/items/tinkers-tools-xphb\|Tinker's Tools]]
-- Vigilius's Dorm Room Key
-- Whalebucks Free Meal Ticket
-- 📖 A history of Dragonborn tribes in Tymanther
-  Dense cultural history text, probably a scholarly work with lots of dates, lineage, and politics.
-  Length: Long (300–400 pages equivalent).
-  Reading time: ~10–12 hours to skim, ~20+ hours if read thoroughly for detail.
-
+### Equipment (25)
+A Scrap of Paper With a Code (5/6)
+A blue knit hat that looks a bit like a bottle folding in on itself
+A history of Dragonborn tribes in Tymanther
+Abacus
+[[3-Mechanics/CLI/items/bedroll-xphb\|Bedroll]]
+[[3-Mechanics/CLI/items/cloak-of-billowing-xdmg\|Cloak of Billowing]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
+[[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]]
+[[3-Mechanics/CLI/items/horn-xphb\|Horn]]
+[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+Neverwood - First Year Uniform
+Neverwood Pennant
+[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
+[[3-Mechanics/CLI/items/rope-xphb\|Rope]]
+[[3-Mechanics/CLI/items/spear-xphb\|Spear]]
+Spell Scroll: [[3-Mechanics/CLI/spells/detect-magic-xphb\|Detect Magic]]
+[[3-Mechanics/CLI/items/tent-xphb\|Tent]]
+[[3-Mechanics/CLI/items/tinkers-tools-xphb\|Tinker's Tools]]
+Vigilius's Dorm Room Key
+Whalebucks Free Meal Ticket
 ### Backpack (5)
-- [[3-Mechanics/CLI/items/bedroll-xphb\|Bedroll]]
-- [[3-Mechanics/CLI/items/oil-xphb\|Oil]]
-- [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
-- [[3-Mechanics/CLI/items/torch-xphb\|Torch]]
-- [[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
+[[3-Mechanics/CLI/items/bedroll-xphb\|Bedroll]]
+[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+[[3-Mechanics/CLI/items/torch-xphb\|Torch]]
+[[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
+
+
 
 
 
@@ -167,3 +192,11 @@ Shield 1/[[3-Mechanics/CLI/variant-rules/long-rest-xphb\|Long Rest]]
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 1/Group 1\|Group 1]], [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
 
 # Relationships
+
+
+**Pets:** 
+**Parents:** Corven Palamas (Father), Elara Palamas (Mother)
+**Siblings:** Kabo Palamas, Eliania Palamas
+**Partner:** None
+**Friends:** 
+**Enemies:** 
