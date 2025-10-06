@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250920140440.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"In Progress","questGiver":"[[Theodore Moss|Theodore Moss]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-09-13 - Exams & Missing Cats.md|2025-09-13 - Exams & Missing Cats]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Miaukier Must Die!.md","permalink":"/world/quests/miaukier-must-die/","dgPassFrontmatter":true,"updated":"2025-10-04T11:59:36.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250920140440.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"In Progress","questGiver":"[[Theodore Moss|Theodore Moss]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-09-13 - Exams & Missing Cats.md|2025-09-13 - Exams & Missing Cats]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Miaukier Must Die!.md","permalink":"/world/quests/miaukier-must-die/","dgPassFrontmatter":true,"updated":"2025-10-06T20:48:40.000+01:00"}
 ---
 
 
@@ -11,10 +11,10 @@
 - [x]  Head to the [[3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm\|Xvart]] Village
 - [x]  Find a way into the Village
 - [x]  Talk to the King [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]
-- [ ]  Bribe the King 
+- [x]  Bribe the King 
 - [x]  Investigate the Sharman's cave 
-- [ ]  Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete
-- [ ]  Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]
+- [x]  Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete
+- [x]  Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]
 
 # Quest Details
 
