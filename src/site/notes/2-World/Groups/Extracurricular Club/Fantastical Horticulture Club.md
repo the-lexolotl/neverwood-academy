@@ -44,7 +44,7 @@ The following people are members of this group.
 | [[2-World/People/Students/Orion Duskmantle\|Orion Duskmantle]]       | Shadar-Kai | Male   | Silverquill |
 | [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]     | Aasimar    | Female | Silverquill |
 | [[2-World/People/Students/Urzmaktok Grojsh\|Urzmaktok Grojsh]]       | Orc        | Male   | Witherbloom |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]             | Halfling   | Male   | Witherbloom |
 | [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                   | Triton     | Male   | Witherbloom |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]             | Halfling   | Male   | Witherbloom |
 
 { .block-language-dataview}

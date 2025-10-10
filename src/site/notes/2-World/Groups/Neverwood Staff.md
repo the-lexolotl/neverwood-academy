@@ -44,7 +44,9 @@ The following people are members of this group.
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                 | Tiefling               | Female     | None        | Coach                      |
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                                     | Orc                    | Male       | None        | Coach                      |
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]               | Owlin                  | Male       | None        | Dean of Admissions         |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                       | Human                  | Male       | None        | Deputy Head Teacher        |
 | [[2-World/People/Students/Orvlo\|Orvlo]]                                    | Vedalken               | Male       | None        | General Studies Professor  |
+| [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]                 | Tiefling               | Male       | None        | General Studies Professor  |
 | [[2-World/People/Staff/Yedora\|Yedora]]                                     | Treant                 | Female     | None        | Grounds Keeper             |
 | [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]]               | Troll                  | Male       | None        | Head Chef                  |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                               | Treant                 | Female     | None        | Head Librarian             |

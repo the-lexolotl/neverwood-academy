@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgPassFrontmatter":true,"updated":"2025-09-29T16:02:56.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgPassFrontmatter":true,"updated":"2025-10-10T03:00:02.000+01:00"}
 ---
 
 

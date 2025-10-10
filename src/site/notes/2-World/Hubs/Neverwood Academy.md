@@ -32,23 +32,23 @@ This is the places description.
 | [[2-World/People/Students/Elowen Quickwhisper\|Elowen Quickwhisper]]                               |
 | [[2-World/People/Students/Emeline Redstream\|Emeline Redstream]]                                   |
 | [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]                                             |
-| [[2-World/People/Students/Francis Farlight\|Francis Farlight]]                                     |
 | [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]                                   |
+| [[2-World/People/Students/Francis Farlight\|Francis Farlight]]                                     |
 | [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]                               |
 | [[2-World/People/Students/Gethrick Ironbranch\|Gethrick Ironbranch]]                               |
 | [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]                                             |
 | [[2-World/People/Students/Henry Woodleaf\|Henry Woodleaf]]                                         |
 | [[2-World/People/Students/Ivy Drake\|Ivy Drake]]                                                   |
-| [[2-World/People/Students/Larine Arneza\|Larine Arneza]]                                           |
 | [[2-World/People/Students/Kealen Starfury\|Kealen Starfury]]                                       |
 | [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             |
+| [[2-World/People/Students/Larine Arneza\|Larine Arneza]]                                           |
 | [[2-World/People/Students/Lindsey Stonesworn\|Lindsey Stonesworn]]                                 |
 | [[2-World/People/Students/Lysander Frostbane\|Lysander Frostbane]]                                 |
-| [[2-World/People/Students/Mina Lee\|Mina Lee]]                                                     |
 | [[2-World/People/Students/Melwythorn\|Melwythorn]]                                                 |
+| [[2-World/People/Students/Mina Lee\|Mina Lee]]                                                     |
 | [[2-World/People/Students/Mirella Blackbriar\|Mirella Blackbriar]]                                 |
-| [[2-World/People/Students/Nora Ann Wu\|Nora Ann Wu]]                                               |
 | [[2-World/People/Students/Nyssa Willowmere\|Nyssa Willowmere]]                                     |
+| [[2-World/People/Students/Nora Ann Wu\|Nora Ann Wu]]                                               |
 | [[2-World/People/Students/Orion Duskmantle\|Orion Duskmantle]]                                     |
 | [[2-World/People/Students/Orvlo\|Orvlo]]                                                           |
 | [[2-World/People/Students/Pebble\|Pebble]]                                                         |
@@ -57,8 +57,8 @@ This is the places description.
 | [[2-World/People/Students/Ronald Caskbow\|Ronald Caskbow]]                                         |
 | [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]                                             |
 | [[2-World/People/Students/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   |
-| [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]                                           |
 | [[2-World/People/Students/Rubina Larkingdale\|Rubina Larkingdale]]                                 |
+| [[2-World/People/Students/Rowan Montagu\|Rowan Montagu]]                                           |
 | [[2-World/People/Students/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             |
 | [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]]                               |
 | [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]                                   |
@@ -68,13 +68,8 @@ This is the places description.
 | [[2-World/People/Students/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     |
 | [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]                                   |
 | [[2-World/People/Students/Zanther Brown\|Zanther Brown]]                                           |
-| [[2-World/People/Other/Coriander\|Coriander]]                                                      |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                          |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                      |
-| [[2-World/People/Other/Miaukier\|Miaukier]]                                                        |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                            |
-| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                              |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                              |
+| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                              |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                        |
 | [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                                              |
 | [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]                                          |
@@ -102,8 +97,8 @@ This is the places description.
 | [[2-World/People/Staff/Kianne\|Kianne]]                                                            |
 | [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]                                          |
 | [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]                                    |
-| [[2-World/People/Staff/Lissette\|Lissette]]                                                        |
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]                                      |
+| [[2-World/People/Staff/Lissette\|Lissette]]                                                        |
 | [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                                              |
 | [[2-World/People/Staff/Losheel\|Losheel]]                                                          |
 | [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                                              |
@@ -149,6 +144,13 @@ This is the places description.
 | [[2-World/People/Staff/Zaffai\|Zaffai]]                                                            |
 | [[2-World/People/Staff/Zaph\|Zaph]]                                                                |
 | [[2-World/People/Staff/Zoei\|Zoei]]                                                                |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                                              |
+| [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]                                        |
+| [[2-World/People/Other/Coriander\|Coriander]]                                                      |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                          |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                      |
+| [[2-World/People/Other/Miaukier\|Miaukier]]                                                        |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                            |
 
 { .block-language-dataview}
 
@@ -163,42 +165,42 @@ Make notes of what you need to track in the town here.
 | ------------------------------------------------------------ |
 | [[2-World/Places/Central Campus\|Central Campus]]         |
 | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]       |
+| [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
 | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]       |
 | [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
 | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-| [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
 
 { .block-language-dataview}
 # Groups
 
 | File                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------- |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  |
-| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] |
+| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 |
 | [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           |
-| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 |
-| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       |
-| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           |
 | [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         |
+| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 |
+| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           |
 | [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 |
 | [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 |
 | [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               |
 | [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               |
+| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       |
 | [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             |
-| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             |
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             |
+| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
 
 { .block-language-dataview}
 # Travel

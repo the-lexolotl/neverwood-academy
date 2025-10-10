@@ -57,38 +57,44 @@ Make notes of what you need to track in the region here.
 | [[2-World/Points of Interest/Wiltroot Hall\|Wiltroot Hall]]                           |
 | [[2-World/Points of Interest/Detention Bog\|Detention Bog]]                           |
 | [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]             |
+| [[2-World/Points of Interest/The Tall Tale\|The Tall Tale]]                           |
+| [[2-World/Points of Interest/The Frothing Flask\|The Frothing Flask]]                 |
+| [[2-World/Points of Interest/The Lucid Dreamer\|The Lucid Dreamer]]                   |
+| [[2-World/Points of Interest/The Rambling Toad\|The Rambling Toad]]                   |
+| [[2-World/Points of Interest/The Beauty’s Mirror\|The Beauty’s Mirror]]               |
+| [[2-World/Points of Interest/The Pub That Crawls\|The Pub That Crawls]]               |
 
 { .block-language-dataview}
 # Groups
 
 | File                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------- |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  |
-| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] |
+| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 |
 | [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           |
-| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 |
-| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       |
-| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           |
 | [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         |
+| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 |
+| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           |
 | [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 |
 | [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 |
 | [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               |
 | [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               |
+| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       |
 | [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             |
-| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             |
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             |
+| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
 
 { .block-language-dataview}
 
@@ -101,5 +107,6 @@ Make notes of what you need to track in the region here.
 | [[2-World/Quests/The Missing Professor\|The Missing Professor]]                     |
 | [[2-World/Quests/Whos goo\|Whos goo]]                                               |
 | [[2-World/Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] |
+| [[2-World/Quests/The Pub That Crawls\|The Pub That Crawls]]                         |
 
 { .block-language-dataview}
