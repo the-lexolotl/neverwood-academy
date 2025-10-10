@@ -192,5 +192,5 @@ Whalebucks Free Meal Ticket
 **Parents:** Unknown
 **Siblings:** Unknown 
 **Partner:** Unknown
-**Friends:** [[2-World/People/Students/Dorian Wavecrest\|Dorian Wavecrest]], 
+**Friends:** [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]], 
 **Enemies:** 

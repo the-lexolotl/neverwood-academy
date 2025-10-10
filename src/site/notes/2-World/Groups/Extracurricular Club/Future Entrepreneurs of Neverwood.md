@@ -35,12 +35,12 @@ Make notes of what you need to track in the town here.
 The following people are members of this group.  
 
 
-| File                                                                    | Race     | Gender     | College     |
-| ----------------------------------------------------------------------- | -------- | ---------- | ----------- |
-| [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]]     | Hexblood | Female     | Witherbloom |
-| [[2-World/People/Students/Garyson Wildemere\|Garyson Wildemere]]     | Human    | Male       | Silverquill |
-| [[2-World/People/Students/Solren Verdantbloom\|Solren Verdantbloom]] | Elf      | Male       | Witherbloom |
-| [[2-World/People/Students/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku    | Non-binary | Quandrix    |
-| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]     | Orc      | Female     | Silverquill |
+| File                                                                         | Race     | Gender     | College     |
+| ---------------------------------------------------------------------------- | -------- | ---------- | ----------- |
+| [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]]     | Hexblood | Female     | Witherbloom |
+| [[2-World/People/Students/1508/Garyson Wildemere\|Garyson Wildemere]]     | Human    | Male       | Silverquill |
+| [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Elf      | Male       | Witherbloom |
+| [[2-World/People/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku    | Non-binary | Quandrix    |
+| [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]     | Orc      | Female     | Silverquill |
 
 { .block-language-dataview}

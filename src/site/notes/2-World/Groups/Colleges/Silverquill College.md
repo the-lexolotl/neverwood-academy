@@ -39,29 +39,30 @@ Make notes of what you need to track in the group here.
 
 The following people are members of this group.  
 
-| File                                                                      | Race     | Gender     | Role                  |
-| ------------------------------------------------------------------------- | -------- | ---------- | --------------------- |
-| [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                        | Human    | Male       | College Dean          |
-| [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]            | Owlin    | Female     | College Dean          |
-| [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]      | Dragon   | Male       | Founder Dragon        |
-| [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]                | Leonin   | Male       | Professor of Radiance |
-| [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]]          | Owlin    | Female     | Professor of Radiance |
-| [[2-World/People/Staff/Nils\|Nils]]                                    | Human    | Male       | Professor of Radiance |
-| [[2-World/People/Staff/Sace Solindiel\|Sace Solindiel]]                | Half-Elf | Female     | Professor of Radiance |
-| [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                      | Kenku    | Non-binary | Professor of Radiance |
-| [[2-World/People/Staff/Breena\|Breena]]                                | Owlin    | Female     | Professor of Shadow   |
-| [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]      | Dhampir  | Male       | Professor of Shadow   |
-| [[2-World/People/Staff/Fain\|Fain]]                                    | Human    | Male       | Professor of Shadow   |
-| [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                  | Human    | Female     | Professor of Shadow   |
-| [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                  | Human    | Male       | Professor of Shadow   |
-| [[2-World/People/Students/Fay McKinnon\|Fay McKinnon]]                 | Satyr    | Female     | Student               |
-| [[2-World/People/Students/Geoffrey Writingham\|Geoffrey Writingham]]   | Human    | Male       | Student               |
-| [[2-World/People/Students/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Elf      | Non-binary | Student               |
-| [[2-World/People/Students/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
-| [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]       | Aasimar  | Female     | Student               |
-| [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
-| [[2-World/People/Jimmy Pyre\|Jimmy Pyre]]                              | Tiefling | Male       | Student               |
-| [[2-World/People/Lupus Thunderpelt\|Lupus Thunderpelt]]                | Shifter  | Male       | Student               |
-| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]        | Owlin    | Male       | Veteran               |
+| File                                                                           | Race     | Gender     | Role                  |
+| ------------------------------------------------------------------------------ | -------- | ---------- | --------------------- |
+| [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                             | Human    | Male       | College Dean          |
+| [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]                 | Owlin    | Female     | College Dean          |
+| [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]           | Dragon   | Male       | Founder Dragon        |
+| [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]                     | Leonin   | Male       | Professor of Radiance |
+| [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]]               | Owlin    | Female     | Professor of Radiance |
+| [[2-World/People/Staff/Nils\|Nils]]                                         | Human    | Male       | Professor of Radiance |
+| [[2-World/People/Staff/Sace Solindiel\|Sace Solindiel]]                     | Half-Elf | Female     | Professor of Radiance |
+| [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                           | Kenku    | Non-binary | Professor of Radiance |
+| [[2-World/People/Staff/Breena\|Breena]]                                     | Owlin    | Female     | Professor of Shadow   |
+| [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]           | Dhampir  | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Fain\|Fain]]                                         | Human    | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                       | Human    | Female     | Professor of Shadow   |
+| [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                       | Human    | Male       | Professor of Shadow   |
+| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Satyr    | Female     | Student               |
+| [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]   | Human    | Male       | Student               |
+| [[2-World/People/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Elf      | Non-binary | Student               |
+| [[2-World/People/Students/1507/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
+| [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Aasimar  | Female     | Student               |
+| [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
+| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                     | Tiefling | Male       | Student               |
+| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]       | Shifter  | Male       | Student               |
+| [[2-World/People/Chaselienne Lain\|Chaselienne Lain]]                       | Elf      | Female     | Student               |
+| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]             | Owlin    | Male       | Veteran               |
 
 { .block-language-dataview}

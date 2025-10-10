@@ -23,14 +23,14 @@
 
 ## NPC's
 
-[[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]
+[[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]
 ## Summary
 After the tension of Fistandria’s mansion and the shocking death of Professor Matreous, the students of Neverwood Academy took a rare moment to relax and reconnect. Cyinth hosted a lively dinner in the first-year common room, complete with savoury stew, tarts, and flowing wine. Conversations ranged from personal histories and first magical experiences to strategising their next moves in the ongoing mysteries surrounding the mansion and black goo. Despite a magical mishap that saw Lyra temporarily storm off, the evening ended with the group united in purpose — planning to investigate student records, gather more information, and prepare for the challenges ahead.
 
 ### Dinner Party
 
 * Cyinth prepped and cooked the meal, keeping everyone fed and entertained.  
-* Glue demonstrated a magical experiment, accidentally causing [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]] to lose control of her bladder.  
+* Glue demonstrated a magical experiment, accidentally causing [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]] to lose control of her bladder.  
 * Lyra confronted Glue, briefly engaging in a heated magical skirmish that left Glue lightly burned. Lyra stormed off to her dorm in anger.  
 * Cyinth went to coax Lyra back, calming tensions while finishing meal preparations.
 

@@ -208,5 +208,5 @@ Whalebucks Free Meal Ticket
 **Parents:** Unknown
 **Siblings:** Unknown 
 **Partner:** Unknown
-**Friends:** [[2-World/People/Students/Greta Gorunn\|Greta Gorunn]]
+**Friends:** [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]
 **Enemies:** 

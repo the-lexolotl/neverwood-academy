@@ -224,5 +224,5 @@ Whalebucks Free Meal Ticket
 **Parents:** Unknown
 **Siblings:** Unknown 
 **Partner:** Unknown
-**Friends:** [[2-World/People/Students/Althea Nightshade\|Althea Nightshade]], [[2-World/People/Students/Ivy Drake\|Ivy Drake]]
+**Friends:** [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]], [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]
 **Enemies:** 

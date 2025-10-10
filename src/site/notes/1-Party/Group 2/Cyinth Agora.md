@@ -202,5 +202,5 @@ Piton
 **Parents:** Elwar Trytha (Father), Hestha Agora (Mother)
 **Siblings:** None 
 **Partner:** None 
-**Friends:** [[2-World/People/Students/Bhedum Sooviij\|Bhedum Sooviij]], [[2-World/People/Students/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
+**Friends:** [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]], [[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
 **Enemies:**  

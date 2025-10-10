@@ -74,6 +74,7 @@ Make notes of what you need to track in the region here.
 | [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 |
 | [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             |

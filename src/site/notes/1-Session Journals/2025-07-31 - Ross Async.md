@@ -29,10 +29,10 @@
 ## NPC's
 
 
-[[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Verelda Lang\|Verelda Lang]], [[2-World/People/Staff/Kianne\|Kianne]]
+[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Verelda Lang\|Verelda Lang]], [[2-World/People/Staff/Kianne\|Kianne]]
 
 ## Summary
-Determined to uncover more information about strange magical occurrences on campus — particularly the black goo from the Firejolt incident — Ross, accompanied by fellow student [[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], planned and executed a stealthy break-in at the [[2-World/Points of Interest/Biblioplex\|Biblioplex]].
+Determined to uncover more information about strange magical occurrences on campus — particularly the black goo from the Firejolt incident — Ross, accompanied by fellow student [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], planned and executed a stealthy break-in at the [[2-World/Points of Interest/Biblioplex\|Biblioplex]].
 
 ### The Plan
 

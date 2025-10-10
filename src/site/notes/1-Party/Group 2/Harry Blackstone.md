@@ -246,5 +246,5 @@ Whalebucks Free Meal Ticket
 **Parents:** Unknown
 **Siblings:** Adalynn Blackstone 
 **Partner:** Unknown
-**Friends:** [[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]]
+**Friends:** [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
 **Enemies:** 

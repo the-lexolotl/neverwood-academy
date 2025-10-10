@@ -29,7 +29,7 @@
 
 ## NPC's
 
-[[2-World/People/Students/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]
+[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]
 
 ## Summary
 The students of Neverwood settled into their first proper week of academic life, navigating the balance between classes, downtime adventures, and the ever-surprising magic of campus life.

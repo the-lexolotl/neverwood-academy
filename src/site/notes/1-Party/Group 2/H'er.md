@@ -241,5 +241,5 @@ Whalebucks Free Meal Ticket
 **Parents:** Unknown
 **Siblings:** Unknown 
 **Partner:** Unknown
-**Friends:** [[2-World/People/Students/Elandra Stormwhisper\|Elandra Stormwhisper]]
+**Friends:** [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]
 **Enemies:** 
