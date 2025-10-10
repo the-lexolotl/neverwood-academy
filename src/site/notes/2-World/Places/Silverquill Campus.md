@@ -42,6 +42,8 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]      | Dragon     | Male       | Founder Dragon        |
 | [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]            | Owlin      | Female     | College Dean          |
 | [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                      | Kenku      | Non-binary | Professor of Radiance |
+| [[2-World/People/Jimmy Pyre\|Jimmy Pyre]]                              | Tiefling   | Male       | Student               |
+| [[2-World/People/Lupus Thunderpelt\|Lupus Thunderpelt]]                | Shifter    | Male       | Student               |
 
 { .block-language-dataview}
 

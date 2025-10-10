@@ -22,8 +22,13 @@
 
 The following people are members of this group.  
 
-| File | Race | Gender | College |
-| ---- | ---- | ------ | ------- |
+| File                                                         | Race       | Gender | College     |
+| ------------------------------------------------------------ | ---------- | ------ | ----------- |
+| [[2-World/People/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn | Male   | Prismari    |
+| [[2-World/People/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome      | Male   | Prismari    |
+| [[2-World/People/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc   | Male   | Prismari    |
+| [[2-World/People/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling   | Male   | Silverquill |
+| [[2-World/People/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter    | Male   | Silverquill |
 
 { .block-language-dataview}
 

@@ -38,6 +38,9 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Staff/Veyran\|Veyran]]                                                            | Water Genasi | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Zaffai\|Zaffai]]                                                            | Human        | Male       | Professor of Expression |
 | [[2-World/People/Staff/Zaph\|Zaph]]                                                                | Air Genasi   | FtM        | Professor of Perfection |
+| [[2-World/People/Infernal Houndfist\|Infernal Houndfist]]                                          | Half-Orc     | Male       | Student                 |
+| [[2-World/People/DJ Dirgebyte\|DJ Dirgebyte]]                                                      | Gnome        | Male       | Student                 |
+| [[2-World/People/Denis Dragontongue\|Denis Dragontongue]]                                          | Dragonborn   | Male       | Student                 |
 
 { .block-language-dataview}
 

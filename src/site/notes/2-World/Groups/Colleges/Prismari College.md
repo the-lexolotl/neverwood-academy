@@ -58,5 +58,8 @@ The following people are members of this group.
 | [[2-World/People/Students/Nora Ann Wu\|Nora Ann Wu]]                   | Human        | Female     | Student                 |
 | [[2-World/People/Students/Pyrus Flintbrand\|Pyrus Flintbrand]]         | Fire Genasi  | Male       | Student                 |
 | [[2-World/People/Students/Rose Mugwort\|Rose Mugwort]]                 | Halfling     | Female     | Student                 |
+| [[2-World/People/Infernal Houndfist\|Infernal Houndfist]]              | Half-Orc     | Male       | Student                 |
+| [[2-World/People/DJ Dirgebyte\|DJ Dirgebyte]]                          | Gnome        | Male       | Student                 |
+| [[2-World/People/Denis Dragontongue\|Denis Dragontongue]]              | Dragonborn   | Male       | Student                 |
 
 { .block-language-dataview}

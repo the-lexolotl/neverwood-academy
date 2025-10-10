@@ -60,6 +60,8 @@ The following people are members of this group.
 | [[2-World/People/Students/Mina Lee\|Mina Lee]]                         | Human    | Female     | Student               |
 | [[2-World/People/Students/Thalia Everbright\|Thalia Everbright]]       | Aasimar  | Female     | Student               |
 | [[2-World/People/Students/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
+| [[2-World/People/Jimmy Pyre\|Jimmy Pyre]]                              | Tiefling | Male       | Student               |
+| [[2-World/People/Lupus Thunderpelt\|Lupus Thunderpelt]]                | Shifter  | Male       | Student               |
 | [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]        | Owlin    | Male       | Veteran               |
 
 { .block-language-dataview}

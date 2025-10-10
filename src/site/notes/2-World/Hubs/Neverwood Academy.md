@@ -151,6 +151,11 @@ This is the places description.
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                      |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                                        |
 | [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                            |
+| [[2-World/People/Jimmy Pyre\|Jimmy Pyre]]                                                          |
+| [[2-World/People/Infernal Houndfist\|Infernal Houndfist]]                                          |
+| [[2-World/People/Lupus Thunderpelt\|Lupus Thunderpelt]]                                            |
+| [[2-World/People/DJ Dirgebyte\|DJ Dirgebyte]]                                                      |
+| [[2-World/People/Denis Dragontongue\|Denis Dragontongue]]                                          |
 
 { .block-language-dataview}
 
@@ -201,6 +206,7 @@ Make notes of what you need to track in the town here.
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
+| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            |
 
 { .block-language-dataview}
 # Travel
