@@ -62,7 +62,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc      | Female     | Student               |
 | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                     | Tiefling | Male       | Student               |
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]       | Shifter  | Male       | Student               |
-| [[2-World/People/Chaselienne Lain\|Chaselienne Lain]]                       | Elf      | Female     | Student               |
+| [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]         | Elf      | Female     | Student               |
 | [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]             | Owlin    | Male       | Veteran               |
 
 { .block-language-dataview}

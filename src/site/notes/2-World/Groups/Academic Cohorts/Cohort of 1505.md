@@ -22,9 +22,9 @@
 
 The following people are members of this group.  
 
-| File                                                     | Race | Gender | College     |
-| -------------------------------------------------------- | ---- | ------ | ----------- |
-| [[2-World/People/Chaselienne Lain\|Chaselienne Lain]] | Elf  | Female | Silverquill |
+| File                                                                   | Race | Gender | College     |
+| ---------------------------------------------------------------------- | ---- | ------ | ----------- |
+| [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]] | Elf  | Female | Silverquill |
 
 { .block-language-dataview}
 

@@ -31,6 +31,7 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]       | Orc        | Female     | Student               |
 | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                     | Tiefling   | Male       | Student               |
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]       | Shifter    | Male       | Student               |
+| [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]         | Elf        | Female     | Student               |
 | [[2-World/People/Staff/Breena\|Breena]]                                     | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]           | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                             | Human      | Male       | College Dean          |
@@ -44,7 +45,6 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]           | Dragon     | Male       | Founder Dragon        |
 | [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]                 | Owlin      | Female     | College Dean          |
 | [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                           | Kenku      | Non-binary | Professor of Radiance |
-| [[2-World/People/Chaselienne Lain\|Chaselienne Lain]]                       | Elf        | Female     | Student               |
 
 { .block-language-dataview}
 

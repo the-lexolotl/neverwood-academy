@@ -72,6 +72,7 @@ This is the places description.
 | [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 |
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]                                   |
 | [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             |
+| [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]                                     |
 | [[2-World/People/Staff/Adrix\|Adrix]]                                                                   |
 | [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                                   |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                             |
@@ -156,7 +157,6 @@ This is the places description.
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                           |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                                             |
 | [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                                 |
-| [[2-World/People/Chaselienne Lain\|Chaselienne Lain]]                                                   |
 
 { .block-language-dataview}
 
