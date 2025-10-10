@@ -5,7 +5,7 @@
 
 # Quest Info
 
-- [x]  Speak to [[2-World/People/Staff/Theodore Moss\|Theodore Moss]] about his missing cat 
+- [x]  Speak to [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] about his missing cat 
 - [x]  Agree to find [[2-World/People/Other/Miaukier\|Miaukier]]
 - [x]  Investigate the "little blue creatures"
 - [x]  Head to the [[3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm\|Xvart]] Village
@@ -14,7 +14,7 @@
 - [x]  Bribe the King 
 - [x]  Investigate the Sharman's cave 
 - [x]  Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete
-- [x]  Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]
+- [x]  Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]
 
 # Quest Details
 
@@ -23,7 +23,7 @@
 | Date Obtained:    | 2025-09-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Status:           | In Progress                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Quest Giver:      | [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Quest Giver:      | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Xvart Village\|Xvart Village]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Session Obtained: | [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Acquired Loot:    | [[3-Mechanics/CLI/items/oil-of-slipperiness-xdmg\|Oil of Slipperiness]], [[3-Mechanics/CLI/items/basic-poison-xphb\|Basic Poison]], [[3-Mechanics/CLI/items/rival-coin-xdmg\|Rival Coin]], [[3-Mechanics/CLI/items/alchemy-jug-xdmg\|Alchemy Jug]], [[3-Mechanics/CLI/items/astral-shard-tce\|Astral Shard]], [[3-Mechanics/CLI/items/cloak-of-billowing-xdmg\|Cloak of Billowing]], [[3-Mechanics/CLI/items/hat-of-wizardry-xdmg\|Hat of Wizardry]], [[3-Mechanics/CLI/items/cast-off-armor-xdmg\|Cast-Off Chain Mail]], [[3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg\|Bag of Tricks, Gray]], [[3-Mechanics/CLI/items/wand-of-pyrotechnics-xdmg\|Wand of Pyrotechnics]], [[3-Mechanics/CLI/items/staff-of-fire-xdmg\|Staff of Fire (mod)]], [[3-Mechanics/CLI/items/adamantine-weapon-xdmg\|Adamantine Trident]], [[3-Mechanics/CLI/items/assassins-blood-xdmg\|Assassin's Blood]], [[3-Mechanics/CLI/items/silvered-weapon-xdmg\|Silvered Pistol]], Spell Scroll: [[3-Mechanics/CLI/spells/slow-xphb\|Slow]], Spell Scroll: [[3-Mechanics/CLI/spells/spider-climb-xphb\|Spider Climb]] |
@@ -31,7 +31,7 @@
 
 # Backstory
 
-[[2-World/People/Staff/Theodore Moss\|Theodore Moss]] was out looking for spell ingredients when he was attacked by small blue goblin-like creatures. They stole his cat [[2-World/People/Other/Miaukier\|Miaukier]].
+[[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] was out looking for spell ingredients when he was attacked by small blue goblin-like creatures. They stole his cat [[2-World/People/Other/Miaukier\|Miaukier]].
 
 
 # People
@@ -40,7 +40,7 @@ The following people are associated with this quest.
 
 | File                                                                           | Race            | Gender     | Role    |
 | ------------------------------------------------------------------------------ | --------------- | ---------- | ------- |
-| [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]                       | Human           | Male       | Veteran |
+| [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]           | Human           | Male       | Veteran |
 | [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                 | Cat             | Male       | Other   |
 | [[1-Party/Group 1/Atudark\|Atudark]]                                        | Yuan-Ti         | Male       | Player  |

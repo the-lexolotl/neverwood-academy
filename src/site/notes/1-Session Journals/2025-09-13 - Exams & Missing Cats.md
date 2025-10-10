@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Staff/Theodore Moss\|Theodore Moss]]
+[[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]
 
 ## Summary
 
@@ -56,7 +56,7 @@ The man, trembling, described his experience in **Neverwood Forest**:
 
 ### The Map
 
-* After sobbing into his drink, the party asked his name: **[[2-World/People/Staff/Theodore Moss\|Theodore Moss]]**.  
+* After sobbing into his drink, the party asked his name: **[[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]**.  
 * Theodore pulled out a **map**, pointing to a location deep in Neverwood Forest, a day and a half’s journey away.  
 * The group agreed to help find [[2-World/People/Other/Miaukier\|Miaukier]], deciding to use their **half-term holidays** to prepare and travel into the forest.
 

@@ -24,7 +24,7 @@
 
 ## NPC's
 
-[[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]], [[2-World/People/Staff/Theodore Moss\|Theodore Moss]], [[2-World/People/Staff/Yedora\|Yedora]]
+[[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]], [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]], [[2-World/People/Staff/Yedora\|Yedora]]
 
 ## Summary
 
@@ -72,7 +72,7 @@ The party left the safety of Neverwood Academy, supplied with tents, rations, an
 ### Ongoing Threads
 
 * **[[2-World/People/Other/Miaukier\|Miaukier]]’s Fate** – The cat is still missing. The cave may yet hold answers.  
-* **[[2-World/People/Staff/Theodore Moss\|Theodore Moss]]’s Warning** – His ramblings of a “larger leader” with black eyes linger in the party’s mind.  
+* **[[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]’s Warning** – His ramblings of a “larger leader” with black eyes linger in the party’s mind.  
 * **The Xvarts** – Who do they serve? What compels their rituals?  
 * **The Golden Fork** – A strange trophy from a fatter Xvart. Does it signify leadership or something more sinister?
 * **Trust in the Party** – Friction is growing: Cyinth cutting the rope, Harry nearly cooked by accident, Lyra enforcing morals. Will these tensions boil over?

@@ -22,12 +22,12 @@
 { .block-language-dataview}
 
 # Quests
-| File                                                                 | Status      | Obtained           | Quest Giver                                              | Location                                                 |
-| -------------------------------------------------------------------- | ----------- | ------------------ | -------------------------------------------------------- | -------------------------------------------------------- |
-| [[2-World/Quests/The Missing Professor\|The Missing Professor]]   | Complete    | August 09, 2025    | \-                                                       | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]] | Complete    | August 23, 2025    | \-                                                       | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Whos goo\|Whos goo]]                             | In Progress | July 12, 2025      | \-                                                       | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]         | In Progress | September 13, 2025 | [[2-World/People/Staff/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| File                                                                 | Status      | Obtained           | Quest Giver                                                          | Location                                                 |
+| -------------------------------------------------------------------- | ----------- | ------------------ | -------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[2-World/Quests/The Missing Professor\|The Missing Professor]]   | Complete    | August 09, 2025    | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]] | Complete    | August 23, 2025    | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Whos goo\|Whos goo]]                             | In Progress | July 12, 2025      | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]         | In Progress | September 13, 2025 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 
 { .block-language-dataview}
 

@@ -41,16 +41,16 @@ The following people are members of this group.
 
 | File                                                                           | Race         | Gender     | Role                    |
 | ------------------------------------------------------------------------------ | ------------ | ---------- | ----------------------- |
-| [[2-World/People/Staff/Nassari\|Nassari]]                                   | Fire Genasi  | Other      | College Dean            |
-| [[2-World/People/Staff/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi   | Female     | College Dean            |
-| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]               | Dragon       | Male       | Founder Dragon          |
-| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                       | Human        | Male       | Professor of Expression |
-| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin      | Female     | Professor of Expression |
-| [[2-World/People/Staff/Rock\|Rock]]                                         | Earth Genasi | Male       | Professor of Expression |
-| [[2-World/People/Staff/Zaffai\|Zaffai]]                                     | Human        | Male       | Professor of Expression |
-| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                       | Tortle       | Female     | Professor of Perfection |
-| [[2-World/People/Staff/Veyran\|Veyran]]                                     | Water Genasi | Female     | Professor of Perfection |
-| [[2-World/People/Staff/Zaph\|Zaph]]                                         | Air Genasi   | FtM        | Professor of Perfection |
+| [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                          | Fire Genasi  | Other      | College Dean            |
+| [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]      | Air Genasi   | Female     | College Dean            |
+| [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]      | Dragon       | Male       | Founder Dragon          |
+| [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]              | Human        | Male       | Professor of Expression |
+| [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]            | Eladrin      | Female     | Professor of Expression |
+| [[2-World/People/Staff/Prismari/Rock\|Rock]]                                | Earth Genasi | Male       | Professor of Expression |
+| [[2-World/People/Staff/Prismari/Zaffai\|Zaffai]]                            | Human        | Male       | Professor of Expression |
+| [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                              | Tortle       | Female     | Professor of Perfection |
+| [[2-World/People/Staff/Prismari/Veyran\|Veyran]]                            | Water Genasi | Female     | Professor of Perfection |
+| [[2-World/People/Staff/Prismari/Zaph\|Zaph]]                                | Air Genasi   | FtM        | Professor of Perfection |
 | [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                 | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]] | Orc          | Non-binary | Student                 |
 | [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Triton       | Male       | Student                 |

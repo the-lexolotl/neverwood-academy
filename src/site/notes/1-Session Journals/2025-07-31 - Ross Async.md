@@ -29,7 +29,7 @@
 ## NPC's
 
 
-[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Verelda Lang\|Verelda Lang]], [[2-World/People/Staff/Kianne\|Kianne]]
+[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]], [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]
 
 ## Summary
 Determined to uncover more information about strange magical occurrences on campus — particularly the black goo from the Firejolt incident — Ross, accompanied by fellow student [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], planned and executed a stealthy break-in at the [[2-World/Points of Interest/Biblioplex\|Biblioplex]].
@@ -65,7 +65,7 @@ No windows were available, and the magically reinforced walls were blast-proof �
 
 * Cadoras sensed the remaining guardian moving.  
 * The duo attempted to sneak back downstairs.  
-* Ross spotted [[2-World/People/Staff/Verelda Lang\|Professors Lang]] and [[2-World/People/Staff/Kianne\|Dean Kianne]] at the base of the stairs, investigating the earlier fire.  
+* Ross spotted [[2-World/People/Staff/Witherbloom/Verelda Lang\|Professors Lang]] and [[2-World/People/Staff/Quandrix/Kianne\|Dean Kianne]] at the base of the stairs, investigating the earlier fire.  
 * A Thaumaturgy distraction failed — Lang suspected the students were still in the building and began heading upstairs.
 
 Ross handed the books to Cadoras, who escaped via the floor’s teleporter, promising to regroup the next morning.  

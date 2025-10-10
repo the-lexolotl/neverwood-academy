@@ -73,85 +73,85 @@ This is the places description.
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]                                   |
 | [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             |
 | [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]                                     |
-| [[2-World/People/Staff/Adrix\|Adrix]]                                                                   |
-| [[2-World/People/Staff/Ahkwa\|Ahkwa]]                                                                   |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                             |
-| [[2-World/People/Staff/Arkin Minexes\|Arkin Minexes]]                                                   |
-| [[2-World/People/Staff/Asana Vargundil\|Asana Vargundil]]                                               |
-| [[2-World/People/Staff/Augusta Tullus\|Augusta Tullus]]                                                 |
-| [[2-World/People/Staff/Beledros Witherbloom\|Beledros Witherbloom]]                                     |
-| [[2-World/People/Staff/Bildra Forheim\|Bildra Forheim]]                                                 |
-| [[2-World/People/Staff/Breena\|Breena]]                                                                 |
-| [[2-World/People/Staff/Brenneth Blackstone\|Brenneth Blackstone]]                                       |
 | [[2-World/People/Staff/Cleaner\|Cleaner]]                                                               |
-| [[2-World/People/Staff/Clem Greenthumb\|Clem Greenthumb]]                                               |
 | [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]]                                           |
-| [[2-World/People/Staff/Deekah\|Deekah]]                                                                 |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                             |
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]]                                           |
-| [[2-World/People/Staff/Embrose Lu\|Embrose Lu]]                                                         |
-| [[2-World/People/Staff/Fain\|Fain]]                                                                     |
-| [[2-World/People/Staff/Galazeth Prismari\|Galazeth Prismari]]                                           |
-| [[2-World/People/Staff/Hazkira Ravenfang\|Hazkira Ravenfang]]                                           |
-| [[2-World/People/Staff/Helios Sunmane\|Helios Sunmane]]                                                 |
-| [[2-World/People/Staff/Hofri Ghostforge\|Hofri Ghostforge]]                                             |
-| [[2-World/People/Staff/Ignaria Kahafi\|Ignaria Kahafi]]                                                 |
-| [[2-World/People/Staff/Imbraham\|Imbraham]]                                                             |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                                                           |
-| [[2-World/People/Staff/Jazzack Quickfood\|Jazzack Quickfood]]                                           |
-| [[2-World/People/Staff/Kianne\|Kianne]]                                                                 |
-| [[2-World/People/Staff/Kojil the Tamer\|Kojil the Tamer]]                                               |
-| [[2-World/People/Staff/Lianna Flametongue\|Lianna Flametongue]]                                         |
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]                                           |
-| [[2-World/People/Staff/Lissette\|Lissette]]                                                             |
-| [[2-World/People/Staff/Liv Brandford\|Liv Brandford]]                                                   |
-| [[2-World/People/Staff/Losheel\|Losheel]]                                                               |
-| [[2-World/People/Staff/Luc Brandford\|Luc Brandford]]                                                   |
-| [[2-World/People/Staff/Marrick Deepfindee\|Marrick Deepfindee]]                                         |
 | [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]]                                           |
-| [[2-World/People/Staff/Matreous\|Matreous]]                                                             |
-| [[2-World/People/Staff/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                                           |
 | [[2-World/People/Staff/Molvi Le Donto\|Molvi Le Donto]]                                                 |
-| [[2-World/People/Staff/Nassari\|Nassari]]                                                               |
-| [[2-World/People/Staff/Nev\|Nev]]                                                                       |
-| [[2-World/People/Staff/Nils\|Nils]]                                                                     |
-| [[2-World/People/Staff/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                             |
-| [[2-World/People/Staff/Plargg\|Plargg]]                                                                 |
 | [[2-World/People/Staff/Pythia\|Pythia]]                                                                 |
-| [[2-World/People/Staff/Raymous Dapplewing\|Raymous Dapplewing]]                                         |
-| [[2-World/People/Staff/Riri Brighteye\|Riri Brighteye]]                                                 |
-| [[2-World/People/Staff/Rixy\|Rixy]]                                                                     |
-| [[2-World/People/Staff/Rock\|Rock]]                                                                     |
-| [[2-World/People/Staff/Ronald Rothton\|Ronald Rothton]]                                                 |
-| [[2-World/People/Staff/Ruxa\|Ruxa]]                                                                     |
-| [[2-World/People/Staff/Sace Solindiel\|Sace Solindiel]]                                                 |
-| [[2-World/People/Staff/Serafina Onyx\|Serafina Onyx]]                                                   |
-| [[2-World/People/Staff/Shadrix SIlverquill\|Shadrix SIlverquill]]                                       |
-| [[2-World/People/Staff/Shaile Talonrook\|Shaile Talonrook]]                                             |
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                                                                 |
-| [[2-World/People/Staff/Smart Mouth\|Smart Mouth]]                                                       |
-| [[2-World/People/Staff/Tanazir Quandrix\|Tanazir Quandrix]]                                             |
-| [[2-World/People/Staff/Tervis Sharpwing\|Tervis Sharpwing]]                                             |
 | [[2-World/People/Staff/The Earl\|The Earl]]                                                             |
-| [[2-World/People/Staff/Theodore Moss\|Theodore Moss]]                                                   |
-| [[2-World/People/Staff/Tivash\|Tivash]]                                                                 |
 | [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]                                                 |
-| [[2-World/People/Staff/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                           |
-| [[2-World/People/Staff/Valentin\|Valentin]]                                                             |
-| [[2-World/People/Staff/Velomachus Lorehold\|Velomachus Lorehold]]                                       |
-| [[2-World/People/Staff/Venoc Plaguescale\|Venoc Plaguescale]]                                           |
-| [[2-World/People/Staff/Verelda Lang\|Verelda Lang]]                                                     |
-| [[2-World/People/Staff/Verooja\|Verooja]]                                                               |
-| [[2-World/People/Staff/Veyran\|Veyran]]                                                                 |
-| [[2-World/People/Staff/Willowdusk\|Willowdusk]]                                                         |
-| [[2-World/People/Staff/Xyla Langning\|Xyla Langning]]                                                   |
 | [[2-World/People/Staff/Yedora\|Yedora]]                                                                 |
-| [[2-World/People/Staff/Zaffai\|Zaffai]]                                                                 |
-| [[2-World/People/Staff/Zaph\|Zaph]]                                                                     |
 | [[2-World/People/Staff/Zoei\|Zoei]]                                                                     |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                                                   |
 | [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]                                             |
 | [[2-World/People/Staff/Orvlo\|Orvlo]]                                                                   |
+| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                                        |
+| [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                                  |
+| [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                                    |
+| [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                                |
+| [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                                      |
+| [[2-World/People/Staff/Lorehold/Marrick Deepfindee\|Marrick Deepfindee]]                                |
+| [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                                    |
+| [[2-World/People/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    |
+| [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                                        |
+| [[2-World/People/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                                |
+| [[2-World/People/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                                        |
+| [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                                    |
+| [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                              |
+| [[2-World/People/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                          |
+| [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                                                          |
+| [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                                          |
+| [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]                                  |
+| [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                                        |
+| [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                                                      |
+| [[2-World/People/Staff/Prismari/Rock\|Rock]]                                                            |
+| [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                  |
+| [[2-World/People/Staff/Prismari/Veyran\|Veyran]]                                                        |
+| [[2-World/People/Staff/Prismari/Zaffai\|Zaffai]]                                                        |
+| [[2-World/People/Staff/Prismari/Zaph\|Zaph]]                                                            |
+| [[2-World/People/Staff/Quandrix/Adrix\|Adrix]]                                                          |
+| [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                                        |
+| [[2-World/People/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]                                      |
+| [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                                                        |
+| [[2-World/People/Staff/Quandrix/Imbraham\|Imbraham]]                                                    |
+| [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]                                  |
+| [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]                                                        |
+| [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                                              |
+| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                                            |
+| [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]                                        |
+| [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                                                            |
+| [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]                                    |
+| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                                                     |
+| [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]                           |
+| [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                                             |
+| [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                                         |
+| [[2-World/People/Staff/Silverquill/Helios Sunmane\|Helios Sunmane]]                                     |
+| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                                       |
+| [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                                       |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                               |
+| [[2-World/People/Staff/Silverquill/Nils\|Nils]]                                                         |
+| [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                                     |
+| [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]                           |
+| [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]                                 |
+| [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                                           |
+| [[2-World/People/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                                   |
+| [[2-World/People/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]                         |
+| [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                                   |
+| [[2-World/People/Staff/Witherbloom/Lissette\|Lissette]]                                                 |
+| [[2-World/People/Staff/Witherbloom/Serafina Onyx\|Serafina Onyx]]                                       |
+| [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                                       |
+| [[2-World/People/Staff/Witherbloom/Tivash\|Tivash]]                                                     |
+| [[2-World/People/Staff/Witherbloom/Valentin\|Valentin]]                                                 |
+| [[2-World/People/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]                               |
+| [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                                         |
+| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                                                   |
+| [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                                             |
 | [[2-World/People/Other/Coriander\|Coriander]]                                                           |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                               |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                           |

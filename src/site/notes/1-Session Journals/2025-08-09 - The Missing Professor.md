@@ -25,10 +25,10 @@
 
 ## NPC's
 
-[[2-World/People/Staff/Matreous\|Matreous]], [[2-World/People/Staff/Losheel\|Losheel]]
+[[2-World/People/Staff/Lorehold/Matreous\|Matreous]], [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]
 
 ## Summary
-After the chaos of the Autumn Equinox Feast and the first exams of the term, the students of Neverwood Academy found themselves drawn into a new mystery. A large, ancient tome fell from the library shelves, revealing secrets tied to the disappearance of [[2-World/People/Staff/Matreous\|Professor Matreous]] and the enigmatic extradimensional mansion of [[2-World/People/Other/Fistandria\|Fistandria]]. With careful investigation, clever deduction, and a daring entry through a locked office chimney, the party uncovered hidden notebooks, arcane scrolls, and the command word that opened a shimmering doorway into a strange and otherworldly space — a discovery that promised adventures far beyond the familiar campus halls.
+After the chaos of the Autumn Equinox Feast and the first exams of the term, the students of Neverwood Academy found themselves drawn into a new mystery. A large, ancient tome fell from the library shelves, revealing secrets tied to the disappearance of [[2-World/People/Staff/Lorehold/Matreous\|Professor Matreous]] and the enigmatic extradimensional mansion of [[2-World/People/Other/Fistandria\|Fistandria]]. With careful investigation, clever deduction, and a daring entry through a locked office chimney, the party uncovered hidden notebooks, arcane scrolls, and the command word that opened a shimmering doorway into a strange and otherworldly space — a discovery that promised adventures far beyond the familiar campus halls.
 
 ### The Neverwood Times
 
@@ -65,7 +65,7 @@ The Librarian directed them to **[[2-World/Points of Interest/Pillardrop\|Pillar
 
 ### Whalebucks Interlude
 
-The group made a brief stop at Whalebucks, where they met [[2-World/People/Staff/Losheel\|Professor Losheel]] of Lorehold:
+The group made a brief stop at Whalebucks, where they met [[2-World/People/Staff/Lorehold/Losheel\|Professor Losheel]] of Lorehold:
 
 * Losheel recalled Matreous as brilliant but “a bit mad.”  
 * Claimed Matreous believed he was on the brink of a major discovery.  
