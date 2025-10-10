@@ -110,5 +110,6 @@ Make notes of what you need to track in the region here.
 | [[2-World/Quests/Whos goo\|Whos goo]]                                               |
 | [[2-World/Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] |
 | [[2-World/Quests/The Pub That Crawls\|The Pub That Crawls]]                         |
+| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             |
 
 { .block-language-dataview}
