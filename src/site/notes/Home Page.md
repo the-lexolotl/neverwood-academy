@@ -33,24 +33,24 @@
 { .block-language-dataview}
 
 # Session Journals
-| File                                                                                                                       | Date               | Status   | Category                                         | Players |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- | ------------------------------------------------ | ------- |
-| [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       | July 12, 2025      | Occurred | <ul><li>Main Story</li></ul>                     | 8       |
-| [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           | July 19, 2025      | Occurred | <ul><li>Academy Event</li></ul>                  | 7       |
-| [[1-Session Journals/2025-07-26 - Frog's the Word\|2025-07-26 - Frog's the Word]]                                       | July 26, 2025      | Occurred | <ul><li>Main Story</li></ul>                     | 6       |
-| [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]                                                   | July 30, 2025      | Occurred | <ul><li>Async</li></ul>                          | 1       |
-| [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]                                                 | July 31, 2025      | Occurred | <ul><li>Async</li></ul>                          | 1       |
-| [[1-Session Journals/2025-08-02 - Autumn Equinox\|2025-08-02 - Autumn Equinox]]                                         | August 02, 2025    | Occurred | <ul><li>Academy Event</li></ul>                  | 6       |
-| [[1-Session Journals/2025-08-09 - The Missing Professor\|2025-08-09 - The Missing Professor]]                           | August 09, 2025    | Occurred | <ul><li>Exams</li><li>Side Quest</li></ul>       | 6       |
-| [[1-Session Journals/2025-08-16 - The Joy of Extradimensional Spaces\|2025-08-16 - The Joy of Extradimensional Spaces]] | August 16, 2025    | Occurred | <ul><li>Side Quest</li></ul>                     | 6       |
-| [[1-Session Journals/2025-08-23 - Cyinth's Dinner Party\|2025-08-23 - Cyinth's Dinner Party]]                           | August 23, 2025    | Occurred | <ul><li>Downtime</li></ul>                       | 6       |
-| [[1-Session Journals/2025-08-30 - Back to the Mansion\|2025-08-30 - Back to the Mansion]]                               | August 30, 2025    | Occurred | <ul><li>Side Quest</li></ul>                     | 7       |
-| [[1-Session Journals/2025-09-06 - Heist the Records Room\|2025-09-06 - Heist the Records Room]]                         | September 06, 2025 | Occurred | <ul><li>Main Story</li></ul>                     | 7       |
-| [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             | September 13, 2025 | Occurred | <ul><li>Exams</li></ul>                          | 7       |
-| [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | September 20, 2025 | Occurred | <ul><li>Side Quest</li></ul>                     | 5       |
-| [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | September 27, 2025 | Occurred | <ul><li>Side Quest</li></ul>                     | 8       |
-| [[1-Session Journals/2025-10-04 - Work Hard, Play Harder\|2025-10-04 - Work Hard, Play Harder]]                         | October 04, 2025   | Occurred | <ul><li>Main Story</li></ul>                     | 7       |
-| [[1-Session Journals/2025-10-11 - The Birds and the Bards\|2025-10-11 - The Birds and the Bards]]                       | October 11, 2025   | \-       | <ul><li>Academy Event</li><li>Downtime</li></ul> | \-      |
+| File                                                                                                                       | Date               | Status                      | Category                                         | Players |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- | ------------------------------------------------ | ------- |
+| [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]]                                       | July 12, 2025      | Occurred                    | <ul><li>Main Story</li></ul>                     | 8       |
+| [[1-Session Journals/2025-07-19 - Freshers Fair\|2025-07-19 - Freshers Fair]]                                           | July 19, 2025      | Occurred                    | <ul><li>Academy Event</li></ul>                  | 7       |
+| [[1-Session Journals/2025-07-26 - Frog's the Word\|2025-07-26 - Frog's the Word]]                                       | July 26, 2025      | Occurred                    | <ul><li>Main Story</li></ul>                     | 6       |
+| [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]                                                   | July 30, 2025      | Occurred                    | <ul><li>Async</li></ul>                          | 1       |
+| [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]                                                 | July 31, 2025      | Occurred                    | <ul><li>Async</li></ul>                          | 1       |
+| [[1-Session Journals/2025-08-02 - Autumn Equinox\|2025-08-02 - Autumn Equinox]]                                         | August 02, 2025    | Occurred                    | <ul><li>Academy Event</li></ul>                  | 6       |
+| [[1-Session Journals/2025-08-09 - The Missing Professor\|2025-08-09 - The Missing Professor]]                           | August 09, 2025    | Occurred                    | <ul><li>Exams</li><li>Side Quest</li></ul>       | 6       |
+| [[1-Session Journals/2025-08-16 - The Joy of Extradimensional Spaces\|2025-08-16 - The Joy of Extradimensional Spaces]] | August 16, 2025    | Occurred                    | <ul><li>Side Quest</li></ul>                     | 6       |
+| [[1-Session Journals/2025-08-23 - Cyinth's Dinner Party\|2025-08-23 - Cyinth's Dinner Party]]                           | August 23, 2025    | Occurred                    | <ul><li>Downtime</li></ul>                       | 6       |
+| [[1-Session Journals/2025-08-30 - Back to the Mansion\|2025-08-30 - Back to the Mansion]]                               | August 30, 2025    | Occurred                    | <ul><li>Side Quest</li></ul>                     | 7       |
+| [[1-Session Journals/2025-09-06 - Heist the Records Room\|2025-09-06 - Heist the Records Room]]                         | September 06, 2025 | Occurred                    | <ul><li>Main Story</li></ul>                     | 7       |
+| [[1-Session Journals/2025-09-13 - Exams & Missing Cats\|2025-09-13 - Exams & Missing Cats]]                             | September 13, 2025 | Occurred                    | <ul><li>Exams</li></ul>                          | 7       |
+| [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | September 20, 2025 | Occurred                    | <ul><li>Side Quest</li></ul>                     | 5       |
+| [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | September 27, 2025 | Occurred                    | <ul><li>Side Quest</li></ul>                     | 8       |
+| [[1-Session Journals/2025-10-04 - Work Hard, Play Harder\|2025-10-04 - Work Hard, Play Harder]]                         | October 04, 2025   | Occurred                    | <ul><li>Main Story</li></ul>                     | 7       |
+| [[1-Session Journals/2025-10-11 - The Birds and the Bards\|2025-10-11 - The Birds and the Bards]]                       | October 11, 2025   | Occurred - Writing up Notes | <ul><li>Academy Event</li><li>Downtime</li></ul> | 6       |
 
 { .block-language-dataview}
 
