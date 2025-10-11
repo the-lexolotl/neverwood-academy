@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Group Cup","image":"group 1.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"Party/Group 1/Group 1.md","permalink":"/party/group-1/group-1/","dgPassFrontmatter":true,"updated":"2025-09-29T16:51:34.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Group Cup","image":"group 1.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"Party/Group 1/Group 1.md","permalink":"/party/group-1/group-1/","dgPassFrontmatter":true,"updated":"2025-10-11T16:55:42.000+01:00"}
 ---
 
 
@@ -24,10 +24,6 @@
 
 # Membership
 Students are allocated groups at the beginning of their academic journey
-
-# GM Notes
-
-Make notes of what you need to track in the group here. 
 
 
 # People
