@@ -73,6 +73,6 @@ function walkDir(dir) {
   });
 }
 
-// Run the script
+// Run the script  
 walkDir(NOTES_DIR);
 console.log("✅ Cleaned MetaBind elements using frontmatter and inline properties.");
