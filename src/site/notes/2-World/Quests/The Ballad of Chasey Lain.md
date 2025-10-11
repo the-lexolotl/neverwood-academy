@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-11 - The Birds and the Bards.md|2025-10-11 - The Birds and the Bards]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-11T01:20:42.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-11 - The Birds and the Bards.md|2025-10-11 - The Birds and the Bards]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-12T00:14:00.000+01:00"}
 ---
 
 
@@ -7,25 +7,22 @@
 
 # Quest Info
 ### The Fallout at the Dance
-- [ ] Attend the Winter Dance in the Grand Hall
-- [ ] Watch The Hellhound Gang perform The Ballad of Chasey Lain
-- [ ] Witness Chasey storm out of the hall mid-performance
-- [ ] Speak with Jimmy Pyre after the song ends
-- [ ] Accept Jimmy’s plea to help fix things with Chasey
+- [x] Attend the Winter Dance in the Grand Hall
+- [x] Watch The Hellhound Gang perform The Ballad of Chasey Lain
+- [x] Witness Chasey storm out of the hall mid-performance
+- [x] Speak with Jimmy Pyre after the song ends
+- [x] Accept Jimmy’s plea to help fix things with Chasey
 
 ### Finding Chasey
-- [ ] Search the Courtyard outside the dance hall
-- [ ] Discover signs of illusion magic masking footprints in the snow
-- [ ] Ask nearby students if they saw which way she went
-- [ ] Track Chasey to the Silverquill Wing
-- [ ] Find a way past the Prefect guarding the dorms (Persuasion / Deception / Stealth)
+- [x] Search the Courtyard outside the dance hall
+- [x] Discover signs of illusion magic masking footprints in the snow
+- [x] Ask nearby students if they saw which way she went
+- [x] Track Chasey to the Silverquill Wing 
 
 ### Understanding the Problem
-- [ ] Locate Chasey’s dorm room
-- [ ] Convince her roommate to let the party in (optional)
-- [ ] Talk to Chasey about what upset her
-- [ ] Learn that the song revealed something deeply personal
-- [ ] Promise to help Jimmy make things right
+- [x] Talk to Chasey about what upset her
+- [x] Learn that the song revealed something deeply personal
+- [x] Promise to help Jimmy make things right
 
 ### The Grand Apology
 - [ ] Return to Jimmy with Chasey’s feelings

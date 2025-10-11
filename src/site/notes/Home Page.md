@@ -50,7 +50,7 @@
 | [[1-Session Journals/2025-09-20 - Miaukier Must Die (pt 1)\|2025-09-20 - Miaukier Must Die (pt 1)]]                     | September 20, 2025 | Occurred | <ul><li>Side Quest</li></ul>                     | 5       |
 | [[1-Session Journals/2025-09-27 - Miaukier Must Die (pt 2)\|2025-09-27 - Miaukier Must Die (pt 2)]]                     | September 27, 2025 | Occurred | <ul><li>Side Quest</li></ul>                     | 8       |
 | [[1-Session Journals/2025-10-04 - Work Hard, Play Harder\|2025-10-04 - Work Hard, Play Harder]]                         | October 04, 2025   | Occurred | <ul><li>Main Story</li></ul>                     | 7       |
-| [[1-Session Journals/2025-10-11 - The Birds and the Bards\|2025-10-11 - The Birds and the Bards]]                       | October 11, 2025   | Prepared | <ul><li>Academy Event</li><li>Downtime</li></ul> | \-      |
+| [[1-Session Journals/2025-10-11 - The Birds and the Bards\|2025-10-11 - The Birds and the Bards]]                       | October 11, 2025   | \-       | <ul><li>Academy Event</li><li>Downtime</li></ul> | \-      |
 
 { .block-language-dataview}
 
