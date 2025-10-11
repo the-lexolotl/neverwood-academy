@@ -97,6 +97,7 @@ Make notes of what you need to track in the region here.
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            |
+| [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      |
 
 { .block-language-dataview}
 

@@ -1,0 +1,71 @@
+---
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Work Hard, Play Harder","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-04","players":7,"OneLiner":"Returning Miaukier and fun at the tavern","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 1/Atudark.md|Atudark]]"],"sessionNPC":["[[2-World/People/Other/Miaukier.md|Miaukier]]","[[Theodore Moss|Theodore Moss]]","[[2-World/People/Students/1507/Ivy Drake.md|Ivy Drake]]","[[2-World/People/Students/1508/Elandra Stormwhisper.md|Elandra Stormwhisper]]","[[2-World/People/Staff/Curtie Axechucker.md|Curtie Axechucker]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-04 - Work Hard, Play Harder.md","permalink":"/session-journals/2025-10-04-work-hard-play-harder/","dgPassFrontmatter":true,"updated":"2025-10-11T03:02:20.000+01:00"}
+---
+
+
+# Roster 
+
+ [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]] , [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]], [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/H'er\|H'er]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]], [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
+
+## Absent
+
+[[1-Party/Group 1/Atudark\|Atudark]]
+
+# Session Overview
+
+**Session Status:** Occurred
+## Group Cup Points
+
+| Group 1 | Group 2 |
+| :-----: | :-----: |
+|  +/- 0  |  +/- 0  |
+|   290   |   200   |
+
+## NPC's
+
+[[2-World/People/Other/Miaukier\|Miaukier]], [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]], [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]], [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]], [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]]
+
+## Summary
+After their harrowing ordeal in the [[2-World/Hubs/Xvart Village\|Xvart Village]], the students of Neverwood Academy finally returned to campus—muddy, bruised, and dragging behind them a dragon-cat hybrid once known as [[2-World/People/Other/Miaukier\|Miaukier]]. What followed was a day of rest, reward, and revelry as the party slipped back into the rhythms of student life… though not without a few chaotic mishaps, strange encounters, and the occasional swallowed fork.
+
+### **The Return of Miaukier**
+* The group arrived back at campus late into the night and summoned a campus guide automaton for directions.
+* They made their way to [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]] on [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], pounding on [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss's]] door until he answered.
+* Groggy and irritated, Theodore was nonetheless overjoyed to see [[2-World/People/Other/Miaukier\|Miaukier]] returned—though shocked by the creature’s new draconic form.
+* In gratitude, he gifted each student a bottle from his **personal potion collection** before sending them on their way.
+* The party retired to their dorms for some much-needed rest.
+
+### **Breakfast at Whalebucks**
+* The next morning, the group (minus H’er) met for breakfast at the [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks]] inside [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]].
+* Over coffee and pastries, they caught up on campus gossip and decompressed from their adventure.
+* [[1-Party/Group 2/Harry Blackstone\|Harry]] noticed his coffee cup had their **room number** written on it by barista [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]], sparking suspicion that the drink might be tampered with—Lyra was asked to check.
+* A few hours later, [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]] approached [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]], inviting him to join her and some friends at [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]] for a **Wizard Gizzard** tournament and smoke session. He agreed, intrigued.
+
+### **A Chance Meeting in Conjurot Hall**
+* Meanwhile, [[1-Party/Group 2/H'er\|H'er]] spent her morning in the art rooms of [[2-World/Points of Interest/Conjurot Hall\|Conjurot Hall]], painting her nails.
+* There, she met a shy student, [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]], who complimented her nails and asked if H’er would paint hers too.
+* The two struck up a warm conversation, and Elandra invited H’er to dinner that evening at [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]
+
+###  **Games, Smoke, and Shenanigans**
+* That evening, the party reconvened at [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]
+* They joined [[2-World/People/Students/1507/Ivy Drake\|Ivy's]] group for a lively few rounds of **Wizard Gizzard**.
+	* [[1-Party/Group 2/H'er\|H'er]] played exceptionally well, hoping to impress her date.
+	* [[1-Party/Group 2/Harry Blackstone\|Harry's]] natural cunning gave him an edge.
+	* [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]] dominated the table, playing with his usual flair.
+* [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]] shared his smoke with [[1-Party/Group 2/Cyinth Agora\|Cyinth]] and [[1-Party/Group 1/Guiloip Guhloo\|Glue]], who both got thoroughly **high**.
+* When it came time to eat, [[1-Party/Group 2/Cyinth Agora\|Cyinth]] asked the tavern’s chef, [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]], for a **vegan meal** for [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]].
+* Amid the laughter and chaos, [[1-Party/Group 2/Harry Blackstone\|Harry]] accidentally dropped a fork down [[1-Party/Group 2/Cyinth Agora\|Cyinth's]] throat.
+* Unable to regurgitate it, the group rushed her to the medical wing at [[2-World/Points of Interest/Kollema Hall\|Kollema Hall]], where staff sedated her and safely removed the fork.
+* An hour later, [[1-Party/Group 2/Cyinth Agora\|Cyinth]] was released—fork-free—and the group promptly returned to [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]] for another round of Wizard Gizzard.
+
+###  **A Gentle Ending**
+
+* As the night wound down, everyone drifted back to their dorms.
+* [[1-Party/Group 2/H'er\|H'er]] walked [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] back to her room, where Elandra thanked her for the evening with a soft **kiss on the cheek** before saying goodnight.
+
+### **Ongoing Threads**
+* **Miaukier’s Condition** – How will Neverwood staff respond to Theodore Moss’s newly draconic companion?
+* **Torin’s Note** – Why did the Whalebucks barista mark Harry’s cup with his room number? Harmless flirtation, or something stranger?
+* **Ivy’s Invitation** – Is this the beginning of a new friendship—or a rivalry—between Milfjord and Ivy’s circle?
+* **H’er & Elandra** – A budding romance begins to bloom amidst the chaos of student life.
+* **Cyinth’s Recovery** – After the “fork incident,” Cyinth may have more reasons than one to lay off the smoke next time.
