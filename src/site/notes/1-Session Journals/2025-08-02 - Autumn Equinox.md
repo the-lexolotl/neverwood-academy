@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Academy Event"],"fc-display-name":"Autumn Equinox","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-02","players":6,"OneLiner":"Autumn Equinox and frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Cohort of 1508|Cohort of 1508]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-02 - Autumn Equinox.md","permalink":"/session-journals/2025-08-02-autumn-equinox/","dgPassFrontmatter":true,"updated":"2025-10-05T16:07:02.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Academy Event"],"fc-display-name":"Autumn Equinox","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-02","players":6,"OneLiner":"Autumn Equinox and frogs","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Cohort of 1508|Cohort of 1508]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-02 - Autumn Equinox.md","permalink":"/session-journals/2025-08-02-autumn-equinox/","dgPassFrontmatter":true,"updated":"2025-10-11T17:07:16.000+01:00"}
 ---
 
 
@@ -36,7 +36,7 @@ Before the festivities began, students completed their Week 3 homework rolls, re
 
 ### Whalebucks Autumn Menu Launched
 
-In celebration of the season, Whalebucks unveiled its Autumn 1508 Specialty Drinks, including:
+In celebration of the season, Whalebucks unveiled its [[2-Player Handouts/Whalebucks/Autumn Specialty Drinks 1508\|Autumn Specialty Drinks 1508]], including:
 * Pumpkin Cauldron Latte  
 * Feyspice Fog  
 * Falling Star Chai  

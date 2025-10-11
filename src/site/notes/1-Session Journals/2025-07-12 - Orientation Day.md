@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Orientation Day","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-12","players":8,"OneLiner":"Settling in & Scavenger Hunt","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[Cohort of 1508|Cohort of 1508]]","[[Taiva Loreweaver|Taiva Loreweaver]]","[[Mavinda Sharpbeak|Mavinda Sharpbeak]]","[[Zoei|Zoei]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-12 - Orientation Day.md","permalink":"/session-journals/2025-07-12-orientation-day/","dgPassFrontmatter":true,"updated":"2025-10-05T16:07:00.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Main Story"],"fc-display-name":"Orientation Day","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-07-12","players":8,"OneLiner":"Settling in & Scavenger Hunt","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[Cohort of 1508|Cohort of 1508]]","[[Taiva Loreweaver|Taiva Loreweaver]]","[[Mavinda Sharpbeak|Mavinda Sharpbeak]]","[[Zoei|Zoei]]"],"dg-publish":true,"dg-path":"Session Journals/2025-07-12 - Orientation Day.md","permalink":"/session-journals/2025-07-12-orientation-day/","dgPassFrontmatter":true,"updated":"2025-10-11T17:04:14.000+01:00"}
 ---
 
 
@@ -46,7 +46,7 @@ Each new group received a campus-wide treasure hunt assignment to familiarise th
 ### Mimic Incident
 
 As the treasure hunt concluded, a brief but notable incident occurred near the Biblioplex archives:  
-A [[3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm\|mimic-xmm]] spawned, likely attracted to the magical clutter left by dozens of student groups.  
+A [[3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm\|Mimic]] spawned, likely attracted to the magical clutter left by dozens of student groups.  
 The party chose to intervene quickly and neutralised the mimic with minimal effort.  
 Faculty praised the group for their initiative, though some whispered questions remain about how the mimic got there in the first place.
 

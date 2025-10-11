@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Matreous|Matreous]]","[[Losheel|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-05T17:22:06.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Exams","Side Quest"],"fc-display-name":"The Missing Professor","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-08-09","players":6,"OneLiner":"Exams & Finding Matreous","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Atudark.md|Atudark]]","[[1-Party/Group 2/Cyinth Agora.md|Cyinth Agora]]","[[Guiloip Guhloo|Guiloip Guhloo]]","[[1-Party/Group 2/H'er.md|H'er]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]","[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 1/Milfjord Goodleaf.md|Milfjord Goodleaf]]"],"sessionNPC":["[[Matreous|Matreous]]","[[Losheel|Losheel]]"],"dg-publish":true,"dg-path":"Session Journals/2025-08-09 - The Missing Professor.md","permalink":"/session-journals/2025-08-09-the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-11T17:10:32.000+01:00"}
 ---
 
 
@@ -32,7 +32,7 @@ After the chaos of the Autumn Equinox Feast and the first exams of the term, the
 
 ### The Neverwood Times
 
-The day began with the delivery of the latest **Neverwood Times**.  
+The day began with the delivery of the latest [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]], [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]].  
  Two articles in particular caught the party’s attention:
 
 * **"Feast Frogs Flood Equinox"** – detailing the chaos at the Autumn Equinox Feast and (somewhat unfairly) implying first-years were partly to blame.  
@@ -46,10 +46,10 @@ With the festive distractions behind them, the students buckled down for **exam 
 * Afterwards, while shelving books, a **large tome** unexpectedly fell to the floor.
 
 ### The Book
-
-* Title: **"The Joy of Extradimensional Spaces"**  
+![009-02-001.book.webp|400](/img/user/z_Assets/009-02-001.book.webp)
+* Title: **"[[2-Player Handouts/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces]]"**  
 * Cover: Illustration of **Mordenkainen**  
-* Inside: Several **handwritten notes** in the margins, plus a **library slip** revealing that Professor Matreous last checked it out on **28th Hammer, 1507**.
+* Inside: Several **handwritten notes** in the margins, plus a **library slip** revealing that Professor [[2-World/People/Staff/Lorehold/Matreous\|Matreous]] last checked it out on **28th Hammer, 1507**.
 
 Cynith tucked the book away for safekeeping and the party sought answers.
 
