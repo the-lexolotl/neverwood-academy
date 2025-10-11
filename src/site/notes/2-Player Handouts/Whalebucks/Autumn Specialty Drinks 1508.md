@@ -1,0 +1,19 @@
+---
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","image":"Whalebucks Autumn Specials 1508 (1).png","dg-publish":true,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Whalebucks Coffee Co..md|Whalebucks Coffee Co.]]"],"NoteIcon":"journal","dg-path":"Player Handouts/Whalebucks/Autumn Specialty Drinks 1508.md","permalink":"/player-handouts/whalebucks/autumn-specialty-drinks-1508/","dgPassFrontmatter":true,"updated":"2025-10-11T16:22:00.000+01:00"}
+---
+
+
+
+
+
+> [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Hub),optionQuery(#Category/Region),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
+ 
+
+# Connections
+
+**Groups:** [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]
+**Quests:** None 
+
+---
+
+![Whalebucks Autumn Specials 1508 (1).png](/img/user/z_Assets/Whalebucks%20Autumn%20Specials%201508%20(1).png)

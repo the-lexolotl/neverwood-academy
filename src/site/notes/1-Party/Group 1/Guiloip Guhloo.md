@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cameron","Glue","Guiloip"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Guiloip Guhloo.md","permalink":"/party/group-1/guiloip-guhloo/","dgPassFrontmatter":true,"updated":"2025-10-11T02:07:58.000+01:00"}
+{"aliases":["Cameron","Glue","Guiloip"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-path":"Party/Group 1/Guiloip Guhloo.md","permalink":"/party/group-1/guiloip-guhloo/","dgPassFrontmatter":true,"updated":"2025-10-11T16:28:46.000+01:00"}
 ---
 
 
@@ -226,3 +226,7 @@ Whalebucks Free Meal Ticket
 **Partner:** Unknown
 **Friends:** 
 **Enemies:** 
+
+# Academics 
+## First Year 
+![First Year Timetable - Cameron.png](/img/user/z_Assets/Class%20Timetables/First%20Year/First%20Year%20Timetable%20-%20Cameron.png)
