@@ -40,7 +40,7 @@ Each student shared a glimpse into their solo adventures between sessions:
 * Kristy   
   * Heard a spicy rumour: Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] may be romantically involved with Dean [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]].  
 * Megan  
-  * Explored the backstage storage beneath [[2-World/Points of Interest/The Rose Stage\|The Rose Stage]] on [[2-World/Places/Silverquill Campus\|Silverquill Campus]], learning about its hidden passages and supply rooms.  
+  * Explored the backstage storage beneath [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] on [[2-World/Places/Silverquill Campus\|Silverquill Campus]], learning about its hidden passages and supply rooms.  
 * Rain  
   * Experimented with colour-changing potions — though she accidentally spilt one on her textbook and wiped it with her robe, both now partially rainbow-hued.  
 * Ross  
@@ -48,7 +48,7 @@ Each student shared a glimpse into their solo adventures between sessions:
     “From nothing comes great responsibility – Author Unknown.”  
     Its meaning remains unclear.  
 * Theo  
-  * Investigated [[2-World/Points of Interest/The Cultivarium\|The Cultivarium]] on [[2-World/Places/Quandrix Campus\|Quandrix Campus]], discovering that some of the flora seem semi-sentient.
+  * Investigated [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]] on [[2-World/Places/Quandrix Campus\|Quandrix Campus]], discovering that some of the flora seem semi-sentient.
 
 ### First Week of Classes Begins
 
@@ -56,7 +56,7 @@ Students attended their first official lessons and completed Homework Rolls for 
 
 ### Frog Racing Incident – Firejolt Café
 
-While relaxing on campus, the group was approached by other students who invited them to spectate the popular (but ethically questionable) Frog Racing at [[2-World/Points of Interest/Firejolt Café\|The Firejolt Café.]]
+While relaxing on campus, the group was approached by other students who invited them to spectate the popular (but ethically questionable) Frog Racing at [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|The Firejolt Café.]]
 
 #### Events Unfold:
 

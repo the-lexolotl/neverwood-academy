@@ -61,7 +61,7 @@ The Librarian [[2-World/People/Staff/Isabrough\|Isabrough]] described Matreous a
 * A specialist in **Planar Theory**,  
 * Known for guarding his workspace fiercely.
 
-The Librarian directed them to **[[2-World/Points of Interest/Pillardrop\|Pillardrop]]** on [[2-World/Places/Lorehold Campus\|Lorehold Campus]] — a vast ravine crammed with offices and buildings.
+The Librarian directed them to **[[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]]** on [[2-World/Places/Lorehold Campus\|Lorehold Campus]] — a vast ravine crammed with offices and buildings.
 
 ### Whalebucks Interlude
 

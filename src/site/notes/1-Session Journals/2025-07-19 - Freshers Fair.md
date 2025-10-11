@@ -28,7 +28,7 @@
 
 ## Summary
 
-The new students of Neverwood Academy kicked off their second day on campus by attending the lively and colourful Freshers’ Fair — a celebration of student life held in the [[2-World/Points of Interest/Archway Commons\|Archway Commons]] and adjoining Club Hall. The fair featured booths, magical demonstrations, enchanted snacks, and student reps eager to recruit.
+The new students of Neverwood Academy kicked off their second day on campus by attending the lively and colourful Freshers’ Fair — a celebration of student life held in the [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]] and adjoining Club Hall. The fair featured booths, magical demonstrations, enchanted snacks, and student reps eager to recruit.
 
 ### Exploration & Sign-Ups
 

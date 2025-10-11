@@ -17,18 +17,18 @@
 
 # History
 ## Founding & Early History (pre-1215 DR)
-In the early 13th century DR, two half-seafolk brothers — [[2-World/People/Borlen Whalewake\|Borlen]] and [[2-World/People/Deryn Whalewake\|Deryn Whalewake]]—operated a modest bait-and-tackle shop aboard their sea-skiff, *The Whalebuck’s Folly*. Sailing the coasts of [[2-World/Continents/Faerûn\|Faerûn]], they peddled lures, nets, and (when no one was looking) the occasional bit of stolen treasure to fellow sailors and dockside wanderers.
+In the early 13th century DR, two half-seafolk brothers — [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] and [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]—operated a modest bait-and-tackle shop aboard their sea-skiff, *The Whalebuck’s Folly*. Sailing the coasts of [[2-World/Continents/Faerûn\|Faerûn]], they peddled lures, nets, and (when no one was looking) the occasional bit of stolen treasure to fellow sailors and dockside wanderers.
 
 As a mark of hospitality, they gave out small tin mugs of dark, invigorating coffee—an exotic brew they had begun trading for with southern Faerûnian merchants. Sailors grew to love the drink almost as much as the gear, and word of *“the coffee boat”* spread from port to port.
 
 ## The Great Brew Split (ca. 1230 DR)
- In time, a sharp divide grew between the brothers. [[2-World/People/Borlen Whalewake\|Borlen]] believed the future lay in coffee—its demand soaring with each tide. He proposed leaving behind bait and tackle entirely. [[2-World/People/Deryn Whalewake\|Deryn]], ever practical, dismissed the brew as a novelty, a side offering to keep customers warm and coming back.
+ In time, a sharp divide grew between the brothers. [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] believed the future lay in coffee—its demand soaring with each tide. He proposed leaving behind bait and tackle entirely. [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn]], ever practical, dismissed the brew as a novelty, a side offering to keep customers warm and coming back.
 
-Their dispute ended in a bitter split. [[2-World/People/Deryn Whalewake\|Deryn]] stayed with *The Whalebuck’s Folly*, continuing the original trade. [[2-World/People/Borlen Whalewake\|Borlen]], meanwhile, stepped off the deck for good, founding his own venture—and naming it in memory of the ship that started it all: **Whalebucks**.
+Their dispute ended in a bitter split. [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn]] stayed with *The Whalebuck’s Folly*, continuing the original trade. [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]], meanwhile, stepped off the deck for good, founding his own venture—and naming it in memory of the ship that started it all: **Whalebucks**.
 
 ## Expansion Across the Realms (1230–1494 DR)
 
-[[2-World/People/Borlen Whalewake\|Borlen]] refined his coffee blends, experimenting with planar ingredients, magical brews, and new brewing techniques. Whalebucks quickly grew in reputation and variety, offering everything from espresso-style shots to enchanted chill-brews.
+[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] refined his coffee blends, experimenting with planar ingredients, magical brews, and new brewing techniques. Whalebucks quickly grew in reputation and variety, offering everything from espresso-style shots to enchanted chill-brews.
 
 Pop-up stalls and enchanted carts began appearing not just in port towns, but in market squares, adventuring guild halls, and even extraplanar trade hubs. By 1494 DR, Whalebucks had established permanent cafés in most major cities, each with their own sponsored stalls at local events.
 
@@ -40,14 +40,14 @@ By 2024 DR, Whalebucks had become the largest coffee franchise in the multiverse
 
 ## Legacy
 
-The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[2-World/People/Merrick Whalewake\|Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
+The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
 
 
 # Hierarchy
 
 
-**Founders:** [[2-World/People/Borlen Whalewake\|Borlen Whalewake]], [[2-World/People/Deryn Whalewake\|Deryn Whalewake]]
-**Current CEO:** [[2-World/People/Merrick Whalewake\|Merrick Whalewake]]
+**Founders:** [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]], [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]
+**Current CEO:** [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]]
 
 
 
@@ -56,11 +56,11 @@ The original brothers passed away about thirty years ago. Their respective busin
 The following people are members of this group.  
 
 
-| File                                                       | Gender | Race  | Role         | College |
-| ---------------------------------------------------------- | ------ | ----- | ------------ | ------- |
-| [[2-World/People/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
-| [[2-World/People/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
-| [[2-World/People/Merrick Whalewake\|Merrick Whalewake]] | Male   | Human | Cafe Manager | None    |
+| File                                                                        | Gender | Race  | Role         | College |
+| --------------------------------------------------------------------------- | ------ | ----- | ------------ | ------- |
+| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
+| [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
+| [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] | Male   | Human | Cafe Manager | None    |
 
 { .block-language-dataview}
 

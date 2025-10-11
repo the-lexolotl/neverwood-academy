@@ -30,24 +30,24 @@ After their harrowing ordeal in the [[2-World/Hubs/Xvart Village\|Xvart Village]
 
 ### **The Return of Miaukier**
 * The group arrived back at campus late into the night and summoned a campus guide automaton for directions.
-* They made their way to [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]] on [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], pounding on [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss's]] door until he answered.
+* They made their way to [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] on [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], pounding on [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss's]] door until he answered.
 * Groggy and irritated, Theodore was nonetheless overjoyed to see [[2-World/People/Other/Miaukier\|Miaukier]] returned—though shocked by the creature’s new draconic form.
 * In gratitude, he gifted each student a bottle from his **personal potion collection** before sending them on their way.
 * The party retired to their dorms for some much-needed rest.
 
 ### **Breakfast at Whalebucks**
-* The next morning, the group (minus H’er) met for breakfast at the [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks]] inside [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]].
+* The next morning, the group (minus H’er) met for breakfast at the [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks]] inside [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]].
 * Over coffee and pastries, they caught up on campus gossip and decompressed from their adventure.
 * [[1-Party/Group 2/Harry Blackstone\|Harry]] noticed his coffee cup had their **room number** written on it by barista [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]], sparking suspicion that the drink might be tampered with—Lyra was asked to check.
-* A few hours later, [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]] approached [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]], inviting him to join her and some friends at [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]] for a **Wizard Gizzard** tournament and smoke session. He agreed, intrigued.
+* A few hours later, [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]] approached [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]], inviting him to join her and some friends at [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] for a **Wizard Gizzard** tournament and smoke session. He agreed, intrigued.
 
 ### **A Chance Meeting in Conjurot Hall**
-* Meanwhile, [[1-Party/Group 2/H'er\|H'er]] spent her morning in the art rooms of [[2-World/Points of Interest/Conjurot Hall\|Conjurot Hall]], painting her nails.
+* Meanwhile, [[1-Party/Group 2/H'er\|H'er]] spent her morning in the art rooms of [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]], painting her nails.
 * There, she met a shy student, [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]], who complimented her nails and asked if H’er would paint hers too.
-* The two struck up a warm conversation, and Elandra invited H’er to dinner that evening at [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]
+* The two struck up a warm conversation, and Elandra invited H’er to dinner that evening at [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]
 
 ###  **Games, Smoke, and Shenanigans**
-* That evening, the party reconvened at [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]
+* That evening, the party reconvened at [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]
 * They joined [[2-World/People/Students/1507/Ivy Drake\|Ivy's]] group for a lively few rounds of **Wizard Gizzard**.
 	* [[1-Party/Group 2/H'er\|H'er]] played exceptionally well, hoping to impress her date.
 	* [[1-Party/Group 2/Harry Blackstone\|Harry's]] natural cunning gave him an edge.
@@ -55,8 +55,8 @@ After their harrowing ordeal in the [[2-World/Hubs/Xvart Village\|Xvart Village]
 * [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]] shared his smoke with [[1-Party/Group 2/Cyinth Agora\|Cyinth]] and [[1-Party/Group 1/Guiloip Guhloo\|Glue]], who both got thoroughly **high**.
 * When it came time to eat, [[1-Party/Group 2/Cyinth Agora\|Cyinth]] asked the tavern’s chef, [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]], for a **vegan meal** for [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord]].
 * Amid the laughter and chaos, [[1-Party/Group 2/Harry Blackstone\|Harry]] accidentally dropped a fork down [[1-Party/Group 2/Cyinth Agora\|Cyinth's]] throat.
-* Unable to regurgitate it, the group rushed her to the medical wing at [[2-World/Points of Interest/Kollema Hall\|Kollema Hall]], where staff sedated her and safely removed the fork.
-* An hour later, [[1-Party/Group 2/Cyinth Agora\|Cyinth]] was released—fork-free—and the group promptly returned to [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]] for another round of Wizard Gizzard.
+* Unable to regurgitate it, the group rushed her to the medical wing at [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], where staff sedated her and safely removed the fork.
+* An hour later, [[1-Party/Group 2/Cyinth Agora\|Cyinth]] was released—fork-free—and the group promptly returned to [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] for another round of Wizard Gizzard.
 
 ###  **A Gentle Ending**
 

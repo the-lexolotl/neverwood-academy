@@ -54,11 +54,11 @@ Make notes of what you need to track in the town here.
 
 # Points of Interest
 
-| File                                                                 |
-| -------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Sedgemoor\|Sedgemoor]]               |
-| [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]] |
-| [[2-World/Points of Interest/Wiltroot Hall\|Wiltroot Hall]]       |
-| [[2-World/Points of Interest/Detention Bog\|Detention Bog]]       |
+| File                                                                                   |
+| -------------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]       |
+| [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]               |
+| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] |
+| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]       |
 
 { .block-language-dataview}

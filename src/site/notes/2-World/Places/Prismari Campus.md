@@ -51,11 +51,11 @@ Make notes of what you need to track in the town here.
 
 # Points of Interest
 
-| File                                                           |
-| -------------------------------------------------------------- |
-| [[2-World/Points of Interest/Furygale\|Furygale]]           |
-| [[2-World/Points of Interest/Conjurot Hall\|Conjurot Hall]] |
-| [[2-World/Points of Interest/Opus Walk\|Opus Walk]]         |
+| File                                                                             |
+| -------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]] |
+| [[2-World/Points of Interest/Neverwood Academy/Furygale\|Furygale]]           |
+| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]]         |
 
 { .block-language-dataview}
 

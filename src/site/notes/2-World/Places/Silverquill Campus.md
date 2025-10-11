@@ -56,10 +56,10 @@ Make notes of what you need to track in the town here.
 
 # Points of Interest
 
-| File                                                             |
-| ---------------------------------------------------------------- |
-| [[2-World/Points of Interest/Grandloft Hall\|Grandloft Hall]] |
-| [[2-World/Points of Interest/The Rose Stage\|The Rose Stage]] |
-| [[2-World/Points of Interest/The Dramarium\|The Dramarium]]   |
+| File                                                                               |
+| ---------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
 
 { .block-language-dataview}

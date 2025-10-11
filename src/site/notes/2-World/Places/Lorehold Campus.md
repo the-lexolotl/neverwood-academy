@@ -55,10 +55,10 @@ Make notes of what you need to track in the town here.
 
 # Points of Interest
 
-| File                                                         |
-| ------------------------------------------------------------ |
-| [[2-World/Points of Interest/Pillardrop\|Pillardrop]]     |
-| [[2-World/Points of Interest/Effigy Row\|Effigy Row]]     |
-| [[2-World/Points of Interest/Kollema Hall\|Kollema Hall]] |
+| File                                                                           |
+| ------------------------------------------------------------------------------ |
+| [[2-World/Points of Interest/Neverwood Academy/Effigy Row\|Effigy Row]]     |
+| [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] |
+| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]]     |
 
 { .block-language-dataview}

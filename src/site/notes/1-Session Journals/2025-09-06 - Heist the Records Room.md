@@ -29,7 +29,7 @@
 ## Summary
 After weeks of strange discoveries and half-answers, the party resolved to take matters into their own hands. Their target: the **student records office**, in hopes of uncovering information about the mysterious **[[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]**. What began as a clever infiltration quickly spiralled into chaos, leaving behind wrecked doors, a destroyed security bot, and stolen files that could change everything.
 ### Festival to Infiltration
-* The group gathered at [[2-World/Points of Interest/Opus Walk\|Opus Walk]], [[2-World/Places/Prismari Campus\|Prismari Campus]], after spending the day at the **Genesia Festival** on Central Campus.  
+* The group gathered at [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]], [[2-World/Places/Prismari Campus\|Prismari Campus]], after spending the day at the **Genesia Festival** on Central Campus.  
 * Cyinth was running late, so while waiting, **Glue got a [[3-Mechanics/CLI/items/masquerade-tattoo-tce\|Masquerade Tattoo]]** at *Opus Ink* — screaming and crying through the entire process.  
 * Once everyone regrouped, they made for the admin offices under cover of night.
 ### Breaking In

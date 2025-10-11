@@ -52,10 +52,10 @@ Make notes of what you need to track in the town here.
 
 # Points of Interest
 
-| File                                                                 |
-| -------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Torus Hall\|Torus Hall]]             |
-| [[2-World/Points of Interest/The Arithmodrome\|The Arithmodrome]] |
-| [[2-World/Points of Interest/The Cultivarium\|The Cultivarium]]   |
+| File                                                                                   |
+| -------------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
+| [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
 
 { .block-language-dataview}

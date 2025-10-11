@@ -35,7 +35,7 @@ After weeks of classes, research, and tense investigations, the students finally
 * Players caught up on **homework rolls**.  
 * The group completed a **quiz on mechanics and classes**.  
 * They rolled for exams: most passed, but **Theo failed**.  
-* After the final exam (25th Uktar, 1508), the group met at the [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]], sharing drinks and swapping stories.  
+* After the final exam (25th Uktar, 1508), the group met at the [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]], sharing drinks and swapping stories.  
 * Milfjord attempted to **synthesise a potion** from tavern drinks, with mixed success.
 
 ### The Stranger Arrives

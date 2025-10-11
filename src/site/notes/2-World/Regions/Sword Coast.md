@@ -31,38 +31,38 @@ Make notes of what you need to track in the region here.
 
 # Points of Interest
 
-| File                                                                                     |
-| ---------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Biblioplex\|Biblioplex]]                                 |
-| [[2-World/Points of Interest/Firejolt Café\|Firejolt Café]]                           |
-| [[2-World/Points of Interest/Bow's End Tavern\|Bow's End Tavern]]                     |
-| [[2-World/Points of Interest/Archway Commons\|Archway Commons]]                       |
-| [[2-World/Points of Interest/Neverwood Stadium\|Neverwood Stadium]]                   |
-| [[2-World/Points of Interest/Aerojaunt Field\|Aerojaunt Field]]                       |
-| [[2-World/Points of Interest/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
-| [[2-World/Points of Interest/Pillardrop\|Pillardrop]]                                 |
-| [[2-World/Points of Interest/Effigy Row\|Effigy Row]]                                 |
-| [[2-World/Points of Interest/Kollema Hall\|Kollema Hall]]                             |
-| [[2-World/Points of Interest/Furygale\|Furygale]]                                     |
-| [[2-World/Points of Interest/Conjurot Hall\|Conjurot Hall]]                           |
-| [[2-World/Points of Interest/Opus Walk\|Opus Walk]]                                   |
-| [[2-World/Points of Interest/Torus Hall\|Torus Hall]]                                 |
-| [[2-World/Points of Interest/The Arithmodrome\|The Arithmodrome]]                     |
-| [[2-World/Points of Interest/The Cultivarium\|The Cultivarium]]                       |
-| [[2-World/Points of Interest/Grandloft Hall\|Grandloft Hall]]                         |
-| [[2-World/Points of Interest/The Rose Stage\|The Rose Stage]]                         |
-| [[2-World/Points of Interest/The Dramarium\|The Dramarium]]                           |
-| [[2-World/Points of Interest/Sedgemoor\|Sedgemoor]]                                   |
-| [[2-World/Points of Interest/Widdershins Hall\|Widdershins Hall]]                     |
-| [[2-World/Points of Interest/Wiltroot Hall\|Wiltroot Hall]]                           |
-| [[2-World/Points of Interest/Detention Bog\|Detention Bog]]                           |
-| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]             |
-| [[2-World/Points of Interest/The Tall Tale\|The Tall Tale]]                           |
-| [[2-World/Points of Interest/The Frothing Flask\|The Frothing Flask]]                 |
-| [[2-World/Points of Interest/The Lucid Dreamer\|The Lucid Dreamer]]                   |
-| [[2-World/Points of Interest/The Rambling Toad\|The Rambling Toad]]                   |
-| [[2-World/Points of Interest/The Beauty’s Mirror\|The Beauty’s Mirror]]               |
-| [[2-World/Points of Interest/The Pub That Crawls\|The Pub That Crawls]]               |
+| File                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               |
+| [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
+| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
+| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
+| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
+| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
+| [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]]                           |
+| [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]                           |
+| [[2-World/Points of Interest/Neverwood Academy/Effigy Row\|Effigy Row]]                                 |
+| [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           |
+| [[2-World/Points of Interest/Neverwood Academy/Furygale\|Furygale]]                                     |
+| [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]]                         |
+| [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]]                             |
+| [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   |
+| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]]                                   |
+| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]]                                 |
+| [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   |
+| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]]                     |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       |
+| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]                           |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         |
+| [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]                                 |
+| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     |
+| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           |
+| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       |
+| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         |
+| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     |
+| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 |
 
 { .block-language-dataview}
 # Groups
