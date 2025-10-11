@@ -20,8 +20,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | ---------------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
 | [[2-World/People/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]   | Gnome      | Male       | Student                |
 | [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]   | Elf        | Male       | Student                |
-| [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged  | Male       | Student                |
 | [[2-World/People/Students/1508/Larine Arneza\|Larine Arneza]]             | Human      | Female     | Student                |
+| [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged  | Male       | Student                |
 | [[2-World/People/Students/1508/Tilana Kapule\|Tilana Kapule]]             | Human      | Female     | Student                |
 | [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |
 | [[2-World/People/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]     | Minotaur   | Male       | Student                |
