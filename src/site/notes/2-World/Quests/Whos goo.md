@@ -1,19 +1,19 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-07-12 - Orientation Day.md|2025-07-12 - Orientation Day]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-04T00:43:38.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-07-12 - Orientation Day.md|2025-07-12 - Orientation Day]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-12T18:28:46.000+01:00"}
 ---
 
 
 # Quest Info
 
-- [x] Investigate the Goo on the Trunk
-- [x] Learn More About Mimics
-- [x] Investigate The Giant Frogs
-- [x] Who Is The Student?
-	- [x] Learn More About the Student the Staff Mentioned
-- [x] Find Murgaxor's Student Records
-	- [x] Ask the Staff About the Admin Office
-	- [x] Enquire About Where Student Records are Kept 
-	- [x] Retrieve Murgaxor's Student Records from the Records Room 
+- [x] ~~Investigate the Goo on the Trunk~~
+- [x] ~~Learn More About Mimics~~
+- [x] ~~Investigate The Giant Frogs~~
+- [x] ~~Who Is The Student?~~
+	- [x] ~~Learn More About the Student the Staff Mentioned~~
+- [x] ~~Find Murgaxor's Student Records~~
+	- [x] ~~Ask the Staff About the Admin Office~~
+	- [x] ~~Enquire About Where Student Records are Kept~~ 
+	- [x] ~~Retrieve Murgaxor's Student Records from the Records Room~~ 
 - [ ] Learn About the Murgaxor Family
 
 # Quest Details
@@ -47,8 +47,8 @@ The following people are associated with this quest.
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]      | Halfling        | Male   | Player    |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]        | Dragonborn      | Male   | Player    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                | Aarakocra       | Female | Player    |
-| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]        | Human           | Male   | Player    |
 | [[1-Party/Group 2/H'er\|H'er]]                                | Tiefling        | Female | Player    |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]        | Human           | Male   | Player    |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]            | Variant Aasimar | Female | Player    |
 
 { .block-language-dataview}

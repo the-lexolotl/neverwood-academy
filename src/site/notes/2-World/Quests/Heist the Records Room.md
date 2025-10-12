@@ -1,32 +1,33 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-08-23 - Cyinth's Dinner Party.md|2025-08-23 - Cyinth's Dinner Party]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Heist the Records Room.md","permalink":"/world/quests/heist-the-records-room/","dgPassFrontmatter":true,"updated":"2025-10-04T00:43:28.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-08-23 - Cyinth's Dinner Party.md|2025-08-23 - Cyinth's Dinner Party]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Heist the Records Room.md","permalink":"/world/quests/heist-the-records-room/","dgPassFrontmatter":true,"updated":"2025-10-12T18:26:02.000+01:00"}
 ---
 
 
 
 # Quest Info
 
-- [x] Head to the Administration Offices on Prismari Campus (Opus Walk)
-- [x] Break into the Admin Offices
-- [x] Find the Records Room
-- [x] Find the Code for the Records Room Door
-	- [x] Clue 1
-	- [x] Clue 2
-	- [x] Clue 3
-	- [x] Clue 4
-	- [x] Clue 5
-	- [x] Clue 6
-- [x] Open the Head Teacher's Office Door
-	- [x] Select the Correct Colours in the Correct Order (Like Wordle)
-- [x] Open the Admin Office Door
-	- [x] Find the Admin Office Key
-- [x] Unlock the Records Room
-- [x] Find Murgaxor's Student Records
-- [x] Grab the Records Folders
-	- [x] [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Murgaxor, Grenshel]]
-	- [x] [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Murgaxor, Daniel]]
-	- [x] [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Murgaxor, Veyra]]
-- [x] Escape Without Being Spotted
+- [x] ~~Head to the Administration Offices on Prismari Campus (Opus Walk)~~
+- [x] ~~Break into the Admin Offices~~
+- [x] ~~Find the Records Room~~
+- [x] ~~Find the Code for the Records Room Door~~
+	- [x] ~~Clue 1~~
+	- [x] ~~Clue 2~~
+	- [x] ~~Clue 3~~
+	- [x] ~~Clue 4~~
+	- [x] ~~Clue 5~~
+	- [x] ~~Clue 6~~
+- [x] ~~Open the Head Teacher's Office Door~~
+	- [x] ~~Select the Correct Colours in the Correct Order (Like Wordle)~~
+- [x] ~~Open the Admin Office Door~~
+	- [x] ~~Find the Admin Office Key~~
+- [x] ~~Unlock the Records Room~~
+- [x] ~~Find Murgaxor's Student Records~~
+- [x] ~~Grab the Records Folders~~
+	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Murgaxor, Grenshel]]~~
+	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Murgaxor, Daniel]]~~
+	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Murgaxor, Veyra]]~~
+- [x] ~~Escape Without Being Spotted~~
+
 # Quest Details
 
 

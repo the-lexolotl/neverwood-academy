@@ -1,21 +1,21 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"MyCategory":null,"image":"009-02-001.book.webp","obsidianUIMode":"preview","questObtained":"2025-08-09","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-08-09 - The Missing Professor.md|2025-08-09 - The Missing Professor]]","questNotes":null,"questLootAvail":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","NoteIcon":"quest","dg-publish":true,"questLootEarned":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","dg-path":"World/Quests/The Missing Professor.md","permalink":"/world/quests/the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-04T00:43:00.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"MyCategory":null,"image":"009-02-001.book.webp","obsidianUIMode":"preview","questObtained":"2025-08-09","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-08-09 - The Missing Professor.md|2025-08-09 - The Missing Professor]]","questNotes":null,"questLootAvail":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","NoteIcon":"quest","dg-publish":true,"questLootEarned":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","dg-path":"World/Quests/The Missing Professor.md","permalink":"/world/quests/the-missing-professor/","dgPassFrontmatter":true,"updated":"2025-10-12T18:28:26.000+01:00"}
 ---
 
 
 
 # Quest Info
 
-- [x] Investigate Professor Matreous's Disappearance
-- [x] Find "The Joy of Extradiemnsional Spaces"
-- [x] Investigate Fistandria
-- [x] Locate Professor Matreous's Office
-- [x] Find the Entrance to Fistandria's Mansion
-- [x] Open the Portal
-- [x] Visit the Mansion
-- [x] Escape the Mansion
-- [x] Investigate Professor Matreous's Death
-- [x] Kill the Imp
+- [x] ~~Investigate Professor Matreous's Disappearance~~
+- [x] ~~Find "The Joy of Extradiemnsional Spaces"~~
+- [x] ~~Investigate Fistandria~~
+- [x] ~~Locate Professor Matreous's Office~~
+- [x] ~~Find the Entrance to Fistandria's Mansion~~
+- [x] ~~Open the Portal~~
+- [x] ~~Visit the Mansion~~
+- [x] ~~Escape the Mansion~~
+- [x] ~~Investigate Professor Matreous's Death~~
+- [x] ~~Kill the Imp~~
 
 # Quest Details
 

@@ -1,20 +1,20 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250920140440.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"Complete","questGiver":"[[Theodore Moss|Theodore Moss]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-09-13 - Exams & Missing Cats.md|2025-09-13 - Exams & Missing Cats]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Miaukier Must Die!.md","permalink":"/world/quests/miaukier-must-die/","dgPassFrontmatter":true,"updated":"2025-10-11T01:11:48.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250920140440.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"Complete","questGiver":"[[Theodore Moss|Theodore Moss]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-09-13 - Exams & Missing Cats.md|2025-09-13 - Exams & Missing Cats]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Miaukier Must Die!.md","permalink":"/world/quests/miaukier-must-die/","dgPassFrontmatter":true,"updated":"2025-10-12T18:26:32.000+01:00"}
 ---
 
 
 # Quest Info
 
-- [x]  Speak to [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] about his missing cat 
-- [x]  Agree to find [[2-World/People/Other/Miaukier\|Miaukier]]
-- [x]  Investigate the "little blue creatures"
-- [x]  Head to the [[3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm\|Xvart]] Village
-- [x]  Find a way into the Village
-- [x]  Talk to the King [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]
-- [x]  Bribe the King 
-- [x]  Investigate the Sharman's cave 
-- [x]  Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete
-- [x]  Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]
+- [x]  ~~Speak to [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] about his missing cat~~ 
+- [x]  ~~Agree to find [[2-World/People/Other/Miaukier\|Miaukier]]~~
+- [x]  ~~Investigate the "little blue creatures"~~
+- [x]  ~~Head to the [[3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm\|Xvart]] Village~~
+- [x]  ~~Find a way into the Village~~
+- [x]  ~~Talk to the King [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]~~
+- [x]  ~~Bribe the King~~ 
+- [x]  ~~Investigate the Sharman's cave~~ 
+- [x]  ~~Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete~~
+- [x]  ~~Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]~~
 
 # Quest Details
 
@@ -48,8 +48,8 @@ The following people are associated with this quest.
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                    | Halfling        | Male       | Player  |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                      | Dragonborn      | Male       | Player  |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                              | Aarakocra       | Female     | Player  |
-| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                      | Human           | Male       | Player  |
 | [[1-Party/Group 2/H'er\|H'er]]                                              | Tiefling        | Female     | Player  |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                      | Human           | Male       | Player  |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                          | Variant Aasimar | Female     | Player  |
 
 { .block-language-dataview}

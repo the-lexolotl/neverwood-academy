@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-11 - The Birds and the Bards.md|2025-10-11 - The Birds and the Bards]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-12T00:14:00.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-11 - The Birds and the Bards.md|2025-10-11 - The Birds and the Bards]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-12T18:27:22.000+01:00"}
 ---
 
 
@@ -7,22 +7,22 @@
 
 # Quest Info
 ### The Fallout at the Dance
-- [x] Attend the Winter Dance in the Grand Hall
-- [x] Watch The Hellhound Gang perform The Ballad of Chasey Lain
-- [x] Witness Chasey storm out of the hall mid-performance
-- [x] Speak with Jimmy Pyre after the song ends
-- [x] Accept Jimmy’s plea to help fix things with Chasey
+- [x] ~~Attend the Winter Dance in the Grand Hall~~
+- [x] ~~Watch The Hellhound Gang perform The Ballad of Chasey Lain~~
+- [x] ~~Witness Chasey storm out of the hall mid-performance~~
+- [x] ~~Speak with Jimmy Pyre after the song ends~~
+- [x] ~~Accept Jimmy’s plea to help fix things with Chasey~~
 
 ### Finding Chasey
-- [x] Search the Courtyard outside the dance hall
-- [x] Discover signs of illusion magic masking footprints in the snow
-- [x] Ask nearby students if they saw which way she went
-- [x] Track Chasey to the Silverquill Wing 
+- [x] ~~Search the Courtyard outside the dance hall~~
+- [x] ~~Discover signs of illusion magic masking footprints in the snow~~
+- [x] ~~Ask nearby students if they saw which way she went~~
+- [x] ~~Track Chasey to the [[2-World/Places/Silverquill Campus\|Silverquill Campus]]
 
 ### Understanding the Problem
-- [x] Talk to Chasey about what upset her
-- [x] Learn that the song revealed something deeply personal
-- [x] Promise to help Jimmy make things right
+- [x] ~~Talk to Chasey about what upset her~~
+- [x] ~~Learn that the song revealed something deeply personal~~
+- [x] ~~Promise to help Jimmy make things right~~
 
 ### The Grand Apology
 - [ ] Return to Jimmy with Chasey’s feelings
@@ -66,13 +66,19 @@ Moments later, Jimmy, clearly panicking, rushes to the party for help. He didn�
 
 The following people are associated with this quest.
 
-| File                                                                       | Race       | Gender | Role    | Connected Groups                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------- | ---------- | ------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc   | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Prismari College.md\\|Prismari College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                    |
-| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling   | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Silverquill College.md\\|Silverquill College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                              |
-| [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Prismari College.md\\|Prismari College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                    |
-| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter    | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Silverquill College.md\\|Silverquill College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                              |
-| [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome      | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Prismari College.md\\|Prismari College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                    |
-| [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf        | Female | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1505.md\\|Cohort of 1505]]</li><li>[[2-World/Groups/Colleges/Silverquill College.md\\|Silverquill College]]</li><li>[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md\\|Mage Tower Cheer Squad]]</li></ul> |
+| File                                                                       | Race            | Gender | Role    | Connected Groups                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------- | --------------- | ------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc        | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Prismari College.md\\|Prismari College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                                                                                         |
+| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling        | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Silverquill College.md\\|Silverquill College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                                                                                   |
+| [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn      | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Prismari College.md\\|Prismari College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                                                                                         |
+| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter         | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Silverquill College.md\\|Silverquill College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                                                                                   |
+| [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome           | Male   | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1506.md\\|Cohort of 1506]]</li><li>[[2-World/Groups/Colleges/Prismari College.md\\|Prismari College]]</li><li>[[2-World/Groups/The Hellhound Gang.md\\|The Hellhound Gang]]</li></ul>                                                                                                         |
+| [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf             | Female | Student | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1505.md\\|Cohort of 1505]]</li><li>[[2-World/Groups/Colleges/Silverquill College.md\\|Silverquill College]]</li><li>[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md\\|Mage Tower Cheer Squad]]</li></ul>                                                                      |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                      | Triton          | Male   | Player  | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1508.md\\|Cohort of 1508]]</li><li>[[1-Party/Group 1/Group 1.md\\|Group 1]]</li><li>[[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club.md\\|Fantastical Horticulture Club]]</li></ul>                                                                                        |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                  | Dragonborn      | Male   | Player  | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1508.md\\|Cohort of 1508]]</li><li>[[1-Party/Group 1/Group 1.md\\|Group 1]]</li><li>[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society.md\\|Dragonsguard Historical Society]]</li></ul>                                                                                    |
+| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                          | Aarakocra       | Female | Player  | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1508.md\\|Cohort of 1508]]</li><li>[[1-Party/Group 2/Group 2.md\\|Group 2]]</li></ul>                                                                                                                                                                                                         |
+| [[1-Party/Group 2/H'er\|H'er]]                                          | Tiefling        | Female | Player  | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1508.md\\|Cohort of 1508]]</li><li>[[1-Party/Group 2/Group 2.md\\|Group 2]]</li><li>[[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists.md\\|Distinguished Society of Fine Artists]]</li></ul>                                                                        |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                  | Human           | Male   | Player  | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1508.md\\|Cohort of 1508]]</li><li>[[1-Party/Group 2/Group 2.md\\|Group 2]]</li><li>[[2-World/Groups/Extracurricular Club/Neverwood Times.md\\|Neverwood Times]]</li></ul>                                                                                                                    |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                      | Variant Aasimar | Female | Player  | <ul><li>[[2-World/Groups/Academic Cohorts/Cohort of 1508.md\\|Cohort of 1508]]</li><li>[[1-Party/Group 2/Group 2.md\\|Group 2]]</li><li>[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild.md\\|Play Actors Drama Guild]]</li><li>[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md\\|Mage Tower Cheer Squad]]</li></ul> |
 
 { .block-language-dataview}

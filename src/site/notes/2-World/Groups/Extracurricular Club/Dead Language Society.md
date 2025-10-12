@@ -44,8 +44,8 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human    | Male   | Prismari    |
 | [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar  | Male   | Prismari    |
 | [[2-World/People/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Minotaur | Male   | Quandrix    |
-| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr    | Female | Silverquill |
 | [[2-World/People/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human    | Male   | Witherbloom |
+| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr    | Female | Silverquill |
 | [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                               | Elf      | Male   | Witherbloom |
 | [[1-Party/Group 1/Atudark\|Atudark]]                                                                    | Yuan-Ti  | Male   | Witherbloom |
 
