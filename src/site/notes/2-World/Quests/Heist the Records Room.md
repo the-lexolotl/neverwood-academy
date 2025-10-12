@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-08-23 - Cyinth's Dinner Party.md|2025-08-23 - Cyinth's Dinner Party]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Heist the Records Room.md","permalink":"/world/quests/heist-the-records-room/","dgPassFrontmatter":true,"updated":"2025-10-12T18:26:02.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Heist the Records Room.md","permalink":"/world/quests/heist-the-records-room/","dgPassFrontmatter":true,"updated":"2025-10-12T22:05:02.000+01:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 | Status:           | Complete                               |
 | Quest Giver:      |                                        |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                  |
-| Session Obtained: | [[1-Session Journals/2025-08-23 - Cyinth's Dinner Party\|2025-08-23 - Cyinth's Dinner Party]] |
+| Session Obtained: | [[1-Session Journals/2025-08-23 - Session 7\|2025-08-23 - Session 7]] |
 | Acquired Loot:    |                                        |
 
 

@@ -49,6 +49,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Human           | Female | Quandrix    |
 | [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male   | Lorehold    |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                                                  | Dragonborn      | Male   | Quandrix    |
+| [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]                                                            | Dragonborn      | Male   | Silverquill |
 | [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi     | Male   | Prismari    |
 
 { .block-language-dataview}

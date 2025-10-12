@@ -112,5 +112,6 @@ Make notes of what you need to track in the region here.
 | [[2-World/Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] |
 | [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             |
 | [[2-World/Quests/The Pub That Crawls\|The Pub That Crawls]]                         |
+| [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]                   |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgPassFrontmatter":true,"updated":"2025-10-03T15:32:14.000+01:00"}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Price of Integrity.md|The Price of Integrity]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgPassFrontmatter":true,"updated":"2025-10-12T22:00:30.000+01:00"}
 ---
 
 
@@ -25,7 +25,7 @@ This is the persons description.
 # Connections
 
 
-**Quests:** None 
+**Quests:** [[2-World/Quests/Whos goo\|Whos goo]]
 
 **Groups:** [[2-World/Groups/Neverwood Staff\|Neverwood Staff]], [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
 

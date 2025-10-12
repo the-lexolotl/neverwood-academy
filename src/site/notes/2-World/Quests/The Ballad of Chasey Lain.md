@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-11 - The Birds and the Bards.md|2025-10-11 - The Birds and the Bards]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-12T18:27:22.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-12T22:05:48.000+01:00"}
 ---
 
 
@@ -52,7 +52,7 @@
 | Status:           | In Progress                              |
 | Quest Giver:      | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                           |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                    |
-| Session Obtained: | [[1-Session Journals/2025-10-11 - The Birds and the Bards\|2025-10-11 - The Birds and the Bards]] |
+| Session Obtained: | [[1-Session Journals/2025-10-11 - Session 14\|2025-10-11 - Session 14]] |
 | Acquired Loot:    |                                          |
 
 # Backstory

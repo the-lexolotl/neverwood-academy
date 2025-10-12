@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-07-12 - Orientation Day.md|2025-07-12 - Orientation Day]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-12T18:28:46.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-07-12 - Session 1|2025-07-12 - Session 1]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-12T22:01:22.000+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 | Status:           | In Progress                      |
 | Quest Giver:      |                                  |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]            |
-| Session Obtained: | [[1-Session Journals/2025-07-12 - Orientation Day\|2025-07-12 - Orientation Day]] |
+| Session Obtained: | [[1-Session Journals/2025-07-12 - Session 1\|2025-07-12 - Session 1]] |
 | Acquired Loot:    |                                  |
 
 
@@ -37,18 +37,19 @@ Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood
 
 The following people are associated with this quest.
 
-| File                                                             | Race            | Gender | Role      |
-| ---------------------------------------------------------------- | --------------- | ------ | --------- |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug        | Male   | Alumni    |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling        | Female | Applicant |
-| [[1-Party/Group 1/Atudark\|Atudark]]                          | Yuan-Ti         | Male   | Player    |
-| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]            | Triton          | Male   | Player    |
-| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]      | Halfling        | Male   | Player    |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]        | Dragonborn      | Male   | Player    |
-| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                | Aarakocra       | Female | Player    |
-| [[1-Party/Group 2/H'er\|H'er]]                                | Tiefling        | Female | Player    |
-| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]        | Human           | Male   | Player    |
-| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]            | Variant Aasimar | Female | Player    |
+| File                                                                         | Race            | Gender | Role                  |
+| ---------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                 | Half-Bullywug   | Male   | Alumni                |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]             | Bullywug        | Male   | Alumni                |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                   | Halfling        | Female | Applicant             |
+| [[1-Party/Group 1/Atudark\|Atudark]]                                      | Yuan-Ti         | Male   | Player                |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                        | Triton          | Male   | Player                |
+| [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                  | Halfling        | Male   | Player                |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn      | Male   | Player                |
+| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                            | Aarakocra       | Female | Player                |
+| [[1-Party/Group 2/H'er\|H'er]]                                            | Tiefling        | Female | Player                |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                    | Human           | Male   | Player                |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                        | Variant Aasimar | Female | Player                |
 
 { .block-language-dataview}

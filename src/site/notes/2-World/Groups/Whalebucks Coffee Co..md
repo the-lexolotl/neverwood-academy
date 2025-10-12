@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks (2) 1.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"aliases":["Whalebucks"],"dg-path":"World/Groups/Whalebucks Coffee Co..md","permalink":"/world/groups/whalebucks-coffee-co/","dgPassFrontmatter":true,"updated":"2025-10-11T03:01:08.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks (2) 1.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"aliases":["Whalebucks"],"dg-path":"World/Groups/Whalebucks Coffee Co..md","permalink":"/world/groups/whalebucks-coffee-co/","dgPassFrontmatter":true,"updated":"2025-10-12T19:35:00.000+01:00"}
 ---
 
 
@@ -171,7 +171,7 @@ Effects: Once per hour, roar to frighten foes (DC 13), +1 Charisma checks/saves.
 A shimmering black-and-gold mystical brew served in a tiny cauldron.
 Effects: Cast Tasha’s hideous laughter once, +1 to saving throws vs. spells.
 
-### Neverwood Academy Autumn Menu 1508
+### Neverwood Academy [[2-Player Handouts/Whalebucks/Autumn Specialty Menu 1508\|Autumn Specialty Menu 1508]]
 ##### Pumpkin Cauldron Latte (hot)
 Served in a mini bubbling cauldron. Slightly energising; gain advantage on the next Constitution save vs. fatigue.
 ##### Feyspice Fog (cold)
@@ -180,5 +180,23 @@ Chilled oat milk with violet syrup, nutmeg, and a “fog” illusion rising from
 Topped with cinnamon dust and a spark of static magic; anyone who drinks it gets a faint static charge (harmless shocks on touch).
 ##### Gingersap Pop-Tarts (grab-and-go)
 Spicy pastry with a golden glittering glaze and a miniature candy broomstick garnish.
+
+### Neverwood Academy [[2-Player Handouts/Whalebucks/Winter Specialty Menu 1508\|Winter Specialty Menu 1508]]
+##### Arcana Crème Brûlée Latte  
+Caramel-vanilla latte topped with magically torched sugar foam.  
+A sweet study companion with a spark of focus enchantment.
+##### Frostwhisper Mocha  
+Dark chocolate and peppermint mocha dusted with shimmerdust.  
+Steam whispers gentle Elvish compliments until it cools.
+##### Solstice Glow Tea  
+Spiced black tea with cinnamon and star anise, glowing amber in dim light.  
+Brewed from sunfire petals grown on the shortest day of the year.
+##### Neverfrost Cold Brew  
+Dark roast steeped in cryo-charmed water over frost crystals that never melt.  
+Bittersweet coffee with notes of toffee and pine resin.
+##### Ginger Tome Biscuit  
+A gingerbread book filled with vanilla icing “pages” that rearrange to display affirmations.
+##### Winter Whale Tail  
+A cinnamon-sugar pastry drizzled with sea-salt caramel — a sweet nod to Whalebucks’ coastal roots.
 
 
