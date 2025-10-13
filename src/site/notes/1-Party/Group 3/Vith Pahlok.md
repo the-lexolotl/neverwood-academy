@@ -1,5 +1,5 @@
 ---
-{"aliases":["Vith","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Goblin","Primordial","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":["Barbarian","Bard"],"char_gender":"Male","char_college":"Silverquill","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Joel.png","dg-publish":true,"dg-path":"Party/Group 3/Vith Pahlok.md","permalink":"/party/group-3/vith-pahlok/","dgPassFrontmatter":true,"updated":"2025-10-13T00:10:32.000+01:00"}
+{"aliases":["Vith","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Goblin","Primordial","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":["Barbarian","Bard"],"char_gender":"Male","char_college":"Silverquill","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Joel.png","dg-publish":true,"dg-path":"Party/Group 3/Vith Pahlok.md","permalink":"/party/group-3/vith-pahlok/","dgPassFrontmatter":true,"updated":"2025-10-13T02:51:14.000+01:00"}
 ---
 
 
@@ -36,7 +36,16 @@
 | Other           |                                               |
 
 ## Biography
-*Biography goes here*
+
+Born into the wealth and prestige of a high draconic bloodline, Vith has spent much of his life surrounded by luxury, expectation, and the quiet weight of comparison. His family’s name carries influence — their crest a symbol of status across dragonkind and the upper circles of magical society — yet for all that, Vith’s life has been marked by an absence more than an abundance. His father, a figure of immense power and stature, is rarely home, consumed by his duties and ambitions. In that distance, Vith has come to believe that no amount of talent or achievement will ever be enough to earn the attention he craves.
+
+Athleticism has always been his outlet. From a young age, Vith showed a natural aptitude for Mage Tower — the demanding sport of agility, magic, and endurance that dominates student life across the academies. Channelling his draconic heritage, he learned to weave his frost breath into his performance, using bursts of icy energy to sharpen his reflexes and extend his stamina. It was an unconventional technique, but undeniably effective — and by the time he reached his final year of secondary schooling, Vith had become something of a legend on the court.
+
+His fame followed swiftly. Charismatic, confident, and backed by wealth, Vith became a campus icon — and he knew it. Adoration seemed to come easily: fans, admirers, and a swarm of people eager to bask in the glow of his reputation. But underneath the bravado, there remains that same small voice of doubt — the one that wonders if any of it truly matters without his father’s acknowledgement.
+
+Seeking both challenge and recognition beyond his homeland, Vith accepted a placement at Neverwood Academy, hoping to compete at the highest level of intercollegiate Mage Tower. To some, his transfer reads as arrogance — another privileged dragon chasing fame across the planes. But to those who look closer, it’s clear that Vith’s confidence hides a different drive entirely: a desperate need to prove his worth, not just as his father’s son, but as himself.
+
+Vith’s goals are straightforward — to dominate the Mage Tower circuit, to push the limits of his own ability, and to be seen for who he truly is. Yet whether that recognition will come from victory, from his peers, or from the father who has never looked back, remains to be seen.
 
 
 # Skills
@@ -199,6 +208,7 @@ Bardic Inspiration (1d6)  3/Long Rest
 # Inventory
 
 
+
 # Connections
 
 **Quests:** None 
@@ -207,12 +217,14 @@ Bardic Inspiration (1d6)  3/Long Rest
 
 # Relationships
 
-**Pets:** 
-**Parents:** 
-**Siblings:** 
-**Partner:** 
+**Pets:** Folass ([[3-Mechanics/CLI/bestiary/beast/lizard-xmm\|Lizard]])
+**Parents:** Unknown
+**Children:** Folass (Daughter)
+**Siblings:** Unknown 
+**Partner:** Unknown
 **Friends:** 
 **Enemies:** 
 
 # Academics
 ## First Year
+![First Year Timetable - Joel.png](/img/user/z_Assets/Class%20Timetables/First%20Year/First%20Year%20Timetable%20-%20Joel.png)
