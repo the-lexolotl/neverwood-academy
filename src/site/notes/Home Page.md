@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-13T19:30:36.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-13T19:56:26.000+01:00"}
 ---
 
 
@@ -25,11 +25,11 @@
 # Quests
 | File                                                                       | Status      | Obtained           | Quest Giver                                                          | Location                                                 |
 | -------------------------------------------------------------------------- | ----------- | ------------------ | -------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[2-World/Quests/Whos goo\|Whos goo]]                                   | In Progress | July 12, 2025      | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | In Progress | October 11, 2025   | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]           | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 | [[2-World/Quests/The Missing Professor\|The Missing Professor]]         | Complete    | August 09, 2025    | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 | [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]       | Complete    | August 23, 2025    | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 | [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]               | Complete    | September 13, 2025 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Whos goo\|Whos goo]]                                   | In Progress | July 12, 2025      | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | In Progress | October 11, 2025   | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]           | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 
 { .block-language-dataview}
 
