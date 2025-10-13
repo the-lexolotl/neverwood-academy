@@ -43,7 +43,7 @@ This is the persons description.
 
 # Skills
 
-![Pasted image 20250928223117.png](/img/user/z_Assets/Pasted%20image%2020250928223117.png)
+![Pasted image 20250928223117.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928223117.png)
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |

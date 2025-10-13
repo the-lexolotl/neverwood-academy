@@ -8,7 +8,7 @@
 
 
 
-![Hellhoung Gang Logo.png](/img/user/z_Assets/Hellhoung%20Gang%20Logo.png)
+![Hellhoung Gang Logo.png](/img/user/z_Assets/character_art/NPCs/Hellhoung%20Gang%20Logo.png)
 
 # General
 

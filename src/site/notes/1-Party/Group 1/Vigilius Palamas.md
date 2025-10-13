@@ -49,7 +49,7 @@ Looking ahead, Vagilius envisions himself standing as a protector, shielding the
 
 # Skills
 
-![Pasted image 20250928221448.png](/img/user/z_Assets/Pasted%20image%2020250928221448.png)
+![Pasted image 20250928221448.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928221448.png)
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |

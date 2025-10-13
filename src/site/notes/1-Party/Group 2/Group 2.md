@@ -38,4 +38,4 @@ The following people are members of this group.
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]     | Variant Aasimar | Female | Silverquill |
 
 { .block-language-dataview}
-![group 2.2.png](/img/user/z_Assets/group%202.2.png)
+![group 2.2.png](/img/user/z_Assets/character_art/Players/group%202.2.png)

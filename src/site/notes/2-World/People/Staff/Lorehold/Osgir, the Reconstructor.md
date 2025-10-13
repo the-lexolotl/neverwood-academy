@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20251013182324.png|500](/img/user/z_Assets/Pasted%20image%2020251013182324.png)
+![Pasted image 20251013182324.png|500](/img/user/z_Assets/character_art/NPCs/Staff/Pasted%20image%2020251013182324.png)
 # General
 
 

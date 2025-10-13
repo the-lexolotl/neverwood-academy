@@ -8,7 +8,7 @@
 **Quests:** [[2-World/Quests/The Missing Professor\|The Missing Professor]]
 
 ---
-![009-02-001.book 1.webp](/img/user/z_Assets/009-02-001.book%201.webp)
+![009-02-001.book 1.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book%201.webp)
 ![1.png](/img/user/z_Assets/The%20Joy%20of%20Extra/1.png)
 ![2.png](/img/user/z_Assets/The%20Joy%20of%20Extra/2.png)
 ![3.png](/img/user/z_Assets/The%20Joy%20of%20Extra/3.png)

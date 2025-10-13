@@ -6,7 +6,7 @@
 
 
 # General Info
-![Pasted image 20250928234357.png](/img/user/z_Assets/Pasted%20image%2020250928234357.png)
+![Pasted image 20250928234357.png](/img/user/z_Assets/Maps/Pasted%20image%2020250928234357.png)
 The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]], Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
 
 See [[2-World/Continents/Faerun Interactive Map\|Faerun Interactive Map]]

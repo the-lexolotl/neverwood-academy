@@ -3,7 +3,7 @@
 ---
 
 
-![Template_Galaxy_Placeholder.png|500](/img/user/z_Assets/Template_Galaxy_Placeholder.png)
+![Template_Galaxy_Placeholder.png|500](/img/user/z_Assets/Placeholder%20Images/Template_Galaxy_Placeholder.png)
 # General Info
 
 [info on prime material plane to go here]

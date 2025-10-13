@@ -3,7 +3,7 @@
 ---
 
 
-![Joel.png](/img/user/z_Assets/Joel.png)
+![Joel.png](/img/user/z_Assets/character_art/Players/Joel.png)
 # General
 
 
@@ -50,7 +50,7 @@ Vith’s goals are straightforward — to dominate the Mage Tower circuit, to pu
 
 # Skills
 
-![Pasted image 20251012232112.png](/img/user/z_Assets/Pasted%20image%2020251012232112.png)
+![Pasted image 20251012232112.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020251012232112.png)
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
