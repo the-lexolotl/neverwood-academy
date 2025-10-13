@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Mage","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":["Coriander"],"enemies":null,"allies":["Fistandria","Cumin"],"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":[],"dg-publish":true,"dg-path":"World/People/Other/Freyot.md","permalink":"/world/people/other/freyot/","dgPassFrontmatter":true,"updated":"2025-10-03T13:20:44.000+01:00"}
+{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Mage","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":["Coriander"],"enemies":null,"allies":["Fistandria","Cumin"],"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":[],"dg-publish":true,"dg-path":"World/People/Other/Freyot.md","permalink":"/world/people/other/freyot/","dgPassFrontmatter":true,"updated":"2025-10-13T18:50:50.000+01:00"}
 ---
 
 
@@ -15,10 +15,9 @@
 | **Role:**    | Mage   |
 | **College:** | None   |
 
-
 ---
 
-This is the persons description. 
+Freyot is an enigmatic mage whose true research and intentions remain largely unknown. The only glimpses of his work come through his homunculi, encountered within Fistandria’s extradimensional mansion. Whispers among scholars suggest his studies push the boundaries of magical theory, but few have seen him directly, and even fewer understand his methods.
 
 
 # Connections

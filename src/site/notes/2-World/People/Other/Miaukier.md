@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911161923.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Cat","char_gender":"Male","char_role":"Other","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-path":"World/People/Other/Miaukier.md","permalink":"/world/people/other/miaukier/","dgPassFrontmatter":true,"updated":"2025-10-03T15:38:52.000+01:00"}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911161923.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Cat","char_gender":"Male","char_role":"Other","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-path":"World/People/Other/Miaukier.md","permalink":"/world/people/other/miaukier/","dgPassFrontmatter":true,"updated":"2025-10-13T19:03:38.000+01:00"}
 ---
 
 
@@ -40,7 +40,7 @@ College: `INPUT[template-college][:char_college]`
 
 ---
 
-This is the persons description. 
+Miaukier is the beloved pet of Professor Theodore Moss, recently transformed into a curious cat-dragon hybrid by a Xvart ritual. Despite his new, unusual form, Theodore’s affection for Miaukier remains unchanged, and the little creature has quickly become a familiar—and mischievous—presence around Witherbloom. Students whisper about his draconic quirks, from tiny sparks of flame to playful swishes of a scaled tail, though no one has yet discovered how to restore him to his original feline self.
 
 
 # Connections

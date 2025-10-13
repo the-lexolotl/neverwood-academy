@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Group Cup","image":"group 2.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"Party/Group 2/Group 2.md","permalink":"/party/group-2/group-2/","dgPassFrontmatter":true,"updated":"2025-10-13T00:13:04.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Group Cup","image":"group 2.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"Party/Group 2/Group 2.md","permalink":"/party/group-2/group-2/","dgPassFrontmatter":true,"updated":"2025-10-13T18:35:34.000+01:00"}
 ---
 
 
@@ -38,3 +38,4 @@ The following people are members of this group.
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]     | Variant Aasimar | Female | Silverquill |
 
 { .block-language-dataview}
+![group 2.2.png](/img/user/z_Assets/group%202.2.png)

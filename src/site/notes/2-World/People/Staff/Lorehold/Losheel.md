@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Losheel.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Loxodon","char_gender":"Female","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-path":"World/People/Staff/Lorehold/Losheel.md","permalink":"/world/people/staff/lorehold/losheel/","dgPassFrontmatter":true,"updated":"2025-10-03T15:03:38.000+01:00"}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Losheel.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Loxodon","char_gender":"Female","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-path":"World/People/Staff/Lorehold/Losheel.md","permalink":"/world/people/staff/lorehold/losheel/","dgPassFrontmatter":true,"updated":"2025-10-13T18:41:58.000+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-This is the persons description. 
+Professor Losheel is a cheerful and inventive Lorehold scholar whose mind is as sharp as her ambition is relaxed. A bipedal elephantine figure, she channels her brilliance into designing clever mechanical helpers, dreaming of a day when she can accomplish anything without ever leaving her seat. Her classes explore the unpredictable nature of chaos magic, blending theory and practical invention, and her enthusiasm for clever shortcuts inspires both admiration and amusement among her students.
 
 
 # Connections

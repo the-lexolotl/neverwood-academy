@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Group Cup","image":"group 1.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"Party/Group 1/Group 1.md","permalink":"/party/group-1/group-1/","dgPassFrontmatter":true,"updated":"2025-10-13T00:13:18.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Group Cup","image":"group 1.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-path":"Party/Group 1/Group 1.md","permalink":"/party/group-1/group-1/","dgPassFrontmatter":true,"updated":"2025-10-13T18:34:32.000+01:00"}
 ---
 
 
@@ -38,3 +38,5 @@ The following people are members of this group.
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]   | Dragonborn | Male   | Quandrix    |
 
 { .block-language-dataview}
+
+![ChatGPT Image Jun 16, 2025, 04_53_50 PM.png](/img/user/z_Assets/ChatGPT%20Image%20Jun%2016,%202025,%2004_53_50%20PM.png)

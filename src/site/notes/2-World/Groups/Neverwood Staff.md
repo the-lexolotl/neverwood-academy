@@ -46,7 +46,7 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]                        | Owlin                  | Male       | None        | Dean of Admissions         |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                                | Human                  | Male       | None        | Deputy Head Teacher        |
 | [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]                          | Tiefling               | Male       | None        | General Studies Professor  |
-| [[2-World/People/Staff/Orvlo\|Orvlo]]                                                | Vedalken               | Male       | None        | General Studies Professor  |
+| [[2-World/People/Staff/Quentis Orvlo\|Quentis Orvlo]]                                | Vedalken               | Male       | None        | General Studies Professor  |
 | [[2-World/People/Staff/Yedora\|Yedora]]                                              | Treant                 | Female     | None        | Grounds Keeper             |
 | [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]]                        | Troll                  | Male       | None        | Head Chef                  |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                                        | Treant                 | Female     | None        | Head Librarian             |

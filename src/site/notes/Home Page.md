@@ -52,7 +52,8 @@
 | [[1-Session Journals/2025-09-27 - Session 12\|2025-09-27 - Session 12]]     | Miaukier Must Die (pt 2)           | September 27, 2025 | Occurred                    | <ul><li>Side Quest</li></ul>                     | 8       |
 | [[1-Session Journals/2025-10-04 - Session 13\|2025-10-04 - Session 13]]     | Work Hard, Play Harder             | October 04, 2025   | Occurred                    | <ul><li>Main Story</li></ul>                     | 7       |
 | [[1-Session Journals/2025-10-11 - Session 14\|2025-10-11 - Session 14]]     | The Birds and the Bards            | October 11, 2025   | Occurred - Writing up Notes | <ul><li>Academy Event</li><li>Downtime</li></ul> | 6       |
-| [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | Preparing                   | <ul><li>Event Category 1</li></ul>               | 1       |
+| [[1-Session Journals/2025-10-14 - Joel Async\|2025-10-14 - Joel Async]]     | The Newcomer’s Orientation         | October 14, 2025   | Prepared                    | <ul><li>Async</li></ul>                          | 1       |
+| [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | Preparing                   | <ul><li>Async</li></ul>                          | 1       |
 
 { .block-language-dataview}
 

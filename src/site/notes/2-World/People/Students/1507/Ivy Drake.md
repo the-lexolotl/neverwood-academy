@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Ivy Drake.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Orc","char_gender":"Female","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[Cohort of 1507|Cohort of 1507]]","[[Witherbloom College|Witherbloom College]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"dg-publish":true,"dg-path":"World/People/Students/1507/Ivy Drake.md","permalink":"/world/people/students/1507/ivy-drake/","dgPassFrontmatter":true,"updated":"2025-10-03T14:25:42.000+01:00"}
+{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Ivy Drake.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Orc","char_gender":"Female","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[Cohort of 1507|Cohort of 1507]]","[[Witherbloom College|Witherbloom College]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"dg-publish":true,"dg-path":"World/People/Students/1507/Ivy Drake.md","permalink":"/world/people/students/1507/ivy-drake/","dgPassFrontmatter":true,"updated":"2025-10-13T19:06:00.000+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-This is the persons description. 
+Ivy Drake is a laid-back Witherbloom student and active member of the Horticulture Society, often found tending to plants or exploring the academy’s natural spaces. She enjoys spending her free time immersed in nature, and her friends know her for a relaxed, carefree attitude that includes smoking and experimenting with various substances. Despite her easy going demeanour, Ivy is passionate about plant life and is always eager to share her knowledge with fellow students.
 
 
 # Connections

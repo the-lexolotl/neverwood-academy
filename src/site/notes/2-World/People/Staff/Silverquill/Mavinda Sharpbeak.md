@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Price of Integrity.md|The Price of Integrity]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgPassFrontmatter":true,"updated":"2025-10-12T22:00:30.000+01:00"}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Price of Integrity.md|The Price of Integrity]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgPassFrontmatter":true,"updated":"2025-10-13T18:17:00.000+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-This is the persons description. 
+With feathers like brushed silver and eyes that gleam with knowing light, Professor Mavinda Sharpbeak embodies the poise and precision of Silverquill. As both the Professor of Radiance and Neverwood Academy’s guidance counsellor, she balances empathy with exacting standards. Her students speak of lectures that illuminate both mind and soul, though few escape her class without being challenged to rise above their limits. Mavinda’s kindness is steady, her expectations high, and her belief in her pupils unshakable.
 
 
 # Connections
