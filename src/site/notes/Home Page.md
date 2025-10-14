@@ -1,15 +1,15 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-13T23:11:42.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-14T13:15:50.000+01:00"}
 ---
 
 
-|        **[[2-World/Continents/Faerûn\|Faerûn]]**         |      [[2-World/Regions/Sword Coast\|Sword Coast]]      |         [[2-World/Hubs/Neverwinter\|Neverwinter]]          | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**  | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
-| :---------------------------: | :-----------------------: | :------------------------------: | :------------------------: | :------------------------------------------------------------------: |
-| ![[z_Assets/website/Faerûn.png\|200]] | ![[Sword Coast.png\|200]] | ![[Neverwinter square.png\|200]] | ![[Neverwood sq.png\|200]] |              ![[Pasted image 20250929163117.png\|200]]               |
+|          **[[2-World/Continents/Faerûn\|Faerûn]]**          |    [[2-World/Regions/Sword Coast\|Sword Coast]]     |       [[2-World/Hubs/Neverwinter\|Neverwinter]]       | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]** | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
+| :------------------------------: | :--------------------: | :-------------------------: | :-----------------------: | :------------------------------------------------------------------: |
+| ![z_Assets/website/Faerûn.png](/img/user/z_Assets/website/Faer%C3%BBn.png) | ![[Sword Coast.png\|]] | ![[Neverwinter square.png]] |   ![Neverwood sq.png](/img/user/z_Assets/website/Neverwood%20sq.png)   |                 ![Pasted image 20250929163117.png](/img/user/z_Assets/Pasted%20image%2020250929163117.png)                 |
 
-|    **[[1-Party/Group 1/Group 1\|Group 1]]**    |    **[[1-Party/Group 2/Group 2\|Group 2]]**    |    **[[1-Party/Group 3/Group 3\|Group 3]]**    |   **[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]**    | **[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]** |
-| :-------------------: | :-------------------: | :-------------------: | :-------------------------: | :---------------------: |
-| ![[Group 1.png\|200]] | ![[group 2.png\|200]] | ![[Group 3.png\|200]] | ![[class of 1508.png\|200]] |   ![[Staff.png\|200]]   |
+| **[[1-Party/Group 1/Group 1\|Group 1]]**  | **[[1-Party/Group 2/Group 2\|Group 2]]**  | **[[1-Party/Group 3/Group 3\|Group 3]]**  | **[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]** | **[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]** |
+| :--------------: | :--------------: | :--------------: | :--------------------: | :---------------------: |
+| ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) | ![Group 3.png](/img/user/z_Assets/character_art/Players/Group%203.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) |     ![Staff.png](/img/user/z_Assets/Staff.png)      |
 
 # Player Characters
 | File                                                        | Player   | Level | Class                                    | Gender | College     |
