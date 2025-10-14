@@ -1,12 +1,12 @@
 ---
-{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Pasted image 20250914220527.png","dg-publish":true,"dg-path":"World/Regions/Sword Coast.md","permalink":"/world/regions/sword-coast/","dgPassFrontmatter":true,"updated":"2025-10-14T00:15:30.000+01:00"}
+{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Pasted image 20250914220527.png","dg-publish":true,"dg-path":"World/Regions/Sword Coast.md","permalink":"/world/regions/sword-coast/","dgPassFrontmatter":true,"updated":"2025-10-14T00:34:34.000+01:00"}
 ---
 
 
 
 ![Pasted image 20250914220527.png](/img/user/z_Assets/Maps/Pasted%20image%2020250914220527.png)
 # General Info
-The **Sword Coast** is the storied northwestern shore of **[[2-World/Continents/Faerûn\|Faerûn]]**, stretching along the **Sea of Swords** from the great trade city of **Baldur’s Gate** in the south to the pirate-haunted port of **Luskan** in the north. It is one of the most iconic regions in the *Forgotten Realms*. This rugged land is a crossroads of civilisationation and wilderness — home to bustling cities, deep forests, forgotten ruins, and countless opportunities for adventure. The coast’s name, according to the traveller Volothamp Geddarm, comes from the dangers that stalk its roads and waves — “where every traveller should keep a sword close to hand.”
+The **Sword Coast** is the storied north western shore of **[[2-World/Continents/Faerûn\|Faerûn]]**, stretching along the **Sea of Swords** from the great trade city of **Baldur’s Gate** in the south to the pirate-haunted port of **Luskan** in the north. It is one of the most iconic regions in the *Forgotten Realms*. This rugged land is a crossroads of civilisation and wilderness — home to bustling cities, deep forests, forgotten ruins, and countless opportunities for adventure. The coast’s name, according to the traveller Volothamp Geddarm, comes from the dangers that stalk its roads and waves — “where every traveller should keep a sword close to hand.”
 
 # **Geography**
 The Sword Coast occupies a long, varied stretch of terrain bordered by the **Sea of Swords** to the west and the **Western Heartlands** and **The North** to the east. The climate is temperate and wet, with mild summers, cool winters, and frequent fog rolling in from the sea.
@@ -18,7 +18,7 @@ The Sword Coast occupies a long, varied stretch of terrain bordered by the **Sea
 * **The Dessarin Valley** – A lush inland region crossed by rivers and trade roads, home to farming villages and mysterious ruins.
 
 ## **Geographical Features**
-* **Sea of Swords** – The vast, storm-tossed ocean west of Faerûn, scattered with rocky islands and plagued by pirates.
+* **Sea of Swords** – The vast, storm-tossed ocean west of [[2-World/Continents/Faerûn\|Faerûn]], scattered with rocky islands and plagued by pirates.
 * **High Forest** – One of the last great elven woodlands of the North, filled with ancient magic and primeval beasts.
 * **Sword Mountains** – Jagged peaks sheltering monsters, hidden dwarven halls, and ancient ruins such as Gauntlgrym.
 * **Mere of Dead Men** – A vast, fetid swamp north of Waterdeep, haunted by undead and the ghosts of lost kingdoms.
@@ -135,11 +135,6 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
@@ -156,6 +151,11 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
+| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
 

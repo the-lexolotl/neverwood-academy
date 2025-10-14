@@ -36,8 +36,8 @@ The following people are members of this group.
 
 | File                                                                         | Race       | Gender | College     |
 | ---------------------------------------------------------------------------- | ---------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]       | Shadar-Kai | Male   | Silverquill |
 | [[2-World/People/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]       | Dryad      | Female | Witherbloom |
+| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]       | Shadar-Kai | Male   | Silverquill |
 | [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]   | Firbolg    | Female | Lorehold    |
 | [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female | Quandrix    |
 | [[2-World/People/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]] | Halfling   | Female | Quandrix    |
