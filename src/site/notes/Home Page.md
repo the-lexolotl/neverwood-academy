@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-14T13:21:46.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-15T23:09:30.000+01:00"}
 ---
 
 
@@ -39,26 +39,26 @@
 { .block-language-dataview}
 
 # Session Journals
-| File                                                                           | Title                              | Date               | Status   | Category                                   | Players |
-| ------------------------------------------------------------------------------ | ---------------------------------- | ------------------ | -------- | ------------------------------------------ | ------- |
-| [[1-Session Journals/2025-07-12 - Session 1\|2025-07-12 - Session 1]]       | Orientation Day                    | July 12, 2025      | Occurred | <ul><li>Main Story</li></ul>               | 8       |
-| [[1-Session Journals/2025-07-19 - Session 2\|2025-07-19 - Session 2]]       | Freshers Fair                      | July 19, 2025      | Occurred | <ul><li>Academy Event</li></ul>            | 7       |
-| [[1-Session Journals/2025-07-26 - Session 3\|2025-07-26 - Session 3]]       | Frog's the Word                    | July 26, 2025      | Occurred | <ul><li>Main Story</li></ul>               | 6       |
-| [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]       | The Mimic in the Dungeon           | July 30, 2025      | Occurred | <ul><li>Async</li></ul>                    | 1       |
-| [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]     | Harry's Library Heist              | July 31, 2025      | Occurred | <ul><li>Async</li></ul>                    | 1       |
-| [[1-Session Journals/2025-08-02 - Session 4\|2025-08-02 - Session 4]]       | Autumn Equinox                     | August 02, 2025    | Occurred | <ul><li>Academy Event</li></ul>            | 6       |
-| [[1-Session Journals/2025-08-09 - Session 5\|2025-08-09 - Session 5]]       | The Missing Professor              | August 09, 2025    | Occurred | <ul><li>Exams</li><li>Side Quest</li></ul> | 6       |
-| [[1-Session Journals/2025-08-16 - Session 6\|2025-08-16 - Session 6]]       | The Joy of Extradimensional Spaces | August 16, 2025    | Occurred | <ul><li>Side Quest</li></ul>               | 6       |
-| [[1-Session Journals/2025-08-23 - Session 7\|2025-08-23 - Session 7]]       | Cyinth's Dinner Party              | August 23, 2025    | Occurred | <ul><li>Downtime</li></ul>                 | 6       |
-| [[1-Session Journals/2025-08-30 - Session 8\|2025-08-30 - Session 8]]       | Back to the Mansion                | August 30, 2025    | Occurred | <ul><li>Side Quest</li></ul>               | 7       |
-| [[1-Session Journals/2025-09-06 - Session 9\|2025-09-06 - Session 9]]       | Heist the Records Room             | September 06, 2025 | Occurred | <ul><li>Main Story</li></ul>               | 7       |
-| [[1-Session Journals/2025-09-13 - Session 10\|2025-09-13 - Session 10]]     | Exams & Missing Cats               | September 13, 2025 | Occurred | <ul><li>Exams</li></ul>                    | 7       |
-| [[1-Session Journals/2025-09-20 - Session 11\|2025-09-20 - Session 11]]     | Miaukier Must Die (pt 1)           | September 20, 2025 | Occurred | <ul><li>Side Quest</li></ul>               | 5       |
-| [[1-Session Journals/2025-09-27 - Session 12\|2025-09-27 - Session 12]]     | Miaukier Must Die (pt 2)           | September 27, 2025 | Occurred | <ul><li>Side Quest</li></ul>               | 8       |
-| [[1-Session Journals/2025-10-04 - Session 13\|2025-10-04 - Session 13]]     | Work Hard, Play Harder             | October 04, 2025   | Occurred | <ul><li>Main Story</li></ul>               | 7       |
-| [[1-Session Journals/2025-10-11 - Session 14\|2025-10-11 - Session 14]]     | The Birds and the Bards            | October 11, 2025   | Occurred | <ul><li>Academy Event</li></ul>            | 6       |
-| [[1-Session Journals/2025-10-14 - Joel Async\|2025-10-14 - Joel Async]]     | The Newcomer’s Orientation         | October 14, 2025   | Occurred | <ul><li>Async</li></ul>                    | 1       |
-| [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| File                                                                           | Title                              | Date               | In Game Date                     | Status   | Category                                   | Players |
+| ------------------------------------------------------------------------------ | ---------------------------------- | ------------------ | -------------------------------- | -------- | ------------------------------------------ | ------- |
+| [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | 17th Nightal 1508                | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-14 - Joel Async\|2025-10-14 - Joel Async]]     | The Newcomer’s Orientation         | October 14, 2025   | 17th Nightal 1508                | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-11 - Session 14\|2025-10-11 - Session 14]]     | The Birds and the Bards            | October 11, 2025   | 16th - 20th Nightal 1508         | Occurred | <ul><li>Academy Event</li></ul>            | 6       |
+| [[1-Session Journals/2025-10-04 - Session 13\|2025-10-04 - Session 13]]     | Work Hard, Play Harder             | October 04, 2025   | 4th - 5th Nightal 1508           | Occurred | <ul><li>Main Story</li></ul>               | 7       |
+| [[1-Session Journals/2025-09-27 - Session 12\|2025-09-27 - Session 12]]     | Miaukier Must Die (pt 2)           | September 27, 2025 | 28th Uktar - 3rd Nightal 1508    | Occurred | <ul><li>Side Quest</li></ul>               | 8       |
+| [[1-Session Journals/2025-09-20 - Session 11\|2025-09-20 - Session 11]]     | Miaukier Must Die (pt 1)           | September 20, 2025 | 26 - 28th Uktar 1508             | Occurred | <ul><li>Side Quest</li></ul>               | 5       |
+| [[1-Session Journals/2025-09-13 - Session 10\|2025-09-13 - Session 10]]     | Exams & Missing Cats               | September 13, 2025 | 30th Marpenoth - 25th Uktar 1508 | Occurred | <ul><li>Exams</li></ul>                    | 7       |
+| [[1-Session Journals/2025-09-06 - Session 9\|2025-09-06 - Session 9]]       | Heist the Records Room             | September 06, 2025 | 29th Marpenoth 1508              | Occurred | <ul><li>Main Story</li></ul>               | 7       |
+| [[1-Session Journals/2025-08-30 - Session 8\|2025-08-30 - Session 8]]       | Back to the Mansion                | August 30, 2025    | 11th - 20th Marpenoth 1508       | Occurred | <ul><li>Side Quest</li></ul>               | 7       |
+| [[1-Session Journals/2025-08-23 - Session 7\|2025-08-23 - Session 7]]       | Cyinth's Dinner Party              | August 23, 2025    | 10th Marpenoth 1508              | Occurred | <ul><li>Downtime</li></ul>                 | 6       |
+| [[1-Session Journals/2025-08-16 - Session 6\|2025-08-16 - Session 6]]       | The Joy of Extradimensional Spaces | August 16, 2025    | 2nd - 6th Marpenoth 1508         | Occurred | <ul><li>Side Quest</li></ul>               | 6       |
+| [[1-Session Journals/2025-08-09 - Session 5\|2025-08-09 - Session 5]]       | The Missing Professor              | August 09, 2025    | 24th Eleint - 2nd Marpenoth 1508 | Occurred | <ul><li>Exams</li><li>Side Quest</li></ul> | 6       |
+| [[1-Session Journals/2025-08-02 - Session 4\|2025-08-02 - Session 4]]       | Autumn Equinox                     | August 02, 2025    | 21th Eleint 1508                 | Occurred | <ul><li>Academy Event</li></ul>            | 6       |
+| [[1-Session Journals/2025-07-31 - Ross Async\|2025-07-31 - Ross Async]]     | Harry's Library Heist              | July 31, 2025      | 17th Eleint 1508                 | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-07-30 - Cat Async\|2025-07-30 - Cat Async]]       | The Mimic in the Dungeon           | July 30, 2025      | 12th Eleint 1508                 | Occurred | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-07-26 - Session 3\|2025-07-26 - Session 3]]       | Frog's the Word                    | July 26, 2025      | 21th Eleasis - 10th Eleint 1508  | Occurred | <ul><li>Main Story</li></ul>               | 6       |
+| [[1-Session Journals/2025-07-19 - Session 2\|2025-07-19 - Session 2]]       | Freshers Fair                      | July 19, 2025      | 17th Eleasis 1508                | Occurred | <ul><li>Academy Event</li></ul>            | 7       |
+| [[1-Session Journals/2025-07-12 - Session 1\|2025-07-12 - Session 1]]       | Orientation Day                    | July 12, 2025      | 16th Eleasis 1508                | Occurred | <ul><li>Main Story</li></ul>               | 8       |
 
 { .block-language-dataview}
 

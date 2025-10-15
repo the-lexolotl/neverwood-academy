@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Administrative Misconduct","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-15","players":1,"OneLiner":"Vigilius gets interrogated for the student records heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Staff/Ricard Ruanad.md|Ricard Ruanad]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-15 - Kristy Async.md","permalink":"/session-journals/2025-10-15-kristy-async/","dgPassFrontmatter":true,"updated":"2025-10-15T21:27:28.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Administrative Misconduct","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-15","players":1,"OneLiner":"Vigilius gets interrogated for the student records heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Staff/Ricard Ruanad.md|Ricard Ruanad]]"],"dg-publish":true,"ingameDate":"17th Nightal 1508","dg-path":"Session Journals/2025-10-15 - Kristy Async.md","permalink":"/session-journals/2025-10-15-kristy-async/","dgPassFrontmatter":true,"updated":"2025-10-15T23:08:30.000+01:00"}
 ---
 
 
@@ -12,7 +12,10 @@
 
 # Session Overview
 
-**Session Status:** Occurred
+**Session Status:**  Occurred
+
+**In Game Date:** 17th Nightal 1508
+
 ## Group Cup Points
 
 | Group 1 | Group 2 | Group 3 |

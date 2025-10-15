@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Newcomer’s Orientation","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-14","players":1,"OneLiner":"Vith arrives at Neverwood Academy as a transfer student, exploring the campus, meeting Zoei, settling into his dorm, and taking his first steps toward the Mage Tower team.","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 3/Vith Pahlok.md|Vith Pahlok]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Staff/Zoei.md|Zoei]]","[[2-World/People/Students/1508/Lysander Frostbane.md|Lysander Frostbane]]","[[2-World/People/Students/1507/Urzmaktok Grojsh.md|Urzmaktok Grojsh]]","[[Calypso Virellis|Calypso Virellis]]","[[2-World/People/Students/1507/Ivy Drake.md|Ivy Drake]]","[[2-World/People/Students/1508/Elandra Stormwhisper.md|Elandra Stormwhisper]]","[[2-World/People/Staff/Shtomp.md|Shtomp]]","[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-14 - Joel Async.md","permalink":"/session-journals/2025-10-14-joel-async/","dgPassFrontmatter":true,"updated":"2025-10-15T17:51:18.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Newcomer’s Orientation","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-14","players":1,"OneLiner":"Vith arrives at Neverwood Academy as a transfer student, exploring the campus, meeting Zoei, settling into his dorm, and taking his first steps toward the Mage Tower team.","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 3/Vith Pahlok.md|Vith Pahlok]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Staff/Zoei.md|Zoei]]","[[2-World/People/Students/1508/Lysander Frostbane.md|Lysander Frostbane]]","[[2-World/People/Students/1507/Urzmaktok Grojsh.md|Urzmaktok Grojsh]]","[[Calypso Virellis|Calypso Virellis]]","[[2-World/People/Students/1507/Ivy Drake.md|Ivy Drake]]","[[2-World/People/Students/1508/Elandra Stormwhisper.md|Elandra Stormwhisper]]","[[2-World/People/Staff/Shtomp.md|Shtomp]]","[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]"],"dg-publish":true,"ingameDate":"17th Nightal 1508","dg-path":"Session Journals/2025-10-14 - Joel Async.md","permalink":"/session-journals/2025-10-14-joel-async/","dgPassFrontmatter":true,"updated":"2025-10-15T23:08:04.000+01:00"}
 ---
 
 
@@ -13,7 +13,10 @@ None
 
 # Session Overview
 
-**Session Status:** Occurred
+**Session Status:**  Occurred
+
+**In Game Date:** 17th Nightal 1508
+
 ## Group Cup Points
 
 | Group 1 | Group 2 | Group 3 |
