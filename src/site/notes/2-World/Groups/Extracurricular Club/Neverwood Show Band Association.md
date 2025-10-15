@@ -44,5 +44,6 @@ The following people are members of this group.
 | [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                   | Tiefling  | Female | None        |
+| [[2-World/People/Calypso Virellis\|Calypso Virellis]]                                         | Gorgon    | Female | Witherbloom |
 
 { .block-language-dataview}

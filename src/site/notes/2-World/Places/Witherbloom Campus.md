@@ -44,6 +44,7 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                         | Treant        | Female     | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                               | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                     | Dryad         | Female     | Professor of Growth |
+| [[2-World/People/Calypso Virellis\|Calypso Virellis]]                               | Gorgon        | Female     | Student             |
 
 { .block-language-dataview}
 
