@@ -29,6 +29,7 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Students/1507/Pebble\|Pebble]]                                     | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]           | Elf           | Male       | Student             |
 | [[2-World/People/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                 | Orc           | Male       | Student             |
+| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                 | Gorgon        | Female     | Student             |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                           | Half-Bullywug | Male       | Alumni              |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                       | Bullywug      | Male       | Alumni              |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                         | Cat           | Male       | Other               |
@@ -44,7 +45,6 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                         | Treant        | Female     | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                               | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                     | Dryad         | Female     | Professor of Growth |
-| [[2-World/People/Calypso Virellis\|Calypso Virellis]]                               | Gorgon        | Female     | Student             |
 
 { .block-language-dataview}
 
