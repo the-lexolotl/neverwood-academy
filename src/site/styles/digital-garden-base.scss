@@ -20,7 +20,7 @@ img {
 .content {
     max-width: 900px;
     margin: auto;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.2;
     margin-top: 90px;
     position: relative;
@@ -69,15 +69,15 @@ ul.task-list {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 350px;
+    max-width: 325px;
 
     .graph {
-        width: 300px;
-        min-height: 300px;
+        width: 280px;
+        min-height: 280px;
 
         #link-graph {
-            width: 300px;
-            height: 300px;
+            width: 280px;
+            height: 280px;
         }
 
         #graph-fs-btn {
@@ -269,7 +269,7 @@ ul.task-list {
         transform: none;
         border-radius: 4px;
         margin-top: 50px;
-        max-width: 700px;
+        max-width: 680px;
         margin: auto;
         border-radius: 0;
         border-top: 2px solid var(--background-secondary);
