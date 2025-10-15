@@ -27,13 +27,14 @@
 { .block-language-dataview}
 
 # Quests
-| File                                                                       | Status      | Obtained           | Quest Giver                                                          | Location                                                 |
-| -------------------------------------------------------------------------- | ----------- | ------------------ | -------------------------------------------------------------------- | -------------------------------------------------------- |
-| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | In Progress | October 11, 2025   | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]           | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Whos goo\|Whos goo]]                                   | In Progress | July 12, 2025      | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]               | Complete    | September 13, 2025 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]       | Complete    | August 23, 2025    | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Quests/The Missing Professor\|The Missing Professor]]         | Complete    | August 09, 2025    | \-                                                                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| File                                                                       | Status      | Obtained           | Quest Giver                                                                  | Location                                                 |
+| -------------------------------------------------------------------------- | ----------- | ------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | Not Started | October 15, 2025   | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | In Progress | October 11, 2025   | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Whos goo\|Whos goo]]                                   | In Progress | July 12, 2025      | \-                                                                           | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]               | Complete    | September 13, 2025 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]         | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]       | Complete    | August 23, 2025    | \-                                                                           | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Quests/The Missing Professor\|The Missing Professor]]         | Complete    | August 09, 2025    | \-                                                                           | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 
 { .block-language-dataview}
 
@@ -57,7 +58,7 @@
 | [[1-Session Journals/2025-10-04 - Session 13\|2025-10-04 - Session 13]]     | Work Hard, Play Harder             | October 04, 2025   | Occurred | <ul><li>Main Story</li></ul>               | 7       |
 | [[1-Session Journals/2025-10-11 - Session 14\|2025-10-11 - Session 14]]     | The Birds and the Bards            | October 11, 2025   | Occurred | <ul><li>Academy Event</li></ul>            | 6       |
 | [[1-Session Journals/2025-10-14 - Joel Async\|2025-10-14 - Joel Async]]     | The Newcomer’s Orientation         | October 14, 2025   | Occurred | <ul><li>Async</li></ul>                    | 1       |
-| [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | Prepared | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | Occurred | <ul><li>Async</li></ul>                    | 1       |
 
 { .block-language-dataview}
 
