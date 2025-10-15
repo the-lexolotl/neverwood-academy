@@ -13,4 +13,4 @@
 
 ---
 
-![Winter Menu 1508.png](/img/user/z_Assets/Winter%20Menu%201508.png)
+![Winter Menu 1508.png](/img/user/z_Assets/Posters/Winter%20Menu%201508.png)

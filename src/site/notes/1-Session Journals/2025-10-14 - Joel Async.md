@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Newcomer’s Orientation","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-14","players":1,"OneLiner":"Vith arrives at Neverwood Academy as a transfer student, exploring the campus, meeting Zoei, settling into his dorm, and taking his first steps toward the Mage Tower team.","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 3/Vith Pahlok.md|Vith Pahlok]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Staff/Zoei.md|Zoei]]","[[2-World/People/Students/1508/Lysander Frostbane.md|Lysander Frostbane]]","[[2-World/People/Students/1507/Urzmaktok Grojsh.md|Urzmaktok Grojsh]]","[[Calypso Virellis|Calypso Virellis]]","[[2-World/People/Students/1507/Ivy Drake.md|Ivy Drake]]","[[2-World/People/Students/1508/Elandra Stormwhisper.md|Elandra Stormwhisper]]","[[2-World/People/Staff/Shtomp.md|Shtomp]]","[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-14 - Joel Async.md","permalink":"/session-journals/2025-10-14-joel-async/","dgPassFrontmatter":true,"updated":"2025-10-15T02:20:44.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Newcomer’s Orientation","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-14","players":1,"OneLiner":"Vith arrives at Neverwood Academy as a transfer student, exploring the campus, meeting Zoei, settling into his dorm, and taking his first steps toward the Mage Tower team.","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 3/Vith Pahlok.md|Vith Pahlok]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","[[2-World/People/Staff/Zoei.md|Zoei]]","[[2-World/People/Students/1508/Lysander Frostbane.md|Lysander Frostbane]]","[[2-World/People/Students/1507/Urzmaktok Grojsh.md|Urzmaktok Grojsh]]","[[Calypso Virellis|Calypso Virellis]]","[[2-World/People/Students/1507/Ivy Drake.md|Ivy Drake]]","[[2-World/People/Students/1508/Elandra Stormwhisper.md|Elandra Stormwhisper]]","[[2-World/People/Staff/Shtomp.md|Shtomp]]","[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-14 - Joel Async.md","permalink":"/session-journals/2025-10-14-joel-async/","dgPassFrontmatter":true,"updated":"2025-10-15T17:51:18.000+01:00"}
 ---
 
 
@@ -29,7 +29,7 @@ None
 
 A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage and certain that the world already knows his name. His first day, however, proves that the academy has a way of humbling even the most confident of arrivals. From charming bartenders to explosive quills, Vith’s introduction to life at Neverwood is nothing short of spectacular.
 
-## Arrival at Neverwinter Station
+### Arrival at Neverwinter Station
 
 * The story begins at Neverwinter Train Station, bustling with travellers and students alike.  
 * Among the crowd stands a Campus Automaton (Model M7) in a trench coat and fedora, holding a sign: *“Vith – Neverwood Academy.”*  
@@ -38,7 +38,7 @@ A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage 
 * Through the faint glow, Vith glimpses the towering spires and arcane silhouettes of Neverwood Academy.  
 * The automaton welcomes him to campus and hands him a letter sealed in gold wax — a personal welcome from Head Teacher [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]] (though Vith grumbles that silver would’ve been classier).
 
-## A Satyr’s Welcome
+### A Satyr’s Welcome
 
 * Vith is soon greeted by [[2-World/People/Staff/Zoei\|Zoei]], a cheerful Satyr and the Student Life Administrator.  
 * She gives him a tour of the [[2-World/Places/Central Campus\|Central Campus]], explaining the use of the Campus Guide automatons.  
@@ -46,7 +46,7 @@ A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage 
 * Vith visits the Hall of Oracle, where the glowing Snarl greets him and wishes him luck in his studies.  
 * When they reunite, Zoei gives Vith a brass dorm key, explains how the campus teleporter works, and escorts him to his room before departing.
 
-## An Evening at Bow’s End Tavern
+### An Evening at Bow’s End Tavern
 
 * Seeking entertainment, Vith visits the [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] that night.  
 * He purchases a bottle of Mage Mead and charms the bartender, [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]], who flirts back and serves him a free Voidlight Lager.  
@@ -60,13 +60,13 @@ After a few more drinks, Vith heads back to his dorm. Lysander follows him to th
 * Irritated but unbothered, Vith gets another drink from [[2-World/People/Students/1508/Lysander Frostbane\|Lysander]], who later follows him to the teleporter. Vith declines her entry to his dorm.  
 * He collapses on the floor and falls asleep.
 
-## A Midnight Discovery
+### A Midnight Discovery
 
 * In the middle of the night, Vith awakens to a faint glow beneath his desk.  
 * Reaching under, he finds a Neverwood pendant, slightly warm to the touch.  
 * After cooling it with his icy breath, he tosses it back under the desk and returns to sleep.
 
-## The Next Morning: Try-outs and Classes
+### The Next Morning: Try-outs and Classes
 
 * Vith’s peace is shattered by a loud Campus Guide automaton, which explains his day’s schedule:  
 	* Mage Tower Try-outs with [[2-World/People/Staff/Shtomp\|Coach Shtomp]]  
@@ -78,7 +78,7 @@ After a few more drinks, Vith heads back to his dorm. Lysander follows him to th
 	* The coach remarks that while unimpressive, his abilities *“can be refined.”*  
 	* [[2-World/People/Staff/Zoei\|Zoei]], ever encouraging, insists she’s *“very impressed.”*
 
-## Arcane Grammar
+### Arcane Grammar
 
 * [[2-World/People/Staff/Zoei\|Zoei]] brings Vith to [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] on [[2-World/Places/Silverquill Campus\|Silverquill Campus]] for his first class.  
 * There, he meets Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]], a dignified Owlin who also serves as the Guidance Counsellor.  
@@ -87,7 +87,7 @@ After a few more drinks, Vith heads back to his dorm. Lysander follows him to th
 * [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Professor Sharpbeak]], mildly amused, comments on the incident before continuing her lecture.  
 * After class, Zoei meets Vith again for coffee on a bench, reflecting with him on his chaotic but promising first day.
 
-## Ongoing Threads
+### Ongoing Threads
 
 * The Neverwood Pendant – A mysterious glowing charm found in Vith’s dorm. Who left it there, and what is its purpose?  
 * Lysander’s Interest – The bartender seemed more than casually charmed. Is her attraction genuine, or magically influenced?  
