@@ -18,10 +18,10 @@ img {
 }
 
 .content {
-    max-width: 900px;
+    max-width: 700px;
     margin: auto;
-    font-size: 17px;
-    line-height: 1.2;
+    font-size: 18px;
+    line-height: 1.5;
     margin-top: 90px;
     position: relative;
 
@@ -69,15 +69,15 @@ ul.task-list {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 325px;
+    max-width: 350px;
 
     .graph {
-        width: 280px;
-        min-height: 280px;
+        width: 320px;
+        min-height: 320px;
 
         #link-graph {
-            width: 280px;
-            height: 280px;
+            width: 320px;
+            height: 320px;
         }
 
         #graph-fs-btn {
@@ -90,8 +90,8 @@ ul.task-list {
         left: 50%;
         height: calc(100vmin - 100px);
         width: calc(100vmin - 100px);
-        min-height: 300px;
-        min-width: 300px;
+        min-height: 350px;
+        min-width: 350px;
         transform: translate(-50%, -50%);
         z-index: 9999;
         display: block;
@@ -269,7 +269,7 @@ ul.task-list {
         transform: none;
         border-radius: 4px;
         margin-top: 50px;
-        max-width: 680px;
+        max-width: 700px;
         margin: auto;
         border-radius: 0;
         border-top: 2px solid var(--background-secondary);
@@ -311,7 +311,7 @@ ul.task-list {
     background-color: var(--background-secondary);
     color: var(--text-muted);
     overflow-y: auto;
-    width: 275px;
+    width: 250px;
     h1 {
         font-size: 32px !important;
     }
