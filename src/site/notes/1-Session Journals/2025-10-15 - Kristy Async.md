@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Administrative Misconduct","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-15","players":1,"OneLiner":"Vigilius gets interrogated for the student records heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Staff/Ricard Ruanad.md|Ricard Ruanad]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-15 - Kristy Async.md","permalink":"/session-journals/2025-10-15-kristy-async/","dgPassFrontmatter":true,"updated":"2025-10-15T20:56:12.000+01:00"}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Administrative Misconduct","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-15","players":1,"OneLiner":"Vigilius gets interrogated for the student records heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 1/Vigilius Palamas.md|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","[[2-World/People/Staff/Ricard Ruanad.md|Ricard Ruanad]]"],"dg-publish":true,"dg-path":"Session Journals/2025-10-15 - Kristy Async.md","permalink":"/session-journals/2025-10-15-kristy-async/","dgPassFrontmatter":true,"updated":"2025-10-15T21:27:28.000+01:00"}
 ---
 
 
@@ -54,7 +54,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 * He explains that he and several fellow first-years had broken in to learn more about a **student who was expelled**, hoping the information might explain recent strange events.  - see [[1-Session Journals/2025-09-06 - Session 9\|2025-09-06 - Session 9]]
 * He clarifies that the plan wasn’t originally his, though he takes responsibility for following through.  
 * A natural 20 on Persuasion turns the tide in his favour — his sincerity clearly moves Mavinda.  
-* When asked to name the others, Vigilius reluctantly lists **Lyra Everlight**, **Cyinth Agora**, **Harry Blackstone**, **Milfjord Goodleaf** and **Glue** (surname forgotten).
+* When asked to name the others, Vigilius reluctantly lists [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]], [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]] and [[1-Party/Group 1/Guiloip Guhloo\|Glue]] (surname forgotten).
 
 ### Judgment and Punishment
 
