@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Points of Interest/Neverwood Academy/Widdershins Hall.md|Widdershins Hall]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-15","questStatus":"Not Started","questGiver":"[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-15 - Kristy Async.md|2025-10-15 - Kristy Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Price of Integrity.md","permalink":"/world/quests/the-price-of-integrity/","dgPassFrontmatter":true,"updated":"2025-10-15T20:56:58.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Points of Interest/Neverwood Academy/Widdershins Hall.md|Widdershins Hall]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-15","questStatus":"Not Started","questGiver":"[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-15 - Kristy Async.md|2025-10-15 - Kristy Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Price of Integrity.md","permalink":"/world/quests/the-price-of-integrity/","dgPassFrontmatter":true,"updated":"2025-10-15T21:33:44.000+01:00"}
 ---
 
 
@@ -37,7 +37,10 @@ Vigilius must decide who — and what — he serves.
 
 The following people are associated with this quest.
 
-| File | Race | Gender | Role |
-| ---- | ---- | ------ | ---- |
+| File                                                                         | Race       | Gender | Role                  |
+| ---------------------------------------------------------------------------- | ---------- | ------ | --------------------- |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                     | Human      | Male   | Deputy Head Teacher   |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin      | Female | Professor of Radiance |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn | Male   | Player                |
 
 { .block-language-dataview}
