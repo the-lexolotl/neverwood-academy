@@ -183,15 +183,15 @@ img { max-width: 100%; border-radius: 8px; }
 
 /* --- Make right sidebar smaller --- */
 .sidebar {
-    max-width: 250px !important; /* Reduced from 350px */
+    max-width: 300px !important; /* Reduced from 350px */
 }
 
 .sidebar .graph {
-    width: 240px !important; /* Reduced from 320px */
-    min-height: 240px !important; /* Reduced from 320px */
+    width: 270px !important; /* Reduced from 320px */
+    min-height: 270px !important; /* Reduced from 320px */
 }
 
 .sidebar .graph #link-graph {
-    width: 240px !important;
-    height: 240px !important;
+    width: 270px !important;
+    height: 270px !important;
 }
