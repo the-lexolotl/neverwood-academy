@@ -171,9 +171,9 @@ img { max-width: 100%; border-radius: 8px; }
     width: 100%;
     height: 80px; /* Adjust height as needed */
     background-image: url('/img/user/z_Assets/Light tran logo.png');
-    background-size: cover; /* or 'contain' depending on your preference */
+    background-size: contain; /* or 'contain' depending on your preference */
     background-position: center;
     background-repeat: no-repeat;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     border-radius: 8px; /* Optional: rounds the corners */
 }
