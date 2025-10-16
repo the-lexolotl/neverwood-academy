@@ -236,3 +236,11 @@ img { max-width: 100%; border-radius: 8px; }
     scrollbar-width: thin;
     scrollbar-color: #5c5ca0 #323244; /* thumb color, track color */
 }
+/* --- Move graph higher in sidebar --- */
+.sidebar {
+    top: 50px !important; /* Reduced from 75px */
+}
+
+.sidebar .graph {
+    margin-top: -10px !important; /* Pulls graph up within sidebar */
+}
