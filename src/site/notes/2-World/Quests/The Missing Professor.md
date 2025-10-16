@@ -40,13 +40,13 @@ The following people are associated with this quest.
 
 | File                                                                | Race            | Gender | Role               |
 | ------------------------------------------------------------------- | --------------- | ------ | ------------------ |
+| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
+| [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
+| [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[2-World/People/Other/Coriander\|Coriander]]                    | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Cumin\|Cumin]]                            | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandria\|Fistandria]]                  | Human           | Female | Mage               |
 | [[2-World/People/Other/Freyot\|Freyot]]                          | Human           | Male   | Mage               |
-| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
-| [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
-| [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[1-Party/Group 1/Atudark\|Atudark]]                             | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Dragonborn      | Male   | Player             |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                   | Aarakocra       | Female | Player             |

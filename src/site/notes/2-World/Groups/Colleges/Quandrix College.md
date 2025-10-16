@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.4-quandrix-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":"John Doe","founder":["Tanazir Quandrix"],"deans":["Kianne","Imbraham"],"staff":["Adrix","Nev","Deekah","Bildra Forheim","Clem Greenthumb","Jazzack Quickfood","Ronald Rothton","Rixy"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Quandrix College.md","permalink":"/world/groups/colleges/quandrix-college/","dgPassFrontmatter":true,"updated":"2025-10-04T00:45:18.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.4-quandrix-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":"John Doe","founder":["Tanazir Quandrix"],"deans":["Kianne","Imbraham"],"staff":["Adrix","Nev","Deekah","Bildra Forheim","Clem Greenthumb","Jazzack Quickfood","Ronald Rothton","Rixy"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Quandrix College.md","permalink":"/world/groups/colleges/quandrix-college/","dgPassFrontmatter":true,"updated":"2025-10-16T20:24:58.000+01:00"}
 ---
 
 
@@ -29,10 +29,6 @@ The perspective of theory focuses on the abstract realms of conjecture and possi
 
 # Membership
 To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
-
-# GM Notes
-
-Make notes of what you need to track in the group here. 
 
 
 # People

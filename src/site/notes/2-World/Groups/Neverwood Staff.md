@@ -85,11 +85,11 @@ The following people are members of this group.
 | [[2-World/People/Staff/Silverquill/Nils\|Nils]]                                      | Human                  | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                        | Kenku                  | Non-binary | Silverquill | Professor of Radiance      |
-| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                      | Human                  | Male       | Silverquill | Professor of Shadow        |
-| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                    | Human                  | Male       | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Witherbloom/Lissette\|Lissette]]                              | Human                  | Female     | Witherbloom | College Dean               |
 | [[2-World/People/Staff/Witherbloom/Valentin\|Valentin]]                              | Vampire                | Male       | Witherbloom | College Dean               |
 | [[2-World/People/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]      | Dragon                 | Female     | Witherbloom | Founder Dragon             |
@@ -98,9 +98,9 @@ The following people are members of this group.
 | [[2-World/People/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]            | Dragonborn             | Male       | Witherbloom | Professor of Decay         |
 | [[2-World/People/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                | Elf                    | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                | Firbolg                | Male       | Witherbloom | Professor of Growth        |
-| [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                          | Treant                 | Female     | Witherbloom | Professor of Growth        |
-| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                      | Dryad                  | Female     | Witherbloom | Professor of Growth        |
+| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
+| [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                          | Treant                 | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                    | Human                  | Male       | Witherbloom | Veteran                    |
 
 { .block-language-dataview}

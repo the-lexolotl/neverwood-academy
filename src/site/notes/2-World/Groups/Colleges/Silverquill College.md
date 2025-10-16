@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Silverquill College.md","permalink":"/world/groups/colleges/silverquill-college/","dgPassFrontmatter":true,"updated":"2025-10-04T00:45:30.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Silverquill College.md","permalink":"/world/groups/colleges/silverquill-college/","dgPassFrontmatter":true,"updated":"2025-10-16T20:25:22.000+01:00"}
 ---
 
 
@@ -30,10 +30,6 @@ The college’s perspective of shadow focuses on the power of language to stab, 
 # Membership
 To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
 
 # People
 
@@ -49,11 +45,11 @@ The following people are members of this group.
 | [[2-World/People/Staff/Silverquill/Nils\|Nils]]                               | Human      | Male       | Professor of Radiance |
 | [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]           | Half-Elf   | Female     | Professor of Radiance |
 | [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                 | Kenku      | Non-binary | Professor of Radiance |
-| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
-| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Witherbloom College.md","permalink":"/world/groups/colleges/witherbloom-college/","dgPassFrontmatter":true,"updated":"2025-10-04T00:45:44.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Witherbloom College.md","permalink":"/world/groups/colleges/witherbloom-college/","dgPassFrontmatter":true,"updated":"2025-10-16T20:25:40.000+01:00"}
 ---
 
 
@@ -30,10 +30,6 @@ The philosophy of the vein (decay) focuses on the inevitability of death and dec
 # Membership
 To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
 
 # People
 
@@ -52,9 +48,9 @@ The following people are members of this group.
 | [[2-World/People/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]       | Dragonborn    | Male       | Professor of Decay  |
 | [[2-World/People/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]           | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]           | Firbolg       | Male       | Professor of Growth |
-| [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                     | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                           | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                 | Dryad         | Female     | Professor of Growth |
+| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                           | Loxodon       | Male       | Professor of Growth |
+| [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                     | Treant        | Female     | Professor of Growth |
 | [[2-World/People/Students/1507/Francis Farlight\|Francis Farlight]]             | Human         | Male       | Student             |
 | [[2-World/People/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                 | Tiefling      | Male       | Student             |
 | [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]                           | Half-Orc      | Female     | Student             |

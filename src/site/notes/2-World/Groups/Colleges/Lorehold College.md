@@ -1,76 +1,35 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgPassFrontmatter":true,"updated":"2025-10-04T00:44:52.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgPassFrontmatter":true,"updated":"2025-10-16T20:24:20.000+01:00"}
 ---
 
 
 # General
-hidden
-# Hierarchy
 
-`BUTTON[button_person]` List important relationships here. 
+**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
 
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:1182416)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:77:24)</pre>mermaid\nflowchart LR\n" +
+**Category:** College
+### Values
+Lorehold College is devoted to the study of history, broadly understood to include the various aspects of culture, behavior, and social relationships that shape historical events. Its studies include various subdivisions of history (military history, social history, cultural history), archaeology, anthropology, psychology, sociology, religion, and economics. It overlaps with Prismari College in the field of art history, with some students splitting their studies between the two colleges. Lorehold mages use their magic to unearth secrets and share illumination.
 
-  // Founder node
-  (founder
-    ? `L[${founder}]:::internal-link\n`
-    : "") +
+### Order and Chaos
+Lorehold’s two deans carry the titles Dean of Order and Dean of Chaos, as order versus chaos encapsulates the fundamental conflict at the heart of Lorehold’s philosophy. This conflict revolves around the forces that underlie and drive history. Is the course of time driving toward a well-ordered ideal state or slowly devolving into chaos? Are deep patterns hidden in historical texts, or is time a series of coincidence and happenstance?
+The perspective of order emphasizes the structures that pull people together—law, religion, economics, education, social class, and so on—and how those structures drive historical events. Order focuses on systemic changes and the actions of people collectively.
+The perspective of chaos, by contrast, emphasizes individual actions, personal bonds of families and friends, and the disruptive force of lone, passionate people in history. Scholars of chaos gravitate toward reckless discovery and the spirit of adventure in their research of the past—the essence and emotion of history over precision or procedure.
 
-  // Officers group
-  (deans.length > 0
-    ? `OG[Deans]\nL --> OG\n` +
-      deans.map((o,i) =>
-        `O${i+1}[${o}]:::internal-link\nOG --> O${i+1}\n`
-      ).join("")
-    : "") +
+# Goals
 
-  // Members group
-  (staff.length > 0
-    ? `MG[Staff]\n${deans.length ? "OG" : "L"} --> MG\n` +
-      staff.map((m,i) =>
-        `M${i+1}[${m}]:::internal-link\nMG --> M${i+1}\n`
-      ).join("")
-    : "") +
+> [!NOTE]+ Public Goals
+> - [ ] Achieve This
+> - [ ] Achieve That
 
-  // Initiates group
-  (students.length > 0
-    ? `IG[Students]\n${staff.length ? "MG" : (deans.length ? "OG" : "L")} --> IG\n` +
-      students.map((n,i) =>
-        `I${i+1}[${n}]:::internal-link\nIG --> I${i+1}\n`
-      ).join("")
-    : "") +
+> [!NOTE]- Private Goals
+> - [ ] Achieve This
+> - [ ] Achieve That
 
-  "```"
-)
-```
+# Membership
+To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
 
 
-> [!NOTE]- Relationship Config - Enter name of People Notes
-> | Founder    | Deans    | 
-> | --- | --- | 
-> | `INPUT[list:founder]`    | `INPUT[list:deans]`    | 
-> 
-> | Staff    | Students    | 
-> | --- | --- | 
-> | `INPUT[list:staff]`    | `INPUT[list:students]`    |
-
-# Enemies/Allies
-**Enemies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyEnemies]`
- 
-
-**Allies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyAllies]`
- 
-:::
 # People
 
 The following people are members of this group.  
