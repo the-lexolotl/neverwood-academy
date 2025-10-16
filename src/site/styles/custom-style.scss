@@ -151,11 +151,11 @@ img { max-width: 100%; border-radius: 8px; }
 
 /* --- Reduce spacing between file tree and main content --- */
 .filetree-sidebar {
-    width: 200px !important; /* Reduce sidebar width if desired */
+    width: 250px !important; /* Reduce sidebar width if desired */
 }
 
 .content {
-    margin-left: 220px !important; /* Adjust to match sidebar width + desired gap */
+    margin-left: 300px !important; /* Adjust to match sidebar width + desired gap */
 }
 
 @media (max-width: 1400px) {
