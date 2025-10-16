@@ -148,24 +148,18 @@ img { max-width: 100%; border-radius: 8px; }
 * {
     transition: color 0.2s ease, background-color 0.2s ease;
 }
-/* --- Reduce sidebar-to-content spacing --- */
-.app-container, .workspace-split.mod-root {
-    gap: 0.5em !important; /* Adjust this value - try 0, 0.25em, 0.5em, etc. */
+
+/* --- Reduce spacing between file tree and main content --- */
+.filetree-sidebar {
+    width: 200px !important; /* Reduce sidebar width if desired */
 }
 
-.workspace-leaf-content {
-    padding-left: 0.5em !important; /* Reduces left padding on main content */
+.content {
+    margin-left: 220px !important; /* Adjust to match sidebar width + desired gap */
 }
 
-.nav-folder-children, .tree-item-children {
-    padding-right: 0.5em !important; /* Reduces right padding on file tree */
-}
-
-/* If using Digital Garden's specific classes */
-.sidebar, .file-tree, .nav-files-container {
-    margin-right: 0.5em !important;
-}
-
-.main-content, .markdown-preview-view, .content-container {
-    margin-left: 0.5em !important;
+@media (max-width: 1400px) {
+    .content {
+        margin-left: auto !important; /* Reset on smaller screens */
+    }
 }
