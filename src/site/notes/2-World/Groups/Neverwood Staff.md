@@ -5,7 +5,7 @@
 
 # General
 
-![Staff.png](/img/user/z_Assets/Staff.png)
+![Staff.png](/img/user/z_Assets/website/Staff.png)
 
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
 
@@ -80,16 +80,16 @@ The following people are members of this group.
 | [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                          | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]              | Owlin                  | Female     | Silverquill | College Dean               |
 | [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]        | Dragon                 | Male       | Silverquill | Founder Dragon             |
+| [[2-World/People/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]                  | Leonin                 | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]            | Owlin                  | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Nils\|Nils]]                                      | Human                  | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                        | Kenku                  | Non-binary | Silverquill | Professor of Radiance      |
-| [[2-World/People/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]                  | Leonin                 | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                      | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                    | Human                  | Male       | Silverquill | Professor of Shadow        |
-| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Witherbloom/Lissette\|Lissette]]                              | Human                  | Female     | Witherbloom | College Dean               |
 | [[2-World/People/Staff/Witherbloom/Valentin\|Valentin]]                              | Vampire                | Male       | Witherbloom | College Dean               |
 | [[2-World/People/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]      | Dragon                 | Female     | Witherbloom | Founder Dragon             |
@@ -99,8 +99,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                | Elf                    | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                | Firbolg                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                      | Dryad                  | Female     | Witherbloom | Professor of Growth        |
-| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                          | Treant                 | Female     | Witherbloom | Professor of Growth        |
+| [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                    | Human                  | Male       | Witherbloom | Veteran                    |
 
 { .block-language-dataview}

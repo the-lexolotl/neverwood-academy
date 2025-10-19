@@ -37,6 +37,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Larine Arneza\|Larine Arneza]]                                           | Human           | Female | Quandrix    |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                                                      | Variant Aasimar | Female | Silverquill |
 | [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling        | Male   | Prismari    |
+| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]]                                            | Eladrin         | Female | Witherbloom |
 | [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                                                 | Dryad           | Male   | Witherbloom |
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                                                | Halfling        | Male   | Witherbloom |
 | [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn          | Female | Witherbloom |

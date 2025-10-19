@@ -12,4 +12,4 @@
 
 ---
 
-![Xvart Info Sheets.png](/img/user/z_Assets/Xvart%20Info%20Sheets.png)
+![Xvart Info Sheets.png](/img/user/z_Assets/Posters/Xvart%20Info%20Sheets.png)

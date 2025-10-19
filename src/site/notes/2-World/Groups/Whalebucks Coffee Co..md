@@ -7,7 +7,7 @@
 
 
 
-![Whalebucks (2).png](/img/user/z_Assets/Whalebucks%20(2).png)
+![Whalebucks (2).png](/img/user/z_Assets/website/Whalebucks%20(2).png)
 
 # General
 

@@ -84,8 +84,8 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | File                                                     |
 | -------------------------------------------------------- |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]         |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]]             |
 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]             |
 
 { .block-language-dataview}
 
@@ -129,6 +129,11 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 
 | File                                                                                                                    | Category             |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
@@ -151,11 +156,6 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
 
