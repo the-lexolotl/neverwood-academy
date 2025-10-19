@@ -1,10 +1,17 @@
 ---
-{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":"Rogue","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"char_college":"Witherbloom","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-path":"Party/Group 3/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/","dgPassFrontmatter":true,"updated":"2025-10-19T08:18:38.000+01:00"}
+{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":"Rogue","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"char_college":"Witherbloom","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-path":"Party/Group 3/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/","dgPassFrontmatter":true,"updated":"2025-10-19T08:34:56.000+01:00"}
 ---
 
 
-![Marionette Spring.png](/img/user/z_Assets/character_art/Players/Marionette%20Spring.png)![Marionette Summer.png](/img/user/z_Assets/character_art/Players/Marionette%20Summer.png)
-![Marionette Autumn.png](/img/user/z_Assets/character_art/Players/Marionette%20Autumn.png)![Marionette Winter.png](/img/user/z_Assets/character_art/Players/Marionette%20Winter.png)
+
+|           Spring           |           Summer           |
+| :------------------------: | :------------------------: |
+| ![Marionette Spring.png](/img/user/z_Assets/character_art/Players/Marionette%20Spring.png) | ![Marionette Summer.png](/img/user/z_Assets/character_art/Players/Marionette%20Summer.png) |
+
+|           Autumn           |           Winter           |
+| :------------------------: | :------------------------: |
+| ![Marionette Autumn.png](/img/user/z_Assets/character_art/Players/Marionette%20Autumn.png) | ![Marionette Winter.png](/img/user/z_Assets/character_art/Players/Marionette%20Winter.png) |
+
 
 # General
 
@@ -48,8 +55,8 @@ This is the persons description.
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| -                | -                | -                | -    | -          |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        0         |        2         |        1         |  -2  |     2      |
 
 # Traits
 
