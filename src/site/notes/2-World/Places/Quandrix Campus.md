@@ -42,6 +42,7 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
+| [[2-World/People/Other/Professor Delta\|Professor Delta]]                 | Human      | Male       | Student                |
 
 { .block-language-dataview}
 

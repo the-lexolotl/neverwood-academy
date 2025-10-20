@@ -158,6 +158,7 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
+| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
 
 { .block-language-dataview}
 
