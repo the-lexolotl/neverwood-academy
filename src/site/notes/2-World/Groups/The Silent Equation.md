@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation 1.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":"\"Professor Delta\"","dg-publish":true,"dg-path":"World/Groups/The Silent Equation.md","permalink":"/world/groups/the-silent-equation/","dgPassFrontmatter":true,"updated":"2025-10-20T13:13:00.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation 1.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":"\"Professor Delta\"","dg-publish":true,"dg-path":"World/Groups/The Silent Equation.md","permalink":"/world/groups/the-silent-equation/","dgPassFrontmatter":true,"updated":"2025-10-20T13:16:46.000+01:00"}
 ---
 
 
@@ -66,60 +66,7 @@ New recruits often start with simple tasks, giving them a chance to prove themse
 **Enemies:** Unknown 
 **Allies:** Unknown 
 # People
-::hidden
-The following people are members of this group.  
 
-```base
-properties:
-  file.name:
-    displayName: Star Systems Name
-  note.MyCategory:
-    displayName: Type of Star System
-  note.char_race:
-    displayName: Race
-  note.char_gender:
-    displayName: Gender
-  note.char_age:
-    displayName: Age
-  note.char_role:
-    displayName: Role
-  note.char_college:
-    displayName: College
-views:
-  - type: cards
-    name: Group Members - Cards
-    filters:
-      and:
-        - or:
-            - file.folder.contains("2-World/People")
-            - file.folder.contains("1-Party/")
-        - list(Connected_Groups).contains(this)
-    order:
-      - file.name
-      - char_gender
-      - char_race
-      - char_role
-      - char_college
-    image: note.image
-  - type: table
-    name: Group Members - Table
-    filters:
-      and:
-        - or:
-            - file.folder == "2-World/People"
-            - file.folder == "1-Party/Group 1"
-            - file.folder == "1-Party/Group 2"
-        - list(Connected_Groups).contains(this)
-    order:
-      - file.name
-    sort:
-      - property: file.name
-        direction: DESC
-    columnSize:
-      file.name: 182
-
-```
-:::
 | File                                                         | Gender | Race  | Role    | College  |
 | ------------------------------------------------------------ | ------ | ----- | ------- | -------- |
 | [[2-World/People/Other/Professor Delta\|Professor Delta]] | Male   | Human | Student | Quandrix |
