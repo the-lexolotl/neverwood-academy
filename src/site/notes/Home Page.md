@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-19T08:50:46.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-20T13:04:16.000+01:00"}
 ---
 
 ## Current In-Game Date: 21st Nightal 1508 DR
@@ -15,16 +15,16 @@
 # Player Characters
 | File                                                            | Player   | Level | Class                                    | Gender | College     |
 | --------------------------------------------------------------- | -------- | ----- | ---------------------------------------- | ------ | ----------- |
-| [[1-Party/Group 1/Atudark\|Atudark]]                         | Jacob    | 2     | Warlock                                  | Male   | Witherbloom |
-| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]               | Catarina | 2     | Artificer                                | Female | Lorehold    |
 | [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]           | Cameron  | 2     | Druid                                    | Male   | Witherbloom |
+| [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]               | Catarina | 2     | Artificer                                | Female | Lorehold    |
+| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]] | Catarina | 2     | Rogue                                    | Female | Witherbloom |
+| [[1-Party/Group 1/Atudark\|Atudark]]                         | Jacob    | 2     | Warlock                                  | Male   | Witherbloom |
+| [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]                 | Joel     | 2     | <ul><li>Barbarian</li><li>Bard</li></ul> | Male   | Silverquill |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]       | Kristy   | 2     | Monk                                     | Male   | Quandrix    |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]           | Megan    | 2     | Cleric                                   | Female | Silverquill |
 | [[1-Party/Group 2/H'er\|H'er]]                               | Rain     | 2     | Sorcerer                                 | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]       | Ross     | 2     | Wizard                                   | Male   | Quandrix    |
-| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]           | Megan    | 2     | Cleric                                   | Female | Silverquill |
-| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]] | Catarina | 2     | Rogue                                    | Female | Witherbloom |
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]     | Theo     | 2     | Druid                                    | Male   | Witherbloom |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]       | Kristy   | 2     | Monk                                     | Male   | Quandrix    |
-| [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]                 | Joel     | 2     | <ul><li>Barbarian</li><li>Bard</li></ul> | Male   | Silverquill |
 
 { .block-language-dataview}
 
@@ -43,6 +43,11 @@
 # Session Journals
 | File                                                                           | Title                              | Date               | In Game Date                     | Status                      | Category                                   | Players |
 | ------------------------------------------------------------------------------ | ---------------------------------- | ------------------ | -------------------------------- | --------------------------- | ------------------------------------------ | ------- |
+| [[1-Session Journals/2025-10-24 - Ross Async\|2025-10-24 - Ross Async]]     | Ross Async - Title TBD             | October 24, 2025   | \-                               | Preparing                   | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-24 - Megan Async\|2025-10-24 - Megan Async]]   | Megan Async - Title TBD            | October 24, 2025   | \-                               | Preparing                   | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-23 - Rain Async\|2025-10-23 - Rain Async]]     | Rain Async - Title TBD             | October 23, 2025   | \-                               | Preparing                   | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-22 - Kristy Async\|2025-10-22 - Kristy Async]] | Kristy Async - Title TBD           | October 22, 2025   | \-                               | Preparing                   | <ul><li>Async</li></ul>                    | 1       |
+| [[1-Session Journals/2025-10-21 - Cat Async\|2025-10-21 - Cat Async]]       | Cat Async - Title TBD              | October 21, 2025   | \-                               | Preparing                   | <ul><li>Async</li></ul>                    | 1       |
 | [[1-Session Journals/2025-10-18 - Session 15\|2025-10-18 - Session 15]]     | Disciplinary Action                | October 18, 2025   | 21st Nightal 1508                | Occurred - Writing up Notes | <ul><li>Downtime</li></ul>                 | 8       |
 | [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] | Administrative Misconduct          | October 15, 2025   | 17th Nightal 1508                | Occurred                    | <ul><li>Async</li></ul>                    | 1       |
 | [[1-Session Journals/2025-10-14 - Joel Async\|2025-10-14 - Joel Async]]     | The Newcomer’s Orientation         | October 14, 2025   | 17th - 18th Nightal 1508         | Occurred                    | <ul><li>Async</li></ul>                    | 1       |

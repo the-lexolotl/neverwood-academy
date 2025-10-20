@@ -1,9 +1,9 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-010.cadoras.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Harry Blackstone"],"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]","[[Live-Action Roleplaying Guild|Live-Action Roleplaying Guild]]"],"dg-publish":true,"dg-path":"World/People/Students/1508/Cadoras Damellawar.md","permalink":"/world/people/students/1508/cadoras-damellawar/","dgPassFrontmatter":true,"updated":"2025-10-13T18:21:44.000+01:00"}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-010.cadoras.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Harry Blackstone"],"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Cadoras Conundrum.md|The Cadoras Conundrum]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]","[[Live-Action Roleplaying Guild|Live-Action Roleplaying Guild]]"],"dg-publish":true,"dg-path":"World/People/Students/1508/Cadoras Damellawar.md","permalink":"/world/people/students/1508/cadoras-damellawar/","dgPassFrontmatter":true,"updated":"2025-10-20T12:54:20.000+01:00"}
 ---
 
 
-![03-010.cadoras.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/03-010.cadoras.png)
+![03-010.cadoras.png|500](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/03-010.cadoras.png)
 # General
 
 
@@ -25,7 +25,7 @@ Cadoras Damellawar is a bright and mischievous Quandrix student with a grin that
 # Connections
 
 
-**Quests:** None 
+**Quests:** [[2-World/Quests/The Cadoras Conundrum\|The Cadoras Conundrum]]
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]], [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]
 
