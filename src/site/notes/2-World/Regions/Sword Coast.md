@@ -171,6 +171,6 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | [[2-World/Quests/The Missing Professor\|The Missing Professor]]         | August 09, 2025    | Complete    |
 | [[2-World/Quests/Whos goo\|Whos goo]]                                   | July 12, 2025      | In Progress |
 | [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | October 11, 2025   | In Progress |
-| [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | October 15, 2025   | Not Started |
+| [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | October 15, 2025   | Complete    |
 
 { .block-language-dataview}
