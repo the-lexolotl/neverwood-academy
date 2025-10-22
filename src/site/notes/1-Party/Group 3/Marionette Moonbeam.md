@@ -1,5 +1,5 @@
 ---
-{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":"Rogue","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"char_college":"Witherbloom","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-path":"Party/Group 3/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/","dgPassFrontmatter":true,"updated":"2025-10-19T08:34:56.000+01:00"}
+{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":12,"max_hp":12,"ac":12,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":["Rogue","Sorcerer"],"char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"char_college":"Witherbloom","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-path":"Party/Group 3/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/","dgPassFrontmatter":true,"updated":"2025-10-22T22:57:38.000+01:00"}
 ---
 
 
@@ -16,19 +16,19 @@
 # General
 
 
-| Stat       | Value       |
-| ---------- | ----------- |
-| Status     | Alive       |
-| Race       | Eladrin     |
-| Class      | Rouge       |
-| Level      | 2           |
-| Gender     | Female      |
-| Age        | Young Adult |
-| HP         | 13          |
-| Max HP     | 13          |
-| AC         | 12          |
-| Initiative | +2          |
-| College    | Witherbloom |
+| Stat       | Value           |
+| ---------- | --------------- |
+| Status     | Alive           |
+| Race       | Eladrin         |
+| Class      | Rouge, Sorcerer |
+| Level      | 2               |
+| Gender     | Female          |
+| Age        | Young Adult     |
+| HP         | 12              |
+| Max HP     | 12              |
+| AC         | 12              |
+| Initiative | +2              |
+| College    | Witherbloom     |
 
 # Description
 ## Appearance
@@ -46,12 +46,22 @@
 
 ## Biography
 
-This is the persons description. 
+Marionette grew up in the lowest reaches of the Heart Tree — a towering sprawl of roots and ruin that forms the undercity of the Grand Varanian Forest. Down there, sunlight is a luxury, and survival depends more on wit than wealth. Abandoned at birth, she was left in the care of an old monastery that doubled as a front for the thieves’ guild known as Myra’s Hand. It was there that the guild’s leader, Aurthrin “Daggy” Dagg, a shrewd gnome with a fondness for strays and second chances, found her and raised her as his own.
+
+Life beneath the Heart Tree was not an easy one, but it suited Marionette. By fifteen she was running solo jobs — burglaries, cons, forgery, and the occasional recovery of “misplaced” valuables for paying clients. Her work was careful, deliberate, and rarely violent. Marionette learned early that a quiet touch and a good story could open more doors than a blade ever could.
+
+Her career took a sharp turn when she and her partner, the tabaxi safecracker Rafi “Red” Danthe, attempted to reclaim a stolen circlet from a guarded station in the middle strata. The plan was sound. The execution, less so. Caught between the returning guard captain and the Countess herself, the pair barely escaped — only to be captured at the lower gates by the very man they’d outwitted hours before. Six years in Bloodmarsh Prison followed, where even the guards kept their distance from the half-flooded cells and whispering reeds.
+
+When she finally walked free, Myra’s Hand welcomed her back with open arms and a feast fit for a returning hero. Yet prison had changed her. Marionette had never enjoyed violence, and now she wanted little to do with it. She had no stomach for blood — she won’t take a life without reason and refuses to eat meat — and no desire to spend her years in the same endless cycle of theft and punishment.
+
+Quietly, she began saving coin. Not for escape, but for transformation. For years, she dreamed of learning magic — not the sleight-of-hand tricks of her guild, but real, shaping magic. With the encouragement of her friend Cyinth Agora, she applied to Neverwood Academy, hoping to exchange her criminal cunning for arcane craft. Though initially waitlisted, her patience was rewarded months later with a letter sealed in silver wax: a place had opened.
+
+Now at Neverwood, Marionette is eager to prove that even those born in shadow can learn to master the light. Still, old habits die hard. Her loyalty to those she calls family runs deep — and while she’d never turn on a friend, there are times when the right coin can still tip the scales.
 
 
 # Skills
 
-![Pasted image 20251019063541.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020251019063541.png)
+![Pasted image 20251022223231.png](/img/user/z_Assets/Pasted%20image%2020251022223231.png)
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -87,6 +97,21 @@ Slow. If you hit a creature with a Whip and deal damage to it, you can reduce it
 ### Cunning Action
 *PHB-2024, pg. 130*
 Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
+
+### Innate Sorcery
+*PHB-2024, pg. 140*
+Twice per Long Rest, you can take a Bonus Action to unleash the simmering magic within you for 1 minute.
+
+Activate this effect by clicking on this feature and selecting Activate Innate Sorcery. Deselect it to stop this effect.
+
+Activate Innate Sorcery
+During your Innate Sorcery, you gain the following benefits:
+• The spell save DC of your Sorcerer spells increases by 1.
+• You have Advantage on the attack rolls of Sorcerer spells you cast.
+
+Innate Sorcery: 1 Bonus Action
+Uses: 2/Long Rest
+
 
 ### Eladrin Season
 *MotM, pg. 13*
@@ -148,8 +173,14 @@ Your spellcasting ability for this feat’s spells is Intelligence.
 > [!NOTE]- Prepared
 > **Cantrips**
 > Chill Touch 
+> Mending
+> Message
+> Mind Sliver 
+> Sorcerous Burst
 > Spare the Dying 
 > **1st Level**
+> Catapult 
+> Shield 
 > Speak with Animals
 
 > [!NOTE]- Known
@@ -195,10 +226,10 @@ Your spellcasting ability for this feat’s spells is Intelligence.
 # Relationships
 
 **Pets:** Unknown
-**Parents:** Unknown
+**Parents:** Aurthrin "Daggy" Dagg (Adoptive Father)
 **Siblings:** Unknown
 **Partner:** Unknown
-**Friends:** [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]
+**Friends:** [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]], Rafi “Red” Danthe
 **Enemies:**  
 
 # Academics
