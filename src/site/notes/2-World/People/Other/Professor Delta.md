@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Professor Delta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["\"Professor Delta\""],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Cadoras Conundrum.md|The Cadoras Conundrum]]"],"Connected_Groups":["[[2-World/Groups/The Silent Equation.md|The Silent Equation]]"],"dg-publish":true,"dg-path":"World/People/Other/Professor Delta.md","permalink":"/world/people/other/professor-delta/","dgPassFrontmatter":true,"updated":"2025-10-20T12:53:14.000+01:00"}
+{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Professor Delta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["\"Professor Delta\""],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Cadoras Conundrum.md|The Cadoras Conundrum]]"],"Connected_Groups":["[[2-World/Groups/The Silent Equation.md|The Silent Equation]]"],"dg-publish":true,"dg-path":"World/People/Other/Professor Delta.md","permalink":"/world/people/other/professor-delta/","dgPassFrontmatter":true,"updated":"2025-10-20T17:33:40.000+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 | **True Name:** | Unknown                       |
 | **Status:**    | Alive                         |
 | **Race:**      | Humanoid                      |
-| **Gender:**    | Male                          |
+| **Gender:**    | Male?                         |
 | **Age:**       | Unknown                       |
 | **Role:**      | Operator of the Mind Equation |
 | **College:**   | Quandrix                      |

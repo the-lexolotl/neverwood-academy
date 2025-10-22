@@ -1,9 +1,6 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Band","image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","leader":["Jimmy Pyre"],"officers":null,"members":["Infernal Houndfist","Lupus Thunderpelt","DJ Dirgebyte","Denis Dragontongue"],"initiates":null,"faction":null,"primary_contact":"Jimmy Pyre","dg-publish":true,"dg-path":"World/Groups/The Hellhound Gang.md","permalink":"/world/groups/the-hellhound-gang/","dgPassFrontmatter":true,"updated":"2025-10-10T17:02:00.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Band","image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","leader":["Jimmy Pyre"],"officers":null,"members":["Infernal Houndfist","Lupus Thunderpelt","DJ Dirgebyte","Denis Dragontongue"],"initiates":null,"faction":null,"primary_contact":"Jimmy Pyre","dg-publish":true,"MyEnemies":["[[1-Party/Group 3/Vith Pahlok.md|Vith Pahlok]]"],"MyAllies":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]"],"dg-path":"World/Groups/The Hellhound Gang.md","permalink":"/world/groups/the-hellhound-gang/","dgPassFrontmatter":true,"updated":"2025-10-22T18:02:56.000+01:00"}
 ---
-
-
-
 
 
 
@@ -44,6 +41,12 @@ The Hellhound Gang operates under what they call a “pack order,” though it m
 
 Authority in the Hellhound Gang is fluid — leadership shifts mid-song, and disputes are settled through impromptu solos or magical duels.
 
+
+# Enemies/Allies
+
+**Enemies:** [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]
+
+**Allies:** [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]
 
 # People
 

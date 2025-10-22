@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-12T22:05:48.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-20T16:52:00.000+01:00"}
 ---
 
 
@@ -54,7 +54,6 @@
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                    |
 | Session Obtained: | [[1-Session Journals/2025-10-11 - Session 14\|2025-10-11 - Session 14]] |
 | Acquired Loot:    |                                          |
-
 # Backstory
 
 During the Winter Dance, [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]] performs their latest song, The Ballad of Chasey Lain. The crowd loves it—except for one person: [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne "Chasey" Lain]] herself. Mortified by the lyrics (which are flattering, explicit, and wildly exaggerated), Chasey storms out of the hall.

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-07-12 - Session 1|2025-07-12 - Session 1]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-12T22:01:22.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-07-12 - Session 1|2025-07-12 - Session 1]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Whos goo.md","permalink":"/world/quests/whos-goo/","dgPassFrontmatter":true,"updated":"2025-10-20T16:49:44.000+01:00"}
 ---
 
 
@@ -26,8 +26,6 @@
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]            |
 | Session Obtained: | [[1-Session Journals/2025-07-12 - Session 1\|2025-07-12 - Session 1]] |
 | Acquired Loot:    |                                  |
-
-
 # Backstory
 
 Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] and strange things have been happening ever since... But who is behind it?
