@@ -172,5 +172,6 @@ In the current age — around **1508 DR** — the Sword Coast remains a realm of
 | [[2-World/Quests/Whos goo\|Whos goo]]                                   | July 12, 2025      | In Progress |
 | [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | October 11, 2025   | In Progress |
 | [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | October 15, 2025   | Complete    |
+| [[2-World/Quests/Colours in Chaos\|Colours in Chaos]]                   | October 23, 2025   | In Progress |
 
 { .block-language-dataview}
