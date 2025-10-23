@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Malatra.md|Malatra]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Zelkor's Ferry.png","dg-publish":true,"dg-path":"World/Hubs/The Malatran Plateau.md","permalink":"/world/hubs/the-malatran-plateau/","dgPassFrontmatter":true,"updated":"2025-10-23T23:26:04.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Malatra.md|Malatra]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Zelkor's Ferry.png","dg-publish":true,"dg-path":"World/Hubs/The Malatran Plateau.md","permalink":"/world/hubs/the-malatran-plateau/","dgPassFrontmatter":true,"updated":"2025-10-24T00:09:02.000+01:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-The **Malatran Plateau** is a vast mountainous landform rising thousands of feet above the jungles of **Malatra**, in the heart of southern Kara-Tur. Shaped by alien sorcery in a forgotten age, it remains one of the most enigmatic and isolated regions of the world.
+The **Malatran Plateau** is a vast mountainous landform rising thousands of feet above the jungles of **[[2-World/Regions/Malatra\|Malatra]]**, in the heart of southern Kara-Tur. Shaped by alien sorcery in a forgotten age, it remains one of the most enigmatic and isolated regions of the world.
 
 ## Geography
 
