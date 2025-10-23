@@ -13,6 +13,6 @@
 
 ---
 ## Guide
-![Guide to Forming a Recognised Student Society (1).png](/img/user/z_Assets/Guide%20to%20Forming%20a%20Recognised%20Student%20Society%20(1).png)
+![Guide to Forming a Recognised Student Society (1).png](/img/user/z_Assets/Posters/Guide%20to%20Forming%20a%20Recognised%20Student%20Society%20(1).png)
 
 ## Apply Now - https://bit.ly/Neverwood-Club

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-01T22:56:32.000+01:00"}
+{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-23T19:38:56.000+01:00"}
 ---
 
 
@@ -27,7 +27,7 @@ A region of wilderness, harsh winter weather, orc hordes, and barbarian tribes, 
 * **Frozenfar** – The frigid north, containing Icewind Dale, the Spine of the World, and the Sea of Moving Ice.
 * **Savage Frontier** – A rugged frontier attracting settlers and those who live off the land.
 * **Silver Marches** – A confederation of humans, dwarves, and elves, centered on Silverymoon.
-* **[[2-World/Regions/Sword Coast\|Sword Coast]] North** – A dangerous coastal region with major cities, including Waterdeep and Neverwinter.
+* **[[2-World/Regions/Sword Coast\|Sword Coast]] North** – A dangerous coastal region with major cities, including Waterdeep and [[2-World/Hubs/Neverwinter\|Neverwinter]].
 
 ## North Faerûn
 

@@ -6,7 +6,7 @@
 
 |          **[[2-World/Continents/Faerûn\|Faerûn]]**          |   [[2-World/Regions/Sword Coast\|Sword Coast]]    |       [[2-World/Hubs/Neverwinter\|Neverwinter]]       | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]** | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
 | :------------------------------: | :------------------: | :-------------------------: | :-----------------------: | :------------------------------------------------------------------: |
-| ![z_Assets/website/Faerûn.png](/img/user/z_Assets/website/Faer%C3%BBn.png) | ![Sword Coast.png](/img/user/z_Assets/Sword%20Coast.png) | ![Neverwinter square.png](/img/user/z_Assets/website/Neverwinter%20square.png) |   ![Neverwood sq.png](/img/user/z_Assets/website/Neverwood%20sq.png)   |                 ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                 |
+| ![z_Assets/website/Faerûn.png](/img/user/z_Assets/website/Faer%C3%BBn.png) | ![Sword Coast.png](/img/user/z_Assets/website/Sword%20Coast.png) | ![Neverwinter square.png](/img/user/z_Assets/website/Neverwinter%20square.png) |   ![Neverwood sq.png](/img/user/z_Assets/website/Neverwood%20sq.png)   |                 ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                 |
 
 | **[[1-Party/Group 1/Group 1\|Group 1]]**  | **[[1-Party/Group 2/Group 2\|Group 2]]**  | **[[1-Party/Group 3/Group 3\|Group 3]]**  | **[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]** | **[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]** |
 | :--------------: | :--------------: | :--------------: | :--------------------: | :---------------------: |

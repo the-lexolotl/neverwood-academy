@@ -3,7 +3,7 @@
 ---
 
 
-![Professor Delta.png|500](/img/user/z_Assets/Professor%20Delta.png)
+![Professor Delta.png|500](/img/user/z_Assets/character_art/NPCs/Professor%20Delta.png)
 
 # General
 

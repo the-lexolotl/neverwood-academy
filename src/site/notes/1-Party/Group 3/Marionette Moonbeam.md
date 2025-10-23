@@ -61,7 +61,7 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 
 # Skills
 
-![Pasted image 20251022223231.png](/img/user/z_Assets/Pasted%20image%2020251022223231.png)
+![Pasted image 20251022223231.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020251022223231.png)
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |

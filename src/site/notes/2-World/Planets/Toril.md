@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace.md|Realmspace]]","image":"toril-2023-1.png","dg-publish":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgPassFrontmatter":true,"updated":"2025-10-01T22:36:00.000+01:00"}
+{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace.md|Realmspace]]","image":"toril-2023-1.png","dg-publish":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgPassFrontmatter":true,"updated":"2025-10-23T19:36:12.000+01:00"}
 ---
 
 
@@ -18,7 +18,7 @@ Toril is divided into multiple continents, although the exact number of continen
 #### [[2-World/Continents/Faerûn\|Faerûn]]: 
 The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as Neverwinter, Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
 
-#### Kara-Tur: 
+#### [[2-World/Continents/Kara-Tur\|Kara-Tur]]: 
 The largest and most populous continent on Toril, located to the east of Faerûn and making up the eastern part of the main supercontinent. If Faerûn is the land of kingdoms and city-states, Kara-Tur is the land of empires, in particular the vast Shou Lung Empire which dominates much of the landmass. The offshore island chains of Wa and Kozakura are counted as part of the continent. Cloudspire, the tallest mountain on Toril (exceeding 35,000 feet), is located in Kara-Tur.
 Zakhara: The Land of Fate is the southern-most part of the main supercontinent and forms a large peninsula extending south-west from Kara-Tur. It is dominated by vast deserts, ancient ruins and great cities such as Golden Huzuz, the City of Delights. The continent also includes the vast island chains of the Crowded Sea.
 
@@ -49,9 +49,10 @@ During the Spellplague, the small continent of Laerakond was somehow transplante
 Additional large islands or small continents are located north-west of Maztica, beyond the northern polar ice line, and to the south-west of Zakhara. There are also very large island chains in the Western Ocean between Ossë and Maztica which are still unexplored.
 
 
-| File                                     |
-| ---------------------------------------- |
-| [[2-World/Continents/Faerûn\|Faerûn]] |
+| File                                         |
+| -------------------------------------------- |
+| [[2-World/Continents/Faerûn\|Faerûn]]     |
+| [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
 
 { .block-language-dataview}
 
