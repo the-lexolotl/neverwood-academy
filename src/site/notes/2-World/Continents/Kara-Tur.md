@@ -114,7 +114,8 @@ Beyond mortal sight, Kara-Tur overlaps with spirit worlds where the Celestial Bu
 { .block-language-dataview}
 # Capital Cities
 
-| File |
-| ---- |
+| File                                                           |
+| -------------------------------------------------------------- |
+| [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |
 
 { .block-language-dataview}

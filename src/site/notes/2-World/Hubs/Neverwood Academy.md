@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"dg-path":"World/Hubs/Neverwood Academy.md","permalink":"/world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-10-16T21:16:38.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Magic Academy","obsidianUIMode":"preview","image":"156-strixhaven-campus-map.webp","dg-publish":true,"dg-path":"World/Hubs/Neverwood Academy.md","permalink":"/world/hubs/neverwood-academy/","dgPassFrontmatter":true,"updated":"2025-10-23T23:52:32.000+01:00"}
 ---
 
 
@@ -13,15 +13,13 @@
 
 ## Description 
 
-Nestled deep within the enchanted [[2-World/Hubs/Neverwinter\|Neverwinter]] Woods of [[2-World/Continents/Faerûn\|Faerûn]], [[2-World/Planets/Toril\|Toril]], **Neverwood Academy** stands as one of the most prestigious institutions for magical learning in the Realms. The Academy was founded centuries ago by **five ancient dragons**, said to have emerged from the raw magical essence that first coursed through [[2-World/Planets/Toril\|Toril's]] new-born lands. These **Founder Dragons**, among the first beings to truly master the arcane arts, foresaw the dangers of unrestrained magic. To ensure that such power would serve creation rather than destroy it, they established Neverwood Academy — a sanctuary for disciplined magical study and discovery.
+Nestled deep within the enchanted [[2-World/Hubs/Neverwinter\|Neverwinter]] Woods of [[2-World/Continents/Faerûn\|Faerûn]], **Neverwood Academy** stands as one of the most prestigious institutions for magical learning in the Realms. The Academy was founded centuries ago by **five ancient dragons**, said to have emerged from the raw magical essence that first coursed through [[2-World/Planets/Toril\|Toril's]] new-born lands. These **Founder Dragons**, among the first beings to truly master the arcane arts, foresaw the dangers of unrestrained magic. To ensure that such power would serve creation rather than destroy it, they established Neverwood Academy — a sanctuary for disciplined magical study and discovery.
 
 Each Founder Dragon embodied a distinct aspect of magic, and from their legacies arose the **five Colleges of Neverwood**, each representing a different philosophy of spell craft and magical principle.
 
 Though the Founder Dragons still roam the world, they rarely involve themselves in the Academy’s daily affairs, preferring to let the **deans of the colleges** act in their stead. Their wisdom is vast, but so too are their pride and tempers; few mages seek them out without dire need or extraordinary ambition.
 
 Today, Neverwood Academy thrives as a beacon of magical learning. Its halls hum with energy and argument alike — students debate the nature of spells, professors test theories that bend the laws of reality, and enchantments drift like pollen through the ancient air.
-
----
 
 ### Magical Study
 
@@ -34,8 +32,6 @@ The core purpose of Neverwood Academy is the **study and application of magic ac
 
 At Neverwood, every subject — from literature to alchemy — is viewed through the lens of magic, and every experiment furthers the understanding of its boundless potential.
 
----
-
 ### Principles and Polarities
 
 Neverwood’s philosophy of education is founded on the **balance of opposing forces**. Each College represents a duality — order and chaos, life and decay, intellect and instinct, creation and destruction. The **Founder Dragons** themselves are said to embody these paradoxes in harmony, while the **ten deans** of the colleges personify the individual principles in contrast.
@@ -43,8 +39,6 @@ Neverwood’s philosophy of education is founded on the **balance of opposing fo
 Students are encouraged to explore the tension between these forces, often through late-night debates and heated practical's in the spell halls. Neverwood teaches that only by confronting contradiction can a mage grasp the greater truth of magic. Most believe that only beings as ancient as the Founders can fully master both halves of a College’s dichotomy — but every student is expected to understand at least their fundamental balance.
 
 Graduates of Neverwood Academy emerge not just as spellcasters, but as philosophers of the arcane, able to argue and reason through the deepest mysteries of their College’s creed.
-
----
 
 ### Faculty
 
@@ -54,9 +48,7 @@ While some professors devote themselves entirely to research, others see teachin
 
 **Instructors** begin their careers focusing on teaching and curriculum design, often under the close evaluation of senior faculty. After a period of study and service, they may be elevated to the title of **Professor**, granted tenure through both scholarly excellence and arcane innovation.
 
-Professors who distinguish themselves over decades of teaching and groundbreaking research may earn the prestigious title of **Esteemed Professor**. Upon retirement, they are honored as **Mages Emeriti**, often returning as guest lecturers or advisors to the Academy’s leadership.
-
----
+Professors who distinguish themselves over decades of teaching and ground breaking research may earn the prestigious title of **Esteemed Professor**. Upon retirement, they are honoured as **Mages Emeriti**, often returning as guest lecturers or advisors to the Academy’s leadership.
 
 ### Students
 
@@ -65,6 +57,77 @@ Every **first-year student** at Neverwood Academy begins their journey in **Gene
 Students live in the **central dormitories** of the main campus, forming bonds that often endure throughout their studies. By their second year, students select one of the five Colleges and move to its dedicated halls and facilities within the greater Academy grounds. Some remain in central housing as **Resident Aides**, assisting new arrivals or pursuing interdisciplinary study across multiple Colleges.
 
 Within Neverwood’s ivy-clad towers, knowledge is both the light that guides and the fire that tests. Every spell learned and every principle debated brings its students closer to the truth the Founder Dragons first sought: that **magic, like the world itself, thrives through balance**.
+
+# Quests
+
+| File                                                                       | Status      | Date Obtained      |
+| -------------------------------------------------------------------------- | ----------- | ------------------ |
+| [[2-World/Quests/Colours in Chaos\|Colours in Chaos]]                   | In Progress | October 23, 2025   |
+| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | In Progress | October 11, 2025   |
+| [[2-World/Quests/Whos goo\|Whos goo]]                                   | In Progress | July 12, 2025      |
+| [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | Complete    | October 15, 2025   |
+| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]               | Complete    | September 13, 2025 |
+| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]       | Complete    | August 23, 2025    |
+| [[2-World/Quests/The Missing Professor\|The Missing Professor]]         | Complete    | August 09, 2025    |
+
+{ .block-language-dataview}
+
+
+# Campus's
+
+| File                                                         |
+| ------------------------------------------------------------ |
+| [[2-World/Places/Central Campus\|Central Campus]]         |
+| [[2-World/Places/Lorehold Campus\|Lorehold Campus]]       |
+| [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
+| [[2-World/Places/Quandrix Campus\|Quandrix Campus]]       |
+| [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
+| [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
+
+{ .block-language-dataview}
+# Groups
+
+| File                                                                                                                    | Category             |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
+| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
+| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
+| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
+| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
+
+{ .block-language-dataview}
+# Travel
+8 hrs per day
+ Exhaustion Level: 0
+
+| Destination       | Travel Days |
+| ----------------- | ----------- |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]   | 🕓: 3.2     |
+| [[2-World/Hubs/Xvart Village\|Xvart Village]] | 🕓: 2.1     |
 
 # NPCs
 
@@ -216,67 +279,4 @@ Within Neverwood’s ivy-clad towers, knowledge is both the light that guides an
 
 { .block-language-dataview}
 
-# GM Notes
-
-Make notes of what you need to track in the town here. 
-
-
-# Campus's
-
-| File                                                         |
-| ------------------------------------------------------------ |
-| [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Places/Lorehold Campus\|Lorehold Campus]]       |
-| [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
-| [[2-World/Places/Quandrix Campus\|Quandrix Campus]]       |
-| [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
-| [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-
-{ .block-language-dataview}
-# Groups
-
-| File                                                                                                                    | Category             |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
-| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
-| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
-| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
-| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
-
-{ .block-language-dataview}
-# Travel
-
-
-
-8 hrs per day
-[[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]] Level: 0
-
-| Destination       | Travel Days |
-| ----------------- | ----------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]]   | 🕓: 3.2     |
-| [[2-World/Hubs/Xvart Village\|Xvart Village]] | 🕓: 2.1     |
 

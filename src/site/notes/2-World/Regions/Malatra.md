@@ -96,8 +96,9 @@ In the current age — around **1508 DR** — Malatra remains one of Toril’s l
 
 # Hubs
 
-| File |
-| ---- |
+| File                                                           |
+| -------------------------------------------------------------- |
+| [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |
 
 { .block-language-dataview}
 # Points of Interest
