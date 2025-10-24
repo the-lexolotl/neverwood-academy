@@ -1,14 +1,14 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-23","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","questSessionObtained":"[[1-Session Journals/2025-10-23 - Rain Async.md|2025-10-23 - Rain Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Colours in Chaos.md","permalink":"/world/quests/colours-in-chaos/","dgPassFrontmatter":true,"updated":"2025-10-23T21:59:54.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-23","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","questSessionObtained":"[[1-Session Journals/2025-10-23 - Rain Async.md|2025-10-23 - Rain Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/Colours in Chaos.md","permalink":"/world/quests/colours-in-chaos/","dgPassFrontmatter":true,"updated":"2025-10-24T23:42:30.000+01:00"}
 ---
 
 
 
 
 # Quest Info
-- [x] Investigate the sabotage at the Art Exhibition.
-- [x] Protect or transform H’er’s own artwork amid magical instability.
-- [x] Deepen her connection with [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra]] through shared emotion and discovery.
+- [x] ~~Investigate the sabotage at the Art Exhibition.~~
+- [x] ~~Protect or transform H’er’s own artwork amid magical instability.~~
+- [x] ~~Deepen her connection with [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra]] through shared emotion and discovery.~~
 - [ ] Uncover or suppress the truth behind the sabotage.
 - [ ] Evolve H’er’s sorcery through her artistic awakening.
 

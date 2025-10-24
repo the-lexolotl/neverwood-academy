@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-20T16:52:00.000+01:00"}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"World/Quests/The Ballad of Chasey Lain.md","permalink":"/world/quests/the-ballad-of-chasey-lain/","dgPassFrontmatter":true,"updated":"2025-10-24T23:43:48.000+01:00"}
 ---
 
 
@@ -25,21 +25,20 @@
 - [x] ~~Promise to help Jimmy make things right~~
 
 ### The Grand Apology
-- [ ] Return to Jimmy with Chasey’s feelings
-- [ ] Help Jimmy come up with a proper apology plan
-	- [ ] Option A: Write a new song or poem
-	- [ ] Option B: Retrieve a sentimental gift or keepsake
-	- [ ] Option C: Arrange a small private performance
-- [ ] Acquire any needed materials (ink, quill, charm components)
-- [ ] Choose the apology setting (Music Room / Amphitheatre / Courtyard)
-- [ ] Set up the stage and magical effects 
+- [x] ~~Return to Jimmy with Chasey’s feelings~~
+- [x] ~~Help Jimmy come up with a proper apology plan~~
+	- [x] ~~Option A: Write a new song or poem~~
+	- [x] ~~Option B: Retrieve a sentimental gift or keepsake~~
+	- [x] ~~Option C: Arrange a small private performance~~
+- [x] ~~Acquire any needed materials (ink, quill, charm components)~~
+- [x] ~~Choose the apology setting (Music Room / Amphitheatre / Courtyard)~~
+- [x] ~~Set up the stage and magical effects~~ 
 
 ### The Performance
-- [ ] Meet Chasey at the chosen location
-- [ ] Help Jimmy perform his apology
-- [ ] Maintain magical stability during performance (Arcana check)
-- [ ] Manage the crowd if other students show up unexpectedly
-- [ ] Observe Chasey’s reaction
+- [x] ~~Meet Chasey at the chosen location~~
+- [x] ~~Help Jimmy perform his apology~~
+- [x] ~~Manage the crowd if other students show up unexpectedly~~
+- [x] ~~Observe Chasey’s reaction~~
 
 ### Resolution
 - [ ] Report back to Jimmy
