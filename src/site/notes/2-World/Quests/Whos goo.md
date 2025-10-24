@@ -42,8 +42,8 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]             | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                   | Halfling        | Female | Applicant             |
 | [[1-Party/Group 1/Atudark\|Atudark]]                                      | Yuan-Ti         | Male   | Player                |
-| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                        | Triton          | Male   | Player                |
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]]                  | Halfling        | Male   | Player                |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                        | Triton          | Male   | Player                |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn      | Male   | Player                |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                            | Aarakocra       | Female | Player                |
 | [[1-Party/Group 2/H'er\|H'er]]                                            | Tiefling        | Female | Player                |

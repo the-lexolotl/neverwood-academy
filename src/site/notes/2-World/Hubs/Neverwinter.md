@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Pasted image 20250914220845.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Pub That Crawls.md|The Pub That Crawls]]"],"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgPassFrontmatter":true,"updated":"2025-10-23T23:53:04.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Pasted image 20250914220845.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Pub That Crawls.md|The Pub That Crawls]]"],"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgPassFrontmatter":true,"updated":"2025-10-24T01:20:48.000+01:00"}
 ---
 
 
@@ -109,7 +109,6 @@ Exhaustion Level: 0
 | --------------------- | --------------- |
 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 🕓: 3.2 Walking |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]     | 🕓: 2.6 Walking |
-| [[2-World/Regions/Malatra\|Malatra]]           | 🕓:             |
 
 # Quests
 

@@ -38,10 +38,10 @@ The following people are members of this group.
 
 | File                                                                   | Race            | Gender     | College     |
 | ---------------------------------------------------------------------- | --------------- | ---------- | ----------- |
-| [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]       | Fire Genasi     | Male       | Prismari    |
-| [[2-World/People/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]     | Firbolg         | Non-binary | Lorehold    |
 | [[2-World/People/Students/1507/Rowan Montagu\|Rowan Montagu]]       | Orc             | Male       | Quandrix    |
+| [[2-World/People/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]     | Firbolg         | Non-binary | Lorehold    |
 | [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]] | Elf             | Female     | Silverquill |
+| [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]       | Fire Genasi     | Male       | Prismari    |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                  | Variant Aasimar | Female     | Silverquill |
 
 { .block-language-dataview}

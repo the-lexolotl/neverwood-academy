@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Malatra.md|Malatra]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Zelkor's Ferry.png","dg-publish":true,"dg-path":"World/Hubs/The Malatran Plateau.md","permalink":"/world/hubs/the-malatran-plateau/","dgPassFrontmatter":true,"updated":"2025-10-24T00:09:02.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Malatra.md|Malatra]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Zelkor's Ferry.png","dg-publish":true,"dg-path":"World/Hubs/The Malatran Plateau.md","permalink":"/world/hubs/the-malatran-plateau/","dgPassFrontmatter":true,"updated":"2025-10-24T00:31:08.000+01:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Like much of Malatra, the Malatran Plateau is cloaked in dense, humid jungle. Ho
 
 The first inhabitants of the land that would become the plateau were the **bamboo** and **river spirit folk**, ancient beings who would later give rise to the race known as the **tam’hi**.
 
-Long before the **Time of Troubles**, and even before **Abeir-Toril** was divided, a faction of a humanoid race called the **ancient Nubari** arrived from another crystal sphere aboard spelljamming vessels. Fleeing a devastating war, they sought refuge in Malatra’s jungles — a region dismissed as inhospitable by its native peoples. Using their formidable arcane arts, the Nubari raised the ground itself, lifting their new homeland high above the jungle canopy to form the **Malatran Plateau**.
+Long before the **Time of Troubles**, and even before **Abeir-Toril                          ** was divided, a faction of a humanoid race called the **ancient Nubari** arrived from another crystal sphere aboard spelljamming vessels. Fleeing a devastating war, they sought refuge in Malatra’s jungles — a region dismissed as inhospitable by its native peoples. Using their formidable arcane arts, the Nubari raised the ground itself, lifting their new homeland high above the jungle canopy to form the **Malatran Plateau**.
 
 Unintentionally, this act caused the collapse of underground homes belonging to nearby **korobokuru**, forcing those peoples to the surface.
 

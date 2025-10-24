@@ -33,8 +33,8 @@ The following people are members of this group.
 | File                                                        | Race       | Gender | College     |
 | ----------------------------------------------------------- | ---------- | ------ | ----------- |
 | [[1-Party/Group 1/Atudark\|Atudark]]                     | Yuan-Ti    | Male   | Witherbloom |
-| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]       | Triton     | Male   | Witherbloom |
 | [[1-Party/Group 1/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling   | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]       | Triton     | Male   | Witherbloom |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]   | Dragonborn | Male   | Quandrix    |
 
 { .block-language-dataview}

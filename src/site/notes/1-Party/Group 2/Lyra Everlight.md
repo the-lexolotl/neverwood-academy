@@ -1,5 +1,5 @@
 ---
-{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]","[[2-World/Quests/The Ballad of Chasey Lain.md|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-path":"Party/Group 2/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/","dgPassFrontmatter":true,"updated":"2025-10-12T23:52:46.000+01:00"}
+{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]","[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]","[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]","[[2-World/Quests/The Ballad of Chasey Lain.md|The Ballad of Chasey Lain]]","[[2-World/Quests/The Merchant of Moons.md|The Merchant of Moons]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-path":"Party/Group 2/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/","dgPassFrontmatter":true,"updated":"2025-10-24T23:34:58.000+01:00"}
 ---
 
 
@@ -173,9 +173,6 @@ Shield of Faith(1st)
 [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
 Lyra's Dorm Room Key
 [[3-Mechanics/CLI/items/mace-xphb\|Mace]]
-[[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]
-[[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]]
-[[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]
 Neverwood - First Year Uniform
 [[3-Mechanics/CLI/items/oil-xphb\|Oil]]
 [[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
@@ -197,7 +194,7 @@ Whalebucks Free Meal Ticket
 
 # Connections
 
-**Quests:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/The Missing Professor\|The Missing Professor]], [[2-World/Quests/Heist the Records Room\|Heist the Records Room]], [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]], [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
+**Quests:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/The Missing Professor\|The Missing Professor]], [[2-World/Quests/Heist the Records Room\|Heist the Records Room]], [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]], [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]], [[2-World/Quests/The Merchant of Moons\|The Merchant of Moons]]
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 2/Group 2\|Group 2]], [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]], [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]
 
