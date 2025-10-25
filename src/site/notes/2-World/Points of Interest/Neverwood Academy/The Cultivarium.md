@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Cu;tivarium.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Cultivarium.md","permalink":"/world/points-of-interest/neverwood-academy/the-cultivarium/","dgPassFrontmatter":true,"updated":"2025-09-29T15:30:06.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Cu;tivarium.webp","dg-publish":true,"aliases":["Cultivarium"],"dg-path":"World/Points of Interest/Neverwood Academy/The Cultivarium.md","permalink":"/world/points-of-interest/neverwood-academy/the-cultivarium/","dgPassFrontmatter":true,"updated":"2025-10-25T14:35:56.000+01:00"}
 ---
 
 

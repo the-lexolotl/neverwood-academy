@@ -1,8 +1,8 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-20T13:04:16.000+01:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-25T12:59:42.000+01:00"}
 ---
 
-## Current In-Game Date: 21st Nightal 1508 DR
+## Current In-Game Date: 29th Nightal 1508 DR
 
 |          **[[2-World/Continents/Faerûn\|Faerûn]]**          |   [[2-World/Regions/Sword Coast\|Sword Coast]]    |       [[2-World/Hubs/Neverwinter\|Neverwinter]]       | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]** | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
 | :------------------------------: | :------------------: | :-------------------------: | :-----------------------: | :------------------------------------------------------------------: |
