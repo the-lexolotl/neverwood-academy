@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks (2) 1.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"aliases":["Whalebucks"],"dg-path":"World/Groups/Whalebucks Coffee Co..md","permalink":"/world/groups/whalebucks-coffee-co/","dgPassFrontmatter":true,"updated":"2025-10-12T19:35:00.000+01:00"}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks (2) 1.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-path":"World/Groups/Whalebucks Coffee Co..md","permalink":"/world/groups/whalebucks-coffee-co/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgPassFrontmatter":true,"updated":"2025-10-01T22:41:14.000+01:00"}
+{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Malatra.md|Malatra]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Zelkor's Ferry.png","dg-publish":true,"dg-path":"World/Hubs/The Malatran Plateau.md","permalink":"/world/hubs/the-malatran-plateau/","dgPassFrontmatter":true,"updated":"2025-10-24T00:31:08.000+01:00"}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Malatra.md|Malatra]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Hubs/The Malatran Plateau.md","permalink":"/world/hubs/the-malatran-plateau/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

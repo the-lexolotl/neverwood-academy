@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"The Island of Screams.jpg","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Ballad of Chasey Lain.md|The Ballad of Chasey Lain]]"],"NoteIcon":"journal","Connected_Groups":["[[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]"],"dg-path":"Player Handouts/Academy Events/Winter Solstice Dance.md","permalink":"/player-handouts/academy-events/winter-solstice-dance/","dgPassFrontmatter":true,"updated":"2025-10-15T18:02:32.000+01:00"}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"The Island of Screams.jpg","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Ballad of Chasey Lain.md|The Ballad of Chasey Lain]]"],"NoteIcon":"journal","Connected_Groups":["[[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Player Handouts/Academy Events/Winter Solstice Dance.md","permalink":"/player-handouts/academy-events/winter-solstice-dance/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

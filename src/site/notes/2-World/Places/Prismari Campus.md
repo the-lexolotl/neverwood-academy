@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.3.jpg","dg-publish":true,"dg-path":"World/Places/Prismari Campus.md","permalink":"/world/places/prismari-campus/","dgPassFrontmatter":true,"updated":"2025-10-01T18:47:36.000+01:00"}
+{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College Campus","obsidianUIMode":"preview","image":"map-1.3.jpg","dg-publish":true,"dg-path":"World/Places/Prismari Campus.md","permalink":"/world/places/prismari-campus/","dgPassFrontmatter":true}
 ---
 
 

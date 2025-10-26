@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Widdershins Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Widdershins Hall.md","permalink":"/world/points-of-interest/neverwood-academy/widdershins-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:36:28.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Widdershins Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Widdershins Hall.md","permalink":"/world/points-of-interest/neverwood-academy/widdershins-hall/","dgPassFrontmatter":true}
 ---
 
 

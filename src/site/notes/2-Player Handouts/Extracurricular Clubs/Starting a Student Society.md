@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":null,"dg-publish":true,"Connected_Quests":null,"NoteIcon":"journal","dg-path":"Player Handouts/Extracurricular Clubs/Starting a Student Society.md","permalink":"/player-handouts/extracurricular-clubs/starting-a-student-society/","dgPassFrontmatter":true,"updated":"2025-10-15T23:52:22.000+01:00"}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":null,"dg-publish":true,"Connected_Quests":null,"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Player Handouts/Extracurricular Clubs/Starting a Student Society.md","permalink":"/player-handouts/extracurricular-clubs/starting-a-student-society/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

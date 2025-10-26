@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Aerojaunt Field - 48x64 - 3072x4096 - 64px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Aerojaunt Field.md","permalink":"/world/points-of-interest/neverwood-academy/aerojaunt-field/","dgPassFrontmatter":true,"updated":"2025-10-10T02:27:22.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Tier 1 - Aerojaunt Field - 48x64 - 3072x4096 - 64px - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Aerojaunt Field.md","permalink":"/world/points-of-interest/neverwood-academy/aerojaunt-field/","dgPassFrontmatter":true}
 ---
 
 

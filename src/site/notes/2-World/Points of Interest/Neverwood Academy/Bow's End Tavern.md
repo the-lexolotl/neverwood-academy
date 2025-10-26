@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Tavern","obsidianUIMode":"preview","image":"Bow's End Tavern.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Bow's End Tavern.md","permalink":"/world/points-of-interest/neverwood-academy/bow-s-end-tavern/","dgPassFrontmatter":true,"updated":"2025-10-10T02:47:54.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Tavern","obsidianUIMode":"preview","image":"Bow's End Tavern.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Bow's End Tavern.md","permalink":"/world/points-of-interest/neverwood-academy/bow-s-end-tavern/","dgPassFrontmatter":true}
 ---
 
 

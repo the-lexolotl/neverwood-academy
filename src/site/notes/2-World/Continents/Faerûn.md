@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgPassFrontmatter":true,"updated":"2025-10-23T19:38:56.000+01:00"}
+{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[Toril|Toril]]","image":"Faerûn 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Continents/Faerûn.md","permalink":"/world/continents/faerun/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

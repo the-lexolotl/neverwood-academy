@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Grandloft Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Grandloft Hall.md","permalink":"/world/points-of-interest/neverwood-academy/grandloft-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:17:26.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Grandloft Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Grandloft Hall.md","permalink":"/world/points-of-interest/neverwood-academy/grandloft-hall/","dgPassFrontmatter":true}
 ---
 
 

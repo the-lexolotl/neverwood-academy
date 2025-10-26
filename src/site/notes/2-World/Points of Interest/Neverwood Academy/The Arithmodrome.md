@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Arithmodrone.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Arithmodrome.md","permalink":"/world/points-of-interest/neverwood-academy/the-arithmodrome/","dgPassFrontmatter":true,"updated":"2025-09-29T15:28:30.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Arithmodrone.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Arithmodrome.md","permalink":"/world/points-of-interest/neverwood-academy/the-arithmodrome/","dgPassFrontmatter":true}
 ---
 
 

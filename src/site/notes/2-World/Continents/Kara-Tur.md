@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Planets/Toril.md|Toril]]","image":"Kara-tur.png","dg-publish":true,"dg-path":"World/Continents/Kara-Tur.md","permalink":"/world/continents/kara-tur/","dgPassFrontmatter":true,"updated":"2025-10-23T20:21:58.000+01:00"}
+{"tags":["Category/Continent"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Planets/Toril.md|Toril]]","image":"Kara-tur.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Continents/Kara-Tur.md","permalink":"/world/continents/kara-tur/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

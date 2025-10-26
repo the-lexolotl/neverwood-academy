@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Kara-Tur.md|Kara-Tur]]","image":"Malatra.png","dg-publish":true,"dg-path":"World/Regions/Malatra.md","permalink":"/world/regions/malatra/","dgPassFrontmatter":true,"updated":"2025-10-23T20:22:20.000+01:00"}
+{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Kara-Tur.md|Kara-Tur]]","image":"Malatra.png","dg-publish":true,"dg-path":"World/Regions/Malatra.md","permalink":"/world/regions/malatra/","dgPassFrontmatter":true}
 ---
 
 

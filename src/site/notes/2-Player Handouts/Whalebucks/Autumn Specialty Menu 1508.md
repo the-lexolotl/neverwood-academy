@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","image":"Whalebucks Autumn Specials 1508 (1).png","dg-publish":true,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Whalebucks Coffee Co..md|Whalebucks Coffee Co.]]"],"NoteIcon":"journal","dg-path":"Player Handouts/Whalebucks/Autumn Specialty Menu 1508.md","permalink":"/player-handouts/whalebucks/autumn-specialty-menu-1508/","dgPassFrontmatter":true,"updated":"2025-10-11T17:19:08.000+01:00"}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","image":"Whalebucks Autumn Specials 1508 (1).png","dg-publish":true,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Whalebucks Coffee Co..md|Whalebucks Coffee Co.]]"],"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Player Handouts/Whalebucks/Autumn Specialty Menu 1508.md","permalink":"/player-handouts/whalebucks/autumn-specialty-menu-1508/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

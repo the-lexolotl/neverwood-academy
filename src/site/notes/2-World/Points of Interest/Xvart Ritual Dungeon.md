@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Hubs/Xvart Village.md|Xvart Village]]","MyCategory":"Dungeon","obsidianUIMode":"preview","image":"Xvart Dungeon.webp","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"dg-path":"World/Points of Interest/Xvart Ritual Dungeon.md","permalink":"/world/points-of-interest/xvart-ritual-dungeon/","dgPassFrontmatter":true,"updated":"2025-10-11T03:27:00.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Hubs/Xvart Village.md|Xvart Village]]","MyCategory":"Dungeon","obsidianUIMode":"preview","image":"Xvart Dungeon.webp","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"dg-path":"World/Points of Interest/Xvart Ritual Dungeon.md","permalink":"/world/points-of-interest/xvart-ritual-dungeon/","dgPassFrontmatter":true}
 ---
 
 

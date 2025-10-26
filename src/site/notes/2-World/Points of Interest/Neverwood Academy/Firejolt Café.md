@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Firejolt Cafe.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Firejolt Café.md","permalink":"/world/points-of-interest/neverwood-academy/firejolt-cafe/","dgPassFrontmatter":true,"updated":"2025-09-29T15:13:14.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Firejolt Cafe.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Firejolt Café.md","permalink":"/world/points-of-interest/neverwood-academy/firejolt-cafe/","dgPassFrontmatter":true}
 ---
 
 

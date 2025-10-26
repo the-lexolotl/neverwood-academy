@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Kollema Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Kollema Hall.md","permalink":"/world/points-of-interest/neverwood-academy/kollema-hall/","dgPassFrontmatter":true,"updated":"2025-09-29T15:19:16.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Kollema Hall.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Kollema Hall.md","permalink":"/world/points-of-interest/neverwood-academy/kollema-hall/","dgPassFrontmatter":true}
 ---
 
 

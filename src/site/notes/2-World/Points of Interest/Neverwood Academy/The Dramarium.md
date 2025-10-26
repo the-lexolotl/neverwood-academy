@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dramavarium.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Dramarium.md","permalink":"/world/points-of-interest/neverwood-academy/the-dramarium/","dgPassFrontmatter":true,"updated":"2025-09-29T15:31:40.000+01:00"}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dramavarium.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Dramarium.md","permalink":"/world/points-of-interest/neverwood-academy/the-dramarium/","dgPassFrontmatter":true}
 ---
 
 
