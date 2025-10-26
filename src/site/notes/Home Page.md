@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-26T22:52:54.000+00:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-10-26T22:55:56.000+00:00"}
 ---
 
 ## Current In-Game Date: 29th Nightal 1508 DR
@@ -11,13 +11,6 @@
 | **[[1-Party/Group 1/Group 1\|Group 1]]**  | **[[1-Party/Group 2/Group 2\|Group 2]]**  | **[[1-Party/Group 3/Group 3\|Group 3]]**  | **[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]** | **[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]** |
 | :--------------: | :--------------: | :--------------: | :--------------------: | :---------------------: |
 | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) | ![Group 3.png](/img/user/z_Assets/character_art/Players/Group%203.png) | ![class of 1508.png](/img/user/z_Assets/classLogos/class%20of%201508.png) |     ![Staff.png](/img/user/z_Assets/website/Staff.png)      |
-```
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/lex-wolfe1209/n-trs-async-session?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-```
-
 # Player Characters
 | File                                                            | Player   | Level | Class                                    | Gender | College     |
 | --------------------------------------------------------------- | -------- | ----- | ---------------------------------------- | ------ | ----------- |
