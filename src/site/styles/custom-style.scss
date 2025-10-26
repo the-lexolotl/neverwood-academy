@@ -254,3 +254,18 @@ img { max-width: 100%; border-radius: 8px; }
 .sidebar-container {
     padding-right: 10px !important; /* Reduced from 20px */
 }
+
+/* --- Adjust fullscreen/expanded graph size --- */
+.sidebar .graph-fs,
+#full-graph {
+    height: calc(100vmin - 50px) !important; /* Reduced from 100px */
+    width: calc(100vmin - 50px) !important;
+    min-height: 500px !important; /* Increased from 350px */
+    min-width: 500px !important;
+}
+
+.sidebar .graph-fs #link-graph,
+#full-graph #full-graph-container {
+    width: 100% !important;
+    height: 100% !important;
+}
