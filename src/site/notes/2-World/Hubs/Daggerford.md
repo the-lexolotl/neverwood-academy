@@ -88,9 +88,6 @@ Today, in **1508 DR**, Daggerford stands as a bastion of civilization between th
 
 
 # Travel
-
-
-
 8 hrs per day
 Exhaustion Level: 0
 

@@ -72,10 +72,8 @@ Though small, Gillian’s Hill is not defenceless.
 
 
 # Travel
-
-
-`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
-Travel Calculator / Exhaustion Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
+8 hrs per day
+Exhaustion Level: 0
 
 | Destination     | Travel Days                              |
 | --------------- | ---------------------------------------- |
