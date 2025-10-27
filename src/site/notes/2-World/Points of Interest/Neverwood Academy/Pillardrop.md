@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Pillardrop.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Pillardrop.md","permalink":"/world/points-of-interest/neverwood-academy/pillardrop/","dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Pillardrop.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwood Academy/Pillardrop.md","permalink":"/world/points-of-interest/neverwood-academy/pillardrop/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 hidden

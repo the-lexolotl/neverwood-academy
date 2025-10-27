@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 ## Current In-Game Date: 29th Nightal 1508 DR

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Sedgemoor  - Day - 3000x4000 - 30x40 - 100px - Grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Sedgemoor.md","permalink":"/world/points-of-interest/neverwood-academy/sedgemoor/","dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Sedgemoor  - Day - 3000x4000 - 30x40 - 100px - Grid.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwood Academy/Sedgemoor.md","permalink":"/world/points-of-interest/neverwood-academy/sedgemoor/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

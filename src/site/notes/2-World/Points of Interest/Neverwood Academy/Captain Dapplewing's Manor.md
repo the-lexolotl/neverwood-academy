@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dapplewings Manor.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md","permalink":"/world/points-of-interest/neverwood-academy/captain-dapplewing-s-manor/","dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dapplewings Manor.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md","permalink":"/world/points-of-interest/neverwood-academy/captain-dapplewing-s-manor/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

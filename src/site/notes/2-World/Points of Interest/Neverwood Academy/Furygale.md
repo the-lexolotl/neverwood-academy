@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Furygale - 32x40 - 3200x4000 - light - grid.webp","dg-publish":true,"dg-path":"World/Points of Interest/Neverwood Academy/Furygale.md","permalink":"/world/points-of-interest/neverwood-academy/furygale/","dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Furygale - 32x40 - 3200x4000 - light - grid.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwood Academy/Furygale.md","permalink":"/world/points-of-interest/neverwood-academy/furygale/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
