@@ -274,31 +274,33 @@ img { max-width: 100%; border-radius: 8px; }
 .graph svg circle,
 #link-graph svg circle,
 #full-graph-container svg circle {
-    r: 3 !important;
+    r: 3;
 }
 
 /* --- Change graph node and link colors --- */
 /* Node colors */
-.graph circle,
-#link-graph circle,
-#full-graph-container circle {
-    fill: #9b9d79 !important; /* Node color - using your heading color */
-    stroke: #d8deb9 !important; /* Node border color */
+svg circle {
+    fill: #9b9d79 !important;
+    stroke: #d8deb9 !important;
     stroke-width: 1.5 !important;
 }
 
 /* Link/line colors */
-.graph line,
-#link-graph line,
-#full-graph-container line {
-    stroke: #5c5ca0 !important; /* Line color - using your accent color */
+svg line {
+    stroke: #5c5ca0 !important;
     stroke-width: 1 !important;
     opacity: 0.6 !important;
 }
 
-/* Hover states */
-.graph circle:hover,
-#link-graph circle:hover,
-#full-graph-container circle:hover {
-    fill: #d8deb9 !important; /* Lighter on hover */
+/* More specific targeting */
+#link-graph svg circle,
+#full-graph-container svg circle {
+    fill: #9b9d79 !important;
+    stroke: #d8deb9 !important;
+}
+
+#link-graph svg line,
+#full-graph-container svg line {
+    stroke: #5c5ca0 !important;
+    opacity: 0.6 !important;
 }
