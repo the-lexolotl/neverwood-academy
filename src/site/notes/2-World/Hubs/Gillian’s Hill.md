@@ -82,40 +82,8 @@ Travel Calculator / Exhaustion Level: `VIEW[{Travel Calculator#ExhaustionLevel}]
 | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 🕓: 5.8 (walking)<br>🕓: 2.9 (horseback) |
 | [[2-World/Hubs/Daggerford\|Daggerford]]  | 🕓:                                      |
 
-hidden
-```base
-properties:
-  file.name:
-    displayName: Places Name
-  note.MyCategory:
-    displayName: Type of Place
-views:
-  - type: cards
-    name: Region - Cards
-    filters:
-      and:
-        - file.folder == "2-World/Quests"
-        - list(MyContainer).contains(this)
-    order:
-      - file.name
-    image: note.image
-  - type: table
-    name: Region - Table
-    filters:
-      and:
-        - file.folder == "2-World/Quests"
-        - list(MyContainer).contains(this)
-    order:
-      - file.name
-      - MyContainer
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      file.name: 182
+# Quests
 
-```
-:::
 | File | Status | Date Obtained |
 | ---- | ------ | ------------- |
 
