@@ -65,7 +65,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 * Mavinda’s tone softens.  
 	  “You regret it. That counts for something.”  
 * Ricard, ever the pragmatist, decides on a moderate punishment:  
-	* **One week of probation**  
+	* **One tenday of probation**  
 	* **No after-hours access to restricted archives**  
 * As Vigilius leaves, Mavinda offers one last piece of guidance:  
 	  “Be honest with yourself. That’s where redemption begins.”  
@@ -85,7 +85,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 
 ### Ongoing Threads
 
-* **Vigilius’ Probation** – Restricted from late-night access to archives for one week.  
+* **Vigilius’ Probation** – Restricted from late-night access to archives for one tenday.  
 * **Mavinda’s Task** – Investigate the disappearance of a Witherbloom first-year near the Root Archives.  
 * **Expelled Student Mystery** – The group’s initial goal remains unresolved.  
 * **Faculty Attention** – Both Mavinda and Ricard are now keeping a close watch on Vigilius’ behaviour.  

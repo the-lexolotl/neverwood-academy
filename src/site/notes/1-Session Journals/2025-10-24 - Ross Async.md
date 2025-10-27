@@ -32,7 +32,7 @@ None
 After the disciplinary summons from the Head Teacher, Harry Blackstone finds himself drawn into a web of mathematical mystery and secret scholarship. What begins as a quiet library shift turns into a clandestine recruitment by *The Silent Equation* — a mysterious Quandrix circle seeking “balance and correction.” Enticed by both curiosity and coin, Harry follows the formula to its first variable: a meeting in the abandoned observatory and a book that hums with impossible geometry.
 
 ### A Delivery from The Silent Equation
-* While working a late shift in the Biblioplex, Harry’s solitude is interrupted by his ever-irreverent friend, **[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras]], who brings an envelope sealed with a silver ∑ sigil — the mark of *[[2-World/Groups/The Silent Equation\|The Silent Equation]]*.
+* While working a late shift in the Biblioplex, Harry’s solitude is interrupted by his ever-irreverent friend, [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras]], who brings an envelope sealed with a silver ∑ sigil — the mark of *[[2-World/Groups/The Silent Equation\|The Silent Equation]]*
 * The note inside is formal, almost mechanical: an invitation to collaborate on restoring “lost formulae,” with 25 platinum pieces enclosed as a “token of appreciation.”
 * Though suspicious, Harry’s curiosity outweighs his caution. He and Cadoras agree to investigate together, arranging to meet at the old observatory by nightfall.
 

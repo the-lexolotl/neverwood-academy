@@ -37,7 +37,7 @@ A quiet day of reflection turns into a rescue mission when Vigilius answers [[2-
 
 ### Descent into the Root Archives
 * The Witherbloom Wing looms dark and overgrown, its halls heavy with damp air and creeping ivy. A rusted service door offers a quiet way in.  
-* Vigilius slips down the service stairs but is spotted by a janitor. Thinking fast, he convinces him that she’s acting under faculty orders — earning reluctant permission to proceed.  
+* Vigilius slips down the service stairs but is spotted by a janitor. Thinking fast, he convinces him that he’s acting under faculty orders — earning reluctant permission to proceed.  
 * The Root Archives are eerily still, illuminated by dim fungal lamps and choked with spores. Among the twisting shelves, he discovers a torn satchel marked with the Witherbloom sigil and smeared with green ink — a clue that confirms the student’s passage.
 
 ### The Tangled Rescue
@@ -47,12 +47,10 @@ A quiet day of reflection turns into a rescue mission when Vigilius answers [[2-
 * Pressing through the struggle, Vigilius cuts [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella]] free, comforting the sobbing student as the roots recede into stillness. Nearby, a sealed chest glistens with sap — but Vigilius leaves it untouched.
 
 ### Safe Return
-
 * Carrying Mirella back through the tunnels, Vigilius is met by Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]], who offers heartfelt thanks and a token of gratitude: a **Silver Ink Charm**, allowing its wearer to cast *Detect Magic* once per day.  
 * As the adrenaline fades, Vigilius returns to his dorm to reflect. The past few days — and the student he saved — leave him with a new resolve: to stop chasing ghosts of his past and start living in the present.
 
 ### Ongoing Threads
-
 * **[[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]’s Note** – His proposition went unanswered, but it’s unlikely he’ll forget Vigilius’s refusal. What “valuables” did he truly seek in the Root Archives?  
 * **The Sealed Chest** – Left behind in the chamber, its sap-frosted surface hints at lingering magic — and unfinished business.  
 * **Mavinda’s Favour** – The Silver Ink Charm marks Mavinda’s trust; future assignments from her may follow.  

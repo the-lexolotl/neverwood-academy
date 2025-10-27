@@ -12,17 +12,17 @@
 **Primary Exports:** Dairy, produce, grains, cider
 **Threats:** Lizardfolk raids, Trade Way bandits, undead in the crypts beneath the hill
 
-Gillian’s Hill is the smallest of the four hamlets dotting the Trade Way south of Daggerford. Named after the legendary protector **Gillian Cantilar**, the settlement is an unassuming collection of farms and orchards perched upon a low rise of earth and grass. Though modest in size, the hamlet serves as an important crossroads for farmers, traders, and travellers moving between Daggerford, Liam’s Hold, and beyond.
+Gillian’s Hill is the smallest of the four hamlets dotting the Trade Way south of [[2-World/Hubs/Daggerford\|Daggerford]]. Named after the legendary protector **Gillian Cantilar**, the settlement is an unassuming collection of farms and orchards perched upon a low rise of earth and grass. Though modest in size, the hamlet serves as an important crossroads for farmers, traders, and travellers moving between [[2-World/Hubs/Daggerford\|Daggerford]], Liam’s Hold, and beyond.
 
 The villagers are simple folk devoted to the land and to **Chauntea**, gathering in orchards to share kegs, songs, and gossip rather than crowding into taverns — as none exist here. At first glance, Gillian’s Hill appears entirely ordinary… but the soil hides darker secrets than its peaceful surface suggests.
 
 ## Geography
-A half-day’s ride south of **Daggerford**, Gillian’s Hill sits along the **Trade Way**, its namesake mound crowned by an old signal cairn tower once used to warn of approaching armies from **Dragonspear Castle** or the **Serpent Hills**. Moss-covered milestone markers mark the approach, and fields of barley and apples stretch for miles in every direction.
+A half-day’s ride south of [[2-World/Hubs/Daggerford\|Daggerford]], Gillian’s Hill sits along the **Trade Way**, its namesake mound crowned by an old signal cairn tower once used to warn of approaching armies from **Dragonspear Castle** or the **Serpent Hills**. Moss-covered milestone markers mark the approach, and fields of barley and apples stretch for miles in every direction.
 
 Beneath the mound lies a vast **ancient tomb**, sealed by enchantments that punish trespassers with violent storms of lightning until disturbed soil is replaced. Even the strongest spellcasters of the region have failed to unravel its wards.
 
 ## Economy & Trade
-Gillian’s Hill functions as a local **agricultural hub**, where surrounding farmers meet to trade and distribute goods north toward Daggerford and Waterdeep.
+Gillian’s Hill functions as a local **agricultural hub**, where surrounding farmers meet to trade and distribute goods north toward [[2-World/Hubs/Daggerford\|Daggerford]] and Waterdeep.
 
 Common exports include:
 * **Churlgo Cheese** (a Daggerford delicacy)
@@ -74,14 +74,14 @@ Though small, Gillian’s Hill is not defenceless.
 # Travel
 
 
-
 `VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
 Travel Calculator / Exhaustion Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
 
-| Destination | Travel Days |
-| ----------- | ----------- |
-|             | 🕓:         |
-|             | 🕓:         |
+| Destination     | Travel Days                              |
+| --------------- | ---------------------------------------- |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]] | 🕓: 5.8 (walking)<br>🕓: 2.9 (horseback) |
+| [[2-World/Hubs/Daggerford\|Daggerford]]  | 🕓:                                      |
+
 hidden
 ```base
 properties:
