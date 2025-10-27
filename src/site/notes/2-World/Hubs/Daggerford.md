@@ -1,7 +1,9 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]","[[2-World/Regions/Sword Coast.md|Sword Coast]]"],"MyCategory":"Town +200","obsidianUIMode":"preview","image":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Hubs/Daggerford.md","permalink":"/world/hubs/daggerford/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]","[[2-World/Regions/Sword Coast.md|Sword Coast]]"],"MyCategory":"Town +200","obsidianUIMode":"preview","image":"Daggerford.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Hubs/Daggerford.md","permalink":"/world/hubs/daggerford/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
+
+![Pasted image 20251027151330.png|600](/img/user/z_Assets/Maps/Pasted%20image%2020251027151330.png)
 
 # General
 
