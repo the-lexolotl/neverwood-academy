@@ -270,54 +270,25 @@ img { max-width: 100%; border-radius: 8px; }
     height: 100% !important;
 }
 
-/* --- Reduce graph node size --- */
-.graph svg circle,
-#link-graph svg circle,
-#full-graph-container svg circle {
-    r: 3;
+/* --- Fix graph rendering and change colours --- */
+/* Override graph colour variables */
+body {
+    --graph-main: #9b9d79 !important; /* Main node color */
+    --graph-muted: #5c5ca0 !important; /* Link/connection color */
 }
 
-/* --- Change graph node and link colors --- */
-/* Node colors */
-svg circle {
-    fill: #9b9d79 !important;
-    stroke: #d8deb9 !important;
-    stroke-width: 1.5 !important;
-}
-
-/* Link/line colors */
-svg line {
-    stroke: #5c5ca0 !important;
-    stroke-width: 1 !important;
-    opacity: 0.6 !important;
-}
-
-/* More specific targeting */
-#link-graph svg circle,
-#full-graph-container svg circle {
-    fill: #9b9d79 !important;
-    stroke: #d8deb9 !important;
-}
-
-#link-graph svg line,
-#full-graph-container svg line {
-    stroke: #5c5ca0 !important;
-    opacity: 0.6 !important;
-}
-/* --- Fix graph rendering issues --- */
-#link-graph,
-#full-graph-container,
-.graph {
-    transition: none !important; /* Disable transitions on graph */
-}
-
-#link-graph canvas,
-#full-graph-container canvas {
+/* Remove transitions from everything to fix graph */
+* {
     transition: none !important;
 }
 
-/* Ensure graph container is properly sized */
-#link-graph {
-    display: block !important;
-    position: relative !important;
+/* Add back transitions only where needed */
+body, p, a, button, .btn, h1, h2, h3, h4, h5, h6, 
+.garden-card, .note-card, .block {
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+/* Ensure graph containers don't have transitions */
+#link-graph, #full-graph-container, .graph, canvas, svg {
+    transition: none !important;
 }
