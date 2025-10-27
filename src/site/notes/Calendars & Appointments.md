@@ -3,12 +3,15 @@
 ---
 
 # In-Game Calendar 
+```html
 <script src='https://app.fantasy-calendar.com/js/embed.js'></script>
 <script>
 FantasyCalendar({
 	hash: '866405b66895483cdf57cd599d082c86',
 	settings: {
 		theme: 'custom',
+		size: 'custom',
+		width: '800',
 		background_color: '#323244',
 		border_color: '#c5c1a7',
 		current_date_color: '#436eb1',
@@ -18,6 +21,7 @@ FantasyCalendar({
 	},
 });
 </script>
+```
 
 # Calendar 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&hl=en_GB&showPrint=0&mode=WEEK&title=Neverwood%3A%20The%20Ruined%20Syllabus&src=YThkODBkMDY4NzUwZTU3MDE5M2U2ODZkMmM2ODc0MTQ1ZjM2NzkyZDZjZGVjNWYxZWZmMzVmMDY4MmRjZjUyZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237986cb" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
