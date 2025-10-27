@@ -293,7 +293,14 @@ body, p, a, button, .btn, h1, h2, h3, h4, h5, h6,
     transition: none !important;
 }
 
-/* --- Make graph nodes smaller --- */
-body {
-    --graph-node-size: 3 !important; /* Adjust this value - try 2, 3, 4, etc. */
+/* --- Force smaller nodes if variable doesn't work --- */
+#link-graph circle,
+#full-graph-container circle,
+.graph circle {
+    r: 3 !important;
+}
+
+/* Also try targeting with attribute selector */
+circle[r] {
+    r: 3 !important;
 }
