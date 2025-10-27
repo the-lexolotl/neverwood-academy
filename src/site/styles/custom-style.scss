@@ -304,3 +304,20 @@ svg line {
     stroke: #5c5ca0 !important;
     opacity: 0.6 !important;
 }
+/* --- Fix graph rendering issues --- */
+#link-graph,
+#full-graph-container,
+.graph {
+    transition: none !important; /* Disable transitions on graph */
+}
+
+#link-graph canvas,
+#full-graph-container canvas {
+    transition: none !important;
+}
+
+/* Ensure graph container is properly sized */
+#link-graph {
+    display: block !important;
+    position: relative !important;
+}
