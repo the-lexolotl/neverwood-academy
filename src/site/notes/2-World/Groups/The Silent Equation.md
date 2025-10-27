@@ -3,7 +3,7 @@
 ---
 
 
-![The Silent Equation.png](/img/user/z_Assets/The%20Silent%20Equation.png)
+![The Silent Equation.png](/img/user/z_Assets/website/The%20Silent%20Equation.png)
 
 # General
 

@@ -95,7 +95,7 @@ Several groups influence Neverwinter’s politics and power:
 
 ## Symbol
 Neverwinter’s emblem is three white snowflakes enclosed in silver and blue halos, arranged vertically in a swirl as if falling. It symbolizes grace, craftsmanship, and endurance — qualities the people of Neverwinter hold dear.
-![Pasted image 20251023232515.png|200](/img/user/z_Assets/Pasted%20image%2020251023232515.png)
+![Pasted image 20251023232515.png|200](/img/user/z_Assets/website/Pasted%20image%2020251023232515.png)
 
 
 # Travel

@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20251023230953.png](/img/user/z_Assets/Pasted%20image%2020251023230953.png)
+![Pasted image 20251023230953.png](/img/user/z_Assets/Maps/Pasted%20image%2020251023230953.png)
 # General
 
 **Region:** [[2-World/Regions/Malatra\|Malatra]]

@@ -46,8 +46,7 @@
 | Other           |                                                                             |
 
 ## Biography
-
-Marionette grew up in the lowest reaches of the Heart Tree — a towering sprawl of roots and ruin that forms the undercity of the Grand Varanian Forest. Down there, sunlight is a luxury, and survival depends more on wit than wealth. Abandoned at birth, she was left in the care of an old monastery that doubled as a front for the thieves’ guild known as Myra’s Hand. It was there that the guild’s leader, Aurthrin “Daggy” Dagg, a shrewd gnome with a fondness for strays and second chances, found her and raised her as his own.
+Marionette grew up in the lowest reaches of [[The Heart Tree\|The Heart Tree]] — a towering sprawl of roots and ruin that forms the undercity of the Grand Varanian Forest. Down there, sunlight is a luxury, and survival depends more on wit than wealth. Abandoned at birth, she was left in the care of an old monastery that doubled as a front for the thieves’ guild known as [[Myra’s Hand\|Myra’s Hand]]. It was there that the guild’s leader, Aurthrin “Daggy” Dagg, a shrewd gnome with a fondness for strays and second chances, found her and raised her as his own.
 
 Life beneath the Heart Tree was not an easy one, but it suited Marionette. By fifteen she was running solo jobs — burglaries, cons, forgery, and the occasional recovery of “misplaced” valuables for paying clients. Her work was careful, deliberate, and rarely violent. Marionette learned early that a quiet touch and a good story could open more doors than a blade ever could.
 
