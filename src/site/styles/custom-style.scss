@@ -209,7 +209,7 @@ img { max-width: 100%; border-radius: 8px; }
 
 /* --- Add padding under the graph --- */
 .sidebar .graph {
-    margin-bottom: 20px !important; /* Add space below graph */
+    margin-bottom: 40px !important; /* Add space below graph */
 }
 /* --- Custom scrollbar styling --- */
 /* For Webkit browsers (Chrome, Safari, Edge) */
@@ -291,4 +291,9 @@ body, p, a, button, .btn, h1, h2, h3, h4, h5, h6,
 /* Ensure graph containers don't have transitions */
 #link-graph, #full-graph-container, .graph, canvas, svg {
     transition: none !important;
+}
+
+/* --- Make graph nodes smaller --- */
+body {
+    --graph-node-size: 3 !important; /* Adjust this value - try 2, 3, 4, etc. */
 }
