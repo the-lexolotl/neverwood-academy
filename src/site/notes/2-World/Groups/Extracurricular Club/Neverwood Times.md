@@ -26,6 +26,7 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
+
 # People
 
 The following people are members of this group.  
