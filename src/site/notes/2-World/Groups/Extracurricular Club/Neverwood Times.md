@@ -26,11 +26,6 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
-
 # People
 
 The following people are members of this group.  
@@ -47,5 +42,13 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]     | Half-Orc   | Male       | Lorehold    |
 | [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]     | Shadar-Kai | Non-binary | Silverquill |
 | [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                    | Human      | Male       | Quandrix    |
+
+{ .block-language-dataview}
+# Volumes
+| File                                                                  | Date              | Connected Quests                                                                      |
+| --------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]] | 24th Eleint 1508  | <ul><li>[[2-World/Quests/The Missing Professor.md\\|The Missing Professor]]</li></ul> |
+| [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]   | 21th Eleasis 1508 | <ul><li>[[2-World/Quests/Whos goo.md\\|Whos goo]]</li></ul>                           |
+| [[2-Player Handouts/Neverwood Times/Volume XXX\|Volume XXX]]       | 1st Hammer 1509   | \-                                                                                    |
 
 { .block-language-dataview}

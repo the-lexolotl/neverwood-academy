@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Neverwood Times - Week 4.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":["[[2-World/Groups/Extracurricular Club/Neverwood Times.md|Neverwood Times]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Player Handouts/Neverwood Times/Volume XXVIII.md","permalink":"/player-handouts/neverwood-times/volume-xxviii/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Neverwood Times - Week 4.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":["[[2-World/Groups/Extracurricular Club/Neverwood Times.md|Neverwood Times]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"ingameDate":"24th Eleint 1508","dg-path":"Player Handouts/Neverwood Times/Volume XXVIII.md","permalink":"/player-handouts/neverwood-times/volume-xxviii/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
