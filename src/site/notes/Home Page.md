@@ -21,6 +21,7 @@ FantasyCalendar({
 });
 </script>
 
+[View Full Calendar](https://app.fantasy-calendar.com/calendars/866405b66895483cdf57cd599d082c86)
 ## [[Appointments\|Book an Appointment]]
 
 |          **[[2-World/Continents/Faerûn\|Faerûn]]**          |   [[2-World/Regions/Sword Coast\|Sword Coast]]    |       [[2-World/Hubs/Neverwinter\|Neverwinter]]       | **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]** | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
