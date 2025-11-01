@@ -170,12 +170,12 @@ The Underdark also hosts kuo-toa, illithid, and beholder cities, hidden in its e
 | ----------------------------------------------------- |
 | [[2-World/Regions/Sword Coast\|Sword Coast]]       |
 | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]] |
+| [[2-World/Regions/The North\|The North]]           |
 
 { .block-language-dataview}
 # Capital Cities
 
-| File                                         |
-| -------------------------------------------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+| File |
+| ---- |
 
 { .block-language-dataview}

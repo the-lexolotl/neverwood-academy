@@ -1,12 +1,12 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 ![Xvart Camp.webp](/img/user/z_Assets/Maps/Xvart%20Camp.webp)
 # General
 
-**Region:** [[2-World/Regions/Sword Coast\|Sword Coast]]
+**Region:** [[2-World/Regions/The North\|The North]]
 
 **Category:** Village (+80)
 

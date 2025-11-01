@@ -49,13 +49,13 @@ The following people are members of this group.
 | [[2-World/People/Staff/Prismari/Zaph\|Zaph]]                                | Air Genasi   | FtM        | Professor of Perfection |
 | [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                 | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]] | Orc          | Non-binary | Student                 |
+| [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Triton       | Male       | Student                 |
 | [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon      | Female     | Student                 |
 | [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                   | Human        | Female     | Student                 |
 | [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]         | Fire Genasi  | Male       | Student                 |
-| [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Triton       | Male       | Student                 |
 | [[2-World/People/Students/1507/Rose Mugwort\|Rose Mugwort]]                 | Halfling     | Female     | Student                 |
-| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]]     | Half-Orc     | Male       | Student                 |
 | [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]]     | Dragonborn   | Male       | Student                 |
+| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]]     | Half-Orc     | Male       | Student                 |
 | [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                 | Gnome        | Male       | Student                 |
 
 { .block-language-dataview}

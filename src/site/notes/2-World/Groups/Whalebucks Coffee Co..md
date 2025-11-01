@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks (2) 1.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-path":"World/Groups/Whalebucks Coffee Co..md","permalink":"/world/groups/whalebucks-coffee-co/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-path":"World/Groups/Whalebucks Coffee Co..md","permalink":"/world/groups/whalebucks-coffee-co/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -7,8 +7,8 @@
 
 
 
-![Whalebucks (2).png](/img/user/z_Assets/website/Whalebucks%20(2).png)
-
+![[Whalebucks (2).png\|Whalebucks (2).png]]
+![Whalebucks.png](/img/user/z_Assets/website/Whalebucks.png)
 # General
 
 
@@ -58,8 +58,8 @@ The following people are members of this group.
 
 | File                                                                        | Gender | Race  | Role         | College |
 | --------------------------------------------------------------------------- | ------ | ----- | ------------ | ------- |
-| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
+| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] | Male   | Human | Cafe Manager | None    |
 
 { .block-language-dataview}

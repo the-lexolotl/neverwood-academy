@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/Sword Coast.md|Sword Coast]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Pasted image 20250914220845.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/The Pub That Crawls.md|The Pub That Crawls]]"],"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Pasted image 20250914220845.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/The Pub That Crawls.md|The Pub That Crawls]]"],"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-Neverwinter, also called the *City of Skilled Hands*, is a major city-state on the northern Sword Coast of Faerûn. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in the North.
+Neverwinter, also called the *City of Skilled Hands*, is a major city-state in [[2-World/Regions/The North\|The North]] of [[2-World/Continents/Faerûn\|Faerûn]]. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in the North.
 
 Once called **Eigersstor** by its Illuskan founders, the name “Neverwinter” derives from the city’s ability to remain vibrant through the cold months — its river never freezing thanks to elemental heat flowing from Mount Hotenow.
 
@@ -32,7 +32,6 @@ Nearby landmarks include **Helm’s Hold**, a fortified monastery to the southea
 Neverwinter was built upon the ruins of the elven city **Iliyanbruen** after its fall to orc invasions. The first human settlement, **Eigersstor**, eventually became known as Neverwinter — a cosmopolitan centre of art, learning, and trade.
 
 The city endured many calamities:
-
 * **1372 DR:** The *Wailing Death* plague devastated its population.
 * **1385 DR:** The *Spellplague* struck [[2-World/Continents/Faerûn\|Faerûn]], further destabilizing the city.
 * **1451 DR:** *Mount Hotenow* erupted, destroying much of Neverwinter and killing the ruling **Alagondar line**.
@@ -47,7 +46,6 @@ After the eruption of Mount Hotenow, **Lord Dagult Neverember** claimed descent 
 
 ## Defences
 Neverwinter’s armies are among the most disciplined in the North. The city’s defenders include:
-
 * **The Neverwinter Guard** – professional soldiers, once bolstered by mercenaries from Mintarn.
 * **The Wintershield Watchmen** – local peacekeepers who replaced many of the foreign troops.
 * **The Many-Starred Cloak** – an order of mages serving the city’s rulers.
@@ -67,7 +65,7 @@ Faith plays a vital role in Neverwinter’s daily life.
 * In later years, temples to **Torm**, **Bahamut**, and **Selûne** became prominent.
 * The faiths of **Kelemvor** and even **Asmodeus** also found followers, reflecting the city’s complex moral and political landscape.
 
-Today, nearly every major faith of the [[2-World/Regions/Sword Coast\|Sword Coast]] has a presence within the city walls.
+Today, nearly every major faith of the [[2-World/Regions/The North\|The North]] has a presence within the city walls.
 
 ## Trade & Craftsmanship
 Neverwinter thrives on trade with **Waterdeep**, **Gauntlgrym**, and coastal settlements. It exports glassware, clocks, jewelry, and fine crafts, and imports lumber and ores from the North.
@@ -121,9 +119,9 @@ Exhaustion Level: 0
 
 | File                                                                   | Race      | Gender | Role           |
 | ---------------------------------------------------------------------- | --------- | ------ | -------------- |
-| [[2-World/People/Other/Neverwinter/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Other/Neverwinter/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
 | [[2-World/People/Other/Neverwinter/Bellana\|Bellana]]               | Dryad     | Female | Tavern Manager |
+| [[2-World/People/Other/Neverwinter/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Other/Neverwinter/Bree Peregrine\|Bree Peregrine]] | Elf       | Female | Tavern Founder |
 | [[2-World/People/Other/Neverwinter/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Other/Neverwinter/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |

@@ -75,10 +75,10 @@ Though small, Gillian’s Hill is not defenceless.
 8 hrs per day
 Exhaustion Level: 0
 
-| Destination     | Travel Days                              |
-| --------------- | ---------------------------------------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]] | 🕓: 5.8 (walking)<br>🕓: 2.9 (horseback) |
-| [[2-World/Hubs/Daggerford\|Daggerford]]  | 🕓:                                      |
+| Destination | Travel Days                              |
+| ----------- | ---------------------------------------- |
+| Neverwinter | 🕓: 5.8 (walking)<br>🕓: 2.9 (horseback) |
+| Daggerford  | 🕓:                                      |
 
 # Quests
 
