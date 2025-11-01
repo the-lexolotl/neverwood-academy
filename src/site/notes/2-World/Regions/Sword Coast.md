@@ -31,7 +31,7 @@ The Sword Coast occupies a broad and varied stretch of territory bordered by the
 * **Waterdeep** — The City of Splendors; a bastion of trade, politics, and powerful magic.
 * **Baldur’s Gate** — A grim but thriving port on the River Chionthar, known for its merchant patriars and dangerous underworld.
 * **Elturel** — The capital of Elturgard, recently returned from Avernus; now a fervently theocratic city.
-* **Daggerford** — A small but vital duchy along the Trade Way, linking Waterdeep to Baldur’s Gate.
+* [[2-World/Hubs/Daggerford\|Daggerford]] — A small but vital duchy along the Trade Way, linking Waterdeep to Baldur’s Gate.
 * **Candlekeep** — A fortress-library perched atop seaside cliffs, repository of Faerûn’s greatest written lore.
 * **Ss’thar’tiss’ssun** — The naga capital of Najara, hidden deep in the Serpent Hills.
 
@@ -54,7 +54,7 @@ Other peoples — including genasi, aasimar, tabaxi, and yuan-ti — can be enco
 The Sword Coast is **not a nation**, but a patchwork of free cities, realms, and alliances bound by trade and necessity. Merchant caravans and ships connect Waterdeep and Baldur’s Gate to the interior, while adventurers and mercenaries roam freely between.
 
 ## Major Powers
-* **The Lords’ Alliance** – A coalition of city-states including **Waterdeep**, **Baldur’s Gate**, **Daggerford**, and several cities of **The North** (such as [[2-World/Hubs/Neverwinter\|Neverwinter]]). It promotes mutual defense, peace, and prosperity.
+* **The Lords’ Alliance** – A coalition of city-states including **Waterdeep**, **Baldur’s Gate**, [[2-World/Hubs/Daggerford\|Daggerford]], and several cities of **The North** (such as [[2-World/Hubs/Neverwinter\|Neverwinter]]). It promotes mutual defence, peace, and prosperity.
 * **The Harpers** – A semi-secret network of spies and idealists dedicated to balance and the opposition of tyranny.
 * **The Zhentarim** – A mercantile and paramilitary organization seeking power through wealth and subterfuge.
 * **The Xanathar Guild** – A criminal network based in Skullport beneath Waterdeep, led by the paranoid beholder **Xanathar**.
