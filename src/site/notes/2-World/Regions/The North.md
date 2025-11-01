@@ -99,11 +99,11 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 # Hubs
 
-| File                                                     |
-| -------------------------------------------------------- |
-| [[2-World/Hubs/Xvart Village\|Xvart Village]]         |
-| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]]             |
+| File                                                     | Category      |
+| -------------------------------------------------------- | ------------- |
+| [[2-World/Hubs/Xvart Village\|Xvart Village]]         | Village +80   |
+| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | Magic Academy |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]             | City +1500    |
 
 { .block-language-dataview}
 
