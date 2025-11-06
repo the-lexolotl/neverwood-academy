@@ -5,7 +5,7 @@
 
 # General
 
-![map-1.5-silverquill-campus.jpg|500](/img/user/z_Assets/Campus%20Maps/map-1.5-silverquill-campus.jpg)
+![map-1.5-silverquill-campus.jpg|500](/img/user/z_Assets/Maps/Campus%20Maps/map-1.5-silverquill-campus.jpg)
 
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
 
@@ -29,6 +29,7 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/1507/Mina Lee\|Mina Lee]]                           | Human      | Female     | Student               |
 | [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]         | Orc        | Female     | Student               |
+| [[2-World/People/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]         | Changling  | Non-binary | Student               |
 | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
 | [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |

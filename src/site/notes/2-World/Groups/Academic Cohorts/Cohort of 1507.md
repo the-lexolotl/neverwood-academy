@@ -53,6 +53,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                           | Orc          | Male       | Witherbloom |
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]                         | Orc          | Female     | Silverquill |
 | [[2-World/People/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin       | Female     | Lorehold    |
+| [[2-World/People/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                         | Changling    | Non-binary | Silverquill |
 
 { .block-language-dataview}
 

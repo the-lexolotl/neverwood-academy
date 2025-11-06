@@ -1,0 +1,18 @@
+---
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"image":"NW Pubs Front.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/The Pub That Crawls.md|The Pub That Crawls]]"],"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Player Handouts/Neverwinter Pubs, Inns & Taverns.md","permalink":"/player-handouts/neverwinter-pubs-inns-and-taverns/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+---
+
+
+
+
+# Connections
+
+**Groups:** None
+
+**Quests:**  None 
+
+---
+
+![NW Pubs Front.png](/img/user/z_Assets/The%20Pub%20That%20Crawls/NW%20Pubs%20Front.png)
+
+![NW Pubs Back.png](/img/user/z_Assets/The%20Pub%20That%20Crawls/NW%20Pubs%20Back.png)

@@ -5,7 +5,7 @@
 
 # General
 
-![map-1.1-central-campus.jpg|500](/img/user/z_Assets/Campus%20Maps/map-1.1-central-campus.jpg)
+![map-1.1-central-campus.jpg|500](/img/user/z_Assets/Maps/Campus%20Maps/map-1.1-central-campus.jpg)
 
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
 
