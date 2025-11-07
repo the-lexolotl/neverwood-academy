@@ -189,6 +189,7 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Quests/Colours in Chaos\|Colours in Chaos]]                   | October 23, 2025   | In Progress |
 | [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | October 11, 2025   | In Progress |
 | [[2-World/Quests/Whos goo\|Whos goo]]                                   | July 12, 2025      | In Progress |
+| [[2-World/Quests/Ricards Riches\|Ricards Riches]]                       | November 07, 2025  | Complete    |
 | [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | October 15, 2025   | Complete    |
 | [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]               | September 13, 2025 | Complete    |
 | [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]       | August 23, 2025    | Complete    |
