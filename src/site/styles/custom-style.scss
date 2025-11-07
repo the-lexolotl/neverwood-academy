@@ -198,12 +198,12 @@ img { max-width: 100%; border-radius: 8px; }
 
 /* --- Reduce top padding on content --- */
 .content {
-    margin-top: 45px !important; /* Reduced from 90px */
+    margin-top: 60px !important; /* Reduced from 90px */
 }
 
 @media (max-width: 800px) {
     .content {
-        margin-top: 45px !important; /* Reduced from 75px on mobile */
+        margin-top: 60px !important; /* Reduced from 75px on mobile */
     }
 }
 
