@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/The Price of Integrity.md|The Price of Integrity]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Price of Integrity|The Price of Integrity]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ With feathers like brushed silver and eyes that gleam with knowing light, Profes
 # Connections
 
 
-**Quests:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]
+**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/The Price of Integrity\|The Price of Integrity]]
 
 **Groups:** [[2-World/Groups/Neverwood Staff\|Neverwood Staff]], [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
 

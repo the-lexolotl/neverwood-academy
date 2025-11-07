@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Veyra Murgaxor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Halfling","char_gender":"Female","char_role":"Applicant","char_college":"None","char_items":null,"char_age":"Young Adult","parents":["Daniel Murgaxor"],"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Veyra Murgaxor.md","permalink":"/world/people/other/veyra-murgaxor/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Veyra Murgaxor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Halfling","char_gender":"Female","char_role":"Applicant","char_college":"None","char_items":null,"char_age":"Young Adult","parents":["Daniel Murgaxor"],"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Veyra Murgaxor.md","permalink":"/world/people/other/veyra-murgaxor/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ This is the persons description.
 # Connections
 
 
-**Quests:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]
+**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/Heist the Records Room\|Heist the Records Room]]
 
 **Groups:** None 
 

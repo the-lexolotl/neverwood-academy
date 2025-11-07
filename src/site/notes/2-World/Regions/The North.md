@@ -182,18 +182,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 # Quests
 
-| File                                                                       | Date Obtained      | Status      |
-| -------------------------------------------------------------------------- | ------------------ | ----------- |
-| [[2-World/Quests/Sigma Mail\|Sigma Mail]]                               | October 24, 2025   | In Progress |
-| [[2-World/Quests/The Merchant of Moons\|The Merchant of Moons]]         | October 24, 2025   | In Progress |
-| [[2-World/Quests/Colours in Chaos\|Colours in Chaos]]                   | October 23, 2025   | In Progress |
-| [[2-World/Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]] | October 11, 2025   | In Progress |
-| [[2-World/Quests/Whos goo\|Whos goo]]                                   | July 12, 2025      | In Progress |
-| [[2-World/Quests/Ricards Riches\|Ricards Riches]]                       | November 07, 2025  | Complete    |
-| [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]       | October 15, 2025   | Complete    |
-| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]               | September 13, 2025 | Complete    |
-| [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]       | August 23, 2025    | Complete    |
-| [[2-World/Quests/The Missing Professor\|The Missing Professor]]         | August 09, 2025    | Complete    |
+| File | Date Obtained | Status |
+| ---- | ------------- | ------ |
 
 { .block-language-dataview}
 

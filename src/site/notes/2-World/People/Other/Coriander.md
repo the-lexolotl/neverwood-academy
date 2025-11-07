@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["Freyot"],"children":null,"enemies":null,"allies":["Cumin","Fistandria"],"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Coriander.md","permalink":"/world/people/other/coriander/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["Freyot"],"children":null,"enemies":null,"allies":["Cumin","Fistandria"],"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Coriander.md","permalink":"/world/people/other/coriander/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -24,7 +24,7 @@ Coriander is a loyal homunculus who serves Freyot, attending to his needs and as
 # Connections
 
 
-**Quests:** [[2-World/Quests/The Missing Professor\|The Missing Professor]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 **Groups:** None 
 

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["Fistandria"],"children":null,"enemies":null,"allies":["Coriander","Freyot"],"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Cumin.md","permalink":"/world/people/other/cumin/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["Fistandria"],"children":null,"enemies":null,"allies":["Coriander","Freyot"],"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Cumin.md","permalink":"/world/people/other/cumin/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -24,7 +24,7 @@ Cumin is a devoted homunculus who serves as Fistandria’s butler, attending to 
 # Connections
 
 
-**Quests:** [[2-World/Quests/The Missing Professor\|The Missing Professor]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 **Groups:** None 
 

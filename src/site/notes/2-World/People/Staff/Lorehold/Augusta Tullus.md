@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Augusta.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Female","char_role":"College Dean","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Lorehold/Augusta Tullus.md","permalink":"/world/people/staff/lorehold/augusta-tullus/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Augusta.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Female","char_role":"College Dean","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Lorehold/Augusta Tullus.md","permalink":"/world/people/staff/lorehold/augusta-tullus/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ Dean Augusta Tullus is a disciplined and meticulous scholar, renowned for her ex
 # Connections
 
 
-**Quests:** [[2-World/Quests/The Missing Professor\|The Missing Professor]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 **Groups:** [[2-World/Groups/Neverwood Staff\|Neverwood Staff]], [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
 

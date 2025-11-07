@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Playactors Drama Guild.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"Deception","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/The Merchant of Moons.md|The Merchant of Moons]]"],"dg-path":"World/Groups/Extracurricular Club/Play Actors Drama Guild.md","permalink":"/world/groups/extracurricular-club/play-actors-drama-guild/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Playactors Drama Guild.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"Deception","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[The Merchant of Moons|The Merchant of Moons]]"],"dg-path":"World/Groups/Extracurricular Club/Play Actors Drama Guild.md","permalink":"/world/groups/extracurricular-club/play-actors-drama-guild/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

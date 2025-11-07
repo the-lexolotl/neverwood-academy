@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Elandra.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Elandra"],"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"Female","char_role":"Student","char_college":"Prismari","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Colours in Chaos.md|Colours in Chaos]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Students/1508/Elandra Stormwhisper.md","permalink":"/world/people/students/1508/elandra-stormwhisper/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Elandra.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Elandra"],"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"Female","char_role":"Student","char_college":"Prismari","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Colours in Chaos|Colours in Chaos]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Students/1508/Elandra Stormwhisper.md","permalink":"/world/people/students/1508/elandra-stormwhisper/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ Elandra Stormwhisper is a spirited Prismari student known for her grace, creativ
 # Connections
 
 
-**Quests:** [[2-World/Quests/Colours in Chaos\|Colours in Chaos]]
+**Quests:** [[2-Quests/Colours in Chaos\|Colours in Chaos]]
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]]
 

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Matreous.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Male","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Lorehold/Matreous.md","permalink":"/world/people/staff/lorehold/matreous/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Matreous.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Male","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Lorehold/Matreous.md","permalink":"/world/people/staff/lorehold/matreous/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -28,7 +28,7 @@ Matreous went missing in 1507. He was later found by the party in Fistandrias ex
 # Connections
 
 
-**Quests:** [[2-World/Quests/The Missing Professor\|The Missing Professor]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 **Groups:** [[2-World/Groups/Neverwood Staff\|Neverwood Staff]], [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Hubs/Xvart Village.md|Xvart Village]]","MyCategory":"Dungeon","obsidianUIMode":"preview","image":"Xvart Dungeon.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"dg-path":"World/Points of Interest/Xvart Ritual Dungeon.md","permalink":"/world/points-of-interest/xvart-ritual-dungeon/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Hubs/Xvart Village.md|Xvart Village]]","MyCategory":"Dungeon","obsidianUIMode":"preview","image":"Xvart Dungeon.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"dg-path":"World/Points of Interest/Xvart Ritual Dungeon.md","permalink":"/world/points-of-interest/xvart-ritual-dungeon/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -48,13 +48,12 @@ views:
 
 ```
 :::
-| File                                                         |
-| ------------------------------------------------------------ |
-| [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]] |
+| File |
+| ---- |
 
 { .block-language-dataview}
 
-### [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]
+### [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 - [x]  Navigate through the dungeon
 - [x]  Locate the sharman and [[2-World/People/Other/Miaukier\|Miaukier]] 
 - [x]  Stop the ritual

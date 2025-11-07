@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911161923.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Cat","char_gender":"Male","char_role":"Other","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Miaukier.md","permalink":"/world/people/other/miaukier/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911161923.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Cat","char_gender":"Male","char_role":"Other","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Other/Miaukier.md","permalink":"/world/people/other/miaukier/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -46,7 +46,7 @@ Miaukier is the beloved pet of Professor Theodore Moss, recently transformed int
 # Connections
 
 
-**Quests:** [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]
+**Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
 **Groups:** [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 

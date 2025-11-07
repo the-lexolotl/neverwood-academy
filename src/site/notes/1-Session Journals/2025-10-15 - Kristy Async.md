@@ -77,7 +77,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 * She tasks Vigilius to find them **alone — no spells, no faculty.**  
 * “Do this,” she says, “and we can put this matter behind us.”  
 * Vigilius accepts, determined to prove himself worthy of the trust he’s been given.
-	* See [[2-World/Quests/The Price of Integrity\|The Price of Integrity]]
+	* See [[2-Quests/The Price of Integrity\|The Price of Integrity]]
 
 ### Ongoing Threads
 

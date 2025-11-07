@@ -34,7 +34,7 @@ Delta is _eerily calm_, speaking in academic cadence and metaphor. They never li
 # Connections
 
 
-**Quests:** [[2-World/Quests/Sigma Mail\|Sigma Mail]]
+**Quests:** [[2-Quests/Sigma Mail\|Sigma Mail]]
 
 **Groups:** [[2-World/Groups/The Silent Equation\|The Silent Equation]]
 

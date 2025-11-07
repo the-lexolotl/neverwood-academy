@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"tags":["Handout"],"Connected_Quests":["[[2-World/Quests/The Missing Professor.md|The Missing Professor]]"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"image":"009-02-001.book 1.webp","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Book","dg-path":"Player Handouts/The Joy of Extradimensional Spaces (book).md","permalink":"/player-handouts/the-joy-of-extradimensional-spaces-book/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Handout"],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"image":"009-02-001.book 1.webp","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Book","dg-path":"Player Handouts/The Joy of Extradimensional Spaces (book).md","permalink":"/player-handouts/the-joy-of-extradimensional-spaces-book/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 # Connections
 
-**Quests:** [[2-World/Quests/The Missing Professor\|The Missing Professor]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 ---
 ![009-02-001.book 1.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book%201.webp)

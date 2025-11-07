@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911160709.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Veteran","char_college":"Witherbloom","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Miaukier Must Die!.md|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Witherbloom/Theodore Moss.md","permalink":"/world/people/staff/witherbloom/theodore-moss/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911160709.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Veteran","char_college":"Witherbloom","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Staff/Witherbloom/Theodore Moss.md","permalink":"/world/people/staff/witherbloom/theodore-moss/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ Theodor is a gaunt, hunched man with overly long limbs and a bony face. His skin
 # Connections
 
 
-**Quests:** [[2-World/Quests/Miaukier Must Die!\|Miaukier Must Die!]]
+**Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
 **Groups:** [[2-World/Groups/Neverwood Staff\|Neverwood Staff]], [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 

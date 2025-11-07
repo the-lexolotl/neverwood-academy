@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Pasted image 20250914220845.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-World/Quests/The Pub That Crawls.md|The Pub That Crawls]]"],"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Pasted image 20250914220845.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

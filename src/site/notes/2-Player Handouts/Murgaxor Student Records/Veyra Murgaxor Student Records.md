@@ -1,11 +1,11 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Veyra.png","dg-publish":true,"Connected_Quests":["[[2-World/Quests/Whos goo.md|Whos goo]]","[[2-World/Quests/Heist the Records Room.md|Heist the Records Room]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Loot","dg-path":"Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/veyra-murgaxor-student-records/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Veyra.png","dg-publish":true,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Loot","dg-path":"Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/veyra-murgaxor-student-records/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 # Connections
 
-**Quests:** [[2-World/Quests/Whos goo\|Whos goo]], [[2-World/Quests/Heist the Records Room\|Heist the Records Room]]
+**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/Heist the Records Room\|Heist the Records Room]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-010.cadoras.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Cadoras","Caddy"],"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Harry Blackstone"],"siblings":null,"partner":null,"Connected_Quests":["[[2-World/Quests/Colours in Chaos.md|Colours in Chaos]]","[[Sigma Mail|Sigma Mail]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]","[[Live-Action Roleplaying Guild|Live-Action Roleplaying Guild]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Students/1508/Cadoras Damellawar.md","permalink":"/world/people/students/1508/cadoras-damellawar/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-010.cadoras.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Cadoras","Caddy"],"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Harry Blackstone"],"siblings":null,"partner":null,"Connected_Quests":["[[Colours in Chaos|Colours in Chaos]]","[[Sigma Mail|Sigma Mail]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]","[[Live-Action Roleplaying Guild|Live-Action Roleplaying Guild]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/People/Students/1508/Cadoras Damellawar.md","permalink":"/world/people/students/1508/cadoras-damellawar/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ Cadoras Damellawar is a bright and mischievous Quandrix student with a grin that
 # Connections
 
 
-**Quests:** [[2-World/Quests/Colours in Chaos\|Colours in Chaos]], [[2-World/Quests/Sigma Mail\|Sigma Mail]]
+**Quests:** [[2-Quests/Colours in Chaos\|Colours in Chaos]], [[2-Quests/Sigma Mail\|Sigma Mail]]
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]], [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]
 
