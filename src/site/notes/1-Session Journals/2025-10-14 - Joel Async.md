@@ -7,10 +7,6 @@
 
 [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]
 
-## Absent
-
-None 
-
 # Session Overview
 
 **Session Status:**  Occurred

@@ -7,10 +7,6 @@
 
 [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]
 
-## Absent
-
-None 
-
 # Session Overview
 
 **Session Status:**  Occurred

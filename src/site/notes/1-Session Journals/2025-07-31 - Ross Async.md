@@ -5,19 +5,14 @@
 # Harry's Library Heist
 ## Roster 
 
-
-
 [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]
-
-## Absent
-
-
-
 
 # Session Overview
 
 
-**Session Status:** Occurred
+**Session Status:**  Occurred
+
+**In Game Date:** 17th Eleint 1508
 
 ## Group Cup Points
 

@@ -7,10 +7,6 @@
 
 [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]
 
-## Absent
-
-None
-
 # Session Overview
 
 **Session Status:**  Occurred

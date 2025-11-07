@@ -7,10 +7,6 @@
 
 [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]
 
-## Absent
-
-None
-
 # Session Overview
 
 **Session Status:** Occurred

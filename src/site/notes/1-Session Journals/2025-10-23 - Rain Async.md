@@ -7,10 +7,6 @@
 
 [[1-Party/Group 2/H'er\|H'er]]
 
-## Absent
-
-None 
-
 # Session Overview
 
 **Session Status:** Occurred
