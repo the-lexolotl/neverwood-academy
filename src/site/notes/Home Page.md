@@ -3,7 +3,7 @@
 ---
 
 
-| [[zz_Website/Player Characters\|Player Characters]]      | [[zz_Website/Quests\|Quests]]      | [[zz_Website/Session Journals\|Session Journals]]      | [[zz_Website/Player Handouts\|Player Handouts]] | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
+| [[Player Characters\|Player Characters]]      | [[Quests\|Quests]]      | [[Session Journals\|Session Journals]]      | [[Player Handouts\|Player Handouts]] | [Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join) |
 | -------------------------- | --------------- | ------------------------- | ------------------- | -------------------------------------------------------------------- |
 | ![Player Characters.png](/img/user/z_Assets/website/Player%20Characters.png) | ![Quests.png](/img/user/z_Assets/website/Quests.png) | ![Session Journals.png](/img/user/z_Assets/website/Session%20Journals.png) | ![Handouts.png](/img/user/z_Assets/website/Handouts.png)   | ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                                 |
 
