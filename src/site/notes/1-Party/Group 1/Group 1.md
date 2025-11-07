@@ -11,17 +11,8 @@
 
 **Category:** Group Cup
 
-**Current Points:** 240
+**Current Points:** 250
 
-# Goals
-
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
 
 # Membership
 Students are allocated groups at the beginning of their academic journey

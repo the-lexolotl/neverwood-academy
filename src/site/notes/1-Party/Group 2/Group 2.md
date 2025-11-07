@@ -11,16 +11,8 @@
 
 **Category:** Group Cup
 
-**Current Points:** 200
-# Goals
+**Current Points:** 150
 
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
 
 # Membership
 
