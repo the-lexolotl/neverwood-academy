@@ -28,8 +28,8 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]                                   | Loxodon      | Female     | Student                 |
 | [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                               | Human        | Female     | Student                 |
 | [[2-World/People/Students/1507/Rose Mugwort\|Rose Mugwort]]                                             | Halfling     | Female     | Student                 |
-| [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn   | Male       | Student                 |
 | [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]]                                 | Half-Orc     | Male       | Student                 |
+| [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn   | Male       | Student                 |
 | [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             | Gnome        | Male       | Student                 |
 | [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                                                          | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                                          | Human        | Male       | Professor of Expression |

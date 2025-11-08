@@ -27,8 +27,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]           | Dragon                 | Female     | Lorehold    | Founder Dragon             |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Marrick Deepfindee\|Marrick Deepfindee]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                 | Owlin                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
@@ -82,8 +82,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]        | Dragon                 | Male       | Silverquill | Founder Dragon             |
 | [[2-World/People/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]                  | Leonin                 | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]            | Owlin                  | Female     | Silverquill | Professor of Radiance      |
-| [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Nils\|Nils]]                                      | Human                  | Male       | Silverquill | Professor of Radiance      |
+| [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                        | Kenku                  | Non-binary | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |

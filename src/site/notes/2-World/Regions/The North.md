@@ -111,17 +111,17 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 | File                                                                                                       | Location                                                     |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
+| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
 | [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               | [[2-World/Hubs/Xvart Village\|Xvart Village]]             |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       | [[2-World/Places/Central Campus\|Central Campus]]         |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     | [[2-World/Places/Central Campus\|Central Campus]]         |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]         |
+| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     | [[2-World/Places/Central Campus\|Central Campus]]         |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | [[2-World/Places/Central Campus\|Central Campus]]         |
 | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           | [[2-World/Places/Central Campus\|Central Campus]]         |
 | [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   | [[2-World/Places/Central Campus\|Central Campus]]         |
@@ -139,8 +139,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
 | [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
 | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
 | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
+| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
 
 { .block-language-dataview}
 # Groups
@@ -169,14 +169,14 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
+| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
-| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
-| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
+| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
 
 { .block-language-dataview}
 

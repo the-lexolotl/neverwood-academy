@@ -26,11 +26,11 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
-| [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Staff/Molvi Le Donto\|Molvi Le Donto]]       | Human                  | Female | Lab Administrator          |
+| [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
-| [[2-World/People/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
+| [[2-World/People/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
 | [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Cafe Manager               |
 | [[2-World/People/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
@@ -54,8 +54,8 @@ Make notes of what you need to track in the town here.
 | ---------------------------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
-| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
+| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
 | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           |
 | [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   |

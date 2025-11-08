@@ -119,9 +119,9 @@ Exhaustion Level: 0
 
 | File                                                                   | Race      | Gender | Role           |
 | ---------------------------------------------------------------------- | --------- | ------ | -------------- |
+| [[2-World/People/Other/Neverwinter/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Other/Neverwinter/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
 | [[2-World/People/Other/Neverwinter/Bellana\|Bellana]]               | Dryad     | Female | Tavern Manager |
-| [[2-World/People/Other/Neverwinter/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Other/Neverwinter/Bree Peregrine\|Bree Peregrine]] | Elf       | Female | Tavern Founder |
 | [[2-World/People/Other/Neverwinter/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Other/Neverwinter/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |
