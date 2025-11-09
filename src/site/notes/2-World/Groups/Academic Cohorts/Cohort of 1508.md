@@ -27,8 +27,8 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Calla Fernbrook\|Calla Fernbrook]]                                       | Satyr           | Female | Lorehold    |
 | [[1-Party/Group 2/Cyinth Agora\|Cyinth Agora]]                                                          | Aarakocra       | Female | Lorehold    |
 | [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi      | Female | Prismari    |
-| [[2-World/People/Students/1508/Garyson Wildemere\|Garyson Wildemere]]                                   | Human           | Male   | Silverquill |
 | [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged       | Male   | Quandrix    |
+| [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human           | Male   | Silverquill |
 | [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf           | Female | Lorehold    |
 | [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                                                      | Triton          | Male   | Witherbloom |
 | [[1-Party/Group 2/H'er\|H'er]]                                                                          | Tiefling        | Female | Prismari    |
