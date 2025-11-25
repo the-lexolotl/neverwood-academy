@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-11-08 - Session 18.md|2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/What Happens Under The Oak Tree.md","permalink":"/quests/what-happens-under-the-oak-tree/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-11-08 - Session 18.md|2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"permalink":"/2-quests/what-happens-under-the-oak-tree/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,10 +13,25 @@
 	- [x] ~~Protect fellow students~~
 	- [x] ~~Witness the Star’s theft~~
  
-- [ ] Track the Wintergeist
+- [x] Track the Wintergeist
 	- [x] ~~Follow its trail through the Commons~~
 	- [x] ~~Investigate the abandoned hunter’s hut~~ 
-	- [ ] Endure the snowstorm
+	- [x] ~~Endure the snowstorm~~
+
+- [x] ~~Endure Detention or Escape~~
+	- [x] ~~Face Professor [[2-World/People/Staff/Silverquill/Fain\|Fain's]]  interrogation~~
+	- [x] ~~Serve detention or slip away unnoticed~~
+	- [x] ~~Gather clues about the Wintergeist~~
+
+- [x] ~~Confront the Spirit’s Power~~
+	- [x] ~~Return to the Hunting Grounds at night~~ 
+	- [x] ~~Battle the Wintergeist in its empowered form~~ 
+	- [x] ~~Survive long enough to flee or regroup~~
+
+- [ ] Seek Shelter in the Forest
+	- [x] ~~Meet Vormor, Warden of the Oak Tree~~ 
+	- [x] ~~Rest, recover, and gain his guidance~~ 
+	- [ ] Learn about the Frozen Mound 
  
 # Quest Details
 
@@ -39,14 +54,17 @@ The party must recover the Star before the Wintergeist grows too strong. Failure
 
 The following people are associated with this quest.
 
-| File                                                            | Race            | Gender | Role                |
-| --------------------------------------------------------------- | --------------- | ------ | ------------------- |
-| [[2-World/People/Staff/Silverquill/Fain\|Fain]]              | Human           | Male   | Professor of Shadow |
-| [[1-Party/Group 1/Atudark\|Atudark]]                         | Yuan-Ti         | Male   | Player              |
-| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]           | Triton          | Male   | Player              |
-| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]       | Dragonborn      | Male   | Player              |
-| [[1-Party/Group 2/H'er\|H'er]]                               | Tiefling        | Female | Player              |
-| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]           | Variant Aasimar | Female | Player              |
-| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin         | Female | Player              |
+| File                                                                           | Race            | Gender | Role                |
+| ------------------------------------------------------------------------------ | --------------- | ------ | ------------------- |
+| [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad           | Male   | Student             |
+| [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin           | Female | Student             |
+| [[2-World/People/Staff/Silverquill/Fain\|Fain]]                             | Human           | Male   | Professor of Shadow |
+| [[2-World/People/Construct V339\|Construct V339]]                           | Automaton       | Other  | Automaton           |
+| [[1-Party/Group 1/Atudark\|Atudark]]                                        | Yuan-Ti         | Male   | Player              |
+| [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                          | Triton          | Male   | Player              |
+| [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                      | Dragonborn      | Male   | Player              |
+| [[1-Party/Group 2/H'er\|H'er]]                                              | Tiefling        | Female | Player              |
+| [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                          | Variant Aasimar | Female | Player              |
+| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]]                | Eladrin         | Female | Player              |
 
 { .block-language-dataview}

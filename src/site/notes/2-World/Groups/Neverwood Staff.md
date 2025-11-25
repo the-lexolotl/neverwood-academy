@@ -26,12 +26,12 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                     | Orc                    | Male       | Lorehold    | College Dean               |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]           | Dragon                 | Female     | Lorehold    | Founder Dragon             |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Marrick Deepfindee\|Marrick Deepfindee]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                 | Owlin                  | Male       | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
+| [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | Giant                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                     | Owlin                  | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                       | Gnome                  | Female     | Lorehold    | Professor of Order         |

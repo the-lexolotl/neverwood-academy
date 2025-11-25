@@ -220,6 +220,7 @@ Whalebucks Free Meal Ticket
 # Relationships
 
 **Pets:** Buhuiop ([[3-Mechanics/CLI/bestiary/beast/octopus-xmm\|Octopus]])
+**Familiar:** Cynthia (Space Mollymawk)
 **Parents:** Unknown
 **Siblings:** Unknown 
 **Partner:** Unknown
