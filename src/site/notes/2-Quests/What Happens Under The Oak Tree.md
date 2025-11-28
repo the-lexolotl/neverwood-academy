@@ -65,6 +65,7 @@ The following people are associated with this quest.
 | [[1-Party/Group 1/Guiloip Guhloo\|Guiloip Guhloo]]                          | Triton          | Male   | Player              |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]                      | Dragonborn      | Male   | Player              |
 | [[1-Party/Group 2/H'er\|H'er]]                                              | Tiefling        | Female | Player              |
+| [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]]                      | Human           | Male   | Player              |
 | [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]                          | Variant Aasimar | Female | Player              |
 | [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]]                | Eladrin         | Female | Player              |
 
