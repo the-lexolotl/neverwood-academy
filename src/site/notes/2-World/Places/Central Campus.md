@@ -38,9 +38,9 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]         | Human                  | Male   | Deputy Head Teacher        |
 | [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]   | Tiefling               | Male   | General Studies Professor  |
 | [[2-World/People/Staff/Quentis Orvlo\|Quentis Orvlo]]         | Vedalken               | Male   | General Studies Professor  |
+| [[2-World/People/Staff/Construct V339\|Construct V339]]       | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Other/Coriander\|Coriander]]                 | Homunculi              | Other  | Butler                     |
 | [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling               | Female | Applicant                  |
-| [[2-World/People/Construct V339\|Construct V339]]             | Automaton              | Other  | Automaton                  |
 
 { .block-language-dataview}
 

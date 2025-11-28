@@ -109,38 +109,38 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 # Points of Interest
 
-| File                                                                                                       | Location                                                     |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                 |
-| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               | [[2-World/Hubs/Xvart Village\|Xvart Village]]             |
-| [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   | [[2-World/Places/Central Campus\|Central Campus]]         |
-| [[2-World/Points of Interest/Neverwood Academy/Effigy Row\|Effigy Row]]                                 | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]]                             | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]]                                 | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]]                           | [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Furygale\|Furygale]]                                     | [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]]                                   | [[2-World/Places/Prismari Campus\|Prismari Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]]                     | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]                                 | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]       |
-| [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]                           | [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
+| File                                                                                                       | Location                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               | <ul><li>[[2-World/Places/Nevewinter Woods.md\\|Nevewinter Woods]]</li><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li></ul> |
+| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
+| [[2-World/Points of Interest/Neverwood Academy/Effigy Row\|Effigy Row]]                                 | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]]                             | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]]                                 | [[2-World/Places/Lorehold Campus\|Lorehold Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]]                           | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Furygale\|Furygale]]                                     | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]]                                   | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]]                     | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]                                 | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]                           | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
 
 { .block-language-dataview}
 # Groups
@@ -182,8 +182,19 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 # Quests
 
-| File | Date Obtained | Status |
-| ---- | ------------- | ------ |
+| File                                                                             | Date Obtained      | Status      |
+| -------------------------------------------------------------------------------- | ------------------ | ----------- |
+| [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | November 08, 2025  | In Progress |
+| [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | October 24, 2025   | In Progress |
+| [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | October 24, 2025   | In Progress |
+| [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | October 23, 2025   | In Progress |
+| [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             | October 11, 2025   | In Progress |
+| [[2-Quests/Whos goo\|Whos goo]]                                               | July 12, 2025      | In Progress |
+| [[2-Quests/Ricards Riches\|Ricards Riches]]                                   | November 07, 2025  | Complete    |
+| [[2-Quests/The Price of Integrity\|The Price of Integrity]]                   | October 15, 2025   | Complete    |
+| [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]                           | September 13, 2025 | Complete    |
+| [[2-Quests/Heist the Records Room\|Heist the Records Room]]                   | August 23, 2025    | Complete    |
+| [[2-Quests/The Missing Professor\|The Missing Professor]]                     | August 09, 2025    | Complete    |
 
 { .block-language-dataview}
 
