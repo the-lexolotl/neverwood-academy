@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"In Progress","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/The Ballad of Chasey Lain.md","permalink":"/quests/the-ballad-of-chasey-lain/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"Complete","questGiver":"[[2-World/People/Students/1506/Jimmy Pyre.md|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/The Ballad of Chasey Lain.md","permalink":"/quests/the-ballad-of-chasey-lain/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -41,7 +41,7 @@
 - [x] ~~Observe Chasey’s reaction~~
 
 ### Resolution
-- [ ] Report back to Jimmy
+- [x] ~~Report back to Jimmy~~
 
 # Quest Details
 

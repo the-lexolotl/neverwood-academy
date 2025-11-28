@@ -62,10 +62,10 @@ Within Neverwood’s ivy-clad towers, knowledge is both the light that guides an
 | [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | In Progress | October 24, 2025   |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | In Progress | October 24, 2025   |
 | [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | In Progress | October 23, 2025   |
-| [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             | In Progress | October 11, 2025   |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | In Progress | July 12, 2025      |
 | [[2-Quests/Ricards Riches\|Ricards Riches]]                                   | Complete    | November 07, 2025  |
 | [[2-Quests/The Price of Integrity\|The Price of Integrity]]                   | Complete    | October 15, 2025   |
+| [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             | Complete    | October 11, 2025   |
 | [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]                           | Complete    | September 13, 2025 |
 | [[2-Quests/Heist the Records Room\|Heist the Records Room]]                   | Complete    | August 23, 2025    |
 | [[2-Quests/The Missing Professor\|The Missing Professor]]                     | Complete    | August 09, 2025    |
