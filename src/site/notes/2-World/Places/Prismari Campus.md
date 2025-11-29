@@ -22,8 +22,8 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling     | Male       | Student                 |
 | [[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human        | Male       | Student                 |
 | [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi  | Male       | Student                 |
-| [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc          | Non-binary | Student                 |
+| [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                                     | Triton       | Male       | Student                 |
 | [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]                                   | Loxodon      | Female     | Student                 |
 | [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                               | Human        | Female     | Student                 |

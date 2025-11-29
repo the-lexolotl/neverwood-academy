@@ -43,8 +43,8 @@ The following people are associated with this quest.
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[2-World/People/Other/Coriander\|Coriander]]                    | Homunculi       | Other  | Butler             |
-| [[2-World/People/Other/Cumin\|Cumin]]                            | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandria\|Fistandria]]                  | Human           | Female | Mage               |
+| [[2-World/People/Other/Cumin\|Cumin]]                            | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Freyot\|Freyot]]                          | Human           | Male   | Mage               |
 | [[1-Party/Group 1/Atudark\|Atudark]]                             | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Group 1/Vigilius Palamas\|Vigilius Palamas]]           | Dragonborn      | Male   | Player             |
