@@ -6,10 +6,10 @@
 
 
 # Quest Info
-- [ ] Head to the Root Archives
-- [ ] Locate [[2-World/People/Staff/Ricard Ruanad\|Ricards]] lost chest 
-- [ ] Free the chest from its viney captor
-- [ ] Return the items to [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]
+- [x] ~~Head to the Root Archives~~
+- [x] ~~Locate [[2-World/People/Staff/Ricard Ruanad\|Ricards]] lost chest~~ 
+- [x] ~~Free the chest from its viney captor~~
+- [x] ~~Return the items to [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]~~
 
 # Quest Details
 

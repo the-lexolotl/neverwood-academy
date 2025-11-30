@@ -28,11 +28,25 @@
 	- [x] ~~Battle the Wintergeist in its empowered form~~ 
 	- [x] ~~Survive long enough to flee or regroup~~
 
-- [ ] Seek Shelter in the Forest
+- [x] Seek Shelter in the Forest
 	- [x] ~~Meet Vormor, Warden of the Oak Tree~~ 
 	- [x] ~~Rest, recover, and gain his guidance~~ 
-	- [ ] Learn about the Frozen Mound 
- 
+	- [x] ~~Learn about the Frozen Mound~~ 
+- [x] ~~Unseal the Frozen Mound~~ 
+	- [x] ~~Locate the Wintergeist’s lair~~ 
+	- [x] ~~Solve the magical rune puzzle~~ 
+	- [x] ~~Enter the ancient chamber~~ 
+
+- [x] ~~Defeat the Star-Blessed Wintergeist~~ 
+	- [x] ~~Battle the Spirit in its lair~~ 
+	- [x] ~~Rescue any missing students~~ 
+	- [x] ~~Recover the Star of Remembrance~~ 
+
+- [x] ~~Return the Star to Neverwood Academy~~ 
+	- [x] ~~Ride the magical sleigh back to the Feasthall~~ 
+	- [ ] Restore the Star beneath the great oak 
+	- [ ] Celebrate as heroes (and face detention)
+
 # Quest Details
 
 

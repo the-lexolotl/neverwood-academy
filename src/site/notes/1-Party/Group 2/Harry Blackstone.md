@@ -56,7 +56,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| 2                | 2                | 0                | 1    | -2         |
+| 3                | 3                | 0                | 1    | -3         |
 
 # Traits
 
