@@ -15,13 +15,13 @@
 # Quest Details
 
 
-| Date Obtained:    | 2025-10-23                                 |
-| ----------------- | ------------------------------------------ |
-| Status:           | In Progress                                |
-| Quest Giver:      |                                            |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Prismari Campus\|Prismari Campus]] |
-| Session Obtained: | [[1-Session Journals/2025-10-23 - Rain Async\|2025-10-23 - Rain Async]]                |
-| Acquired Loot:    |                                            |
+| Date Obtained:    | 2025-10-23                                                 |
+| ----------------- | ---------------------------------------------------------- |
+| Status:           | In Progress                                                |
+| Quest Giver:      |                                                            |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Prismari Campus\|Prismari Campus]]                 |
+| Session Obtained: | [[1-Session Journals/2025-10-23 - Rain Async\|Rain Async - Colours in Chaos]] |
+| Acquired Loot:    |                                                            |
 # Backstory
 The [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] hosts its annual exhibition — a dazzling showcase where students infuse raw magic into living art. As the halls bloom with sound and colour, [[1-Party/Group 2/H'er\|H'er's]] work stands among the most captivating pieces: a prismatic construct that responds to her emotions.
 

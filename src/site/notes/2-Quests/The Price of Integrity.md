@@ -16,13 +16,13 @@
 # Quest Details
 
 
-| Date Obtained:    | 2025-10-15                                                          |
-| ----------------- | ------------------------------------------------------------------- |
-| Status:           | Complete                                                            |
-| Quest Giver:      | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                                               |
-| Quest Locations:  | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] |
-| Session Obtained: | [[1-Session Journals/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]]                                       |
-| Acquired Loot:    | Silver Ink Charm                                                    |
+| Date Obtained:    | 2025-10-15                                                              |
+| ----------------- | ----------------------------------------------------------------------- |
+| Status:           | Complete                                                                |
+| Quest Giver:      | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                                                   |
+| Quest Locations:  | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]     |
+| Session Obtained: | [[1-Session Journals/2025-10-15 - Kristy Async\|Kristy Async - Administrative Misconduct]] |
+| Acquired Loot:    | Silver Ink Charm                                                        |
 # Backstory
 
 After evidence links [[1-Party/Group 1/Vigilius Palamas\|Vigilius]] to the Administration Office break-in, Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] offers him a chance to make amends — not through punishment, but through purpose.

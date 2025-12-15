@@ -19,13 +19,13 @@
 # Quest Details
 
 
-| Date Obtained:    | 2025-07-12                       |
-| ----------------- | -------------------------------- |
-| Status:           | In Progress                      |
-| Quest Giver:      |                                  |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]            |
-| Session Obtained: | [[1-Session Journals/2025-07-12 - Session 1\|2025-07-12 - Session 1]] |
-| Acquired Loot:    |                                  |
+| Date Obtained:    | 2025-07-12                                              |
+| ----------------- | ------------------------------------------------------- |
+| Status:           | In Progress                                             |
+| Quest Giver:      |                                                         |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                   |
+| Session Obtained: | [[1-Session Journals/2025-07-12 - Session 1\|Session 1 - Orientation Day]] |
+| Acquired Loot:    |                                                         |
 # Backstory
 
 Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] and strange things have been happening ever since... But who is behind it?

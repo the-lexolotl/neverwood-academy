@@ -113,11 +113,11 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               | <ul><li>[[2-World/Places/Nevewinter Woods.md\\|Nevewinter Woods]]</li><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li></ul> |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
-| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
-| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]                                                                                  |
@@ -147,12 +147,12 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 | File                                                                                                                    | Category             |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
@@ -184,9 +184,10 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 | File                                                                             | Date Obtained      | Status      |
 | -------------------------------------------------------------------------------- | ------------------ | ----------- |
+| [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | December 13, 2025  | In Progress |
 | [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | November 08, 2025  | In Progress |
-| [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | October 24, 2025   | In Progress |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | October 24, 2025   | In Progress |
+| [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | October 24, 2025   | In Progress |
 | [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | October 23, 2025   | In Progress |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | July 12, 2025      | In Progress |
 | [[2-Quests/Ricards Riches\|Ricards Riches]]                                   | November 07, 2025  | Complete    |

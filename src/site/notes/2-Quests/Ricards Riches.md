@@ -14,13 +14,13 @@
 # Quest Details
 
 
-| Date Obtained:    | 2025-11-07                                    |
-| ----------------- | --------------------------------------------- |
-| Status:           | Complete                                      |
-| Quest Giver:      | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                             |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] |
-| Session Obtained: | [[1-Session Journals/2025-11-07 - Cat Async\|2025-11-07 - Cat Async]]                    |
-| Acquired Loot:    |                                               |
+| Date Obtained:    | 2025-11-07                                                    |
+| ----------------- | ------------------------------------------------------------- |
+| Status:           | Complete                                                      |
+| Quest Giver:      | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                                             |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                 |
+| Session Obtained: | [[1-Session Journals/2025-11-07 - Cat Async\|Catarina Async - Roots and Riches]] |
+| Acquired Loot:    |                                                               |
 # Backstory
 Deputy Head [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]] has lost something in the Root Archives. Marionette just happens to be looking for a job. What a coincidence...
 

@@ -50,13 +50,13 @@
 # Quest Details
 
 
-| Date Obtained:    | 2025-11-08                  |
-| ----------------- | --------------------------- |
-| Status:           | In Progress                 |
-| Quest Giver:      |                             |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]       |
-| Session Obtained: | [[1-Session Journals/2025-11-08 - Session 18\|2025-11-08 - Session 18]] |
-| Acquired Loot:    |                             |
+| Date Obtained:    | 2025-11-08                                                |
+| ----------------- | --------------------------------------------------------- |
+| Status:           | In Progress                                               |
+| Quest Giver:      |                                                           |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                     |
+| Session Obtained: | [[1-Session Journals/2025-11-08 - Session 18\|Session 18 - The Star Stolen]] |
+| Acquired Loot:    |                                                           |
 # Backstory
 
 At the heart of Neverwood Academy’s Feasthall stands the ancient tree, home to the Star of Remembrance—a magical relic that preserves the memories, achievements, and bonds of every student. When a powerful Wintergeist steals the Star, the Academy’s protective magic falters, the forest grows restless, and dark forces begin to stir.

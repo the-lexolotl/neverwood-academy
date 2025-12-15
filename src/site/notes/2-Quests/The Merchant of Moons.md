@@ -16,13 +16,13 @@
 # Quest Details
 
 
-| Date Obtained:    | 2025-10-24                   |
-| ----------------- | ---------------------------- |
-| Status:           | In Progress                  |
-| Quest Giver:      | [[2-World/People/Staff/Dramitia\|Dramitia]]                 |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]        |
-| Session Obtained: | [[1-Session Journals/2025-10-24 - Megan Async\|2025-10-24 - Megan Async]] |
-| Acquired Loot:    |                              |
+| Date Obtained:    | 2025-10-24                                                        |
+| ----------------- | ----------------------------------------------------------------- |
+| Status:           | In Progress                                                       |
+| Quest Giver:      | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                      |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                             |
+| Session Obtained: | [[1-Session Journals/2025-10-24 - Megan Async\|Megan Async - The Merchant of Moons]] |
+| Acquired Loot:    |                                                                   |
 # Backstory
 When the [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]] announces auditions for its newest production, The Merchant of Moons, Lyra Everlight finds her name at the top of the contenders list. The opportunity could restore her reputation after recent disciplinary trouble — but all that glitters is not applause.
 
