@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":"Academic Cohort","image":"class of 1309.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Groups/Academic Cohorts/Cohort of 1309.md","permalink":"/world/groups/academic-cohorts/cohort-of-1309/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":"Academic Cohort","image":"class of 1309.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Academic Cohorts/Cohort of 1309.md","permalink":"/world/groups/academic-cohorts/cohort-of-1309/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Encounter","obsidianUIMode":"preview","image":"Free - Strixhaven Stadium - summer day - 4096x4096 - 64x64 - 64px - grid.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwood Academy/Neverwood Stadium.md","permalink":"/world/points-of-interest/neverwood-academy/neverwood-stadium/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Encounter","obsidianUIMode":"preview","image":"Free - Strixhaven Stadium - summer day - 4096x4096 - 64x64 - 64px - grid.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Neverwood Stadium.md","permalink":"/world/points-of-interest/neverwood-academy/neverwood-stadium/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

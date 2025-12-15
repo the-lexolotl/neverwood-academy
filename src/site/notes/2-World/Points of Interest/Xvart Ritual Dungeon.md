@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Nevewinter Woods.md|Nevewinter Woods]]","[[2-World/Hubs/Xvart Village.md|Xvart Village]]"],"MyCategory":"Dungeon","obsidianUIMode":"preview","image":"Xvart Dungeon.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"dg-path":"World/Points of Interest/Xvart Ritual Dungeon.md","permalink":"/world/points-of-interest/xvart-ritual-dungeon/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Nevewinter Woods.md|Nevewinter Woods]]","[[2-World/Hubs/Xvart Village.md|Xvart Village]]"],"MyCategory":"Dungeon","obsidianUIMode":"preview","image":"Xvart Dungeon.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Xvart Ritual Dungeon.md","permalink":"/world/points-of-interest/xvart-ritual-dungeon/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

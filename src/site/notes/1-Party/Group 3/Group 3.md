@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyCategory":"Group Cup","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"group 3.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-hide":true,"dg-path":"Party/Group 3/Group 3.md","permalink":"/party/group-3/group-3/","hide":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyCategory":"Group Cup","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"group 3.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-hide":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Group 3.md","permalink":"/party/group-3/group-3/","hide":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

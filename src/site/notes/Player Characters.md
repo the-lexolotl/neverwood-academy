@@ -1,5 +1,5 @@
 ---
-{"dg-hide":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":false,"permalink":"/player-characters/","hide":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-hide":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"permalink":"/player-characters/","hide":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

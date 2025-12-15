@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Rose Stage.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Rose Stage.md","permalink":"/world/points-of-interest/neverwood-academy/the-rose-stage/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Rose Stage.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/The Rose Stage.md","permalink":"/world/points-of-interest/neverwood-academy/the-rose-stage/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

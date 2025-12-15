@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Daniel.png","dg-publish":true,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Loot","dg-path":"Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/daniel-murgaxor-student-records/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Daniel.png","dg-publish":true,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Loot","dg-show-backlinks":true,"dg-path":"Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/daniel-murgaxor-student-records/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

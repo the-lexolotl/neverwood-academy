@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Magic Academy","image":"Staff.png","obsidianUIMode":"preview","oracle":["Pythia"],"headteacher":["Taiva Loreweaver"],"deans":null,"staff":null,"faction":null,"primary_contact":"John Doe","benefits":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Groups/Neverwood Staff.md","permalink":"/world/groups/neverwood-staff/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Magic Academy","image":"Staff.png","obsidianUIMode":"preview","oracle":["Pythia"],"headteacher":["Taiva Loreweaver"],"deans":null,"staff":null,"faction":null,"primary_contact":"John Doe","benefits":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Neverwood Staff.md","permalink":"/world/groups/neverwood-staff/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

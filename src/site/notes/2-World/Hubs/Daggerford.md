@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]","[[2-World/Regions/Sword Coast.md|Sword Coast]]"],"MyCategory":"Town +200","obsidianUIMode":"preview","image":"Daggerford.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Hubs/Daggerford.md","permalink":"/world/hubs/daggerford/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]","[[2-World/Regions/Sword Coast.md|Sword Coast]]"],"MyCategory":"Town +200","obsidianUIMode":"preview","image":"Daggerford.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Hubs/Daggerford.md","permalink":"/world/hubs/daggerford/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

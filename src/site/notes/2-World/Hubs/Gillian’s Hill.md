@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Sword Coast.md|Sword Coast]]","[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]"],"MyCategory":"Hamlet <80","obsidianUIMode":"preview","image":"Gillian’s Hill.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Hubs/Gillian’s Hill.md","permalink":"/world/hubs/gillian-s-hill/","dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Sword Coast.md|Sword Coast]]","[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]"],"MyCategory":"Hamlet <80","obsidianUIMode":"preview","image":"Gillian’s Hill.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Hubs/Gillian’s Hill.md","permalink":"/world/hubs/gillian-s-hill/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

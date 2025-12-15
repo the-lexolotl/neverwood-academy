@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-12-13","questStatus":"In Progress","questGiver":"[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"questSessionObtained":"[[1-Session Journals/2025-12-13 - Session 22.md|2025-12-13 - Session 22]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-path":"Quests/Up the Beanstalk.md","permalink":"/quests/up-the-beanstalk/","dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-12-13","questStatus":"In Progress","questGiver":"[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"questSessionObtained":"[[1-Session Journals/2025-12-13 - Session 22.md|2025-12-13 - Session 22]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-inline-title":true,"dg-show-local-graph":true,"dg-path":"Quests/Up the Beanstalk.md","permalink":"/quests/up-the-beanstalk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -18,7 +18,7 @@
 ### Exploring the Sky Realm
 - [x] ~~Explore the floating realm~~
 - [x] ~~Investigate Skyberry House~~
-- [x] ~~Find [[2-World/People/Giantess Teanna Aethelos\|Giantess Teanna]] in the kitchen~~
+- [x] ~~Find [[2-World/People/Other/Giantess Teanna Aethelos\|Giantess Teanna]] in the kitchen~~
 - [ ] Explore the rest of Skyberry House
 
 ### The Sky-King’s Domain
@@ -58,10 +58,10 @@ Head Teacher [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]] demands
 # People
 
 The following people are associated with this quest.
-| File                                                                     | Race  | Gender | Role         |
-| ------------------------------------------------------------------------ | ----- | ------ | ------------ |
-| [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]           | Human | Female | Head Teacher |
-| [[2-World/People/Aurum Aethelos\|Aurum Aethelos]]                     | Giant | Male   | Other        |
-| [[2-World/People/Giantess Teanna Aethelos\|Giantess Teanna Aethelos]] | Giant | Female | Other        |
+| File                                                                           | Race  | Gender | Role         |
+| ------------------------------------------------------------------------------ | ----- | ------ | ------------ |
+| [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                 | Human | Female | Head Teacher |
+| [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                     | Giant | Male   | Other        |
+| [[2-World/People/Other/Giantess Teanna Aethelos\|Giantess Teanna Aethelos]] | Giant | Female | Other        |
 
 { .block-language-dataview}
