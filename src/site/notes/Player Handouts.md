@@ -1,5 +1,5 @@
 ---
-{"dg-hide":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"permalink":"/player-handouts/","hide":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-hide":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":false,"permalink":"/player-handouts/","hide":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
