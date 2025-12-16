@@ -49,7 +49,7 @@ This is the persons description.
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +1        |        -1        |  0   |     +2     |
+|        +1        |        +1        |        -1        |  0   |     +3     |
 
 # Inventory
 
