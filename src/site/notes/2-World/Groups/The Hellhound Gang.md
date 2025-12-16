@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Band","image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","leader":["Jimmy Pyre"],"officers":null,"members":["Infernal Houndfist","Lupus Thunderpelt","DJ Dirgebyte","Denis Dragontongue"],"initiates":null,"faction":null,"primary_contact":"Jimmy Pyre","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"MyEnemies":["[[1-Party/Group 3/Vith Pahlok.md|Vith Pahlok]]"],"MyAllies":["[[1-Party/Group 2/Harry Blackstone.md|Harry Blackstone]]","[[1-Party/Group 2/Lyra Everlight.md|Lyra Everlight]]"],"dg-show-backlinks":true,"dg-path":"World/Groups/The Hellhound Gang.md","permalink":"/world/groups/the-hellhound-gang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Band","image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","leader":["Jimmy Pyre"],"officers":null,"members":["Infernal Houndfist","Lupus Thunderpelt","DJ Dirgebyte","Denis Dragontongue"],"initiates":null,"faction":null,"primary_contact":"Jimmy Pyre","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"MyEnemies":["[[Vith Pahlok - Profile|Vith Pahlok - Profile]]"],"MyAllies":["[[Harry Blackstone - Profile|Harry Blackstone - Profile]]","[[Lyra Everlight - Profile|Lyra Everlight - Profile]]"],"dg-show-backlinks":true,"dg-path":"World/Groups/The Hellhound Gang.md","permalink":"/world/groups/the-hellhound-gang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -44,9 +44,9 @@ Authority in the Hellhound Gang is fluid — leadership shifts mid-song, and dis
 
 # Enemies/Allies
 
-**Enemies:** [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]
+**Enemies:** [[1-Party/Group 3/Vith Pahlok - Profile\|Vith Pahlok - Profile]]
 
-**Allies:** [[1-Party/Group 2/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/Lyra Everlight\|Lyra Everlight]]
+**Allies:** [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]], [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]
 
 # People
 
@@ -55,9 +55,9 @@ The following people are members of this group.
 
 | File                                                                       | Gender | Race       | Role    | College     |
 | -------------------------------------------------------------------------- | ------ | ---------- | ------- | ----------- |
+| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male   | Half-Orc   | Student | Prismari    |
 | [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Male   | Dragonborn | Student | Prismari    |
 | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Male   | Tiefling   | Student | Silverquill |
-| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male   | Half-Orc   | Student | Prismari    |
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Male   | Shifter    | Student | Silverquill |
 | [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Male   | Gnome      | Student | Prismari    |
 

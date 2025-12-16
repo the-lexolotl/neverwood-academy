@@ -28,9 +28,9 @@ Deputy Head [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]] has lost somet
 # People
 
 The following people are associated with this quest.
-| File                                                            | Race    | Gender | Role                |
-| --------------------------------------------------------------- | ------- | ------ | ------------------- |
-| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]        | Human   | Male   | Deputy Head Teacher |
-| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin | Female | Player              |
+| File                                                                                | Race    | Gender | Role                |
+| ----------------------------------------------------------------------------------- | ------- | ------ | ------------------- |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                            | Human   | Male   | Deputy Head Teacher |
+| [[1-Party/Group 3/Marionette Moonbeam - Profile\|Marionette Moonbeam - Profile]] | Eladrin | Female | Player              |
 
 { .block-language-dataview}

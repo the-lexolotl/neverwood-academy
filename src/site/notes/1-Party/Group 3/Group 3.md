@@ -31,9 +31,9 @@ Students are allocated groups at the beginning of their academic journey
 
 The following people are members of this group.  
 
-| File                                                            | Race       | Gender | College     |
-| --------------------------------------------------------------- | ---------- | ------ | ----------- |
-| [[1-Party/Group 3/Vith Pahlok\|Vith Pahlok]]                 | Dragonborn | Male   | Silverquill |
-| [[1-Party/Group 3/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin    | Female | Witherbloom |
+| File                                                                                | Race       | Gender | College     |
+| ----------------------------------------------------------------------------------- | ---------- | ------ | ----------- |
+| [[1-Party/Group 3/Marionette Moonbeam - Profile\|Marionette Moonbeam - Profile]] | Eladrin    | Female | Witherbloom |
+| [[1-Party/Group 3/Vith Pahlok - Profile\|Vith Pahlok - Profile]]                 | Dragonborn | Male   | Silverquill |
 
 { .block-language-dataview}

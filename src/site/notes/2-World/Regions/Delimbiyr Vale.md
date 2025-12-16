@@ -79,8 +79,8 @@ Today, in the years around **1508 DR**, the Delimbiyr Vale stands once again as 
 
 | File                                               |
 | -------------------------------------------------- |
-| [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] |
 | [[2-World/Hubs/Daggerford\|Daggerford]]         |
+| [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] |
 
 { .block-language-dataview}
 # Points of Interest
