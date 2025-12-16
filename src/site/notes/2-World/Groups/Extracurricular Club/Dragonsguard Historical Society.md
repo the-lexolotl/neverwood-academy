@@ -36,11 +36,11 @@ Make notes of what you need to track in the town here.
 The following people are members of this group.  
 
 
-| File                                                                                           | Race       | Gender | College  |
-| ---------------------------------------------------------------------------------------------- | ---------- | ------ | -------- |
-| [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                             | Loxodon    | Male   | Lorehold |
-| [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                         | Triton     | Male   | Prismari |
-| [[2-World/People/Students/1507/Ronald Caskbow\|Ronald Caskbow]]                             | Half-Elf   | Male   | Quandrix |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas - Profile\|Vigilius Palamas - Profile]] | Dragonborn | Male   | Quandrix |
+| File                                                                       | Race       | Gender | College  |
+| -------------------------------------------------------------------------- | ---------- | ------ | -------- |
+| [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]         | Loxodon    | Male   | Lorehold |
+| [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]     | Triton     | Male   | Prismari |
+| [[2-World/People/Students/1507/Ronald Caskbow\|Ronald Caskbow]]         | Half-Elf   | Male   | Quandrix |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]] | Dragonborn | Male   | Quandrix |
 
 { .block-language-dataview}

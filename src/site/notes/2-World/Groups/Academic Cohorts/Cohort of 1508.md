@@ -19,7 +19,7 @@ The following people are members of this group.
 | File                                                                                                       | Race            | Gender | College     |
 | ---------------------------------------------------------------------------------------------------------- | --------------- | ------ | ----------- |
 | [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]]                                   | Hexblood        | Female | Witherbloom |
-| [[1-Party/Group 1/Atudark/Atudark - Profile\|Atudark - Profile]]                                        | Yuan-Ti         | Male   | Witherbloom |
+| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                                            | Yuan-Ti         | Male   | Witherbloom |
 | [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Dhampir         | Female | Witherbloom |
 | [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                                         | Loxodon         | Male   | Lorehold    |
 | [[2-World/People/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome           | Male   | Quandrix    |
@@ -30,7 +30,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged       | Male   | Quandrix    |
 | [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human           | Male   | Silverquill |
 | [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf           | Female | Lorehold    |
-| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo - Profile\|Guiloip Guhloo - Profile]]                   | Triton          | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                       | Triton          | Male   | Witherbloom |
 | [[1-Party/Group 2/H'er - Profile\|H'er - Profile]]                                                      | Tiefling        | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]]                              | Human           | Male   | Quandrix    |
 | [[2-World/People/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf             | Male   | Silverquill |
@@ -39,7 +39,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling        | Male   | Prismari    |
 | [[1-Party/Group 3/Marionette Moonbeam - Profile\|Marionette Moonbeam - Profile]]                        | Eladrin         | Female | Witherbloom |
 | [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                                                 | Dryad           | Male   | Witherbloom |
-| [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf - Profile\|Milfjord Goodleaf - Profile]]          | Halfling        | Male   | Witherbloom |
+| [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                              | Halfling        | Male   | Witherbloom |
 | [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn          | Female | Witherbloom |
 | [[2-World/People/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad           | Female | Witherbloom |
 | [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai      | Male   | Silverquill |
@@ -49,7 +49,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin           | Female | Silverquill |
 | [[2-World/People/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Human           | Female | Quandrix    |
 | [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male   | Lorehold    |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas - Profile\|Vigilius Palamas - Profile]]             | Dragonborn      | Male   | Quandrix    |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                 | Dragonborn      | Male   | Quandrix    |
 | [[1-Party/Group 3/Vith Pahlok - Profile\|Vith Pahlok - Profile]]                                        | Dragonborn      | Male   | Silverquill |
 | [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi     | Male   | Prismari    |
 

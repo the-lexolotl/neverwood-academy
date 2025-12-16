@@ -25,7 +25,7 @@
 | Acquired Loot:    | Silver Ink Charm                                                        |
 # Backstory
 
-After evidence links [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas - Profile\|Vigilius]] to the Administration Office break-in, Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] offers him a chance to make amends — not through punishment, but through purpose.
+After evidence links [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius]] to the Administration Office break-in, Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] offers him a chance to make amends — not through punishment, but through purpose.
 A Witherbloom first-year has gone missing deep within the condemned Root Archives. Mavinda entrusts Vigilius to find them quietly, testing both his integrity and resolve.
 
 But as he prepares to descend, a letter from Deputy Head [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]] appears on his desk, suggesting the Archives might contain something more valuable than a lost student.
@@ -36,11 +36,11 @@ Vigilius must decide who — and what — he serves.
 
 The following people are associated with this quest.
 
-| File                                                                                           | Race       | Gender | Role                  |
-| ---------------------------------------------------------------------------------------------- | ---------- | ------ | --------------------- |
-| [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                     | Reborn     | Female | Student               |
-| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                                       | Human      | Male   | Deputy Head Teacher   |
-| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                   | Owlin      | Female | Professor of Radiance |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas - Profile\|Vigilius Palamas - Profile]] | Dragonborn | Male   | Player                |
+| File                                                                         | Race       | Gender | Role                  |
+| ---------------------------------------------------------------------------- | ---------- | ------ | --------------------- |
+| [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]   | Reborn     | Female | Student               |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                     | Human      | Male   | Deputy Head Teacher   |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin      | Female | Professor of Radiance |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]   | Dragonborn | Male   | Player                |
 
 { .block-language-dataview}

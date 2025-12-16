@@ -35,19 +35,19 @@ Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood
 
 The following people are associated with this quest.
 
-| File                                                                                              | Race            | Gender | Role                  |
-| ------------------------------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
-| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                      | Owlin           | Female | Professor of Radiance |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                      | Half-Bullywug   | Male   | Alumni                |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                  | Bullywug        | Male   | Alumni                |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                        | Halfling        | Female | Applicant             |
-| [[1-Party/Group 1/Atudark/Atudark - Profile\|Atudark - Profile]]                               | Yuan-Ti         | Male   | Player                |
-| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo - Profile\|Guiloip Guhloo - Profile]]          | Triton          | Male   | Player                |
-| [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf - Profile\|Milfjord Goodleaf - Profile]] | Halfling        | Male   | Player                |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas - Profile\|Vigilius Palamas - Profile]]    | Dragonborn      | Male   | Player                |
-| [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]]                     | Human           | Male   | Player                |
-| [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]                         | Variant Aasimar | Female | Player                |
-| [[1-Party/Group 2/Cyinth Agora  - Profile\|Cyinth Agora  - Profile]]                           | Aarakocra       | Female | Player                |
-| [[1-Party/Group 2/H'er - Profile\|H'er - Profile]]                                             | Tiefling        | Female | Player                |
+| File                                                                          | Race            | Gender | Role                  |
+| ----------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin           | Female | Professor of Radiance |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                  | Half-Bullywug   | Male   | Alumni                |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]              | Bullywug        | Male   | Alumni                |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                    | Halfling        | Female | Applicant             |
+| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                               | Yuan-Ti         | Male   | Player                |
+| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton          | Male   | Player                |
+| [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling        | Male   | Player                |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]    | Dragonborn      | Male   | Player                |
+| [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]] | Human           | Male   | Player                |
+| [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]     | Variant Aasimar | Female | Player                |
+| [[1-Party/Group 2/Cyinth Agora  - Profile\|Cyinth Agora  - Profile]]       | Aarakocra       | Female | Player                |
+| [[1-Party/Group 2/H'er - Profile\|H'er - Profile]]                         | Tiefling        | Female | Player                |
 
 { .block-language-dataview}

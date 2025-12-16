@@ -48,9 +48,9 @@
 | Session Obtained: | [[1-Session Journals/2025-12-13 - Session 22\|Session 22 - Oops... We Grew a Beanstalk]] |
 | Acquired Loot:    |                                                                       |
 # Backstory
-[[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo - Profile\|Guiloip Guhloo - Profile]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.
+[[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.
 
-However, later that day, [[1-Party/Group 3/Marionette Moonbeam - Profile\|Marionette]], [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo - Profile\|Glue]], [[1-Party/Group 2/Harry Blackstone - Profile\|Harry]], and [[1-Party/Group 1/Atudark/Atudark - Profile\|Atudark - Profile]] broke into the Medical Wing and opened the crate. The beanstalk erupted violently, smashing through the floors of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], rupturing the roof, and continuing to grow into the sky. Snow and frost drifted down from the gaping hole, and whispers spread across campus that Jack had climbed the stalk and was now missing somewhere above.
+However, later that day, [[1-Party/Group 3/Marionette Moonbeam - Profile\|Marionette]], [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Glue]], [[1-Party/Group 2/Harry Blackstone - Profile\|Harry]], and [[1-Party/Group 1/Atudark/Atudark\|Atudark]] broke into the Medical Wing and opened the crate. The beanstalk erupted violently, smashing through the floors of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], rupturing the roof, and continuing to grow into the sky. Snow and frost drifted down from the gaping hole, and whispers spread across campus that Jack had climbed the stalk and was now missing somewhere above.
 
 Head Teacher [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]] demands that the students contain the chaos, retrieve anything dangerous, and shut the sky portal before more harm comes to the school or its students.
 
@@ -58,12 +58,12 @@ Head Teacher [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]] demands
 # People
 
 The following people are associated with this quest.
-| File                                                                                     | Race    | Gender | Role         |
-| ---------------------------------------------------------------------------------------- | ------- | ------ | ------------ |
-| [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                           | Human   | Female | Head Teacher |
-| [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                               | Giant   | Male   | Other        |
-| [[2-World/People/Other/Giantess Teanna Aethelos\|Giantess Teanna Aethelos]]           | Giant   | Female | Other        |
-| [[1-Party/Group 1/Atudark/Atudark - Profile\|Atudark - Profile]]                      | Yuan-Ti | Male   | Player       |
-| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo - Profile\|Guiloip Guhloo - Profile]] | Triton  | Male   | Player       |
+| File                                                                           | Race    | Gender | Role         |
+| ------------------------------------------------------------------------------ | ------- | ------ | ------------ |
+| [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                 | Human   | Female | Head Teacher |
+| [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                     | Giant   | Male   | Other        |
+| [[2-World/People/Other/Giantess Teanna Aethelos\|Giantess Teanna Aethelos]] | Giant   | Female | Other        |
+| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                | Yuan-Ti | Male   | Player       |
+| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]           | Triton  | Male   | Player       |
 
 { .block-language-dataview}
