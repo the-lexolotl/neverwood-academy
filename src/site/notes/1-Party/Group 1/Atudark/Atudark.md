@@ -56,8 +56,8 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| 2                | 2                | -1               | 1    | 0          |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +2        |        +2        |        -1        |  +1  |     0      |
 
 # Inventory
 > [!example]- Equipment (20)

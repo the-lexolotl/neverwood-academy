@@ -55,8 +55,8 @@ Looking ahead, Vagilius envisions himself standing as a protector, shielding the
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| 1                | 3                | -1               | 0    | 1          |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +1        |        +3        |        -1        |  0   |     +1     |
 
 # Inventory
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Band","image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","leader":["Jimmy Pyre"],"officers":null,"members":["Infernal Houndfist","Lupus Thunderpelt","DJ Dirgebyte","Denis Dragontongue"],"initiates":null,"faction":null,"primary_contact":"Jimmy Pyre","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"MyEnemies":["[[Vith Pahlok - Profile|Vith Pahlok - Profile]]"],"MyAllies":["[[Harry Blackstone - Profile|Harry Blackstone - Profile]]","[[Lyra Everlight - Profile|Lyra Everlight - Profile]]"],"dg-show-backlinks":true,"dg-path":"World/Groups/The Hellhound Gang.md","permalink":"/world/groups/the-hellhound-gang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Band","image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","leader":["Jimmy Pyre"],"officers":null,"members":["Infernal Houndfist","Lupus Thunderpelt","DJ Dirgebyte","Denis Dragontongue"],"initiates":null,"faction":null,"primary_contact":"Jimmy Pyre","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"MyEnemies":["[[Vith Pahlok|Vith Pahlok]]"],"MyAllies":["[[Harry Blackstone|Harry Blackstone]]","[[Lyra Everlight|Lyra Everlight]]"],"dg-show-backlinks":true,"dg-path":"World/Groups/The Hellhound Gang.md","permalink":"/world/groups/the-hellhound-gang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -44,9 +44,9 @@ Authority in the Hellhound Gang is fluid — leadership shifts mid-song, and dis
 
 # Enemies/Allies
 
-**Enemies:** [[1-Party/Group 3/Vith Pahlok - Profile\|Vith Pahlok - Profile]]
+**Enemies:** [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
 
-**Allies:** [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]], [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]
+**Allies:** [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
 
 # People
 

@@ -34,4 +34,4 @@ Elandra Stormwhisper is a spirited Prismari student known for her grace, creativ
 
 List important relationships here. 
 
-**Partner:** [[H'er - Profile\|H'er - Profile]]
+**Partner:** [[1-Party/Group 2/H'er/H'er\|H'er]]

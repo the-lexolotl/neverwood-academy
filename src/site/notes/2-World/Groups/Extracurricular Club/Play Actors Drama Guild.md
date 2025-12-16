@@ -45,6 +45,6 @@ The following people are members of this group.
 | [[2-World/People/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf             | Non-binary | Silverquill |
 | [[2-World/People/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                                   | Changling       | Non-binary | Silverquill |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                             | Tiefling        | Female     | None        |
-| [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]                                  | Variant Aasimar | Female     | Silverquill |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                       | Variant Aasimar | Female     | Silverquill |
 
 { .block-language-dataview}

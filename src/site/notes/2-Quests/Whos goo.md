@@ -45,9 +45,9 @@ The following people are associated with this quest.
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton          | Male   | Player                |
 | [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling        | Male   | Player                |
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]    | Dragonborn      | Male   | Player                |
-| [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]] | Human           | Male   | Player                |
-| [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]     | Variant Aasimar | Female | Player                |
-| [[1-Party/Group 2/Cyinth Agora  - Profile\|Cyinth Agora  - Profile]]       | Aarakocra       | Female | Player                |
-| [[1-Party/Group 2/H'er - Profile\|H'er - Profile]]                         | Tiefling        | Female | Player                |
+| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                | Aarakocra       | Female | Player                |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                        | Tiefling        | Female | Player                |
+| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]    | Human           | Male   | Player                |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]          | Variant Aasimar | Female | Player                |
 
 { .block-language-dataview}

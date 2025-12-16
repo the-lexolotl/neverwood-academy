@@ -53,8 +53,8 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| -1               | 2                | 2                | 0    | 0          |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        +2        |        +2        |  0   |     +1     |
 
 # Inventory
 

@@ -48,8 +48,8 @@ This is the persons description.
 ## Student Skill Points
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| 2                | 3                | 0                | 1    | -2         |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +2        |        +3        |        0         |  +1  |     -2     |
 
 # Inventory
 > [!example]- Equipment (23)

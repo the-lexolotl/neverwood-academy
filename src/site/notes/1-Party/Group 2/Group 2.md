@@ -23,12 +23,12 @@ Students are allocated groups at the beginning of their academic journey
 
 The following people are members of this group.  
 
-| File                                                                          | Race            | Gender | College     |
-| ----------------------------------------------------------------------------- | --------------- | ------ | ----------- |
-| [[1-Party/Group 2/Harry Blackstone - Profile\|Harry Blackstone - Profile]] | Human           | Male   | Quandrix    |
-| [[1-Party/Group 2/Lyra Everlight - Profile\|Lyra Everlight - Profile]]     | Variant Aasimar | Female | Silverquill |
-| [[1-Party/Group 2/Cyinth Agora  - Profile\|Cyinth Agora  - Profile]]       | Aarakocra       | Female | Lorehold    |
-| [[1-Party/Group 2/H'er - Profile\|H'er - Profile]]                         | Tiefling        | Female | Prismari    |
+| File                                                                       | Race            | Gender | College     |
+| -------------------------------------------------------------------------- | --------------- | ------ | ----------- |
+| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]             | Aarakocra       | Female | Lorehold    |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                     | Tiefling        | Female | Prismari    |
+| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]] | Human           | Male   | Quandrix    |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]       | Variant Aasimar | Female | Silverquill |
 
 { .block-language-dataview}
 ![group 2.2.png](/img/user/z_Assets/character_art/Players/group%202.2.png)

@@ -43,6 +43,6 @@ The following people are members of this group.
 | [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome      | Male   | Lorehold    |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human      | Male   | Silverquill |
 | [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Human      | Female | Prismari    |
-| [[1-Party/Group 2/H'er - Profile\|H'er - Profile]]                                            | Tiefling   | Female | Prismari    |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                                           | Tiefling   | Female | Prismari    |
 
 { .block-language-dataview}
