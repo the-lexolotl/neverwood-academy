@@ -54,100 +54,10 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | ---------------- | ---------------- | ---------------- | ---- | ---------- |
-| 1                | 2                | -1               | 1    | 0          |
-# Traits
-
-### Serpentine Spellcasting
-*MotM, pg. 36*
-You know the [[3-Mechanics/CLI/spells/poison-spray-xphb\|Poison Spray]] cantrip. You can cast [[3-Mechanics/CLI/spells/animal-friendship-xphb\|Animal Friendship]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [[3-Mechanics/CLI/spells/suggestion-xphb\|Suggestion]] with this trait. Once you cast it, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
-
-Intelligence is your spellcasting ability for these spells when you cast them with this trait.
-
-[[3-Mechanics/CLI/spells/poison-spray-xphb\|Poison Spray]]
-[[3-Mechanics/CLI/spells/animal-friendship-xphb\|Animal Friendship]] 
-
-### Neverwood Initiate - Witherbloom
-*Homebrew*
-
-You have studied some magical theory and have learned a few spells associated with the Neverwood Academy.
-Your spellcasting ability for this feat’s spells is Intelligence.
-
-[[3-Mechanics/CLI/spells/chill-touch-xphb\|Chill Touch]] (Cantrip)
-[[3-Mechanics/CLI/spells/spare-the-dying-xphb\|Spare the Dying]] (Cantrip)
-[[3-Mechanics/CLI/spells/disguise-self-xphb\|Disguise Self]] (1st/Long Rest)
-
-### Eldritch Invocations
-*PHB-2024, pg. 153*
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. If an invocation has a prerequisite, you must meet it to learn that invocation.
-**Armor of Shadows**
-You can cast [[3-Mechanics/CLI/spells/mage-armor-xphb\|Mage Armor]] on yourself without expending a spell slot.
-
-# Spell Book
-
-**Cantrips**
-[[3-Mechanics/CLI/spells/chill-touch-xphb\|Chill Touch]]
-[[3-Mechanics/CLI/spells/poison-spray-xphb\|Poison Spray]]
-[[3-Mechanics/CLI/spells/spare-the-dying-xphb\|Spare the Dying]]
-[[3-Mechanics/CLI/spells/toll-the-dead-xphb\|Toll the Dead]]
-
-[[3-Mechanics/CLI/spells/animal-friendship-xphb\|Animal Friendship]] *at will*
-
-[[3-Mechanics/CLI/spells/cause-fear-xge\|Cause Fear]] 
-
-[[3-Mechanics/CLI/spells/hex-xphb\|Hex]]
-
-### Neverwood Initiate - Witherbloom
-[[3-Mechanics/CLI/spells/disguise-self-xphb\|Disguise Self (1st)]] 
-
-> [!NOTE]- Prepared
-> Poison Spray(Cantrip)
-  Toll the Dead(Cantrip)
-  Cause Fear(1st)
-  Hex(1st)
-
-> [!NOTE]- Known
-> ** Cantrips **
-> Blade Ward(Cantrip)
-  Booming Blade(Cantrip)
-  Chill Touch(Cantrip)
-  Create Bonfire(Cantrip)
-  Eldritch Blast(Cantrip)
-  Friends(Cantrip)
-  Frostbite(Cantrip)
-  Green-Flame Blade(Cantrip)
-  Infestation(Cantrip)
-  Lightning Lure(Cantrip)
-  Mage Hand(Cantrip)
-  Magic Stone(Cantrip)
-  Mind Sliver(Cantrip)
-  Minor Illusion(Cantrip)
-  Poison Spray(Cantrip)
-  Prestidigitation(Cantrip)
-  Sword Burst(Cantrip)
-  Thunderclap(Cantrip)
-  Toll the Dead(Cantrip)
-  True Strike(Cantrip) 
-  <br>
-  ** Level 1 Spells **
-  Armor of Agathys(1st)
-  Arms of Hadar(1st)
-  Bane(1st)
-  Cause Fear(1st)
-  Charm Person(1st)
-  Comprehend Languages(1st)
-  Detect Magic(1st)
-  Expeditious Retreat(1st)
-  Hellish Rebuke(1st)
-  Hex(1st)
-  Illusory Script(1st)
-  Protection from Evil and Good(1st)
-  Speak with Animals(1st)
-  Tasha's Hideous Laughter(1st)
-  Unseen Servant(1st)
-  Witch Bolt(1st)
+| 2                | 2                | -1               | 1    | 0          |
 
 # Inventory
-### Equipment (20)
+> [!example]- Equipment (20)
 A notebook containing waterproof paper
 [[3-Mechanics/CLI/items/amber-xdmg\|Amber]]
 Atudark's Dorm Room Key
@@ -168,7 +78,8 @@ Neverwood - First Year Uniform
 [[3-Mechanics/CLI/items/sickle-xphb\|Sickle]]
 Spell Scroll: [[3-Mechanics/CLI/spells/spider-climb-xphb\|Spider Climb]]
 Whalebucks Free Meal Ticket
-### Backpack (7)
+
+> [!example]- Backpack (7)
 [[3-Mechanics/CLI/items/book-xphb\|Book]]
 [[3-Mechanics/CLI/items/ink-xphb\|Ink]]
 [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
@@ -176,12 +87,14 @@ Whalebucks Free Meal Ticket
 [[3-Mechanics/CLI/items/oil-xphb\|Oil]]
 [[3-Mechanics/CLI/items/parchment-xphb\|Parchment]]
 [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
-### Pouch (0)
+
+> [!example]- Pouch (0)
+> This is my text 
 
 
 # Connections
 
-**Quest:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/The Missing Professor\|The Missing Professor]], [[2-Quests/Heist the Records Room\|Heist the Records Room]], [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]], [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]
+**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/The Missing Professor\|The Missing Professor]], [[2-Quests/Heist the Records Room\|Heist the Records Room]], [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]], [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 1/Group 1\|Group 1]], [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]
 
@@ -198,3 +111,134 @@ Whalebucks Free Meal Ticket
 # Academics
 ## Year 1
 ![First Year Timetable - Jacob.png](/img/user/z_Assets/Class%20Timetables/First%20Year/First%20Year%20Timetable%20-%20Jacob.png)
+
+### A is for Ankheg: A Complete Guide on 26 Classic Monsters
+> [!info]- Associated Skills
+> - Animal Handling 
+> - Nature 
+> - Survival
+
+#### Homework
+
+|            |    Week 1     |     Week 2      |     Week 3      |     Week 4      | Total |
+| :--------: | :-----------: | :-------------: | :-------------: | :-------------: | :---: |
+| **Term 1** | 13 \| 2 (15)  |  12 \| 19 (20)  |  17 \| 8 (20)   |  20 \| 7 (20)   |       |
+|            |    Nature     |    Survival     |    Survival     | Animal Handling |       |
+| **Term 2** | 16 \| 10 (20) |  14 \| 7 (20)   |  20 \| 2 (20)   |  24 \| 10 (20)  |       |
+|            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
+| **Term 3** | 15 \| 6 (20)  |   5 \| 9 (14)   |  11 \| 7 (18)   |  13 \| 14 (20)  |       |
+|            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
+| **Term 4** |               |                 |                 |                 |       |
+|            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
+| **Term 5** |               |                 |                 |                 |       |
+|            | Investigation |     Arcana      |     Nature      |    Survival     |       |
+| **Term 6** |               |                 |                 |                 |       |
+|            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
+#### Exams
+
+|  | Skill 1 | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | \#D4 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Exam 1** | Arcana | Insight | 8 | 7 | \- | 12 | 50 | \- |
+| **Exam 2** | Nature | Animal Handling |  |  |  |  |  |  |
+| **Exam 3** | Investigation | Persuasion |  |  |  |  |  |  |
+#### Final Grade
+
+| Homework | Labs | Exams |
+| :------: | :--: | :---: |
+|   30%    | N/A  |  70%  |
+|          |      |       |
+### Putting Down Roots: Arcano-botany for Beginners
+> [!info]- Associated Skills
+> - Arcana
+> - Medicine
+> - Nature
+
+#### Homework
+|            |    Week 1    |    Week 2     |    Week 3     |    Week 4     | Total |
+| :--------: | :----------: | :-----------: | :-----------: | :-----------: | :---: |
+| **Term 1** | 15 \| 9 (20) | 16 \| 9 (20)  | 14 \| 18 (20) | 20 \| 19 (20) |       |
+|            |    Arcana    |    Nature     |   Medicine    |    Arcana     |       |
+| **Term 2** | 7 \| 5 (12)  |  7 \| 9 (16)  | 11 \| 20 (20) | 15 \| 13 (20) |       |
+|            |   Medicine   |   Deception   |    Nature     |    Arcana     |       |
+| **Term 3** | 2 \| 17 (19) | 13 \| 8 (20)  | 9 \| 13 (20)  | 5 \| 21 (20)  |       |
+|            |  Perception  |    Insight    |    Nature     |   Medicine    |       |
+| **Term 4** |              |               |               |               |       |
+|            |    Arcana    |   Medicine    |   Deception   |   Survival    |       |
+| **Term 5** |              |               |               |               |       |
+|            |    Nature    |    Arcana     |   Medicine    |    Nature     |       |
+| **Term 6** |              |               |               |               |       |
+|            |   Insight    | Investigation |   Medicine    |    Arcana     |       |
+#### Exams
+|  | Skill 1 | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | \#D4 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Exam 1** | Arcana | Medicine |  |  |  |  |  |  |
+#### Final Grade
+
+| Homework | Labs | Exams |
+| :------: | :--: | :---: |
+|   60%    | N/A  |  40%  |
+|          |      |       |
+### A Thorn in One’s Side: The Danger of Misidentified Spell
+> [!info]- Associated Skills
+> - Nature 
+> - Perception 
+> - Survival
+
+#### Homework
+|            |    Week 1     |    Week 2     |    Week 3    |    Week 4     | Total |
+| :--------: | :-----------: | :-----------: | :----------: | :-----------: | :---: |
+| **Term 1** | 2 \| 16 (18)  | 22 \| 16 (20) | 10 \| 8 (18) | 15 \| 8 (20)  |       |
+|            |  Perception   |    Nature     |  Perception  |   Survival    |       |
+| **Term 2** | 17 \| 18 (20) | 14 \| 22 (20) | 11 \| 2 (13) | 10 \| 23 (20) |       |
+|            |   Survival    |   Deception   |   Insight    |    Nature     |       |
+| **Term 3** | 3 \| 18 (20)  | 21 \| 14 (20) | 16 \| 9 (20) | 20 \| 19 (20) |       |
+|            |  Perception   |    Nature     |   Survival   |    History    |       |
+| **Term 4** |               |               |              |               |       |
+|            |   Deception   |    Insight    |    Nature    |  Perception   |       |
+| **Term 5** |               |               |              |               |       |
+|            |    Arcana     |   Survival    |    Nature    |  Perception   |       |
+| **Term 6** |               |               |              |               |       |
+|            |   Survival    |  Perception   |    Nature    |   Survival    |       |
+#### Exams
+
+|        | Skill 1    | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | #D4 |
+| ------ | ---------- | -------- | ------ | ------ | -------- | -------- | ----- | --- |
+| Exam 1 | Perception | Survival | 8      | 20     | 17       | -        | 82    | 1   |
+#### Final Grade
+
+| Homework | Labs | Exams |
+| :------: | :--: | :---: |
+|   55%    | N/A  |  45%  |
+|          |      |       |
+### Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
+> [!info]- Associated Skills
+> - Arcana
+> - Deception
+> - Intimidation
+
+#### Homework
+|            |    Week 1    |     Week 2     |     Week 3     |     Week 4     | Total |
+| :--------: | :----------: | :------------: | :------------: | :------------: | :---: |
+| **Term 1** | 18 \| 9 (20) | 11 \| 20 (20)  |  6 \| 6 (12)   | 17 \| 13 (20)  |       |
+|            |  Deception   |  Intimidation  |     Arcana     |   Deception    |       |
+| **Term 2** | 8 \| 24 (20) | 14 \| 14 (20)  |  9 \| 16 (20)  |  14 \| 7 (20)  |       |
+|            | Intimidation |     Arcana     | Slight of Hand |  Intimidation  |       |
+| **Term 3** | 16 \| 8 (20) | 17 \| 19 (20)  | 12 \| 21 (20)  | 24 \| 11 (20)  |       |
+|            |    Arcana    | Slight of Hand |  Intimidation  |   Deception    |       |
+| **Term 4** |              |                |                |                |       |
+|            | Intimidation |   Deception    |     Arcana     |    Insight     |       |
+| **Term 5** |              |                |                |                |       |
+|            |  Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
+| **Term 6** |              |                |                |                |       |
+|            | Intimidation | Investigation  |   Deception    |     Arcana     |       |
+#### Exams
+
+|        | Skill 1      | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | #D4 |
+| ------ | ------------ | ------- | ------ | ------ | -------- | -------- | ----- | --- |
+| Exam 1 | Intimidation | Arcana  |        |        |          |          |       |     |
+#### Final Grade
+
+| Homework | Labs | Exams |
+| :------: | :--: | :---: |
+|   50%    | N/A  |  50%  |
+|          |      |       |
