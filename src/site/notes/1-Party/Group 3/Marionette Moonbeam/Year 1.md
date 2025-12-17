@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Year 1.md","permalink":"/party/group-3/marionette-moonbeam/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Year 1.md","permalink":"/party/group-3/marionette-moonbeam/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
 # Timetable

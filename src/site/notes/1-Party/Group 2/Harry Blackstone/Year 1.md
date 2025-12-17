@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"Player":"Ross","dg-path":"Party/Group 2/Harry Blackstone/Year 1.md","permalink":"/party/group-2/harry-blackstone/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"Player":"Ross","dg-show-toc":true,"dg-path":"Party/Group 2/Harry Blackstone/Year 1.md","permalink":"/party/group-2/harry-blackstone/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
 # Timetable
