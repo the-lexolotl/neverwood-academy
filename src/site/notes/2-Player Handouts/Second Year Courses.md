@@ -10,52 +10,6 @@
 **Quests:**  None
 
 ---
-# On this Page 
-- [[#Compulsory Course]]
-	- [[#Scrawl to the Wall Scrivening and Symbology]]
-- [[#General Studies]]
-	- [[#Refuse to Lose The Importance of Mascots and School Spirit]]
-	- [[#Going the Extra Mile A Guide to Spell Efficiency]]
-	- [[#There’s No Cook Like Gyome Magical Cooking with Everyone’s Favourite Troll]]
-	- [[#Wiping the Slate Clean Methods of Erasing Magical Effects]]
-	- [[#Shelter from the Storm Preparing Accommodations for Any Environment]]
-- [[#Lorehold]]
-	- [[#All the King's Horses Comparing the Great Steeds of Different Reigns (Lab)]]
-	- [[#Speaking with the Dead Conversations with Departed Professors]]
-	- [[#Talking Heads Conversations with Historical Busts in Dead Languages]]
-	- [[#A Blast from the Past Applied Tomewielding (Lab)]]
-	- [[#Beyond the Veil Contacting Vengeful and Violent Spirits of the Past]]
-	- [[#The Harder They Fall A Review of the Downfalls of Great Champions and Heroes]]
-- [[#Prismari]]
-	- [[#Thunderous Applause Using Sound Magic to Create Musical Masterpieces (Lab)]]
-	- [[#Great Balls of Fire Pyromancy and the Arts]]
-	- [[#Boom or Bust How to Capture an Audience with Your Arrival]]
-	- [[#On Thin Ice Accounting for Temperature Fluctuations in Ice Sculpting (Lab)]]
-	- [[#Air Support Wind Weaving Practices in Dance Moves Throughout the Ages]]
-	- [[#Just Add Water Origins and Trends in Waterbinding]]
-- [[#Quandrix]]
-	- [[#Rejecting Your Reality Quantitative Arcano-physics]]
-	- [[#What Comes Around Goes Around Applied Computational Magic]]
-	- [[#Magic by Numbers Intermediate Forms and Fractals (Lab)]]
-	- [[#The More the Merrier Intermediate Duplicative Magic]]
-	- [[#Arches and Textures Natural Buildings of the Vastlands]]
-	- [[#The Bigger They Are Fundamentals of Scale Magic (Lab)]]
-- [[#Silverquill]]
-	- [[#Words Will Always Hurt You Strategies for Silencing Opponents Before They Can Cast]]
-	- [[#Cast a Long Shadow Tools for Embracing Darker Magics (Lab)]]
-	- [[#Taking Their Word For It Fundamentals of Counterspelling]]
-	- [[#Soft Spoken The Enchanting Power of Soothing Language]]
-	- [[#Guiding Light Serving as a Leader on the Battlefield (Lab)]]
-	- [[#Shedding Light Introduction to Luminancy]]
-- [[#Witherbloom]]
-	- [[#Getting to the Root of Poisons Fundamentals of Antidotes (Lab)]]
-	- [[#Heard it Through the Great Vine Communicating With Plants]]
-	- [[#Vitally Important How Healing Environments Enhance Healing Effects]]
-	- [[#Pushing Up Daisies Using Death to Fuel Life]]
-	- [[#Reap What You Sow Growing the Best Sacrificial Pest (Lab)]]
-	- [[#Skeleton in the Closet Introduction to Reanimation (Lab)]]
-
----
 # Compulsory Course
 #### Scrawl to the Wall: Scrivening and Symbology
 *Professor [[2-World/People/Staff/Lorehold/Xyla Langning\|Xyla Langning]]*  
