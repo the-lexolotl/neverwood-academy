@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** |               |                 |                 |                 |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** |               |                 |                 |                 |       |
+| **Term 4** | 17 \| 19 (20) |                 |                 |                 |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -55,7 +55,7 @@
 |            |   Religion    | Investigation |  Performance  |    Insight    |       |
 | **Term 3** |               |               |               |               |       |
 |            |   Religion    |    History    |    Insight    | Investigation |       |
-| **Term 4** |               |               |               |               |       |
+| **Term 4** | 13 \| 10 (20) |               |               |               |       |
 |            |    Insight    |   Religion    |    History    |  Performance  |       |
 | **Term 5** |               |               |               |               |       |
 |            |    History    | Investigation |    Insight    |   Religion    |       |
@@ -88,7 +88,7 @@
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
 | **Term 3** |               |               |               |              |       |
 |            |  Persuasion   | Investigation |   Deception   |   History    |       |
-| **Term 4** |               |               |               |              |       |
+| **Term 4** | 19 \| 11 (20) |               |               |              |       |
 |            |   Deception   |   Religion    | Investigation |  Persuasion  |       |
 | **Term 5** |               |               |               |              |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
@@ -120,7 +120,7 @@
 |            | Strength Save |  Perception   |    Arcana     |   Deception   |       |
 | **Term 3** |               |               |               |               |       |
 |            |  Perception   |   Athletics   |    Nature     |   Survival    |       |
-| **Term 4** |               |               |               |               |       |
+| **Term 4** | 18 \| 12 (20) |               |               |               |       |
 |            |   Survival    |    Nature     |   Athletics   |  Perception   |       |
 | **Term 5** |               |               |               |               |       |
 |            |    Nature     |   Survival    | Strength Save |   Athletics   |       |

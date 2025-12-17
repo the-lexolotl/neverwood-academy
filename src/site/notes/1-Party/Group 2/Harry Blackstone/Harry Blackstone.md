@@ -62,52 +62,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 # Inventory
 
-> [!example]- Equipment (33)
-[[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]
-Gray [[3-Mechanics/CLI/items/bag-of-tricks-xdmg\|Bag of Tricks]]
-[[3-Mechanics/CLI/items/alchemists-supplies-xphb\|Alchemist's Supplies]]
-[[3-Mechanics/CLI/items/ball-bearings-xphb\|Ball Bearings]] (bag of 1,000)
-[[3-Mechanics/CLI/items/black-pearl-xdmg\|Black Pearl]]
-[[3-Mechanics/CLI/items/blue-sapphire-xdmg\|Blue Sapphire]]
-Crossbow [[3-Mechanics/CLI/items/bolts-20-xphb\|Bolts (20)]]
-[[3-Mechanics/CLI/items/light-crossbow-xphb\|Light Crossbow]]
-Cuddly Neverwood Mascot
-Cyinth's Dorm Room Key
-[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-Golden Fork
-Hammer
-[[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]] x 2
-[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
-[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
-Neverwood - First Year Uniform
-Neverwood Pennant
-[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
-[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
-[[3-Mechanics/CLI/items/rope-xphb\|Rope]], Hempen (50 feet)
-Shiny Rocks
-[[3-Mechanics/CLI/items/silvered-weapon-xdmg\|Silvered Pistol]]
-Spell Scroll: [[3-Mechanics/CLI/spells/identify-xphb\|Identify]]
-Syllabus Pages
-[[2-Player Handouts/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]]
-The head of a broken statue that houses the consciousness of a snarky sage
-[[3-Mechanics/CLI/items/thieves-tools-xphb\|Thieves' Tools]]
-[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
-[[3-Mechanics/CLI/items/tinkers-tools-xphb\|Tinker's Tools]]
-Whalebucks Free Meal Ticket
-
-> [!example]- Backpack (6)
-[[3-Mechanics/CLI/items/crowbar-xphb\|Crowbar]]
-Hammer
-Piton
-[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
-[[3-Mechanics/CLI/items/torch-xphb\|Torch]]
-[[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
-
-> [!example]- Pouch (0)
-> 
-
-### Equipment (27)
+> [!example]- Equipment (27)
 A notebook with handwritten notes on animating objects
 Abacus
 Aganazzar: A Evoking History
@@ -135,7 +90,8 @@ Spellbook
 [[3-Mechanics/CLI/items/tent-xphb\|Tent]]
 [[3-Mechanics/CLI/items/wand-of-pyrotechnics-xdmg\|Wand of Pyrotechnics]]
 Whalebucks Free Meal Ticket
-### Backpack (6)
+
+> [!example]- Backpack (6)
 [[3-Mechanics/CLI/items/book-xphb\|Book]]
 [[3-Mechanics/CLI/items/ink-xphb\|Ink]]
 [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
@@ -155,7 +111,7 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-**Pets:** Socks ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
+**Pets:** [[1-Party/Group 2/Harry Blackstone/Socks\|Socks]] ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
 **Grandparents:** Reynard Blackstone
 **Parents:** Unknown
 **Siblings:** Adalynn Blackstone 

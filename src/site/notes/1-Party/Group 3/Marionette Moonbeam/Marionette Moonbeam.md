@@ -1,5 +1,5 @@
 ---
-{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":12,"max_hp":12,"ac":12,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":["Rogue","Sorcerer"],"char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Ricards Riches|Ricards Riches]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"char_college":"Witherbloom","char_role":"Player","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/marionette-moonbeam/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":12,"max_hp":12,"ac":12,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":["Rogue","Sorcerer"],"char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Ricards Riches|Ricards Riches]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"char_college":"Witherbloom","char_role":"Player","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/marionette-moonbeam/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!NOTE|div-m] Player Name:  Catarina
@@ -104,12 +104,13 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 
 # Connections
 
-**Quests:** [[2-Quests/Ricards Riches\|Ricards Riches]], [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]
+**Quests:** [[2-Quests/Ricards Riches\|Ricards Riches]], [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]], [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 3/Group 3\|Group 3]]
 # Relationships
 
 **Pets:** Unknown
+**Companions:** [[1-Party/Group 3/Marionette Moonbeam/Shroom\|Shroom]]
 **Parents:** Aurthrin "Daggy" Dagg (Adoptive Father)
 **Siblings:** Unknown
 **Partner:** Unknown

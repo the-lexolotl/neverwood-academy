@@ -95,7 +95,7 @@ Whalebucks Free Meal Ticket
 # Relationships
 
 
-**Pets:** Midnight ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]]), Unnamed ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
+**Pets:** [[1-Party/Group 2/Lyra Everlight/Midnight\|Midnight]] ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]]), [[1-Party/Group 2/Lyra Everlight/Orion\|Orion]] ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
 **Parents:** Unknown
 **Siblings:** Unknown 
 **Partner:** Unknown
