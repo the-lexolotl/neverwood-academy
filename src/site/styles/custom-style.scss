@@ -49,7 +49,7 @@ body, p, span, a, li, blockquote, code, pre, input, textarea, button, label, td,
 
 /* --- Links with padding --- */
 body a {
-    padding: 0 0.3em; /* adds space on left and right */
+    padding-left: 0.3em; /* adds space only on the left */
 }
 
 /* --- Links --- */
