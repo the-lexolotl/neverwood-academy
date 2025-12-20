@@ -269,24 +269,72 @@ function dataviewJsLinksTransform(str) {
 
 function calloutBlockTransform(str) {
   const parsed = parse(str);
-  const blocks = parsed.querySelectorAll("blockquote");
-  const transform = (bqs) => bqs.forEach(bq => {
-    transform(bq.querySelectorAll("blockquote"));
-    const match = bq.innerHTML.match(/\[!([\w-]*)\|?(\s?.*)\](\+|\-)?(\s?.*)/);
-    if (!match) return;
-    const [, calloutType, meta, collapse, title] = match;
-    bq.tagName = "div";
-    bq.classList.add("callout", collapse ? "is-collapsible" : "", collapse === "-" ? "is-collapsed" : "");
-    bq.setAttribute("data-callout", calloutType.toLowerCase());
-    if (meta) bq.setAttribute("data-callout-metadata", meta);
-    const fold = collapse ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>` : "";
-    const titleText = title.replace(/(<\/?[\w]+>)/, "") || calloutType.charAt(0).toUpperCase() + calloutType.slice(1);
-    const titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
-    const contentDiv = bq.innerHTML.replace(match[0], "").trim() ? `<div class="callout-content">${bq.innerHTML.replace(match[0], "")}</div>` : "";
-    bq.innerHTML = `${titleDiv}${contentDiv}`;
-  });
-  transform(blocks);
-  return parsed.innerHTML;
+
+  const transformCalloutBlocks = (
+    blockquotes = parsed.querySelectorAll("blockquote")
+  ) => {
+    for (const blockquote of blockquotes) {
+      transformCalloutBlocks(blockquote.querySelectorAll("blockquote"));
+
+      let content = blockquote.innerHTML;
+
+      let titleDiv = "";
+      let calloutType = "";
+      let calloutMetaData = "";
+      let isCollapsable;
+      let isCollapsed;
+      const calloutMeta = /\[!([\w-]*)\|?(\s?.*)\](\+|\-){0,1}(\s?.*)/;
+      if (!content.match(calloutMeta)) {
+        continue;
+      }
+
+      content = content.replace(
+        calloutMeta,
+        function (metaInfoMatch, callout, metaData, collapse, title) {
+          isCollapsable = Boolean(collapse);
+          isCollapsed = collapse === "-";
+          const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+            ? title
+            : `${callout.charAt(0).toUpperCase()}${callout
+              .substring(1)
+              .toLowerCase()}`;
+          const fold = isCollapsable
+            ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
+            : ``;
+
+          calloutType = callout;
+          calloutMetaData = metaData;
+          titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
+          return "";
+        }
+      );
+
+      /* Hacky fix for callouts with only a title:
+      This will ensure callout-content isn't produced if
+      the callout only has a title, like this:
+      ```md
+      > [!info] i only have a title
+      ```
+      Not sure why content has a random <p> tag in it,
+      */
+      if (content === "\n<p>\n") {
+        content = "";
+      }
+      let contentDiv = content ? `\n<div class="callout-content">${content}</div>` : "";
+
+      blockquote.tagName = "div";
+      blockquote.classList.add("callout");
+      blockquote.classList.add(isCollapsable ? "is-collapsible" : "");
+      blockquote.classList.add(isCollapsed ? "is-collapsed" : "");
+      blockquote.setAttribute("data-callout", calloutType.toLowerCase());
+      calloutMetaData && blockquote.setAttribute("data-callout-metadata", calloutMetaData);
+      blockquote.innerHTML = `${titleDiv}${contentDiv}`;
+    }
+  };
+
+  transformCalloutBlocks();
+
+  return str && parsed.innerHTML;
 }
 
 function pictureTransform(str) {
