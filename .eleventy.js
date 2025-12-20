@@ -45,11 +45,38 @@ function preprocessMarkdownFiles() {
               
               try {
                 const data = JSON.parse(jsonStr);
-                // Convert to YAML
-                const yamlFrontMatter = "---\n" + yaml.dump(data, {
+                
+                // Recursively process strings to escape backslashes for YAML
+                function escapeForYaml(obj) {
+                  if (typeof obj === 'string') {
+                    // If string contains backslashes, we need to handle them
+                    if (obj.includes('\\')) {
+                      return obj.replace(/\\/g, '\\\\');
+                    }
+                    return obj;
+                  }
+                  if (Array.isArray(obj)) {
+                    return obj.map(escapeForYaml);
+                  }
+                  if (obj && typeof obj === 'object') {
+                    const result = {};
+                    for (const [key, value] of Object.entries(obj)) {
+                      result[key] = escapeForYaml(value);
+                    }
+                    return result;
+                  }
+                  return obj;
+                }
+                
+                const escapedData = escapeForYaml(data);
+                
+                // Convert to YAML with options that force proper quoting
+                const yamlFrontMatter = "---\n" + yaml.dump(escapedData, {
                   lineWidth: -1,
                   noCompatMode: true,
-                  forceQuotes: false
+                  forceQuotes: true,  // Force quotes on all strings
+                  quotingType: '"',
+                  flowLevel: -1
                 }) + "---\n";
                 const newContent = yamlFrontMatter + restOfContent;
                 fs.writeFileSync(filePath, newContent, 'utf8');
