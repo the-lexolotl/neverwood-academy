@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Merchant of Moons","fc-start":"1508-17-25","fc-end":"1508-17-26","aat-event-picture":"Pasted image 20250819074603.png","aat-event-body":"A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for The Merchant of Moons, Silverquill’s most prestigious annual production. What begins as a simple performance quickly reveals hidden ledgers, forged signatures, and family secrets lurking beneath the stage’s polished veneer. Caught between reputation, manipulation, and a mysterious truth-binding sigil, Lyra’s debut becomes a play scripted by forces far larger — and far closer — than she imagined.","sessionstatus":"Occurred","type":"Session Journal","ingameDate":"25th - 26th Nightal 1508","sessionDate":"2025-10-24","players":1,"OneLiner":"A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for The Merchant of Moons","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[Lyra Everlight|Lyra Everlight]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Dramitia.md|Dramitia]]","[[2-World/People/Staff/Isabrough.md|Isabrough]]","[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild.md|Play Actors Drama Guild]]"],"dg-publish":true,"dg-show-local-graph":true,"aliases":["Megan Async - The Merchant of Moons"],"dg-show-backlinks":true,"dg-path":"Session Journals/2025-10-24 - Megan Async.md","permalink":"/session-journals/2025-10-24-megan-async/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Merchant of Moons","fc-start":"1508-17-25","fc-end":"1508-17-26","aat-event-picture":"Pasted image 20250819074603.png","aat-event-body":"A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for The Merchant of Moons, Silverquill’s most prestigious annual production. What begins as a simple performance quickly reveals hidden ledgers, forged signatures, and family secrets lurking beneath the stage’s polished veneer. Caught between reputation, manipulation, and a mysterious truth-binding sigil, Lyra’s debut becomes a play scripted by forces far larger — and far closer — than she imagined.","sessionstatus":"Occurred","type":"Session Journal","ingameDate":"25th - 26th Nightal 1508","sessionDate":"2025-10-24","players":1,"OneLiner":"A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for The Merchant of Moons","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[Lyra Everlight|Lyra Everlight]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Dramitia\|Dramitia]]","[[2-World/People/Staff/Isabrough\|Isabrough]]","[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]"],"dg-publish":true,"dg-show-local-graph":true,"aliases":["Megan Async - The Merchant of Moons"],"dg-show-backlinks":true,"dg-path":"Session Journals/2025-10-24 - Megan Async.md","permalink":"/session-journals/2025-10-24-megan-async/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 # Megan Async - The Merchant of Moons
@@ -7,11 +7,13 @@
 
 [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
 
+
 # Session Overview
 
 **Session Status:**  Occurred
 
 **In Game Date:** 25th - 26th Nightal 1508
+
 ## Group Cup Points
 
 | Group 1 | Group 2 | Group 3 |
@@ -21,7 +23,7 @@
 
 ## NPC's
 
-[[2-World/People/Staff/Dramitia\|Dramitia]], [[2-World/People/Staff/Isabrough\|Isabrough]], [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]
+[[2-World/People/Staff/Dramitia.md|Dramitia]],[[2-World/People/Staff/Isabrough.md|Isabrough]],[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild.md|Play Actors Drama Guild]]
 
 ## Summary
 A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for *The Merchant of Moons*, Silverquill’s most prestigious annual production. What begins as a simple performance quickly reveals hidden ledgers, forged signatures, and family secrets lurking beneath the stage’s polished veneer. Caught between reputation, manipulation, and a mysterious truth-binding sigil, Lyra’s debut becomes a play scripted by forces far larger — and far closer — than she imagined.

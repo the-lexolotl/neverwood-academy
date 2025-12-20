@@ -5,8 +5,8 @@
 
 # Connections
 
-**Groups:** `= this.Connected_Groups`
-**Quests:** `= this.Connected_Quests`
+**Groups:** None
+**Quests:** None
 
 ---
 ![Dorm Rooms.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Dorm%20Rooms.png)

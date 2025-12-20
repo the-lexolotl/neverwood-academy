@@ -9,7 +9,6 @@
 
 # Session Overview
 
-
 **Session Status:**  Occurred
 
 **In Game Date:** 17th Eleint 1508
@@ -24,7 +23,7 @@
 ## NPC's
 
 
-[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]], [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]
+[[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]],[[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]],[[2-World/People/Staff/Quandrix/Kianne\|Kianne]]
 
 ## Summary
 Determined to uncover more information about strange magical occurrences on campus — particularly the black goo from the Firejolt incident — Ross, accompanied by fellow student [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]], planned and executed a stealthy break-in at the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]].

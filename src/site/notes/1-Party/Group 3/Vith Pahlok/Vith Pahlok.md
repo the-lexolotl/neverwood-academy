@@ -1,5 +1,5 @@
 ---
-{"aliases":["Vith","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Goblin","Primordial","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":["Barbarian","Bard"],"char_gender":"Male","char_college":"Silverquill","char_role":"Player","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md|Group 3]]"],"parents":["Piraak-fus Pahlok"],"partner":null,"children":["Folass"],"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Joel.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Vith Pahlok/Vith Pahlok.md","permalink":"/party/group-3/vith-pahlok/vith-pahlok/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Vith","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Goblin","Primordial","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":["Barbarian","Bard"],"char_gender":"Male","char_college":"Silverquill","char_role":"Player","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]"],"parents":["Piraak-fus Pahlok"],"partner":null,"children":["Folass"],"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Joel.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Vith Pahlok/Vith Pahlok.md","permalink":"/party/group-3/vith-pahlok/vith-pahlok/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!NOTE|div-m] Player Name:  Joel
@@ -86,9 +86,9 @@ Vith's Dorm Room Key
 
 # Connections
 
-**Quests:** [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[1-Party/Group 3/Group 3.md|Group 3]]
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[1-Party/Group 3/Group 3\|Group 3]]
+**Quests:** [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
 
 # Relationships
 
