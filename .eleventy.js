@@ -5,11 +5,9 @@ const matter = require("gray-matter");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const Image = require("@11ty/eleventy-img");
-
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const { userMarkdownSetup, userEleventySetup } = require("./src/helpers/userSetup");
 const yaml = require("js-yaml");
@@ -115,14 +113,11 @@ function createMarkdownLib() {
       md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
         const token = tokens[idx];
         const code = token.content.trim();
-
         if (token.info === "mermaid") return `<pre class="mermaid">${code}</pre>`;
         if (token.info === "transclusion") return `<div class="transclusion">${md.render(code)}</div>`;
         if (token.info.startsWith("ad-")) return renderAdCallout(token.info, code, md);
-
         return origFenceRule(tokens, idx, options, env, slf);
       };
-
       // Image rule with width/metadata support
       const defaultImageRule = md.renderer.rules.image || ((tokens, idx, options, env, self) => self.renderToken(tokens, idx, options, env, self));
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
@@ -134,7 +129,6 @@ function createMarkdownLib() {
         if (width) tokens[idx].attrSet("width", `${width}px`);
         return defaultImageRule(tokens, idx, options, env, self);
       };
-
       // Link rule for external links
       const defaultLinkRule = md.renderer.rules.link_open || ((tokens, idx, options, env, self) => self.renderToken(tokens, idx, options, env, self));
       md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
@@ -143,23 +137,19 @@ function createMarkdownLib() {
         return defaultLinkRule(tokens, idx, options, env, self);
       };
     });
-
   return md;
 }
 
 // =========================
-// Transform helpers
+// Transform functions
 // =========================
-eleventyConfig.addTransform("fixJSONFrontMatter", function (content, outputPath) {
+function fixJSONFrontMatterTransform(content, outputPath) {
   if (!outputPath || !outputPath.endsWith(".html")) return content;
-
   const jsonMatch = content.match(/^\s*{[\s\S]*?}\s*(?=\n|---)/);
   if (!jsonMatch) return content;
-
   let jsonStr = jsonMatch[0];
   // remove problematic escapes
   jsonStr = jsonStr.replace(/\\\|/g, "|");
-
   let data;
   try {
     data = JSON.parse(jsonStr);
@@ -167,10 +157,9 @@ eleventyConfig.addTransform("fixJSONFrontMatter", function (content, outputPath)
     console.warn("Skipping invalid JSON front matter");
     return content;
   }
-
   const yamlFrontMatter = "---\n" + yaml.dump(data) + "---\n";
   return content.replace(jsonStr, yamlFrontMatter);
-});
+}
 
 function dataviewJsLinksTransform(str) {
   const parsed = parse(str);
@@ -254,7 +243,7 @@ function htmlMinifierTransform(content, outputPath) {
 }
 
 // =========================
-// Helpers
+// Helper functions
 // =========================
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   const options = { widths, formats: ["webp", "jpeg"], outputDir: "./dist/img/optimized", urlPath: "/img/optimized" };
@@ -282,7 +271,6 @@ function getAnchorAttributes(filePath, linkTitle) {
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
-
   try {
     const startPath = "./src/site/notes/";
     const fullPath = fileName.endsWith(".md") ? `${startPath}${fileName}` : `${startPath}${fileName}.md`;
@@ -294,11 +282,9 @@ function getAnchorAttributes(filePath, linkTitle) {
   } catch {
     deadLink = true;
   }
-
   if (deadLink) {
     return { attributes: { class: "internal-link is-unresolved", href: "/404", target: "" }, innerHTML: linkTitle || fileName };
   }
-
   return {
     attributes: { class: "internal-link", target: "", "data-note-icon": noteIcon, href: `${permalink}${headerLinkPath}` },
     innerHTML: linkTitle || fileName
@@ -317,7 +303,6 @@ function renderAdCallout(type, code, md) {
     if (line.startsWith("collapse:")) { collapsible = true; collapsed = line.substring(9).trim().toLowerCase() !== "open"; nbLinesToSkip++; }
     if (line.startsWith("color:")) { color = line.substring(6); nbLinesToSkip++; }
   }
-
   const foldDiv = collapsible ? `<div class="callout-fold"><svg>...</svg></div>` : "";
   const titleDiv = title ? `<div class="callout-title"><div class="callout-title-inner">${title}</div>${foldDiv}</div>` : "";
   const collapseClasses = (collapsible ? "is-collapsible" : "") + (collapsible && collapsed ? " is-collapsed" : "");
