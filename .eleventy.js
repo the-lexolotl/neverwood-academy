@@ -324,6 +324,45 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  const yaml = require("js-yaml");
+
+eleventyConfig.addTransform("fixJSONFrontMatter", function (content, outputPath) {
+  // Only process Markdown source
+  if (!outputPath || !outputPath.endsWith(".html")) return content;
+
+  // Match JSON front matter at the top of the file
+  const jsonMatch = content.match(/^\s*{[\s\S]*?}\s*(?=\n|---)/);
+  if (!jsonMatch) return content;
+
+  const jsonStr = jsonMatch[0];
+  let data;
+  try {
+    data = JSON.parse(jsonStr);
+  } catch (e) {
+    console.warn("Skipping invalid JSON front matter");
+    return content;
+  }
+
+  // Convert JSON → YAML
+  for (const key in data) {
+    const value = data[key];
+    if (Array.isArray(value)) {
+      data[key] = value.map(v => {
+        if (typeof v === "string" && v.includes("|")) {
+          return `'${v.replace(/\\/g, "")}'`;
+        }
+        return v;
+      });
+    } else if (typeof value === "string" && value.includes("|")) {
+      data[key] = `'${value.replace(/\\/g, "")}'`;
+    }
+  }
+
+  const yamlFrontMatter = "---\n" + yaml.dump(data) + "---\n";
+
+  return content.replace(jsonStr, yamlFrontMatter);
+});
+
   eleventyConfig.addTransform("dataview-js-links", function (str) {
     const parsed = parse(str);
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
