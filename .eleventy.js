@@ -150,23 +150,29 @@ function createMarkdownLib() {
 // =========================
 // Transform helpers
 // =========================
-function fixJSONFrontMatterTransform(content, outputPath) {
+const yaml = require("js-yaml");
+
+eleventyConfig.addTransform("fixJSONFrontMatter", function (content, outputPath) {
   if (!outputPath || !outputPath.endsWith(".html")) return content;
 
   const jsonMatch = content.match(/^\s*{[\s\S]*?}\s*(?=\n|---)/);
   if (!jsonMatch) return content;
 
-  let data;
-  try { data = JSON.parse(jsonMatch[0]); } catch { return content; }
+  let jsonStr = jsonMatch[0];
+  // remove problematic escapes
+  jsonStr = jsonStr.replace(/\\\|/g, "|");
 
-  for (const key in data) {
-    const value = data[key];
-    if (Array.isArray(value)) data[key] = value.map(v => typeof v === "string" && v.includes("|") ? `'${v.replace(/\\/g, "")}'` : v);
-    else if (typeof value === "string" && value.includes("|")) data[key] = `'${value.replace(/\\/g, "")}'`;
+  let data;
+  try {
+    data = JSON.parse(jsonStr);
+  } catch (e) {
+    console.warn("Skipping invalid JSON front matter");
+    return content;
   }
 
-  return content.replace(jsonMatch[0], `---\n${yaml.dump(data)}---\n`);
-}
+  const yamlFrontMatter = "---\n" + yaml.dump(data) + "---\n";
+  return content.replace(jsonStr, yamlFrontMatter);
+});
 
 function dataviewJsLinksTransform(str) {
   const parsed = parse(str);
