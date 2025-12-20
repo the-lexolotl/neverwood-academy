@@ -3,7 +3,7 @@
 ---
 
 
-| File                                                                                | Player   | Level | Class                                    | Gender | College     |
+| Character Name                                                                      | Player   | Level | Class                                    | Gender | College     |
 | ----------------------------------------------------------------------------------- | -------- | ----- | ---------------------------------------- | ------ | ----------- |
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                | Cameron  | 2     | Druid                                    | Male   | Witherbloom |
 | [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                      | Catarina | 2     | Artificer                                | Female | Lorehold    |

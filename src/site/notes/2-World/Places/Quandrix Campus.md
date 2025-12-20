@@ -34,8 +34,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
-| [[2-World/People/Staff/Quandrix/Imbraham\|Imbraham]]                      | Owlin      | Male       | College Dean           |
 | [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]    | Harengon   | Male       | Professor of Substance |
+| [[2-World/People/Staff/Quandrix/Imbraham\|Imbraham]]                      | Owlin      | Male       | College Dean           |
 | [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]                          | Elf        | Female     | College Dean           |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
@@ -55,8 +55,8 @@ Make notes of what you need to track in the town here.
 
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
 
 { .block-language-dataview}

@@ -58,8 +58,8 @@ The following people are members of this group.
 
 | File                                                                        | Gender | Race  | Role         | College |
 | --------------------------------------------------------------------------- | ------ | ----- | ------------ | ------- |
-| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
+| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] | Male   | Human | Cafe Manager | None    |
 
 { .block-language-dataview}
