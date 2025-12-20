@@ -5,6 +5,7 @@
 
 # Connections
 
+**Groups:** `= this.Connected_Groups`
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 ---

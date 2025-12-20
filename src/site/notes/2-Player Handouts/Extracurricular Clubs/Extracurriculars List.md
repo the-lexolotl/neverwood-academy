@@ -7,9 +7,8 @@
 
 # Connections
 
-**Groups:**  None 
-
-**Quests:** None 
+**Groups:** `= this.Connected_Groups`
+**Quests:** `= this.Connected_Quests`
 
 ---
 

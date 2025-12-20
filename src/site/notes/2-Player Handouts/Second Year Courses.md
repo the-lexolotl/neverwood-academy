@@ -1,13 +1,12 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"image":null,"dg-publish":true,"Connected_Quests":null,"NoteIcon":"journal","Connected_Groups":["[[2-World/Groups/Colleges/Lorehold College.md|Lorehold College]]","[[2-World/Groups/Colleges/Prismari College.md|Prismari College]]","[[2-World/Groups/Colleges/Quandrix College.md|Quandrix College]]","[[2-World/Groups/Colleges/Silverquill College.md|Silverquill College]]","[[2-World/Groups/Colleges/Witherbloom College.md|Witherbloom College]]"],"dg-show-inline-title":true,"dg-show-local-graph":false,"handout-cat":"Academy Information","dg-show-backlinks":true,"dg-show-toc":true,"dg-path":"Player Handouts/Second Year Courses.md","permalink":"/player-handouts/second-year-courses/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"image":null,"dg-publish":true,"Connected_Quests":null,"NoteIcon":"journal","Connected_Groups":["[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]","[[2-World/Groups/Colleges/Prismari College\|Prismari College]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]","[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]","[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]"],"dg-show-inline-title":true,"dg-show-local-graph":false,"handout-cat":"Academy Information","dg-show-backlinks":true,"dg-show-toc":true,"dg-path":"Player Handouts/Second Year Courses.md","permalink":"/player-handouts/second-year-courses/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
 
 # Connections
 
-**Groups:**  [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]], [[2-World/Groups/Colleges/Prismari College\|Prismari College]], [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]], [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]], [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
-
-**Quests:**  None
+**Groups:** [[2-World/Groups/Colleges/Lorehold College.md|Lorehold College]],[[2-World/Groups/Colleges/Prismari College.md|Prismari College]],[[2-World/Groups/Colleges/Quandrix College.md|Quandrix College]],[[2-World/Groups/Colleges/Silverquill College.md|Silverquill College]],[[2-World/Groups/Colleges/Witherbloom College.md|Witherbloom College]]
+**Quests:** `= this.Connected_Quests`
 
 ---
 # Compulsory Course

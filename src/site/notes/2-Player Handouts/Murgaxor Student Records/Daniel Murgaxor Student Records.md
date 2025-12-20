@@ -6,7 +6,8 @@
 
 # Connections
 
-**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/Heist the Records Room\|Heist the Records Room]]
+**Groups:** `= this.Connected_Groups`
+**Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
 
 ---
 ![Murgaxor, Daniel.png](/img/user/z_Assets/Murgaxor%20Lore/Murgaxor%20Student%20Records/Murgaxor,%20Daniel.png)

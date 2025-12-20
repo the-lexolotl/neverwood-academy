@@ -5,7 +5,8 @@
 
 # Connections
 
-**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/Heist the Records Room\|Heist the Records Room]]
+**Groups:** `= this.Connected_Groups`
+**Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
 
 ---
 

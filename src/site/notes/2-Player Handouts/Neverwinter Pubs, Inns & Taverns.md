@@ -7,9 +7,8 @@
 
 # Connections
 
-**Groups:** None
-
-**Quests:**  None 
+**Groups:** `= this.Connected_Groups`
+**Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
 
 ---
 

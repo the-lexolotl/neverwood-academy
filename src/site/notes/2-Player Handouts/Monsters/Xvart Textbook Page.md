@@ -8,6 +8,7 @@
 
 # Connections
 
+**Groups:** `= this.Connected_Groups`
 **Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
 ---
