@@ -47,6 +47,11 @@ body, p, span, a, li, blockquote, code, pre, input, textarea, button, label, td,
     color: #d8deb9 !important;
 }
 
+/* --- Links with padding --- */
+body a {
+    padding: 0 0.3em; /* adds space on left and right */
+}
+
 /* --- Links --- */
 a {
     text-decoration: underline dotted;
