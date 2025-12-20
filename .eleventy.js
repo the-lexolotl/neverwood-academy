@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const matter = require("gray-matter");
@@ -15,31 +16,65 @@ const yaml = require("js-yaml");
 // Tag regex
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
-module.exports = function (eleventyConfig) {
-  // =========================
-  // Data preprocessing for JSON frontmatter
-  // =========================
-  eleventyConfig.addDataExtension("md", {
-    parser: (contents) => {
-      // Check if content starts with JSON frontmatter
-      const jsonMatch = contents.match(/^\s*({[\s\S]*?})\s*\n/);
-      if (!jsonMatch) return {};
+// Preprocess files with JSON frontmatter
+function preprocessMarkdownFiles() {
+  const notesDir = "./src/site/notes";
+  
+  function processDirectory(dir) {
+    const files = fs.readdirSync(dir);
+    
+    for (const file of files) {
+      const filePath = path.join(dir, file);
+      const stat = fs.statSync(filePath);
       
-      let jsonStr = jsonMatch[1];
-      // Remove problematic escapes
-      jsonStr = jsonStr.replace(/\\\|/g, "|");
-      
-      try {
-        const data = JSON.parse(jsonStr);
-        return data;
-      } catch (e) {
-        console.warn("Could not parse JSON frontmatter, skipping");
-        return {};
+      if (stat.isDirectory()) {
+        processDirectory(filePath);
+      } else if (file.endsWith('.md')) {
+        try {
+          let content = fs.readFileSync(filePath, 'utf8');
+          
+          // Check if it starts with JSON frontmatter
+          if (!content.trim().startsWith('---')) {
+            const jsonMatch = content.match(/^\s*(\{[\s\S]*?\})\s*\n([\s\S]*)$/);
+            if (jsonMatch) {
+              let jsonStr = jsonMatch[1];
+              const restOfContent = jsonMatch[2];
+              
+              // Remove problematic escapes
+              jsonStr = jsonStr.replace(/\\\|/g, '|');
+              
+              try {
+                const data = JSON.parse(jsonStr);
+                // Convert to YAML
+                const yamlFrontMatter = "---\n" + yaml.dump(data, {
+                  lineWidth: -1,
+                  noCompatMode: true,
+                  forceQuotes: false
+                }) + "---\n";
+                const newContent = yamlFrontMatter + restOfContent;
+                fs.writeFileSync(filePath, newContent, 'utf8');
+                console.log(`Converted JSON frontmatter to YAML: ${filePath}`);
+              } catch (e) {
+                console.warn(`Failed to parse JSON in ${filePath}:`, e.message);
+              }
+            }
+          }
+        } catch (e) {
+          console.warn(`Error processing ${filePath}:`, e.message);
+        }
       }
-    },
-    read: true
-  });
+    }
+  }
+  
+  if (fs.existsSync(notesDir)) {
+    processDirectory(notesDir);
+  }
+}
 
+// Run preprocessing
+preprocessMarkdownFiles();
+
+module.exports = function (eleventyConfig) {
   // =========================
   // Basic config
   // =========================
