@@ -32,59 +32,88 @@ function preprocessMarkdownFiles() {
       } else if (file.endsWith('.md')) {
         try {
           let content = fs.readFileSync(filePath, 'utf8');
+          let needsProcessing = false;
+          let data, restOfContent;
           
           // Check if it starts with JSON frontmatter
           if (!content.trim().startsWith('---')) {
             const jsonMatch = content.match(/^\s*(\{[\s\S]*?\})\s*\n([\s\S]*)$/);
             if (jsonMatch) {
               let jsonStr = jsonMatch[1];
-              const restOfContent = jsonMatch[2];
+              restOfContent = jsonMatch[2];
               
               // Remove problematic escapes
               jsonStr = jsonStr.replace(/\\\|/g, '|');
               
               try {
-                const data = JSON.parse(jsonStr);
-                
-                // Recursively process strings to escape backslashes for YAML
-                function escapeForYaml(obj) {
-                  if (typeof obj === 'string') {
-                    // If string contains backslashes, we need to handle them
-                    if (obj.includes('\\')) {
-                      return obj.replace(/\\/g, '\\\\');
-                    }
-                    return obj;
-                  }
-                  if (Array.isArray(obj)) {
-                    return obj.map(escapeForYaml);
-                  }
-                  if (obj && typeof obj === 'object') {
-                    const result = {};
-                    for (const [key, value] of Object.entries(obj)) {
-                      result[key] = escapeForYaml(value);
-                    }
-                    return result;
-                  }
-                  return obj;
-                }
-                
-                const escapedData = escapeForYaml(data);
-                
-                // Convert to YAML with options that force proper quoting
-                const yamlFrontMatter = "---\n" + yaml.dump(escapedData, {
-                  lineWidth: -1,
-                  noCompatMode: true,
-                  forceQuotes: true,  // Force quotes on all strings
-                  quotingType: '"',
-                  flowLevel: -1
-                }) + "---\n";
-                const newContent = yamlFrontMatter + restOfContent;
-                fs.writeFileSync(filePath, newContent, 'utf8');
-                console.log(`Converted JSON frontmatter to YAML: ${filePath}`);
+                data = JSON.parse(jsonStr);
+                needsProcessing = true;
               } catch (e) {
                 console.warn(`Failed to parse JSON in ${filePath}:`, e.message);
               }
             }
+          } else {
+            // It has YAML frontmatter - check if it needs fixing
+            const yamlMatch = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+            if (yamlMatch) {
+              const yamlContent = yamlMatch[1];
+              restOfContent = yamlMatch[2];
+              
+              // Check if YAML contains unescaped backslashes in strings
+              if (yamlContent.includes('\\|') || (yamlContent.includes('\\') && !yamlContent.includes('\\\\'))) {
+                try {
+                  // Try to parse existing YAML - if it fails, we need to fix it
+                  data = yaml.load(yamlContent);
+                  needsProcessing = true;
+                } catch (e) {
+                  // YAML is broken, try to fix by reading as lenient as possible
+                  try {
+                    // Replace unescaped single backslashes with double backslashes in the YAML string
+                    const fixedYaml = yamlContent.replace(/([^\\])\\([^\\"])/g, '$1\\\\$2');
+                    data = yaml.load(fixedYaml);
+                    needsProcessing = true;
+                  } catch (e2) {
+                    console.warn(`Cannot fix YAML in ${filePath}:`, e2.message);
+                  }
+                }
+              }
+            }
+          }
+          
+          if (needsProcessing && data) {
+            // Recursively process strings to escape backslashes for YAML
+            function escapeForYaml(obj) {
+              if (typeof obj === 'string') {
+                // Replace single backslashes with double backslashes
+                // But don't double-escape already escaped ones
+                return obj.replace(/\\/g, '\\\\');
+              }
+              if (Array.isArray(obj)) {
+                return obj.map(escapeForYaml);
+              }
+              if (obj && typeof obj === 'object') {
+                const result = {};
+                for (const [key, value] of Object.entries(obj)) {
+                  result[key] = escapeForYaml(value);
+                }
+                return result;
+              }
+              return obj;
+            }
+            
+            const escapedData = escapeForYaml(data);
+            
+            // Convert to YAML with options that force proper quoting
+            const yamlFrontMatter = "---\n" + yaml.dump(escapedData, {
+              lineWidth: -1,
+              noCompatMode: true,
+              forceQuotes: true,
+              quotingType: '"',
+              flowLevel: -1
+            }) + "---\n";
+            const newContent = yamlFrontMatter + restOfContent;
+            fs.writeFileSync(filePath, newContent, 'utf8');
+            console.log(`Fixed frontmatter in: ${filePath}`);
           }
         } catch (e) {
           console.warn(`Error processing ${filePath}:`, e.message);
