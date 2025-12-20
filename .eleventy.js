@@ -150,8 +150,6 @@ function createMarkdownLib() {
 // =========================
 // Transform helpers
 // =========================
-const yaml = require("js-yaml");
-
 eleventyConfig.addTransform("fixJSONFrontMatter", function (content, outputPath) {
   if (!outputPath || !outputPath.endsWith(".html")) return content;
 
