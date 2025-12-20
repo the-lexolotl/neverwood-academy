@@ -157,7 +157,12 @@ function fixJSONFrontMatterTransform(content, outputPath) {
     console.warn("Skipping invalid JSON front matter");
     return content;
   }
-  const yamlFrontMatter = "---\n" + yaml.dump(data) + "---\n";
+  const yamlFrontMatter = "---\n" + yaml.dump(data, {
+    lineWidth: -1,
+    noCompatMode: true,
+    quotingType: '"',
+    forceQuotes: false
+  }) + "---\n";
   return content.replace(jsonStr, yamlFrontMatter);
 }
 
