@@ -157,7 +157,27 @@ function fixJSONFrontMatterTransform(content, outputPath) {
     console.warn("Skipping invalid JSON front matter");
     return content;
   }
-  const yamlFrontMatter = "---\n" + yaml.dump(data, {
+  
+  // Recursively escape backslashes in all string values
+  function escapeBackslashes(obj) {
+    if (typeof obj === 'string') {
+      return obj.replace(/\\/g, '\\\\');
+    }
+    if (Array.isArray(obj)) {
+      return obj.map(escapeBackslashes);
+    }
+    if (obj && typeof obj === 'object') {
+      const result = {};
+      for (const [key, value] of Object.entries(obj)) {
+        result[key] = escapeBackslashes(value);
+      }
+      return result;
+    }
+    return obj;
+  }
+  
+  const escapedData = escapeBackslashes(data);
+  const yamlFrontMatter = "---\n" + yaml.dump(escapedData, {
     lineWidth: -1,
     noCompatMode: true,
     quotingType: '"',
