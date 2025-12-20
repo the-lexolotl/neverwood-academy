@@ -17,6 +17,30 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
   // =========================
+  // Data preprocessing for JSON frontmatter
+  // =========================
+  eleventyConfig.addDataExtension("md", {
+    parser: (contents) => {
+      // Check if content starts with JSON frontmatter
+      const jsonMatch = contents.match(/^\s*({[\s\S]*?})\s*\n/);
+      if (!jsonMatch) return {};
+      
+      let jsonStr = jsonMatch[1];
+      // Remove problematic escapes
+      jsonStr = jsonStr.replace(/\\\|/g, "|");
+      
+      try {
+        const data = JSON.parse(jsonStr);
+        return data;
+      } catch (e) {
+        console.warn("Could not parse JSON frontmatter, skipping");
+        return {};
+      }
+    },
+    read: true
+  });
+
+  // =========================
   // Basic config
   // =========================
   eleventyConfig.setLiquidOptions({ dynamicPartials: true });
@@ -69,7 +93,6 @@ module.exports = function (eleventyConfig) {
   // =========================
   // Transforms
   // =========================
-  eleventyConfig.addTransform("fixJSONFrontMatter", fixJSONFrontMatterTransform);
   eleventyConfig.addTransform("dataview-js-links", dataviewJsLinksTransform);
   eleventyConfig.addTransform("callout-block", calloutBlockTransform);
   eleventyConfig.addTransform("picture", pictureTransform);
@@ -143,49 +166,6 @@ function createMarkdownLib() {
 // =========================
 // Transform functions
 // =========================
-function fixJSONFrontMatterTransform(content, outputPath) {
-  if (!outputPath || !outputPath.endsWith(".html")) return content;
-  const jsonMatch = content.match(/^\s*{[\s\S]*?}\s*(?=\n|---)/);
-  if (!jsonMatch) return content;
-  let jsonStr = jsonMatch[0];
-  // remove problematic escapes
-  jsonStr = jsonStr.replace(/\\\|/g, "|");
-  let data;
-  try {
-    data = JSON.parse(jsonStr);
-  } catch (e) {
-    console.warn("Skipping invalid JSON front matter");
-    return content;
-  }
-  
-  // Recursively escape backslashes in all string values
-  function escapeBackslashes(obj) {
-    if (typeof obj === 'string') {
-      return obj.replace(/\\/g, '\\\\');
-    }
-    if (Array.isArray(obj)) {
-      return obj.map(escapeBackslashes);
-    }
-    if (obj && typeof obj === 'object') {
-      const result = {};
-      for (const [key, value] of Object.entries(obj)) {
-        result[key] = escapeBackslashes(value);
-      }
-      return result;
-    }
-    return obj;
-  }
-  
-  const escapedData = escapeBackslashes(data);
-  const yamlFrontMatter = "---\n" + yaml.dump(escapedData, {
-    lineWidth: -1,
-    noCompatMode: true,
-    quotingType: '"',
-    forceQuotes: false
-  }) + "---\n";
-  return content.replace(jsonStr, yamlFrontMatter);
-}
-
 function dataviewJsLinksTransform(str) {
   const parsed = parse(str);
   for (const a of parsed.querySelectorAll("a[data-href].internal-link")) {
