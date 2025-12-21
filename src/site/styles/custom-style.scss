@@ -137,6 +137,16 @@ button:hover, .btn:hover, .tag:hover, .badge:hover {
     background-color: #7d7dcf;
 }
 
+/* --- Full width when no sidebar --- */
+body:not(:has(.sidebar)) .content,
+body:has(.sidebar[style*="display: none"]) .content {
+    max-width: 1200px !important; /* wider */
+    width: 95% !important; /* or use percentage */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 0 2em !important; /* add some padding on the sides */
+}
+
 /* --- Misc Spacing & Responsiveness --- */
 p { margin-bottom: 1em; }
 ul, ol { margin-bottom: 1em; padding-left: 1.5em; }
