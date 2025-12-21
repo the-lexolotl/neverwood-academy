@@ -34,14 +34,15 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
-| [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Imbraham\|Imbraham]]                      | Owlin      | Male       | College Dean           |
+| [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]                          | Elf        | Female     | College Dean           |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
+| [[2-World/People/Staff/Quandrix/Renald\|Renald]]                          | Reborn     | Male       | Professor of Theory    |
 | [[2-World/People/Other/Professor Delta\|Professor Delta]]                 | Human      | Male       | Student                |
 
 { .block-language-dataview}

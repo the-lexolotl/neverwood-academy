@@ -39,8 +39,8 @@ The following people are members of this group.
 | File                                                                                     | Race       | Gender | College     |
 | ---------------------------------------------------------------------------------------- | ---------- | ------ | ----------- |
 | [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]               | Elf        | Male   | Quandrix    |
-| [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Gnome      | Female | Lorehold    |
 | [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                   | Shadar-Kai | Male   | Silverquill |
+| [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Gnome      | Female | Lorehold    |
 | [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Owlin      | Female | Quandrix    |
 | [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Triton     | Male   | Prismari    |
 

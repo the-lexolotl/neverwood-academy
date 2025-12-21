@@ -148,11 +148,6 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | File                                                                                                                    | Category             |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
@@ -174,6 +169,11 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
 | [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |

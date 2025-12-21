@@ -130,7 +130,7 @@ Exhaustion Level: 0
 | [[2-World/People/Other/Neverwinter/Grayson\|Grayson]]               | Vampire   | Male   | Tavern Manager |
 | [[2-World/People/Other/Neverwinter/Kask\|Kask]]                     | Human     | Male   | Other          |
 | [[2-World/People/Other/Neverwinter/Marcellus\|Marcellus]]           | Loxodon   | Male   | Tavern Manager |
-| [[2-World/People/Other/Neverwinter/Vani\|Vani]]                     | Automaton | Other  | Tavern Manager |
 | [[2-World/People/Other/Neverwinter/Orestes Alaris\|Orestes Alaris]] | Half-Orc  | Male   | Tavern Founder |
+| [[2-World/People/Other/Neverwinter/Vani\|Vani]]                     | Automaton | Other  | Tavern Manager |
 
 { .block-language-dataview}

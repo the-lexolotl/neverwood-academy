@@ -41,7 +41,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Calla Fernbrook\|Calla Fernbrook]]   | Satyr        | Female     | Lorehold    |
 | [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Dwarf        | Female     | Lorehold    |
 | [[2-World/People/Students/1507/Pebble\|Pebble]]                     | Earth Genasi | Non-binary | Witherbloom |
-| [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Fire Genasi  | Male       | Lorehold    |
 | [[2-World/People/Students/1507/Rose Mugwort\|Rose Mugwort]]         | Halfling     | Female     | Prismari    |
+| [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Fire Genasi  | Male       | Lorehold    |
 
 { .block-language-dataview}

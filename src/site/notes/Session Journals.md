@@ -5,6 +5,7 @@
 
 | Session                                                                        | Title                              | Date         | In Game Date                         | Status                      | Category                          | Players |
 | ------------------------------------------------------------------------------ | ---------------------------------- | ------------ | ------------------------------------ | --------------------------- | --------------------------------- | ------- |
+| [[1-Session Journals/2026-01-03 - Session 24\|2026-01-03 - Session 24]]     | TBD                                | 03 Jan, 2026 | 12th Alturiak 1509                   | Preparing                   | <ul><li>Downtime</li></ul>        | \-      |
 | [[1-Session Journals/2025-12-20 - Session 23\|2025-12-20 - Session 23]]     | The Golden Grimmhen                | 20 Dec, 2025 | 12th Alturiak 1509                   | Occurred - Writing up Notes | <ul><li>Downtime</li></ul>        | 7       |
 | [[1-Session Journals/2025-12-13 - Session 22\|2025-12-13 - Session 22]]     | Oops… We Grew a Beanstalk          | 13 Dec, 2025 | 12th Alturiak 1509                   | Occurred                    | <ul><li>Downtime</li></ul>        | 5       |
 | [[1-Session Journals/2025-12-06 - Session 21\|2025-12-06 - Session 21]]     | Beans and Stalks                   | 06 Dec, 2025 | 11th - 12th Alturiak 1509            | Occurred                    | <ul><li>Downtime</li></ul>        | 6       |
