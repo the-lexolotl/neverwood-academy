@@ -137,14 +137,13 @@ button:hover, .btn:hover, .tag:hover, .badge:hover {
     background-color: #7d7dcf;
 }
 
-/* --- Full width when no sidebar --- */
+/* --- Expand content when right sidebar is hidden --- */
 body:not(:has(.sidebar)) .content,
-body:has(.sidebar[style*="display: none"]) .content {
-    max-width: 1200px !important; /* wider */
-    width: 95% !important; /* or use percentage */
+body:has(.sidebar[style*="display: none"]) .content,
+body:has(.sidebar[style*="display:none"]) .content {
+    max-width: 900px !important; /* or whatever width you prefer */
     margin-left: auto !important;
     margin-right: auto !important;
-    padding: 0 2em !important; /* add some padding on the sides */
 }
 
 /* --- Misc Spacing & Responsiveness --- */
