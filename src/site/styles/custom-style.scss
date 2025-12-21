@@ -141,7 +141,7 @@ button:hover, .btn:hover, .tag:hover, .badge:hover {
 body:not(:has(.sidebar)) .content,
 body:has(.sidebar[style*="display: none"]) .content,
 body:has(.sidebar[style*="display:none"]) .content {
-    max-width: 900px !important; /* or whatever width you prefer */
+    max-width: 1000px !important; /* or whatever width you prefer */
     margin-left: auto !important;
     margin-right: auto !important;
 }
