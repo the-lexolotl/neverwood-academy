@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** | 16 \| 21 (20) |  11 \| 7 (18)   |   5 \| 7 (12)   |   5 \| 8 (13)   |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** |               |                 |                 |                 |       |
+| **Term 4** | 16 \| 12 (20) |                 |                 |                 |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -55,7 +55,7 @@
 |            |    Performance    |   Religion    | Intelligence Save |    Insight    |       |
 | **Term 3** |   11 \| 19 (20)   |  5 \| 4 (9)   |   13 \| 15 (20)   | 9 \| 11 (19)  |       |
 |            |    Perception     |    History    |    Performance    |    Insight    |       |
-| **Term 4** |                   |               |                   |               |       |
+| **Term 4** |   19 \| 4 (20)    |               |                   |               |       |
 |            |      History      |  Performance  |      History      |  Perception   |       |
 | **Term 5** |                   |               |                   |               |       |
 |            |    Performance    |  Perception   |    Performance    |   Religion    |       |
@@ -86,7 +86,7 @@
 |            | Strength Save  | Spell Attack  |    Arcana     |    Nature     |       |
 | **Term 3** | 11 \| 12 (20)  | 10 \| 22 (20) | 11 \| 8 (19)  | 13 \| 22 (20) |       |
 |            |  Performance   |    Arcana     | Spell Attack  |     Tools     |       |
-| **Term 4** |                |               |               |               |       |
+| **Term 4** |  8 \| 23 (20)  |               |               |               |       |
 |            |  Spell Attack  |     Tools     |  Performance  |    Insight    |       |
 | **Term 5** |                |               |               |               |       |
 |            | Dexterity Save |  Performance  |     Tools     |  Performance  |       |
@@ -118,7 +118,7 @@
 |            |    Nature     | Intelligence Ability |  Animal Handling  |  Investigation  |       |
 | **Term 3** | 6 \| 17 (20)  |     8 \| 19 (20)     |   13 \| 15 (20)   |   6 \| 4 (10)   |       |
 |            |  Perception   |        Nature        | Intelligence Save |     Insight     |       |
-| **Term 4** |               |                      |                   |                 |       |
+| **Term 4** | 21 \| 4 (20)  |                      |                   |                 |       |
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
 | **Term 5** |               |                      |                   |                 |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |

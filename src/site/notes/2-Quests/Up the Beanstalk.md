@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-12-13","questStatus":"In Progress","questGiver":"[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"questSessionObtained":"[[1-Session Journals/2025-12-13 - Session 22.md|2025-12-13 - Session 22]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-inline-title":true,"dg-show-local-graph":true,"dg-path":"Quests/Up the Beanstalk.md","permalink":"/quests/up-the-beanstalk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-12-13","questStatus":"Complete","questGiver":"[[2-World/People/Staff/Taiva Loreweaver.md|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"questSessionObtained":"[[1-Session Journals/2025-12-13 - Session 22.md|2025-12-13 - Session 22]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-inline-title":true,"dg-show-local-graph":true,"dg-path":"Quests/Up the Beanstalk.md","permalink":"/quests/up-the-beanstalk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -19,16 +19,16 @@
 - [x] ~~Explore the floating realm~~
 - [x] ~~Investigate Skyberry House~~
 - [x] ~~Find [[2-World/People/Other/Giantess Teanna Aethelos\|Giantess Teanna]] in the kitchen~~
-- [ ] Explore the rest of Skyberry House
+- [x] ~~Explore the rest of Skyberry House~~
 
 ### The Sky-King’s Domain
-- [ ] Enter the Treasure Hall
-	- [ ] Locate the Golden Grimmhen
-	- [ ] Inspect the Self-Playing Harp
-	- [ ] Examine the Bag of Gold and student IOUs
-- [ ] Reach the Sky-King’s Chambers
-	- [ ] Observe the Sky-King’s emotional storms
-	- [ ] Decide whether to fight, pacify, or negotiate
+- [x] ~~Enter the Treasure Hall~~
+	- [x] ~~Locate the Golden Grimmhen~~
+	- [x] ~~Inspect the Self-Playing Harp~~
+	- [x] ~~Examine the Bag of Gold and student IOUs~~
+- [x] ~~Reach the Sky-King’s Chambers~~
+	- [x] ~~Observe the Sky-King’s emotional storms~~
+	- [x] ~~Decide whether to fight, pacify, or negotiate~~
 
 ## Resolving the Sky-King’s Curse
 - [ ] Return the Golden Grimmhen to its proper place
@@ -42,11 +42,11 @@
 
 | Date Obtained:    | 2025-12-13                                                            |
 | ----------------- | --------------------------------------------------------------------- |
-| Status:           | In Progress                                                           |
+| Status:           | Complete (sort of...)                                                 |
 | Quest Giver:      | [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                                                  |
 | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                               |
 | Session Obtained: | [[1-Session Journals/2025-12-13 - Session 22\|Session 22 - Oops... We Grew a Beanstalk]] |
-| Acquired Loot:    |                                                                       |
+| Acquired Loot:    | Golden Grimmhen, Giant's IOU Pouch, Harp of Self-writing              |
 # Backstory
 [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.
 

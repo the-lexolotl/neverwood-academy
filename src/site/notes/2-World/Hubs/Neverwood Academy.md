@@ -58,12 +58,12 @@ Within Neverwood’s ivy-clad towers, knowledge is both the light that guides an
 
 | File                                                                             | Status      | Date Obtained |
 | -------------------------------------------------------------------------------- | ----------- | ------------- |
-| [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | In Progress | 13 Dec, 2025  |
 | [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | In Progress | 08 Nov, 2025  |
 | [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | In Progress | 24 Oct, 2025  |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | In Progress | 24 Oct, 2025  |
 | [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | In Progress | 23 Oct, 2025  |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | In Progress | 12 Jul, 2025  |
+| [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | Complete    | 13 Dec, 2025  |
 | [[2-Quests/Ricards Riches\|Ricards Riches]]                                   | Complete    | 07 Nov, 2025  |
 | [[2-Quests/The Price of Integrity\|The Price of Integrity]]                   | Complete    | 15 Oct, 2025  |
 | [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             | Complete    | 11 Oct, 2025  |
