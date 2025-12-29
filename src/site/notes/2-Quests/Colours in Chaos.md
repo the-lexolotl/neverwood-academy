@@ -35,9 +35,9 @@ The following people are associated with this quest.
 
 | File                                                                           | Race       | Gender | Role    |
 | ------------------------------------------------------------------------------ | ---------- | ------ | ------- |
+| [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
 | [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]     | Elf        | Male   | Student |
 | [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Air Genasi | Female | Student |
-| [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
 | [[1-Party/Group 2/H'er/H'er\|H'er]]                                         | Tiefling   | Female | Player  |
 
 { .block-language-dataview}

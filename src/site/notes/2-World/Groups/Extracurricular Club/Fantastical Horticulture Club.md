@@ -36,15 +36,15 @@ The following people are members of this group.
 
 | File                                                                          | Race       | Gender | College     |
 | ----------------------------------------------------------------------------- | ---------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]        | Dryad      | Female | Witherbloom |
-| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]        | Shadar-Kai | Male   | Silverquill |
 | [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]    | Firbolg    | Female | Lorehold    |
 | [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]              | Owlin      | Female | Quandrix    |
 | [[2-World/People/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]  | Halfling   | Female | Quandrix    |
 | [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]                      | Half-Orc   | Female | Witherbloom |
 | [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]      | Aasimar    | Female | Silverquill |
 | [[2-World/People/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]        | Orc        | Male   | Witherbloom |
-| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton     | Male   | Witherbloom |
+| [[2-World/People/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]        | Dryad      | Female | Witherbloom |
+| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]        | Shadar-Kai | Male   | Silverquill |
 | [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling   | Male   | Witherbloom |
+| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton     | Male   | Witherbloom |
 
 { .block-language-dataview}
