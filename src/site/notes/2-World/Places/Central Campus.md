@@ -25,8 +25,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
-| [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
+| [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Staff/Molvi Le Donto\|Molvi Le Donto]]       | Human                  | Female | Lab Administrator          |
 | [[2-World/People/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |

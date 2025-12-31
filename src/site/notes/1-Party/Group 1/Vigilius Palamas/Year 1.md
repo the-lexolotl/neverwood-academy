@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** | 6 \| 23 (20)  |  9 \| 11 (20)   |  8 \| 13 (20)   |  9 \| 13 (20)   |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** |               |                 |                 |                 |       |
+| **Term 4** | 6 \| 17 (20)  |                 |                 |                 |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -55,7 +55,7 @@
 |            |        Nature        |      History      |    Investigation     |  Intelligence Save   |       |
 | **Term 3** |     14 \| 3 (17)     |   5 \| 14 (19)    |     12 \| 3 (15)     |    12 \| 13 (20)     |       |
 |            |  Intelligence Save   |      Arcana       | Intelligence Ability |        Nature        |       |
-| **Term 4** |                      |                   |                      |                      |       |
+| **Term 4** |     17 \| 9 (20)     |                   |                      |                      |       |
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
 | **Term 5** |                      |                   |                      |                      |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
@@ -78,20 +78,20 @@
 > - Insight
 
 ## Homework
-|            |    Week 1    |    Week 2    |    Week 3     |      Week 4       | Total |
-| :--------: | :----------: | :----------: | :-----------: | :---------------: | :---: |
-| **Term 1** |  3 \| 2 (5)  | 8 \| 20 (20) | 18 \| 2 (20)  |   20 \| 20 (20)   |       |
-|            |   History    |   Insight    |    Arcana     |      Insight      |       |
-| **Term 2** | 12 \| 5 (17) | 16 \| 4 (20) | 21 \| 6 (20)  |    3 \| 2 (5)     |       |
-|            |   History    | Wisdom Save  |  Perception   |     Religion      |       |
-| **Term 3** | 9 \| 18 (20) | 3 \| 11 (14) | 11 \| 16 (20) |   11 \| 11 (20)   |       |
-|            |   Insight    |    Arcana    |    History    |      Arcana       |       |
-| **Term 4** |              |              |               |                   |       |
-|            |   History    |   Religion   |    Insight    |      Arcana       |       |
-| **Term 5** |              |              |               |                   |       |
-|            | Wisdom Save  |   Insight    |    Arcana     | Intelligence Save |       |
-| **Term 6** |              |              |               |                   |       |
-|            |    Arcana    |   History    |    History    |      Insight      |       |
+|            |    Week 1     |    Week 2    |    Week 3     |      Week 4       | Total |
+| :--------: | :-----------: | :----------: | :-----------: | :---------------: | :---: |
+| **Term 1** |  3 \| 2 (5)   | 8 \| 20 (20) | 18 \| 2 (20)  |   20 \| 20 (20)   |       |
+|            |    History    |   Insight    |    Arcana     |      Insight      |       |
+| **Term 2** | 12 \| 5 (17)  | 16 \| 4 (20) | 21 \| 6 (20)  |    3 \| 2 (5)     |       |
+|            |    History    | Wisdom Save  |  Perception   |     Religion      |       |
+| **Term 3** | 9 \| 18 (20)  | 3 \| 11 (14) | 11 \| 16 (20) |   11 \| 11 (20)   |       |
+|            |    Insight    |    Arcana    |    History    |      Arcana       |       |
+| **Term 4** | 18 \| 11 (20) |              |               |                   |       |
+|            |    History    |   Religion   |    Insight    |      Arcana       |       |
+| **Term 5** |               |              |               |                   |       |
+|            |  Wisdom Save  |   Insight    |    Arcana     | Intelligence Save |       |
+| **Term 6** |               |              |               |                   |       |
+|            |    Arcana     |   History    |    History    |      Insight      |       |
 ## Exams
 
 |        | Skill 1 | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -118,7 +118,7 @@
 |            | Intimidation  |     Arcana     | Slight of Hand |  Intimidation  |       |
 | **Term 3** | 18 \| 14 (20) |  12 \| 3 (15)  | 19 \| 15 (20)  |  7 \| 12 (19)  |       |
 |            |    Arcana     | Slight of Hand |  Intimidation  |   Deception    |       |
-| **Term 4** |               |                |                |                |       |
+| **Term 4** | 13 \| 6 (19)  |                |                |                |       |
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
 | **Term 5** |               |                |                |                |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |

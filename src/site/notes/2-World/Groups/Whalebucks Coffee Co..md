@@ -7,8 +7,7 @@
 
 
 
-![[Whalebucks (2).png\|Whalebucks (2).png]]
-![Whalebucks.png](/img/user/z_Assets/website/Whalebucks.png)
+![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks%20logo/New%20Whalebucks%20Logo.png) ![New Whalebucks Logo BW.png](/img/user/z_Assets/Whalebucks%20logo/New%20Whalebucks%20Logo%20BW.png)
 # General
 
 
