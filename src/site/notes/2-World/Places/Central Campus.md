@@ -19,22 +19,22 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 
 | File                                                             | Race                   | Gender | Role                       |
 | ---------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
-| [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
 | [[2-World/People/Staff/Cleaner\|Cleaner]]                     | Automaton              | Other  | Cleaner                    |
+| [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
 | [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
-| [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
+| [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Staff/Molvi Le Donto\|Molvi Le Donto]]       | Human                  | Female | Lab Administrator          |
 | [[2-World/People/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
 | [[2-World/People/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
 | [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Cafe Manager               |
-| [[2-World/People/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Staff/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
+| [[2-World/People/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]         | Human                  | Male   | Deputy Head Teacher        |
 | [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]   | Tiefling               | Male   | General Studies Professor  |
 | [[2-World/People/Staff/Quentis Orvlo\|Quentis Orvlo]]         | Vedalken               | Male   | General Studies Professor  |

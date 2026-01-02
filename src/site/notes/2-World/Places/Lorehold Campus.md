@@ -31,8 +31,8 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg     | Non-binary | Student            |
 | [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |
 | [[2-World/People/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin      | Female     | Student            |
-| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling    | Female     | Professor of Order |
+| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf       | Male       | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf         | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                            | Loxodon     | Female     | Professor of Chaos |

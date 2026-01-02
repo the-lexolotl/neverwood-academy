@@ -7,7 +7,7 @@
 
 
 
-![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks%20logo/New%20Whalebucks%20Logo.png) ![New Whalebucks Logo BW.png](/img/user/z_Assets/Whalebucks%20logo/New%20Whalebucks%20Logo%20BW.png)
+![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png) ![New Whalebucks Logo BW.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo%20BW.png)
 # General
 
 
@@ -40,7 +40,6 @@ By 2024 DR, Whalebucks had become the largest coffee franchise in the multiverse
 ## Legacy
 
 The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
-
 
 # Hierarchy
 
@@ -198,4 +197,15 @@ A gingerbread book filled with vanilla icing “pages” that rearrange to displ
 ##### Winter Whale Tail  
 A cinnamon-sugar pastry drizzled with sea-salt caramel — a sweet nod to Whalebucks’ coastal roots.
 
+### Neverwood Academy Spring Menu 1509
+##### Blossom Breeze Latte
+Steamed milk with rose and lavender syrup, topped with edible flower petals. Light, fragrant, and perfect for spring mornings.
+##### Feywild Fizz
+Sparkling lemonade mixed with butterfly pea flower tea; watch it shift colours when citrus is added. Magical and refreshing.
+##### Peachy Portal Smoothie
+A creamy blend of peach, mango, and coconut milk with a hint of vanilla. Sweet, bright, and energising.
+##### Petal Puff Pastries 
+Flaky pastries filled with almond cream and sprinkled with edible flowers. Elegant and indulgent.
+##### Spring Garden Tartlets
+Mini tarts with goat cheese, asparagus, and cherry tomatoes. Savoury, fresh, and seasonally vibrant.
 

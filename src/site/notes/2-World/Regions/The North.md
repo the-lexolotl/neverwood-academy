@@ -171,8 +171,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
