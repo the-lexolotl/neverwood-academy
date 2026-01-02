@@ -14,7 +14,10 @@
 	- [x] ~~Ask the Staff About the Admin Office~~
 	- [x] ~~Enquire About Where Student Records are Kept~~ 
 	- [x] ~~Retrieve Murgaxor's Student Records from the Records Room~~ 
-- [ ] Learn About the Murgaxor Family
+- [x] Learn About the Murgaxor Family
+- [x] Contain the Steam Mephitis
+- [x] Investigate the frozen steam mephit 
+- [ ] Investigate the goo found on the pot
 
 # Quest Details
 

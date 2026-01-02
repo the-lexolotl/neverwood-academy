@@ -197,7 +197,7 @@ A gingerbread book filled with vanilla icing “pages” that rearrange to displ
 ##### Winter Whale Tail  
 A cinnamon-sugar pastry drizzled with sea-salt caramel — a sweet nod to Whalebucks’ coastal roots.
 
-### Neverwood Academy Spring Menu 1509
+### Neverwood Academy [[2-Player Handouts/Whalebucks/Spring Specialty Menu 1509\|Spring Specialty Menu 1509]]
 ##### Blossom Breeze Latte
 Steamed milk with rose and lavender syrup, topped with edible flower petals. Light, fragrant, and perfect for spring mornings.
 ##### Feywild Fizz

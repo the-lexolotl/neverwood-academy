@@ -5,6 +5,7 @@
 
 | Session                                                                                | Title                                           | Date         | In Game Date                         | Status   | Category                          | Players |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------ | ------------------------------------ | -------- | --------------------------------- | ------- |
+| [[1-Session Journals/2026-01-03 - Session 24\|2026-01-03 - Session 24]]             | Consequences, Coursework, and Controlled Damage | 03 Jan, 2026 | 12th -25th Alturiak 1509             | Prepared | <ul><li>Downtime</li></ul>        | \-      |
 | [[1-Session Journals/2025-12-20 - Session 23\|2025-12-20 - Session 23]]             | The Golden Grimmhen                             | 20 Dec, 2025 | 12th Alturiak 1509                   | Occurred | <ul><li>Downtime</li></ul>        | 7       |
 | [[1-Session Journals/2025-12-13 - Session 22\|2025-12-13 - Session 22]]             | Oops… We Grew a Beanstalk                       | 13 Dec, 2025 | 12th Alturiak 1509                   | Occurred | <ul><li>Downtime</li></ul>        | 5       |
 | [[1-Session Journals/2025-12-06 - Session 21\|2025-12-06 - Session 21]]             | Beans and Stalks                                | 06 Dec, 2025 | 11th - 12th Alturiak 1509            | Occurred | <ul><li>Downtime</li></ul>        | 6       |
@@ -38,6 +39,5 @@
 | [[1-Session Journals/2025-07-26 - Session 3\|2025-07-26 - Session 3]]               | Frog's the Word                                 | 26 Jul, 2025 | 21th Eleasis - 10th Eleint 1508      | Occurred | <ul><li>Main Story</li></ul>      | 6       |
 | [[1-Session Journals/2025-07-19 - Session 2\|2025-07-19 - Session 2]]               | Freshers Fair                                   | 19 Jul, 2025 | 17th Eleasis 1508                    | Occurred | <ul><li>Academic Events</li></ul> | 7       |
 | [[1-Session Journals/2025-07-12 - Session 1\|2025-07-12 - Session 1]]               | Orientation Day                                 | 12 Jul, 2025 | 16th Eleasis 1508                    | Occurred | <ul><li>Main Story</li></ul>      | 8       |
-| [[1-Session Journals/2026-01-03 - Session 24\|2026-01-03 - Session 24]]             | Consequences, Coursework, and Controlled Damage | 03 Jan, 2026 | 12th -25th Alturiak 1509             | Prepared | <ul><li>Downtime</li></ul>        | \-      |
 
 { .block-language-dataview}
