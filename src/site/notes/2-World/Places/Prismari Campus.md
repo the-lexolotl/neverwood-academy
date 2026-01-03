@@ -31,8 +31,8 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]]                                 | Half-Orc     | Male       | Student                 |
 | [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn   | Male       | Student                 |
 | [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             | Gnome        | Male       | Student                 |
-| [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                                                          | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                                          | Human        | Male       | Professor of Expression |
+| [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                                                          | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]                                  | Dragon       | Male       | Founder Dragon          |
 | [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                                        | Eladrin      | Female     | Professor of Expression |
 | [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                                                      | Fire Genasi  | Other      | College Dean            |

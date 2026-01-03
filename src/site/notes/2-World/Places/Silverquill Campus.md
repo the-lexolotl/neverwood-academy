@@ -60,7 +60,7 @@ Make notes of what you need to track in the town here.
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
 
 { .block-language-dataview}

@@ -75,12 +75,12 @@ The following people are associated with this quest.
 | [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                  | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Staff/Construct V339\|Construct V339]]                          | Automaton       | Other  | Automaton           |
 | [[2-World/People/Other/Vormor\|Vormor]]                                          | Half-Giant      | Male   | Other               |
-| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                     | Yuan-Ti         | Male   | Player              |
-| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                | Triton          | Male   | Player              |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]          | Dragonborn      | Male   | Player              |
 | [[1-Party/Group 2/H'er/H'er\|H'er]]                                              | Tiefling        | Female | Player              |
 | [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]          | Human           | Male   | Player              |
 | [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                | Variant Aasimar | Female | Player              |
+| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                     | Yuan-Ti         | Male   | Player              |
+| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                | Triton          | Male   | Player              |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]          | Dragonborn      | Male   | Player              |
 | [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin         | Female | Player              |
 
 { .block-language-dataview}
