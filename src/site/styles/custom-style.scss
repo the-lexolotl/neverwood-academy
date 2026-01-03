@@ -322,8 +322,8 @@ circle[r] {
 input[type="checkbox"] {
     appearance: none;
     -webkit-appearance: none;
-    width: 15px;
-    height: 15px;
+    width: 12px;
+    height: 12px;
     border: 1px solid #c5c1a7 !important;
     border-radius: 0px;
     background-color: #323244 !important;
@@ -342,9 +342,9 @@ input[type="checkbox"]:checked::after {
     content: "✓";
     position: absolute;
     color: #c5c1a7 !important;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: bold;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
