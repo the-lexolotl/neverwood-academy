@@ -322,14 +322,15 @@ circle[r] {
 input[type="checkbox"] {
     appearance: none;
     -webkit-appearance: none;
-    width: 20px;
-    height: 20px;
-    border: 2px solid #c5c1a7 !important;
-    border-radius: 4px;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #c5c1a7 !important;
+    border-radius: 0px;
     background-color: #323244 !important;
     cursor: pointer;
     position: relative;
     transition: background-color 0.2s ease;
+    pointer-events: none;
 }
 
 input[type="checkbox"]:checked {
@@ -340,19 +341,9 @@ input[type="checkbox"]:checked::after {
     content: "✓";
     position: absolute;
     color: #c5c1a7 !important;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
-
-input[type="checkbox"]:hover {
-    border-color: #c5c1a7 !important;
-    opacity: 0.8;
-}
-
-input[type="checkbox"]:focus {
-    outline: 2px solid #c5c1a7 !important;
-    outline-offset: 2px;
 }
