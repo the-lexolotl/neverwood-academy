@@ -318,3 +318,41 @@ body, p, a, button, .btn, h1, h2, h3, h4, h5, h6,
 circle[r] {
     r: 3 !important;
 }
+/* Custom Checkbox Styling */
+input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #c5c1a7 !important;
+    border-radius: 4px;
+    background-color: #323244 !important;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.2s ease;
+}
+
+input[type="checkbox"]:checked {
+    background-color: #323244 !important;
+}
+
+input[type="checkbox"]:checked::after {
+    content: "✓";
+    position: absolute;
+    color: #c5c1a7 !important;
+    font-size: 16px;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input[type="checkbox"]:hover {
+    border-color: #c5c1a7 !important;
+    opacity: 0.8;
+}
+
+input[type="checkbox"]:focus {
+    outline: 2px solid #c5c1a7 !important;
+    outline-offset: 2px;
+}
