@@ -378,11 +378,19 @@ input[type="checkbox"]:checked::after {
   display: flow-root;
 }
 
-/* Remove filters from infobox and all children */
-.callout[data-callout="infobox"],
-.callout[data-callout="infobox"] *,
-.callout[data-callout="infobox"] .image-embed,
-.callout[data-callout="infobox"] .markdown-embed {
-  filter: none !important;
-  opacity: 1 !important;
+/* Fix dulled images in infobox - override blend mode */
+.callout[data-callout="infobox"] img,
+.callout[data-callout="infobox"] .image-embed {
+  mix-blend-mode: normal !important;
+}
+
+/* Also ensure the callout itself doesn't apply blend mode to contents */
+.callout[data-callout="infobox"] {
+  --callout-blend-mode: normal !important;
+}
+
+/* If images are still affected, isolate them */
+.callout[data-callout="infobox"] img {
+  isolation: isolate;
+  mix-blend-mode: normal !important;
 }
