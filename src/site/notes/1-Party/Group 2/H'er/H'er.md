@@ -25,6 +25,8 @@
 ## Biography
 *Awaiting Biography Write up*
 
+---
+
 ## Appearance
 
 |                 |                                                                                                                                                    |

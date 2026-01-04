@@ -35,6 +35,8 @@ Quietly, she began saving coin. Not for escape, but for transformation. For year
 
 Now at Neverwood, Marionette is eager to prove that even those born in shadow can learn to master the light. Still, old habits die hard. Her loyalty to those she calls family runs deep — and while she’d never turn on a friend, there are times when the right coin can still tip the scales.
 
+---
+
 ## Appearance
 
 |                 |                                                                             |

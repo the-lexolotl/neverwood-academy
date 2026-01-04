@@ -33,6 +33,8 @@ Though he claims not to worship any deity, Harry admires figures like Drizzt Doâ
 
 When he imagines the future, Harry sees himself as a scholar and protector, honing his magic in the quiet of a tower and offering his strength to those in need. He dreams of making knowledge free to all, stripped from the ivory towers of academia. Yet a shadow lingers in his vision of the years to come: a fear of becoming powerless, forced into a role he despises, or worse, failing so completely that others suffer for it. For all his cynicism and sharp edges, Harry Blackstone remains, at heart, a student trying to live up to the weight of responsibility he has claimed for himself.
 
+---
+
 ## Appearance
 
 |                 |                                                                                                      |

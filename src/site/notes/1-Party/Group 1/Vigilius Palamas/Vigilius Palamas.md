@@ -33,6 +33,8 @@ Though he does not follow any deity, Vagilius respects the faith of others and s
 
 Looking ahead, Vagilius envisions himself standing as a protector, shielding the helpless and living by the values he holds closest. He does not dream of glory or heroism, but of ensuring no one suffers as he did, cast aside for being different. His greatest fear is not his own failure, but the consequences of that failure: being unable to uncover the fate of his birth family, or worse, being too weak to protect those who now depend on him.
 
+---
+
 ## Appearance
 
 |                 |                       |

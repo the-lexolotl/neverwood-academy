@@ -33,6 +33,8 @@ Seeking both challenge and recognition beyond his homeland, Vith accepted a plac
 
 Vith’s goals are straightforward — to dominate the Mage Tower circuit, to push the limits of his own ability, and to be seen for who he truly is. Yet whether that recognition will come from victory, from his peers, or from the father who has never looked back, remains to be seen.
 
+---
+
 ## Appearance
 
 |                 |                                               |

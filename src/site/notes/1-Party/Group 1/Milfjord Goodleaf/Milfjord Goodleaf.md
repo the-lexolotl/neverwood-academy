@@ -32,6 +32,7 @@ Despite his laid-back demeanour and fondness for hallucinogenic flora, Milfjord 
 
 Milfjord dreams of returning home one day as a community leader, guiding others to rebuild in harmony with nature rather than against it. Until then, he can usually be found tending to the Academy’s gardens, brewing potions of dubious legality, or staring meaningfully into the middle distance while discussing the interconnectedness of all things — particularly rocks.
 
+---
 ## Appearance
 
 |                 |                                             |

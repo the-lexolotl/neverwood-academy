@@ -33,6 +33,8 @@ In his personal life, Atudark sees himself as heroic, striving to be a reliable 
 
 Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have been one of the first and greatest necromancers. He respects other beliefs but finds inspiration in this god’s mastery of forbidden arts. His ultimate goal is to recover the Book of Necromancers and, in time, write his own work on the subject. He imagines a future of scholarship and discovery, though he dreads one fate above all others: failing in his ambitions and being forced into the role of a teacher, shackled to a classroom rather than free to explore the secrets of life and death.
 
+---
+
 ## Appearance
 
 |                 |                                                                                                              |
