@@ -394,3 +394,14 @@ input[type="checkbox"]:checked::after {
   isolation: isolate;
   mix-blend-mode: normal !important;
 }
+
+/* Ensure Biography section wraps next to infobox */
+.callout[data-callout="infobox"] ~ h2:first-of-type {
+  clear: none;
+}
+
+/* Force Appearance (second h2) to clear below the infobox */
+.callout[data-callout="infobox"] ~ h2:first-of-type ~ h2 {
+  clear: both;
+  padding-top: 1rem; /* Optional: adds space between sections */
+}
