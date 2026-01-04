@@ -2,28 +2,37 @@
 {"aliases":["Vith","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Goblin","Primordial","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":["Barbarian","Bard"],"char_gender":"Male","char_college":"Silverquill","char_role":"Player","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]"],"parents":["Piraak-fus Pahlok"],"partner":null,"children":["Folass"],"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Joel.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Vith Pahlok/Vith Pahlok.md","permalink":"/party/group-3/vith-pahlok/vith-pahlok/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-> [!NOTE|div-m] Player Name:  Joel
 
-
-![Joel.png](/img/user/z_Assets/character_art/Players/Joel.png)
 # General
 
+> [!infobox|left]+
+> # Player Name:  Joel
+> ![Joel.png](/img/user/z_Assets/character_art/Players/Joel.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive  |
+> Race | Dragonborn |
+> Class | Barbarian,Bard |
+> Level | 2 |
+> Gender | Male |
+> Age | Young Adult |
+> Max HP | 19 |
+> AC | 12 |
+> Initiative | 1 |
+> College | Silverquill |
 
-| Stat       | Value               |
-| ---------- | ------------------- |
-| Status     | Alive               |
-| Race       | Dragonborn (Silver) |
-| Class      | Barbarian/Bard      |
-| Level      | 2                   |
-| Gender     | Male                |
-| Age        | Young Adult         |
-| HP         | 19                  |
-| Max HP     | 19                  |
-| AC         | 12                  |
-| Initiative | +1                  |
-| College    | Silverquill         |
+## Biography
+Born into the wealth and prestige of a high draconic bloodline, Vith has spent much of his life surrounded by luxury, expectation, and the quiet weight of comparison. His family’s name carries influence — their crest a symbol of status across dragonkind and the upper circles of magical society — yet for all that, Vith’s life has been marked by an absence more than an abundance. His father, a figure of immense power and stature, is rarely home, consumed by his duties and ambitions. In that distance, Vith has come to believe that no amount of talent or achievement will ever be enough to earn the attention he craves.
 
-# Description
+Athleticism has always been his outlet. From a young age, Vith showed a natural aptitude for Mage Tower — the demanding sport of agility, magic, and endurance that dominates student life across the academies. Channelling his draconic heritage, he learned to weave his frost breath into his performance, using bursts of icy energy to sharpen his reflexes and extend his stamina. It was an unconventional technique, but undeniably effective — and by the time he reached his final year of secondary schooling, Vith had become something of a legend on the court.
+
+His fame followed swiftly. Charismatic, confident, and backed by wealth, Vith became a campus icon — and he knew it. Adoration seemed to come easily: fans, admirers, and a swarm of people eager to bask in the glow of his reputation. But underneath the bravado, there remains that same small voice of doubt — the one that wonders if any of it truly matters without his father’s acknowledgement.
+
+Seeking both challenge and recognition beyond his homeland, Vith accepted a placement at Neverwood Academy, hoping to compete at the highest level of intercollegiate Mage Tower. To some, his transfer reads as arrogance — another privileged dragon chasing fame across the planes. But to those who look closer, it’s clear that Vith’s confidence hides a different drive entirely: a desperate need to prove his worth, not just as his father’s son, but as himself.
+
+Vith’s goals are straightforward — to dominate the Mage Tower circuit, to push the limits of his own ability, and to be seen for who he truly is. Yet whether that recognition will come from victory, from his peers, or from the father who has never looked back, remains to be seen.
+
 ## Appearance
 
 |                 |                                               |
@@ -36,19 +45,6 @@
 | Skin Colour     | Silver Scales                                 |
 | Faith           | Thu'um/The voice                              |
 | Other           |                                               |
-
-## Biography
-
-Born into the wealth and prestige of a high draconic bloodline, Vith has spent much of his life surrounded by luxury, expectation, and the quiet weight of comparison. His family’s name carries influence — their crest a symbol of status across dragonkind and the upper circles of magical society — yet for all that, Vith’s life has been marked by an absence more than an abundance. His father, a figure of immense power and stature, is rarely home, consumed by his duties and ambitions. In that distance, Vith has come to believe that no amount of talent or achievement will ever be enough to earn the attention he craves.
-
-Athleticism has always been his outlet. From a young age, Vith showed a natural aptitude for Mage Tower — the demanding sport of agility, magic, and endurance that dominates student life across the academies. Channelling his draconic heritage, he learned to weave his frost breath into his performance, using bursts of icy energy to sharpen his reflexes and extend his stamina. It was an unconventional technique, but undeniably effective — and by the time he reached his final year of secondary schooling, Vith had become something of a legend on the court.
-
-His fame followed swiftly. Charismatic, confident, and backed by wealth, Vith became a campus icon — and he knew it. Adoration seemed to come easily: fans, admirers, and a swarm of people eager to bask in the glow of his reputation. But underneath the bravado, there remains that same small voice of doubt — the one that wonders if any of it truly matters without his father’s acknowledgement.
-
-Seeking both challenge and recognition beyond his homeland, Vith accepted a placement at Neverwood Academy, hoping to compete at the highest level of intercollegiate Mage Tower. To some, his transfer reads as arrogance — another privileged dragon chasing fame across the planes. But to those who look closer, it’s clear that Vith’s confidence hides a different drive entirely: a desperate need to prove his worth, not just as his father’s son, but as himself.
-
-Vith’s goals are straightforward — to dominate the Mage Tower circuit, to push the limits of his own ability, and to be seen for who he truly is. Yet whether that recognition will come from victory, from his peers, or from the father who has never looked back, remains to be seen.
-
 
 # Skills
 

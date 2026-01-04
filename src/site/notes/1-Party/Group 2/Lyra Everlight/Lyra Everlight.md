@@ -2,29 +2,29 @@
 {"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 2/Lyra Everlight/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/lyra-everlight/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-> [!NOTE|div-m] Player Name:  Megan
 
-
-![megan.png](/img/user/z_Assets/character_art/Players/megan.png)
 # General
 
+> [!infobox|left]+
+> # Player Name:  Megan
+> ![megan.png](/img/user/z_Assets/character_art/Players/megan.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive  |
+> Race | Variant Aasimar |
+> Class | Cleric |
+> Level | 2 |
+> Gender | Female |
+> Age | Young Adult |
+> Max HP | 13 |
+> AC | 11 |
+> Initiative | 1 |
+> College | Silverquill |
 
-| Stat       | Value           |
-| ---------- | --------------- |
-| Status     | Alive           |
-| Race       | Variant Aasimar |
-| Class      | Cleric          |
-| Level      | 2               |
-| Gender     | Female          |
-| Age        | Young Adult     |
-| HP         | 13              |
-| Max HP     | 13              |
-| AC         | 11              |
-| Initiative | +1              |
-| College    | Silverquill     |
+## Biography
+*Awaiting Biography Write up*
 
-
-# Description
 ## Appearance
 
 |                 |                                    |
@@ -37,10 +37,6 @@
 | Skin Colour     | Pale                               |
 | Faith           | Lliira - Goddess of Joy            |
 | Other           | Big white wings that glow slightly |
-
-## Biography
-This is the persons description. 
-
 
 # Skills
 

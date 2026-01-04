@@ -2,49 +2,25 @@
 {"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":12,"max_hp":12,"ac":12,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":["Rogue","Sorcerer"],"char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Ricards Riches|Ricards Riches]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]"],"char_college":"Witherbloom","char_role":"Player","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/marionette-moonbeam/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-> [!NOTE|div-m] Player Name:  Catarina
-
-
-
-|           Spring           |           Summer           |
-| :------------------------: | :------------------------: |
-| ![Marionette Spring.png](/img/user/z_Assets/character_art/Players/Marionette%20Spring.png) | ![Marionette Summer.png](/img/user/z_Assets/character_art/Players/Marionette%20Summer.png) |
-
-|           Autumn           |           Winter           |
-| :------------------------: | :------------------------: |
-| ![Marionette Autumn.png](/img/user/z_Assets/character_art/Players/Marionette%20Autumn.png) | ![Marionette Winter.png](/img/user/z_Assets/character_art/Players/Marionette%20Winter.png) |
-
 
 # General
 
-
-| Stat       | Value           |
-| ---------- | --------------- |
-| Status     | Alive           |
-| Race       | Eladrin         |
-| Class      | Rouge, Sorcerer |
-| Level      | 2               |
-| Gender     | Female          |
-| Age        | Young Adult     |
-| HP         | 12              |
-| Max HP     | 12              |
-| AC         | 12              |
-| Initiative | +2              |
-| College    | Witherbloom     |
-
-# Description
-## Appearance
-
-|                 |                                                                             |
-| --------------- | --------------------------------------------------------------------------- |
-| Age             | 80                                                                          |
-| Height          | 5ft 6                                                                       |
-| Weight          | 120 lbs                                                                     |
-| Eye Colour      | Yellow                                                                      |
-| Hair/Fur Colour | Spring - Green <br>Summer - Pink<br>Autumn - Copper<br>Winter - White       |
-| Skin Colour     | Spring - Green <br>Summer - Green<br>Autumn - Pale Orange<br>Winter - White |
-| Faith           | Worshipper of [[3-Mechanics/CLI/deities/faerunian-sune-scag\|Sune]]                                 |
-| Other           |                                                                             |
+> [!infobox|left]+
+> # Player Name:  Catarina
+> ![Marionette.png](/img/user/z_Assets/character_art/Players/Marionette.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive  |
+> Race | Eladrin |
+> Class | Rogue,Sorcerer |
+> Level | 2 |
+> Gender | Female |
+> Age | Young Adult |
+> Max HP | 12 |
+> AC | 12 |
+> Initiative | 2 |
+> College | Witherbloom |
 
 ## Biography
 Marionette grew up in the lowest reaches of [[The Heart Tree\|The Heart Tree]] — a towering sprawl of roots and ruin that forms the undercity of the Grand Varanian Forest. Down there, sunlight is a luxury, and survival depends more on wit than wealth. Abandoned at birth, she was left in the care of an old monastery that doubled as a front for the thieves’ guild known as [[Myra’s Hand\|Myra’s Hand]]. It was there that the guild’s leader, Aurthrin “Daggy” Dagg, a shrewd gnome with a fondness for strays and second chances, found her and raised her as his own.
@@ -59,6 +35,18 @@ Quietly, she began saving coin. Not for escape, but for transformation. For year
 
 Now at Neverwood, Marionette is eager to prove that even those born in shadow can learn to master the light. Still, old habits die hard. Her loyalty to those she calls family runs deep — and while she’d never turn on a friend, there are times when the right coin can still tip the scales.
 
+## Appearance
+
+|                 |                                                                             |
+| --------------- | --------------------------------------------------------------------------- |
+| Age             | 80                                                                          |
+| Height          | 5ft 6                                                                       |
+| Weight          | 120 lbs                                                                     |
+| Eye Colour      | Yellow                                                                      |
+| Hair/Fur Colour | Spring - Green <br>Summer - Pink<br>Autumn - Copper<br>Winter - White       |
+| Skin Colour     | Spring - Green <br>Summer - Green<br>Autumn - Pale Orange<br>Winter - White |
+| Faith           | Worshipper of [[3-Mechanics/CLI/deities/faerunian-sune-scag\|Sune]]                                 |
+| Other           |                                                                             |
 
 # Skills
 

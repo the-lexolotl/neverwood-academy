@@ -2,40 +2,25 @@
 {"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Kristy.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 1/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/vigilius-palamas/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-> [!NOTE|div-m] Player Name:  Kristy
 
-
-![Kristy.png](/img/user/z_Assets/character_art/Players/Kristy.png)
 # General
 
-
-| Stat       | Value             |
-| ---------- | ----------------- |
-| Status     | Alive             |
-| Race       | Dragonborn (Gold) |
-| Class      | Monk              |
-| Level      | 2                 |
-| Gender     | Male              |
-| Age        | Young Adult       |
-| HP         | 13                |
-| Max HP     | 13                |
-| AC         | 15                |
-| Initiative | +2                |
-| College    | Quandrix          |
-
-# Description
-## Appearance
-
-|                 |                       |
-| --------------- | --------------------- |
-| Age             | 19                    |
-| Height          | 6ft 7                 |
-| Weight          | 225lbs                |
-| Eye Colour      | Purple                |
-| Hair/Fur Colour | No hair, Golden Horns |
-| Skin Colour     | Gold Scales           |
-| Faith           | None                  |
-| Other           |                       |
+> [!infobox|left]+
+> # Player Name:  Kristy
+> ![Kristy.png](/img/user/z_Assets/character_art/Players/Kristy.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive  |
+> Race | Dragonborn |
+> Class | Monk |
+> Level | 2 |
+> Gender | Male |
+> Age | Young Adult |
+> Max HP | 13 |
+> AC | 15 |
+> Initiative | 2 |
+> College | Quandrix |
 
 ## Biography
 Vagilius Palamas grew up with two worlds pulling at his heart. Though his first memories trace back to Dragonlance, he was raised not by his birth parents, whom he barely remembers, but by Corven and Elara Palamas — a pair of human traders who took him in as their own. With his siblings Kabo and Eliania, Vagilius grew up constantly on the move, traveling from market to market. While he has always felt a certain distance from the societies around him, his bond with his human family is steadfast, and he treasures every chance to keep in touch with them.
@@ -48,6 +33,18 @@ Though he does not follow any deity, Vagilius respects the faith of others and s
 
 Looking ahead, Vagilius envisions himself standing as a protector, shielding the helpless and living by the values he holds closest. He does not dream of glory or heroism, but of ensuring no one suffers as he did, cast aside for being different. His greatest fear is not his own failure, but the consequences of that failure: being unable to uncover the fate of his birth family, or worse, being too weak to protect those who now depend on him.
 
+## Appearance
+
+|                 |                       |
+| --------------- | --------------------- |
+| Age             | 19                    |
+| Height          | 6ft 7                 |
+| Weight          | 225lbs                |
+| Eye Colour      | Purple                |
+| Hair/Fur Colour | No hair, Golden Horns |
+| Skin Colour     | Gold Scales           |
+| Faith           | None                  |
+| Other           |                       |
 
 # Skills
 

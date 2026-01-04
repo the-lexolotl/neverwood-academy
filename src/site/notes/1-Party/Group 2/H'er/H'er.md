@@ -2,29 +2,29 @@
 {"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 2/H'er/H'er.md","permalink":"/party/group-2/h-er/h-er/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-> [!NOTE|div-m] Player Name:  Rain
 
-
-![Rain.png](/img/user/z_Assets/character_art/Players/Rain.png)
 # General
 
+> [!infobox|left]+
+> # Player Name:  Rain
+> ![Rain.png](/img/user/z_Assets/character_art/Players/Rain.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive  |
+> Race | Tiefling |
+> Class | Sorcerer |
+> Level | 2 |
+> Gender | Female |
+> Age | Young Adult |
+> Max HP | 10 |
+> AC | 11 |
+> Initiative | 1 |
+> College | Prismari |
 
-| Stat       | Value       |
-| ---------- | ----------- |
-| Status     | Alive       |
-| Race       | Teifling    |
-| Class      | Sorcerer    |
-| Level      | 2           |
-| Gender     | Female      |
-| Age        | Young Adult |
-| HP         | 10          |
-| Max HP     | 10          |
-| AC         | 11          |
-| Initiative | +1          |
-| College    | Prismari    |
+## Biography
+*Awaiting Biography Write up*
 
-
-# Description 
 ## Appearance
 
 |                 |                                                                                                                                                    |
@@ -37,9 +37,6 @@
 | Skin Colour     | Red                                                                                                                                                |
 | Faith           | None                                                                                                                                               |
 | Other           | Tail nubbin hidden beneath clothes. Scarred tip, as it was non-surgically removed as an infant by her father to try to "normalise" her appearance. |
-## Biography 
-*Awaiting Biography*
-
 
 # Skills
 

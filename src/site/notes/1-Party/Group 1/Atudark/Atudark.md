@@ -3,28 +3,35 @@
 ---
 
 
-> [!NOTE|div-m] Player Name:  Jacob
-
-
-![Jacob.png](/img/user/z_Assets/character_art/Players/Jacob.png)
 # General
 
+> [!infobox|left]+
+> # Player Name:  Jacob
+> ![Jacob.png](/img/user/z_Assets/character_art/Players/Jacob.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive |
+> Race | Yuan-Ti |
+> Class | Warlock |
+> Level | 2 |
+> Gender | Male |
+> Age | Young Adult |
+> Max HP | 13 |
+> AC | 9 |
+> Initiative | -1 |
+> College | Witherbloom |
 
-| Stat       | Value       |
-| ---------- | ----------- |
-| Status     | Alive       |
-| Race       | Yuan-Ti     |
-| Class      | Warlock     |
-| Level      | 2           |
-| Gender     | Male        |
-| Age        | Young Adult |
-| HP         | 13          |
-| Max HP     | 13          |
-| AC         | 9           |
-| Initiative | -1          |
-| College    | Witherbloom |
 
-# Description
+## Biography
+
+Atudark is a Yuan-Ti student from the city of Chystone, a place renowned for its serpentine heritage and magical traditions. His parents, both sorcerers, run a shop devoted to recovering forgotten spells and creating new tomes of arcane knowledge. He also has an identical twin brother at the Academy, though his wider family tree remains a mystery. Atudark keeps in close touch with his kin, preferring magical messages or animal couriers over mundane means.
+
+Within the Academy, Atudark pursues necromancy with a singular passion. He dreams of compiling his own definitive volume on the subject — a book that proves necromancy can be used for good, despite its dark reputation. His studies are promising, though not without challenges: he is prone to misreading texts, forgetting notes, or losing focus when faced with subjects outside his interests.
+
+In his personal life, Atudark sees himself as heroic, striving to be a reliable ally to his companions. He is loyal but sometimes wanders from the group or loses sight of the mission. He has a few quirks — quietly snacking when unobserved and collecting intriguing items during adventures — that make him both endearing and a little troublesome. His greatest fear is letting down his team or becoming a burden, a worry he keeps carefully hidden.
+
+Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have been one of the first and greatest necromancers. He respects other beliefs but finds inspiration in this god’s mastery of forbidden arts. His ultimate goal is to recover the Book of Necromancers and, in time, write his own work on the subject. He imagines a future of scholarship and discovery, though he dreads one fate above all others: failing in his ambitions and being forced into the role of a teacher, shackled to a classroom rather than free to explore the secrets of life and death.
 
 ## Appearance
 
@@ -39,15 +46,6 @@
 | Faith           | Kelemvor - God of Death                                                                                      |
 | Other           | Scorpion Tattoo all over the left forearm, a few scars on the left hand, streaks of red with his black hair. |
 
-## Biography
-
-Atudark is a Yuan-Ti student from the city of Chystone, a place renowned for its serpentine heritage and magical traditions. His parents, both sorcerers, run a shop devoted to recovering forgotten spells and creating new tomes of arcane knowledge. He also has an identical twin brother at the Academy, though his wider family tree remains a mystery. Atudark keeps in close touch with his kin, preferring magical messages or animal couriers over mundane means.
-
-Within the Academy, Atudark pursues necromancy with a singular passion. He dreams of compiling his own definitive volume on the subject — a book that proves necromancy can be used for good, despite its dark reputation. His studies are promising, though not without challenges: he is prone to misreading texts, forgetting notes, or losing focus when faced with subjects outside his interests.
-
-In his personal life, Atudark sees himself as heroic, striving to be a reliable ally to his companions. He is loyal but sometimes wanders from the group or loses sight of the mission. He has a few quirks — quietly snacking when unobserved and collecting intriguing items during adventures — that make him both endearing and a little troublesome. His greatest fear is letting down his team or becoming a burden, a worry he keeps carefully hidden.
-
-Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have been one of the first and greatest necromancers. He respects other beliefs but finds inspiration in this god’s mastery of forbidden arts. His ultimate goal is to recover the Book of Necromancers and, in time, write his own work on the subject. He imagines a future of scholarship and discovery, though he dreads one fate above all others: failing in his ambitions and being forced into the role of a teacher, shackled to a classroom rather than free to explore the secrets of life and death.
 
 
 # Skills

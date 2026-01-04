@@ -3,28 +3,28 @@
 ---
 
 
-> [!NOTE|div-m] Player Name:  Cameron
-
-
-![Cameron.png](/img/user/z_Assets/character_art/Players/Cameron.png)
 # General
 
+> [!infobox|left]+
+> # Player Name:  Cameron
+> ![Cameron.png](/img/user/z_Assets/character_art/Players/Cameron.png)
+> ###### Stats
+> Stat  |  Value |
+> ---|---|
+> Status | Alive  |
+> Race | Triton |
+> Class | Druid |
+> Level | 2 |
+> Gender | Male |
+> Age | Young Adult |
+> Max HP | 11 |
+> AC | 12 |
+> Initiative | 1 |
+> College | Witherbloom |
 
-| Stat       | Value       |
-| ---------- | ----------- |
-| Status     | Alive       |
-| Race       | Triton      |
-| Class      | Druid       |
-| Level      | 2           |
-| Gender     | Male        |
-| Age        | Young Adult |
-| HP         | 11          |
-| Max HP     | 11          |
-| AC         | 12          |
-| Initiative | +1          |
-| College    | Witherbloom |
+## Biography
+*Awaiting Biography Write up*
 
-# Description
 ## Appearance
 
 |                 |                                         |
@@ -37,10 +37,6 @@
 | Skin Colour     | Scales, blue/turquoise shimmery         |
 | Faith           |                                         |
 | Other           |                                         |
-## Biography
-
-This is the persons description. 
-
 
 # Skills
 
