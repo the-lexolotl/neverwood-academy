@@ -184,12 +184,13 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 | File                                                                             | Date Obtained | Status      |
 | -------------------------------------------------------------------------------- | ------------- | ----------- |
-| [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | 08 Nov, 2025  | In Progress |
+| [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] | 03 Jan, 2026  | In Progress |
 | [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | 24 Oct, 2025  | In Progress |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | 24 Oct, 2025  | In Progress |
 | [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | 23 Oct, 2025  | In Progress |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | 12 Jul, 2025  | In Progress |
 | [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | 13 Dec, 2025  | Complete    |
+| [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | 08 Nov, 2025  | Complete    |
 | [[2-Quests/Ricards Riches\|Ricards Riches]]                                   | 07 Nov, 2025  | Complete    |
 | [[2-Quests/The Price of Integrity\|The Price of Integrity]]                   | 15 Oct, 2025  | Complete    |
 | [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             | 11 Oct, 2025  | Complete    |

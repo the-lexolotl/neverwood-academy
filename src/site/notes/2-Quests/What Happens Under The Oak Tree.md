@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-11-08 - Session 18.md|2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/What Happens Under The Oak Tree.md","permalink":"/quests/what-happens-under-the-oak-tree/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-11-08 - Session 18.md|2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/What Happens Under The Oak Tree.md","permalink":"/quests/what-happens-under-the-oak-tree/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -44,8 +44,8 @@
 
 - [x] ~~Return the Star to Neverwood Academy~~ 
 	- [x] ~~Ride the magical sleigh back to the Feasthall~~ 
-	- [ ] Restore the Star beneath the great oak 
-	- [ ] Celebrate as heroes (and face detention)
+	- [x] ~~Restore the Star beneath the great oak~~ 
+	- [x] ~~Celebrate as heroes (and face detention)~~
 
 # Quest Details
 

@@ -40,6 +40,7 @@ The following people are associated with this quest.
 
 | File                                                                          | Race            | Gender | Role                  |
 | ----------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
+| [[2-World/People/Staff/Yedora\|Yedora]]                                    | Treant          | Female | Grounds Keeper        |
 | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin           | Female | Professor of Radiance |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                  | Half-Bullywug   | Male   | Alumni                |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]              | Bullywug        | Male   | Alumni                |
