@@ -378,12 +378,11 @@ input[type="checkbox"]:checked::after {
   display: flow-root;
 }
 
-/* Remove any filters/opacity on infobox images */
-.callout[data-callout="infobox"] img,
-.callout[data-callout="infobox"] .callout-content img,
-.callout[data-callout="infobox"] .internal-embed img {
+/* Remove filters from infobox and all children */
+.callout[data-callout="infobox"],
+.callout[data-callout="infobox"] *,
+.callout[data-callout="infobox"] .image-embed,
+.callout[data-callout="infobox"] .markdown-embed {
   filter: none !important;
   opacity: 1 !important;
-  brightness: 1 !important;
-  contrast: 1 !important;
 }
