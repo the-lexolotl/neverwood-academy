@@ -348,3 +348,32 @@ input[type="checkbox"]:checked::after {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/* Infobox styling */
+.callout[data-callout="infobox"] {
+  float: left;
+  clear: left;
+  width: 300px; /* Adjust width as needed */
+  margin-right: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Right-aligned infobox variant */
+.callout[data-callout="infobox"][data-callout-metadata*="right"] {
+  float: right;
+  clear: right;
+  margin-right: 0;
+  margin-left: 1.5rem;
+}
+
+/* Center-aligned infobox variant (if you want this option) */
+.callout[data-callout="infobox"][data-callout-metadata*="center"] {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Clear floats after content */
+.callout[data-callout="infobox"] ~ * {
+  display: flow-root;
+}
