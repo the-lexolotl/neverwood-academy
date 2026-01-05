@@ -23,6 +23,9 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]           | Shadar-Kai | Male       | Student               |
 | [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]       | Human      | Female     | Student               |
 | [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]   | Owlin      | Female     | Student               |
+| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
+| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
+| [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
@@ -30,9 +33,6 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]         | Orc        | Female     | Student               |
 | [[2-World/People/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]         | Changling  | Non-binary | Student               |
-| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
-| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
-| [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]           | Elf        | Female     | Student               |
 | [[2-World/People/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
@@ -60,7 +60,7 @@ Make notes of what you need to track in the town here.
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
 | [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
 
 { .block-language-dataview}

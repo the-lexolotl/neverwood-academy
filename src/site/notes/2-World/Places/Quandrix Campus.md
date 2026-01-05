@@ -56,8 +56,8 @@ Make notes of what you need to track in the town here.
 
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
 
 { .block-language-dataview}

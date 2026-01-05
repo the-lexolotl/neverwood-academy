@@ -131,12 +131,12 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]]                           | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Furygale\|Furygale]]                                     | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]]                                   | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
-| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]]                     | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]                                 | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
-| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]                           | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
@@ -171,8 +171,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
@@ -185,8 +185,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | File                                                                             | Date Obtained | Status      |
 | -------------------------------------------------------------------------------- | ------------- | ----------- |
 | [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] | 03 Jan, 2026  | In Progress |
-| [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | 24 Oct, 2025  | In Progress |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | 24 Oct, 2025  | In Progress |
+| [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | 24 Oct, 2025  | In Progress |
 | [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | 23 Oct, 2025  | In Progress |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | 12 Jul, 2025  | In Progress |
 | [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | 13 Dec, 2025  | Complete    |

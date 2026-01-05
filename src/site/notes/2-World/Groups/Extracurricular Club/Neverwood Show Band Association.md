@@ -41,9 +41,9 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom |
 | [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    |
 | [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill |
+| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Gorgon    | Female | Witherbloom |
 | [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill |
-| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Gorgon    | Female | Witherbloom |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                   | Tiefling  | Female | None        |
 
 { .block-language-dataview}
