@@ -1,30 +1,26 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Aurum Aethelos.md","permalink":"/world/people/other/aurum-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Teanna Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Aurum Aethelos.md","permalink":"/world/people/other/aurum-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # Aurum Aethelos
+> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Giant |
+> Gender | Male |
+> Age | Adult |
+> Location | None |
+> Role | Other |
+> College | None |
 
-
-
-
-# General
-
-
-| Name:        | Aurum Aethelos |
-| ------------ | -------------- |
-| **Status:**  | Alive - Cursed |
-| **Race:**    | Storm Giant    |
-| **Gender:**  | Male           |
-| **Age:**     | Adult          |
-| **Role:**    | Unknown        |
-| **College:** | None           |
-
----
-
+# Biography
 **Titles:** The Sky-King, Storm-Bard of the Cloud Realms
 **Domain:** The Cloud Castle and Upper Skies
 
-## Overview
 Aurum Aethelos is the ruler of the cloud realms, once celebrated as both philosopher-king and master of storm-song. Though still powerful, he now exists in a state of torment, his emotions manifesting as violent and unpredictable weather. He is not regarded as evil, but as a tragic figure bound by an ancient curse.
 
 ## Appearance
@@ -42,17 +38,18 @@ Aurum speaks with a voice like distant thunder, often lapsing into half-poetry a
 ## Legacy
 Despite his suffering, Aurum Aethelos remains deeply tied to the balance of the sky-islands. His fate determines the stability of the cloud realms and the future of the beanstalk that binds sky to earth. Whether remembered as a fallen tyrant or a redeemed king depends entirely on how his story is allowed to end.
 
-
 # Connections
 
+**Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
 
-**Quests:** [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]
-
-**Groups:** None 
-
+**Groups:** `= this.Connected_Groups`
 
 # Relationships
+**Parents** - `= this.parents`
+**Siblings** - `= this.siblings`
+**Partner** - [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]
+**Children** - `= this.children`
+**Allies** - `= this.allies`
+**Enemies** - `= this.enemies`
 
-List important relationships here. 
 
-Wife - [[2-World/People/Other/Giantess Teanna Aethelos\|Giantess Teanna Aethelos]]

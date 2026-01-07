@@ -1,42 +1,36 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Jimmy Pyre.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Tiefling","char_gender":"Male","char_role":"Student","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1506.md|Cohort of 1506]]","[[2-World/Groups/Colleges/Silverquill College.md|Silverquill College]]","[[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Students/1506/Jimmy Pyre.md","permalink":"/world/people/students/1506/jimmy-pyre/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]","MyCategory":null,"image":"Jimmy Pyre.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Tiefling","char_gender":"Male","char_role":"Student","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]","[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]","[[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Students/1506/Jimmy Pyre.md","permalink":"/world/people/students/1506/jimmy-pyre/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # Jimmy Pyre
+> ![Jimmy Pyre.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Jimmy%20Pyre.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Tiefling |
+> Gender | Male |
+> Age | Young Adult |
+> Location | [[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]] |
+> Role | Student |
+> College | Silverquill |
 
-
-
-
-![Jimmy Pyre.png|600](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Jimmy%20Pyre.png)
-# General
-
-
-| Name:        | Jimmy Pyre   |
-| ------------ | ------------ |
-| **Status:**  | Alive        |
-| **Race:**    | Tiefling     |
-| **Gender:**  | Male         |
-| **Age:**     | Young Adult  |
-| **Role:**    | Student      |
-| **College:** | Silverquill  |
-
-
----
-
-**Instrument:** Enchanted megaphone, “The Mouth of Hell”
-**Personality:** Sharp-tongued, loves wordplay, and constantly tests the patience of professors. He writes songs that range from bawdy drinking tunes to surprisingly insightful political satire.
-**Fun fact:** Has been banned from performing at official academy events, but every festival somehow ends with his voice echoing over the quad.
-
+# Biography
+*This NPC is awaiting a biography. Fancy writing one?*
 
 # Connections
 
-
 **Quests:** [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]], [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]], [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]
-
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1506.md|Cohort of 1506]],[[2-World/Groups/Colleges/Silverquill College.md|Silverquill College]],[[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]
 
 # Relationships
-
-List important relationships here. 
+**Parents** - `= this.parents`
+**Siblings** - `= this.siblings`
+**Partner** - `= this.partner`
+**Children** - `= this.children`
+**Allies** - `= this.allies`
+**Enemies** - `= this.enemies`
 

@@ -50,9 +50,6 @@ The following people are members of this group.
 | [[2-World/People/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
 | [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
-| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
-| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
-| [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
@@ -60,6 +57,9 @@ The following people are members of this group.
 | [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]         | Orc        | Female     | Student               |
 | [[2-World/People/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]         | Changling  | Non-binary | Student               |
+| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
+| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
+| [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]           | Elf        | Female     | Student               |
 | [[2-World/People/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]      | Owlin      | Male       | Veteran               |
 

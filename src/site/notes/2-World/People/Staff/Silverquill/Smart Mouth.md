@@ -1,36 +1,36 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Kenku","char_gender":"Non-binary","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Smart Mouth.md","permalink":"/world/people/staff/silverquill/smart-mouth/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Kenku","char_gender":"Non-binary","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Smart Mouth.md","permalink":"/world/people/staff/silverquill/smart-mouth/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-# General
+> [!infobox|left]+
+> # Smart Mouth
+> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Kenku |
+> Gender | Non-binary |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Professor of Radiance |
+> College | Silverquill |
 
-
-| Name:        | Smart Mouth           |
-| ------------ | --------------------- |
-| **Status:**  | Alive                 |
-| **Race:**    | Kenku                 |
-| **Gender:**  | Non-binary            |
-| **Age:**     | Adult                 |
-| **Role:**    | Professor of Radiance |
-| **College:** | Silverquill           |
-
-
----
-
-This is the persons description. 
-
+# Biography
+*This NPC is awaiting a biography. Fancy writing one?*
 
 # Connections
 
+**Quests:** 
 
-**Quests:** None 
-
-**Groups:** [[2-World/Groups/Neverwood Staff\|Neverwood Staff]], [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
-
+**Groups:** [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
 
 # Relationships
-
-List important relationships here. 
-
+**Parents** - `= this.parents`
+**Siblings** - `= this.siblings`
+**Partner** - `= this.partner`
+**Children** - `= this.children`
+**Allies** - `= this.allies`
+**Enemies** - `= this.enemies`
 

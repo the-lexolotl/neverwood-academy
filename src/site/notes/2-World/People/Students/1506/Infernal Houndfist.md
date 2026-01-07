@@ -1,41 +1,36 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Infernal Houndfist.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Infernal “Jarex” Houndfist","Jarex Houndfist"],"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Orc","char_gender":"Male","char_role":"Student","char_college":"Prismari","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1506.md|Cohort of 1506]]","[[2-World/Groups/Colleges/Prismari College.md|Prismari College]]","[[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Students/1506/Infernal Houndfist.md","permalink":"/world/people/students/1506/infernal-houndfist/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]","MyCategory":null,"image":"Infernal Houndfist.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Infernal “Jarex” Houndfist","Jarex Houndfist"],"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Orc","char_gender":"Male","char_role":"Student","char_college":"Prismari","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]","[[2-World/Groups/Colleges/Prismari College\|Prismari College]]","[[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Students/1506/Infernal Houndfist.md","permalink":"/world/people/students/1506/infernal-houndfist/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # Infernal Houndfist
+> ![Infernal Houndfist.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Infernal%20Houndfist.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Half-Orc |
+> Gender | Male |
+> Age | Young Adult |
+> Location | [[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]] |
+> Role | Student |
+> College | Prismari |
 
-
-
-
-![Infernal Houndfist.png|600](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Infernal%20Houndfist.png)
-
-# General
-
-
-| Name:        | Infernal “Jarex” Houndfist |
-| ------------ | -------------------------- |
-| **Status:**  | Alive                      |
-| **Race:**    | Half-Orc                   |
-| **Gender:**  | Male                       |
-| **Age:**     | Young Adult                |
-| **Role:**    | Student                    |
-| **College:** | Prismari                   |
-
----
-
-**Instrument:** Massive war drum carved from an owlbear skull
-**Personality:** Loud, unfiltered, and proud of it. Famous for ending concerts by stage-diving *into* the audience — literally.
-**Fun fact:** Was once suspended for “disrespecting the Neverwood banner” in a way no one will ever fully describe again.
-
+# Biography
+*This NPC is awaiting a biography. Fancy writing one?*
 
 # Connections
 
-
 **Quests:** [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]], [[2-World/Groups/Colleges/Prismari College\|Prismari College]], [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1506.md|Cohort of 1506]],[[2-World/Groups/Colleges/Prismari College.md|Prismari College]],[[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]
 
 # Relationships
-
-List important relationships here. 
+**Parents** - `= this.parents`
+**Siblings** - `= this.siblings`
+**Partner** - `= this.partner`
+**Children** - `= this.children`
+**Allies** - `= this.allies`
+**Enemies** - `= this.enemies`
 

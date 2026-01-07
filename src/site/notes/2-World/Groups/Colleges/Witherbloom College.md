@@ -51,13 +51,13 @@ The following people are members of this group.
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                 | Dryad         | Female     | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                           | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                     | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]             | Gorgon        | Female     | Student             |
 | [[2-World/People/Students/1507/Francis Farlight\|Francis Farlight]]             | Human         | Male       | Student             |
 | [[2-World/People/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                 | Tiefling      | Male       | Student             |
 | [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]                           | Half-Orc      | Female     | Student             |
 | [[2-World/People/Students/1507/Pebble\|Pebble]]                                 | Earth Genasi  | Non-binary | Student             |
 | [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]       | Elf           | Male       | Student             |
 | [[2-World/People/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]             | Orc           | Male       | Student             |
+| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]             | Gorgon        | Female     | Student             |
 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]               | Human         | Male       | Veteran             |
 
 { .block-language-dataview}

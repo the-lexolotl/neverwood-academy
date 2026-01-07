@@ -1,58 +1,37 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911161923.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Cat","char_gender":"Male","char_role":"Other","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Miaukier.md","permalink":"/world/people/other/miaukier/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20250911161923.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Cat","char_gender":"Male","char_role":"Other","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":["[[Theodore Moss]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Miaukier.md","permalink":"/world/people/other/miaukier/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![Pasted image 20250911161923.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911161923.png)
-# General
+> [!infobox|left]+
+> # Miaukier
+> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Cat |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Other |
+> College | Witherbloom |
 
-Name: Miaukier
-
-
-Status: `INPUT[template-person-status][:char_status]`
-
-
-Race/Species: `INPUT[template-person-race][:char_race]`
-
-
-Gender: `INPUT[template-person-gender][:char_gender]`
-
-
-Age: `INPUT[template-person-age-range][:char_age]`
-
-
-Role: `INPUT[template-staff-type][:char_role]`
-
-
-College: `INPUT[template-college][:char_college]`
-
-:::
-
-| Name:        | Miaukier        |
-| ------------ | --------------- |
-| **Status:**  | Transformed     |
-| **Race:**    | Cat/Xvart-Drake |
-| **Gender:**  | Male            |
-| **Age:**     | Adult           |
-| **Role:**    | Other           |
-| **College:** | Witherbloom     |
-
-
----
-
-Miaukier is the beloved pet of Professor Theodore Moss, recently transformed into a curious cat-dragon hybrid by a Xvart ritual. Despite his new, unusual form, Theodore’s affection for Miaukier remains unchanged, and the little creature has quickly become a familiar—and mischievous—presence around Witherbloom. Students whisper about his draconic quirks, from tiny sparks of flame to playful swishes of a scaled tail, though no one has yet discovered how to restore him to his original feline self.
-
+# Biography
+*This NPC is awaiting a biography. Fancy writing one?*
 
 # Connections
-
 
 **Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
 **Groups:** [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 
-
 # Relationships
+**Parents** - [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]
+**Siblings** - `= this.siblings`
+**Partner** - `= this.partner`
+**Children** - `= this.children`
+**Allies** - `= this.allies`
+**Enemies** - `= this.enemies`
 
-List important relationships here. 
 
-**Owner:** [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]
