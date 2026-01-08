@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/group-1/milfjord-goodleaf/milfjord-goodleaf/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"dg-path":"Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/group-1/milfjord-goodleaf/milfjord-goodleaf/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -102,12 +102,14 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-**Pets:** Mossy (Pet Rock)
-**Parents:** Unknown
-**Siblings:** Unknown 
-**Partner:** Unknown
-**Friends:** [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]], [[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]
-**Enemies:** 
+**Pets:** Mossy
+**Companions:** None/Unknown
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]],[[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]
+
 
 # Academics
 

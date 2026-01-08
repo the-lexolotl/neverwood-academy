@@ -22,15 +22,15 @@
 
 # Connections
 
-**Quests:** `= this.Connected_Quests`
+**Quests:** None
 
-**Groups:** [[2-World/Groups/Whalebucks Coffee Co..md|Whalebucks Coffee Co.]]
+**Groups:**  [[2-World/Groups/Whalebucks Coffee Co..md|Whalebucks Coffee Co.]]
 
 # Relationships
 **Parents** - [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
 **Allies** - [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]],[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]
-**Enemies** - `= this.enemies`
+**Enemies** - None/Unknown
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 2/H'er/H'er.md","permalink":"/party/group-2/h-er/h-er/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":2,"hp":10,"max_hp":10,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 2/H'er/H'er.md","permalink":"/party/group-2/h-er/h-er/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -48,6 +48,9 @@
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        +2        |        +2        |        +3        |  -1  |     -2     |
+#### Boons 
+**Extracurriculars:** Your student die from Extracurriculars is now a d8. Gain one additional student dice each week.
+
 
 # Inventory
 > [!example]- Equipment (18)
@@ -91,12 +94,14 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-**Pets:** None
-**Parents:** Unknown
-**Siblings:** Unknown 
-**Partner:** [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]
-**Friends:** 
-**Enemies:** 
+**Pets:** None/Unknown
+**Companions:** None/Unknown
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
 # Academics
 

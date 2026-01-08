@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Veyra Murgaxor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Halfling","char_gender":"Female","char_role":"Applicant","char_college":"None","char_items":null,"char_age":"Young Adult","parents":["[[Daniel Murgaxor]]"],"children":null,"enemies":null,"allies":["[[Grenshel Murgaxor]]"],"siblings":null,"partner":null,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"Connected_Groups":[],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Veyra Murgaxor.md","permalink":"/world/people/other/veyra-murgaxor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Veyra Murgaxor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Halfling","char_gender":"Female","char_role":"Applicant","char_college":"None","char_items":null,"char_age":"Young Adult","parents":["[[Daniel Murgaxor]]"],"children":null,"enemies":null,"allies":["[[Grenshel Murgaxor]]"],"siblings":null,"partner":null,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Veyra Murgaxor.md","permalink":"/world/people/other/veyra-murgaxor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -24,13 +24,13 @@
 
 **Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
 
-**Groups:** 
+**Groups:**  None
 
 # Relationships
 **Parents** - [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
 **Allies** - [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]
-**Enemies** - `= this.enemies`
+**Enemies** - None/Unknown
 

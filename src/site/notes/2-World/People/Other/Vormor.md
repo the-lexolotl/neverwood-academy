@@ -24,13 +24,13 @@
 
 **Quests:** [[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]
 
-**Groups:** `= this.Connected_Groups`
+**Groups:**  None
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 

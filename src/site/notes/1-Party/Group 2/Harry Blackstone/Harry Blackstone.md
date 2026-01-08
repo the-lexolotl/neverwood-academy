@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":2,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend","Cadoras Damellawar"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 2/Harry Blackstone/Harry Blackstone.md","permalink":"/party/group-2/harry-blackstone/harry-blackstone/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":2,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Socks]]"],"grandparents":["[[Reynard Blackstone]]"],"dg-path":"Party/Group 2/Harry Blackstone/Harry Blackstone.md","permalink":"/party/group-2/harry-blackstone/harry-blackstone/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -57,6 +57,10 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        +3        |        +3        |        0         |  +1  |     -3     |
+#### Boons 
+**Studied Learning:** You are devoted to studying and doing homework assignments. You may opt to work on one homework assignment between classes.
+**Applied Learning:** You start each exam with one reroll available.
+
 
 # Inventory
 
@@ -109,13 +113,14 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-**Pets:** [[1-Party/Group 2/Harry Blackstone/Socks\|Socks]] ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
-**Grandparents:** Reynard Blackstone
-**Parents:** Unknown
-**Siblings:** Adalynn Blackstone 
-**Partner:** Unknown
-**Friends:** [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
-**Enemies:** 
+**Pets:** [[1-Party/Group 2/Harry Blackstone/Socks\|Socks]]
+**Grandparents:** [[Reynard Blackstone\|Reynard Blackstone]]
+**Parents** - None/Unknown
+**Siblings** - [[Adalynn Blackstone\|Adalynn Blackstone]]
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
+**Enemies** - None/Unknown
 
 # Academics
 

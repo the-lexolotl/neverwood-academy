@@ -24,15 +24,15 @@ Coriander is a loyal homunculus who serves Freyot, attending to his needs and as
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
-**Groups:** `= this.Connected_Groups`
+**Groups:**  None
 
 # Relationships
 **Parents** - [[2-World/People/Other/Freyot\|Freyot]]
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
 **Allies** - [[2-World/People/Other/Cumin\|Cumin]],[[2-World/People/Other/Fistandria\|Fistandria]]
-**Enemies** - `= this.enemies`
+**Enemies** - None/Unknown
 
 
 

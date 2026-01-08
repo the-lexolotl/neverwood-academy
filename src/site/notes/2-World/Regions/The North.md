@@ -101,8 +101,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 | File                                                     | Category      |
 | -------------------------------------------------------- | ------------- |
-| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | Magic Academy |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]         | Village +80   |
+| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | Magic Academy |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]             | City +1500    |
 
 { .block-language-dataview}
@@ -113,8 +113,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               | <ul><li>[[2-World/Places/Nevewinter Woods.md\\|Nevewinter Woods]]</li><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li></ul> |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]                                 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
@@ -139,8 +139,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
-| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
+| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                                                                          |
 
 { .block-language-dataview}
 # Groups
@@ -149,12 +149,12 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 | Extracurricular Club |
@@ -170,10 +170,10 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 | [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]                                                      | Franchise            |
 | [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |

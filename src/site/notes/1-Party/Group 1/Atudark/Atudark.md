@@ -1,5 +1,5 @@
 ---
-{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Missing Professor|The Missing Professor]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 1/Atudark/Atudark.md","permalink":"/party/group-1/atudark/atudark/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Missing Professor|The Missing Professor]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"allies":["[[Dorian Wavecrest]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[ɘɿɘʜɈollɘH]]"],"companions":["[[Jack the Skeleton]]"],"dg-path":"Party/Group 1/Atudark/Atudark.md","permalink":"/party/group-1/atudark/atudark/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -103,14 +103,14 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-
-**Pets:** [[1-Party/Group 1/Atudark/ɘɿɘʜɈollɘH\|ɘɿɘʜɈollɘH]] ([[3-Mechanics/CLI/bestiary/beast/raven-xmm\|Raven]])
-**Familiars:** [[1-Party/Group 1/Atudark/Jack the Skeleton\|Jack the Skeleton]] ([[3-Mechanics/CLI/bestiary/undead/skeleton-xmm\|Skeleton]])
-**Parents:** Unknown
-**Siblings:** Unknown 
-**Partner:** Unknown
-**Friends:** [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]], 
-**Enemies:** 
+**Pets:** [[1-Party/Group 1/Atudark/ɘɿɘʜɈollɘH\|ɘɿɘʜɈollɘH]]
+**Familiars:** [[1-Party/Group 1/Atudark/Jack the Skeleton\|Jack the Skeleton]]
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]
+**Enemies** - None/Unknown
 
 # Academics
 

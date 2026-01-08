@@ -42,14 +42,14 @@ Despite his suffering, Aurum Aethelos remains deeply tied to the balance of the 
 
 **Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
 
-**Groups:** `= this.Connected_Groups`
+**Groups:**  None
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
 **Partner** - [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
 

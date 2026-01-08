@@ -1,5 +1,5 @@
 ---
-{"aliases":["Catarina","Cyinth"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":11,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"partner":[],"children":[],"enemies":["Enemy"],"allies":["Bhedum Sooviij","Quentillius Antiphiun Melentor III"],"siblings":[],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 2/Cyinth Agora/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/cyinth-agora/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Catarina","Cyinth"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":11,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"allies":["[[Bhedum Sooviij]]","[[Quentillius Antiphiun Melentor III]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Hornfellow the Grand]]","[[Mr Muffin]]"],"dg-path":"Party/Group 2/Cyinth Agora/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/cyinth-agora/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -47,6 +47,9 @@
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        -1        |        +3        |        0         |  0   |     +2     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
 
 # Inventory
 
@@ -106,12 +109,14 @@ Piton
 
 # Relationships
 
-**Pets:** [[1-Party/Group 2/Cyinth Agora/Hornfellow the Grand\|Hornfellow the Grand]] ([[3-Mechanics/CLI/bestiary/beast/raven-xmm\|Raven]]), [[1-Party/Group 2/Cyinth Agora/Mr Muffin\|Mr Muffin]] ([[3-Mechanics/CLI/bestiary/beast/cat-xmm\|Cat]])
-**Parents:** Elwar Trytha (Father), Hestha Agora (Mother)
-**Siblings:** None 
-**Partner:** None 
-**Friends:** [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]], [[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
-**Enemies:**  
+**Pets:** [[1-Party/Group 2/Cyinth Agora/Hornfellow the Grand\|Hornfellow the Grand]],[[1-Party/Group 2/Cyinth Agora/Mr Muffin\|Mr Muffin]]
+**Companions:** None/Unknown
+**Parents** - Elwar Trytha,Hestha Agora
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]],[[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
+**Enemies** - None/Unknown
 
 # Academics
 

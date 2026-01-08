@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cameron","Glue","Guiloip"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 1/Guiloip Guhloo/Guiloip Guhloo.md","permalink":"/party/group-1/guiloip-guhloo/guiloip-guhloo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Cameron","Glue","Guiloip"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Buhuiop]]"],"companions":["[[Cynthia]]"],"dg-path":"Party/Group 1/Guiloip Guhloo/Guiloip Guhloo.md","permalink":"/party/group-1/guiloip-guhloo/guiloip-guhloo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -48,6 +48,9 @@
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        +2        |        +3        |        0         |  +1  |     -2     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
 
 # Inventory
 > [!example]- Equipment (23)
@@ -94,13 +97,14 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-**Pets:** [[1-Party/Group 1/Guiloip Guhloo/Buhuiop\|Buhuiop]] ([[3-Mechanics/CLI/bestiary/beast/octopus-xmm\|Octopus]])
-**Familiar:** [[1-Party/Group 1/Guiloip Guhloo/Cynthia\|Cynthia]] (Space Mollymawk)
-**Parents:** Unknown
-**Siblings:** Unknown 
-**Partner:** Unknown
-**Friends:** 
-**Enemies:** 
+**Pets:** [[1-Party/Group 1/Guiloip Guhloo/Buhuiop\|Buhuiop]]
+**Familiars:** [[1-Party/Group 1/Guiloip Guhloo/Cynthia\|Cynthia]]
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
 # Academics 
 

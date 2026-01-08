@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Professor Delta
-> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ![Professor Delta.png](/img/user/z_Assets/character_art/NPCs/Professor%20Delta.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
@@ -34,15 +34,15 @@ Delta is _eerily calm_, speaking in academic cadence and metaphor. They never li
 
 **Quests:** [[2-Quests/Sigma Mail\|Sigma Mail]]
 
-**Groups:** [[2-World/Groups/The Silent Equation.md|The Silent Equation]]
+**Groups:**  [[2-World/Groups/The Silent Equation.md|The Silent Equation]]
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
 
 

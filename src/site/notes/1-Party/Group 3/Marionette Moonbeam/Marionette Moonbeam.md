@@ -1,5 +1,5 @@
 ---
-{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":12,"max_hp":12,"ac":12,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":["Rogue","Sorcerer"],"char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Ricards Riches|Ricards Riches]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]"],"char_college":"Witherbloom","char_role":"Player","parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/marionette-moonbeam/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Marionette","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":12,"max_hp":12,"ac":12,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Elvish","Sylvan","Thieves’ Cant"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Eladrin","char_class":["Rogue","Sorcerer"],"char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Ricards Riches|Ricards Riches]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]"],"char_college":"Witherbloom","char_role":"Player","parents":["Aurthrin \"Daggy\" Dagg"],"partner":null,"children":null,"enemies":null,"allies":["Rafi “Red” Danthe","[[Cyinth Agora|Cyinth]]"],"siblings":null,"pets":null,"companions":["[[Shroom]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Marionette.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Group 3/Marionette Moonbeam/Marionette Moonbeam.md","permalink":"/party/group-3/marionette-moonbeam/marionette-moonbeam/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -58,6 +58,9 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        0         |        +2        |        +1        |  -2  |     +3     |
+#### Boons
+**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
+
 
 # Inventory
 
@@ -100,13 +103,14 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 
 # Relationships
 
-**Pets:** Unknown
+**Pets:** None/Unknown
 **Companions:** [[1-Party/Group 3/Marionette Moonbeam/Shroom\|Shroom]]
-**Parents:** Aurthrin "Daggy" Dagg (Adoptive Father)
-**Siblings:** Unknown
-**Partner:** Unknown
-**Friends:** [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]], Rafi “Red” Danthe
-**Enemies:**  
+**Parents** - Aurthrin "Daggy" Dagg
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - Rafi “Red” Danthe,[[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth]]
+**Enemies** - None/Unknown
 
 # Academics
 

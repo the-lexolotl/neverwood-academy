@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Ellina Tanglewood
-> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ![Ellina Tanglewood.webp](/img/user/z_Assets/character_art/NPCs/Staff/Ellina%20Tanglewood.webp)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

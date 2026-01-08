@@ -13,6 +13,7 @@
 | [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                | Megan    | 2     | Cleric                                   | Female | Silverquill |
 | [[1-Party/Group 2/H'er/H'er\|H'er]]                                              | Rain     | 2     | Sorcerer                                 | Female | Prismari    |
 | [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]          | Ross     | 2     | Wizard                                   | Male   | Quandrix    |
+| [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                      | Ross     | 2     | Paladin                                  | Female | Lorehold    |
 | [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]       | Theo     | 2     | Druid                                    | Male   | Witherbloom |
 
 { .block-language-dataview}

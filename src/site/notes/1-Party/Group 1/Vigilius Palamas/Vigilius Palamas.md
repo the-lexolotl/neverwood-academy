@@ -56,6 +56,9 @@ Looking ahead, Vagilius envisions himself standing as a protector, shielding the
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        +1        |        +3        |        -1        |  0   |     +1     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
 
 # Inventory
 
@@ -105,14 +108,14 @@ Whalebucks Free Meal Ticket
 
 # Relationships
 
-
-**Pets:** 
-**Parents:** Corven Palamas (Father), Elara Palamas (Mother)
-**Siblings:** Kabo Palamas, Eliania Palamas
-**Partner:** None
-**Friends:** 
-**Enemies:** 
-
+**Pets:** None/Unknown
+**Companions:** None/Unknown
+**Parents** - Corven Palamas,Elara Palamas
+**Siblings** - Kabo Palamas,Eliania Palamas
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 # Academics
 
 | [[1-Party/Group 1/Vigilius Palamas/Year 1\|Year 1]] | [[1-Party/Group 1/Vigilius Palamas/Year 2\|Year 2]] | [[1-Party/Group 1/Vigilius Palamas/Year 3\|Year 3]] | [[1-Party/Group 1/Vigilius Palamas/Year 4\|Year 4]] |

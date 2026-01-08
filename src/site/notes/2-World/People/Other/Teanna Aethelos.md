@@ -44,14 +44,14 @@ Teanna treats visitors — especially mortals — as fragile beings in need of p
 
 **Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
 
-**Groups:** `= this.Connected_Groups`
+**Groups:**  None
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
 **Partner** - [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
 

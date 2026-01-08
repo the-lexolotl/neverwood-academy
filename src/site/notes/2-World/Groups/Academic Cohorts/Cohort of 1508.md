@@ -48,6 +48,7 @@ The following people are members of this group.
 | [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome           | Female | Lorehold    |
 | [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female | Silverquill |
 | [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin           | Female | Silverquill |
+| [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                                             | Dragonborn      | Female | Lorehold    |
 | [[2-World/People/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Human           | Female | Quandrix    |
 | [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male   | Lorehold    |
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                 | Dragonborn      | Male   | Quandrix    |

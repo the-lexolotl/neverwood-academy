@@ -24,13 +24,13 @@
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
-**Groups:** `= this.Connected_Groups`
+**Groups:**  None
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
 **Children** - [[2-World/People/Other/Cumin\|Cumin]]
 **Allies** - [[2-World/People/Other/Coriander\|Coriander]],[[2-World/People/Other/Freyot\|Freyot]]
-**Enemies** - `= this.enemies`
+**Enemies** - None/Unknown
 

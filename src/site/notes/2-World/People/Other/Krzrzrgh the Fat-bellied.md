@@ -24,13 +24,13 @@
 
 **Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 
-**Groups:** `= this.Connected_Groups`
+**Groups:**  None
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
