@@ -32,7 +32,7 @@
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |        |        |          |          |       |     |
-| **Exam 2** |    Nature     | Animal Handling |        |        |          |          |       |     |
+| **Exam 2** |    Nature     | Animal Handling |   3    |   18   |    8     |    -     |  65%  |  1  |
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 

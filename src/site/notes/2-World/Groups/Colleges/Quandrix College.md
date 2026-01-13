@@ -47,8 +47,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
-| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
+| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Renald\|Renald]]                          | Reborn     | Male       | Professor of Theory    |
 | [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |

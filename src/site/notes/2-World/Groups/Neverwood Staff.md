@@ -59,8 +59,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
 | [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
-| [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
+| [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Zaffai\|Zaffai]]                                     | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                                       | Tortle                 | Female     | Prismari    | Professor of Perfection    |
 | [[2-World/People/Staff/Prismari/Veyran\|Veyran]]                                     | Water Genasi           | Female     | Prismari    | Professor of Perfection    |
@@ -74,8 +74,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                                         | Brown Bear             | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                     | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Renald\|Renald]]                                     | Reborn                 | Male       | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                          | Human                  | Male       | Silverquill | College Dean               |

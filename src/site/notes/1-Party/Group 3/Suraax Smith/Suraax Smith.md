@@ -46,7 +46,7 @@
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|                  |                  |                  |      |            |
+|        -1        |        +2        |        +2        |  +1  |     0      |
 
 # Inventory
 

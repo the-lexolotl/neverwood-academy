@@ -38,9 +38,9 @@ The following people are associated with this quest.
 
 | File                                                                         | Race       | Gender | Role                  |
 | ---------------------------------------------------------------------------- | ---------- | ------ | --------------------- |
-| [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]   | Reborn     | Female | Student               |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                     | Human      | Male   | Deputy Head Teacher   |
 | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin      | Female | Professor of Radiance |
+| [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]   | Reborn     | Female | Student               |
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]   | Dragonborn | Male   | Player                |
 
 { .block-language-dataview}

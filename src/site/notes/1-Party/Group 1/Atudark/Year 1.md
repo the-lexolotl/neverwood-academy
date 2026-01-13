@@ -29,11 +29,11 @@
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
-|            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
-| :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| **Exam 1** |    Arcana     |     Insight     |   8    |   7    |    \-    |    12    |  50   | \-  |
-| **Exam 2** |    Nature     | Animal Handling |        |        |          |          |       |     |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+|            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade  | D4  |
+| :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :----: | :-: |
+| **Exam 1** |    Arcana     |     Insight     |   8    |   7    |    \-    |    12    |  50%   | \-  |
+| **Exam 2** |    Nature     | Animal Handling |   12   |   15   |    -     |    -     | 67.59% |  1  |
+| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |        |     |
 ## Final Grade
 
 | Homework | Labs | Exams |

@@ -18,6 +18,19 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 
 | File                                                                             | Race       | Gender     | Role                  |
 | -------------------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
+| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                   | Human      | Male       | College Dean          |
+| [[2-World/People/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]           | Leonin     | Male       | Professor of Radiance |
+| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]     | Owlin      | Female     | Professor of Radiance |
+| [[2-World/People/Staff/Silverquill/Nils\|Nils]]                               | Human      | Male       | Professor of Radiance |
+| [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]           | Half-Elf   | Female     | Professor of Radiance |
+| [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]] | Dragon     | Male       | Founder Dragon        |
+| [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]       | Owlin      | Female     | College Dean          |
+| [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                 | Kenku      | Non-binary | Professor of Radiance |
 | [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]         | Human      | Male       | Student               |
 | [[2-World/People/Students/1508/Kealen Starfury\|Kealen Starfury]]             | Elf        | Male       | Student               |
 | [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]           | Shadar-Kai | Male       | Student               |
@@ -34,19 +47,6 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
 | [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Students/1505/Chaselienne Lain\|Chaselienne Lain]]           | Elf        | Female     | Student               |
-| [[2-World/People/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
-| [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
-| [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                   | Human      | Male       | College Dean          |
-| [[2-World/People/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
-| [[2-World/People/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]           | Leonin     | Male       | Professor of Radiance |
-| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
-| [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
-| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]     | Owlin      | Female     | Professor of Radiance |
-| [[2-World/People/Staff/Silverquill/Nils\|Nils]]                               | Human      | Male       | Professor of Radiance |
-| [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]           | Half-Elf   | Female     | Professor of Radiance |
-| [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]] | Dragon     | Male       | Founder Dragon        |
-| [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]       | Owlin      | Female     | College Dean          |
-| [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                 | Kenku      | Non-binary | Professor of Radiance |
 
 { .block-language-dataview}
 

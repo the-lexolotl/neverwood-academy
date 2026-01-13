@@ -19,9 +19,9 @@
 |            |    Nature     |    Survival     |    Survival     | Animal Handling |       |
 | **Term 2** |               |                 |                 |                 |       |
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
-| **Term 3** |               |                 |                 |                 |       |
+| **Term 3** |               |                 |   2 \| 0 (2)    |   6 \| 1 (7)    |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** |               |                 |                 |                 |       |
+| **Term 4** | 15 \| 7 (20)  |  22 \| 24 (20)  |  20 \| 13 (20)  |                 |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -32,7 +32,7 @@
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |        |        |          |          |       |     |
-| **Exam 2** |    Nature     | Animal Handling |        |        |          |          |       |     |
+| **Exam 2** |    Nature     | Animal Handling |   6    |   4    |    -     |    -     |  25%  |  -  |
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
@@ -53,9 +53,9 @@
 |            |    Persuasion    | Charisma Save |   Spell Attack   |  Persuasion   |       |
 | **Term 2** |                  |               |                  |               |       |
 |            | Charisma Ability | Spell Attack  |   Performance    |  Wisdom Save  |       |
-| **Term 3** |                  |               |                  |               |       |
+| **Term 3** |                  |               |   12 \| 4 (16)   | 16 \| 14 (20) |       |
 |            |     Insight      | Charisma Save | Charisma Ability |  Persuasion   |       |
-| **Term 4** |                  |               |                  |               |       |
+| **Term 4** |  23 \| 10 (20)   | 13 \| 10 (20) |   18 \| 9 (20)   |               |       |
 |            |    Persuasion    | Spell Attack  |  Charisma Save   |  Performance  |       |
 | **Term 5** |                  |               |                  |               |       |
 |            | Charisma Ability |  Persuasion   |   Spell Attack   | Charisma Save |       |
@@ -78,20 +78,20 @@
 > - Spell Attacks
 
 ## Homework
-|            |    Week 1    |      Week 2       |    Week 3    |    Week 4    | Total |
-| :--------: | :----------: | :---------------: | :----------: | :----------: | :---: |
-| **Term 1** |              |                   |              |              |       |
-|            |  Persuasion  |   Intimidation    | Spell Attack |   History    |       |
-| **Term 2** |              |                   |              |              |       |
-|            | Spell Attack |   Charisma Save   | Intimidation |  Persuasion  |       |
-| **Term 3** |              |                   |              |              |       |
-|            | Intimidation |    Persuasion     |  Persuasion  | Spell Attack |       |
-| **Term 4** |              |                   |              |              |       |
-|            | Performance  |   Spell Attack    | Intimidation |  Persuasion  |       |
-| **Term 5** |              |                   |              |              |       |
-|            |  Persuasion  |   Intimidation    | Spell Attack | Intimidation |       |
-| **Term 6** |              |                   |              |              |       |
-|            | Spell Attack | Intelligence Save | Intimidation |  Persuasion  |       |
+|            |    Week 1     |      Week 2       |    Week 3    |    Week 4    | Total |
+| :--------: | :-----------: | :---------------: | :----------: | :----------: | :---: |
+| **Term 1** |               |                   |              |              |       |
+|            |  Persuasion   |   Intimidation    | Spell Attack |   History    |       |
+| **Term 2** |               |                   |              |              |       |
+|            | Spell Attack  |   Charisma Save   | Intimidation |  Persuasion  |       |
+| **Term 3** |               |                   | 8 \| 24 (20) | 9 \| 18 (20) |       |
+|            | Intimidation  |    Persuasion     |  Persuasion  | Spell Attack |       |
+| **Term 4** | 24 \| 18 (20) |   28 \| 9 (20)    | 24 \| 7 (20) |              |       |
+|            |  Performance  |   Spell Attack    | Intimidation |  Persuasion  |       |
+| **Term 5** |               |                   |              |              |       |
+|            |  Persuasion   |   Intimidation    | Spell Attack | Intimidation |       |
+| **Term 6** |               |                   |              |              |       |
+|            | Spell Attack  | Intelligence Save | Intimidation |  Persuasion  |       |
 ## Exams
 
 |        |   Skill 1    |  Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -110,20 +110,20 @@
 > - Melee Attacks
 
 ## Homework
-|            |     Week 1     |    Week 2    |    Week 3     |     Week 4     | Total |
-| :--------: | :------------: | :----------: | :-----------: | :------------: | :---: |
-| **Term 1** |                |              |               |                |       |
-|            |   Athletics    | Melee Attack | Intimidation  |   Athletics    |       |
-| **Term 2** |                |              |               |                |       |
-|            |  Intimidation  |  Athletics   | Melee Attack  |     Arcana     |       |
-| **Term 3** |                |              |               |                |       |
-|            | Dexterity Save | Melee Attack |   Athletics   |  Intimidation  |       |
-| **Term 4** |                |              |               |                |       |
-|            |  Melee Attack  | Intimidation | Strength Save |   Athletics    |       |
-| **Term 5** |                |              |               |                |       |
-|            |  Performance   |  Athletics   | Intimidation  |  Melee Attack  |       |
-| **Term 6** |                |              |               |                |       |
-|            |  Intimidation  | Melee Attack |   Athletics   | Dexterity Save |       |
+|            |     Week 1     |    Week 2     |    Week 3     |     Week 4     | Total |
+| :--------: | :------------: | :-----------: | :-----------: | :------------: | :---: |
+| **Term 1** |                |               |               |                |       |
+|            |   Athletics    | Melee Attack  | Intimidation  |   Athletics    |       |
+| **Term 2** |                |               |               |                |       |
+|            |  Intimidation  |   Athletics   | Melee Attack  |     Arcana     |       |
+| **Term 3** |                |               | 8 \| 16 (20)  | 13 \| 19 (20)  |       |
+|            | Dexterity Save | Melee Attack  |   Athletics   |  Intimidation  |       |
+| **Term 4** |  8 \| 6 (20)   | 13 \| 17 (20) | 14 \| 25 (20) |                |       |
+|            |  Melee Attack  | Intimidation  | Strength Save |   Athletics    |       |
+| **Term 5** |                |               |               |                |       |
+|            |  Performance   |   Athletics   | Intimidation  |  Melee Attack  |       |
+| **Term 6** |                |               |               |                |       |
+|            |  Intimidation  | Melee Attack  |   Athletics   | Dexterity Save |       |
 ## Exams
 
 |        |  Skill 1  |   Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |

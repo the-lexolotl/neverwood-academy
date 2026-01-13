@@ -1,27 +1,33 @@
 ---
-{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":2,"hp":13,"max_hp":13,"ac":9,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Missing Professor|The Missing Professor]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"allies":["[[Dorian Wavecrest]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[ɘɿɘʜɈollɘH]]"],"companions":["[[Jack the Skeleton]]"],"dg-path":"Party/Group 1/Atudark/Atudark.md","permalink":"/party/group-1/atudark/atudark/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":10,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Missing Professor|The Missing Professor]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"allies":["[[Dorian Wavecrest]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[ɘɿɘʜɈollɘH]]"],"companions":["[[Jack the Skeleton]]"],"subclass":["The Undying"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"dg-path":"Party/Group 1/Atudark/Atudark.md","permalink":"/party/group-1/atudark/atudark/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-
-# General
 
 > [!infobox|left]+
 > # Player Name:  Jacob
 > ![Jacob.png](/img/user/z_Assets/character_art/Players/Jacob.png)
-> ###### Stats
-> Stat  |  Value |
-> ---|---|
-> Status | Alive |
-> Race | Yuan-Ti |
-> Class | Warlock |
-> Level | 2 |
-> Gender | Male |
-> Age | Young Adult |
-> Max HP | 13 |
-> AC | 9 |
-> Initiative | -1 |
-> College | Witherbloom |
-
+> ###### Basic Infomation
+> Stat  |  Value | Stat | Value |
+> ---|---|---|---|
+> **Race** | Yuan-Ti | **Gender** | Male |
+> **Class** | Warlock | **Age** | Young Adult |
+> **Subclass** | The Undying | **Languages** | Common,Draconic,Sylvan |
+> **Level** | 3 | **College** | Witherbloom |
+> **Status** | Alive | **Academic Year** | 1 |
+> ###### Stats & Senses
+> Stat  |  Value | Sense | Value |
+> ---|---|---|---|
+> **Max HP** | 18 | **Passive Perception** | 11 |
+> **AC** | 10 | **Passive Insight** | 11 |
+> **Initiative** | -1 | **Passive Investigation** | 12 |
+> **Proficiency** | 2 | **Darkvision** | 60 ft |
+> ###### Movement
+> Travel Type | Distance | Jump Type | Distance |
+> ---|---|---|---|
+> **Walking** | 30 ft | **Standing Long Jump** | 6 ft |
+> **Flying** | None | **Running Long Jump** | 13 ft |
+> **Swimming** | 15 ft | **Standing High Jump** | 2 ft |
+> **Climbing** | 15 ft | **Running High Jump** | 4 ft |
 
 ## Biography
 
@@ -53,6 +59,16 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 # Skills
 
 ![Pasted image 20250928212558.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928212558.png)
+
+## Other Skills/Proficiencies 
+- Resistance against Poison
+- Advantage against spells
+- Advantage to avoid or end the poisoned condition
+- Advantage against disease
+- Light Armour 
+- Simple Weapons 
+- Herbalism Kit 
+
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
