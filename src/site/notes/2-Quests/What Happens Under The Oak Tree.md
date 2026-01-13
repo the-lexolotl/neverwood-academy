@@ -70,10 +70,10 @@ The following people are associated with this quest.
 
 | File                                                                                | Race            | Gender | Role                |
 | ----------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
-| [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                  | Human           | Male   | Professor of Shadow |
-| [[2-World/People/Staff/Construct V339\|Construct V339]]                          | Automaton       | Other  | Automaton           |
 | [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                          | Dryad           | Male   | Student             |
 | [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]      | Owlin           | Female | Student             |
+| [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                  | Human           | Male   | Professor of Shadow |
+| [[2-World/People/Staff/Construct V339\|Construct V339]]                          | Automaton       | Other  | Automaton           |
 | [[2-World/People/Other/Vormor\|Vormor]]                                          | Half-Giant      | Male   | Other               |
 | [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                     | Yuan-Ti         | Male   | Player              |
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                | Triton          | Male   | Player              |

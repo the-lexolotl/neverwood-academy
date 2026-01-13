@@ -37,8 +37,8 @@ The following people are members of this group.
 
 | File                                                                                             | Race       | Gender | College     |
 | ------------------------------------------------------------------------------------------------ | ---------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Air Genasi | Female | Prismari    |
 | [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Elf        | Male   | Quandrix    |
+| [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Air Genasi | Female | Prismari    |
 | [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Loxodon    | Female | Prismari    |
 | [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome      | Male   | Lorehold    |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human      | Male   | Silverquill |

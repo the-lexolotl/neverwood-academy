@@ -59,8 +59,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
 | [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
-| [[2-World/People/Staff/Prismari/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
+| [[2-World/People/Staff/Prismari/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Zaffai\|Zaffai]]                                     | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                                       | Tortle                 | Female     | Prismari    | Professor of Perfection    |
 | [[2-World/People/Staff/Prismari/Veyran\|Veyran]]                                     | Water Genasi           | Female     | Prismari    | Professor of Perfection    |

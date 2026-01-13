@@ -1,12 +1,12 @@
 ---
-{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":10,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Missing Professor|The Missing Professor]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"allies":["[[Dorian Wavecrest]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[ɘɿɘʜɈollɘH]]"],"companions":["[[Jack the Skeleton]]"],"subclass":["The Undying"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"dg-path":"Party/Group 1/Atudark/Atudark.md","permalink":"/party/group-1/atudark/atudark/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Jacob"],"tags":["Category/Player"],"Player":"Jacob","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":10,"modifier":-1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Sylvan"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Yuan-Ti","char_class":"Warlock","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_role":"Player","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Missing Professor|The Missing Professor]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dead Language Society|Dead Language Society]]"],"allies":["[[Dorian Wavecrest]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Jacob.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[ɘɿɘʜɈollɘH]]"],"companions":["[[Jack the Skeleton]]"],"subclass":["The Undying"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","dg-path":"Party/Group 1/Atudark/Atudark.md","permalink":"/party/group-1/atudark/atudark/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Player Name:  Jacob
 > ![Jacob.png](/img/user/z_Assets/character_art/Players/Jacob.png)
-> ###### Basic Infomation
+> ###### Basic Information
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Yuan-Ti | **Gender** | Male |
@@ -39,8 +39,6 @@ In his personal life, Atudark sees himself as heroic, striving to be a reliable 
 
 Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have been one of the first and greatest necromancers. He respects other beliefs but finds inspiration in this god’s mastery of forbidden arts. His ultimate goal is to recover the Book of Necromancers and, in time, write his own work on the subject. He imagines a future of scholarship and discovery, though he dreads one fate above all others: failing in his ambitions and being forced into the role of a teacher, shackled to a classroom rather than free to explore the secrets of life and death.
 
----
-
 ## Appearance
 
 |                 |                                                                                                              |
@@ -54,14 +52,11 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 | Faith           | Kelemvor - God of Death                                                                                      |
 | Other           | Scorpion Tattoo all over the left forearm, a few scars on the left hand, streaks of red with his black hair. |
 
-
-
 # Skills
-
 ![Pasted image 20250928212558.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928212558.png)
 
 ## Other Skills/Proficiencies 
-- Resistance against Poison
+- Resistance against Poison damage
 - Advantage against spells
 - Advantage to avoid or end the poisoned condition
 - Advantage against disease
@@ -76,40 +71,42 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 |        +2        |        +2        |        -1        |  +1  |     0      |
 
 # Inventory
-> [!example]- Equipment (20)
-A notebook containing waterproof paper
-[[3-Mechanics/CLI/items/amber-xdmg\|Amber]]
-Atudark's Dorm Room Key
-[[3-Mechanics/CLI/items/book-xphb\|Book]]
-[[3-Mechanics/CLI/items/cast-off-armor-xdmg\|Cast-Off Chain Mail]]
-[[3-Mechanics/CLI/items/chain-mail-xphb\|Chain Mail]]
-[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-[[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]
-[[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism Kit]]
-[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
-[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
-[[3-Mechanics/CLI/items/leather-armor-xphb\|Leather Armor]]
-Neverwood - First Year Uniform
-[[3-Mechanics/CLI/items/orb-xphb\|Orb]]
-[[3-Mechanics/CLI/items/iron-pot-xphb\|Iron Pot]]
-[[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
-[[3-Mechanics/CLI/items/shortsword-xphb\|Shortsword]]
-[[3-Mechanics/CLI/items/sickle-xphb\|Sickle]]
-Spell Scroll: [[3-Mechanics/CLI/spells/spider-climb-xphb\|Spider Climb]]
-Whalebucks Free Meal Ticket
+*Carrying Capacity: 195 lbs*
+*Push, Drag, or Lift: 390 lbs*
+> [!example]- Equipment (21)
+> A notebook containing waterproof paper 
+> [[3-Mechanics/CLI/items/amber-xdmg\|Amber]] 
+> Atudark's Dorm Room Key 
+> [[3-Mechanics/CLI/items/book-xphb\|Book]] 
+> Bunch of magic flowers 
+> [[3-Mechanics/CLI/items/cast-off-armor-xdmg\|Cast-Off Chain Mail]] 
+> [[3-Mechanics/CLI/items/chain-mail-xphb\|Chain Mail]] 
+> [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]] 
+> [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]] 
+> [[3-Mechanics/CLI/items/herbalism-kit-xphb\|Herbalism Kit]]
+> [[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+> [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]] 
+> [[3-Mechanics/CLI/items/leather-armor-xphb\|Leather Armor]]
+> Neverwood - First Year Uniform 
+> [[3-Mechanics/CLI/items/orb-xphb\|Orb]] 
+> [[3-Mechanics/CLI/items/iron-pot-xphb\|Iron Pot]]
+> [[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
+> [[3-Mechanics/CLI/items/shortsword-xphb\|Shortsword]]
+> [[3-Mechanics/CLI/items/sickle-xphb\|Sickle]]
+> Spell Scroll: [[3-Mechanics/CLI/spells/spider-climb-xphb\|Spider Climb]]
+> Whalebucks Free Meal Ticket
 
 > [!example]- Backpack (7)
-[[3-Mechanics/CLI/items/book-xphb\|Book]]
-[[3-Mechanics/CLI/items/ink-xphb\|Ink]]
-[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
-[[3-Mechanics/CLI/items/lamp-xphb\|Lamp]]
-[[3-Mechanics/CLI/items/oil-xphb\|Oil]]
-[[3-Mechanics/CLI/items/parchment-xphb\|Parchment]]
-[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+> [[3-Mechanics/CLI/items/book-xphb\|Book]]
+> [[3-Mechanics/CLI/items/ink-xphb\|Ink]]
+> [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+> [[3-Mechanics/CLI/items/lamp-xphb\|Lamp]]
+> [[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+> [[3-Mechanics/CLI/items/parchment-xphb\|Parchment]]
+> [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
 
 > [!example]- Pouch (0)
 > This is my text 
-
 
 # Connections
 
@@ -118,7 +115,6 @@ Whalebucks Free Meal Ticket
 **Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
 
 # Relationships
-
 **Pets:** [[1-Party/Group 1/Atudark/ɘɿɘʜɈollɘH\|ɘɿɘʜɈollɘH]]
 **Familiars:** [[1-Party/Group 1/Atudark/Jack the Skeleton\|Jack the Skeleton]]
 **Parents** - None/Unknown
@@ -133,3 +129,4 @@ Whalebucks Free Meal Ticket
 | [[1-Party/Group 1/Atudark/Year 1\|Year 1]] | [[1-Party/Group 1/Atudark/Year 2\|Year 2]] | [[1-Party/Group 1/Atudark/Year 3\|Year 3]] | [[1-Party/Group 1/Atudark/Year 4\|Year 4]] |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                        | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                       | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                        | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                        |
+
