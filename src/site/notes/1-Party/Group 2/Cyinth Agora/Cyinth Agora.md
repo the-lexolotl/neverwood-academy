@@ -1,5 +1,5 @@
 ---
-{"aliases":["Catarina","Cyinth"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":11,"modifier":1,"pasperc":14,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"allies":["[[Bhedum Sooviij]]","[[Quentillius Antiphiun Melentor III]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Hornfellow the Grand]]","[[Mr Muffin]]"],"subclass":null,"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":12,"pasinvest":13,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","dg-path":"Party/Group 2/Cyinth Agora/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/cyinth-agora/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Catarina","Cyinth"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":15,"max_hp":15,"ac":11,"modifier":1,"pasperc":14,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"allies":["[[Bhedum Sooviij]]","[[Quentillius Antiphiun Melentor III]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Hornfellow the Grand]]","[[Mr Muffin]]"],"subclass":["Battle Smith"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":12,"pasinvest":13,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","dg-path":"Party/Group 2/Cyinth Agora/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/cyinth-agora/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -11,13 +11,13 @@
 > ---|---|---|---|
 > **Race** | Aarakocra | **Gender** | Female |
 > **Class** | Artificer | **Age** | Young Adult |
-> **Subclass** | None | **Languages** | Aarakocra,Common,Common Sign Language,Deep Speech,Undercommon |
-> **Level** | 2 | **College** | Lorehold |
+> **Subclass** | Battle Smith | **Languages** | Aarakocra,Common,Common Sign Language,Deep Speech,Undercommon |
+> **Level** | 3 | **College** | Lorehold |
 > **Status** | Alive | **Academic Year** | 1 |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 11 | **Passive Perception** | 14 |
+> **Max HP** | 15 | **Passive Perception** | 14 |
 > **AC** | 11 | **Passive Insight** | 12 |
 > **Initiative** | 1 | **Passive Investigation** | 13 |
 > **Proficiency** | 2 | **Darkvision** | None |
@@ -95,7 +95,7 @@
 > [[3-Mechanics/CLI/items/silvered-weapon-xdmg\|Silvered Pistol]]
 > Spell Scroll: [[3-Mechanics/CLI/spells/identify-xphb\|Identify]]
 > Syllabus Pages
-> [[2-Player Handouts/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]]
+> [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]]
 > The head of a broken statue that houses the consciousness of a snarky sage
 > [[3-Mechanics/CLI/items/thieves-tools-xphb\|Thieves' Tools]]
 > [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]

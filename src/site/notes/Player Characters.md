@@ -5,8 +5,8 @@
 | Character Name                                                                      | Player   | Level | Class                                    | Gender | College     |
 | ----------------------------------------------------------------------------------- | -------- | ----- | ---------------------------------------- | ------ | ----------- |
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                | Cameron  | 2     | Druid                                    | Male   | Witherbloom |
-| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                      | Catarina | 2     | Artificer                                | Female | Lorehold    |
-| [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Catarina | 2     | <ul><li>Rogue</li><li>Sorcerer</li></ul> | Female | Witherbloom |
+| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                      | Catarina | 3     | Artificer                                | Female | Lorehold    |
+| [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Catarina | 3     | <ul><li>Sorcerer</li><li>Rogue</li></ul> | Female | Witherbloom |
 | [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                     | Jacob    | 3     | Warlock                                  | Male   | Witherbloom |
 | [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                         | Joel     | 2     | <ul><li>Barbarian</li><li>Bard</li></ul> | Male   | Silverquill |
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]          | Kristy   | 3     | Monk                                     | Male   | Quandrix    |

@@ -61,8 +61,7 @@
 |            |    History    | Investigation |    Insight    |   Religion    |       |
 | **Term 6** |               |               |               |               |       |
 |            |    History    |    Insight    |   Religion    |    History    |       |
-
- ## Exams
+## Exams
 |            | Skill 1 | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----: | :------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** | History | Religion |        |        |          |          |       |     |
