@@ -18,7 +18,11 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+No one at Neverwood is entirely certain whether Rixy enjoys teaching for the joy of discovery or for the opportunity to play elaborate pranks. A changeling and accomplished theoretician, Rixy is infamous across campus for their practical jokes — many of which begin long before students realise they are enrolled in one.
+
+Rixy frequently appears in different forms, often masquerading as a new student at the start of term. Even advanced pupils are not immune, as Rixy’s pranks tend to grow more complex alongside the coursework. No one has ever seen their true appearance, and Rixy seems to take great delight in that fact.
+
+Behind the mischief lies genuine scholarly talent. Rixy is a master illusionist and a respected thinker in advanced mathematical theory, specialising in fractal patterns and predictive sequences. Their lessons are unpredictable, occasionally infuriating, but rarely forgotten — a fact Rixy considers a mark of success.
 
 # Connections
 

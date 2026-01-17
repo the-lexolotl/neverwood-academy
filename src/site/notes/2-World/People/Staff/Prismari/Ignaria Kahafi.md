@@ -18,7 +18,11 @@
 > College | Prismari |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Ignaria Kahafi — who insists everyone call her Iggy — is a summer eladrin with a personality as vivid as her flames. She has little patience for titles, formalities, or hesitation, and prefers students to meet her energy head-on. A powerful fire-wielder, Iggy’s magic is closely tied to her emotions, which are rarely subtle. When her temper flares, her hair begins to glow and smoke curls faintly into the air.
+
+Iggy is relentlessly honest with her students, regardless of how well she knows them. For those who are passionate and hardworking, she is an inspiring and transformative mentor. For students who lack drive or confidence, she can be overwhelming — pushing, prodding, and occasionally scorching them into finding their spark.
+
+Outside the classroom, Iggy is an accomplished dancer and frequently performs alongside Zeph, whose mastery of wind magic amplifies her flames in spectacular ways. Their styles complement each other both on and off the stage, with Zeph’s calm presence balancing Iggy’s intensity. Though the two try to keep their relationship discreet, many students suspect — and a few know for certain — that there is more than professional respect between them.
 
 # Connections
 

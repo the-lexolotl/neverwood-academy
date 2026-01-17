@@ -18,7 +18,13 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Lianna Flametongue is an older high elf and a semi-retired member of the legendary Dragonsguard. Now officially part of the Neverwood faculty, she teaches courses on the Founder Dragons and the ancient martial tradition of warsinging. While her presence at the Academy is framed as a teaching appointment, it is quietly understood that she also keeps an eye out for students who might one day be suitable for Dragonsguard service.
+
+Lianna is formal, precise, and impeccably disciplined — habits shaped by decades of military life. She speaks most warmly when discussing the Founder Dragons or the history of the Dragonsguard, subjects in which her knowledge is extensive. Outside of these moments, she can appear stiff or intimidating, especially to first-years.
+
+There are long-standing rumours that Lianna once studied at a magical university herself, where she was known to be far more carefree. That chapter of her life ended after a disastrous expedition into an uncharted ruin claimed the life of her closest friend. Following this tragedy, Lianna was guided towards the Dragonsguard, a path that gave her renewed purpose.
+
+Because of this past, she takes a particular interest in reckless, impulsive, or overly brave students. Her concern is genuine and protective, though it can sometimes come across as intrusive or overbearing.
 
 # Connections
 

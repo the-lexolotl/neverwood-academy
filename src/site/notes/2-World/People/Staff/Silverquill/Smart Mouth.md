@@ -18,7 +18,11 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Smart Mouth is a kenku whose mastery of word-based magic defies common assumptions about his people. Bound by an ancient curse that prevents original speech, he instead draws upon an extraordinary memory, reproducing any sound, phrase, or word he has ever heard with perfect clarity.
+
+From a young age, this talent made him a target — and a formidable opponent. His sharp, perfectly timed retorts earned him both trouble and his now-famous name. Rather than dulling his edge, Smart Mouth refined it, learning that the right words, spoken at precisely the right moment, can carry immense power.
+
+As a Silverquill professor, he teaches the magical weight of language: syntax, cadence, and word choice. His classes are heavily oral, with students expected to read their work aloud and engage directly with spoken spellwork. While demanding, his lessons leave students acutely aware that language itself is one of the most potent forms of magic they will ever wield.
 
 # Connections
 

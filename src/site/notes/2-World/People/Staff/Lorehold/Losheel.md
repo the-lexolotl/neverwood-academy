@@ -18,7 +18,9 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Losheel is a loxodon scholar whose curiosity knows no bounds — except when it comes to physical effort. She prides herself on finding clever ways to make labour unnecessary, often through the construction of magical or mechanical assistants. Her inventions range from simple cleaning automata to complex, semi-sentient machines capable of surprising ingenuity.
+
+In her classroom, Losheel encourages experimentation and ingenuity, often pushing students to invent beyond the limits of convention. While her methods appear chaotic, they are underpinned by a deep understanding of mechanics, arcane energy, and human (or otherwise) laziness. Her humour is dry, and she enjoys watching students’ faces as their creations take on lives of their own.
 
 # Connections
 

@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Cleaner is an autonomous construct originally created by Professor Losheel with the modest intention of tidying her office and living quarters. The project was, by most measures, far too successful. Shortly after activation, Cleaner expanded its understanding of “tidying” to include the repair, restoration, and general upkeep of large portions of the Neverwood campus.
+
+Now a familiar sight across the grounds, Cleaner works tirelessly, often appearing wherever something has broken, collapsed, or been left unattended. It has also taken it upon itself to organise and supervise student maintenance workers, a development the faculty have largely accepted — partly because it works, and partly because no one is keen to argue with it.
+
+Some students have noticed that Cleaner collects discarded trinkets and broken objects, arranging them into what looks suspiciously like an evolving shrine or art installation. This discovery has sparked lively debate among the more creatively inclined students about whether Cleaner understands art — or whether it understands anything at all.
 
 # Connections
 

@@ -18,7 +18,11 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Bildra Forheim’s fascination with numbers began long before she ever set foot in Neverwood. Raised as the daughter of a master dwarven craftsperson, she grew up hearing the phrase “measure twice, cut once” — advice she took very much to heart. As a child, she could often be found carefully measuring every surface in her father’s workshop, a habit that soon expanded to include entire buildings.
+
+Architecture became Bildra’s first great love, and it has remained central to her work ever since. Her research focuses on the arcane physics of construction: how magic, mathematics, and material interact to create structures that endure. Though now considered a more theoretical scholar, Bildra retains a deeply practical mindset.
+
+She is particularly fascinated by the Academy’s more mathematically complex buildings, often studying them from every conceivable angle in an effort to reproduce their principles on a smaller, usable scale. While some of her more abstract-minded colleagues gently mock her habit of measuring everything she encounters, Bildra has little patience for such teasing — her proofs are precise, her designs flawless, and her results speak for themselves.
 
 # Connections
 

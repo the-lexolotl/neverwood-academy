@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Shtomp is a burly orc whose academic career at Neverwood was, by most accounts, unremarkable. His grades were poor, his spellwork unreliable, and graduation was never in the cards. What Shtomp lacked in magical aptitude, however, he more than made up for on the Mage Tower field.
+
+As a student, Shtomp was a dominant and relentless competitor, leading his team to repeated victories and earning a reputation as one of the Academy’s most formidable players. After leaving his studies behind, he was hired to manage the Mage Tower stadium and the intramural fields.
+
+Shtomp insists that all student workers address him as “Coach Shtomp”, despite the fact that he does not officially coach any Academy teams. He takes his role seriously, expects discipline and teamwork, and remains fiercely proud of the sport that gave him his place at Neverwood.
 
 # Connections
 

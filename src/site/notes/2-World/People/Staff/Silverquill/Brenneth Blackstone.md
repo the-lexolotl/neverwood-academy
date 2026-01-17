@@ -18,7 +18,9 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Brenneth Blackstone is a dhampir and a neutral good Silverquill professor of shadow, rising quickly as a standout figure in the study of magical writing and symbols. His lectures are celebrated for their dynamism, transforming the classroom into a theatre of ink, light, and motion. Students often arrive expecting lessons in theory, but leave inspired by the artistry of practical magic brought vividly to life.
+
+Brenneth specialises in scrivening and scriptology, teaching the art of writing magical scripts that are as effective as they are beautiful. Beyond technique, he encourages students to consider style, rhythm, and performance in their work, blending the academic and the theatrical. His magnetic presence and flair for showmanship make him one of the most sought-after professors on campus.
 
 # Connections
 
@@ -33,4 +35,5 @@
 **Children** - `= this.children`
 **Allies** - `= this.allies`
 **Enemies** - `= this.enemies`
+
 

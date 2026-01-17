@@ -18,7 +18,11 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Rarely seen without a steaming bottle of magically enhanced coffee, Professor Riri Brighteye is an owlin whose energy seems to defy all natural limits. Students regularly speculate that she does not sleep at all — a theory supported by her twitching eyes and the fact that she can be found working at almost any hour of the day or night.
+
+Riri is endlessly enthusiastic, even while buried beneath stacks of ancient texts. She is famous for spending days — sometimes weeks — obsessing over a single volume in search of overlooked details. While her mind thrives on chaotic tangents and minute discoveries, she is equally devoted to recording and organising information so others can benefit from her findings.
+
+Outside her office, she is most often spotted at the Firejolt Café, refuelling between research sessions. The only time she reliably leaves her work behind is during Mage Tower matches, where her caffeine-fuelled cheering can rival even the loudest students in the stands.
 
 # Connections
 

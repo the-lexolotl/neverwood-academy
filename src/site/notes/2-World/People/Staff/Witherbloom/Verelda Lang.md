@@ -18,7 +18,9 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Verelda Lang is a dryad and chaotic neutral Witherbloom professor of growth, specialising in magical and unusual creatures. She teaches introductory courses in magical physiologies, helping students across all colleges learn how to identify, understand, and safely interact with the many extraordinary beings they may encounter.
+
+Her research stretches into fractal creatures and artificial life, bridging the gap between biology and magic. She is especially known for bringing creatures into her lessons — safely, of course — to give students firsthand experience in anatomy, behaviour, and care. Verelda encourages curiosity, experimentation, and a deep respect for all forms of life, whether naturally grown or magically created.
 
 # Connections
 

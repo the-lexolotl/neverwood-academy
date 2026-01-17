@@ -18,7 +18,11 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Liv Brandford approaches conflict with precision and aggression. A firm believer in striking first and decisively, she teaches students how to seize control of a confrontation before an opponent has time to respond. In her view, the goal is not merely to win — it is to dominate the narrative and leave the final word echoing in the air.
+
+Liv’s methods are controversial. Some consider them underhanded, especially in formal duels, but she has little interest in such distinctions. To Liv, effectiveness is the only measure that matters. Her classes are demanding, fast-paced, and unapologetically ruthless.
+
+As one half of the Brandford siblings, Liv honed her skills in constant rivalry with her brother. That lifelong competition sharpened her instincts and fuelled her uncompromising approach. Students who thrive under pressure often find her an exceptional — if intimidating — instructor.
 
 # Connections
 

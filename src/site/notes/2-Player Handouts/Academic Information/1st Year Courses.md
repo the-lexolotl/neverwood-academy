@@ -91,7 +91,7 @@ The course encourages careful attention and patience, laying essential groundwor
 > [!success]- Reward  
 > Dragon’s Breath
 
-This special offering, taught by Lianna Flametongue, explores the origins of Strixhaven and the enduring wisdom of the Founder Dragons. Through historical accounts, preserved draconic teachings, and interpretive discussion, students examine how each Founder shaped magical education and philosophy.
+This special offering, taught by Lianna Flametongue, explores the origins of Neverwood and the enduring wisdom of the Founder Dragons. Through historical accounts, preserved draconic teachings, and interpretive discussion, students examine how each Founder shaped magical education and philosophy.
 
 The course blends legend with scholarship, challenging students to reflect on power, responsibility, and legacy. Attendance is limited, and lessons are often delivered with dramatic flair befitting their draconic origins.
 
@@ -207,7 +207,7 @@ In this introductory course, Professor Deekah shares her passion for fractology 
 Assessment prioritises efficiency over accuracy; grades are awarded based on how quickly a student’s theorem reaches a solution, rather than the correctness of the final result. Through this work, students gain an early understanding of how fractals can fold space itself.
 
 #### Growing Pains: How Larger Numbers Can Cause More Injury
-*Professor [[2-World/People/Staff/Quandrix/Renald\|Renald]]*
+*Professor [[Renald\|Renald]]*
 > [!success]- Reward
 > Magnify Gravity
 

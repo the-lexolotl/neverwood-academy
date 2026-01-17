@@ -18,7 +18,9 @@
 > College | Prismari |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Arkin Minexes is a human Prismari professor of expression who brings a bubbling enthusiasm to the Neverwood stage. Recently graduated himself, he still carries the wide-eyed wonder of a student discovering the power of performance magic for the first time. He teaches courses in choreography, magical dance ensembles, and collaborative expression, always searching for ways to help students unlock their creative potential.
+
+Arkin has an infectious energy, constantly moving between classrooms, rehearsal halls, and the campus amphitheatre, often demonstrating new steps or gestures mid-lecture. He delights in seeing students support one another, believing that creativity flourishes most when people work together. Despite his boundless excitement, he is patient and encouraging, tailoring his teaching to each student’s strengths while gently nudging them beyond their comfort zones. Students who follow his classes often find themselves leaving with more confidence — and slightly sore feet — than they expected.
 
 # Connections
 

@@ -18,7 +18,11 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Jazack Quickfoot, an elderly harengon, freely admits that he is an expert in exactly one thing: getting away. Over a lifetime spent fleeing from danger, disaster, and poor decisions, Jazack has mastered a remarkable number of ways to remove himself from harm — many of them magical.
+
+His journey eventually brought him to Neverwood quite by accident, where he quite literally ran into a senior member of staff. Recognising his unusual expertise, Jazack was promptly offered a position teaching the theory and practice of teleportation and rapid relocation magic. In this field, he is widely regarded as unmatched.
+
+Outside of teleportation, however, Jazack is hopelessly inept at most forms of spellcasting — a fact he finds amusing and others find exasperating. He remains easily startled, much to the delight of certain colleagues and students, who enjoy provoking sudden, involuntary demonstrations of his talents. Jazack takes this in good humour, though he would very much prefer everyone stop trying to scare him.
 
 # Connections
 

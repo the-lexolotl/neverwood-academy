@@ -18,7 +18,11 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Clem Greenthumb is small even by fairy standards, standing little more than a foot and a half tall, with lilac wings shaped like flower petals. Growing up, Clem was frequently singled out for their size, an experience that left lasting scars. Eventually, they left the Feywilds behind and wandered from place to place before finding refuge — and purpose — at Neverwood Academy.
+
+Like many fairies, Clem possesses a natural ability to alter their size slightly. Through dedicated study, however, they developed a unique magical approach that allows them to grow far beyond what most would consider possible. When necessary, Clem can become absolutely enormous, a transformation that has become something of a cautionary tale for would-be troublemakers.
+
+Clem has no tolerance whatsoever for bullying and is fiercely protective of those who are overlooked or underestimated. They have a particular fondness for helping small creatures and struggling plants thrive, often using magic to give them the space — literally and figuratively — to grow. Though gentle in demeanour, Clem’s presence commands respect.
 
 # Connections
 

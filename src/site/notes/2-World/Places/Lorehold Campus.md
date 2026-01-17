@@ -31,9 +31,9 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |
 | [[2-World/People/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg     | Non-binary | Student            |
 | [[2-World/People/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin      | Female     | Student            |
-| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling    | Female     | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf       | Male       | Professor of Order |
+| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf         | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                            | Loxodon     | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                      | Halfling    | Male       | Professor of Chaos |
@@ -42,9 +42,9 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                              | Orc         | Male       | College Dean       |
 | [[2-World/People/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin       | Male       | Veteran            |
 | [[2-World/People/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
+| [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin       | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon      | Female     | Founder Dragon     |
 | [[2-World/People/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome       | Female     | Professor of Order |
-| [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin       | Male       | Professor of Chaos |
 
 { .block-language-dataview}
 

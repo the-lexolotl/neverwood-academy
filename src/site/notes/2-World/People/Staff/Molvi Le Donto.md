@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Melvi Le Donto is a human scholar and former student whose academic life was spent almost entirely in laboratories across campus. Fascinated by the point where magical theory becomes physical reality, she developed a deep respect for the spaces where experimentation takes place.
+
+Following her graduation, Melvi successfully petitioned the Academy’s leadership to appoint her as Laboratory Administrator. In this role, she organises and oversees teams of student workers who clean, catalogue, and assist with research in laboratories throughout Neverwood.
+
+Melvi is practical, efficient, and deeply protective of lab spaces. She is supportive of student research but has little patience for recklessness, improvised spellwork, or anyone who leaves a laboratory worse than they found it.
 
 # Connections
 

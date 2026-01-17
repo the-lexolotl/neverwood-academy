@@ -18,7 +18,9 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Nev, twin brother of Adrix, is a triton and neutral good Quandrix professor of theory. Where Adrix thrives in the material application of magic, Nev’s mind turns towards patterns, symmetry, and the abstract principles that underpin the world. From a young age, he saw rhythms in the tides and currents that eluded even experienced scholars, developing a gift for prediction and analysis that complemented his brother’s practical mastery.
+
+Nev’s teaching style is thoughtful, precise, and full of intellectual curiosity. He delights in guiding students through difficult problems and encourages them to approach magic as a discipline of thought, patience, and insight. Though he frequently debates with Adrix over the merits of different mathematical principles, he is deeply attuned to the needs of students, often acting with calm pragmatism where his brother might leap impulsively. Nev’s lectures foster deep understanding, inviting students to explore the elegant structures behind even the wildest magic.
 
 # Connections
 

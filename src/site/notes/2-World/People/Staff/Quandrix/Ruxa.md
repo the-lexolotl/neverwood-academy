@@ -18,7 +18,9 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Ruxa, a bipedal brown bear, is a neutral good Quandrix professor of substance who embodies patience, steadiness, and meticulous understanding. While the lure of groundbreaking new theories can be tempting, he knows that true mastery begins with a solid foundation. He teaches students of all levels, carefully guiding them through the essential principles of mathematics, magic, and the forces that bind the world.
+
+Ruxa’s calm, reassuring presence makes him popular among students, especially those struggling with complex concepts. His lessons focus on clarity, repetition, and hands-on demonstration, ensuring that even the most challenging subjects become approachable. Even advanced pupils find themselves returning to his classes to strengthen their understanding and refine their technique, leaving with skills that will serve them throughout their magical careers.*
 
 # Connections
 

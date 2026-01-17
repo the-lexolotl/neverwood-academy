@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Orvlo is a middle-aged vedalken who now teaches a series of general studies courses introducing students to the foundational principles of the various schools of magic. Once a specialist in advanced magical theory, Orvlo found their true calling in teaching the basics — the small, precise differences that separate one discipline from another.
+
+They teach primarily from the Biblioplex, where they also volunteer as a librarian outside of class hours. In this capacity, Orvlo quietly detects and dispels unauthorised enchantments placed on books, scrolls, or study spaces — a task they perform with meticulous care.
+
+Orvlo values earnest effort and focused study above all else. They are unimpressed by flattery, pranks, or attempts to charm one’s way to leniency, and students quickly learn that respect is earned through work, not words.
 
 # Connections
 

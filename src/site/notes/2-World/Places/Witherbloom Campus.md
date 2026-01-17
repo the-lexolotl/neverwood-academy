@@ -18,8 +18,8 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 
 | File                                                                                   | Race          | Gender     | Role                |
 | -------------------------------------------------------------------------------------- | ------------- | ---------- | ------------------- |
-| [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]] | Dhampir       | Female     | Student             |
 | [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
+| [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]] | Dhampir       | Female     | Student             |
 | [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                             | Dryad         | Male       | Student             |
 | [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]             | Reborn        | Female     | Student             |
 | [[2-World/People/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                 | Dryad         | Female     | Student             |

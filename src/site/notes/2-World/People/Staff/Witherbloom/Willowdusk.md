@@ -18,7 +18,9 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Willowdusk is a treant and Witherbloom professor of growth, whose age is a mystery even to the oldest faculty. She claims to predate the founding of Strixhaven, and though many doubt her, few are bold enough to challenge her. Long ago, she protected a group of lost students in Detention Bog from a pack of hungry groffs, guiding them back to Widdershins Hall while teaching them about herb-gathering and survival along the way. That act cemented her place as a faculty member.
+
+Willowdusk teaches courses in medicinal herbs, pest mascot care, and practical dissection, blending gentle guidance with stern encouragement. Her lessons emphasise patience, observation, and the subtle interplay between living things. She is rarely without a pot of tea brewing nearby, and her presence radiates a calm, ancient wisdom that students find both comforting and awe-inspiring.
 
 # Connections
 

@@ -18,7 +18,9 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Nils is a human Silverquill professor of radiance, embodying the paradoxical combination of optimism and exacting standards. He believes in the potential of every student, but that belief comes with expectations — if students falter or act carelessly, Nils is quick with a stern scolding and a pointed reminder of what they could achieve.
+
+His classes emphasise discipline, precision, and the careful use of radiance magic to communicate clarity and intent. Though some may find his manner abrupt, students come to recognise that his sharp eye and firm guidance are driven by genuine faith in their abilities. Nils’s presence serves as both a moral compass and a practical guide, challenging students to strive for excellence at every turn.
 
 # Connections
 

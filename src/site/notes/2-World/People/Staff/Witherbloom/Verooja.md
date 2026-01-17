@@ -18,7 +18,13 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Verooja is a middle-aged loxodon whose calm, steady presence contrasts sharply with the dangerous flora he tends. Despite appearances, he insists he does not possess “two green thumbs” — merely patience, understanding, and a willingness to listen.
+
+He maintains a large and carefully warded garden near Widdershins Hall, bordering the untamed lands beyond campus. The garden contains rare and volatile plants, many of which are valuable both academically and commercially. Prominent signs warn against trespassing, though students who ignore them rarely need reminding twice — the garden is quite capable of defending itself.
+
+Those passing nearby often hear Verooja speaking softly to his plants, a habit he swears encourages healthy growth. Recently, he has expanded his work into subterranean spaces, cultivating magical fungi in a nearby cave and incorporating their care into his coursework.
+
+Verooja teaches that growth is not always gentle — but it should always be guided.
 
 # Connections
 

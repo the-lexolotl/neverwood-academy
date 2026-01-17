@@ -18,7 +18,9 @@
 > College | Prismari |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Zaffai is a human mage whose mastery of both music and elemental magic has earned him renown across Neverwood. Trained from a young age, he discovered that his music could summon not just emotion but literal elemental effects — sparks, wind, and even minor storms.
+
+As Grand Maestro of the Arcane Orchestra, Zaffai oversees an elite ensemble of Prismari students, performing only in the open air to accommodate the vast displays of magical energy. Concerts are dramatic, exhilarating, and meticulously orchestrated, blending technical perfection with magical spectacle.
 
 # Connections
 

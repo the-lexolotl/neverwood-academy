@@ -76,8 +76,7 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
-| [[2-World/People/Staff/Quandrix/Renald\|Renald]]                                     | Reborn                 | Male       | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Quandrix/Renald Rothton\|Renald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                          | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]              | Owlin                  | Female     | Silverquill | College Dean               |
 | [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]        | Dragon                 | Male       | Silverquill | Founder Dragon             |

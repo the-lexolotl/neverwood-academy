@@ -18,7 +18,13 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Professor Serafina Onyx is a recent and somewhat enigmatic addition to the Witherbloom faculty. An alumna of the Academy herself, she now teaches advanced courses in reanimation and undead magic — subjects she is widely acknowledged to have mastered at a remarkably young age.
+
+Onyx keeps a deliberately low profile, preferring quiet competence over attention. She is often seen working in restricted sections of the Academy’s libraries and archives, and tends to keep a professional distance from students. Those who have spoken with her at length describe her as reserved but sharply perceptive, with little tolerance for carelessness.
+
+Despite her quiet demeanour, her appointment raised more than a few eyebrows. Onyx bypassed the usual instructional track and was offered a full professorship immediately, an honour that sparked a degree of envy among some faculty. Keenly aware of this, she makes a visible effort to prove herself, holding regular office hours and offering one-to-one mentoring for students serious about necromantic study.
+
+While she does not encourage emotional attachment, Onyx is a thorough and demanding teacher — and those who earn her respect find her guidance invaluable.
 
 # Connections
 

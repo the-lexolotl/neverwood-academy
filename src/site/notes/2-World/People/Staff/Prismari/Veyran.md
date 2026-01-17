@@ -18,7 +18,9 @@
 > College | Prismari |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Veyran is a genasi mentor who champions harmony in all artistic pursuits. She teaches that skill is most potent when balanced with passion, and she is known for her playful methods of instruction.
+
+Students often find themselves cheered by small elemental creations — dancing sparks, miniature gusts of wind, or water sprites — when discouraged or overwhelmed. Veyran’s warmth and encouragement create a safe space for experimentation, fostering confidence alongside mastery of elemental techniques.
 
 # Connections
 

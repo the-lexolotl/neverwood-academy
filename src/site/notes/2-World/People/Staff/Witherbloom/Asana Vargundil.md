@@ -18,7 +18,13 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Asana Vargundil is an elven alchemist whose brilliance in the laboratory is matched only by her complete lack of bedside manner. Trained under the current Witherbloom dean during her student years, Asana quickly distinguished herself through her mastery of potions, antidotes, and restorative compounds.
+
+Her academic mind is precise, methodical, and intensely curious. Unfortunately for her patients, this often means she speaks about injuries rather than to the injured, calmly narrating worst-case outcomes or discussing tissue damage while students are still trying to steady their breathing.
+
+Asana spends most of her time in her laboratory at Widdershins Hall, where she happily pays students for rare or unusual ingredients gathered from the surrounding wilds. She takes particular interest in preventative work, frequently asking students to bring her information about experimental research elsewhere on campus so she can prepare effective countermeasures in advance.
+
+Though socially awkward, Asana is deeply committed to keeping students alive — preferably intact.
 
 # Connections
 

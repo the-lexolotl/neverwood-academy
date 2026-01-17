@@ -18,7 +18,9 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Tivash is a human Witherbloom professor of decay whose work explores the liminal space between life and death. His teachings are practical and hands-on, showing students that understanding the forces of decomposition and transformation is essential to true mastery of Witherbloom magic. While some outsiders label his methods as sinister, Tivash insists that power is neither inherently good nor evil — its worth is measured by the intent of its user.
+
+He encourages students to confront uncomfortable truths and embrace responsibility for their choices. Tivash’s lessons are not for the faint of heart, but those who study under him leave with a profound understanding of life’s cycles, the ethics of magical intervention, and the hidden potential in decay.
 
 # Connections
 

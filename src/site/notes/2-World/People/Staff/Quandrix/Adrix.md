@@ -18,7 +18,9 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Adrix is a triton and a neutral good Quandrix professor of substance, deeply attuned to the physical world through the lens of magical mathematics. Raised near a particularly powerful magical snarl, he developed an early talent for recognising patterns in tides, currents, and natural phenomena that others could not. By predicting a sudden tsunami and saving a hundred lives, he cemented a reputation for clarity and courage.
+
+Now at Neverwood, Adrix teaches students to understand and manipulate the material world through equations, patterns, and magical experimentation. His classes focus on applying abstract principles to practical problems, encouraging students to explore their surroundings, test their ideas, and trust in their observations. Energetic and approachable, Adrix delights in guiding pupils through hands-on experiments, often drawing water and elemental magic into lessons to bring equations vividly to life.
 
 # Connections
 

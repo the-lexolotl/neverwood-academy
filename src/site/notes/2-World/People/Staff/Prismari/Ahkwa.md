@@ -18,7 +18,11 @@
 > College | Prismari |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Known simply as Ahkwa, this elderly tortle has carried many names throughout her long life, most of them drawn from words for water in various languages. Now in her later years — well past the expected age for her people — Ahkwa shows no interest in slowing down. She claims that teaching keeps her young, and few at Neverwood doubt her sincerity.
+
+Ahkwa presents herself as a gentle, grandmotherly figure, fond of doting on her students and offering warm, practical advice. Beneath that softness lies formidable strength. She is a master of waterbinding and ice sculpture, and more than capable of protecting both herself and those under her care should the need arise.
+
+Having lived a long and full life, Ahkwa is refreshingly honest with her students. She frequently reminds them not to waste precious time overthinking small decisions or chasing perfection for its own sake. While she believes true artistry comes from the heart rather than the intellect, she still values discipline and refinement. Her most common advice is simple: practise diligently, and you will recognise your masterpiece when it finally takes shape.
 
 # Connections
 

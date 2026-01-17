@@ -18,7 +18,9 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Gyome is a troll and a neutral Witherbloom professor whose culinary skill is legendary. Despite his imposing size, he is lighthearted and warm, infusing his food with both magic and heart. Combining local ingredients with flavours from his homeland, he creates dishes that are ever-changing, surprising, and deeply satisfying.
+
+Students from all colleges flock to Sedgemoor to experience his creations. His classes emphasise the alchemy of taste and the careful balancing of magical energies in cooking. The only complaint he ever receives is that his portions are too generous — an issue students rarely mind, as his meals are as nourishing as they are delightful.
 
 # Connections
 

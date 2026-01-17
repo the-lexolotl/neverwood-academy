@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Zoei is a satyr and former Prismari student who oversees student housing and much of day-to-day campus life. Where many professors are absorbed in research and teaching, Zoei thrives on logistics, organisation, and student interaction.
+
+Energetic and endlessly enthusiastic, Zoei manages the Academy’s dormitories and supervises the student workers assigned to them. She is deeply invested in student wellbeing and delights in watching students grow through the highs and lows of academy life.
+
+Zoei is also responsible for organising social events across campus, from formal balls to chaotic game nights. Her events are creative, energetic, and occasionally overwhelming — but always memorable.
 
 # Connections
 

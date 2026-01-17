@@ -18,7 +18,11 @@
 > College | Prismari |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Rock is a middle-aged earth genasi with a striking presence and a famously quiet demeanour. Abandoned as an infant, he was raised in a monastery where discipline and silence were valued above all else. As he grew older, it became clear that his emotions — and the thunderous sounds they sometimes produced — were ill-suited to monastic life. Recognising this, the monastery arranged for Rock to pursue a different path, one that eventually led him to Neverwood.
+
+It was during his student years that Rock discovered his extraordinary musical talent after coming across a powerful magical lyre. His performances soon became legendary, earning him the nickname “Earsplitter” after a particularly unforgettable concert. Even now, his appearances are rare and highly anticipated, usually requiring the largest venue the Academy can offer.
+
+Despite his fame, Rock remains reserved and difficult to engage in conversation. He prefers to let his music speak for him. He makes a point of attending his students’ performances whenever possible and is generous with both praise and thoughtful critique. Rock will mentor aspiring musicians beyond scheduled lessons, but only those fully committed to the path — and only within his own college.
 
 # Connections
 

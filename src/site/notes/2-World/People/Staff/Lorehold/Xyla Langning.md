@@ -18,7 +18,11 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Xyla Langning is a young gnome and one of the newest professors at Neverwood Academy. As a prominent dustspeaker, she specialises in ancient and obscure languages — a passion born, in part, from a lifetime of people mispronouncing her name. Determined never to make the same mistake herself, Xyla set out to learn as many languages as possible.
+
+Despite her age, she is fluent in an astonishing number of tongues, far surpassing most of her colleagues. She delights in researching forgotten dialects and obscure magical scripts, and becomes visibly excited when encountering a student who speaks a rare or unusual language.
+
+Much of Xyla’s time is spent along Effigy Row, communing with ancient spirits bound to statues and relics. She teaches courses on magical languages, as well as the proper composition and interpretation of tomes, grimoires, and enchanted scrolls. Her love of life is infectious, though she can sometimes become so absorbed in her work that she forgets the world around her.
 
 # Connections
 

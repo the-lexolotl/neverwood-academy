@@ -18,7 +18,11 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Tervis Sharpwing is an owlin battle-medium known more for his physical prowess than his spellcasting. While his magical ability is limited, he more than compensates with skill, experience, and an uncanny connection to lingering warrior spirits. In combat, he fights with twin spectral blades and calls upon echoes of fallen heroes to fight alongside him.
+
+Tervis possesses an exceptional understanding of historical weapons and fighting styles, gained through years of working directly with martial spirits. He frequently trains in a small courtyard within Pillardrop, practising unfamiliar techniques or communing with the spirits he summons.
+
+He is always willing to spar with students or offer instruction, particularly those who favour steel over spellwork. Much of his teaching happens informally, outside scheduled lessons, and he is known to encourage hands-on learning wherever possible.
 
 # Connections
 

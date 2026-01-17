@@ -18,7 +18,11 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Hofri Ghostforge, a dwarf with an unusual combination of artistic talent and spiritual sensitivity, discovered his calling after an initially unsuccessful attempt at traditional spellcasting. While his peers excelled in the manipulation of raw magic, Hofri excelled in shaping the ethereal: bringing spirits to form through statues and constructs.
+
+By combining his training in Prismari’s artistic methods with Lorehold’s spirit magic, Hofri developed the unique technique of crafting bespoke spirit statues, each designed to capture the essence and appearance of the departed. His work is precise, beautiful, and hauntingly vivid — a tangible bridge between the mortal and spirit realms.
+
+Hofri is patient and quietly enthusiastic in his teaching. His lectures encourage creativity, focus, and reverence for history, often involving hands-on demonstrations. Students may spend hours perfecting a statue, only to see Hofri gently adjust a detail, revealing a subtle truth about the spirit it houses. Despite the solemnity of his craft, Hofri has a wry sense of humour, often leaving small surprises hidden within his statues for attentive students to discover.
 
 # Connections
 

@@ -18,7 +18,11 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Marrick Deepfinder is a charming, sharp-tongued halfling and one of Neverwood’s most well-known archaeological minds. He has earned a reputation for uncovering remarkable artefacts — and for being the first person through a suspicious doorway. Marrick insists that luck is a skill like any other, and that it simply happens to favour him.
+
+He firmly supports the idea that historical artefacts should belong to the wider magical community, curated and studied for the good of all. Privately, however, Marrick believes that particularly dangerous relics are better kept well away from students and staff — preferably in secure private collections, should the right offer present itself.
+
+Marrick is often willing to accompany students on expeditions beyond campus, especially those eager to gain practical experience in ruin exploration. While he is generous with guidance and protection, he becomes noticeably selective when it comes to dividing up valuable discoveries. That selfishness stops at coin, however; when things turn dangerous, Marrick is quick to put himself in harm’s way to keep his students safe.
 
 # Connections
 

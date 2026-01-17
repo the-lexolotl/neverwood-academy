@@ -18,7 +18,11 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Helioz Sunmane is a leonine figure whose presence seems to brighten a room long before he speaks. A master of luminous magic, Helioz specialises in radiance shaped through language and conviction. Despite his current confidence, his time as a student was far from easy.
+
+Drawn to Silverquill as a young scholar, Helioz nearly failed his earliest courses, struggling to articulate his thoughts in the sharply competitive environment. His peers were unforgiving, and their cutting remarks left lasting scars. It was only through the guidance of a patient mentor that Helioz learned to give voice to his experiences. When he finally found the words, radiant magic surged forth, leaving his once-dull mane touched with a soft golden glow.
+
+Helioz went on to become one of the most gifted students of radiance his college had seen. When his former mentor later retired, she personally invited him to take her place at Neverwood — an offer he accepted without hesitation. Today, Helioz strives to be the same source of encouragement for struggling students, reminding them that brilliance often emerges from perseverance rather than perfection.
 
 # Connections
 

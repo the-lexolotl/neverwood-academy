@@ -18,8 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Isabough is an ancient treant who serves as the Head Librarian of the Biblioplex, Neverwood Academy’s vast magical library. Calm, patient, and immovably rooted in her duties, she oversees the library’s daily operation and the many student assistants who keep it running.
 
+Access to the restricted sections of the Biblioplex is granted solely at Isabough’s discretion. She is neither easily persuaded nor easily angered, but she has little tolerance for carelessness where knowledge is concerned. Students quickly learn that honesty and respect go a long way with her.
+
+Despite her imposing presence, Isabough is known to be quietly supportive of diligent students, especially those who treat books as living records rather than disposable tools.
 # Connections
 
 **Quests:** `= this.Connected_Quests`

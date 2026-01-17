@@ -18,7 +18,11 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Luc Brandford teaches from the belief that survival is a victory in itself. As the younger of the Brandford siblings, Luc claims he spent his formative years on the defensive — a position that shaped both his outlook and his magic.
+
+Luc specialises in endurance, restraint, and control. He instructs students in defensive techniques, protective wards, and the importance of maintaining composure under sustained pressure. Rather than overpowering an opponent, Luc teaches how to outlast them, allowing aggression to burn itself out.
+
+In addition to duelling theory, Luc leads courses focused on group protection and defensive coordination, particularly for students expected to travel into hazardous areas beyond the Academy grounds. Calm, methodical, and patient, Luc provides a counterbalance to his sister’s intensity, though their rivalry remains evident to anyone paying attention.
 
 # Connections
 

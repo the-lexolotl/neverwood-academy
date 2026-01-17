@@ -18,7 +18,9 @@
 > College | Quandrix |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Deekah is a human Quandrix professor of theory with a unique vision: she sees the world as a vast, interconnected web of equations, each as beautiful as the last. She transforms abstract theorems into tangible forms, creating intricate geometric constructs that captivate and inspire students. Her work is a living demonstration of the patterns that permeate both magic and nature.
+
+Deekah’s classes are as much about exploration as instruction. She encourages students to experiment, visualise problems, and discover solutions in creative ways. While her fascination with theory can seem intense, her teaching reveals the underlying elegance and cohesion of magic to those who persevere. Her office and studio are filled with moving constructs, shimmering shapes, and sketches, each a testament to her dedication to the artistry of mathematics and magical thought.
 
 # Connections
 

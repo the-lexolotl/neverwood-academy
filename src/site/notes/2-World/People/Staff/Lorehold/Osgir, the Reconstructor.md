@@ -18,7 +18,11 @@
 > College | Lorehold |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Osgir, a stone giant of imposing size, is obsessively devoted to the relics of past civilizations. From grand crowns to weathered tools, he treats each object as a story waiting to be told. His office is a rotating gallery of reconstructed artefacts, some delicate and some deadly, each chosen to illustrate both the fragility and brilliance of history.
+
+As a student, Osgir had a tendency to “borrow” the best finds from digs, resulting in frequent detentions and scoldings. This obsession, rather than being curbed, led him to master the magical art of duplication and restoration, allowing him to preserve history while still indulging his personal fascination.
+
+In class, Osgir is exacting but generous with knowledge. He emphasises care, patience, and respect for history, often guiding students through the painstaking processes of magical restoration. Outside of lessons, he enjoys long conversations about lost civilizations and debates over which historical era most deserves admiration — his enthusiasm infectious, even if slightly overwhelming.
 
 # Connections
 

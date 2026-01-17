@@ -18,7 +18,9 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Fain is a human and a neutral Silverquill professor of shadow, known for his extensive network of contacts both on and off campus. Students quickly learn that if they need something — a rare spellbook, an exotic ingredient, or even an item that’s inconveniently forbidden — Fain is the one to approach. What he offers is never free, but those who can meet his price find him surprisingly reliable.
+
+Fain teaches more than simple procurement; his lessons explore negotiation, discretion, and resourcefulness, showing students how influence and information are as powerful as spells themselves. He moves with quiet confidence around the corridors of Neverwood, and those who study under him learn that in a world governed by magic, knowledge and connections can be the most potent forms of power.
 
 # Connections
 

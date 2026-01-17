@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Born Trina Shanti, Dramitia is a tiefling alumna who reinvented herself during her first year at Neverwood — beginning with her name. Passionate, theatrical, and unapologetically dramatic, she quickly became a fixture of the Academy’s performance spaces.
+
+As a student, Dramitia attended every production staged at the Rose Stage and the Dramarium, eventually rising to lead the Playactors Drama Guild. Her performances were so compelling that faculty members encouraged her to remain at the Academy after graduation, an offer she accepted with characteristic confidence.
+
+Now the Director of the Neverwood Performing Arts Society, Dramitia lends her expertise to student productions only when asked. Each year, she directs a single original performance of her own — an event that is widely anticipated, lavishly produced, and notoriously expensive. Tickets are highly sought after, and proceeds go towards covering the considerable costs of her ambitious vision.
 
 # Connections
 

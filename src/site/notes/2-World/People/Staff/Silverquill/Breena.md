@@ -18,7 +18,11 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Breena is an owlin and a neutral good Silverquill professor of shadow, famed for her effortless charisma and the uncanny way she can bend situations to her will. Students and colleagues alike find themselves persuaded by her not only because of her words, but because they somehow believe it was their idea in the first place.
+
+Her speeches are a spectacle, enhanced with elegant swirls of ink magic that dance around her words, capturing attention and conveying nuance with visual flourish. Breena is an elite mage, capable of defending herself in combat, but she prefers to conquer conflicts with intellect and persuasion rather than violence.
+
+Her reputation for subtle influence is legendary. Once, when an Oriq agent attempted to coerce her under threat to her students, Breena convinced him to release them, abandon his schemes, and pursue wisdom under the archaics — all within an hour. Students studying under her quickly learn not only the mechanics of persuasion, but also the ethics of influence and the careful balance between charm and responsibility.
 
 # Connections
 

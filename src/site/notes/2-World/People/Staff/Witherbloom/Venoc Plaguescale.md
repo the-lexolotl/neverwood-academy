@@ -18,7 +18,11 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Venoc Plaguescale is a green dragonborn whose lifelong struggle with illness has shaped both his outlook and his research. Bitter, brilliant, and deeply resentful of the world, Venoc believes suffering is the natural state of existence — and sees little reason others should be spared it.
+
+As a professor of decay, Venoc specialises in the creation and study of virulent afflictions. He shows little interest in teaching unless a student demonstrates exceptional talent, and even then his praise is rare and cutting. His true reason for remaining at Neverwood is access: to materials, funding, and the freedom to pursue increasingly dangerous research.
+
+Venoc is openly hostile towards Professor Vargundil, whose work in cures and antidotes directly undermines his own. Their rivalry frequently spills over into student circles, with Venoc encouraging pupils to bring him rare components or intelligence on opposing research. While undeniably intelligent, Venoc’s ethics — or lack thereof — make him one of the most unsettling figures on campus.
 
 # Connections
 

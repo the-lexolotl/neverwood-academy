@@ -18,8 +18,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | File                                                                         | Race       | Gender     | Role                   |
 | ---------------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]   | Gnome      | Male       | Student                |
 | [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]   | Elf        | Male       | Student                |
+| [[2-World/People/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]   | Gnome      | Male       | Student                |
 | [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged  | Male       | Student                |
 | [[2-World/People/Students/1508/Larine Arneza\|Larine Arneza]]             | Human      | Female     | Student                |
 | [[2-World/People/Students/1508/Tilana Kapule\|Tilana Kapule]]             | Human      | Female     | Student                |
@@ -39,10 +39,9 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]                          | Elf        | Female     | College Dean           |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
-| [[2-World/People/Staff/Quandrix/Ronald Rothton\|Ronald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
-| [[2-World/People/Staff/Quandrix/Renald\|Renald]]                          | Reborn     | Male       | Professor of Theory    |
+| [[2-World/People/Staff/Quandrix/Renald Rothton\|Renald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Other/Professor Delta\|Professor Delta]]                 | Human      | Male       | Student                |
 
 { .block-language-dataview}

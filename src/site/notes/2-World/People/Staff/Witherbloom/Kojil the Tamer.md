@@ -18,7 +18,13 @@
 > College | Witherbloom |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Kojil is a firbolg whose connection to animals — living and dead — has been evident since childhood. Long before arriving at Neverwood, he demonstrated an uncanny ability to calm dangerous creatures and commune with lingering animal spirits. One such spirit, a small scurrid known as Tall Ear, has remained faithfully at his side ever since.
+
+Over the years, Kojil has been approached by rare beasts, dangerous predators, and wandering animal spirits alike, forming bonds that others would consider impossible. His talents eventually drew the attention of the Academy, and he was invited to study — and later teach — at Neverwood.
+
+Now a professor of growth, Kojil guides students through the difficult art of connecting with the natural world on an emotional and spiritual level. He teaches how to sense a creature’s thoughts, fears, and desires, and how to form respectful bonds rather than enforce control. His lessons extend beyond life, covering how animal spirits may still be called upon — and how to safely dismiss those that arrive unwillingly or uninvited.
+
+Gentle but firm, Kojil insists that respect for nature includes knowing when to let go.
 
 # Connections
 

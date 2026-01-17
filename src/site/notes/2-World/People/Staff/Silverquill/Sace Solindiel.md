@@ -18,7 +18,11 @@
 > College | Silverquill |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Sace Solindiel possesses a presence that naturally draws attention — a quality enhanced by her remarkable talent for enchantment magic. For much of her early life, she was unaware that this influence extended beyond charm and into subtle magical manipulation.
+
+The discovery was deeply unsettling. Realising that her words and manner might have bent the wills of those around her, Sace began to question the authenticity of every relationship she had known. Recognising both her power and her distress, a visiting scholar encouraged her to seek guidance at Neverwood Academy, where she could learn control rather than suppression.
+
+The name Solindiel translates loosely to Sweetbreeze, an image that suits her gentle and compassionate demeanour. Those versed in rare magical flora know the name also belongs to a dangerous plant that lulls creatures into a false sense of safety before ensnaring them — a comparison Sace herself does not shy away from. In her teaching, she places strong emphasis on consent, restraint, and ethical responsibility, guiding students to use enchantment magic for mediation, protection, and peacekeeping rather than coercion.
 
 # Connections
 
