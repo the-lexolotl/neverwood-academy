@@ -96,7 +96,7 @@
 
 |        |  Skill 1   | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :--------: | :------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Perception | Survival |   8    |   20   |    17    |    -     |  82%  |  1  |
+| Exam 1 | Perception | Survival |   8    |   20   |    17    |    -     | 92.5% |  2  |
 ## Final Grade
 
 | Homework | Labs | Exams |

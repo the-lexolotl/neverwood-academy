@@ -37,8 +37,8 @@ The following people are members of this group.
 
 | File                                                                           | Race         | Gender     | Role                    |
 | ------------------------------------------------------------------------------ | ------------ | ---------- | ----------------------- |
-| [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                          | Fire Genasi  | Other      | College Dean            |
 | [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]      | Air Genasi   | Female     | College Dean            |
+| [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                          | Fire Genasi  | Other      | College Dean            |
 | [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]      | Dragon       | Male       | Founder Dragon          |
 | [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]              | Human        | Male       | Professor of Expression |
 | [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]            | Eladrin      | Female     | Professor of Expression |

@@ -118,7 +118,7 @@
 |            |  Intimidation  |   Athletics   | Melee Attack  |     Arcana     |       |
 | **Term 3** |                |               | 8 \| 16 (20)  | 13 \| 19 (20)  |       |
 |            | Dexterity Save | Melee Attack  |   Athletics   |  Intimidation  |       |
-| **Term 4** |  8 \| 6 (20)   | 13 \| 17 (20) | 14 \| 25 (20) |                |       |
+| **Term 4** |  8 \| 6 (14)   | 13 \| 17 (20) | 14 \| 25 (20) |                |       |
 |            |  Melee Attack  | Intimidation  | Strength Save |   Athletics    |       |
 | **Term 5** |                |               |               |                |       |
 |            |  Performance   |   Athletics   | Intimidation  |  Melee Attack  |       |
@@ -133,5 +133,5 @@
 
 | Homework | Labs | Exams |
 | :------: | :--: | :---: |
-|   65%    | N/A  |  32%  |
+|   65%    | N/A  |  35%  |
 |          |      |       |

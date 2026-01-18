@@ -129,7 +129,7 @@
 
 |        |  Skill 1  |  Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-------: | :--------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Athletics | Acrobatics |   11   |   6    |    -     |    -     |  40%  |  -  |
+| Exam 1 | Athletics | Acrobatics |   11   |   6    |    -     |    -     | 42.5% |  -  |
 ## Final Grade
 
 | Homework | Labs | Exams |

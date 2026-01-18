@@ -35,7 +35,7 @@ The following people are members of this group.
 | ----------------------------------------------------------------------------------- | ---------- | ------ | ----------- |
 | [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin    | Female | Witherbloom |
 | [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                         | Dragonborn | Male   | Silverquill |
-| [[1-Party/Group 3/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]       | Minotaur   | Male   | \-          |
 | [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                      | Dragonborn | Female | Lorehold    |
+| [[1-Party/Group 3/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]       | Minotaur   | Male   | \-          |
 
 { .block-language-dataview}

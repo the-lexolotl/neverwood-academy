@@ -95,7 +95,7 @@
 
 |        | Skill 1  |  Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :------: | :--------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Medicine | Persuasion |   18   |   7    |    14    |    -     |  62%  |  1  |
+| Exam 1 | Medicine | Persuasion |   12   |   7    |    -     |    14    |  65%  |  1  |
 ## Final Grade
 
 | Homework | Labs | Exams |

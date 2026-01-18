@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** |               |                 |                 |                 |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** | 17 \| 19 (20) |                 |                 |                 |       |
+| **Term 4** | 17 \| 19 (20) |  13 \| 15 (20)  |   9 \| 7 (16)   |  21 \| 8 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -32,7 +32,7 @@
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   17   |   11   |    -     |    -     |  70%  |  1  |
-| **Exam 2** |    Nature     | Animal Handling |        |        |          |          |       |     |
+| **Exam 2** |    Nature     | Animal Handling |   23   |   9    |          |    20    | 100%  |  2  |
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
@@ -55,7 +55,7 @@
 |            |   Religion    | Investigation |  Performance  |    Insight    |       |
 | **Term 3** |               |               |               |               |       |
 |            |   Religion    |    History    |    Insight    | Investigation |       |
-| **Term 4** | 13 \| 10 (20) |               |               |               |       |
+| **Term 4** | 13 \| 10 (20) | 16 \| 6 (20)  | 17 \| 22 (20) |  3 \| 5 (8)   |       |
 |            |    Insight    |   Religion    |    History    |  Performance  |       |
 | **Term 5** |               |               |               |               |       |
 |            |    History    | Investigation |    Insight    |   Religion    |       |
@@ -87,7 +87,7 @@
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
 | **Term 3** |               |               |               |              |       |
 |            |  Persuasion   | Investigation |   Deception   |   History    |       |
-| **Term 4** | 19 \| 11 (20) |               |               |              |       |
+| **Term 4** | 19 \| 11 (20) | 20 \| 9 (20)  | 14 \| 11 (20) |  3 \| 2 (5)  |       |
 |            |   Deception   |   Religion    | Investigation |  Persuasion  |       |
 | **Term 5** |               |               |               |              |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
@@ -97,7 +97,7 @@
 
 |        |  Skill 1  |    Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-------: | :-----------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Deception | Investigation |   20   |   12   |    -     |    6     |  75%  |  1  |
+| Exam 1 | Deception | Investigation |   20   |   12   |    -     |    6     |  65%  |  1  |
 ## Final Grade
 
 | Homework | Labs | Exams |
@@ -119,7 +119,7 @@
 |            | Strength Save |  Perception   |    Arcana     |   Deception   |       |
 | **Term 3** |               |               |               |               |       |
 |            |  Perception   |   Athletics   |    Nature     |   Survival    |       |
-| **Term 4** | 18 \| 12 (20) |               |               |               |       |
+| **Term 4** | 18 \| 12 (20) | 10 \| 22 (20) | 6 \| 12 (18)  | 13 \| 15 (20) |       |
 |            |   Survival    |    Nature     |   Athletics   |  Perception   |       |
 | **Term 5** |               |               |               |               |       |
 |            |    Nature     |   Survival    | Strength Save |   Athletics   |       |

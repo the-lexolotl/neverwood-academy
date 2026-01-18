@@ -128,7 +128,7 @@
 
 |        | Skill 1 |  Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-----: | :--------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Nature  | Perception |   9    |   3    |    -     |    18    |  67%  |  1  |
+| Exam 1 | Nature  | Perception |   9    |   3    |    -     |    18    | 67.5% |  1  |
 ## Final Grade
 
 | Homework | Labs | Exams |

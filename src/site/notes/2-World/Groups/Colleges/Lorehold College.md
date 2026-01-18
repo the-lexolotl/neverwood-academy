@@ -40,8 +40,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human    | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                              | Orc      | Male       | College Dean       |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon   | Female     | Founder Dragon     |
-| [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf      | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                            | Loxodon  | Female     | Professor of Chaos |
+| [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf      | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                      | Halfling | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                          | Human    | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin    | Male       | Professor of Chaos |

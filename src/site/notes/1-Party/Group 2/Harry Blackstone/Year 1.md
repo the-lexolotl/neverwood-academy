@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** |  9 \| 8 (17)  |  14 \| 11(20)   |  12 \| 8 (20)   |  10 \| 19 (20)  |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** | 22 \| 16 (20) |  16 \| 11 (20)  |  12 \| 5 (17)   |                 |       |
+| **Term 4** | 22 \| 16 (20) |  16 \| 11 (20)  |  12 \| 5 (17)   |  20 \| 7 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -32,7 +32,7 @@
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   16   |   14   |    -     |    4     |  50%  |  -  |
-| **Exam 2** |    Nature     | Animal Handling |        |        |          |          |       |     |
+| **Exam 2** |    Nature     | Animal Handling |   19   |   21   |    -     |    -     | 97.5% |  2  |
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
@@ -55,7 +55,7 @@
 |            |        Nature        |      History      |    Investigation     |  Intelligence Save   |       |
 | **Term 3** |    18 \| 17 (20)     |   6 \| 20 (20)    |    21 \| 15 (20)     |    23 \| 17 (20)     |       |
 |            |  Intelligence Save   |      Arcana       | Intelligence Ability |        Nature        |       |
-| **Term 4** |    18 \| 21 (20)     |   8 \| 21 (20)    |    10 \| 20 (20)     |                      |       |
+| **Term 4** |    18 \| 21 (20)     |   8 \| 21 (20)    |    10 \| 20 (20)     |    19 \| 17 (20)     |       |
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
 | **Term 5** |                      |                   |                      |                      |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
@@ -86,7 +86,7 @@
 |            |    Nature     | Intelligence Ability |  Animal Handling  |  Investigation  |       |
 | **Term 3** | 23 \| 18 (20) |     14 \| 6 (20)     |   10 \| 22 (20)   |  11 \| 23 (20)  |       |
 |            |  Perception   |        Nature        | Intelligence Save |     Insight     |       |
-| **Term 4** | 16 \| 6 (20)  |    24 \| 19 (20)     |   10 \| 23 (20)   |                 |       |
+| **Term 4** | 16 \| 6 (20)  |    24 \| 19 (20)     |   10 \| 23 (20)   |  10 \| 8 (18)   |       |
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
 | **Term 5** |               |                      |                   |                 |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |
@@ -119,7 +119,7 @@
 |            | Intelligence Ability |        Arcana        |       Insight        |       Survival       |       |
 | **Term 3** |     2 \| 11 (13)     |    15 \| 24 (20)     |    25 \| 14 (20)     |    21 \| 12 (20)     |       |
 |            |        Arcana        | Constitution Ability |  Intelligence Save   |        Arcana        |       |
-| **Term 4** |     8 \| 5 (13)      |    14 \| 21 (20)     |     21 \| 17(20)     |                      |       |
+| **Term 4** |     8 \| 5 (13)      |    14 \| 21 (20)     |    21 \| 17 (20)     |      5 \| 4 (9)      |       |
 |            |       Insight        |        Arcana        | Intelligence Ability | Constitution Ability |       |
 | **Term 5** |                      |                      |                      |                      |       |
 |            |      Perception      |  Constitution Save   |        Arcana        |  Intelligence Save   |       |
