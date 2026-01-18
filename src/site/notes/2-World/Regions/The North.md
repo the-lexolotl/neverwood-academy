@@ -184,6 +184,7 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 
 | File                                                                             | Date Obtained | Status      |
 | -------------------------------------------------------------------------------- | ------------- | ----------- |
+| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]                         | 01 Nov, 2025  | Not Started |
 | [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] | 03 Jan, 2026  | In Progress |
 | [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | 24 Oct, 2025  | In Progress |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | 24 Oct, 2025  | In Progress |

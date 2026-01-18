@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** |               |                 |                 |                 |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** |               |                 |                 |                 |       |
+| **Term 4** |               |                 |                 |  20 \| 4 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -55,7 +55,7 @@
 |            | Religion | Investigation | Performance |    Insight    |       |
 | **Term 3** |          |               |             |               |       |
 |            | Religion |    History    |   Insight   | Investigation |       |
-| **Term 4** |          |               |             |               |       |
+| **Term 4** |          |               |             | 19 \| 22 (20) |       |
 |            | Insight  |   Religion    |   History   |  Performance  |       |
 | **Term 5** |          |               |             |               |       |
 |            | History  | Investigation |   Insight   |   Religion    |       |
@@ -80,20 +80,20 @@
 > - Various Tools
 
 ## Homework
-|            |    Week 1     |    Week 2     |    Week 3     |   Week 4   | Total |
-| :--------: | :-----------: | :-----------: | :-----------: | :--------: | :---: |
-| **Term 1** |               |               |               |            |       |
-|            | Investigation |     Tools     |    History    |   Tools    |       |
-| **Term 2** |               |               |               |            |       |
-|            | Investigation |   Religion    |    History    |   Arcana   |       |
-| **Term 3** |               |               |               |            |       |
-|            |  Persuasion   | Investigation |     Tools     |  History   |       |
-| **Term 4** |               |               |               |            |       |
-|            |     Tools     |   Religion    | Investigation | Persuasion |       |
-| **Term 5** |               |               |               |            |       |
-|            | Investigation |  Persuasion   |    History    |   Arcana   |       |
-| **Term 6** |               |               |               |            |       |
-|            |    History    |     Tools     | Investigation |   Tools    |       |
+|            |    Week 1     |    Week 2     |    Week 3     |    Week 4    | Total |
+| :--------: | :-----------: | :-----------: | :-----------: | :----------: | :---: |
+| **Term 1** |               |               |               |              |       |
+|            | Investigation |     Tools     |    History    |    Tools     |       |
+| **Term 2** |               |               |               |              |       |
+|            | Investigation |   Religion    |    History    |    Arcana    |       |
+| **Term 3** |               |               |               |              |       |
+|            |  Persuasion   | Investigation |     Tools     |   History    |       |
+| **Term 4** |               |               |               | 11 \| 6 (17) |       |
+|            |     Tools     |   Religion    | Investigation |  Persuasion  |       |
+| **Term 5** |               |               |               |              |       |
+|            | Investigation |  Persuasion   |    History    |    Arcana    |       |
+| **Term 6** |               |               |               |              |       |
+|            |    History    |     Tools     | Investigation |    Tools     |       |
 ## Exams
 
 |        | Skill 1 |    Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -120,7 +120,7 @@
 |            |    Survival     | Sleight of Hand |  Insight  |  Investigation  |       |
 | **Term 3** |                 |                 |           |                 |       |
 |            |     Insight     |    Athletics    |  History  | Sleight of Hand |       |
-| **Term 4** |                 |                 |           |                 |       |
+| **Term 4** |                 |                 |           |   2 \| 1 (3)    |       |
 |            | Sleight of Hand |     History     | Athletics |  Investigation  |       |
 | **Term 5** |                 |                 |           |                 |       |
 |            |     History     | Sleight of Hand | Survival  |    Athletics    |       |

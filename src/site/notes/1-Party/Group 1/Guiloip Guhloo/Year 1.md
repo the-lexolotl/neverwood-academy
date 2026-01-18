@@ -21,7 +21,7 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** | 11 \| 21 (20) |  4 \| 13 (17)   |  21 \| 10 (20)  |   5 \| 6 (11)   |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** | 18 \| 13 (20) |  6 \| 12 (18)   |  20 \| 13 (20)  |                 |       |
+| **Term 4** | 18 \| 13 (20) |  6 \| 12 (18)   |  20 \| 13 (20)  |  13 \| 20 (20)  |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |               |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
@@ -55,7 +55,7 @@
 |            |   Medicine    |   Deception   |    Nature     |    Arcana     |       |
 | **Term 3** | 22 \| 7 (20)  | 4 \| 11 (15)  | 23 \| 12 (20) | 24 \| 18 (20) |       |
 |            |  Perception   |    Insight    |    Nature     |   Medicine    |       |
-| **Term 4** | 20 \| 17 (20) | 24 \| 7 (20)  | 16 \| 7 (20)  |               |       |
+| **Term 4** | 20 \| 17 (20) | 24 \| 7 (20)  | 16 \| 7 (20)  | 19 \| 15 (20) |       |
 |            |    Arcana     |   Medicine    |   Deception   |   Survival    |       |
 | **Term 5** |               |               |               |               |       |
 |            |    Nature     |    Arcana     |   Medicine    |    Nature     |       |
@@ -86,7 +86,7 @@
 |            | Constitution Ability |   Spell Attack    |      Insight      |       Survival       |       |
 | **Term 3** |     7 \| 23 (20)     |   10 \| 19 (20)   |   11 \| 13 (20)   |     15 \| 6 (20)     |       |
 |            |       Insight        |   Alchemy Tools   | Constitution Save |        Arcana        |       |
-| **Term 4** |    20 \| 10 (20)     |   19 \| 17 (20)   |   16 \| 14 (20)   |                      |       |
+| **Term 4** |    20 \| 10 (20)     |   19 \| 17 (20)   |   16 \| 14 (20)   |     2 \| 15 (17)     |       |
 |            |     Spell Attack     | Constitution Save |      Nature       | Constitution Ability |       |
 | **Term 5** |                      |                   |                   |                      |       |
 |            |    Alchemy Tools     |   Spell Attack    |   Investigation   |  Constitution Save   |       |
@@ -119,7 +119,7 @@
 |            |  Persuasion   |    Insight    |  Performance  |    Nature     |       |
 | **Term 3** | 10 \| 7 (17)  | 10 \| 11 (20) | 19 \| 17 (20) | 7 \| 13 (20)  |       |
 |            |  Performance  |   Medicine    |    Nature     |  Persuasion   |       |
-| **Term 4** | 11 \| 11 (20) | 10 \| 3 (13)  | 18 \| 17 (20) |               |       |
+| **Term 4** | 11 \| 11 (20) | 10 \| 3 (13)  | 18 \| 17 (20) | 21 \| 24 (20) |       |
 |            |  Performance  |  Persuasion   |   Medicine    | Alchemy tools |       |
 | **Term 5** |               |               |               |               |       |
 |            |   Medicine    |    Insight    |  Performance  |   Medicine    |       |
