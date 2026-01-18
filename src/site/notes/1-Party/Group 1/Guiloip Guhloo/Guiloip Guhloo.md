@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cameron","Glue","Guiloip"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":2,"hp":11,"max_hp":11,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Buhuiop]]"],"companions":["[[Cynthia]]"],"subclass":null,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"30 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":13,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","dg-path":"Party/Group 1/Guiloip Guhloo/Guiloip Guhloo.md","permalink":"/party/group-1/guiloip-guhloo/guiloip-guhloo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Cameron","Glue","Guiloip"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","level":3,"hp":15,"max_hp":15,"ac":12,"modifier":1,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Druidic","Infernal"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Triton","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"char_role":"Player","Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cameron.png","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Buhuiop]]"],"companions":["[[Cynthia]]"],"subclass":["Circle of the Sea"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"30 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":13,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","dg-path":"Party/Group 1/Guiloip Guhloo/Guiloip Guhloo.md","permalink":"/party/group-1/guiloip-guhloo/guiloip-guhloo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -11,13 +11,13 @@
 > ---|---|---|---|
 > **Race** | Triton | **Gender** | Male |
 > **Class** | Druid | **Age** | Young Adult |
-> **Subclass** | None | **Languages** | Common,Common Sign Language,Druidic,Infernal |
-> **Level** | 2 | **College** | Witherbloom |
+> **Subclass** | Circle of the Sea | **Languages** | Common,Common Sign Language,Druidic,Infernal |
+> **Level** | 3 | **College** | Witherbloom |
 > **Status** | Alive | **Academic Year** | 1 |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 11 | **Passive Perception** | 13 |
+> **Max HP** | 15 | **Passive Perception** | 13 |
 > **AC** | 12 | **Passive Insight** | 13 |
 > **Initiative** | 1 | **Passive Investigation** | 12 |
 > **Proficiency** | 2 | **Darkvision** | 60 ft |
