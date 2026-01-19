@@ -18,7 +18,11 @@
 > College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Ricard Ruanad is a master of words and wealth. A former Silverquill academic, he long ago shifted his focus from teaching to something he finds far more rewarding: influence. Through shrewd deals, polished rhetoric, and an impeccable network of contacts, Ruanad has secured both his position and a growing personal fortune.
+
+He views the uacademy less as a place of learning and more as a collection of valuable assets waiting to be leveraged. Students, faculty, alumni—everyone has a price, and Ruanad prides himself on figuring out what it is. While he speaks often of discipline and tradition, his loyalty ultimately lies with power and profit.
+
+Polite, calculating, and utterly self-assured, Deputy Head Teacher Ruanad is a reminder that not all threats wear a villain’s face.
 
 # Connections
 

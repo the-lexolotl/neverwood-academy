@@ -25,11 +25,12 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                     | Human                  | Female     | Lorehold    | College Dean               |
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                     | Orc                    | Male       | Lorehold    | College Dean               |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]           | Dragon                 | Female     | Lorehold    | Founder Dragon             |
-| [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                 | Owlin                  | Male       | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                         | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | Giant                  | Male       | Lorehold    | Professor of Order         |
@@ -45,7 +46,6 @@ The following people are members of this group.
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                                              | Orc                    | Male       | None        | Coach                      |
 | [[2-World/People/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]                        | Owlin                  | Male       | None        | Dean of Admissions         |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                                | Human                  | Male       | None        | Deputy Head Teacher        |
-| [[2-World/People/Staff/Senestrine Darou\|Senestrine Darou]]                          | Tiefling               | Male       | None        | General Studies Professor  |
 | [[2-World/People/Staff/Quentis Orvlo\|Quentis Orvlo]]                                | Vedalken               | Male       | None        | General Studies Professor  |
 | [[2-World/People/Staff/Yedora\|Yedora]]                                              | Treant                 | Female     | None        | Grounds Keeper             |
 | [[2-World/People/Staff/Master Chef Gyome\|Master Chef Gyome]]                        | Troll                  | Male       | None        | Head Chef                  |
@@ -55,8 +55,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Pythia\|Pythia]]                                              | Human                  | Female     | None        | Oracle                     |
 | [[2-World/People/Staff/Zoei\|Zoei]]                                                  | Satyr                  | Female     | None        | Student Life Administrator |
 | [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]]                        | Dwarf                  | Female     | None        | Tavern Chef                |
-| [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                                   | Fire Genasi            | Other      | Prismari    | College Dean               |
+| [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
 | [[2-World/People/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
@@ -77,6 +77,7 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Renald Rothton\|Renald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]                 | Tiefling               | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                          | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]              | Owlin                  | Female     | Silverquill | College Dean               |
 | [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]        | Dragon                 | Male       | Silverquill | Founder Dragon             |

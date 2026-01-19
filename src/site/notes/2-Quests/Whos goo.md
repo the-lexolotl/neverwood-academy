@@ -40,11 +40,11 @@ The following people are associated with this quest.
 
 | File                                                                          | Race            | Gender | Role                  |
 | ----------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
-| [[2-World/People/Staff/Yedora\|Yedora]]                                    | Treant          | Female | Grounds Keeper        |
-| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin           | Female | Professor of Radiance |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                  | Half-Bullywug   | Male   | Alumni                |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]              | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                    | Halfling        | Female | Applicant             |
+| [[2-World/People/Staff/Yedora\|Yedora]]                                    | Treant          | Female | Grounds Keeper        |
+| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin           | Female | Professor of Radiance |
 | [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                               | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton          | Male   | Player                |
 | [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling        | Male   | Player                |
