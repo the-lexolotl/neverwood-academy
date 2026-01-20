@@ -3,13 +3,11 @@
 ---
 
 
-
-
 # Connections
 
-**Groups:** `= this.Connected_Groups`
+**Groups:** None
 
 **Quests:** [[2-Quests/Campus Daredevils.md|Campus Daredevils]]
 
 ---
-![Big heroes on campus!.png](/img/user/z_Assets/Big%20heroes%20on%20campus!.png)
+![Big heroes on campus!.png](/img/user/z_Assets/website/Big%20heroes%20on%20campus!.png)

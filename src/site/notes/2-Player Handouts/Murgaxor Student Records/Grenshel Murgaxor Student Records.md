@@ -7,6 +7,7 @@
 # Connections
 
 **Groups:** None
+
 **Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
 
 ---

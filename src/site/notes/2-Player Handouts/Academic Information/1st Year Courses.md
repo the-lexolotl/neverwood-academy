@@ -7,8 +7,9 @@
 
 # Connections
 
-**Groups:** None 
-**Quests:** None 
+**Groups:** None
+
+**Quests:** None
 
 ---
 # Compulsory Courses

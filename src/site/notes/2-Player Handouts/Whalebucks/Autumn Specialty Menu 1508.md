@@ -9,6 +9,7 @@
 # Connections
 
 **Groups:** [[2-World/Groups/Whalebucks Coffee Co..md|Whalebucks Coffee Co.]]
+
 **Quests:** None
 
 ---

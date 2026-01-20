@@ -6,6 +6,7 @@
 # Connections
 
 **Groups:** [[2-World/Groups/Extracurricular Club/Neverwood Times.md|Neverwood Times]]
+
 **Quests:** [[2-Quests/Whos goo\|Whos goo]]
 
 ---

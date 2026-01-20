@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Player Name:  Ross
-> ![Suraax Smith.png](/img/user/z_Assets/Suraax%20Smith.png)
+> ![z_Assets/character_art/Suraax Smith.png](/img/user/z_Assets/character_art/Suraax%20Smith.png)
 > ###### Basic Information
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
@@ -46,7 +46,7 @@
 | Other           |               |
 
 # Skills
-![Pasted image 20260108182243.png](/img/user/z_Assets/Pasted%20image%2020260108182243.png)
+![Pasted image 20260108182243.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020260108182243.png)
 
 ## Other Skills/Proficiencies 
 - Resistance against Lightning damage

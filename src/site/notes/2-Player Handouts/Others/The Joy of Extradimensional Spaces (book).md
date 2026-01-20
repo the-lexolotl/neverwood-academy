@@ -6,6 +6,7 @@
 # Connections
 
 **Groups:** None
+
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
 
 ---

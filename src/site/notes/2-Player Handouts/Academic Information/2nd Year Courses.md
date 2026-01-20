@@ -6,6 +6,7 @@
 # Connections
 
 **Groups:** [[2-World/Groups/Colleges/Lorehold College.md|Lorehold College]],[[2-World/Groups/Colleges/Prismari College.md|Prismari College]],[[2-World/Groups/Colleges/Quandrix College.md|Quandrix College]],[[2-World/Groups/Colleges/Silverquill College.md|Silverquill College]],[[2-World/Groups/Colleges/Witherbloom College.md|Witherbloom College]]
+
 **Quests:** None
 
 ---
