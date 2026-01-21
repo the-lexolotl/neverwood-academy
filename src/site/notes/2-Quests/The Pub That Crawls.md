@@ -32,6 +32,15 @@
 ### 🧠 Mind Over Malt
 
 
+## Quest Handouts
+| File                                                                                                                                         | Date Obtained |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Others/Neverwinter Pubs, Inns & Taverns\|Neverwinter Pubs, Inns & Taverns]]                                           | 01 Nov, 2025  |
+| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
+| [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  |
+
+{ .block-language-dataview}
+
 # Quest Details
 
 
@@ -51,15 +60,18 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 
 # Locations
 
-| File | Location | Type |
-| ---- | -------- | ---- |
+| File                                         | Location                                    | Type       |
+| -------------------------------------------- | ------------------------------------------- | ---------- |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]] | [[2-World/Regions/The North\|The North]] | City +1500 |
 
 { .block-language-dataview}
 # People
 
 The following people are associated with this quest.
-
-| File | Race | Gender | Role | Location |
-| ---- | ---- | ------ | ---- | -------- |
+| Character                                                               | Race     | Gender | Role                |
+| ----------------------------------------------------------------------- | -------- | ------ | ------------------- |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                | Human    | Male   | Deputy Head Teacher |
+| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling | Female | Professor of Theory |
+| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human    | Male   | Professor of Chaos  |
 
 { .block-language-dataview}

@@ -13,6 +13,13 @@
 - [x] ~~Decide the fate of the items found within the Archives.~~
 - [x] ~~Return to either Professor Sharpbeak or Ricard Ruanad.~~
 
+## Quest Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 
@@ -36,7 +43,7 @@ Vigilius must decide who — and what — he serves.
 
 The following people are associated with this quest.
 
-| File                                                                         | Race       | Gender | Role                  |
+| Character                                                                    | Race       | Gender | Role                  |
 | ---------------------------------------------------------------------------- | ---------- | ------ | --------------------- |
 | [[2-World/People/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]   | Reborn     | Female | Student               |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                     | Human      | Male   | Deputy Head Teacher   |

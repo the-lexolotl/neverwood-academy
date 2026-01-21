@@ -13,6 +13,13 @@
 - [x] ~~Choose how to perform at the final audition — expose, defy, or refuse~~
 - [ ] Uncover the truth behind the Everlight Trust’s connection to Silverquill
 
+## Quest Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 

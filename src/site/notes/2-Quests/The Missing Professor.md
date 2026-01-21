@@ -17,6 +17,14 @@
 - [x] ~~Investigate Professor Matreous's Death~~
 - [x] ~~Kill the Imp~~
 
+## Quest Handouts
+| File                                                                                                                 | Date Obtained |
+| -------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]]                                                | 09 Aug, 2025  |
+| [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]] | 09 Aug, 2025  |
+
+{ .block-language-dataview}
+
 # Quest Details
 
 
@@ -37,7 +45,7 @@ A Neverwood professor has been missing for a year now. He seemingly disappeared 
 
 The following people are associated with this quest.
 
-| File                                                                       | Race            | Gender | Role               |
+| Character                                                                  | Race            | Gender | Role               |
 | -------------------------------------------------------------------------- | --------------- | ------ | ------------------ |
 | [[2-World/People/Other/Coriander\|Coriander]]                           | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Cumin\|Cumin]]                                   | Homunculi       | Other  | Butler             |

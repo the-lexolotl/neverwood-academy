@@ -47,6 +47,15 @@
 	- [x] ~~Restore the Star beneath the great oak~~ 
 	- [x] ~~Celebrate as heroes (and face detention)~~
 
+## Quest Handouts
+| File                                                             | Date Obtained |
+| ---------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXX\|Volume XXX]]  | 01 Nov, 2025  |
+| [[2-Player Handouts/Others/Hunters Journal\|Hunters Journal]] | 08 Nov, 2025  |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 
@@ -68,7 +77,7 @@ The party must recover the Star before the Wintergeist grows too strong. Failure
 
 The following people are associated with this quest.
 
-| File                                                                                | Race            | Gender | Role                |
+| Character                                                                           | Race            | Gender | Role                |
 | ----------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
 | [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                          | Dryad           | Male   | Student             |
 | [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]      | Owlin           | Female | Student             |

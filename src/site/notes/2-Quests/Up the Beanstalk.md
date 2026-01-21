@@ -37,6 +37,14 @@
 - [ ] Witness the Sky-King regain lucidity
 - [ ] Receive a wish as a reward
 
+## Quest Handouts
+| File                                                                  | Date Obtained |
+| --------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXXIII\|Volume XXXIII]] | 03 Jan, 2026  |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 
@@ -58,7 +66,7 @@ Head Teacher [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]] demands
 # People
 
 The following people are associated with this quest.
-| File                                                                                | Race            | Gender | Role         |
+| Character                                                                           | Race            | Gender | Role         |
 | ----------------------------------------------------------------------------------- | --------------- | ------ | ------------ |
 | [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                          | Giant           | Male   | Other        |
 | [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                        | Giant           | Female | Other        |

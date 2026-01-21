@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","Connected_Quests":["[[2-Quests/Campus Daredevils\|Campus Daredevils]]"],"Connected_Groups":null,"handout-cat":"Note","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Player Handouts/Others/Crumpled Paper.md","permalink":"/player-handouts/others/crumpled-paper/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","Connected_Quests":["[[2-Quests/Campus Daredevils\|Campus Daredevils]]"],"Connected_Groups":null,"handout-cat":"Note","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-10","dg-path":"Player Handouts/Others/Crumpled Paper.md","permalink":"/player-handouts/others/crumpled-paper/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -10,4 +10,4 @@
 **Quests:** [[2-Quests/Campus Daredevils.md|Campus Daredevils]]
 
 ---
-![Big heroes on campus!.png](/img/user/z_Assets/website/Big%20heroes%20on%20campus!.png)
+![Big heroes on campus!.png](/img/user/z_Assets/website/Big%20heroes%20on%20campus!.png)©lexsdungeon

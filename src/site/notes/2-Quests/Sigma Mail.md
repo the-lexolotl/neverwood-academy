@@ -37,6 +37,12 @@
 ### Moral Choice and Consequences
 - [ ] Decide whether to follow instructions faithfully, alter the spells, or refuse the task.
 
+## Quest Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 # Quest Details
 
 

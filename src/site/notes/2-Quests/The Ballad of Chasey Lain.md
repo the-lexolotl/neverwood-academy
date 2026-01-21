@@ -43,6 +43,13 @@
 ### Resolution
 - [x] ~~Report back to Jimmy~~
 
+## Quest Handouts
+| File                                                                                 | Date Obtained |
+| ------------------------------------------------------------------------------------ | ------------- |
+| [[2-Player Handouts/Academy Events/Winter Solstice Dance\|Winter Solstice Dance]] | 11 Oct, 2025  |
+
+{ .block-language-dataview}
+
 # Quest Details
 
 

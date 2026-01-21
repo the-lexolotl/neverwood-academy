@@ -19,6 +19,17 @@
 - [x] ~~Investigate the frozen steam mephit~~ 
 - [ ] Investigate the goo found on the pot
 
+## Quest Handouts
+| File                                                                                                                   | Date Obtained |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                                    | 26 Jul, 2025  |
+| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  |
+| [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
+| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 
@@ -38,7 +49,7 @@ Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood
 
 The following people are associated with this quest.
 
-| File                                                                          | Race            | Gender | Role                  |
+| Character                                                                     | Race            | Gender | Role                  |
 | ----------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
 | [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                  | Half-Bullywug   | Male   | Alumni                |
 | [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]              | Bullywug        | Male   | Alumni                |
@@ -55,3 +66,4 @@ The following people are associated with this quest.
 | [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]          | Variant Aasimar | Female | Player                |
 
 { .block-language-dataview}
+

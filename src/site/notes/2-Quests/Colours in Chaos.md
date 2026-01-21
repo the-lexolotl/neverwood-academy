@@ -12,6 +12,13 @@
 - [ ] Uncover or suppress the truth behind the sabotage.
 - [ ] Evolve H’er’s sorcery through her artistic awakening.
 
+## Quest Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 

@@ -11,6 +11,13 @@
 - [x] ~~Free the chest from its viney captor~~
 - [x] ~~Return the items to [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]~~
 
+## Quest Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
+
 # Quest Details
 
 
