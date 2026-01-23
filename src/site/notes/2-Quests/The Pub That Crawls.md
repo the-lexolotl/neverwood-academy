@@ -71,7 +71,7 @@ The following people are associated with this quest.
 | Character                                                               | Race     | Gender | Role                |
 | ----------------------------------------------------------------------- | -------- | ------ | ------------------- |
 | [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                | Human    | Male   | Deputy Head Teacher |
-| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling | Female | Professor of Theory |
 | [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human    | Male   | Professor of Chaos  |
+| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling | Female | Professor of Theory |
 
 { .block-language-dataview}

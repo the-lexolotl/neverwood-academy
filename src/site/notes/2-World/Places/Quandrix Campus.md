@@ -30,7 +30,6 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Students/1507/Ronald Caskbow\|Ronald Caskbow]]           | Half-Elf   | Male       | Student                |
 | [[2-World/People/Students/1507/Rowan Montagu\|Rowan Montagu]]             | Orc        | Male       | Student                |
 | [[2-World/People/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku      | Non-binary | Student                |
-| [[2-World/People/Other/Professor Delta\|Professor Delta]]                 | Human      | Male       | Student                |
 | [[2-World/People/Staff/Quandrix/Adrix\|Adrix]]                            | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |
@@ -44,6 +43,7 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]      | Tiefling   | Female     | Professor of Theory    |
+| [[2-World/People/Other/Professor Delta\|Professor Delta]]                 | Human      | Male       | Student                |
 
 { .block-language-dataview}
 
