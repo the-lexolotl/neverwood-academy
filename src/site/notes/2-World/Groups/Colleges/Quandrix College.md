@@ -48,8 +48,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
-| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Renald Rothton\|Renald Rothton]]          | Human      | Male       | Professor of Theory    |
+| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]      | Tiefling   | Female     | Professor of Theory    |
 | [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |
 | [[2-World/People/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]     | Minotaur   | Male       | Student                |

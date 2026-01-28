@@ -31,8 +31,8 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                 | Orc           | Male       | Student             |
 | [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                 | Gorgon        | Female     | Student             |
 | [[2-World/People/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]               | Elf           | Female     | Professor of Growth |
-| [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]               | Firbolg       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]     | Dragon        | Female     | Founder Dragon      |
+| [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]               | Firbolg       | Male       | Professor of Growth |
 | [[2-World/People/Staff/Witherbloom/Lissette\|Lissette]]                             | Human         | Female     | College Dean        |
 | [[2-World/People/Staff/Witherbloom/Serafina Onyx\|Serafina Onyx]]                   | Human         | Female     | Professor of Decay  |
 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                   | Human         | Male       | Veteran             |

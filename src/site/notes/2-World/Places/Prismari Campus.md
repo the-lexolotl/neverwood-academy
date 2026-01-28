@@ -37,8 +37,8 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 | [[2-World/People/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                                        | Eladrin      | Female     | Professor of Expression |
 | [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                                                      | Fire Genasi  | Other      | College Dean            |
 | [[2-World/People/Staff/Prismari/Rock\|Rock]]                                                            | Earth Genasi | Male       | Professor of Expression |
-| [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                  | Air Genasi   | Female     | College Dean            |
 | [[2-World/People/Staff/Prismari/Veyran\|Veyran]]                                                        | Water Genasi | Female     | Professor of Perfection |
+| [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                  | Air Genasi   | Female     | College Dean            |
 | [[2-World/People/Staff/Prismari/Zaffai\|Zaffai]]                                                        | Human        | Male       | Professor of Expression |
 | [[2-World/People/Staff/Prismari/Zaph\|Zaph]]                                                            | Air Genasi   | FtM        | Professor of Perfection |
 

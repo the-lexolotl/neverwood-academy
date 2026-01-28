@@ -41,7 +41,7 @@ A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage 
 
 * Vith is soon greeted by [[2-World/People/Staff/Zoei\|Zoei]], a cheerful Satyr and the Student Life Administrator.  
 * She gives him a tour of the [[2-World/Places/Central Campus\|Central Campus]], explaining the use of the Campus Guide automatons.  
-* They stop at the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]], where she points out the student shop and the [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks]] café, before giving him some time to explore on his own.  
+* They stop at the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]], where she points out the student shop and the [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks]] café, before giving him some time to explore on his own.  
 * Vith visits the Hall of Oracle, where the glowing Snarl greets him and wishes him luck in his studies.  
 * When they reunite, Zoei gives Vith a brass dorm key, explains how the campus teleporter works, and escorts him to his room before departing.
 

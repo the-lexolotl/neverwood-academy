@@ -38,8 +38,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Kianne\|Kianne]]                          | Elf        | Female     | College Dean           |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
-| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Renald Rothton\|Renald Rothton]]          | Human      | Male       | Professor of Theory    |
+| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]      | Tiefling   | Female     | Professor of Theory    |

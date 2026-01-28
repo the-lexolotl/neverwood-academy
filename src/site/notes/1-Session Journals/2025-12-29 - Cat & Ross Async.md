@@ -34,7 +34,7 @@ A lingering heat, a curious fog, and a vault older than the academy itself set t
 
 ### Preparing for the Vault
 * Harry vents his frustration in his room before heading toward the Creature Vault, aware of the unique root-key grown by the groundskeeper to access its contents.
-* Marionette stops at [[2-World/Groups/Whalebucks Coffee Co.\|Whalebucks]], drinks a healing potion, and reflects on her burned hands and the lingering aches. She recalls accompanying the groundskeeper to the vault previously, understanding that all entries and interactions are meticulously logged.
+* Marionette stops at [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks]], drinks a healing potion, and reflects on her burned hands and the lingering aches. She recalls accompanying the groundskeeper to the vault previously, understanding that all entries and interactions are meticulously logged.
 * Both students set off for the [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]], stepping into fog and moss that clings to the ground, softening their steps as the vault’s entrance looms in the mist.
 
 ### Approaching the Detention Bog
