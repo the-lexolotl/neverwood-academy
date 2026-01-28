@@ -120,9 +120,9 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 # Relationships
 **Pets:** [[1-Party/Group 2/Harry Blackstone/Socks\|Socks]]
-**Grandparents:** [[Reynard Blackstone\|Reynard Blackstone]]
+**Grandparents:** [[2-World/People/Other/Reynard Blackstone\|Reynard Blackstone]]
 **Parents** - None/Unknown
-**Siblings** - [[Adalynn Blackstone\|Adalynn Blackstone]]
+**Siblings** - [[2-World/People/Other/Adalynn Blackstone\|Adalynn Blackstone]]
 **Partner** - None/Unknown
 **Children** - None/Unknown
 **Allies** - [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
