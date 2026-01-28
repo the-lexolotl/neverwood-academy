@@ -47,9 +47,9 @@ The following people are members of this group.
 | [[2-World/People/Staff/Prismari/Ahkwa\|Ahkwa]]                              | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Prismari/Veyran\|Veyran]]                            | Water Genasi | Female     | Professor of Perfection |
 | [[2-World/People/Staff/Prismari/Zaph\|Zaph]]                                | Air Genasi   | FtM        | Professor of Perfection |
-| [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                 | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]] | Orc          | Non-binary | Student                 |
 | [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Triton       | Male       | Student                 |
+| [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                 | Aasimar      | Male       | Student                 |
 | [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon      | Female     | Student                 |
 | [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                   | Human        | Female     | Student                 |
 | [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]         | Fire Genasi  | Male       | Student                 |

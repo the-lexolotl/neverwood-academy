@@ -1,22 +1,18 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Planets/Toril.md|Toril]]","MyCategory":"Franchise","image":"Whalebucks.png","obsidianUIMode":"preview","leader":["Borlen Whalewake"],"officers":["Deryn Whalewake","Merrick Whalewake"],"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-show-backlinks":true,"dg-path":"World/Businesses/Whalebucks Coffee Co..md","permalink":"/world/businesses/whalebucks-coffee-co/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Coffee Franchise","image":"New Whalebucks Logo.png","obsidianUIMode":"preview","leader":"[[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]]","Founders":["[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]","[[Borlen Whalewake]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-show-backlinks":true,"dg-path":"World/Businesses/Whalebucks Coffee Co..md","permalink":"/world/businesses/whalebucks-coffee-co/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
-
-
-
-
 
 
 ![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png) ![New Whalebucks Logo BW.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo%20BW.png)
 # General
 
 
-**Locations:** [[2-World/Planets/Toril\|Toril]]
-**Category:** Franchise
+**Locations:** [[2-World/Planets/Toril.md|Toril]]
+**Category:** Coffee Franchise
 
 # History
 ## Founding & Early History (pre-1215 DR)
-In the early 13th century DR, two half-seafolk brothers — [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] and [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]—operated a modest bait-and-tackle shop aboard their sea-skiff, *The Whalebuck’s Folly*. Sailing the coasts of [[2-World/Continents/Faerûn\|Faerûn]], they peddled lures, nets, and (when no one was looking) the occasional bit of stolen treasure to fellow sailors and dockside wanderers.
+In the early 13th century DR, two half-seafolk brothers — [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] and [[Deryn Whalewake]]—operated a modest bait-and-tackle shop aboard their sea-skiff, *The Whalebuck’s Folly*. Sailing the coasts of [[2-World/Continents/Faerûn\|Faerûn]], they peddled lures, nets, and (when no one was looking) the occasional bit of stolen treasure to fellow sailors and dockside wanderers.
 
 As a mark of hospitality, they gave out small tin mugs of dark, invigorating coffee—an exotic brew they had begun trading for with southern Faerûnian merchants. Sailors grew to love the drink almost as much as the gear, and word of *“the coffee boat”* spread from port to port.
 
@@ -39,26 +35,24 @@ By 2024 DR, Whalebucks had become the largest coffee franchise in the multiverse
 
 ## Legacy
 
-The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
+The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
 
 # Hierarchy
-
-
-**Founders:** [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]], [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]
+**Founders:** [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]],[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]
 **Current CEO:** [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]]
+**Staff:** Unknown
+**Apprentices:** Unknown
+**Primary Contact:** Unknown
 
 
 
 # People
-
-The following people are members of this group.  
-
-
+The following people are associated with this business.  
 | File                                                                        | Gender | Race  | Role         | College |
 | --------------------------------------------------------------------------- | ------ | ----- | ------------ | ------- |
+| [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] | Male   | Human | Cafe Manager | None    |
-| [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
 
 { .block-language-dataview}
 
@@ -208,4 +202,3 @@ A creamy blend of peach, mango, and coconut milk with a hint of vanilla. Sweet, 
 Flaky pastries filled with almond cream and sprinkled with edible flowers. Elegant and indulgent.
 ##### Spring Garden Tartlets
 Mini tarts with goat cheese, asparagus, and cherry tomatoes. Savoury, fresh, and seasonally vibrant.
-

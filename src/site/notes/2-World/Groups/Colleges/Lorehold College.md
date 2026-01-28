@@ -37,8 +37,8 @@ The following people are members of this group.
 
 | File                                                                                             | Race     | Gender     | Role               |
 | ------------------------------------------------------------------------------------------------ | -------- | ---------- | ------------------ |
-| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human    | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                              | Orc      | Male       | College Dean       |
+| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human    | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon   | Female     | Founder Dragon     |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf      | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                            | Loxodon  | Female     | Professor of Chaos |
@@ -46,10 +46,10 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                          | Human    | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin    | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                  | Human    | Male       | Professor of Chaos |
-| [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling | Female     | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf    | Male       | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]          | Giant    | Male       | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin    | Female     | Professor of Order |
+| [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling | Female     | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome    | Female     | Professor of Order |
 | [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg  | Female     | Student            |
 | [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome    | Male       | Student            |

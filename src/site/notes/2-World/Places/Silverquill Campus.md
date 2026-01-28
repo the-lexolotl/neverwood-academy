@@ -18,11 +18,6 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 
 | File                                                                             | Race       | Gender     | Role                  |
 | -------------------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
-| [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]         | Human      | Male       | Student               |
-| [[2-World/People/Students/1508/Kealen Starfury\|Kealen Starfury]]             | Elf        | Male       | Student               |
-| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]           | Shadar-Kai | Male       | Student               |
-| [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]       | Human      | Female     | Student               |
-| [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]   | Owlin      | Female     | Student               |
 | [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
@@ -30,6 +25,11 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 | [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
 | [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]         | Orc        | Female     | Student               |
 | [[2-World/People/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]         | Changling  | Non-binary | Student               |
+| [[2-World/People/Students/1508/Kealen Starfury\|Kealen Starfury]]             | Elf        | Male       | Student               |
+| [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]         | Human      | Male       | Student               |
+| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]           | Shadar-Kai | Male       | Student               |
+| [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]       | Human      | Female     | Student               |
+| [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]   | Owlin      | Female     | Student               |
 | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
 | [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
 | [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
@@ -45,8 +45,8 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 | [[2-World/People/Staff/Silverquill/Nils\|Nils]]                               | Human      | Male       | Professor of Radiance |
 | [[2-World/People/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]           | Half-Elf   | Female     | Professor of Radiance |
 | [[2-World/People/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]] | Dragon     | Male       | Founder Dragon        |
-| [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]       | Owlin      | Female     | College Dean          |
 | [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                 | Kenku      | Non-binary | Professor of Radiance |
+| [[2-World/People/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]       | Owlin      | Female     | College Dean          |
 
 { .block-language-dataview}
 

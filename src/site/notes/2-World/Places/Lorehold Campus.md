@@ -18,11 +18,6 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 
 | File                                                                                             | Race        | Gender     | Role               |
 | ------------------------------------------------------------------------------------------------ | ----------- | ---------- | ------------------ |
-| [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                               | Loxodon     | Male       | Student            |
-| [[2-World/People/Students/1508/Calla Fernbrook\|Calla Fernbrook]]                             | Satyr       | Female     | Student            |
-| [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]                                   | Dwarf       | Female     | Student            |
-| [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]         | Gnome       | Female     | Student            |
-| [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                         | Half-Orc    | Male       | Student            |
 | [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg     | Female     | Student            |
 | [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome       | Male       | Student            |
 | [[2-World/People/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human       | Female     | Student            |
@@ -31,8 +26,11 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |
 | [[2-World/People/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg     | Non-binary | Student            |
 | [[2-World/People/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin      | Female     | Student            |
-| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
-| [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling    | Female     | Professor of Order |
+| [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                               | Loxodon     | Male       | Student            |
+| [[2-World/People/Students/1508/Calla Fernbrook\|Calla Fernbrook]]                             | Satyr       | Female     | Student            |
+| [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]                                   | Dwarf       | Female     | Student            |
+| [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]         | Gnome       | Female     | Student            |
+| [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                         | Half-Orc    | Male       | Student            |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf       | Male       | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf         | Female     | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                            | Loxodon     | Female     | Professor of Chaos |
@@ -44,6 +42,8 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin       | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon      | Female     | Founder Dragon     |
+| [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling    | Female     | Professor of Order |
+| [[2-World/People/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
 | [[2-World/People/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome       | Female     | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                  | Human       | Male       | Professor of Chaos |
 
