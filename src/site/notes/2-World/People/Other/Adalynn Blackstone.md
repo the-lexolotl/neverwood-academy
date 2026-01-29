@@ -8,17 +8,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Adalynn Blackstone
+> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Female |
+> Age | Young Adult |
+> Location | [[[[2-World/Hubs/Gillian’s Hill.md\|Gillian’s Hill]]]] |
+> Role | Other |
+> College | None |
 
 # Biography
 *This NPC is awaiting a biography. Fancy writing one?*
