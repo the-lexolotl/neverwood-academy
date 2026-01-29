@@ -440,3 +440,16 @@ input[type="checkbox"]:checked::after {
     width: auto; /* Columns will divide evenly */
     text-align: center; /* Optional: center text in cells */
 }
+
+/* Diagnostic - remove after testing */
+body {
+    outline: 2px solid red !important;
+}
+
+.homepage {
+    outline: 2px solid green !important;
+}
+
+[data-note-icon] {
+    outline: 2px solid blue !important;
+}
