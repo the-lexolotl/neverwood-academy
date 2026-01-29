@@ -415,14 +415,14 @@ input[type="checkbox"]:checked::after {
     content: "";
     display: block;
     width: 100%;
-    height: auto;
+    height: 700px;
     aspect-ratio: 1700/1250;
     background-image: url('/img/user/z_Assets/website/Banner.webp');
     background-size: cover;
     background-position: center bottom;
     background-repeat: no-repeat;
-    margin-bottom: -80px;
-    border-radius: 12px;
+    margin-bottom: -160px;
+    border-radius: 0px;
 }
 
 /* Center h1 and h3 on homepage only */
