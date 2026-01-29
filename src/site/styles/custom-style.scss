@@ -410,12 +410,20 @@ input[type="checkbox"]:checked::after {
    HOMEPAGE-SPECIFIC STYLES 
 ============================== */
 
+/* Remove top margin on content for homepage */
+.homepage.content,
+body:has(.homepage) .content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
 /* Add banner image at top of homepage */
 .homepage::before {
     content: "";
     display: block;
     width: 100vw;
     margin-left: calc(-50vw + 50%);
+    margin-top: 0;
     height: 700px;
     aspect-ratio: 1700/1250;
     background-image: url('/img/user/z_Assets/website/Banner.webp');
