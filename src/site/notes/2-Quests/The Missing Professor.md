@@ -33,7 +33,7 @@
 | Status:           | Complete                                                      |
 | Quest Giver:      |                                                               |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                         |
-| Session Obtained: | [[1-Session Journals/2025-08-09 - Session 5\|Session 5 - The Missing Professor]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-09 - Session 5\|Session 5 - The Missing Professor]] |
 | Acquired Loot:    | [[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]                               |
 
 # Backstory

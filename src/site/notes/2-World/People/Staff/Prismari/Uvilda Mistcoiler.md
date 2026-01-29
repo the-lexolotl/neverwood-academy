@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Uvilda.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Uvilda Mistcoiler","Dean Mistcoiler"],"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"Female","char_role":"College Dean","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Prismari/Uvilda Mistcoiler.md","permalink":"/world/people/staff/prismari/uvilda-mistcoiler/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus\|Prismari Campus]]"],"MyCategory":null,"image":"Uvilda.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Uvilda Mistcoiler","Dean Mistcoiler"],"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"Female","char_role":"College Dean","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Prismari/Uvilda Mistcoiler.md","permalink":"/world/people/staff/prismari/uvilda-mistcoiler/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Air Genasi |
 > Gender | Female |
 > Age | Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Places/Prismari Campus.md|Prismari Campus]] |
 > Role | College Dean |
 > College | Prismari |
 

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Tiefling","char_gender":"Female","char_role":"Professor of Theory","char_college":"Quandrix","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Quandrix/Senestrine Darou.md","permalink":"/world/people/staff/quandrix/senestrine-darou/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]","[[2-World/Places/Quandrix Campus\|Quandrix Campus]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Tiefling","char_gender":"Female","char_role":"Professor of Theory","char_college":"Quandrix","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Quandrix/Senestrine Darou.md","permalink":"/world/people/staff/quandrix/senestrine-darou/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Tiefling |
 > Gender | Female |
 > Age | Young Adult |
-> Location | [[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]] |
+> Location | [[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]],[[2-World/Places/Quandrix Campus.md|Quandrix Campus]] |
 > Role | Professor of Theory |
 > College | Quandrix |
 

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Silverquill Campus\|Silverquill Campus]]"],"MyCategory":null,"image":"Mavinda29.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Professor Sharpbeak"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Whos goo|Whos goo]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Mavinda Sharpbeak.md","permalink":"/world/people/staff/silverquill/mavinda-sharpbeak/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Owlin |
 > Gender | Female |
 > Age | Young Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Places/Silverquill Campus.md|Silverquill Campus]] |
 > Role | Professor of Radiance |
 > College | Silverquill |
 

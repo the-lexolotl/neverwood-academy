@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Kenku","char_gender":"Non-binary","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Smart Mouth.md","permalink":"/world/people/staff/silverquill/smart-mouth/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Silverquill Campus\|Silverquill Campus]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Kenku","char_gender":"Non-binary","char_role":"Professor of Radiance","char_college":"Silverquill","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Smart Mouth.md","permalink":"/world/people/staff/silverquill/smart-mouth/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Kenku |
 > Gender | Non-binary |
 > Age | Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Places/Silverquill Campus.md|Silverquill Campus]] |
 > Role | Professor of Radiance |
 > College | Silverquill |
 

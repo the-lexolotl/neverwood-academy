@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Points of Interest/Neverwood Academy/Widdershins Hall.md|Widdershins Hall]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-15","questStatus":"Complete","questGiver":"[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[1-Session Journals/2025-10-15 - Kristy Async.md|2025-10-15 - Kristy Async]]","questLootAvail":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Price of Integrity.md","permalink":"/quests/the-price-of-integrity/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Points of Interest/Neverwood Academy/Widdershins Hall.md|Widdershins Hall]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-15","questStatus":"Complete","questGiver":"[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-15 - Kristy Async|2025-10-15 - Kristy Async]]","questLootAvail":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Price of Integrity.md","permalink":"/quests/the-price-of-integrity/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -28,7 +28,7 @@
 | Status:           | Complete                                                                |
 | Quest Giver:      | [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                                                   |
 | Quest Locations:  | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]     |
-| Session Obtained: | [[1-Session Journals/2025-10-15 - Kristy Async\|Kristy Async - Administrative Misconduct]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-15 - Kristy Async\|Kristy Async - Administrative Misconduct]] |
 | Acquired Loot:    | Silver Ink Charm                                                        |
 # Backstory
 

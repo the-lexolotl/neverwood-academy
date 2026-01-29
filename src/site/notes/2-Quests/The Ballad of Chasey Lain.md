@@ -58,7 +58,7 @@
 | Status:           | In Progress                                                       |
 | Quest Giver:      | [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                                                    |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                             |
-| Session Obtained: | [[1-Session Journals/2025-10-11 - Session 14\|Session 14 - The Birds and the Bards]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-11 - Session 14\|Session 14 - The Birds and the Bards]] |
 | Acquired Loot:    |                                                                   |
 # Backstory
 

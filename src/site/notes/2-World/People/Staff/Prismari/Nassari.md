@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Nassari.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Nassari"],"NoteStatus":"❓","char_status":"Alive","char_race":"Fire Genasi","char_gender":"Other","char_role":"College Dean","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Prismari/Nassari.md","permalink":"/world/people/staff/prismari/nassari/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus\|Prismari Campus]]"],"MyCategory":null,"image":"Nassari.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Nassari"],"NoteStatus":"❓","char_status":"Alive","char_race":"Fire Genasi","char_gender":"Other","char_role":"College Dean","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Prismari/Nassari.md","permalink":"/world/people/staff/prismari/nassari/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Fire Genasi |
 > Gender | Other |
 > Age | Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Places/Prismari Campus.md|Prismari Campus]] |
 > Role | College Dean |
 > College | Prismari |
 

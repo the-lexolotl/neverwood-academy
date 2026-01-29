@@ -38,7 +38,7 @@
 | Status:           | In Progress                                             |
 | Quest Giver:      |                                                         |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                   |
-| Session Obtained: | [[1-Session Journals/2025-07-12 - Session 1\|Session 1 - Orientation Day]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-07-12 - Session 1\|Session 1 - Orientation Day]] |
 | Acquired Loot:    |                                                         |
 # Backstory
 

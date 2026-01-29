@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[2-World/People/Other/Professor Delta.md|Professor Delta]]","questLocationObtained":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","questSessionObtained":"[[1-Session Journals/2025-10-24 - Ross Async.md|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Sigma Mail.md","permalink":"/quests/sigma-mail/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[2-World/People/Other/Professor Delta.md|Professor Delta]]","questLocationObtained":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","questSessionObtained":"[[2025-10-24 - Ross Async|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Sigma Mail.md","permalink":"/quests/sigma-mail/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -51,7 +51,7 @@
 | Status:           | In Progress                                          |
 | Quest Giver:      | [[2-World/People/Other/Professor Delta\|"Professor Delta"]]               |
 | Quest Location:   | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                  |
-| Session Obtained: | [[1-Session Journals/2025-10-24 - Ross Async\|Ross Async - Sigma Mail]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Ross Async\|Ross Async - Sigma Mail]] |
 | Acquired Loot:    |                                                      |
 # Backstory
 

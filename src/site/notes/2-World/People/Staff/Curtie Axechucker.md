@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Chef Curtie Axechucker.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Tavern Chef","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Curtie Axechucker.md","permalink":"/world/people/staff/curtie-axechucker/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[Bow's End Tavern]]"],"MyCategory":null,"image":"Chef Curtie Axechucker.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Tavern Chef","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Curtie Axechucker.md","permalink":"/world/people/staff/curtie-axechucker/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Dwarf |
 > Gender | Female |
 > Age | Elder |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] |
 > Role | Tavern Chef |
 > College | None |
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-23","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","questSessionObtained":"[[1-Session Journals/2025-10-23 - Rain Async.md|2025-10-23 - Rain Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Colours in Chaos.md","permalink":"/quests/colours-in-chaos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-23","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","questSessionObtained":"[[2025-10-23 - Rain Async|2025-10-23 - Rain Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Colours in Chaos.md","permalink":"/quests/colours-in-chaos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -27,7 +27,7 @@
 | Status:           | In Progress                                                |
 | Quest Giver:      |                                                            |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Prismari Campus\|Prismari Campus]]                 |
-| Session Obtained: | [[1-Session Journals/2025-10-23 - Rain Async\|Rain Async - Colours in Chaos]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-23 - Rain Async\|Rain Async - Colours in Chaos]] |
 | Acquired Loot:    |                                                            |
 # Backstory
 The [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] hosts its annual exhibition — a dazzling showcase where students infuse raw magic into living art. As the halls bloom with sound and colour, [[1-Party/Group 2/H'er/H'er\|H'er's]] work stands among the most captivating pieces: a prismatic construct that responds to her emotions.

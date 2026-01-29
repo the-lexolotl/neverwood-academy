@@ -11,7 +11,7 @@
 
 **Category:** Group Cup
 
-**Current Points:** 250
+**Current Points:** 265
 
 
 # Membership
@@ -30,5 +30,4 @@ The following people are members of this group.
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]    | Dragonborn | Male   | Quandrix    |
 
 { .block-language-dataview}
-
 ![ChatGPT Image Jun 16, 2025, 04_53_50 PM.png](/img/user/z_Assets/character_art/Players/ChatGPT%20Image%20Jun%2016,%202025,%2004_53_50%20PM.png)

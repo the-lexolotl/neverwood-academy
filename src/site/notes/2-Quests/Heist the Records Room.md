@@ -47,7 +47,7 @@
 | Status:           | Complete                                                      |
 | Quest Giver:      |                                                               |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                         |
-| Session Obtained: | [[1-Session Journals/2025-08-23 - Session 7\|Session 7 - Cyinth's Dinner Party]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-23 - Session 7\|Session 7 - Cyinth's Dinner Party]] |
 | Acquired Loot:    |                                                               |
 # Backstory
 Strange things have been happening on campus. The party has been tipped off about a expelled student but they need more information

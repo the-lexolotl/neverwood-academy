@@ -31,7 +31,7 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
 | [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
-| [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Cafe Manager               |
+| [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Tavern Manager             |
 | [[2-World/People/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
 | [[2-World/People/Staff/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
 | [[2-World/People/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |

@@ -40,7 +40,6 @@ The following people are members of this group.
 | [[2-World/People/Staff/The Earl\|The Earl]]                                          | Neverwood Campus Guide | Male       | None        | Butler                     |
 | [[2-World/People/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                          | Gnome                  | Female     | None        | Cafe Manager               |
 | [[2-World/People/Staff/Ellina Tanglewood\|Ellina Tanglewood]]                        | Elf                    | Female     | None        | Cafe Manager               |
-| [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]                              | Orc                    | Male       | None        | Cafe Manager               |
 | [[2-World/People/Staff/Cleaner\|Cleaner]]                                            | Automaton              | Other      | None        | Cleaner                    |
 | [[2-World/People/Staff/Dramitia\|Dramitia]]                                          | Tiefling               | Female     | None        | Coach                      |
 | [[2-World/People/Staff/Shtomp\|Shtomp]]                                              | Orc                    | Male       | None        | Coach                      |
@@ -55,6 +54,7 @@ The following people are members of this group.
 | [[2-World/People/Staff/Pythia\|Pythia]]                                              | Human                  | Female     | None        | Oracle                     |
 | [[2-World/People/Staff/Zoei\|Zoei]]                                                  | Satyr                  | Female     | None        | Student Life Administrator |
 | [[2-World/People/Staff/Curtie Axechucker\|Curtie Axechucker]]                        | Dwarf                  | Female     | None        | Tavern Chef                |
+| [[2-World/People/Staff/Tulk Tusktooth\|Tulk Tusktooth]]                              | Orc                    | Male       | None        | Tavern Manager             |
 | [[2-World/People/Staff/Prismari/Nassari\|Nassari]]                                   | Fire Genasi            | Other      | Prismari    | College Dean               |
 | [[2-World/People/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[2-World/People/Staff/Dramitia.md|Dramitia]]","questLocationObtained":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","questSessionObtained":"[[1-Session Journals/2025-10-24 - Megan Async.md|2025-10-24 - Megan Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Merchant of Moons.md","permalink":"/quests/the-merchant-of-moons/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[2-World/People/Staff/Dramitia.md|Dramitia]]","questLocationObtained":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","questSessionObtained":"[[2025-10-24 - Megan Async|2025-10-24 - Megan Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Merchant of Moons.md","permalink":"/quests/the-merchant-of-moons/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -28,7 +28,7 @@
 | Status:           | In Progress                                                       |
 | Quest Giver:      | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                      |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                             |
-| Session Obtained: | [[1-Session Journals/2025-10-24 - Megan Async\|Megan Async - The Merchant of Moons]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Megan Async\|Megan Async - The Merchant of Moons]] |
 | Acquired Loot:    |                                                                   |
 # Backstory
 When the [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]] announces auditions for its newest production, The Merchant of Moons, Lyra Everlight finds her name at the top of the contenders list. The opportunity could restore her reputation after recent disciplinary trouble — but all that glitters is not applause.
