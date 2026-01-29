@@ -417,14 +417,12 @@ input[type="checkbox"]:checked::after {
     width: 100%;
     height: auto;
     aspect-ratio: 1700/1250; /* Matches your image's exact dimensions */
-    background-image: url('/img/user/z_Assets/website/your-banner-image.png');
-    background-size: contain;
-    background-position: center;
+    background-image: url('/img/user/z_Assets/website/Banner.webp');
+    background-size: cover; /* Changed from contain to cover */
+    background-position: center bottom; /* Shows bottom portion, crops from top */
     background-repeat: no-repeat;
     margin-bottom: -80px; /* Adjust this value to control text overlap */
     border-radius: 12px;
-}
-
 /* Center h1 and h3 on homepage only */
 .homepage h1,
 .homepage h3 {
