@@ -32,7 +32,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 | --------------- | ------------------------- | --------------------- |
 | **[[z_Website/Quests\|Quests]]**      | **[[z_Website/Session Journals\|Session Journals]]**      | **[[z_Website/Rumours & Notices\|Rumours & Notices]]** |
 
-*^Accuracy not guaranteed. Memory is a fragile thing.*
+*Accuracy not guaranteed. Memory is a fragile thing.*
 
 ---
 ## 🏛️ Institutional Lore
@@ -53,7 +53,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 #### Previous Intakes
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
 
-> *Advancement is not guaranteed. Survival is encouraged.*
+### Advancement is not guaranteed. Survival is encouraged.
 
 ---
 ## 🧑‍🤝‍🧑 Cup Challenge Groups
@@ -66,7 +66,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ---
 ## 📆 Academic Calendar
 
-> *All dates are subject to revision, cancellation, or temporal anomaly.*
+*All dates are subject to revision, cancellation, or temporal anomaly.*
 
 <script src='https://app.fantasy-calendar.com/js/embed.js'></script>
 <script>
