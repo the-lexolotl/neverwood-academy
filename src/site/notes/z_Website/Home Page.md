@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":false,"dg-content-classes":"homepage","dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-path":"Home Page.md","permalink":"/home-page/","contentClasses":"homepage","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 # Neverwood Academy  
