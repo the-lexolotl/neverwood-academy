@@ -415,13 +415,14 @@ input[type="checkbox"]:checked::after {
     content: "";
     display: block;
     width: 100%;
-    height: 300px; /* Adjust height as needed */
-    background-image: url('/img/user/z_Assets/website/Banner.webp');
-    background-size: cover; /* or 'contain' depending on preference */
+    height: auto;
+    aspect-ratio: 1700/1250; /* Matches your image's exact dimensions */
+    background-image: url('/img/user/z_Assets/website/your-banner-image.png');
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-bottom: 2em;
-    border-radius: 12px; /* Optional: rounds corners to match your theme */
+    margin-bottom: -80px; /* Adjust this value to control text overlap */
+    border-radius: 12px;
 }
 
 /* Center h1 and h3 on homepage only */
@@ -430,26 +431,21 @@ input[type="checkbox"]:checked::after {
     text-align: center;
 }
 
+/* Remove padding between h1 and h3 on homepage */
+.homepage h1 {
+    margin-bottom: 0 !important;
+}
+
+.homepage h3 {
+    margin-top: 0 !important;
+}
+
 /* Force even table column spacing on homepage */
 .homepage table {
-    table-layout: fixed; /* This forces equal column widths */
+    table-layout: fixed;
 }
 
 .homepage th,
 .homepage td {
-    width: auto; /* Columns will divide evenly */
-    text-align: center; /* Optional: center text in cells */
-}
-
-/* Diagnostic - remove after testing */
-body {
-    outline: 2px solid red !important;
-}
-
-.homepage {
-    outline: 2px solid green !important;
-}
-
-[data-note-icon] {
-    outline: 2px solid blue !important;
+    width: auto;
 }
