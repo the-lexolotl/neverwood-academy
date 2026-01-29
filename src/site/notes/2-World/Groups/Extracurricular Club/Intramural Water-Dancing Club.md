@@ -38,9 +38,9 @@ The following people are members of this group.
 
 | File                                                                         | Race      | Gender | College     |
 | ---------------------------------------------------------------------------- | --------- | ------ | ----------- |
-| [[2-World/People/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human     | Female | Quandrix    |
 | [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged | Male   | Quandrix    |
 | [[2-World/People/Students/1508/Larine Arneza\|Larine Arneza]]             | Human     | Female | Quandrix    |
+| [[2-World/People/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human     | Female | Quandrix    |
 | [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]       | Gorgon    | Female | Witherbloom |
 
 { .block-language-dataview}

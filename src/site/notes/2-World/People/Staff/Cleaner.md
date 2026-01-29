@@ -1,21 +1,20 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Cleaner","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Cleaner.md","permalink":"/world/people/staff/cleaner/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Cleaner","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Cleaner.md","permalink":"/world/people/staff/cleaner/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> # Cleaner
-> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
-> ###### Basic Info
-> Type |  Stat |
-> ---|---|
-> Status | Alive |
-> Race | Automaton |
-> Gender | Other |
-> Age | Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-> Role | Cleaner |
-> College | None |
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at e.load (app://obsidian.md/app.js:1:698509)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:91:61)</pre>
 
 # Biography
 Cleaner is an autonomous construct originally created by Professor Losheel with the modest intention of tidying her office and living quarters. The project was, by most measures, far too successful. Shortly after activation, Cleaner expanded its understanding of “tidying” to include the repair, restoration, and general upkeep of large portions of the Neverwood campus.
@@ -26,15 +25,15 @@ Some students have noticed that Cleaner collects discarded trinkets and broken o
 
 # Connections
 
-**Quests:** 
+**Quests:** None
 
-**Groups:** [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 

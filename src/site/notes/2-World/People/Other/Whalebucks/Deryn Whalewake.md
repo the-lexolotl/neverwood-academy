@@ -1,21 +1,20 @@
 ---
-{"MyContainer":["[[2-World/Continents/Faerûn\|Faerûn]]"],"MyCategory":null,"image":"Deryn Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Deryn"],"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Male","char_role":"Cafe Founder","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":["[[Tolan Whalewake]]"],"enemies":null,"allies":["[[Merrick Whalewake]]"],"siblings":["[[Borlen Whalewake]]"],"partner":null,"Connected_Groups":["[[Whalebucks Coffee Co.|Whalebucks Coffee Co.]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Whalebucks/Deryn Whalewake.md","permalink":"/world/people/other/whalebucks/deryn-whalewake/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Continents/Faerûn.md|Faerûn]]"],"MyCategory":null,"image":"Deryn Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Deryn"],"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Male","char_role":"Cafe Founder","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":["[[Tolan Whalewake]]"],"enemies":null,"allies":["[[Merrick Whalewake]]"],"siblings":["[[Borlen Whalewake]]"],"partner":null,"Connected_Groups":["[[Whalebucks Coffee Co.|Whalebucks Coffee Co.]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Whalebucks/Deryn Whalewake.md","permalink":"/world/people/other/whalebucks/deryn-whalewake/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> # Deryn Whalewake
-> ![Deryn Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Deryn%20Whalewake.png)
-> ###### Basic Info
-> Type |  Stat |
-> ---|---|
-> Status | Dead |
-> Race | Human |
-> Gender | Male |
-> Age | Elder |
-> Location | [[2-World/Continents/Faerûn.md|Faerûn]] |
-> Role | Cafe Founder |
-> College | None |
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at e.load (app://obsidian.md/app.js:1:698509)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:91:61)</pre>
 
 # Biography
 ### Early Life (Born ca. late 12th century DR)

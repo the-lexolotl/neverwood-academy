@@ -4,18 +4,17 @@
 
 
 > [!infobox|left]+
-> # Taiva Loreweaver
-> ![Taiva Loreweaver.webp](/img/user/z_Assets/character_art/NPCs/Staff/Taiva%20Loreweaver.webp)
-> ###### Basic Info
-> Type |  Stat |
-> ---|---|
-> Status | Alive |
-> Race | Human |
-> Gender | Female |
-> Age | Elder |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-> Role | Head Teacher |
-> College | None |
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at e.load (app://obsidian.md/app.js:1:698509)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:91:61)</pre>
 
 # Biography
 *This NPC is awaiting a biography. Fancy writing one?*
@@ -24,13 +23,13 @@
 
 **Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
 
-**Groups:** [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
