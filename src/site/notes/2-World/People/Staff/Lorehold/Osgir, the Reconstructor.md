@@ -1,20 +1,21 @@
 ---
-{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"MyCategory":null,"image":"Pasted image 20251013182324.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Professor of Order","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Osgir, the Reconstructor.md","permalink":"/world/people/staff/lorehold/osgir-the-reconstructor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251013182324.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Professor of Order","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Osgir, the Reconstructor.md","permalink":"/world/people/staff/lorehold/osgir-the-reconstructor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Osgir, the Reconstructor
+> ![Pasted image 20251013182324.png](/img/user/z_Assets/character_art/NPCs/Staff/Pasted%20image%2020251013182324.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Giant |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Places/Lorehold Campus\|Lorehold Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Professor of Order |
+> College | Lorehold |
 
 # Biography
 Osgir, a stone giant of imposing size, is obsessively devoted to the relics of past civilizations. From grand crowns to weathered tools, he treats each object as a story waiting to be told. His office is a rotating gallery of reconstructed artefacts, some delicate and some deadly, each chosen to illustrate both the fragility and brilliance of history.

@@ -1,20 +1,21 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Giantess Teanna","Giantess Teanna Aethelos","Teanna"],"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Female","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Aurum Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"sc":null,"dg-path":"World/People/Other/Teanna Aethelos.md","permalink":"/world/people/other/teanna-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Giantess Teanna","Giantess Teanna Aethelos","Teanna"],"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Female","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Aurum Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"sc":null,"dg-path":"World/People/Other/Teanna Aethelos.md","permalink":"/world/people/other/teanna-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Teanna Aethelos
+> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Giant |
+> Gender | Female |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwinter\|Neverwinter]], Previously [[Skyberry House\|Skyberry House]] |
+> Role | Other |
+> College | None |
 
 # Biography
 **Titles:** Keeper of the Gentle Sky, Hearth-Mother of the Cloud Isles
