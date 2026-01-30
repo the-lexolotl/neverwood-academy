@@ -3,14 +3,12 @@
 ---
 
 
-# General
-
 ![LARP.png](/img/user/z_Assets/Extracurriculars/LARP.png)
 
+# General
+
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Animal Handling, Performance
 
 # Goals
@@ -26,22 +24,17 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
-
 # People
-
 The following people are members of this group.  
-
-
-| File                                                                                     | Race       | Gender | College     |
-| ---------------------------------------------------------------------------------------- | ---------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]               | Elf        | Male   | Quandrix    |
-| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                   | Shadar-Kai | Male   | Silverquill |
-| [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Gnome      | Female | Lorehold    |
-| [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Owlin      | Female | Quandrix    |
-| [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Triton     | Male   | Prismari    |
+| File                                                                                     | Race       | Gender | College     | School Year |
+| ---------------------------------------------------------------------------------------- | ---------- | ------ | ----------- | ----------- |
+| [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]               | Elf        | Male   | Quandrix    | 1           |
+| [[2-World/People/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Owlin      | Female | Quandrix    | 2           |
+| [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Triton     | Male   | Prismari    | 2           |
+| [[2-World/People/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                   | Shadar-Kai | Male   | Silverquill | 1           |
+| [[2-World/People/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Gnome      | Female | Lorehold    | 1           |
 
 { .block-language-dataview}
+
+
+

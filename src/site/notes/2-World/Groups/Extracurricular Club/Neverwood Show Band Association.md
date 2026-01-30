@@ -3,14 +3,12 @@
 ---
 
 
-# General
-
 ![Show Band.png](/img/user/z_Assets/Extracurriculars/Show%20Band.png)
 
+# General
+
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Slight of Hand, Performance
 
 # Goals
@@ -26,24 +24,19 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
-
 # People
-
 The following people are members of this group.  
-
-
-| File                                                                                             | Race      | Gender | College     |
-| ------------------------------------------------------------------------------------------------ | --------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom |
-| [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    |
-| [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill |
-| [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    |
-| [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill |
-| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Gorgon    | Female | Witherbloom |
-| [[2-World/People/Staff/Dramitia\|Dramitia]]                                                   | Tiefling  | Female | None        |
+| File                                                                                             | Race      | Gender | College     | School Year |
+| ------------------------------------------------------------------------------------------------ | --------- | ------ | ----------- | ----------- |
+| [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom | 1           |
+| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Gorgon    | Female | Witherbloom | 3           |
+| [[2-World/People/Staff/Dramitia\|Dramitia]]                                                   | Tiefling  | Female | None        | \-          |
+| [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    | 2           |
+| [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill | 2           |
+| [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    | 1           |
+| [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill | 1           |
 
 { .block-language-dataview}
+
+
+

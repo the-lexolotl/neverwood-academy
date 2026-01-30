@@ -3,14 +3,12 @@
 ---
 
 
-# General
-
 ![Neverwood Iron-Lifters Society.png](/img/user/z_Assets/Extracurriculars/Neverwood%20Iron-Lifters%20Society.png)
 
+# General
+
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Athletics, Medicine
 
 # Goals
@@ -26,22 +24,17 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the town here. 
-
-
 # People
-
-The following people are members of this group. 
-
-
-| File                                                                   | Race         | Gender     | College     |
-| ---------------------------------------------------------------------- | ------------ | ---------- | ----------- |
-| [[2-World/People/Students/1508/Calla Fernbrook\|Calla Fernbrook]]   | Satyr        | Female     | Lorehold    |
-| [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Dwarf        | Female     | Lorehold    |
-| [[2-World/People/Students/1507/Pebble\|Pebble]]                     | Earth Genasi | Non-binary | Witherbloom |
-| [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Fire Genasi  | Male       | Lorehold    |
-| [[2-World/People/Students/1507/Rose Mugwort\|Rose Mugwort]]         | Halfling     | Female     | Prismari    |
+The following people are members of this group.  
+| File                                                                   | Race         | Gender     | College     | School Year |
+| ---------------------------------------------------------------------- | ------------ | ---------- | ----------- | ----------- |
+| [[2-World/People/Students/1508/Calla Fernbrook\|Calla Fernbrook]]   | Satyr        | Female     | Lorehold    | 1           |
+| [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Dwarf        | Female     | Lorehold    | 1           |
+| [[2-World/People/Students/1507/Pebble\|Pebble]]                     | Earth Genasi | Non-binary | Witherbloom | 2           |
+| [[2-World/People/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Fire Genasi  | Male       | Lorehold    | 2           |
+| [[2-World/People/Students/1507/Rose Mugwort\|Rose Mugwort]]         | Halfling     | Female     | Prismari    | 2           |
 
 { .block-language-dataview}
+
+
+

@@ -3,15 +3,14 @@
 ---
 
 
-# General
-
 ![Intramural Gymnastics.png](/img/user/z_Assets/Extracurriculars/Intramural%20Gymnastics.png)
 
+# General
+
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Acrobatics, Performance
+
 # Goals
 
 > [!NOTE]+ Public Goals
@@ -25,19 +24,14 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the town here. 
-
-
 # People
-
 The following people are members of this group.  
-
-
-| File                                                                       | Race        | Gender | College  |
-| -------------------------------------------------------------------------- | ----------- | ------ | -------- |
-| [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari |
-| [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]           | Fire Genasi | Male   | Prismari |
+| File                                                                       | Race        | Gender | College  | School Year |
+| -------------------------------------------------------------------------- | ----------- | ------ | -------- | ----------- |
+| [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari | 1           |
+| [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]           | Fire Genasi | Male   | Prismari | 1           |
 
 { .block-language-dataview}
+
+
+

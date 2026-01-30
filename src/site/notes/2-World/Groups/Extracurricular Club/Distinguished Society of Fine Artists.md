@@ -3,14 +3,12 @@
 ---
 
 
-# General
-
 ![Society of Fine Artists.png](/img/user/z_Assets/Extracurriculars/Society%20of%20Fine%20Artists.png)
 
+# General
+
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Performance, Slight of Hand
 
 # Goals
@@ -26,23 +24,19 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
-
 # People
-
 The following people are members of this group.  
-
-| File                                                                                             | Race       | Gender | College     |
-| ------------------------------------------------------------------------------------------------ | ---------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Elf        | Male   | Quandrix    |
-| [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Air Genasi | Female | Prismari    |
-| [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Loxodon    | Female | Prismari    |
-| [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome      | Male   | Lorehold    |
-| [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human      | Male   | Silverquill |
-| [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Human      | Female | Prismari    |
-| [[1-Party/Group 2/H'er/H'er\|H'er]]                                                           | Tiefling   | Female | Prismari    |
+| File                                                                                             | Race       | Gender | College     | School Year |
+| ------------------------------------------------------------------------------------------------ | ---------- | ------ | ----------- | ----------- |
+| [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Elf        | Male   | Quandrix    | 1           |
+| [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Air Genasi | Female | Prismari    | 1           |
+| [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Loxodon    | Female | Prismari    | 2           |
+| [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome      | Male   | Lorehold    | 2           |
+| [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human      | Male   | Silverquill | 2           |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                                           | Tiefling   | Female | Prismari    | 1           |
+| [[2-World/People/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Human      | Female | Prismari    | 2           |
 
 { .block-language-dataview}
+
+
+

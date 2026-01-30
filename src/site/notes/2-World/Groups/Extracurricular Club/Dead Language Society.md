@@ -3,15 +3,12 @@
 ---
 
 
+![Dead Language Society.png](/img/user/z_Assets/Extracurriculars/Dead%20Language%20Society.png)
 
 # General
 
-![Dead Language Society.png](/img/user/z_Assets/Extracurriculars/Dead%20Language%20Society.png)
-
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Athletics, History
 
 # Goals
@@ -27,26 +24,21 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the town here. 
-
-
-
 # People
-
 The following people are members of this group.  
-
-| File                                                                                                       | Race     | Gender | College     |
-| ---------------------------------------------------------------------------------------------------------- | -------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome    | Male   | Quandrix    |
-| [[2-World/People/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf      | Male   | Silverquill |
-| [[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human    | Male   | Prismari    |
-| [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar  | Male   | Prismari    |
-| [[2-World/People/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Minotaur | Male   | Quandrix    |
-| [[2-World/People/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human    | Male   | Witherbloom |
-| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr    | Female | Silverquill |
-| [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                               | Elf      | Male   | Witherbloom |
-| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                                            | Yuan-Ti  | Male   | Witherbloom |
+| File                                                                                                       | Race     | Gender | College     | School Year |
+| ---------------------------------------------------------------------------------------------------------- | -------- | ------ | ----------- | ----------- |
+| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                                            | Yuan-Ti  | Male   | Witherbloom | 1           |
+| [[2-World/People/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome    | Male   | Quandrix    | 1           |
+| [[2-World/People/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar  | Male   | Prismari    | 2           |
+| [[2-World/People/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Minotaur | Male   | Quandrix    | 2           |
+| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr    | Female | Silverquill | 2           |
+| [[2-World/People/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human    | Male   | Witherbloom | 2           |
+| [[2-World/People/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf      | Male   | Silverquill | 1           |
+| [[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human    | Male   | Prismari    | 1           |
+| [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                               | Elf      | Male   | Witherbloom | 2           |
 
 { .block-language-dataview}
+
+
+

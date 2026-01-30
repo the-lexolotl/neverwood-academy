@@ -3,13 +3,12 @@
 ---
 
 
+![Mages of Faith.png](/img/user/z_Assets/Extracurriculars/Mages%20of%20Faith.png)
+
 # General
 
-![Mages of Faith.png](/img/user/z_Assets/Extracurriculars/Mages%20of%20Faith.png)
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** Extracurricular Club
-
 **Associated Skills:** Insight, Religion
 
 # Goals
@@ -25,22 +24,17 @@
 # Membership
 Upon request or via sign-up at freshers fair
 
-# GM Notes
-
-Make notes of what you need to track in the group here. 
-
-
 # People
-
 The following people are members of this group.  
-
-
-| File                                                                           | Race    | Gender | College     |
-| ------------------------------------------------------------------------------ | ------- | ------ | ----------- |
-| [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad   | Male   | Witherbloom |
-| [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin   | Female | Silverquill |
-| [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Firbolg | Female | Lorehold    |
-| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Satyr   | Female | Silverquill |
-| [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Aasimar | Female | Silverquill |
+| File                                                                           | Race    | Gender | College     | School Year |
+| ------------------------------------------------------------------------------ | ------- | ------ | ----------- | ----------- |
+| [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Firbolg | Female | Lorehold    | 2           |
+| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Satyr   | Female | Silverquill | 2           |
+| [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad   | Male   | Witherbloom | 1           |
+| [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin   | Female | Silverquill | 1           |
+| [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Aasimar | Female | Silverquill | 2           |
 
 { .block-language-dataview}
+
+
+

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]"],"Connected_Quests":null,"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","dg-path":"Party/Group 3/Suraax Smith/Suraax Smith.md","permalink":"/party/group-3/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3\|Group 3]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","dg-path":"Party/Group 3/Suraax Smith/Suraax Smith.md","permalink":"/party/group-3/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -82,9 +82,9 @@ Neverwood - First Year Uniform
 
 # Connections
 
-**Quests:** None
+**Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
-**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[1-Party/Group 3/Group 3.md|Group 3]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[1-Party/Group 3/Group 3.md|Group 3]],[[2-World/Groups/Extracurricular Club/Wrestling Society.md|Wrestling Society]]
 
 # Relationships
 **Pets:** None/Unknown
