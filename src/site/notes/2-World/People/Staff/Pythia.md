@@ -4,20 +4,23 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Pythia
+> ![07-017.oracle-of-strixhaven.png](/img/user/z_Assets/character_art/NPCs/Staff/07-017.oracle-of-strixhaven.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Female |
+> Age | Elder |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Oracle |
+> College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Beyond the borders of Neverwood dwells the Oracle, a singular mage entrusted by the Founder Dragons to safeguard the purpose of the academy’s magic. The Oracle’s charge is not one of governance, but of guidance—ensuring that Neverwood’s power is used to heal, protect, and uplift, never to corrupt or dominate. Such a mantle demands profound understanding, unwavering wisdom, and an incorruptible moral compass.
+
+The current Oracle, Pythia, is an elderly human and a graduate of Quandrix College whose studies once focused on the abstract mathematics of magic. Over a long life, she has expanded her mastery to encompass all schools of spellcasting, tempering theory with divination, compassion, and a deliberate return to magical fundamentals. Quiet, perceptive, and deeply principled, Pythia stands as both watcher and guide—rarely intervening, but always aware.
 
 # Connections
 

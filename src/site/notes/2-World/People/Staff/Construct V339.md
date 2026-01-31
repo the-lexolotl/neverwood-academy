@@ -4,20 +4,23 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Construct V339
+> ![cogwork-archivist.webp](/img/user/3-Mechanics/CLI/bestiary/construct/img/cogwork-archivist.webp)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Automaton |
+> Gender | Other |
+> Age | Adult |
+> Location | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Automaton |
+> College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Construct V339 is a cogwork archivist assigned to the Biblioplex, tasked with the cataloguing, preservation, and retrieval of its vast collection of tomes and scrolls. Built for precision and record-keeping, V339 nonetheless exhibits an endearing tendency toward enthusiastic digression, frequently rambling about books, authors, marginalia, and obscure cross-references.
+
+Easily distracted by new information, V339 can often be found mid-task explaining an unrelated volume in great detail before abruptly resuming its original duty. Despite these quirks, the construct is diligent, knowledgeable, and deeply committed to the safeguarding of knowledge. Students quickly learn that while interactions with V339 may take longer than expected, they invariably leave better informed—and usually with a reading list.
 
 # Connections
 

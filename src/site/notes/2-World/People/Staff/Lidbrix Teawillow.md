@@ -4,20 +4,23 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Lidbrix Teawillow
+> ![Lidbrix Teawillow.webp](/img/user/z_Assets/character_art/NPCs/Staff/Lidbrix%20Teawillow.webp)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Owlin |
+> Gender | Male |
+> Age | Elder |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Dean of Admissions |
+> College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Lidbrix Teawillow serves as Neverwood Academy’s Dean of Admissions, guiding prospective students through the threshold between the wider world and academic life. Thoughtful and observant, he is known for his careful evaluations and measured decisions, ensuring that each student admitted to Neverwood shows both potential and purpose.
+
+With keen eyes and an even keener memory, Lidbrix conducts interviews and reviews with quiet professionalism, valuing curiosity, perseverance, and integrity above raw talent alone. Though reserved in manner, he takes genuine pride in shaping each incoming cohort, believing that the right beginnings lead to the strongest futures.
 
 # Connections
 

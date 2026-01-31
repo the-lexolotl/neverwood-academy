@@ -70,8 +70,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]                 | Dragon                 | Female     | Quandrix    | Founder Dragon             |
 | [[2-World/People/Staff/Quandrix/Adrix\|Adrix]]                                       | Triton                 | Non-binary | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]                   | Fairy                  | Female     | Quandrix    | Professor of Substance     |
-| [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                                         | Brown Bear             | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]               | Harengon               | Male       | Quandrix    | Professor of Substance     |
+| [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                                         | Brown Bear             | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                     | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |

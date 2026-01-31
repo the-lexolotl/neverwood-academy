@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Quentis Orvlo
+> ![Orvlo.webp](/img/user/z_Assets/character_art/NPCs/Staff/Orvlo.webp)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Vedalken |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | General Studies Professor |
+> College | None |
 
 # Biography
 Orvlo is a middle-aged vedalken who now teaches a series of general studies courses introducing students to the foundational principles of the various schools of magic. Once a specialist in advanced magical theory, Orvlo found their true calling in teaching the basics — the small, precise differences that separate one discipline from another.

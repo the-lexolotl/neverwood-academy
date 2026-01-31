@@ -403,3 +403,23 @@
 ![Pasted image 20260131001347.png](/img/user/z_Assets/Pasted%20image%2020260131001347.png)
 
 ![Pasted image 20260131002249.png](/img/user/z_Assets/Pasted%20image%2020260131002249.png)
+
+![Pasted image 20250911160709.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911160709.png)
+
+![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+
+![Pasted image 20260131135002.png](/img/user/z_Assets/Pasted%20image%2020260131135002.png)
+
+![Pasted image 20260131135049.png](/img/user/z_Assets/Pasted%20image%2020260131135049.png)
+
+![Pasted image 20260131135326.png](/img/user/z_Assets/Pasted%20image%2020260131135326.png)
+
+![raf,360x360,075,t,fafafa_ca443f4786.jpg](/img/user/z_Assets/raf,360x360,075,t,fafafa_ca443f4786.jpg)
+
+![Pasted image 20260131140647.png](/img/user/z_Assets/Pasted%20image%2020260131140647.png)
+
+![Pasted image 20260131140738.png](/img/user/z_Assets/Pasted%20image%2020260131140738.png)
+
+![Pasted image 20260131141220.png](/img/user/z_Assets/Pasted%20image%2020260131141220.png)
+
+![Pasted image 20260131141306.png](/img/user/z_Assets/Pasted%20image%2020260131141306.png)

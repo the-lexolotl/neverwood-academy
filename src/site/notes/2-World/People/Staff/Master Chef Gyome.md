@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Master Chef Gyome
+> ![Gyome.webp](/img/user/z_Assets/character_art/NPCs/Staff/Gyome.webp)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Troll |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Head Chef |
+> College | None |
 
 # Biography
 Gyome is a troll and a neutral Witherbloom professor whose culinary skill is legendary. Despite his imposing size, he is lighthearted and warm, infusing his food with both magic and heart. Combining local ingredients with flavours from his homeland, he creates dishes that are ever-changing, surprising, and deeply satisfying.

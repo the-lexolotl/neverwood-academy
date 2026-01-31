@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Yedora
+> ![Yedora.webp](/img/user/z_Assets/character_art/NPCs/Staff/Yedora.webp)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Treant |
+> Gender | Female |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Grounds Keeper |
+> College | None |
 
 # Biography
 Yedora is a treant and the head groundskeeper of Neverwood, as well as the university’s unofficial undertaker. Many students and graduates wish to remain close to the Academy in death, and Yedora honours that desire. Every tree she plants represents the essence of a departed mage, and she remembers them all by name, walking the grounds in quiet reverence for those who have passed.

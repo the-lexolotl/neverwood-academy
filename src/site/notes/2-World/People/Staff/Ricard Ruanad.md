@@ -1,20 +1,21 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Deputy Head Teacher","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Price of Integrity|The Price of Integrity]]","[[Ricards Riches|Ricards Riches]]","[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Ricard Ruanad.md","permalink":"/world/people/staff/ricard-ruanad/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20260131141220.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Deputy Head Teacher","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[The Price of Integrity|The Price of Integrity]]","[[Ricards Riches|Ricards Riches]]","[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Ricard Ruanad.md","permalink":"/world/people/staff/ricard-ruanad/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Ricard Ruanad
+> ![Pasted image 20260131141220.png](/img/user/z_Assets/Pasted%20image%2020260131141220.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Deputy Head Teacher |
+> College | None |
 
 # Biography
 Ricard Ruanad is a master of words and wealth. A former Silverquill academic, he long ago shifted his focus from teaching to something he finds far more rewarding: influence. Through shrewd deals, polished rhetoric, and an impeccable network of contacts, Ruanad has secured both his position and a growing personal fortune.

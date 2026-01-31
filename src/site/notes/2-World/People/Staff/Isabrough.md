@@ -1,20 +1,21 @@
 ---
-{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Points of Interest/Neverwood Academy/Biblioplex.md|Biblioplex]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Treant","char_gender":"Female","char_role":"Head Librarian","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":null,"dg-path":"World/People/Staff/Isabrough.md","permalink":"/world/people/staff/isabrough/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Biblioplex.md|Biblioplex]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260131135326.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Treant","char_gender":"Female","char_role":"Head Librarian","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":null,"dg-path":"World/People/Staff/Isabrough.md","permalink":"/world/people/staff/isabrough/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Isabrough
+> ![Pasted image 20260131135326.png](/img/user/z_Assets/Pasted%20image%2020260131135326.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Treant |
+> Gender | Female |
+> Age | Adult |
+> Location | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Head Librarian |
+> College | None |
 
 # Biography
 Isabough is an ancient treant who serves as the Head Librarian of the Biblioplex, Neverwood Academy’s vast magical library. Calm, patient, and immovably rooted in her duties, she oversees the library’s daily operation and the many student assistants who keep it running.

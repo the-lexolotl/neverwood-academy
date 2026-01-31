@@ -68,15 +68,15 @@ Head Teacher [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]] demands
 The following people are associated with this quest.
 | Character                                                                           | Race            | Gender | Role         |
 | ----------------------------------------------------------------------------------- | --------------- | ------ | ------------ |
+| [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                      | Human           | Female | Head Teacher |
 | [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                          | Giant           | Male   | Other        |
 | [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                        | Giant           | Female | Other        |
-| [[2-World/People/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                      | Human           | Female | Head Teacher |
-| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]          | Human           | Male   | Player       |
-| [[1-Party/Group 2/H'er/H'er\|H'er]]                                              | Tiefling        | Female | Player       |
-| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                | Variant Aasimar | Female | Player       |
-| [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin         | Female | Player       |
 | [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                     | Yuan-Ti         | Male   | Player       |
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                | Triton          | Male   | Player       |
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]          | Dragonborn      | Male   | Player       |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                              | Tiefling        | Female | Player       |
+| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]          | Human           | Male   | Player       |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                | Variant Aasimar | Female | Player       |
+| [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin         | Female | Player       |
 
 { .block-language-dataview}

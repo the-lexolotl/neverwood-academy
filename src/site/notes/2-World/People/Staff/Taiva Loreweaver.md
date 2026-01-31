@@ -4,20 +4,23 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:698509)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Taiva Loreweaver
+> ![Taiva Loreweaver.webp](/img/user/z_Assets/character_art/NPCs/Staff/Taiva%20Loreweaver.webp)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Female |
+> Age | Elder |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Head Teacher |
+> College | None |
 
 # Biography
-*This NPC is awaiting a biography. Fancy writing one?*
+Taiva Loreweaver is the current Head Teacher of Neverwood Academy, an elderly human whose long career has shaped generations of students and faculty alike. A graduate of Witherbloom College, she carries a deep respect for growth, balance, and the living world into every aspect of her leadership. Her presence is calm and reassuring, yet beneath her warmth lies a sharp and discerning mind.
+
+Taiva believes that true education nurtures both knowledge and character, and she governs the academy with patience, compassion, and quiet authority. Though she rarely seeks the spotlight, her words carry weight, and her guidance has become a steady constant in the ever-shifting life of Neverwood.
 
 # Connections
 
