@@ -29,8 +29,8 @@ The following people are members of this group.
 | [[2-World/People/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                         | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                 | Owlin                  | Male       | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                         | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | Giant                  | Male       | Lorehold    | Professor of Order         |
@@ -70,12 +70,12 @@ The following people are members of this group.
 | [[2-World/People/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]                 | Dragon                 | Female     | Quandrix    | Founder Dragon             |
 | [[2-World/People/Staff/Quandrix/Adrix\|Adrix]]                                       | Triton                 | Non-binary | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]                   | Fairy                  | Female     | Quandrix    | Professor of Substance     |
-| [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]               | Harengon               | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Ruxa\|Ruxa]]                                         | Brown Bear             | Male       | Quandrix    | Professor of Substance     |
+| [[2-World/People/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]               | Harengon               | Male       | Quandrix    | Professor of Substance     |
 | [[2-World/People/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                     | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
-| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |
+| [[2-World/People/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Renald Rothton\|Renald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]                 | Tiefling               | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                          | Human                  | Male       | Silverquill | College Dean               |
@@ -88,9 +88,9 @@ The following people are members of this group.
 | [[2-World/People/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                        | Kenku                  | Non-binary | Silverquill | Professor of Radiance      |
 | [[2-World/People/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
-| [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                    | Human                  | Male       | Silverquill | Professor of Shadow        |
-| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Silverquill/Fain\|Fain]]                                      | Human                  | Male       | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
+| [[2-World/People/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                    | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Staff/Witherbloom/Lissette\|Lissette]]                              | Human                  | Female     | Witherbloom | College Dean               |
 | [[2-World/People/Staff/Witherbloom/Valentin\|Valentin]]                              | Vampire                | Male       | Witherbloom | College Dean               |
 | [[2-World/People/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]      | Dragon                 | Female     | Witherbloom | Founder Dragon             |
@@ -98,10 +98,10 @@ The following people are members of this group.
 | [[2-World/People/Staff/Witherbloom/Tivash\|Tivash]]                                  | Human                  | Male       | Witherbloom | Professor of Decay         |
 | [[2-World/People/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]            | Dragonborn             | Male       | Witherbloom | Professor of Decay         |
 | [[2-World/People/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                | Elf                    | Female     | Witherbloom | Professor of Growth        |
+| [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                | Firbolg                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                      | Dryad                  | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Willowdusk\|Willowdusk]]                          | Treant                 | Female     | Witherbloom | Professor of Growth        |
-| [[2-World/People/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                | Firbolg                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                    | Human                  | Male       | Witherbloom | Veteran                    |
 
 { .block-language-dataview}

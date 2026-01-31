@@ -1,11 +1,11 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[Freyot]]"],"children":null,"enemies":null,"allies":["[[Cumin]]","[[Fistandria]]"],"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Coriander.md","permalink":"/world/people/other/coriander/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"Pasted image 20260130223854.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[Freyot]]"],"children":null,"enemies":null,"allies":["[[Cumin]]","[[Fistandria]]"],"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Coriander.md","permalink":"/world/people/other/coriander/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Coriander
-> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ![Pasted image 20260130223854.png](/img/user/z_Assets/Pasted%20image%2020260130223854.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

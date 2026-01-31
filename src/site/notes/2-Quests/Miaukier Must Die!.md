@@ -46,16 +46,16 @@ The following people are associated with this quest.
 
 | File                                                                           | Race            | Gender     | Role    |
 | ------------------------------------------------------------------------------ | --------------- | ---------- | ------- |
-| [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]           | Human           | Male       | Veteran |
 | [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                 | Cat             | Male       | Other   |
+| [[2-World/People/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]           | Human           | Male       | Veteran |
+| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]     | Human           | Male       | Player  |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                         | Tiefling        | Female     | Player  |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]           | Variant Aasimar | Female     | Player  |
+| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                 | Aarakocra       | Female     | Player  |
 | [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]           | Triton          | Male       | Player  |
 | [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]  | Halfling        | Male       | Player  |
 | [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]     | Dragonborn      | Male       | Player  |
-| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                 | Aarakocra       | Female     | Player  |
-| [[1-Party/Group 2/H'er/H'er\|H'er]]                                         | Tiefling        | Female     | Player  |
-| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]     | Human           | Male       | Player  |
-| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]           | Variant Aasimar | Female     | Player  |
 
 { .block-language-dataview}

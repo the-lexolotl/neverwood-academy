@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Silverquill Campus\|Silverquill Campus]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Shadow","char_college":"Silverquill","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Luc Brandford.md","permalink":"/world/people/staff/silverquill/luc-brandford/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260130235850.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Shadow","char_college":"Silverquill","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Silverquill/Luc Brandford.md","permalink":"/world/people/staff/silverquill/luc-brandford/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Luc Brandford
-> ![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+> ![Pasted image 20260130235850.png](/img/user/z_Assets/Pasted%20image%2020260130235850.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
@@ -13,7 +13,7 @@
 > Race | Human |
 > Gender | Male |
 > Age | Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Places/Silverquill Campus.md|Silverquill Campus]] |
+> Location | [[2-World/Places/Silverquill Campus\|Silverquill Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 > Role | Professor of Shadow |
 > College | Silverquill |
 
@@ -26,15 +26,15 @@ In addition to duelling theory, Luc leads courses focused on group protection an
 
 # Connections
 
-**Quests:** 
+**Quests:** None
 
-**Groups:** [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
+**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 

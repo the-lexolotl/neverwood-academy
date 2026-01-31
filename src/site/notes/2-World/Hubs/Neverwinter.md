@@ -127,13 +127,13 @@ Exhaustion Level: 0
 | [[2-World/People/Other/Neverwinter/Cedric the Kor\|Cedric the Kor]]               | Kor        | Male   | Tavern Ghost      |
 | [[2-World/People/Other/Neverwinter/Cedric the Orc\|Cedric the Orc]]               | Orc        | Male   | Tavern Ghost      |
 | [[2-World/People/Other/Neverwinter/Eb Zenithon\|Eb Zenithon]]                     | Elf        | Male   | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Kask\|Kask]]                                   | Human      | Male   | Other             |
-| [[2-World/People/Other/Neverwinter/Grayson\|Grayson]]                             | Vampire    | Male   | Tavern Manager    |
 | [[2-World/People/Other/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]               | Human      | Male   | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Vani\|Vani]]                                   | Automaton  | Other  | Tavern Manager    |
-| [[2-World/People/Other/Neverwinter/Orestes Alaris\|Orestes Alaris]]               | Half-Orc   | Male   | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male   | Other             |
+| [[2-World/People/Other/Neverwinter/Grayson\|Grayson]]                             | Vampire    | Male   | Tavern Manager    |
+| [[2-World/People/Other/Neverwinter/Kask\|Kask]]                                   | Human      | Male   | Other             |
 | [[2-World/People/Other/Neverwinter/Marcellus\|Marcellus]]                         | Loxodon    | Male   | Tavern Manager    |
+| [[2-World/People/Other/Neverwinter/Orestes Alaris\|Orestes Alaris]]               | Half-Orc   | Male   | Tavern Founder    |
+| [[2-World/People/Other/Neverwinter/Vani\|Vani]]                                   | Automaton  | Other  | Tavern Manager    |
+| [[2-World/People/Other/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male   | Other             |
 | [[2-World/People/Other/Vormor\|Vormor]]                                           | Half-Giant | Male   | Other             |
 | [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                         | Giant      | Female | Other             |
 | [[2-World/People/Other/Alex Fallowridge\|Alex Fallowridge]]                       | Human      | Male   | Transport Manager |

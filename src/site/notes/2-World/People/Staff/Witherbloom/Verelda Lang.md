@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]"],"MyCategory":null,"image":"Verelda Lang.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dryad","char_gender":"Female","char_role":"Professor of Growth","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Witherbloom/Verelda Lang.md","permalink":"/world/people/staff/witherbloom/verelda-lang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Verelda Lang.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dryad","char_gender":"Female","char_role":"Professor of Growth","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Witherbloom/Verelda Lang.md","permalink":"/world/people/staff/witherbloom/verelda-lang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Dryad |
 > Gender | Female |
 > Age | Adult |
-> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]],[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]] |
+> Location | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 > Role | Professor of Growth |
 > College | Witherbloom |
 
@@ -24,15 +24,15 @@ Her research stretches into fractal creatures and artificial life, bridging the 
 
 # Connections
 
-**Quests:** 
+**Quests:** None
 
-**Groups:** [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
+**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 
 # Relationships
-**Parents** - `= this.parents`
-**Siblings** - `= this.siblings`
-**Partner** - `= this.partner`
-**Children** - `= this.children`
-**Allies** - `= this.allies`
-**Enemies** - `= this.enemies`
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 
