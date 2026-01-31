@@ -2,33 +2,7 @@
 {"dg-publish":true,"dg-show-inline-title":false,"dg-hide":false,"dg-show-backlinks":false,"dg-show-local-graph":false,"dg-path":"images.md","permalink":"/images/","dgPassFrontmatter":true}
 ---
 
-![Banner.webp|100](/img/user/z_Assets/website/Banner.webp)
-
-![Karl Shaffer.png](/img/user/z_Assets/website/Karl%20Shaffer.png)
-
-![Borlen  Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Borlen%20%20Whalewake.png)
-
-![Kojil.png](/img/user/z_Assets/website/Kojil.png)
-
-![Deryn Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Deryn%20Whalewake.png)
-
-![Merrick  Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Merrick%20%20Whalewake.png)
-
-![Tolan Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Tolan%20Whalewake.png)
-
-
-![Alex Fallowridge.png](/img/user/z_Assets/character_art/NPCs/Alex%20Fallowridge.png)
-
-![Daniel Murgaxor.webp](/img/user/z_Assets/character_art/NPCs/Daniel%20Murgaxor.webp)
-
-![06-005.murgaxor-grenshel.png](/img/user/z_Assets/character_art/NPCs/06-005.murgaxor-grenshel.png)
-
-
-![Screenshot 2025-09-11 172146.png](/img/user/z_Assets/character_art/NPCs/Screenshot%202025-09-11%20172146.png)
-
-![Pasted image 20250911161923.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911161923.png)
-
-![Professor Delta.png](/img/user/z_Assets/character_art/NPCs/Professor%20Delta.png)
+![Banner.webp|100](/img/user/z_Assets/website/Banner.webp) ![Karl Shaffer.png|100](/img/user/z_Assets/website/Karl%20Shaffer.png)  ![Borlen  Whalewake.png|100](/img/user/z_Assets/character_art/NPCs/Whalewakes/Borlen%20%20Whalewake.png) ![Kojil.png|100](/img/user/z_Assets/website/Kojil.png) ![Deryn Whalewake.png|100](/img/user/z_Assets/character_art/NPCs/Whalewakes/Deryn%20Whalewake.png) ![Merrick  Whalewake.png|100](/img/user/z_Assets/character_art/NPCs/Whalewakes/Merrick%20%20Whalewake.png) ![Tolan Whalewake.png|100](/img/user/z_Assets/character_art/NPCs/Whalewakes/Tolan%20Whalewake.png) ![Alex Fallowridge.png|100](/img/user/z_Assets/character_art/NPCs/Alex%20Fallowridge.png) ![Daniel Murgaxor.webp|100](/img/user/z_Assets/character_art/NPCs/Daniel%20Murgaxor.webp) ![06-005.murgaxor-grenshel.png|100](/img/user/z_Assets/character_art/NPCs/06-005.murgaxor-grenshel.png) ![Screenshot 2025-09-11 172146.png|100](/img/user/z_Assets/character_art/NPCs/Screenshot%202025-09-11%20172146.png) ![Pasted image 20250911161923.png|100](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911161923.png) ![Professor Delta.png|100](/img/user/z_Assets/character_art/NPCs/Professor%20Delta.png) ![Lianna Flametongue.png|100](/img/user/z_Assets/website/Lianna%20Flametongue.png) ![Xyla Langning.png](/img/user/z_Assets/website/Xyla%20Langning.png) ![Ahkwa.png](/img/user/z_Assets/website/Ahkwa.png) ![Clem.png](/img/user/z_Assets/website/Clem.png) ![Senestrine.png](/img/user/z_Assets/website/Senestrine.png) 
 
 ![Veyra Murgaxor.png](/img/user/z_Assets/character_art/NPCs/Veyra%20Murgaxor.png)
 
