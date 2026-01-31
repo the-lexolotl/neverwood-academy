@@ -4,7 +4,11 @@
 
 ![Banner.webp|100](/img/user/z_Assets/website/Banner.webp)
 
+![Karl Shaffer.png](/img/user/z_Assets/website/Karl%20Shaffer.png)
+
 ![Borlen  Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Borlen%20%20Whalewake.png)
+
+![Kojil.png](/img/user/z_Assets/website/Kojil.png)
 
 ![Deryn Whalewake.png](/img/user/z_Assets/character_art/NPCs/Whalewakes/Deryn%20Whalewake.png)
 
@@ -372,7 +376,7 @@
 
 ![Pasted image 20260130223854.png](/img/user/z_Assets/website/Pasted%20image%2020260130223854.png)
 
-![Pasted image 20260130223917.png](/img/user/z_Assets/website/Pasted%20image%2020260130223917.png)
+![Cumin.png](/img/user/z_Assets/website/Cumin.png)
 
 ![Pasted image 20260130224127.png](/img/user/z_Assets/website/Pasted%20image%2020260130224127.png)
 
@@ -464,7 +468,7 @@
 
 ![Pasted image 20260130223854.png](/img/user/z_Assets/website/Pasted%20image%2020260130223854.png)
 
-![Pasted image 20260130223917.png](/img/user/z_Assets/website/Pasted%20image%2020260130223917.png)
+![Cumin.png](/img/user/z_Assets/website/Cumin.png)
 
 ![Pasted image 20260130224127.png](/img/user/z_Assets/website/Pasted%20image%2020260130224127.png)
 
