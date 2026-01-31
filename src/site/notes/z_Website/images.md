@@ -304,6 +304,8 @@
 
 ![Orin Blackstone.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Orin%20Blackstone.png)
 
+![Professor Delta.png](/img/user/z_Assets/character_art/NPCs/Professor%20Delta.png)
+
 ![Quentin Rooke.jpg](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Quentin%20Rooke.jpg)
 
 ![Rowan Greengale.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Rowan%20Greengale.png)
@@ -340,29 +342,31 @@
 
 ![Pasted image 20260130133110.png](/img/user/z_Assets/website/Pasted%20image%2020260130133110.png)
 
-![Pasted image 20260130133301.png](/img/user/z_Assets/website/Pasted%20image%2020260130133301.png)
+![Zaph.png](/img/user/z_Assets/website/Zaph.png)
 
-![Pasted image 20260130220742.png](/img/user/z_Assets/website/Pasted%20image%2020260130220742.png)
+![Senestrine.png](/img/user/z_Assets/website/Senestrine.png)
 
 ![Pasted image 20260130220923.png](/img/user/z_Assets/website/Pasted%20image%2020260130220923.png)
 
-![Pasted image 20260129215418.png](/img/user/z_Assets/website/Pasted%20image%2020260129215418.png)
+![Karl Shaffer.png](/img/user/z_Assets/website/Karl%20Shaffer.png)
 
 ![Pasted image 20260129215649.png](/img/user/z_Assets/website/Pasted%20image%2020260129215649.png)
 
-![Pasted image 20260129220103.png](/img/user/z_Assets/website/Pasted%20image%2020260129220103.png)
+![Lianna Flametongue.png](/img/user/z_Assets/website/Lianna%20Flametongue.png)
 
 ![Pasted image 20260129220226.png](/img/user/z_Assets/website/Pasted%20image%2020260129220226.png)
 
-![Pasted image 20260129221219.png](/img/user/z_Assets/website/Pasted%20image%2020260129221219.png)
+![Dapplewing.png](/img/user/z_Assets/website/Dapplewing.png)
 
 ![Pasted image 20260129221548.png](/img/user/z_Assets/website/Pasted%20image%2020260129221548.png)
 
 ![Pasted image 20260129221712.png](/img/user/z_Assets/website/Pasted%20image%2020260129221712.png)
 
-![Pasted image 20260129222042.png](/img/user/z_Assets/website/Pasted%20image%2020260129222042.png)
+![Xyla Langning.png](/img/user/z_Assets/website/Xyla%20Langning.png)
 
-![Pasted image 20260130132527.png](/img/user/z_Assets/website/Pasted%20image%2020260130132527.png)
+![Ahkwa.png](/img/user/z_Assets/website/Ahkwa.png)
+
+![07-010.galazeth-prismari.png](/img/user/z_Assets/character_art/NPCs/Staff/07-010.galazeth-prismari.png)
 
 ![Pasted image 20260130132652.png](/img/user/z_Assets/website/Pasted%20image%2020260130132652.png)
 
@@ -376,17 +380,17 @@
 
 ![Pasted image 20260130232723.png](/img/user/z_Assets/website/Pasted%20image%2020260130232723.png)
 
-![Pasted image 20260130232834.png](/img/user/z_Assets/website/Pasted%20image%2020260130232834.png)
+![Clem.png](/img/user/z_Assets/website/Clem.png)
 
-![Pasted image 20260130232947.png](/img/user/z_Assets/website/Pasted%20image%2020260130232947.png)
+![Jazzack.png](/img/user/z_Assets/website/Jazzack.png)
 
 ![Pasted image 20260130233046.png](/img/user/z_Assets/website/Pasted%20image%2020260130233046.png)
 
-![Pasted image 20260130233243.png](/img/user/z_Assets/website/Pasted%20image%2020260130233243.png)
+![Ronald Rothton.png](/img/user/z_Assets/website/Ronald%20Rothton.png)
 
-![Pasted image 20260130234336.png](/img/user/z_Assets/website/Pasted%20image%2020260130234336.png)
+![Smart Mouth.png](/img/user/z_Assets/website/Smart%20Mouth.png)
 
-![Pasted image 20260130234528.png](/img/user/z_Assets/website/Pasted%20image%2020260130234528.png)
+![Sace.png](/img/user/z_Assets/website/Sace.png)
 
 ![Pasted image 20260130235615.png](/img/user/z_Assets/website/Pasted%20image%2020260130235615.png)
 
@@ -398,11 +402,11 @@
 
 ![Pasted image 20260131001116.png](/img/user/z_Assets/website/Pasted%20image%2020260131001116.png)
 
-![Pasted image 20260131001232.png](/img/user/z_Assets/website/Pasted%20image%2020260131001232.png)
+![Kojil.png](/img/user/z_Assets/website/Kojil.png)
 
-![Pasted image 20260131001347.png](/img/user/z_Assets/website/Pasted%20image%2020260131001347.png)
+![Verooja.png](/img/user/z_Assets/website/Verooja.png)
 
-![Pasted image 20260131002249.png](/img/user/z_Assets/website/Pasted%20image%2020260131002249.png)
+![Venoc.png](/img/user/z_Assets/website/Venoc.png)
 
 ![Pasted image 20250911160709.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911160709.png)
 
@@ -426,23 +430,23 @@
 
 ![28c059ae-7faa-4138-a3b9-d698eccb9c10.png](/img/user/z_Assets/website/28c059ae-7faa-4138-a3b9-d698eccb9c10.png)
 
-![Pasted image 20260129215418.png](/img/user/z_Assets/website/Pasted%20image%2020260129215418.png)
+![Karl Shaffer.png](/img/user/z_Assets/website/Karl%20Shaffer.png)
 
 ![Pasted image 20260129215649.png](/img/user/z_Assets/website/Pasted%20image%2020260129215649.png)
 
-![Pasted image 20260129220103.png](/img/user/z_Assets/website/Pasted%20image%2020260129220103.png)
+![Lianna Flametongue.png](/img/user/z_Assets/website/Lianna%20Flametongue.png)
 
 ![Pasted image 20260129220226.png](/img/user/z_Assets/website/Pasted%20image%2020260129220226.png)
 
-![Pasted image 20260129221219.png](/img/user/z_Assets/website/Pasted%20image%2020260129221219.png)
+![Dapplewing.png](/img/user/z_Assets/website/Dapplewing.png)
 
 ![Pasted image 20260129221548.png](/img/user/z_Assets/website/Pasted%20image%2020260129221548.png)
 
 ![Pasted image 20260129221712.png](/img/user/z_Assets/website/Pasted%20image%2020260129221712.png)
 
-![Pasted image 20260129222042.png](/img/user/z_Assets/website/Pasted%20image%2020260129222042.png)
+![Xyla Langning.png](/img/user/z_Assets/website/Xyla%20Langning.png)
 
-![Pasted image 20260130132527.png](/img/user/z_Assets/website/Pasted%20image%2020260130132527.png)
+![Ahkwa.png](/img/user/z_Assets/website/Ahkwa.png)
 
 ![Pasted image 20260130132652.png](/img/user/z_Assets/website/Pasted%20image%2020260130132652.png)
 
@@ -452,9 +456,9 @@
 
 ![Pasted image 20260130133110.png](/img/user/z_Assets/website/Pasted%20image%2020260130133110.png)
 
-![Pasted image 20260130133301.png](/img/user/z_Assets/website/Pasted%20image%2020260130133301.png)
+![Zaph.png](/img/user/z_Assets/website/Zaph.png)
 
-![Pasted image 20260130220742.png](/img/user/z_Assets/website/Pasted%20image%2020260130220742.png)
+![Senestrine.png](/img/user/z_Assets/website/Senestrine.png)
 
 ![Pasted image 20260130220923.png](/img/user/z_Assets/website/Pasted%20image%2020260130220923.png)
 
@@ -468,17 +472,17 @@
 
 ![Pasted image 20260130232723.png](/img/user/z_Assets/website/Pasted%20image%2020260130232723.png)
 
-![Pasted image 20260130232834.png](/img/user/z_Assets/website/Pasted%20image%2020260130232834.png)
+![Clem.png](/img/user/z_Assets/website/Clem.png)
 
-![Pasted image 20260130232947.png](/img/user/z_Assets/website/Pasted%20image%2020260130232947.png)
+![Jazzack.png](/img/user/z_Assets/website/Jazzack.png)
 
 ![Pasted image 20260130233046.png](/img/user/z_Assets/website/Pasted%20image%2020260130233046.png)
 
-![Pasted image 20260130233243.png](/img/user/z_Assets/website/Pasted%20image%2020260130233243.png)
+![Ronald Rothton.png](/img/user/z_Assets/website/Ronald%20Rothton.png)
 
-![Pasted image 20260130234336.png](/img/user/z_Assets/website/Pasted%20image%2020260130234336.png)
+![Smart Mouth.png](/img/user/z_Assets/website/Smart%20Mouth.png)
 
-![Pasted image 20260130234528.png](/img/user/z_Assets/website/Pasted%20image%2020260130234528.png)
+![Sace.png](/img/user/z_Assets/website/Sace.png)
 
 ![Pasted image 20260130235615.png](/img/user/z_Assets/website/Pasted%20image%2020260130235615.png)
 
@@ -490,11 +494,15 @@
 
 ![Pasted image 20260131001116.png](/img/user/z_Assets/website/Pasted%20image%2020260131001116.png)
 
-![Pasted image 20260131001232.png](/img/user/z_Assets/website/Pasted%20image%2020260131001232.png)
+![Kojil.png](/img/user/z_Assets/website/Kojil.png)
 
-![Pasted image 20260131001347.png](/img/user/z_Assets/website/Pasted%20image%2020260131001347.png)
+![Verooja.png](/img/user/z_Assets/website/Verooja.png)
 
-![Pasted image 20260131002249.png](/img/user/z_Assets/website/Pasted%20image%2020260131002249.png)
+![Venoc.png](/img/user/z_Assets/website/Venoc.png)
+
+![cogwork-archivist.webp](/img/user/3-Mechanics/CLI/bestiary/construct/img/cogwork-archivist.webp)
+
+![Tulk.png](/img/user/z_Assets/character_art/NPCs/Tulk.png)
 
 ![Pasted image 20260131135002.png](/img/user/z_Assets/website/Pasted%20image%2020260131135002.png)
 
@@ -513,4 +521,8 @@
 ![raf,360x360,075,t,fafafa_ca443f4786.jpg](/img/user/z_Assets/website/raf,360x360,075,t,fafafa_ca443f4786.jpg)
 
 ![28c059ae-7faa-4138-a3b9-d698eccb9c10 1.png](/img/user/z_Assets/website/28c059ae-7faa-4138-a3b9-d698eccb9c10%201.png)
+
+![Template_Person_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Person_Placeholder.png)
+
+![Veyra Murgaxor.png](/img/user/z_Assets/character_art/NPCs/Veyra%20Murgaxor.png)
 

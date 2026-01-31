@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250907170623.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Orc","char_gender":"Male","char_role":"Tavern Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Tulk Tusktooth.md","permalink":"/world/people/staff/tulk-tusktooth/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Tulk.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Orc","char_gender":"Male","char_role":"Tavern Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Tulk Tusktooth.md","permalink":"/world/people/staff/tulk-tusktooth/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Tulk Tusktooth
-> ![Pasted image 20250907170623.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250907170623.png)
+> ![Tulk.png](/img/user/z_Assets/character_art/NPCs/Tulk.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260130133301.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"FtM","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Prismari/Zaph.md","permalink":"/world/people/staff/prismari/zaph/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zaph.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"FtM","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Prismari/Zaph.md","permalink":"/world/people/staff/prismari/zaph/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Zaph
-> ![Pasted image 20260130133301.png](/img/user/z_Assets/website/Pasted%20image%2020260130133301.png)
+> ![Zaph.png](/img/user/z_Assets/website/Zaph.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

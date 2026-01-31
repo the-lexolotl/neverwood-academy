@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260131001232.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Firbolg","char_gender":"Male","char_role":"Professor of Growth","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Witherbloom/Kojil the Tamer.md","permalink":"/world/people/staff/witherbloom/kojil-the-tamer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Kojil.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Firbolg","char_gender":"Male","char_role":"Professor of Growth","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Witherbloom/Kojil the Tamer.md","permalink":"/world/people/staff/witherbloom/kojil-the-tamer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Kojil the Tamer
-> ![Pasted image 20260131001232.png](/img/user/z_Assets/website/Pasted%20image%2020260131001232.png)
+> ![Kojil.png](/img/user/z_Assets/website/Kojil.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

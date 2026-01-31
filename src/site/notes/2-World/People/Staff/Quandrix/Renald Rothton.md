@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260130233243.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Theory","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Quandrix/Renald Rothton.md","permalink":"/world/people/staff/quandrix/renald-rothton/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ronald Rothton.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Theory","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Quandrix/Renald Rothton.md","permalink":"/world/people/staff/quandrix/renald-rothton/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Renald Rothton
-> ![Pasted image 20260130233243.png](/img/user/z_Assets/website/Pasted%20image%2020260130233243.png)
+> ![Ronald Rothton.png](/img/user/z_Assets/website/Ronald%20Rothton.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

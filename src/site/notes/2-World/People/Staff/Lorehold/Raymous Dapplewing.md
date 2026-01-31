@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260129221219.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Captain Raymous Dapplewing","Captain Dapplewing"],"NoteStatus":"❓","char_status":"Dead","char_race":"Owlin","char_gender":"Male","char_role":"Veteran","char_college":"Lorehold","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Raymous Dapplewing.md","permalink":"/world/people/staff/lorehold/raymous-dapplewing/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Dapplewing.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Captain Raymous Dapplewing","Captain Dapplewing"],"NoteStatus":"❓","char_status":"Dead","char_race":"Owlin","char_gender":"Male","char_role":"Veteran","char_college":"Lorehold","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Silverquill College|Silverquill College]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Raymous Dapplewing.md","permalink":"/world/people/staff/lorehold/raymous-dapplewing/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Raymous Dapplewing
-> ![Pasted image 20260129221219.png](/img/user/z_Assets/website/Pasted%20image%2020260129221219.png)
+> ![Dapplewing.png](/img/user/z_Assets/website/Dapplewing.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

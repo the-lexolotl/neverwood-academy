@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260129222042.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Gnome","char_gender":"Female","char_role":"Professor of Order","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Xyla Langning.md","permalink":"/world/people/staff/lorehold/xyla-langning/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Xyla Langning.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Gnome","char_gender":"Female","char_role":"Professor of Order","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Xyla Langning.md","permalink":"/world/people/staff/lorehold/xyla-langning/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Xyla Langning
-> ![Pasted image 20260129222042.png](/img/user/z_Assets/website/Pasted%20image%2020260129222042.png)
+> ![Xyla Langning.png](/img/user/z_Assets/website/Xyla%20Langning.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260130232947.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Harengon","char_gender":"Male","char_role":"Professor of Substance","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Quandrix/Jazzack Quickfood.md","permalink":"/world/people/staff/quandrix/jazzack-quickfood/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Jazzack.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Harengon","char_gender":"Male","char_role":"Professor of Substance","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Quandrix/Jazzack Quickfood.md","permalink":"/world/people/staff/quandrix/jazzack-quickfood/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Jazzack Quickfood
-> ![Pasted image 20260130232947.png](/img/user/z_Assets/website/Pasted%20image%2020260130232947.png)
+> ![Jazzack.png](/img/user/z_Assets/website/Jazzack.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

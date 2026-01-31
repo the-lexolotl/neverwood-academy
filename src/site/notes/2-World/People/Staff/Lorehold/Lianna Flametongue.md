@@ -1,11 +1,11 @@
 ---
-{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20260129220103.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Lianna Flametongue.md","permalink":"/world/people/staff/lorehold/lianna-flametongue/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Lianna Flametongue.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Lorehold College|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Staff/Lorehold/Lianna Flametongue.md","permalink":"/world/people/staff/lorehold/lianna-flametongue/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Lianna Flametongue
-> ![Pasted image 20260129220103.png](/img/user/z_Assets/website/Pasted%20image%2020260129220103.png)
+> ![Lianna Flametongue.png](/img/user/z_Assets/website/Lianna%20Flametongue.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
