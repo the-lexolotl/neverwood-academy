@@ -39,8 +39,8 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                      | Halfling    | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Matreous\|Matreous]]                                          | Human       | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]          | Giant       | Male       | Professor of Order |
-| [[2-World/People/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin       | Male       | Veteran            |
 | [[2-World/People/Staff/Lorehold/Plargg\|Plargg]]                                              | Orc         | Male       | College Dean       |
+| [[2-World/People/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin       | Male       | Veteran            |
 | [[2-World/People/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
 | [[2-World/People/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin       | Male       | Professor of Chaos |
 | [[2-World/People/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon      | Female     | Founder Dragon     |
