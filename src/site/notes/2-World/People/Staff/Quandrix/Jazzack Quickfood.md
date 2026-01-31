@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Jazzack Quickfood
-> ![Pasted image 20260130232947.png](/img/user/z_Assets/Pasted%20image%2020260130232947.png)
+> ![Pasted image 20260130232947.png](/img/user/z_Assets/website/Pasted%20image%2020260130232947.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

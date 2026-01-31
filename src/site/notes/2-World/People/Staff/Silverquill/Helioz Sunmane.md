@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Helioz Sunmane
-> ![Pasted image 20260130235615.png](/img/user/z_Assets/Pasted%20image%2020260130235615.png)
+> ![Pasted image 20260130235615.png](/img/user/z_Assets/website/Pasted%20image%2020260130235615.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Tervis Sharpwing
-> ![Pasted image 20260129221712.png](/img/user/z_Assets/Pasted%20image%2020260129221712.png)
+> ![Pasted image 20260129221712.png](/img/user/z_Assets/website/Pasted%20image%2020260129221712.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

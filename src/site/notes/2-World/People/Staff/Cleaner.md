@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Cleaner
-> ![raf,360x360,075,t,fafafa_ca443f4786.jpg](/img/user/z_Assets/raf,360x360,075,t,fafafa_ca443f4786.jpg)
+> ![raf,360x360,075,t,fafafa_ca443f4786.jpg](/img/user/z_Assets/website/raf,360x360,075,t,fafafa_ca443f4786.jpg)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

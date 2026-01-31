@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Coriander
-> ![Pasted image 20260130223854.png](/img/user/z_Assets/Pasted%20image%2020260130223854.png)
+> ![Pasted image 20260130223854.png](/img/user/z_Assets/website/Pasted%20image%2020260130223854.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

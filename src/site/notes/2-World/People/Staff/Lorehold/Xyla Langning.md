@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Xyla Langning
-> ![Pasted image 20260129222042.png](/img/user/z_Assets/Pasted%20image%2020260129222042.png)
+> ![Pasted image 20260129222042.png](/img/user/z_Assets/website/Pasted%20image%2020260129222042.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

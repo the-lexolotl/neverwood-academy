@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Isabrough
-> ![Pasted image 20260131135326.png](/img/user/z_Assets/Pasted%20image%2020260131135326.png)
+> ![Pasted image 20260131135326.png](/img/user/z_Assets/website/Pasted%20image%2020260131135326.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

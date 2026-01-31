@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Asana Vargundil
-> ![Pasted image 20260131001116.png](/img/user/z_Assets/Pasted%20image%2020260131001116.png)
+> ![Pasted image 20260131001116.png](/img/user/z_Assets/website/Pasted%20image%2020260131001116.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

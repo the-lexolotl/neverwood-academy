@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Sace Solindiel
-> ![Pasted image 20260130234528.png](/img/user/z_Assets/Pasted%20image%2020260130234528.png)
+> ![Pasted image 20260130234528.png](/img/user/z_Assets/website/Pasted%20image%2020260130234528.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Dramitia
-> ![Pasted image 20260131135002.png](/img/user/z_Assets/Pasted%20image%2020260131135002.png)
+> ![Pasted image 20260131135002.png](/img/user/z_Assets/website/Pasted%20image%2020260131135002.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

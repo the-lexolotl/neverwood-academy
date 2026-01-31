@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Luc Brandford
-> ![Pasted image 20260130235850.png](/img/user/z_Assets/Pasted%20image%2020260130235850.png)
+> ![Pasted image 20260130235850.png](/img/user/z_Assets/website/Pasted%20image%2020260130235850.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

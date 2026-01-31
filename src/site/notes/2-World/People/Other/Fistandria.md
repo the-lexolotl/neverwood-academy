@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Fistandria
-> ![Pasted image 20260130224252.png](/img/user/z_Assets/Pasted%20image%2020260130224252.png)
+> ![Pasted image 20260130224252.png](/img/user/z_Assets/website/Pasted%20image%2020260130224252.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

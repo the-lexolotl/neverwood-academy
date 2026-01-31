@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Arkin Minexes
-> ![Pasted image 20260130132719.png](/img/user/z_Assets/Pasted%20image%2020260130132719.png)
+> ![Pasted image 20260130132719.png](/img/user/z_Assets/website/Pasted%20image%2020260130132719.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

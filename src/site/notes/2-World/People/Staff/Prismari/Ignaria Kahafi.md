@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Ignaria Kahafi
-> ![Pasted image 20260130132949.png](/img/user/z_Assets/Pasted%20image%2020260130132949.png)
+> ![Pasted image 20260130132949.png](/img/user/z_Assets/website/Pasted%20image%2020260130132949.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

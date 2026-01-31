@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Senestrine Darou
-> ![Pasted image 20260130220742.png](/img/user/z_Assets/Pasted%20image%2020260130220742.png)
+> ![Pasted image 20260130220742.png](/img/user/z_Assets/website/Pasted%20image%2020260130220742.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

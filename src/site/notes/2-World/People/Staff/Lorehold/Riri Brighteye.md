@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Riri Brighteye
-> ![Pasted image 20260129221548.png](/img/user/z_Assets/Pasted%20image%2020260129221548.png)
+> ![Pasted image 20260129221548.png](/img/user/z_Assets/website/Pasted%20image%2020260129221548.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

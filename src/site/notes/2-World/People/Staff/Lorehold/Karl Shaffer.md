@@ -8,7 +8,7 @@
 
 > [!infobox|left]+
 > # Karl Shaffer
-> ![Pasted image 20260129215418.png](/img/user/z_Assets/Pasted%20image%2020260129215418.png)
+> ![Pasted image 20260129215418.png](/img/user/z_Assets/website/Pasted%20image%2020260129215418.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

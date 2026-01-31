@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Melvi Le Donto
-> ![Pasted image 20260131135049.png](/img/user/z_Assets/Pasted%20image%2020260131135049.png)
+> ![Pasted image 20260131135049.png](/img/user/z_Assets/website/Pasted%20image%2020260131135049.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

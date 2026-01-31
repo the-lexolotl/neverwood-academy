@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Zaph
-> ![Pasted image 20260130133301.png](/img/user/z_Assets/Pasted%20image%2020260130133301.png)
+> ![Pasted image 20260130133301.png](/img/user/z_Assets/website/Pasted%20image%2020260130133301.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

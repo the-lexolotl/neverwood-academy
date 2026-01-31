@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Raymous Dapplewing
-> ![Pasted image 20260129221219.png](/img/user/z_Assets/Pasted%20image%2020260129221219.png)
+> ![Pasted image 20260129221219.png](/img/user/z_Assets/website/Pasted%20image%2020260129221219.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

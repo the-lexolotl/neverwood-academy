@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Shtomp
-> ![Pasted image 20260131141306.png](/img/user/z_Assets/Pasted%20image%2020260131141306.png)
+> ![Pasted image 20260131141306.png](/img/user/z_Assets/website/Pasted%20image%2020260131141306.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

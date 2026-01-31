@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Ricard Ruanad
-> ![Pasted image 20260131141220.png](/img/user/z_Assets/Pasted%20image%2020260131141220.png)
+> ![Pasted image 20260131141220.png](/img/user/z_Assets/website/Pasted%20image%2020260131141220.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

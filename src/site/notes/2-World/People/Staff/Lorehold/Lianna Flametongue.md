@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Lianna Flametongue
-> ![Pasted image 20260129220103.png](/img/user/z_Assets/Pasted%20image%2020260129220103.png)
+> ![Pasted image 20260129220103.png](/img/user/z_Assets/website/Pasted%20image%2020260129220103.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Clem Greenthumb
-> ![Pasted image 20260130232834.png](/img/user/z_Assets/Pasted%20image%2020260130232834.png)
+> ![Pasted image 20260130232834.png](/img/user/z_Assets/website/Pasted%20image%2020260130232834.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

@@ -9,7 +9,7 @@
 
 > [!infobox|left]+
 > # Reynard Blackstone
-> ![Pasted image 20260131140647.png](/img/user/z_Assets/Pasted%20image%2020260131140647.png)
+> ![Pasted image 20260131140647.png](/img/user/z_Assets/website/Pasted%20image%2020260131140647.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
@@ -39,4 +39,4 @@
 **Allies** - None/Unknown
 **Enemies** - None/Unknown
 
-![28c059ae-7faa-4138-a3b9-d698eccb9c10 1.png](/img/user/z_Assets/28c059ae-7faa-4138-a3b9-d698eccb9c10%201.png)
+![28c059ae-7faa-4138-a3b9-d698eccb9c10 1.png](/img/user/z_Assets/website/28c059ae-7faa-4138-a3b9-d698eccb9c10%201.png)

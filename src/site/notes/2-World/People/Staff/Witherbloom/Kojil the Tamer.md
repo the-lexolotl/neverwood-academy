@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Kojil the Tamer
-> ![Pasted image 20260131001232.png](/img/user/z_Assets/Pasted%20image%2020260131001232.png)
+> ![Pasted image 20260131001232.png](/img/user/z_Assets/website/Pasted%20image%2020260131001232.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

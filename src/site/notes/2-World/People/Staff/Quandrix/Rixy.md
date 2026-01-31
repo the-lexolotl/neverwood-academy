@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Rixy
-> ![Pasted image 20260130220923.png](/img/user/z_Assets/Pasted%20image%2020260130220923.png)
+> ![Pasted image 20260130220923.png](/img/user/z_Assets/website/Pasted%20image%2020260130220923.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

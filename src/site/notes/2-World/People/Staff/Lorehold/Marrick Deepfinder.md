@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Marrick Deepfinder
-> ![Pasted image 20260129220226.png](/img/user/z_Assets/Pasted%20image%2020260129220226.png)
+> ![Pasted image 20260129220226.png](/img/user/z_Assets/website/Pasted%20image%2020260129220226.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
