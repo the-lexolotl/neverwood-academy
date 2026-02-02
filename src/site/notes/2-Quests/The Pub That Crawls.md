@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"Not Started","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","questSessionObtained":"[[2025-11-01 - Session 17|2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"questGiver":null,"dg-path":"Quests/The Pub That Crawls.md","permalink":"/quests/the-pub-that-crawls/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"In Progress","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","questSessionObtained":"[[2025-11-01 - Session 17|2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"questGiver":null,"dg-path":"Quests/The Pub That Crawls.md","permalink":"/quests/the-pub-that-crawls/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -9,10 +9,10 @@
 # Quest Info
 
 ## 🪶 Main Objectives
-- [ ] Discover the Legend
-	- [ ] Find Notes on the Pub That Crawls in the Biblioplex.
-	- [ ] Decode the handwritten notes and the attached travel brochure.
-	- [ ] Learn of the five pubs — each created by a different founder.
+- [x] Discover the Legend
+	- [x] Find Notes on the Pub That Crawls in the Biblioplex.
+	- [x] Decode the handwritten notes and the attached travel brochure.
+	- [x] Learn of the five pubs — each created by a different founder.
 - [ ] Complete the Five Pubs
 
 - [ ] Assemble the Potion
@@ -46,7 +46,7 @@
 
 | Date Obtained:    | 2025-11-01                                                                                                                                                |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Status:           | Not Started                                                                                                                                      |
+| Status:           | In Progress                                                                                                                                      |
 | Quest Giver:      | Unknown                                                                                                                   |
 | Quest Locations:  | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]], [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]],  [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|Session 17 - Chaos in the Kitchen]]                                                                                            |

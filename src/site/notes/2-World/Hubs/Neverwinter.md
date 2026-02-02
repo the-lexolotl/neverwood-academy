@@ -112,7 +112,7 @@ Exhaustion Level: 0
 
 | File                                                     | Status      | Date Obtained |
 | -------------------------------------------------------- | ----------- | ------------- |
-| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]] | Not Started | 01 Nov, 2025  |
+| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]] | In Progress | 01 Nov, 2025  |
 
 { .block-language-dataview}
 
