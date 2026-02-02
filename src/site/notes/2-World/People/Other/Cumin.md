@@ -1,11 +1,11 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Pasted image 20260130223917.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[Fistandria]]"],"children":null,"enemies":null,"allies":["[[Freyot]]","[[Coriander]]"],"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Cumin.md","permalink":"/world/people/other/cumin/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"None","MyCategory":null,"image":"Cumin.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Homunculi","char_gender":"Other","char_role":"Butler","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[Fistandria]]"],"children":null,"enemies":null,"allies":["[[Freyot]]","[[Coriander]]"],"siblings":null,"partner":null,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Cumin.md","permalink":"/world/people/other/cumin/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Cumin
-> ![Pasted image 20260130223917.png](/img/user/z_Assets/website/Pasted%20image%2020260130223917.png)
+> ![Cumin.png](/img/user/z_Assets/website/Cumin.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

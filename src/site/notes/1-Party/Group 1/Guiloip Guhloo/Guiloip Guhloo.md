@@ -30,7 +30,15 @@
 > **Climbing** | 15 ft | **Running High Jump** | 3 ft |
 
 ## Biography
-*Awaiting Biography Write up*
+*Guiloip Guhloo — known to most simply as Glue — is a Triton druid from the lightless reaches of the deep sea. Born into a nomadic family of healers, he spent his early life travelling between scattered tribes, learning to tend wounds and soothe sickness amid the ever-shifting currents of underwater conflict. Though the wars that scarred his homeland began over causes long forgotten, their violence never truly faded. Glue’s parents refused allegiance to any banner, choosing instead to offer aid to all who suffered, a lesson that shaped his earliest understanding of duty and compassion.
+
+Tragedy struck when his parents were caught in the crossfire of a skirmish between rival tribes. Mortally wounded, they entrusted Glue with their final wish: that he leave the battlefield behind and devote his life to healing for the greater good. Carrying both their teachings and their hopes, Glue sought a future beyond the ocean’s wars. Through Neverwood Academy’s outreach scholarship, he was granted passage to the surface world and a place among its students, trading coral halls and saltwater currents for lecture rooms and forest paths.
+
+Within the Academy, Glue studies as a druid of the Circle of the Sea, bringing his maritime magic into harmony with the natural lore of Withbloom. His chief academic focus is the cultivation and application of medicinal plants, and he approaches botany with the same quiet reverence his parents once showed the injured and dying. However, his knowledge of surface-dwelling anatomy remains frustratingly incomplete. Accustomed to fins, gills, and scaled organs, Glue sometimes misjudges how his remedies affect land creatures, resulting in treatments that work — but with unintended and occasionally inconvenient side effects.
+
+In his personal life, Glue is earnest but not especially perceptive. He often acts with an air of impassive confidence, even when he has only the vaguest idea what he is doing, and this lack of self-doubt can make him appear foolish to those who know him well. Among his companions he is kind-hearted and dependable, quick to offer aid but slow to recognise when his methods may be flawed. His greatest fear is that he will one day cause real harm through ignorance rather than malice, failing to honour the sacrifice his parents made for his future.
+
+Ultimately, Glue dreams of becoming a healer whose work transcends the boundaries of land and sea alike — one who can unite the medicinal traditions of ocean and forest into a single, living discipline. He hopes to prove that even in a world shaped by ancient grudges and unfamiliar bodies, compassion and persistence can still bring renewal, even if the path there is marked by the occasional catastrophic misdiagnosis.*
 
 ## Appearance
 

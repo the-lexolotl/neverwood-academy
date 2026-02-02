@@ -30,7 +30,15 @@
 > **Climbing** | 15 ft | **Running High Jump** | 2 ft |
 
 ## Biography
-*Awaiting Biography Write up*
+Lyra Everlight is a Variant Aasimar of striking appearance, her great white wings marking her as both blessed and burdened by celestial heritage. She was raised amid luxury and polished marble halls, the daughter of influential patrons whose wealth and long-standing donations to Neverwood Academy ensured her place among its students long before she ever set foot on campus. Yet for all their generosity to the institution, Lyra’s parents gave little of themselves to their child. Absorbed in the expansion of their business empire, they left her to be raised by tutors and attendants, fostering a relationship defined more by obligation than affection.
+
+This emotional distance shaped Lyra into someone fiercely independent and unafraid to speak her mind. She is stubborn, outspoken, and quick to challenge authority when she feels slighted or ignored. Though her celestial nature grants her an instinct for compassion, she tempers it with sharp wit and theatrical exasperation, often scolding her friends for reckless behaviour even as she rushes to mend their wounds. Her threats to withhold healing after particularly foolish injuries are well known — and almost never carried out.
+
+At Neverwood Academy, Lyra has found a stage worthy of her presence. As a student of Silverquill and a cleric of the Twilight Domain, she balances her divine calling with a love of performance, cheerleading, and dramatic expression. Her popularity among the student body owes as much to her radiant charisma as to her willingness to stand visibly between danger and those she cares for. To Lyra, protection is not a quiet duty but a public declaration: she will be seen defending what matters.
+
+Beneath her confidence, however, lies a persistent ache for recognition that is not bought or arranged. Lyra measures her worth not by her family’s influence, but by the loyalty of her companions and the trust they place in her healing hands. Her greatest fear is that she will one day resemble her parents too closely — distant, untouchable, and defined by status rather than connection.
+
+Lyra’s ambition is simple in spirit, if not in practice: to become someone who safeguards others through both magic and presence. She dreams of forging a legacy that belongs wholly to her, not to the Everlight name, proving that devotion, courage, and chosen family can shine more brightly than inherited power. In the glow of twilight, where light and shadow meet, Lyra has found a faith that mirrors her own path — standing between worlds, and refusing to look away when others need her most.
 
 ## Appearance
 
