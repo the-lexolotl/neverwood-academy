@@ -68,12 +68,13 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 # People
 
 The following people are associated with this quest.
-| Character                                                               | Race       | Gender | Role                |
-| ----------------------------------------------------------------------- | ---------- | ------ | ------------------- |
-| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                | Human      | Male   | Deputy Head Teacher |
-| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human      | Male   | Professor of Chaos  |
-| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling   | Female | Professor of Theory |
-| [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]             | Dragonborn | Male   | Player              |
-| [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]          | Dragonborn | Female | Player              |
+| Character                                                                     | Race       | Gender | Role                |
+| ----------------------------------------------------------------------------- | ---------- | ------ | ------------------- |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                      | Human      | Male   | Deputy Head Teacher |
+| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]               | Human      | Male   | Professor of Chaos  |
+| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]       | Tiefling   | Female | Professor of Theory |
+| [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                   | Dragonborn | Male   | Player              |
+| [[1-Party/Group 3/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]] | Minotaur   | Male   | Player              |
+| [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                | Dragonborn | Female | Player              |
 
 { .block-language-dataview}
