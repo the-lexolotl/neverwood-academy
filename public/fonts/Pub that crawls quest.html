@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Pub That Crawls — Quest Journal</title>
+<link href="https://fonts.googleapis.com/css2?family=Diphylleia&display=swap" rel="stylesheet">
+<style>
+  /* Distillery Strong — loads when online; falls back gracefully when offline */
+  @import url('https://db.onlinewebfonts.com/c/b741399e65212214a65785c0e777b3e2?family=Distillery+Strong+W00+Regular');
+</style>
+<style>
+  :root {
+    --bg:        #c5c1a7;
+    --bg-dark:   #b8b49a;
+    --bg-darker: #aea98e;
+    --bg-mid:    #cdc9b0;
+    --bg-light:  #d8d4bc;
+    --text:      #323244;
+    --text-dim:  #555568;
+    --text-faint:#8888a0;
+    --wax-red:   #8b1a1a;
+    --wax-gold:  #7a5c08;
+    --wax-glow:  #8b6a0a;
+    --gold-dim:  #5a4206;
+    --complete:  #2d5a1b;
+    --complete-bg: #d4e8c8;
+    --complete-border: #3a7a22;
+    --active:    #7a5c08;
+    --locked:    #8888a0;
+    --locked-bg: #d0ccb4;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    min-height: 100vh;
+    font-family: 'Diphylleia', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    color: var(--text);
+    overflow-x: hidden;
+  }
+
+  /* ── Atmospheric overlay ── */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 60% 40% at 50% 0%, rgba(122,92,8,0.06) 0%, transparent 70%),
+      radial-gradient(ellipse 80% 60% at 20% 50%, rgba(100,80,0,0.03) 0%, transparent 60%),
+      radial-gradient(ellipse 80% 60% at 80% 50%, rgba(100,80,0,0.03) 0%, transparent 60%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── Grain overlay ── */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    opacity: 0.4;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .page-wrap {
+    position: relative;
+    z-index: 1;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+
+  /* ── Journal cover header ── */
+  .journal-header {
+    background: var(--bg-darker);
+    border: 3px solid var(--gold-dim);
+    border-radius: 4px;
+    padding: 48px 40px 36px;
+    margin-bottom: 40px;
+    position: relative;
+    box-shadow:
+      0 0 0 6px var(--bg),
+      0 0 0 8px var(--gold-dim),
+      0 8px 40px rgba(50,50,68,0.2),
+      inset 0 0 60px rgba(50,50,68,0.06);
+    overflow: hidden;
+  }
+
+  .journal-header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 28px,
+        rgba(50,50,68,0.04) 28px,
+        rgba(50,50,68,0.04) 29px
+      );
+    pointer-events: none;
+  }
+
+  .journal-header::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, transparent, var(--wax-gold), var(--wax-glow), var(--wax-gold), transparent);
+    opacity: 0.6;
+  }
+
+  .corner-ornament {
+    position: absolute;
+    font-size: 28px;
+    opacity: 0.25;
+    color: var(--wax-gold);
+    line-height: 1;
+  }
+  .corner-ornament.tl { top: 10px; left: 14px; }
+  .corner-ornament.tr { top: 10px; right: 14px; transform: scaleX(-1); }
+  .corner-ornament.bl { bottom: 10px; left: 14px; transform: scaleY(-1); }
+  .corner-ornament.br { bottom: 10px; right: 14px; transform: scale(-1,-1); }
+
+  .pub-title {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: clamp(42px, 8vw, 72px);
+    color: var(--text);
+    text-align: center;
+    line-height: 1;
+    margin-bottom: 8px;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+    letter-spacing: 2px;
+  }
+
+  .sub-title {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 13px;
+    letter-spacing: 6px;
+    text-align: center;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-bottom: 28px;
+  }
+
+  .divider {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 20px 0;
+    opacity: 0.4;
+  }
+  .divider-line { flex: 1; height: 1px; background: var(--wax-gold); }
+  .divider-gem { font-size: 14px; color: var(--wax-gold); }
+
+  .header-lore {
+    font-size: 15px;
+    font-style: italic;
+    color: var(--text-dim);
+    text-align: center;
+    line-height: 1.7;
+    max-width: 560px;
+    margin: 0 auto;
+  }
+
+  .wax-seal {
+    width: 70px;
+    height: 70px;
+    background: radial-gradient(circle at 38% 38%, #c23030, var(--wax-red) 50%, #5a0f0f);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    color: #f0c8c8;
+    margin: 24px auto 0;
+    box-shadow:
+      0 4px 12px rgba(0,0,0,0.5),
+      inset 0 2px 4px rgba(255,255,255,0.15),
+      inset 0 -2px 4px rgba(0,0,0,0.3);
+    position: relative;
+  }
+
+  .wax-seal::before {
+    content: '';
+    position: absolute;
+    inset: 6px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,200,200,0.2);
+  }
+
+  /* ── Progress bar ── */
+  .progress-section {
+    background: var(--bg-light);
+    border: 2px solid var(--bg-dark);
+    border-radius: 3px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    box-shadow: 0 4px 20px rgba(50,50,68,0.15), inset 0 0 30px rgba(50,50,68,0.04);
+  }
+
+  .progress-label {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 11px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .progress-pubs {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .pub-pip {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 2px solid var(--bg-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    background: var(--locked-bg);
+    color: var(--locked);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 13px;
+    font-weight: 700;
+  }
+
+  .pub-pip.done {
+    background: var(--complete-bg);
+    border-color: var(--complete-border);
+    color: var(--complete);
+  }
+
+  .pub-pip.done::after {
+    content: '✓';
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    background: var(--complete-bg);
+    border-radius: 50%;
+  }
+
+  .pub-pip.active {
+    background: var(--parch-mid);
+    border-color: var(--wax-gold);
+    color: var(--wax-gold);
+    box-shadow: 0 0 12px rgba(184,134,11,0.4);
+    animation: pulse-pip 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-pip {
+    0%, 100% { box-shadow: 0 0 8px rgba(184,134,11,0.3); }
+    50% { box-shadow: 0 0 18px rgba(184,134,11,0.6); }
+  }
+
+  .drinks-tally {
+    margin-top: 14px;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    align-items: center;
+  }
+
+  .tally-label {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-right: 4px;
+  }
+
+  .tankard {
+    font-size: 20px;
+    opacity: 0.3;
+    transition: all 0.4s ease;
+    filter: grayscale(1);
+  }
+
+  .tankard.filled {
+    opacity: 1;
+    filter: none;
+    animation: fill-tankard 0.5s ease;
+  }
+
+  @keyframes fill-tankard {
+    0% { transform: scale(1.4) rotate(-10deg); }
+    60% { transform: scale(0.9) rotate(3deg); }
+    100% { transform: scale(1) rotate(0deg); }
+  }
+
+  /* ── Quest sections ── */
+  .quest-section {
+    margin-bottom: 20px;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.6);
+    transition: box-shadow 0.3s ease;
+  }
+
+  .quest-section:hover {
+    box-shadow: 0 6px 32px rgba(0,0,0,0.7);
+  }
+
+  .quest-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px 20px;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    border-bottom: 1px solid transparent;
+    transition: all 0.25s ease;
+  }
+
+  .quest-header:hover { filter: brightness(1.04); }
+
+  /* States */
+  .quest-section.state-locked .quest-header {
+    background: var(--bg-dark);
+    border-color: var(--bg-darker);
+  }
+
+  .quest-section.state-locked .quest-body {
+    background: var(--bg-dark);
+  }
+
+  .quest-section.state-active .quest-header {
+    background: linear-gradient(135deg, var(--bg-light), var(--bg-mid));
+    border-color: var(--wax-gold);
+    box-shadow: inset 0 0 30px rgba(122,92,8,0.04);
+  }
+
+  .quest-section.state-active .quest-body {
+    background: linear-gradient(180deg, var(--bg-mid), var(--bg-light));
+  }
+
+  .quest-section.state-complete .quest-header {
+    background: linear-gradient(135deg, #ccdfc4, #c4d8bc);
+    border-color: var(--complete-border);
+  }
+
+  .quest-section.state-complete .quest-body {
+    background: #c8dcc0;
+  }
+
+  /* Pub number badge */
+  .pub-number {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 15px;
+    font-weight: 700;
+    flex-shrink: 0;
+    border: 2px solid;
+  }
+
+  .state-locked .pub-number {
+    background: var(--locked-bg);
+    border-color: var(--bg-light);
+    color: var(--locked);
+  }
+
+  .state-active .pub-number {
+    background: rgba(212,160,23,0.12);
+    border-color: var(--wax-gold);
+    color: var(--wax-glow);
+    box-shadow: 0 0 10px rgba(212,160,23,0.25);
+  }
+
+  .state-complete .pub-number {
+    background: rgba(74,154,42,0.2);
+    border-color: var(--complete-border);
+    color: var(--complete);
+  }
+
+  .pub-number-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+
+  .state-complete .pub-number-inner::after {
+    content: '✓';
+    font-size: 16px;
+  }
+
+  /* Quest title */
+  .quest-title-block { flex: 1; }
+
+  .quest-pub-name {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1.2;
+  }
+
+  .state-locked .quest-pub-name { color: var(--text-faint); }
+  .state-active .quest-pub-name { color: var(--wax-glow); }
+  .state-complete .quest-pub-name { color: var(--complete); }
+
+  .quest-tagline {
+    font-size: 13px;
+    font-style: italic;
+    margin-top: 2px;
+  }
+
+  .state-locked .quest-tagline { color: var(--text-faint); }
+  .state-active .quest-tagline { color: var(--text-dim); }
+  .state-complete .quest-tagline { color: #4a7a2a; }
+
+  /* Status badge */
+  .quest-status {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 9px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 2px;
+    border: 1px solid;
+    flex-shrink: 0;
+  }
+
+  .state-locked .quest-status {
+    background: var(--bg-darker);
+    border-color: var(--bg-light);
+    color: var(--text-faint);
+  }
+
+  .state-active .quest-status {
+    background: rgba(212,160,23,0.1);
+    border-color: var(--wax-gold);
+    color: var(--wax-gold);
+    animation: pulse-status 2.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse-status {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+  }
+
+  .state-complete .quest-status {
+    background: rgba(74,154,42,0.15);
+    border-color: var(--complete-border);
+    color: var(--complete);
+  }
+
+  /* Chevron */
+  .quest-chevron {
+    font-size: 12px;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+    color: var(--text-faint);
+  }
+
+  .state-active .quest-chevron { color: var(--wax-gold); }
+  .state-complete .quest-chevron { color: var(--complete-border); }
+  .quest-section.open .quest-chevron { transform: rotate(180deg); }
+
+  /* Quest body */
+  .quest-body {
+    padding: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s cubic-bezier(0.4,0,0.2,1);
+    border-top: 1px solid transparent;
+  }
+
+  .quest-section.state-active .quest-body {
+    border-color: rgba(212,160,23,0.12);
+  }
+
+  .quest-section.state-complete .quest-body {
+    border-color: rgba(74,154,42,0.12);
+  }
+
+  .quest-section.open .quest-body {
+    max-height: 1200px;
+  }
+
+  .quest-body-inner {
+    padding: 20px 24px 24px;
+  }
+
+  /* Locked overlay */
+  .locked-overlay {
+    text-align: center;
+    padding: 24px;
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: 15px;
+  }
+
+  .locked-overlay span {
+    font-size: 28px;
+    display: block;
+    margin-bottom: 8px;
+    opacity: 0.3;
+  }
+
+  /* ── Objective list ── */
+  .objectives-label {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 12px;
+  }
+
+  .state-active .objectives-label { color: var(--wax-gold); }
+  .state-complete .objectives-label { color: #4a8a28; }
+
+  .objective {
+    display: flex;
+    gap: 12px;
+    padding: 10px 14px;
+    border-radius: 2px;
+    margin-bottom: 6px;
+    align-items: flex-start;
+    border-left: 2px solid transparent;
+    transition: all 0.3s ease;
+  }
+
+  .objective.obj-done {
+    background: rgba(74,154,42,0.08);
+    border-left-color: var(--complete-border);
+  }
+
+  .objective.obj-active {
+    background: rgba(212,160,23,0.05);
+    border-left-color: var(--wax-gold);
+  }
+
+  .objective.obj-pending {
+    background: rgba(197,193,167,0.03);
+    border-left-color: var(--bg-light);
+  }
+
+  .obj-icon {
+    font-size: 16px;
+    flex-shrink: 0;
+    margin-top: 1px;
+    width: 20px;
+    text-align: center;
+  }
+
+  .obj-text { font-size: 15px; line-height: 1.5; flex: 1; }
+
+  .obj-done .obj-text { color: var(--complete); text-decoration: line-through; opacity: 0.7; }
+  .obj-active .obj-text { color: var(--text); }
+  .obj-pending .obj-text { color: var(--text-faint); }
+
+  /* ── Lore / hint box ── */
+  .lore-box {
+    margin-top: 16px;
+    padding: 14px 16px;
+    border-radius: 2px;
+    border: 1px solid;
+    position: relative;
+  }
+
+  .lore-box.hint {
+    background: rgba(122,92,8,0.06);
+    border-color: rgba(122,92,8,0.25);
+  }
+
+  .lore-box.flavour {
+    background: rgba(50,50,68,0.05);
+    border-color: rgba(50,50,68,0.12);
+  }
+
+  .lore-box.reward {
+    background: rgba(45,90,27,0.1);
+    border-color: rgba(45,90,27,0.3);
+  }
+
+  .lore-label {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 9px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .lore-box.hint .lore-label { color: var(--wax-gold); }
+  .lore-box.flavour .lore-label { color: var(--text-dim); }
+  .lore-box.reward .lore-label { color: var(--complete); }
+
+  .lore-text {
+    font-size: 14px;
+    font-style: italic;
+    line-height: 1.65;
+  }
+
+  .lore-box.hint .lore-text { color: var(--text-dim); }
+  .lore-box.flavour .lore-text { color: var(--text-dim); }
+  .lore-box.reward .lore-text { color: var(--complete); }
+
+  /* ── Drink reward ── */
+  .drink-reward {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 16px;
+    padding: 10px 16px;
+    background: rgba(122,92,8,0.07);
+    border: 1px solid rgba(122,92,8,0.25);
+    border-radius: 2px;
+  }
+
+  .drink-icon { font-size: 24px; }
+  .drink-info { flex: 1; }
+
+  .drink-name {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 13px;
+    color: var(--wax-glow);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+
+  .drink-desc {
+    font-size: 13px;
+    font-style: italic;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+
+  /* Mark complete button */
+  .btn-complete {
+    margin-top: 18px;
+    padding: 10px 20px;
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border: 1px solid var(--wax-gold);
+    background: rgba(122,92,8,0.08);
+    color: var(--wax-glow);
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.25s ease;
+    width: 100%;
+  }
+
+  .btn-complete:hover {
+    background: rgba(122,92,8,0.16);
+    box-shadow: 0 0 16px rgba(122,92,8,0.15);
+    letter-spacing: 4px;
+  }
+
+  .btn-complete:active { transform: scale(0.98); }
+  .btn-complete.hidden { display: none; }
+
+  /* ── Final section ── */
+  .final-section {
+    background: linear-gradient(180deg, #ccdfc4, #c0d8b8);
+    border: 2px solid var(--complete-border);
+    border-radius: 3px;
+    padding: 32px 28px;
+    margin-top: 28px;
+    box-shadow: 0 4px 32px rgba(50,50,68,0.2), 0 0 0 1px rgba(45,90,27,0.1);
+    text-align: center;
+    display: none;
+  }
+
+  .final-section.visible { display: block; }
+
+  .final-title {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 36px;
+    color: var(--complete);
+    margin-bottom: 12px;
+    text-shadow: 0 0 20px rgba(45,90,27,0.2);
+  }
+
+  .final-text {
+    font-size: 15px;
+    font-style: italic;
+    color: var(--complete);
+    line-height: 1.7;
+    max-width: 520px;
+    margin: 0 auto 24px;
+  }
+
+  .final-instruction {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: var(--wax-glow);
+    padding: 14px 20px;
+    border: 1px solid rgba(122,92,8,0.3);
+    border-radius: 2px;
+    background: rgba(122,92,8,0.06);
+    display: inline-block;
+  }
+
+  /* ── Scrolling animation ── */
+  @keyframes fadein {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .quest-section {
+    animation: fadein 0.5s ease both;
+  }
+
+  .quest-section:nth-child(1) { animation-delay: 0.05s; }
+  .quest-section:nth-child(2) { animation-delay: 0.12s; }
+  .quest-section:nth-child(3) { animation-delay: 0.19s; }
+  .quest-section:nth-child(4) { animation-delay: 0.26s; }
+  .quest-section:nth-child(5) { animation-delay: 0.33s; }
+  .quest-section:nth-child(6) { animation-delay: 0.40s; }
+
+  .page-wrap > *:not(.quest-section) {
+    animation: fadein 0.5s ease both;
+  }
+
+  /* Responsive */
+  @media (max-width: 520px) {
+    .journal-header { padding: 32px 20px 24px; }
+    .quest-body-inner { padding: 16px; }
+    .pub-pip { width: 36px; height: 36px; font-size: 11px; }
+  }
+
+  /* Reset btn */
+  .reset-btn {
+    display: block;
+    margin: 24px auto 0;
+    padding: 6px 16px;
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 9px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border: 1px solid var(--bg-darker);
+    background: transparent;
+    color: var(--text-faint);
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.2s;
+  }
+  .reset-btn:hover { color: var(--text-dim); border-color: var(--text-dim); }
+
+  .footnote {
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    color: var(--text-faint);
+    margin-top: 40px;
+    opacity: 0.7;
+  }
+</style>
+</head>
+<body>
+
+<div class="page-wrap">
+
+  <!-- ── HEADER ── -->
+  <div class="journal-header">
+    <span class="corner-ornament tl">❧</span>
+    <span class="corner-ornament tr">❧</span>
+    <span class="corner-ornament bl">❧</span>
+    <span class="corner-ornament br">❧</span>
+
+    <div class="pub-title">The Pub That Crawls</div>
+    <div class="sub-title">A Quest Journal &nbsp;·&nbsp; Neverwood Academy</div>
+
+    <div class="divider">
+      <div class="divider-line"></div>
+      <div class="divider-gem">⬡</div>
+      <div class="divider-line"></div>
+    </div>
+
+    <p class="header-lore">
+      There is a feat which no Neverwood student has ever successfully accomplished: visiting six magical pubs in one night. Most think it a ridiculous story — for the simple reason that only five pubs on the list have ever been entered. But a tome unearthed from the Biblioplex hints at the method to reach the sixth. Who will be the first to find…
+    </p>
+
+    <div class="wax-seal">🍺</div>
+  </div>
+
+  <!-- ── PROGRESS TRACKER ── -->
+  <div class="progress-section">
+    <div class="progress-label">The Crawl — Progress</div>
+    <div class="progress-pubs" id="progress-pips">
+      <div class="pub-pip" id="pip-1" title="The Tall Tale">I</div>
+      <div class="pub-pip" id="pip-2" title="The Frothing Flask">II</div>
+      <div class="pub-pip" id="pip-3" title="The Lucid Dreamer">III</div>
+      <div class="pub-pip" id="pip-4" title="The Rambling Toad">IV</div>
+      <div class="pub-pip" id="pip-5" title="The Beauty's Mirror">V</div>
+      <div class="pub-pip" id="pip-6" title="The Pub That Crawls">VI</div>
+    </div>
+    <div class="drinks-tally">
+      <span class="tally-label">Drinks taken</span>
+      <span class="tankard" id="t1">🍺</span>
+      <span class="tankard" id="t2">🍺</span>
+      <span class="tankard" id="t3">🍺</span>
+      <span class="tankard" id="t4">🍺</span>
+      <span class="tankard" id="t5">🍺</span>
+      <span class="tankard" id="t6">🍺</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       PUB 1: THE TALL TALE
+  ════════════════════════════════════════════ -->
+  <div class="quest-section state-active open" id="pub-1" data-pub="1">
+    <div class="quest-header" onclick="toggleSection(1)">
+      <div class="pub-number"><div class="pub-number-inner">I</div></div>
+      <div class="quest-title-block">
+        <div class="quest-pub-name">The Tall Tale</div>
+        <div class="quest-tagline">A tavern out of time, with a war beneath its floors</div>
+      </div>
+      <div class="quest-status">In Progress</div>
+      <div class="quest-chevron">▼</div>
+    </div>
+    <div class="quest-body">
+      <div class="quest-body-inner">
+
+        <div class="lore-box flavour">
+          <div class="lore-label">The Pub</div>
+          <div class="lore-text">This sturdy pub looks like it was plucked from a picturesque hamlet — weathered stones, timber beams, and a roaring fireplace. It was designed to emulate the quintessential adventurer's tavern of Neverwinter's past. One needn't even travel far for adventure: the cellar connects to an ancient catacomb full of angry spirits.</div>
+        </div>
+
+        <div style="margin-top:20px">
+          <div class="objectives-label">Objectives</div>
+
+          <div class="objective obj-active">
+            <div class="obj-icon">⚔</div>
+            <div class="obj-text">Speak with Marcellus at the bar and learn what lies below.</div>
+          </div>
+
+          <div class="objective obj-active">
+            <div class="obj-icon">📖</div>
+            <div class="obj-text">Explore the reading rooms — useful knowledge and useful items may be found within.</div>
+          </div>
+
+          <div class="objective obj-active">
+            <div class="obj-icon">⚔</div>
+            <div class="obj-text">Descend to the cellar. Find a way to "end the war" between the battling spirits in the Hall of Battle — the vault beyond cannot be opened any other way.</div>
+          </div>
+
+          <div class="objective obj-active">
+            <div class="obj-icon">🏆</div>
+            <div class="obj-text">Reach the Treasure Room and claim your first signature drink.</div>
+          </div>
+        </div>
+
+        <div class="lore-box hint" style="margin-top:16px">
+          <div class="lore-label">Rumour</div>
+          <div class="lore-text">"The two factions have been at war so long they've forgotten what started it — something about a name, and a matter of honour. There might be a way to resolve this without raising a sword."</div>
+        </div>
+
+        <div class="drink-reward">
+          <div class="drink-icon">🍺</div>
+          <div class="drink-info">
+            <div class="drink-name">Liquid Courage</div>
+            <div class="drink-desc">A pale ale and stout, dark and bracingly cold. It tastes like it means something.</div>
+          </div>
+        </div>
+
+        <button class="btn-complete" id="btn-1" onclick="completeQuest(1)">
+          ✓ &nbsp; Mark Pub Complete
+        </button>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       PUB 2: THE FROTHING FLASK
+  ════════════════════════════════════════════ -->
+  <div class="quest-section state-locked" id="pub-2" data-pub="2">
+    <div class="quest-header" onclick="toggleSection(2)">
+      <div class="pub-number"><div class="pub-number-inner">II</div></div>
+      <div class="quest-title-block">
+        <div class="quest-pub-name">The Frothing Flask</div>
+        <div class="quest-tagline">A tower of puzzles, tended by someone who remembers everything</div>
+      </div>
+      <div class="quest-status">Locked</div>
+      <div class="quest-chevron">▼</div>
+    </div>
+    <div class="quest-body">
+      <div class="quest-body-inner">
+
+        <div class="locked-overlay" id="locked-2">
+          <span>🔒</span>
+          Complete The Tall Tale to reveal your next destination.
+        </div>
+
+        <div id="content-2" style="display:none">
+
+          <div class="lore-box flavour">
+            <div class="lore-label">The Pub</div>
+            <div class="lore-text">A single tall tower of smooth grey stone — you'd scarcely guess it was a pub but for the etching above the door. Inside: a waterfall bisects the room, floating egg-shaped chairs, and a four-armed construct behind the bar who hasn't forgotten a single drink order in centuries. She seems pleased to see you.</div>
+          </div>
+
+          <div style="margin-top:20px">
+            <div class="objectives-label">Objectives</div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">💬</div>
+              <div class="obj-text">Speak with Vani, the bartender. Be courteous — she knows a great deal about the founders of each pub on the crawl, and cannot help someone she doesn't like.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🧩</div>
+              <div class="obj-text">Complete the crossing challenge: traverse all seven walkways of the pub without stepping on the same one twice — and without getting wet.</div>
+            </div>
+          </div>
+
+          <div class="lore-box hint">
+            <div class="lore-label">Vani's Note</div>
+            <div class="lore-text">"Eb was a powerful wizard, but when he encountered problems his magic couldn't fix — friendship, for instance — it broke him. Towards the end of his life, he became more concerned with finding mundane solutions to problems."</div>
+          </div>
+
+          <div class="drink-reward">
+            <div class="drink-icon">🍸</div>
+            <div class="drink-info">
+              <div class="drink-name">Pomumtini</div>
+              <div class="drink-desc">Sweet and sharp at once, like a good argument you're winning.</div>
+            </div>
+          </div>
+
+          <button class="btn-complete" id="btn-2" onclick="completeQuest(2)">
+            ✓ &nbsp; Mark Pub Complete
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       PUB 3: THE LUCID DREAMER
+  ════════════════════════════════════════════ -->
+  <div class="quest-section state-locked" id="pub-3" data-pub="3">
+    <div class="quest-header" onclick="toggleSection(3)">
+      <div class="pub-number"><div class="pub-number-inner">III</div></div>
+      <div class="quest-title-block">
+        <div class="quest-pub-name">The Lucid Dreamer</div>
+        <div class="quest-tagline">Where spectacle is the only currency that matters</div>
+      </div>
+      <div class="quest-status">Locked</div>
+      <div class="quest-chevron">▼</div>
+    </div>
+    <div class="quest-body">
+      <div class="quest-body-inner">
+
+        <div class="locked-overlay" id="locked-3">
+          <span>🔒</span>
+          Complete The Frothing Flask to reveal your next destination.
+        </div>
+
+        <div id="content-3" style="display:none">
+
+          <div class="lore-box flavour">
+            <div class="lore-label">The Pub</div>
+            <div class="lore-text">An Art Deco manor house where burly bouncers guard the door and gold-trimmed opulence spills from every corner. Music, dancing, and spectacle last all night. The true currency here is entertainment — and anyone can try their hand at becoming the headlining act.</div>
+          </div>
+
+          <div style="margin-top:20px">
+            <div class="objectives-label">Objectives</div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🚪</div>
+              <div class="obj-text">Gain entry past the minotaur bouncers at the door.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🎭</div>
+              <div class="obj-text">Find Baz, the owlin bartender, and take up her challenge: command the stage and win over the crowd.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🏃</div>
+              <div class="obj-text">Something goes wrong after the performance. Keep your wits — and find a way out.</div>
+            </div>
+          </div>
+
+          <div class="lore-box hint">
+            <div class="lore-label">What Vani Said</div>
+            <div class="lore-text">"Alise always cared about having a good time more than anything else. Her only judge of character was if someone was entertaining. I imagine her pub would reflect that."</div>
+          </div>
+
+          <div class="drink-reward">
+            <div class="drink-icon">🌅</div>
+            <div class="drink-info">
+              <div class="drink-name">Sunset Liqueur</div>
+              <div class="drink-desc">Layers of fruit and warmth. Goes down easy, lingers long.</div>
+            </div>
+          </div>
+
+          <button class="btn-complete" id="btn-3" onclick="completeQuest(3)">
+            ✓ &nbsp; Mark Pub Complete
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       PUB 4: THE RAMBLING TOAD
+  ════════════════════════════════════════════ -->
+  <div class="quest-section state-locked" id="pub-4" data-pub="4">
+    <div class="quest-header" onclick="toggleSection(4)">
+      <div class="pub-number"><div class="pub-number-inner">IV</div></div>
+      <div class="quest-title-block">
+        <div class="quest-pub-name">The Rambling Toad</div>
+        <div class="quest-tagline">A hole in the wall that prefers to stay that way</div>
+      </div>
+      <div class="quest-status">Locked</div>
+      <div class="quest-chevron">▼</div>
+    </div>
+    <div class="quest-body">
+      <div class="quest-body-inner">
+
+        <div class="locked-overlay" id="locked-4">
+          <span>🔒</span>
+          Complete The Lucid Dreamer to reveal your next destination.
+        </div>
+
+        <div id="content-4" style="display:none">
+
+          <div class="lore-box flavour">
+            <div class="lore-label">The Pub</div>
+            <div class="lore-text">A squat, ramshackle pub near the edge of the Detention Swamp. Missing shingles, an overgrown garden, and regulars who do not appreciate visitors. The bartender will tell you the signature drink is on the house — you can help yourself in the garden out back. This should probably make you suspicious.</div>
+          </div>
+
+          <div style="margin-top:20px">
+            <div class="objectives-label">Objectives</div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🌿</div>
+              <div class="obj-text">Head to the garden. Five stone pedestals surround a pool of golden liquid. Each pedestal holds a basin — each basin bears a different creature's image.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🧪</div>
+              <div class="obj-text">Work out the correct order to transfer the liquid between the basins — and the correct basin to start with. The drink awaits at the end of the sequence.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">👂</div>
+              <div class="obj-text">Pay attention to the burrog in the corner. He may not seem to be talking to you, but he is talking about the puzzle.</div>
+            </div>
+          </div>
+
+          <div class="lore-box hint">
+            <div class="lore-label">What Vani Said</div>
+            <div class="lore-text">"Giovanni always wanted to be the toughest guy in the room. He had to make sure people knew where they were in the pecking order."</div>
+          </div>
+
+          <div class="drink-reward">
+            <div class="drink-icon">🐸</div>
+            <div class="drink-info">
+              <div class="drink-name">Skewbald Swill</div>
+              <div class="drink-desc">Syrupy and startling. It packs a real kick. Earn it before you drink it.</div>
+            </div>
+          </div>
+
+          <button class="btn-complete" id="btn-4" onclick="completeQuest(4)">
+            ✓ &nbsp; Mark Pub Complete
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       PUB 5: THE BEAUTY'S MIRROR
+  ════════════════════════════════════════════ -->
+  <div class="quest-section state-locked" id="pub-5" data-pub="5">
+    <div class="quest-header" onclick="toggleSection(5)">
+      <div class="pub-number"><div class="pub-number-inner">V</div></div>
+      <div class="quest-title-block">
+        <div class="quest-pub-name">The Beauty's Mirror</div>
+        <div class="quest-tagline">Art, expression, and a founder who is watching you</div>
+      </div>
+      <div class="quest-status">Locked</div>
+      <div class="quest-chevron">▼</div>
+    </div>
+    <div class="quest-body">
+      <div class="quest-body-inner">
+
+        <div class="locked-overlay" id="locked-5">
+          <span>🔒</span>
+          Complete The Rambling Toad to reveal your next destination.
+        </div>
+
+        <div id="content-5" style="display:none">
+
+          <div class="lore-box flavour">
+            <div class="lore-label">The Pub</div>
+            <div class="lore-text">A flowing Art Nouveau shell of coral and light. Artworks line every wall — most depicting vessels of some kind. A moving portrait of the founder hangs in the studio, and it seems to be watching you. The sylph bartender speaks only in verse. The studio is stocked with every material an artist could need.</div>
+          </div>
+
+          <div style="margin-top:20px">
+            <div class="objectives-label">Objectives</div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🎨</div>
+              <div class="obj-text">Speak with Bellana the bartender. Her riddle will point you toward the studio.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🖼</div>
+              <div class="obj-text">Explore the studio. Study the artworks. Understand what the puzzle is actually asking.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">✏️</div>
+              <div class="obj-text">Each member of the party must create something. Use any material you find. The founder will know when you are finished.</div>
+            </div>
+          </div>
+
+          <div class="lore-box hint">
+            <div class="lore-label">What Vani Said</div>
+            <div class="lore-text">"Bree was very intentional when she named her pub. She believed that beautiful art was always an expression of the self."</div>
+          </div>
+
+          <div class="drink-reward">
+            <div class="drink-icon">🍷</div>
+            <div class="drink-info">
+              <div class="drink-name">Wine of Inspiration</div>
+              <div class="drink-desc">A sweet red with notes of cherry. The fifth drink is different. After the warmth reaches your head — you will know.</div>
+            </div>
+          </div>
+
+          <button class="btn-complete" id="btn-5" onclick="completeQuest(5)">
+            ✓ &nbsp; Mark Pub Complete
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       PUB 6: THE PUB THAT CRAWLS
+  ════════════════════════════════════════════ -->
+  <div class="quest-section state-locked" id="pub-6" data-pub="6">
+    <div class="quest-header" onclick="toggleSection(6)">
+      <div class="pub-number"><div class="pub-number-inner">VI</div></div>
+      <div class="quest-title-block">
+        <div class="quest-pub-name">The Pub That Crawls</div>
+        <div class="quest-tagline">You'll know it when you see it</div>
+      </div>
+      <div class="quest-status">Locked</div>
+      <div class="quest-chevron">▼</div>
+    </div>
+    <div class="quest-body">
+      <div class="quest-body-inner">
+
+        <div class="locked-overlay" id="locked-6">
+          <span>🔒</span>
+          Complete The Beauty's Mirror — and drink the fifth drink — to find your way here.
+        </div>
+
+        <div id="content-6" style="display:none">
+
+          <div class="lore-box flavour">
+            <div class="lore-label">The Pub</div>
+            <div class="lore-text">A ramshackle cabin on spindly wooden legs, balanced like something between a bird and a spider. It ambles chaotically through the Detention Bog — spinning, seesawing, pausing as if waiting. There is no door visible. The note said: "Once you find it, drink until the pub stops spinning."</div>
+          </div>
+
+          <div style="margin-top:20px">
+            <div class="objectives-label">Objectives</div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🥃</div>
+              <div class="obj-text">Follow the pull in your chest. Find the Pub That Crawls in the Detention Bog. Use the decanter to make it stop.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🏠</div>
+              <div class="obj-text">Speak with Boyan, the pub's small and impeccably dressed caretaker. He has a riddle. Solve it before you drink.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">🔓</div>
+              <div class="obj-text">Once the ritual is performed, the pub's hidden rooms will open to you. Explore — this place has been to many worlds.</div>
+            </div>
+
+            <div class="objective obj-active">
+              <div class="obj-icon">⚗️</div>
+              <div class="obj-text">Claim your final drink. You have earned it.</div>
+            </div>
+          </div>
+
+          <div class="lore-box hint">
+            <div class="lore-label">Boyan's Riddle</div>
+            <div class="lore-text">"Now at long last you've done the walk, You've seen the pub is not a fable, It walks of its own accord, And has a drink when it's able. If you want a round on the house, You'll have to drink it under the table."</div>
+          </div>
+
+          <div class="drink-reward">
+            <div class="drink-icon">☕</div>
+            <div class="drink-info">
+              <div class="drink-name">White Ravnican</div>
+              <div class="drink-desc">Creamy, with notes of coffee. The drink at the end of the world. Or the beginning of the next one.</div>
+            </div>
+          </div>
+
+          <button class="btn-complete" id="btn-6" onclick="completeQuest(6)">
+            ✓ &nbsp; Mark Pub Complete
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── COMPLETION BANNER ── -->
+  <div class="final-section" id="final-banner">
+    <div class="final-title">Quest Complete</div>
+    <p class="final-text">
+      Six pubs. Six drinks. One night. No one has ever done what you have done — and the Pub That Crawls knows it. Whatever comes next, you will have stories to tell for the rest of your lives.
+    </p>
+    <div class="final-instruction">
+      ✦ &nbsp; The Pub That Crawls now knows your name &nbsp; ✦
+    </div>
+  </div>
+
+  <button class="reset-btn" onclick="resetAll()">Reset Progress</button>
+
+  <p class="footnote">Compiled from the logbook of E. Zenithon &nbsp;·&nbsp; Reproduced for the benefit of those deemed worthy</p>
+
+</div>
+
+<script>
+  // ── State ──────────────────────────────────────────────────────────────────
+  const TOTAL = 6;
+  let completed = [];
+
+  // Load from storage
+  try {
+    const saved = JSON.parse(localStorage.getItem('ptc-progress') || '[]');
+    if (Array.isArray(saved)) completed = saved;
+  } catch(e) {}
+
+  // ── Init ───────────────────────────────────────────────────────────────────
+  function init() {
+    for (let i = 1; i <= TOTAL; i++) {
+      if (completed.includes(i)) {
+        markComplete(i, false);
+      } else if (i === 1 || completed.includes(i - 1)) {
+        setActive(i);
+      } else {
+        setLocked(i);
+      }
+    }
+    updateProgress();
+    if (completed.length === TOTAL) {
+      document.getElementById('final-banner').classList.add('visible');
+    }
+  }
+
+  // ── Toggle accordion ───────────────────────────────────────────────────────
+  function toggleSection(n) {
+    const section = document.getElementById('pub-' + n);
+    const isLocked = section.classList.contains('state-locked') && !completed.includes(n);
+    // Allow opening any non-truly-locked section
+    const canOpen = completed.includes(n) || n === 1 || completed.includes(n - 1);
+    if (!canOpen) return;
+    section.classList.toggle('open');
+  }
+
+  // ── State management ───────────────────────────────────────────────────────
+  function setActive(n) {
+    const s = document.getElementById('pub-' + n);
+    s.className = 'quest-section state-active';
+    if (n === 1) s.classList.add('open');
+    s.querySelector('.quest-status').textContent = 'In Progress';
+    const locked = document.getElementById('locked-' + n);
+    const content = document.getElementById('content-' + n);
+    if (locked) locked.style.display = 'none';
+    if (content) content.style.display = 'block';
+    const pip = document.getElementById('pip-' + n);
+    if (pip) pip.classList.add('active');
+  }
+
+  function setLocked(n) {
+    const s = document.getElementById('pub-' + n);
+    s.className = 'quest-section state-locked';
+    s.classList.remove('open');
+    s.querySelector('.quest-status').textContent = 'Locked';
+    const locked = document.getElementById('locked-' + n);
+    const content = document.getElementById('content-' + n);
+    if (locked) locked.style.display = 'block';
+    if (content) content.style.display = 'none';
+    const pip = document.getElementById('pip-' + n);
+    if (pip) { pip.classList.remove('active'); pip.classList.remove('done'); }
+  }
+
+  function markComplete(n, animate) {
+    const s = document.getElementById('pub-' + n);
+    s.className = 'quest-section state-complete';
+    if (animate) s.classList.add('open');
+    s.querySelector('.quest-status').textContent = 'Complete';
+    const locked = document.getElementById('locked-' + n);
+    const content = document.getElementById('content-' + n);
+    if (locked) locked.style.display = 'none';
+    if (content) content.style.display = 'block';
+    // Strike through active objectives
+    s.querySelectorAll('.objective').forEach(obj => {
+      obj.classList.remove('obj-active', 'obj-pending');
+      obj.classList.add('obj-done');
+      obj.querySelector('.obj-icon').textContent = '✓';
+    });
+    const pip = document.getElementById('pip-' + n);
+    if (pip) { pip.classList.remove('active'); pip.classList.add('done'); }
+  }
+
+  // ── Complete a quest ───────────────────────────────────────────────────────
+  function completeQuest(n) {
+    if (completed.includes(n)) return;
+    completed.push(n);
+    try { localStorage.setItem('ptc-progress', JSON.stringify(completed)); } catch(e) {}
+
+    markComplete(n, true);
+
+    // Unlock next
+    if (n < TOTAL) {
+      setActive(n + 1);
+      // Scroll to next
+      setTimeout(() => {
+        const next = document.getElementById('pub-' + (n + 1));
+        next.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 350);
+    }
+
+    updateProgress();
+
+    // Final check
+    if (completed.length === TOTAL) {
+      setTimeout(() => {
+        const banner = document.getElementById('final-banner');
+        banner.classList.add('visible');
+        banner.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, 600);
+    }
+  }
+
+  // ── Update progress visuals ────────────────────────────────────────────────
+  function updateProgress() {
+    for (let i = 1; i <= TOTAL; i++) {
+      const t = document.getElementById('t' + i);
+      if (!t) continue;
+      if (completed.includes(i)) {
+        t.classList.add('filled');
+      } else {
+        t.classList.remove('filled');
+      }
+    }
+  }
+
+  // ── Reset ──────────────────────────────────────────────────────────────────
+  function resetAll() {
+    if (!confirm('Reset all progress and start the crawl again?')) return;
+    completed = [];
+    try { localStorage.removeItem('ptc-progress'); } catch(e) {}
+    for (let i = 1; i <= TOTAL; i++) {
+      if (i === 1) setActive(1);
+      else setLocked(i);
+    }
+    document.getElementById('final-banner').classList.remove('visible');
+    document.getElementById('pub-1').classList.add('open');
+    updateProgress();
+  }
+
+  // ── Run ────────────────────────────────────────────────────────────────────
+  init();
+</script>
+</body>
+</html>
