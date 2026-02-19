@@ -53,7 +53,29 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 | Other           | Scorpion Tattoo all over the left forearm, a few scars on the left hand, streaks of red with his black hair. |
 
 # Skills
-![Pasted image 20250928212558.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928212558.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom ● | Charisma ● |
+| :----------: | :------: | :-------: | :----------: | :----------: | :------: | :--------: |
+|    Score     |    13    |     9     |      11      |      15      |    12    |     15     |
+| Ability Mod  |    +1    |    -1     |      +0      |      +2      |    +1    |     +2     |
+| Saving Throw |    +1    |    -1     |      +0      |      +2      |    +3    |     +4     |
+
+|     | Mod | Skill           | Bonus |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | -1    | ○   | Wis | Medicine       | +1    |
+| ○   | Wis | Animal Handling | +1    | ●   | Int | Nature         | +4    |
+| ○   | Int | Arcana          | +2    | ○   | Wis | Perception     | +1    |
+| ○   | Str | Athletics       | +1    | ○   | Cha | Performance    | +2    |
+| ●   | Cha | Deception       | +4    | ○   | Cha | Persuasion     | +2    |
+| ○   | Int | History         | +2    | ○   | Int | Religion       | +2    |
+| ○   | Wis | Insight         | +1    | ○   | Dex | Slight of Hand | -1    |
+| ●   | Cha | Intimidation    | +4    | ○   | Dex | Stealth        | -1    |
+| ○   | Int | Investigation   | +2    | ●   | Wis | Survival       | +3    |
 
 ## Other Skills/Proficiencies 
 - Resistance against Poison damage

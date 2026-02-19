@@ -112,8 +112,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | File                                                                                                       | Location                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]]                               | <ul><li>[[2-World/Places/Nevewinter Woods.md\\|Nevewinter Woods]]</li><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li></ul> |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                          |
@@ -131,8 +131,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]]                           | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Furygale\|Furygale]]                                     | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]]                                   | [[2-World/Places/Prismari Campus\|Prismari Campus]]                                                                                |
-| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]]                     | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]                       | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]                                 | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                                                                |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]]                         | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
 | [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]                           | [[2-World/Places/Silverquill Campus\|Silverquill Campus]]                                                                          |
@@ -153,13 +153,6 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
-| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
-| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
@@ -177,6 +170,13 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]                                         | Extracurricular Club |
+| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
+| [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
+| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
+| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
 
 { .block-language-dataview}
 

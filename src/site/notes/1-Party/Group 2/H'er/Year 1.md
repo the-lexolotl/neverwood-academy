@@ -21,9 +21,9 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** | 16 \| 21 (20) |  11 \| 7 (18)   |   5 \| 7 (12)   |   5 \| 8 (13)   |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** | 16 \| 12 (20) |                 |                 |                 |       |
+| **Term 4** | 16 \| 12 (20) |  19 \| 6 (20)   |  7 \| 12 (19)   |  11 \| 2 (13)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** | 16 \| 20 (20) |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -55,9 +55,9 @@
 |            |    Performance    |   Religion    | Intelligence Save |    Insight    |       |
 | **Term 3** |   11 \| 19 (20)   |  5 \| 4 (9)   |   13 \| 15 (20)   | 9 \| 11 (19)  |       |
 |            |    Perception     |    History    |    Performance    |    Insight    |       |
-| **Term 4** |   19 \| 4 (20)    |               |                   |               |       |
+| **Term 4** |   19 \| 4 (20)    |  6 \| 8 (14)  |   18 \| 9 (20)    | 13 \| 19 (20) |       |
 |            |      History      |  Performance  |      History      |  Perception   |       |
-| **Term 5** |                   |               |                   |               |       |
+| **Term 5** |   10 \| 25 (20)   |               |                   |               |       |
 |            |    Performance    |  Perception   |    Performance    |   Religion    |       |
 | **Term 6** |                   |               |                   |               |       |
 |            | Intelligence Save |  Perception   |      History      |  Performance  |       |
@@ -86,9 +86,9 @@
 |            | Strength Save  | Spell Attack  |    Arcana     |    Nature     |       |
 | **Term 3** | 11 \| 12 (20)  | 10 \| 22 (20) | 11 \| 8 (19)  | 13 \| 22 (20) |       |
 |            |  Performance   |    Arcana     | Spell Attack  |     Tools     |       |
-| **Term 4** |  8 \| 23 (20)  |               |               |               |       |
+| **Term 4** |  8 \| 23 (20)  | 22 \| 10 (20) | 20 \| 7 (20)  | 3 \| 21 (20)  |       |
 |            |  Spell Attack  |     Tools     |  Performance  |    Insight    |       |
-| **Term 5** |                |               |               |               |       |
+| **Term 5** |   4 \| 2 (6)   |               |               |               |       |
 |            | Dexterity Save |  Performance  |     Tools     |  Performance  |       |
 | **Term 6** |                |               |               |               |       |
 |            |     Tools      | Spell Attack  |  Performance  |     Tools     |       |
@@ -118,9 +118,9 @@
 |            |    Nature     | Intelligence Ability |  Animal Handling  |  Investigation  |       |
 | **Term 3** | 6 \| 17 (20)  |     8 \| 19 (20)     |   13 \| 15 (20)   |   6 \| 4 (10)   |       |
 |            |  Perception   |        Nature        | Intelligence Save |     Insight     |       |
-| **Term 4** | 21 \| 4 (20)  |                      |                   |                 |       |
+| **Term 4** | 21 \| 4 (20)  |     20 \| 4 (20)     |    8 \| 9 (17)    |   4 \| 3 (7)    |       |
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
-| **Term 5** |               |                      |                   |                 |       |
+| **Term 5** | 3 \| 13 (16)  |                      |                   |                 |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |
 | **Term 6** |               |                      |                   |                 |       |
 |            |    Nature     |  Intelligence Save   |    Perception     |     Insight     |       |

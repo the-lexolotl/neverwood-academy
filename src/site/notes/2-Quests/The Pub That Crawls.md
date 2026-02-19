@@ -9,10 +9,10 @@
 # Quest Info
 
 ## 🪶 Main Objectives
-- [x] Discover the Legend
-	- [x] Find Notes on the Pub That Crawls in the Biblioplex.
-	- [x] Decode the handwritten notes and the attached travel brochure.
-	- [x] Learn of the five pubs — each created by a different founder.
+- [x] ~~Discover the Legend~~
+	- [x] ~~Find Notes on the Pub That Crawls in the Biblioplex.~~
+	- [x] ~~Decode the handwritten notes and the attached travel brochure.~~
+	- [x] ~~Learn of the five pubs — each created by a different founder.~~
 - [ ] Complete the Five Pubs
 
 - [ ] Assemble the Potion

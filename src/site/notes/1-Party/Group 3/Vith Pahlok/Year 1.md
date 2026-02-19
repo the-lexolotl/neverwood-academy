@@ -21,9 +21,9 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** |               |                 |   2 \| 0 (2)    |   6 \| 1 (7)    |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** | 15 \| 7 (20)  |  22 \| 24 (20)  |  20 \| 13 (20)  |                 |       |
+| **Term 4** | 15 \| 7 (20)  |  22 \| 24 (20)  |  20 \| 13 (20)  |  15 \| 11 (20)  |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** |  13  19 (20)  |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -55,9 +55,9 @@
 |            | Charisma Ability | Spell Attack  |   Performance    |  Wisdom Save  |       |
 | **Term 3** |                  |               |   12 \| 4 (16)   | 16 \| 14 (20) |       |
 |            |     Insight      | Charisma Save | Charisma Ability |  Persuasion   |       |
-| **Term 4** |  23 \| 10 (20)   | 13 \| 10 (20) |   18 \| 9 (20)   |               |       |
+| **Term 4** |  23 \| 10 (20)   | 13 \| 10 (20) |   18 \| 9 (20)   | 15 \| 19 (20) |       |
 |            |    Persuasion    | Spell Attack  |  Charisma Save   |  Performance  |       |
-| **Term 5** |                  |               |                  |               |       |
+| **Term 5** |   8 \| 9 (17)    |               |                  |               |       |
 |            | Charisma Ability |  Persuasion   |   Spell Attack   | Charisma Save |       |
 | **Term 6** |                  |               |                  |               |       |
 |            |   Spell Attack   | Charisma Save |    Persuasion    |  Performance  |       |
@@ -86,9 +86,9 @@
 |            | Spell Attack  |   Charisma Save   | Intimidation |  Persuasion  |       |
 | **Term 3** |               |                   | 8 \| 24 (20) | 9 \| 18 (20) |       |
 |            | Intimidation  |    Persuasion     |  Persuasion  | Spell Attack |       |
-| **Term 4** | 24 \| 18 (20) |   28 \| 9 (20)    | 24 \| 7 (20) |              |       |
+| **Term 4** | 24 \| 18 (20) |   28 \| 9 (20)    | 24 \| 7 (20) | 15 \| 9 (20) |       |
 |            |  Performance  |   Spell Attack    | Intimidation |  Persuasion  |       |
-| **Term 5** |               |                   |              |              |       |
+| **Term 5** | 18 \| 24 (20) |                   |              |              |       |
 |            |  Persuasion   |   Intimidation    | Spell Attack | Intimidation |       |
 | **Term 6** |               |                   |              |              |       |
 |            | Spell Attack  | Intelligence Save | Intimidation |  Persuasion  |       |
@@ -118,9 +118,9 @@
 |            |  Intimidation  |   Athletics   | Melee Attack  |     Arcana     |       |
 | **Term 3** |                |               | 8 \| 16 (20)  | 13 \| 19 (20)  |       |
 |            | Dexterity Save | Melee Attack  |   Athletics   |  Intimidation  |       |
-| **Term 4** |  8 \| 6 (14)   | 13 \| 17 (20) | 14 \| 25 (20) |                |       |
+| **Term 4** |  8 \| 6 (14)   | 13 \| 17 (20) | 14 \| 25 (20) | 15 \| 17 (20)  |       |
 |            |  Melee Attack  | Intimidation  | Strength Save |   Athletics    |       |
-| **Term 5** |                |               |               |                |       |
+| **Term 5** | 14 \| 21 (20)  |               |               |                |       |
 |            |  Performance   |   Athletics   | Intimidation  |  Melee Attack  |       |
 | **Term 6** |                |               |               |                |       |
 |            |  Intimidation  | Melee Attack  |   Athletics   | Dexterity Save |       |

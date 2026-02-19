@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 22 \| 16 (20) |  16 \| 11 (20)  |  12 \| 5 (17)   |  20 \| 7 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** | 18 \| 20 (20) |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -57,7 +57,7 @@
 |            |  Intelligence Save   |      Arcana       | Intelligence Ability |        Nature        |       |
 | **Term 4** |    18 \| 21 (20)     |   8 \| 21 (20)    |    10 \| 20 (20)     |    19 \| 17 (20)     |       |
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
-| **Term 5** |                      |                   |                      |                      |       |
+| **Term 5** |     19 \| 9 (20)     |                   |                      |                      |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
 | **Term 6** |                      |                   |                      |                      |       |
 |            |        Nature        |      History      |        Arcana        | Intelligence Ability |       |
@@ -88,7 +88,7 @@
 |            |  Perception   |        Nature        | Intelligence Save |     Insight     |       |
 | **Term 4** | 16 \| 6 (20)  |    24 \| 19 (20)     |   10 \| 23 (20)   |  10 \| 8 (18)   |       |
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
-| **Term 5** |               |                      |                   |                 |       |
+| **Term 5** |  9 \| 2 (11)  |                      |                   |                 |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |
 | **Term 6** |               |                      |                   |                 |       |
 |            |    Nature     |  Intelligence Save   |    Perception     |     Insight     |       |
@@ -121,7 +121,7 @@
 |            |        Arcana        | Constitution Ability |  Intelligence Save   |        Arcana        |       |
 | **Term 4** |     8 \| 5 (13)      |    14 \| 21 (20)     |    21 \| 17 (20)     |      5 \| 4 (9)      |       |
 |            |       Insight        |        Arcana        | Intelligence Ability | Constitution Ability |       |
-| **Term 5** |                      |                      |                      |                      |       |
+| **Term 5** |    20 \| 22 (20)     |                      |                      |                      |       |
 |            |      Perception      |  Constitution Save   |        Arcana        |  Intelligence Save   |       |
 | **Term 6** |                      |                      |                      |                      |       |
 |            | Intelligence Ability |        Arcana        |  Constitution Save   |        Arcana        |       |

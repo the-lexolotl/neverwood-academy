@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 6 \| 17 (20)  |   4 \| 2 (6)    |  11 \| 21 (20)  |  10 \| 15 (20)  |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** | 13 \| 18 (20) |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -57,7 +57,7 @@
 |            |  Intelligence Save   |      Arcana       | Intelligence Ability |        Nature        |       |
 | **Term 4** |     17 \| 9 (20)     |   23 \| 9 (20)    |     9 \| 18 (20)     |     13 \| 5 (18)     |       |
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
-| **Term 5** |                      |                   |                      |                      |       |
+| **Term 5** |    10 \| 11 (20)     |                   |                      |                      |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
 | **Term 6** |                      |                   |                      |                      |       |
 |            |        Nature        |      History      |        Arcana        | Intelligence Ability |       |
@@ -88,7 +88,7 @@
 |            |    Insight    |    Arcana    |    History    |      Arcana       |       |
 | **Term 4** | 18 \| 11 (20) | 5 \| 11 (16) | 25 \| 23 (20) |   11 \| 18 (20)   |       |
 |            |    History    |   Religion   |    Insight    |      Arcana       |       |
-| **Term 5** |               |              |               |                   |       |
+| **Term 5** |  7 \| 5 (12)  |              |               |                   |       |
 |            |  Wisdom Save  |   Insight    |    Arcana     | Intelligence Save |       |
 | **Term 6** |               |              |               |                   |       |
 |            |    Arcana     |   History    |    History    |      Insight      |       |
@@ -120,7 +120,7 @@
 |            |    Arcana     | Slight of Hand |  Intimidation  |   Deception    |       |
 | **Term 4** | 13 \| 6 (19)  |  2 \| 8 (10)   |  20 \| 7 (20)  | 18 \| 16 (20)  |       |
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
-| **Term 5** |               |                |                |                |       |
+| **Term 5** | 15 \| 9 (20)  |                |                |                |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
 | **Term 6** |               |                |                |                |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |

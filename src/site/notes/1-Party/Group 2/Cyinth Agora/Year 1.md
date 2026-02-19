@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 17 \| 19 (20) |  13 \| 15 (20)  |   9 \| 7 (16)   |  21 \| 8 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** | 18 \| 22 (20) |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -57,7 +57,7 @@
 |            |   Religion    |    History    |    Insight    | Investigation |       |
 | **Term 4** | 13 \| 10 (20) | 16 \| 6 (20)  | 17 \| 22 (20) |  3 \| 5 (8)   |       |
 |            |    Insight    |   Religion    |    History    |  Performance  |       |
-| **Term 5** |               |               |               |               |       |
+| **Term 5** | 19 \| 7 (20)  |               |               |               |       |
 |            |    History    | Investigation |    Insight    |   Religion    |       |
 | **Term 6** |               |               |               |               |       |
 |            |    History    |    Insight    |   Religion    |    History    |       |
@@ -89,7 +89,7 @@
 |            |  Persuasion   | Investigation |   Deception   |   History    |       |
 | **Term 4** | 19 \| 11 (20) | 20 \| 9 (20)  | 14 \| 11 (20) |  3 \| 2 (5)  |       |
 |            |   Deception   |   Religion    | Investigation |  Persuasion  |       |
-| **Term 5** |               |               |               |              |       |
+| **Term 5** | 11 \| 12 (20) |               |               |              |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
 | **Term 6** |               |               |               |              |       |
 |            |    History    |   Deception   | Investigation |  Deception   |       |
@@ -121,7 +121,7 @@
 |            |  Perception   |   Athletics   |    Nature     |   Survival    |       |
 | **Term 4** | 18 \| 12 (20) | 10 \| 22 (20) | 6 \| 12 (18)  | 13 \| 15 (20) |       |
 |            |   Survival    |    Nature     |   Athletics   |  Perception   |       |
-| **Term 5** |               |               |               |               |       |
+| **Term 5** |  4 \| 9 (13)  |               |               |               |       |
 |            |    Nature     |   Survival    | Strength Save |   Athletics   |       |
 | **Term 6** |               |               |               |               |       |
 |            |   Athletics   |  Perception   |    Nature     |   Survival    |       |

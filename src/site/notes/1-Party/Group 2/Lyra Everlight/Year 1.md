@@ -22,7 +22,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 10 \| 17 (20) |  16 \| 5 (20)   |  13 \| 14 (20)  |  8 \| 11 (19)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** |  8 \| 2 (10)  |                 |                 |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -56,7 +56,7 @@
 |            |     Insight      | Charisma Save | Charisma Ability |  Persuasion   |       |
 | **Term 4** |  16 \| 25 (20)   | 10 \| 20 (20) |  12 \| 24 (20)   | 21 \| 14 (20) |       |
 |            |    Persuasion    | Spell Attack  |  Charisma Save   |  Performance  |       |
-| **Term 5** |                  |               |                  |               |       |
+| **Term 5** |   21 \| 7 (20)   |               |                  |               |       |
 |            | Charisma Ability |  Persuasion   |   Spell Attack   | Charisma Save |       |
 | **Term 6** |                  |               |                  |               |       |
 |            |   Spell Attack   | Charisma Save |    Persuasion    |  Performance  |       |
@@ -87,7 +87,7 @@
 |            |   Medicine    |      Arcana       |   Medicine    |  Persuasion   |       |
 | **Term 4** | 17 \| 17 (20) |   21 \| 8 (20)    | 20 \| 4 (20)  | 5 \| 23 (20)  |       |
 |            |  Persuasion   |     Medicine      |    Arcana     |  Performance  |       |
-| **Term 5** |               |                   |               |               |       |
+| **Term 5** |  3 \| 2 (5)   |                   |               |               |       |
 |            |    Arcana     |    Persuasion     |   Medicine    |   Deception   |       |
 | **Term 6** |               |                   |               |               |       |
 |            | Charisma Save |     Medicine      |  Persuasion   |    Arcana     |       |
@@ -119,7 +119,7 @@
 |            |    Arcana     | Slight of Hand |  Intimidation  |   Deception    |       |
 | **Term 4** | 25 \| 16 (20) |  7 \| 14 (20)  | 15 \| 17 (20)  | 15 \| 19 (20)  |       |
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
-| **Term 5** |               |                |                |                |       |
+| **Term 5** |  4 \| 8 (12)  |                |                |                |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
 | **Term 6** |               |                |                |                |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |
