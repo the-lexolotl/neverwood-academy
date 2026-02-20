@@ -778,6 +778,169 @@ permalink: /pub-that-crawls/
     margin-top: 40px;
     opacity: 0.7;
   }
+
+  /* ── Side Quests ── */
+  .side-quests-header {
+    margin-top: 52px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .side-quests-title {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: var(--text-dim);
+    white-space: nowrap;
+  }
+
+  .side-quests-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--bg-darker), transparent);
+  }
+
+  .side-quest-section {
+    margin-bottom: 10px;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(50,50,68,0.12);
+    animation: fadein 0.5s ease both;
+  }
+
+  .side-quest-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px 18px;
+    cursor: pointer;
+    user-select: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.25s ease;
+  }
+
+  .side-quest-header:hover { filter: brightness(0.97); }
+
+  /* Side quest states */
+  .side-quest-section.sq-locked .side-quest-header {
+    background: var(--bg-dark);
+    border-color: var(--bg-darker);
+  }
+  .side-quest-section.sq-locked .side-quest-body { background: var(--bg-dark); }
+
+  .side-quest-section.sq-active .side-quest-header {
+    background: var(--bg-mid);
+    border-color: rgba(122,92,8,0.3);
+  }
+  .side-quest-section.sq-active .side-quest-body { background: var(--bg-light); }
+
+  .side-quest-section.sq-done .side-quest-header {
+    background: linear-gradient(135deg, #ccdfc4, #c4d8bc);
+    border-color: var(--complete-border);
+  }
+  .side-quest-section.sq-done .side-quest-body { background: #c8dcc0; }
+
+  /* Icon */
+  .sq-icon {
+    font-size: 18px;
+    flex-shrink: 0;
+    width: 28px;
+    text-align: center;
+    opacity: 0.7;
+  }
+  .sq-locked .sq-icon { opacity: 0.3; }
+  .sq-done .sq-icon { opacity: 1; }
+
+  /* Title block */
+  .sq-title-block { flex: 1; }
+
+  .sq-name {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+  }
+  .sq-locked .sq-name { color: var(--text-faint); }
+  .sq-active .sq-name { color: var(--text); }
+  .sq-done .sq-name { color: var(--complete); }
+
+  .sq-unlock-note {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 2px;
+  }
+  .sq-locked .sq-unlock-note { color: var(--text-faint); }
+  .sq-active .sq-unlock-note { color: var(--text-dim); }
+  .sq-done .sq-unlock-note { color: #4a7a2a; }
+
+  /* Status */
+  .sq-status {
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 9px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 2px;
+    border: 1px solid;
+    flex-shrink: 0;
+  }
+  .sq-locked .sq-status { background: transparent; border-color: var(--bg-darker); color: var(--text-faint); }
+  .sq-active .sq-status { background: rgba(122,92,8,0.08); border-color: var(--wax-gold); color: var(--wax-glow); }
+  .sq-done .sq-status { background: rgba(45,90,27,0.15); border-color: var(--complete-border); color: var(--complete); }
+
+  /* Chevron */
+  .sq-chevron {
+    font-size: 11px;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+    color: var(--text-faint);
+  }
+  .sq-active .sq-chevron { color: var(--wax-gold); }
+  .sq-done .sq-chevron { color: var(--complete-border); }
+  .side-quest-section.open .sq-chevron { transform: rotate(180deg); }
+
+  /* Body */
+  .side-quest-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s cubic-bezier(0.4,0,0.2,1);
+    border-top: 1px solid transparent;
+  }
+  .sq-active .side-quest-body { border-color: rgba(122,92,8,0.12); }
+  .sq-done .side-quest-body { border-color: rgba(45,90,27,0.12); }
+  .side-quest-section.open .side-quest-body { max-height: 1400px; }
+
+  .side-quest-body-inner { padding: 16px 20px 20px; }
+
+  /* Locked overlay (side quest) */
+  .sq-locked-overlay {
+    text-align: center;
+    padding: 18px;
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: 14px;
+  }
+  .sq-locked-overlay span { font-size: 22px; display: block; margin-bottom: 6px; opacity: 0.3; }
+
+  /* Complete button (side quest) */
+  .btn-sq-complete {
+    margin-top: 14px;
+    padding: 8px 16px;
+    font-family: 'Distillery Strong W00 Regular', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border: 1px solid var(--wax-gold);
+    background: rgba(122,92,8,0.07);
+    color: var(--wax-glow);
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.25s ease;
+    width: 100%;
+  }
+  .btn-sq-complete:hover { background: rgba(122,92,8,0.15); letter-spacing: 4px; }
+  .btn-sq-complete:active { transform: scale(0.98); }
 </style>
 </head>
 <body>
@@ -1246,9 +1409,306 @@ permalink: /pub-that-crawls/
     </div>
   </div>
 
-  <button class="reset-btn" onclick="resetAll()">Reset Progress</button>
+  <!-- ══════════════════════════════════════════
+       SIDE QUESTS
+  ═══════════════════════════════════════════ -->
+  <div class="side-quests-header">
+    <div class="side-quests-title">Side Quests</div>
+    <div class="side-quests-line"></div>
+  </div>
+
+  <!-- SQ1: Mind Over Malt -->
+  <div class="side-quest-section sq-locked" id="sq-1" data-sq="1">
+    <div class="side-quest-header" onclick="toggleSq(1)">
+      <div class="sq-icon">🧠</div>
+      <div class="sq-title-block">
+        <div class="sq-name">Mind Over Malt</div>
+        <div class="sq-unlock-note">Unlocks at The Tall Tale</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-1"><span>🔒</span>Begin the crawl to reveal this quest.</div>
+        <div id="sq-content-1" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">Each signature drink on the crawl was designed by a different founder with a different magical discipline. A careful eye — or a trained nose — might notice that they share something beneath the surface. Something that has less to do with brewing and more to do with the planes.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🍺</div><div class="obj-text"><strong>Liquid Courage</strong> — Analyse the dark, frosty mixture of pale ale and stout. Arcana DC 12 or Alchemist's Supplies DC 10 to detect a faint martial resonance, like the echo of a battle cry held in suspension.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🍸</div><div class="obj-text"><strong>Pomumtini</strong> — Examine the sweet-sour mixed drink. Arcana DC 13 or Alchemist's Supplies DC 11 to identify a conjuration signature — something in it wants to be somewhere else.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🌅</div><div class="obj-text"><strong>Sunset Liqueur</strong> — Study the layered fruit drink. Arcana DC 13 or Alchemist's Supplies DC 11 to sense an illusion-adjacent quality — it performs for whoever drinks it.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🐸</div><div class="obj-text"><strong>Skewbald Swill</strong> — Inspect the syrupy, pungent concoction. Arcana DC 14 or Alchemist's Supplies DC 12 to detect a necrotic-adjacent thread — life drawn down to its essentials, distilled.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🍷</div><div class="obj-text"><strong>Wine of Inspiration</strong> — Taste the sweet red carefully before it takes hold. Arcana DC 14 or Alchemist's Supplies DC 12 to catch the transmutation at its core — the drink doesn't just warm you, it changes something.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">☕</div><div class="obj-text"><strong>White Ravnican</strong> — Analyse the final creamy drink. Arcana DC 15 or Alchemist's Supplies DC 13 to recognise what the others were building toward — each drink a frequency, this one the resolution. Together they form a key.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">Rules Note (5e 2024)</div>
+            <div class="lore-text">Arcana checks use Intelligence. Alchemist's Supplies checks use Intelligence + your proficiency bonus if proficient with the tools. Under 2024 rules, tool proficiency can also apply to relevant ability checks at the DM's discretion — a character proficient with Alchemist's Supplies might add that proficiency to an Arcana check when analysing a potion or magical drink.</div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">What A Full Analysis Reveals</div>
+            <div class="lore-text">A character who successfully analyses all six drinks understands — before reaching the Pub That Crawls — that the drinks are not merely challenges. They are components of a transplanar key, each one attuned to a different school of magic, together calibrating the drinker to a frequency that allows them to perceive and enter a pub that exists slightly outside of normal space.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(1)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SQ2: The Scroll of Spirit Calling -->
+  <div class="side-quest-section sq-locked" id="sq-2" data-sq="2">
+    <div class="side-quest-header" onclick="toggleSq(2)">
+      <div class="sq-icon">📜</div>
+      <div class="sq-title-block">
+        <div class="sq-name">The Scroll of Spirit Calling</div>
+        <div class="sq-unlock-note">Unlocks at The Tall Tale</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-2"><span>🔒</span>Begin the crawl to reveal this quest.</div>
+        <div id="sq-content-2" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">The Tall Tale's reading rooms hold more than history. Among the shelves of Neverwood lore are a handful of magical tomes — and at least one scroll of particular use, given what lies beneath the pub.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🔍</div><div class="obj-text">Search the reading rooms of the Tall Tale for magical tomes. A careful eye — or a spell — may reveal something useful among the history volumes.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">📜</div><div class="obj-text">Recover the scroll of spirit calling. It may prove more useful than it first appears — particularly if you find something in the cellar that seems incomplete.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">Hint</div>
+            <div class="lore-text">A DC 12 Intelligence (Investigation) check will locate the scroll in any reading room. Detect magic will find it without a check. The scroll's purpose becomes clear once you've read the epitaph on the headless statue in the Treasure Room.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(2)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SQ3: The Founders' History -->
+  <div class="side-quest-section sq-locked" id="sq-3" data-sq="3">
+    <div class="side-quest-header" onclick="toggleSq(3)">
+      <div class="sq-icon">🏛</div>
+      <div class="sq-title-block">
+        <div class="sq-name">The Founders' History</div>
+        <div class="sq-unlock-note">Unlocks at The Frothing Flask</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-3"><span>🔒</span>Reach The Frothing Flask to reveal this quest.</div>
+        <div id="sq-content-3" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">Five students. Five pubs. A falling out that no one has fully explained. The story of how the pub crawl came to exist — and why the Pub That Crawls became a legend rather than a destination — is scattered across the people and places of this very crawl, if you know who to ask.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🤖</div><div class="obj-text">Speak with Vani at the Frothing Flask. She knew Eb Zenithon personally and will share what she knows of all five founders — if you're polite about it.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🎓</div><div class="obj-text">Find Professor Karl Shaffer in the Tall Tale's reading rooms. He has spent his career studying Neverwood's legends and knows more than most about the crawl's origins.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">👻</div><div class="obj-text">If you are able to call Orestes' spirit, speak with him directly. He was there. He remembers more than the history books recorded — and rather less than he'd like to admit.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">What You're Piecing Together</div>
+            <div class="lore-text">The five founders were: Orestes Alaris (Tall Tale), Eb Zenithon (Frothing Flask), Alise Thallas (Lucid Dreamer), Giovanni Uncuf (Rambling Toad), and Bree Peregrine (Beauty's Mirror). They discovered the Pub That Crawls together as students, explored the planes, fell out, and split the secret between five pubs so only the truly worthy could follow in their footsteps.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(3)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SQ4: Construct and Creator -->
+  <div class="side-quest-section sq-locked" id="sq-4" data-sq="4">
+    <div class="side-quest-header" onclick="toggleSq(4)">
+      <div class="sq-icon">🦉</div>
+      <div class="sq-title-block">
+        <div class="sq-name">Construct and Creator</div>
+        <div class="sq-unlock-note">Unlocks at The Frothing Flask</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-4"><span>🔒</span>Reach The Frothing Flask to reveal this quest.</div>
+        <div id="sq-content-4" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">Vani has been behind the bar of the Frothing Flask for centuries. She was built by Eb Zenithon, willed this pub upon his death, and has been waiting ever since — for someone to finish what he started. She is impeccably polite and remembers every drink order she has ever taken. She would very much like to leave.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🤝</div><div class="obj-text">Earn Vani's trust. Be friendly, ask genuine questions, and treat her as more than a bartender. She has been waiting a long time for someone worth talking to.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">📖</div><div class="obj-text">Learn about Eb Zenithon — his genius, his loneliness after the split, and the elaborate plan he set in motion centuries before you arrived.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">💬</div><div class="obj-text">Ask Vani what she wants. She is magically bound to the pub — but she believes that if someone else reaches the Pub That Crawls, the terms of that binding change. She has a stake in your success.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">What Vani Will Share</div>
+            <div class="lore-text">Vani is magically prevented from revealing how to complete any of the challenges, or anything about the Pub That Crawls' contents. But she can speak freely about the founders, their relationships, and their personalities — and she has strong opinions about all of them. She will also share this about Orestes and Bree: "Orestes always said Bree had his heart. But she always said she loved him more for his head."</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(4)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SQ5: The Vice Dean's Scheme -->
+  <div class="side-quest-section sq-locked" id="sq-5" data-sq="5">
+    <div class="side-quest-header" onclick="toggleSq(5)">
+      <div class="sq-icon">🕯</div>
+      <div class="sq-title-block">
+        <div class="sq-name">The Vice Dean's Scheme</div>
+        <div class="sq-unlock-note">Unlocks at The Lucid Dreamer</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-5"><span>🔒</span>Reach The Lucid Dreamer to reveal this quest.</div>
+        <div id="sq-content-5" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">The constructs that shut down the Lucid Dreamer didn't arrive by chance. Vice Dean Ruanad has been watching the crawl. He has an informant, a theory, and a plan — and Professor Darou's obsessive research is tangled up in all of it. What does a Vice Dean want with a pub that can walk between worlds?</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">👁</div><div class="obj-text">At the Rambling Toad, identify Jeshna — a hooded elven woman on the veranda who is not a regular. She is sending a message spell. Confront or observe her to learn who she reports to.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🔍</div><div class="obj-text">Piece together Ruanad's true motive. He is not interested in planar theory — he is interested in what planar access is worth. Neverwood's mystical archive could fetch a considerable sum on the right world.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">📚</div><div class="obj-text">Understand Darou's role. She genuinely believes her theories — and genuinely resents being Ruanad's instrument. She wants to be right. He wants to be rich. These are not the same thing.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">⚖</div><div class="obj-text">When you meet them at the Pub That Crawls, decide how to handle it. Expose Ruanad, turn Darou against him, let the pub deal with them — or use what you know for leverage later.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">What the Adventure Tells You</div>
+            <div class="lore-text">Ruanad's goal is to sell the university's mystical archive to buyers on other planes — buyers who don't exist on Toril. Darou's goal is to prove her planar theories and earn the respect she feels she deserves. Revealing Darou's actual role to her face requires a DC 16 Charisma (Persuasion) check — but if it lands, she may turn on Ruanad entirely.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(5)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="side-quest-section sq-locked" id="sq-6" data-sq="6">
+    <div class="side-quest-header" onclick="toggleSq(6)">
+      <div class="sq-icon">🐸</div>
+      <div class="sq-title-block">
+        <div class="sq-name">Kask's Story</div>
+        <div class="sq-unlock-note">Unlocks at The Rambling Toad</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-6"><span>🔒</span>Reach The Rambling Toad to reveal this quest.</div>
+        <div id="sq-content-7" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">On the veranda sits a burrog named Falk, staring into his mug. In the garden sits his brother Kask, hiccupping and muttering to himself. Something happened to Kask. He stumbled upon a shambling building in the Detention Bog years ago, and tried to enter it. He has never been the same since.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🐸</div><div class="obj-text">Speak with Falk on the veranda. Ask him about his brother. He won't say much, but he'll say enough.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🌿</div><div class="obj-text">Find Kask in the beer garden. He appears lost in his own world — but listen carefully to what he mutters. It is not as random as it sounds.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">💭</div><div class="obj-text">Consider what happened to Kask when he tried to enter the Pub That Crawls without completing the ritual. And bear that in mind when you get there.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">What Kask Mutters</div>
+            <div class="lore-text">Kask's seemingly random utterances are actually clues to the garden puzzle — the correct order to transfer the liquid between the basins. Pay close attention. He repeats the refrain "pass it along, pass it along, then drink it down to make ya strong" once he has said everything useful.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(6)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SQ7: Orestes' Head -->
+  <div class="side-quest-section sq-locked" id="sq-7" data-sq="7">
+    <div class="side-quest-header" onclick="toggleSq(7)">
+      <div class="sq-icon">🗿</div>
+      <div class="sq-title-block">
+        <div class="sq-name">Orestes' Head</div>
+        <div class="sq-unlock-note">Unlocks at The Beauty's Mirror</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-7"><span>🔒</span>Reach The Beauty's Mirror to reveal this quest.</div>
+        <div id="sq-content-7" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">In the Tall Tale's treasure room stands a headless statue of a hulking warrior, sealed beneath the pub with a cryptic epitaph: "Orestes Alaris — may his head lie with his heart." In the Beauty's Mirror's studio, among the artworks, is a stone bust of a smiling bearded man — and a charcoal sketch of the very same face. Bree kept his head. She always said she loved him more for it.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🔍</div><div class="obj-text">In the Tall Tale's Treasure Room, read the epitaph on the base of the headless statue. A DC 14 History check or comprehend languages will translate the ancient script.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🖼</div><div class="obj-text">In the Beauty's Mirror studio, find the stone bust among the artworks. Notice that it matches the charcoal sketch on the other side of the room — and that its rough-hewn base looks like it was cut from a larger work.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">🗿</div><div class="obj-text">Return the bust to the Tall Tale and place it on the headless statue's shoulders.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">👻</div><div class="obj-text">With the statue restored, use the scroll of spirit calling to summon Orestes. Speak with the man himself.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">Vani's Clue</div>
+            <div class="lore-text">"Orestes always said Bree had his heart, but she always said she loved him more for his head." The scroll of spirit calling found in the Tall Tale's reading rooms is required to call his spirit once the statue is complete.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(7)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SQ8: The Game Room Figures -->
+  <div class="side-quest-section sq-locked" id="sq-8" data-sq="8">
+    <div class="side-quest-header" onclick="toggleSq(8)">
+      <div class="sq-icon">♟</div>
+      <div class="sq-title-block">
+        <div class="sq-name">The Game Room Figures</div>
+        <div class="sq-unlock-note">Unlocks at The Pub That Crawls</div>
+      </div>
+      <div class="sq-status">Locked</div>
+      <div class="sq-chevron">▼</div>
+    </div>
+    <div class="side-quest-body">
+      <div class="side-quest-body-inner">
+        <div class="sq-locked-overlay" id="sq-locked-8"><span>🔒</span>Reach The Pub That Crawls to reveal this quest.</div>
+        <div id="sq-content-8" style="display:none">
+          <div class="lore-box flavour">
+            <div class="lore-label">Background</div>
+            <div class="lore-text">In the Game Room of the Pub That Crawls stands a chequered table. On one edge: five pewter figures of the five founders — Orestes, Eb, Alise, Giovanni, Bree. Arranged on the board itself: perfect miniature representations of your party. No one put them there. No one knows how they got there. Detect magic reveals nothing.</div>
+          </div>
+          <div style="margin-top:14px">
+            <div class="objectives-label">Objectives</div>
+            <div class="objective obj-active"><div class="obj-icon">🔍</div><div class="obj-text">Examine the figures on the board. They are perfect likenesses of each member of your party — down to their equipment and bearing.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">💬</div><div class="obj-text">Ask Boyan about the figures. He knows of their existence but has no explanation for them.</div></div>
+            <div class="objective obj-active"><div class="obj-icon">👻</div><div class="obj-text">If Orestes' spirit has been called, ask him too. His group found figures of themselves in this same room when they first discovered the pub — none of them ever understood it either.</div></div>
+          </div>
+          <div class="lore-box hint" style="margin-top:14px">
+            <div class="lore-label">What Is Known</div>
+            <div class="lore-text">Moving or destroying the figures has no effect on the characters they represent. Detect magic and similar spells reveal no auras. The pub has been to many worlds — and the figures of the founders were there long before anyone found it. This question has no answer. At least not yet.</div>
+          </div>
+          <button class="btn-sq-complete" onclick="completeSq(8)">✓ &nbsp; Mark Complete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 
   <p class="footnote">Compiled from the logbook of E. Zenithon &nbsp;·&nbsp; Reproduced for the benefit of those deemed worthy</p>
+
+  <button class="reset-btn" onclick="resetAll()">Reset All Progress</button>
 
 </div>
 
@@ -1395,8 +1855,119 @@ permalink: /pub-that-crawls/
 
   // ── Run ────────────────────────────────────────────────────────────────────
   init();
+
+  // ── Side Quest State ───────────────────────────────────────────────────────
+  // Which main pub completion unlocks each side quest
+  // sq1=Mind Over Malt (pub1), sq2=Scroll (pub1), sq3=Founders History (pub2),
+  // sq4=Construct & Creator (pub2), sq5=Vice Dean's Scheme (pub3), sq6=Kask (pub4),
+  // sq7=Orestes Head (pub5), sq8=Game Room (pub6)
+  const SQ_UNLOCK = { 1: 1, 2: 1, 3: 2, 4: 2, 5: 3, 6: 4, 7: 5, 8: 6 };
+  const SQ_TOTAL = 8;
+  let sqCompleted = [];
+
+  try {
+    const saved = JSON.parse(localStorage.getItem('ptc-sq-progress') || '[]');
+    if (Array.isArray(saved)) sqCompleted = saved;
+  } catch(e) {}
+
+  function initSideQuests() {
+    for (let i = 1; i <= SQ_TOTAL; i++) {
+      const unlockPub = SQ_UNLOCK[i];
+      const isUnlocked = completed.includes(unlockPub) || 
+                         (unlockPub === 1 && (completed.includes(0) || completed.length >= 0));
+      // Pub 1 unlocks when pub 1 is active (i.e. always at start for sq-1)
+      const pubActive = unlockPub === 1 ? true : completed.includes(unlockPub - 1) || completed.includes(unlockPub);
+
+      if (sqCompleted.includes(i)) {
+        setSqDone(i, false);
+      } else if (pubActive || completed.includes(unlockPub)) {
+        setSqActive(i);
+      } else {
+        setSqLocked(i);
+      }
+    }
+  }
+
+  function toggleSq(n) {
+    const section = document.getElementById('sq-' + n);
+    if (section.classList.contains('sq-locked')) return;
+    section.classList.toggle('open');
+  }
+
+  function setSqActive(n) {
+    const s = document.getElementById('sq-' + n);
+    s.className = 'side-quest-section sq-active';
+    s.querySelector('.sq-status').textContent = 'Available';
+    const locked = document.getElementById('sq-locked-' + n);
+    const content = document.getElementById('sq-content-' + n);
+    if (locked) locked.style.display = 'none';
+    if (content) content.style.display = 'block';
+  }
+
+  function setSqLocked(n) {
+    const s = document.getElementById('sq-' + n);
+    s.className = 'side-quest-section sq-locked';
+    s.classList.remove('open');
+    s.querySelector('.sq-status').textContent = 'Locked';
+    const locked = document.getElementById('sq-locked-' + n);
+    const content = document.getElementById('sq-content-' + n);
+    if (locked) locked.style.display = 'block';
+    if (content) content.style.display = 'none';
+  }
+
+  function setSqDone(n, animate) {
+    const s = document.getElementById('sq-' + n);
+    s.className = 'side-quest-section sq-done';
+    if (animate) s.classList.add('open');
+    s.querySelector('.sq-status').textContent = 'Complete';
+    const locked = document.getElementById('sq-locked-' + n);
+    const content = document.getElementById('sq-content-' + n);
+    if (locked) locked.style.display = 'none';
+    if (content) content.style.display = 'block';
+    s.querySelectorAll('.objective').forEach(obj => {
+      obj.classList.remove('obj-active', 'obj-pending');
+      obj.classList.add('obj-done');
+      obj.querySelector('.obj-icon').textContent = '✓';
+    });
+  }
+
+  function completeSq(n) {
+    if (sqCompleted.includes(n)) return;
+    sqCompleted.push(n);
+    try { localStorage.setItem('ptc-sq-progress', JSON.stringify(sqCompleted)); } catch(e) {}
+    setSqDone(n, true);
+  }
+
+  // Hook into completeQuest to unlock side quests when pubs are completed
+  const _origCompleteQuest = completeQuest;
+  completeQuest = function(n) {
+    _origCompleteQuest(n);
+    // Unlock any side quest tied to this pub
+    for (let i = 1; i <= SQ_TOTAL; i++) {
+      if (SQ_UNLOCK[i] === n && !sqCompleted.includes(i)) {
+        setSqActive(i);
+      }
+    }
+  };
+
+  // Init side quests after main init
+  initSideQuests();
+
+  // Extend resetAll to also reset side quests
+  const _origResetAll = resetAll;
+  resetAll = function() {
+    const hadProgress = completed.length > 0 || sqCompleted.length > 0;
+    _origResetAll();
+    // If completed is now empty, the user confirmed — reset side quests too
+    if (completed.length === 0 && hadProgress) {
+      sqCompleted = [];
+      try { localStorage.removeItem('ptc-sq-progress'); } catch(e) {}
+      for (let i = 1; i <= SQ_TOTAL; i++) {
+        if (i === 1) setSqActive(i);
+        else setSqLocked(i);
+      }
+    }
+  };
 </script>
 </body>
-
 </html>
-
