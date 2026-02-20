@@ -200,7 +200,7 @@ module.exports = function (eleventyConfig) {
   // =========================
   return {
     dir: { input: "src/site", output: "dist", data: "_data" },
-    templateFormats: ["njk", "md", "11ty.js"],
+    templateFormats: ["njk", "md", "11ty.js", "html"],
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
