@@ -1,10 +1,10 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Neverwinter City.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"dg-show-backlinks":true,"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Neverwinter-(ZF-9046-66654-1-001).webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"dg-show-backlinks":true,"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
-![[Neverwinter City.webp]]
+![Neverwinter-(ZF-9046-66654-1-001).webp](/img/user/z_Assets/Maps/Neverwinter-(ZF-9046-66654-1-001).webp)
 # General
 
 **Region:** [[2-World/Regions/Sword Coast\|Sword Coast]]
