@@ -147,6 +147,36 @@ permalink: /neverwinter-map/
 
   .no-selection { font-size: 0.78rem; color: var(--ink-light); font-style: italic; line-height: 1.5; }
 
+  /* ── TOOLBAR ── */
+  .toolbar { display: flex; gap: 5px; margin-top: 10px; }
+  .btn-tool {
+    flex: 1; padding: 5px 8px; border-radius: 3px;
+    border: 1px solid var(--gold); background: transparent;
+    color: var(--ink-light); font-family: 'Cinzel', serif;
+    font-size: 0.6rem; letter-spacing: 0.04em; cursor: pointer;
+    transition: all 0.15s; white-space: nowrap; width: auto;
+  }
+  .btn-tool:hover { background: rgba(160,116,42,0.15); color: var(--ink); }
+  .btn-tool-danger { border-color: rgba(139,26,26,0.4); color: #8b1a1a; }
+  .btn-tool-danger:hover { background: rgba(139,26,26,0.1); }
+
+  .import-box { display: none; margin-top: 8px; }
+  .import-box.visible { display: block; }
+  .import-box textarea {
+    width: 100%; height: 80px; background: var(--parchment);
+    border: 1px solid var(--gold); border-radius: 3px;
+    padding: 6px 8px; color: var(--ink); font-family: monospace;
+    font-size: 0.72rem; resize: vertical; outline: none;
+  }
+  .import-box textarea:focus { border-color: var(--red); }
+
+  /* ── DRAG REORDER ── */
+  .marker-item { position: relative; }
+  .marker-item[draggable=true] { cursor: grab; }
+  .marker-item.drag-over { border-color: var(--gold) !important; background: rgba(160,116,42,0.15) !important; }
+  .drag-handle { font-size: 0.75rem; color: var(--gold); opacity: 0.5; flex-shrink: 0; align-self: center; padding-right: 2px; cursor: grab; user-select: none; }
+  .drag-handle:hover { opacity: 1; }
+
   /* ── MAP ── */
   #map { flex: 1; background: #1a1208; cursor: crosshair; }
   #map.locked { cursor: default; }
@@ -248,6 +278,15 @@ permalink: /neverwinter-map/
         <button class="lock-btn" id="lockBtn" onclick="toggleLock()">🔒 Locked</button>
       </div>
       <div class="hint" id="hintText">Click 🔒 to unlock editing.</div>
+      <div class="toolbar">
+        <button class="btn-tool" onclick="exportData()" title="Export markers as JSON">⬇ Export</button>
+        <button class="btn-tool" onclick="document.getElementById('importBox').classList.toggle('visible')" title="Import markers from JSON">⬆ Import</button>
+        <button class="btn-tool btn-tool-danger" onclick="confirmClear()" title="Clear all markers">🗑 Clear</button>
+      </div>
+      <div class="import-box" id="importBox">
+        <textarea id="importText" placeholder="Paste exported JSON here…"></textarea>
+        <button class="btn-tool" style="width:100%;margin-top:4px" onclick="importData()">Load Markers</button>
+      </div>
     </div>
 
     <!-- CATEGORY LEGEND (toggle visibility) -->
@@ -412,6 +451,7 @@ function initMap() {
   map.on('zoomend', updateMarkerVisibility);
   buildLegend();
   buildCatSelect();
+  loadFromStorage();
   renderList();
 }
 
@@ -421,13 +461,91 @@ function initMap() {
 let markers    = [];
 let selectedId = null;
 let idCounter  = 0;
-let hiddenCats = new Set(); // categories toggled off in legend
+let hiddenCats = new Set();
+const STORAGE_KEY = 'neverwood_neverwinter_markers';
+
+// ════════════════════════════════════════════════════════════
+// PERSISTENCE — localStorage
+// ════════════════════════════════════════════════════════════
+function saveToStorage() {
+  const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
+    ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom })
+  );
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch(e) {}
+}
+
+function loadFromStorage() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return;
+    const saved = JSON.parse(raw);
+    saved.forEach(d => {
+      if (d.id > idCounter) idCounter = d.id;
+      const data = { ...d, lm: null };
+      markers.push(data);
+      addLeafletMarker(data);
+    });
+    renderList();
+  } catch(e) { console.warn('Could not load saved markers:', e); }
+}
+
+// ════════════════════════════════════════════════════════════
+// EXPORT / IMPORT / CLEAR
+// ════════════════════════════════════════════════════════════
+function exportData() {
+  const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
+    ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom })
+  );
+  const json = JSON.stringify(data, null, 2);
+  // Copy to clipboard and offer download
+  const blob = new Blob([json], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url; a.download = 'neverwinter-markers.json'; a.click();
+  URL.revokeObjectURL(url);
+}
+
+function importData() {
+  const raw = document.getElementById('importText').value.trim();
+  if (!raw) return;
+  try {
+    const saved = JSON.parse(raw);
+    if (!Array.isArray(saved)) throw new Error('Not an array');
+    // Clear existing
+    markers.forEach(m => m.lm?.remove());
+    markers = [];
+    idCounter = 0;
+    saved.forEach(d => {
+      if (d.id > idCounter) idCounter = d.id;
+      const data = { ...d, lm: null };
+      markers.push(data);
+      addLeafletMarker(data);
+    });
+    saveToStorage();
+    renderList();
+    document.getElementById('importBox').classList.remove('visible');
+    document.getElementById('importText').value = '';
+  } catch(e) {
+    alert('Invalid JSON. Please paste a valid exported marker file.');
+  }
+}
+
+function confirmClear() {
+  if (!isUnlocked) return;
+  if (!confirm('Delete all markers? This cannot be undone.')) return;
+  markers.forEach(m => m.lm?.remove());
+  markers = []; idCounter = 0; selectedId = null;
+  document.getElementById('editForm').style.display    = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  saveToStorage();
+  renderList();
+}
 
 // ════════════════════════════════════════════════════════════
 // ICONS
 // ════════════════════════════════════════════════════════════
 function makeIcon(data) {
-  const cat   = CAT_MAP[data.cat] || CATEGORIES[3];
+  const cat   = CAT_MAP[data.cat] || CATEGORIES[7];
   const label = (data.label || 'New').replace(/</g,'&lt;');
   const html  = `
     <div class="map-pin">
@@ -444,7 +562,7 @@ function makeIcon(data) {
 // ════════════════════════════════════════════════════════════
 map.on('click', e => {
   if (!isUnlocked) return;
-  const defaultCat = CATEGORIES[3]; // landmark default
+  const defaultCat = CATEGORIES[7]; // landmark default
   const id   = ++idCounter;
   const data = {
     id, lat: e.latlng.lat, lng: e.latlng.lng,
@@ -455,6 +573,7 @@ map.on('click', e => {
   markers.push(data);
   addLeafletMarker(data);
   selectMarker(id);
+  saveToStorage();
   renderList();
 });
 
@@ -467,7 +586,6 @@ function addLeafletMarker(data) {
 
   lm.on('click', () => {
     if (isUnlocked) { selectMarker(data.id); return; }
-    // show popup for visitors
     if (data.label) lm.openPopup();
   });
 
@@ -475,6 +593,7 @@ function addLeafletMarker(data) {
     if (!isUnlocked) return;
     data.lat = ev.target.getLatLng().lat;
     data.lng = ev.target.getLatLng().lng;
+    saveToStorage();
   });
 
   bindPopup(lm, data);
@@ -486,7 +605,7 @@ function addLeafletMarker(data) {
 // POPUP
 // ════════════════════════════════════════════════════════════
 function bindPopup(lm, data) {
-  const cat = CAT_MAP[data.cat] || CATEGORIES[3];
+  const cat = CAT_MAP[data.cat] || CATEGORIES[7];
   const url = data.slug ? WIKI_BASE + data.slug : null;
   let html  = `<div class="popup-cat">${cat.icon} ${cat.label}</div>`;
   html += `<div class="popup-title">${data.label || 'Unnamed Location'}</div>`;
@@ -507,9 +626,7 @@ function applyVisibility(data) {
   if (el) el.style.display = (!hidden && inZoom) ? '' : 'none';
 }
 
-function updateMarkerVisibility() {
-  markers.forEach(applyVisibility);
-}
+function updateMarkerVisibility() { markers.forEach(applyVisibility); }
 
 // ════════════════════════════════════════════════════════════
 // SELECT & EDIT
@@ -532,7 +649,6 @@ function selectMarker(id) {
   renderList();
 }
 
-// Auto-fill zoom defaults when category changes
 document.getElementById('editCat').addEventListener('change', () => {
   const cat = CAT_MAP[document.getElementById('editCat').value];
   if (cat) {
@@ -555,6 +671,7 @@ function saveMarker() {
   data.lm.setIcon(makeIcon(data));
   bindPopup(data.lm, data);
   applyVisibility(data);
+  saveToStorage();
   renderList();
 }
 
@@ -566,11 +683,12 @@ function deleteMarker() {
   selectedId = null;
   document.getElementById('editForm').style.display    = 'none';
   document.getElementById('noSelection').style.display = 'block';
+  saveToStorage();
   renderList();
 }
 
 // ════════════════════════════════════════════════════════════
-// LEGEND (toggle category visibility)
+// LEGEND
 // ════════════════════════════════════════════════════════════
 function buildLegend() {
   const legend = document.getElementById('legend');
@@ -587,12 +705,7 @@ function buildLegend() {
 }
 
 function toggleCat(catId) {
-  if (hiddenCats.has(catId)) {
-    hiddenCats.delete(catId);
-  } else {
-    hiddenCats.add(catId);
-  }
-  // update legend item style
+  hiddenCats.has(catId) ? hiddenCats.delete(catId) : hiddenCats.add(catId);
   document.querySelectorAll('.legend-item').forEach(el => {
     el.classList.toggle('hidden-cat', hiddenCats.has(el.dataset.cat));
   });
@@ -605,16 +718,18 @@ function toggleCat(catId) {
 function buildCatSelect() {
   const sel = document.getElementById('editCat');
   CATEGORIES.forEach(cat => {
-    const opt   = document.createElement('option');
-    opt.value   = cat.id;
+    const opt = document.createElement('option');
+    opt.value = cat.id;
     opt.textContent = `${cat.icon}  ${cat.label}`;
     sel.appendChild(opt);
   });
 }
 
 // ════════════════════════════════════════════════════════════
-// SIDEBAR LIST
+// SIDEBAR LIST — with drag-to-reorder
 // ════════════════════════════════════════════════════════════
+let dragSrcId = null;
+
 function renderList() {
   const list  = document.getElementById('markerList');
   const empty = document.getElementById('emptyState');
@@ -629,21 +744,57 @@ function renderList() {
 
   empty.style.display = 'none';
   markers.forEach(m => {
-    const cat = CAT_MAP[m.cat] || CATEGORIES[3];
+    const cat = CAT_MAP[m.cat] || CATEGORIES[7];
     const el  = document.createElement('div');
-    el.className = 'marker-item' + (m.id === selectedId ? ' active' : '');
+    el.className   = 'marker-item' + (m.id === selectedId ? ' active' : '');
+    el.dataset.id  = m.id;
+    el.draggable   = isUnlocked;
+
     el.innerHTML = `
+      ${isUnlocked ? '<div class="drag-handle" title="Drag to reorder">⠿</div>' : ''}
       <div class="mi-icon">${cat.icon}</div>
       <div class="mi-body">
         <div class="mi-label">${m.label || '<em style="opacity:.45">Unnamed</em>'}</div>
         <div class="mi-cat">${cat.label}</div>
         ${m.slug ? `<div class="mi-url">neverwood.co.uk/${m.slug}</div>` : ''}
       </div>`;
-    el.onclick = () => {
+
+    // Click to fly + select
+    el.addEventListener('click', ev => {
+      if (ev.target.classList.contains('drag-handle')) return;
       map.setView([m.lat, m.lng], Math.max(map.getZoom(), 0));
       if (isUnlocked) selectMarker(m.id);
       else if (m.label) m.lm?.openPopup();
-    };
+    });
+
+    // Drag events (only active when unlocked)
+    el.addEventListener('dragstart', ev => {
+      dragSrcId = m.id;
+      ev.dataTransfer.effectAllowed = 'move';
+      setTimeout(() => el.style.opacity = '0.4', 0);
+    });
+    el.addEventListener('dragend', () => { el.style.opacity = ''; });
+    el.addEventListener('dragover', ev => {
+      ev.preventDefault();
+      ev.dataTransfer.dropEffect = 'move';
+      list.querySelectorAll('.marker-item').forEach(e => e.classList.remove('drag-over'));
+      el.classList.add('drag-over');
+    });
+    el.addEventListener('dragleave', () => el.classList.remove('drag-over'));
+    el.addEventListener('drop', ev => {
+      ev.preventDefault();
+      el.classList.remove('drag-over');
+      if (dragSrcId === m.id) return;
+      // Reorder markers array
+      const fromIdx = markers.findIndex(x => x.id === dragSrcId);
+      const toIdx   = markers.findIndex(x => x.id === m.id);
+      if (fromIdx === -1 || toIdx === -1) return;
+      const [moved] = markers.splice(fromIdx, 1);
+      markers.splice(toIdx, 0, moved);
+      saveToStorage();
+      renderList();
+    });
+
     list.appendChild(el);
   });
 }
