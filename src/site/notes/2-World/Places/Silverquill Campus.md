@@ -18,8 +18,8 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 
 | File                                                                                               | Race       | Gender     | Role                  |
 | -------------------------------------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                   | Human      | Male       | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]           | Leonin     | Male       | Professor of Radiance |
@@ -34,8 +34,8 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 | [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]         | Human      | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]             | Elf        | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]           | Shadar-Kai | Male       | Student               |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]   | Owlin      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]       | Human      | Female     | Student               |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]   | Owlin      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
@@ -60,7 +60,7 @@ Make notes of what you need to track in the town here.
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
 | [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
 
 { .block-language-dataview}

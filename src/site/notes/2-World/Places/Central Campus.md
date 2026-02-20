@@ -18,17 +18,17 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 # NPCs
 | File                                                                               | Race                   | Gender | Role                       |
 | ---------------------------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Cleaner\|Cleaner]]                     | Automaton              | Other  | Cleaner                    |
 | [[2-World/People/Neverwood Academy/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
+| [[2-World/People/Neverwood Academy/Staff/Cleaner\|Cleaner]]                     | Automaton              | Other  | Cleaner                    |
 | [[2-World/People/Neverwood Academy/Staff/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
 | [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
+| [[2-World/People/Neverwood Academy/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
 | [[2-World/People/Neverwood Academy/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
-| [[2-World/People/Neverwood Academy/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Neverwood Academy/Staff/Melvi Le Donto\|Melvi Le Donto]]       | Human                  | Female | Lab Administrator          |
-| [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
+| [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
 | [[2-World/People/Neverwood Academy/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
 | [[2-World/People/Neverwood Academy/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Tavern Manager             |
@@ -47,8 +47,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | ---------------------------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
-| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
+| [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
 | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           |
 | [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   |

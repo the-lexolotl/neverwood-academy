@@ -42,7 +42,8 @@ The following people are associated with this business.
 { .block-language-dataview}
 
 # Services
-GRIFFT offers both passenger and light cargo services, specialising in speed, safety, and accessibility.
+GRIFFT offers both passenger and light cargo services, specialising in speed, safety, and accessibility. Grifft pick up locations can be found in various parts, many of which are staffed by a helpful manager to arrange pick ups and bookings. Looks out for the Griff Pick-up signs
+![GRIFFT Pin.png|100](/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT%20Pin.png)
 
 ## Core Offerings
 
