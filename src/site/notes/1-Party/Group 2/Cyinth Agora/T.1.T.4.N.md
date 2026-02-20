@@ -11,6 +11,7 @@
 |   STR   |   DEX   |   CON   |  INT   |   WIS   |  CHA   |
 | :-----: | :-----: | :-----: | :----: | :-----: | :----: |
 | 14 (+2) | 12 (+1) | 14 (+2) | 4 (−3) | 10 (+0) | 6 (−2) |
+
 **Saving Throws:** Dex +3, Con +4
 **Skills:** Athletics +4, Perception +4
 **Damage Immunities:** poison
