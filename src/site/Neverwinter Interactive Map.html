@@ -1,0 +1,652 @@
+---
+permalink: /neverwinter-map/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neverwinter — Neverwood Wiki Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --parchment:  #f4ead8;
+    --parchment2: #e8d9bc;
+    --ink:        #2c1f0e;
+    --ink-light:  #5a3e1b;
+    --red:        #8b1a1a;
+    --gold:       #a0742a;
+    --shadow:     rgba(44,31,14,0.35);
+  }
+
+  html, body { height: 100%; overflow: hidden; background: var(--ink); font-family: 'Crimson Pro', serif; color: var(--ink); }
+
+  .app { display: flex; height: 100vh; }
+
+  /* ── SIDEBAR ── */
+  .sidebar {
+    width: 300px; flex-shrink: 0;
+    background: var(--parchment);
+    border-right: 3px solid var(--gold);
+    display: flex; flex-direction: column;
+    overflow: hidden; position: relative; z-index: 500;
+    box-shadow: 4px 0 20px var(--shadow);
+  }
+
+  .sidebar-top {
+    padding: 16px 16px 12px;
+    border-bottom: 2px solid var(--gold);
+    background: var(--parchment2);
+    flex-shrink: 0;
+  }
+
+  .title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+
+  .sidebar-top h1 { font-family: 'Cinzel', serif; font-size: 1.05rem; font-weight: 700; color: var(--red); letter-spacing: 0.06em; }
+  .sidebar-top .subtitle { font-size: 0.75rem; color: var(--ink-light); font-style: italic; margin-top: 2px; }
+
+  .hint {
+    margin-top: 10px; font-size: 0.72rem; color: var(--gold);
+    background: rgba(160,116,42,0.12); border: 1px solid rgba(160,116,42,0.3);
+    border-radius: 4px; padding: 5px 9px; line-height: 1.5;
+  }
+
+  /* ── LOCK BUTTON ── */
+  .lock-btn {
+    flex-shrink: 0; padding: 5px 10px; border-radius: 3px;
+    border: 1px solid var(--gold); background: transparent;
+    color: var(--gold); font-family: 'Cinzel', serif;
+    font-size: 0.62rem; letter-spacing: 0.06em; cursor: pointer;
+    transition: all 0.2s; white-space: nowrap; width: auto;
+  }
+  .lock-btn:hover { background: rgba(160,116,42,0.15); }
+  .lock-btn.unlocked { border-color: var(--red); color: var(--red); background: rgba(139,26,26,0.08); }
+  .lock-btn.unlocked:hover { background: rgba(139,26,26,0.15); }
+
+  /* ── CATEGORY LEGEND ── */
+  .legend {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--gold);
+    background: var(--parchment);
+    flex-shrink: 0;
+    display: flex; flex-wrap: wrap; gap: 5px;
+  }
+
+  .legend-item {
+    display: flex; align-items: center; gap: 4px;
+    font-size: 0.65rem; font-family: 'Cinzel', serif;
+    color: var(--ink-light); cursor: pointer;
+    padding: 3px 7px; border-radius: 3px;
+    border: 1px solid transparent;
+    transition: all 0.15s; user-select: none;
+  }
+  .legend-item:hover { background: rgba(160,116,42,0.1); border-color: rgba(160,116,42,0.3); }
+  .legend-item.hidden-cat { opacity: 0.35; }
+  .legend-icon { font-size: 0.9rem; line-height: 1; }
+
+  /* ── MARKER LIST ── */
+  .marker-list { flex: 1; overflow-y: auto; padding: 8px; }
+  .marker-list::-webkit-scrollbar { width: 4px; }
+  .marker-list::-webkit-scrollbar-track { background: var(--parchment2); }
+  .marker-list::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 2px; }
+
+  .empty-state { padding: 24px 14px; text-align: center; color: var(--ink-light); font-style: italic; font-size: 0.85rem; line-height: 1.7; }
+
+  .marker-item {
+    padding: 9px 11px; border-radius: 4px; border: 1px solid transparent;
+    cursor: pointer; transition: all 0.15s; margin-bottom: 3px;
+    display: flex; align-items: flex-start; gap: 8px;
+  }
+  .marker-item:hover { background: rgba(160,116,42,0.1); border-color: rgba(160,116,42,0.3); }
+  .marker-item.active { background: rgba(139,26,26,0.08); border-color: rgba(139,26,26,0.35); }
+  .marker-item .mi-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: 1px; }
+  .marker-item .mi-body { flex: 1; min-width: 0; }
+  .marker-item .mi-label { font-family: 'Cinzel', serif; font-size: 0.8rem; font-weight: 600; color: var(--ink); }
+  .marker-item .mi-cat { font-size: 0.68rem; color: var(--ink-light); font-style: italic; }
+  .marker-item .mi-url { font-size: 0.68rem; color: var(--gold); margin-top: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  /* ── EDIT PANEL ── */
+  .edit-panel { padding: 12px 14px; border-top: 2px solid var(--gold); background: var(--parchment2); flex-shrink: 0; }
+  .edit-panel h3 { font-family: 'Cinzel', serif; font-size: 0.65rem; letter-spacing: 0.1em; color: var(--gold); margin-bottom: 9px; text-transform: uppercase; }
+
+  .edit-panel input, .edit-panel select {
+    width: 100%; background: var(--parchment); border: 1px solid var(--gold);
+    border-radius: 3px; padding: 6px 9px; color: var(--ink);
+    font-family: 'Crimson Pro', serif; font-size: 0.85rem;
+    margin-bottom: 6px; outline: none; transition: border-color 0.15s;
+    appearance: none;
+  }
+  .edit-panel input::placeholder { color: var(--gold); opacity: 0.6; font-style: italic; }
+  .edit-panel input:focus, .edit-panel select:focus { border-color: var(--red); }
+
+  .url-row { display: flex; gap: 5px; align-items: center; margin-bottom: 6px; }
+  .url-prefix { font-size: 0.7rem; color: var(--ink-light); white-space: nowrap; font-style: italic; }
+  .url-row input { margin-bottom: 0; flex: 1; }
+
+  .zoom-row { display: flex; gap: 6px; align-items: center; margin-bottom: 6px; }
+  .zoom-row label { font-size: 0.7rem; color: var(--ink-light); white-space: nowrap; font-style: italic; }
+  .zoom-row input[type=number] { width: 56px; flex: none; text-align: center; }
+  .zoom-row span { font-size: 0.7rem; color: var(--ink-light); }
+
+  .btn-row { display: flex; gap: 6px; }
+
+  button {
+    flex: 1; padding: 7px; border: none; border-radius: 3px;
+    font-family: 'Cinzel', serif; font-size: 0.68rem; letter-spacing: 0.05em;
+    cursor: pointer; transition: all 0.15s;
+  }
+  .btn-save { background: var(--red); color: var(--parchment); }
+  .btn-save:hover { background: #6e1414; }
+  .btn-delete { background: transparent; color: var(--ink-light); border: 1px solid rgba(90,62,27,0.4); flex: 0 0 auto; padding: 7px 11px; width: auto; }
+  .btn-delete:hover { background: rgba(90,62,27,0.1); }
+
+  .no-selection { font-size: 0.78rem; color: var(--ink-light); font-style: italic; line-height: 1.5; }
+
+  /* ── MAP ── */
+  #map { flex: 1; background: #1a1208; cursor: crosshair; }
+  #map.locked { cursor: default; }
+  .leaflet-container { background: #1a1208 !important; }
+  .leaflet-control-zoom a { background: var(--parchment) !important; color: var(--ink) !important; border-color: var(--gold) !important; font-family: 'Cinzel', serif !important; }
+  .leaflet-control-zoom a:hover { background: var(--parchment2) !important; }
+
+  .leaflet-popup-content-wrapper {
+    background: var(--parchment); border: 2px solid var(--gold);
+    border-radius: 4px; box-shadow: 0 4px 20px var(--shadow);
+    font-family: 'Crimson Pro', serif; color: var(--ink);
+  }
+  .leaflet-popup-tip { background: var(--parchment); }
+  .leaflet-popup-close-button { color: var(--ink-light) !important; font-size: 18px !important; }
+  .leaflet-popup-content { margin: 13px 15px 11px; min-width: 170px; }
+
+  .popup-cat { font-size: 0.7rem; color: var(--gold); font-style: italic; margin-bottom: 3px; }
+  .popup-title { font-family: 'Cinzel', serif; font-size: 0.95rem; font-weight: 700; color: var(--red); margin-bottom: 5px; line-height: 1.2; }
+  .popup-desc { font-size: 0.8rem; color: var(--ink-light); font-style: italic; margin-bottom: 9px; line-height: 1.5; }
+  .popup-link { display: inline-block; padding: 4px 13px; background: var(--red); color: var(--parchment); text-decoration: none; font-family: 'Cinzel', serif; font-size: 0.68rem; letter-spacing: 0.05em; border-radius: 3px; transition: background 0.15s; }
+  .popup-link:hover { background: #6e1414; }
+
+  /* ── CUSTOM PIN MARKERS ── */
+  .map-pin { display: flex; flex-direction: column; align-items: center; cursor: pointer; filter: drop-shadow(0 2px 5px rgba(0,0,0,0.8)); }
+  .map-pin .pin-icon { font-size: 1.4rem; line-height: 1; }
+  .map-pin .pin-bg {
+    width: 30px; height: 30px; border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg); display: flex; align-items: center;
+    justify-content: center; border: 2px solid rgba(255,255,255,0.3);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+  }
+  .map-pin .pin-bg .pin-inner { transform: rotate(45deg); font-size: 0.9rem; line-height: 1; }
+  .map-pin .pin-label {
+    background: rgba(20,10,4,0.88); color: var(--parchment);
+    font-family: 'Cinzel', serif; font-size: 9px; font-weight: 600;
+    padding: 2px 6px; border-radius: 2px; border: 1px solid var(--gold);
+    white-space: nowrap; margin-top: 2px; letter-spacing: 0.04em; line-height: 1.5;
+  }
+
+  /* ── PASSWORD MODAL ── */
+  .modal-overlay {
+    display: none; position: fixed; inset: 0;
+    background: rgba(20,10,4,0.8); z-index: 2000;
+    align-items: center; justify-content: center;
+    backdrop-filter: blur(4px);
+  }
+  .modal-overlay.visible { display: flex; }
+  .modal {
+    background: var(--parchment); border: 2px solid var(--gold);
+    border-radius: 6px; padding: 26px 26px 20px; width: 290px;
+    box-shadow: 0 8px 40px rgba(20,10,4,0.8);
+    animation: modalIn 0.2s ease;
+  }
+  @keyframes modalIn { from { opacity:0; transform: scale(0.93) translateY(10px); } to { opacity:1; transform: scale(1) translateY(0); } }
+  .modal-seal { text-align: center; font-size: 2rem; margin-bottom: 8px; }
+  .modal h2 { font-family: 'Cinzel', serif; font-size: 0.9rem; color: var(--red); text-align: center; margin-bottom: 3px; letter-spacing: 0.06em; }
+  .modal p { font-size: 0.78rem; color: var(--ink-light); text-align: center; font-style: italic; margin-bottom: 14px; }
+  .modal input[type=password] {
+    width: 100%; background: var(--parchment2); border: 1px solid var(--gold);
+    border-radius: 3px; padding: 8px 12px; color: var(--ink);
+    font-family: 'Crimson Pro', serif; font-size: 1rem; text-align: center;
+    letter-spacing: 0.1em; outline: none; margin-bottom: 8px; transition: border-color 0.15s;
+  }
+  .modal input[type=password]:focus { border-color: var(--red); }
+  .modal-error { text-align: center; font-size: 0.74rem; color: var(--red); font-style: italic; height: 15px; margin-bottom: 10px; }
+  .modal-btns { display: flex; gap: 7px; }
+  .btn-modal-ok { flex: 1; padding: 8px; background: var(--red); color: var(--parchment); border: none; border-radius: 3px; font-family: 'Cinzel', serif; font-size: 0.7rem; letter-spacing: 0.05em; cursor: pointer; transition: background 0.15s; }
+  .btn-modal-ok:hover { background: #6e1414; }
+  .btn-modal-cancel { padding: 8px 13px; background: transparent; color: var(--ink-light); border: 1px solid rgba(90,62,27,0.4); border-radius: 3px; font-family: 'Cinzel', serif; font-size: 0.7rem; cursor: pointer; transition: background 0.15s; width: auto; flex: none; }
+  .btn-modal-cancel:hover { background: rgba(90,62,27,0.1); }
+</style>
+</head>
+<body>
+
+<!-- PASSWORD MODAL -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-seal">🗺️</div>
+    <h2>Cartographer's Access</h2>
+    <p>Speak the password to unlock the map.</p>
+    <input type="password" id="pwInput" placeholder="••••••••" onkeydown="if(event.key==='Enter')confirmPassword()">
+    <div class="modal-error" id="modalError"></div>
+    <div class="modal-btns">
+      <button class="btn-modal-ok" onclick="confirmPassword()">Unlock</button>
+      <button class="btn-modal-cancel" onclick="closeModal()">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<div class="app">
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <div class="sidebar-top">
+      <div class="title-row">
+        <div>
+          <h1>⚔ Neverwinter</h1>
+          <div class="subtitle">Neverwood Wiki Interactive Map</div>
+        </div>
+        <button class="lock-btn" id="lockBtn" onclick="toggleLock()">🔒 Locked</button>
+      </div>
+      <div class="hint" id="hintText">Click 🔒 to unlock editing.</div>
+    </div>
+
+    <!-- CATEGORY LEGEND (toggle visibility) -->
+    <div class="legend" id="legend"></div>
+
+    <!-- MARKER LIST -->
+    <div class="marker-list" id="markerList">
+      <div class="empty-state" id="emptyState">No locations marked yet.<br><br>Unlock the map to begin charting the city.</div>
+    </div>
+
+    <!-- EDIT PANEL -->
+    <div class="edit-panel">
+      <h3>Location Details</h3>
+      <div id="editForm" style="display:none">
+        <input type="text" id="editLabel" placeholder="Location name…">
+        <select id="editCat"></select>
+        <input type="text" id="editDesc" placeholder="Brief description (optional)…">
+        <div class="url-row">
+          <span class="url-prefix">neverwood.co.uk/</span>
+          <input type="text" id="editSlug" placeholder="page-slug">
+        </div>
+        <div class="zoom-row">
+          <label>Zoom</label>
+          <input type="number" id="editMinZoom" min="-5" max="3" step="0.25" placeholder="min">
+          <span>→</span>
+          <input type="number" id="editMaxZoom" min="-5" max="3" step="0.25" placeholder="max">
+        </div>
+        <div class="btn-row">
+          <button class="btn-save" onclick="saveMarker()">Save</button>
+          <button class="btn-delete" onclick="deleteMarker()">✕</button>
+        </div>
+      </div>
+      <div id="noSelection" class="no-selection">Select a marker to edit its details, or click the map to add one.</div>
+    </div>
+  </div>
+
+  <!-- MAP -->
+  <div id="map"></div>
+</div>
+
+<script>
+// ════════════════════════════════════════════════════════════
+// CATEGORIES — emoji icon, colour, zoom defaults
+// ════════════════════════════════════════════════════════════
+const CATEGORIES = [
+  { id: 'region',   label: 'Region / District',            icon: '🏛️',  color: '#4a6fa5', minZoom: -5,   maxZoom:  0   },
+  { id: 'tavern',   label: 'Tavern / Inn',                 icon: '🍺',  color: '#7a4f1f', minZoom: -0.5, maxZoom:  3   },
+  { id: 'inn',      label: 'Inn / Lodging',                icon: '🛏️',  color: '#8b5e3c', minZoom: -0.5, maxZoom:  3   },
+  { id: 'food',     label: 'Food Shop',                    icon: '🥩',  color: '#b35c1e', minZoom: -0.5, maxZoom:  3   },
+  { id: 'clothes',  label: 'Clothes Shop',                 icon: '👗',  color: '#b3478a', minZoom: -0.5, maxZoom:  3   },
+  { id: 'magic',    label: 'Magic Shop',                   icon: '🔮',  color: '#5b3fa0', minZoom: -0.5, maxZoom:  3   },
+  { id: 'shop',     label: 'Shop (Other)',                 icon: '🛒',  color: '#2d6e3f', minZoom: -0.5, maxZoom:  3   },
+  { id: 'landmark', label: 'Landmark / Point of Interest', icon: '⭐',  color: '#a0742a', minZoom: -2,   maxZoom:  3   },
+  { id: 'griff',    label: 'Taxi / Griff Location',        icon: '🦅',  color: '#6b3fa0', minZoom: -1,   maxZoom:  3   },
+];
+
+const CAT_MAP = Object.fromEntries(CATEGORIES.map(c => [c.id, c]));
+const WIKI_BASE = 'https://neverwood.co.uk/';
+
+// ════════════════════════════════════════════════════════════
+// SHA-256 PASSWORD CHECK
+// Hash of "NW4dm1n" — password never stored in plain text
+// ════════════════════════════════════════════════════════════
+const PASSWORD_HASH = '3c665461f56b0e58ccf205767a0e35d3eaf590ddc9fc8e8b450f189b8421e2d4';
+
+async function hashString(str) {
+  const buf  = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
+}
+
+// ════════════════════════════════════════════════════════════
+// LOCK STATE
+// ════════════════════════════════════════════════════════════
+let isUnlocked = false;
+
+function toggleLock() {
+  if (isUnlocked) {
+    lock();
+  } else {
+    document.getElementById('modalOverlay').classList.add('visible');
+    document.getElementById('pwInput').value = '';
+    document.getElementById('modalError').textContent = '';
+    setTimeout(() => document.getElementById('pwInput').focus(), 60);
+  }
+}
+
+async function confirmPassword() {
+  const val  = document.getElementById('pwInput').value;
+  const hash = await hashString(val);
+  if (hash === PASSWORD_HASH) {
+    isUnlocked = true;
+    closeModal();
+    applyLockState();
+  } else {
+    document.getElementById('modalError').textContent = 'Incorrect password. Try again.';
+    document.getElementById('pwInput').value = '';
+    document.getElementById('pwInput').focus();
+  }
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('visible');
+}
+
+function lock() {
+  isUnlocked = false;
+  applyLockState();
+  selectedId = null;
+  document.getElementById('editForm').style.display   = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  renderList();
+}
+
+function applyLockState() {
+  const btn   = document.getElementById('lockBtn');
+  const hint  = document.getElementById('hintText');
+  const mapEl = document.getElementById('map');
+  if (isUnlocked) {
+    btn.textContent = '🔓 Unlocked';
+    btn.classList.add('unlocked');
+    hint.textContent = 'Click the map to place a marker. Drag to reposition.';
+    mapEl.classList.remove('locked');
+    markers.forEach(m => m.lm?.dragging?.enable());
+  } else {
+    btn.textContent = '🔒 Locked';
+    btn.classList.remove('unlocked');
+    hint.textContent = 'Click 🔒 to unlock editing.';
+    mapEl.classList.add('locked');
+    markers.forEach(m => m.lm?.dragging?.disable());
+  }
+}
+
+document.getElementById('modalOverlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+});
+
+// ════════════════════════════════════════════════════════════
+// MAP SETUP — CRS.Simple for image map
+// ════════════════════════════════════════════════════════════
+const map = L.map('map', {
+  crs: L.CRS.Simple,
+  minZoom: -5,
+  maxZoom:  3,
+  zoomSnap: 0.25,
+  attributionControl: false,
+  zoomControl: true
+});
+
+const IMG_URL = 'https://www.neverwood.co.uk/img/user/z_Assets/Maps/Neverwinter-(ZF-9046-66654-1-001).webp';
+let imgW = 4096, imgH = 4096;
+
+const probe = new Image();
+probe.onload  = () => { imgW = probe.naturalWidth || 4096; imgH = probe.naturalHeight || 4096; initMap(); };
+probe.onerror = () => initMap();
+probe.src = IMG_URL;
+
+function initMap() {
+  const bounds = [[0,0],[imgH,imgW]];
+  L.imageOverlay(IMG_URL, bounds).addTo(map);
+  map.fitBounds(bounds);
+  map.setMaxBounds([[-imgH*0.15,-imgW*0.15],[imgH*1.15,imgW*1.15]]);
+  map.on('zoomend', updateMarkerVisibility);
+  buildLegend();
+  buildCatSelect();
+  renderList();
+}
+
+// ════════════════════════════════════════════════════════════
+// STATE
+// ════════════════════════════════════════════════════════════
+let markers    = [];
+let selectedId = null;
+let idCounter  = 0;
+let hiddenCats = new Set(); // categories toggled off in legend
+
+// ════════════════════════════════════════════════════════════
+// ICONS
+// ════════════════════════════════════════════════════════════
+function makeIcon(data) {
+  const cat   = CAT_MAP[data.cat] || CATEGORIES[3];
+  const label = (data.label || 'New').replace(/</g,'&lt;');
+  const html  = `
+    <div class="map-pin">
+      <div class="pin-bg" style="background:${cat.color}">
+        <div class="pin-inner">${cat.icon}</div>
+      </div>
+      <div class="pin-label">${label}</div>
+    </div>`;
+  return L.divIcon({ className:'', html, iconAnchor:[15,36], popupAnchor:[75,-36] });
+}
+
+// ════════════════════════════════════════════════════════════
+// ADD MARKER ON CLICK
+// ════════════════════════════════════════════════════════════
+map.on('click', e => {
+  if (!isUnlocked) return;
+  const defaultCat = CATEGORIES[3]; // landmark default
+  const id   = ++idCounter;
+  const data = {
+    id, lat: e.latlng.lat, lng: e.latlng.lng,
+    label: '', cat: defaultCat.id, desc: '', slug: '',
+    minZoom: defaultCat.minZoom, maxZoom: defaultCat.maxZoom,
+    lm: null
+  };
+  markers.push(data);
+  addLeafletMarker(data);
+  selectMarker(id);
+  renderList();
+});
+
+function addLeafletMarker(data) {
+  if (data.lm) data.lm.remove();
+  const lm = L.marker([data.lat, data.lng], {
+    icon: makeIcon(data),
+    draggable: isUnlocked
+  }).addTo(map);
+
+  lm.on('click', () => {
+    if (isUnlocked) { selectMarker(data.id); return; }
+    // show popup for visitors
+    if (data.label) lm.openPopup();
+  });
+
+  lm.on('dragend', ev => {
+    if (!isUnlocked) return;
+    data.lat = ev.target.getLatLng().lat;
+    data.lng = ev.target.getLatLng().lng;
+  });
+
+  bindPopup(lm, data);
+  data.lm = lm;
+  applyVisibility(data);
+}
+
+// ════════════════════════════════════════════════════════════
+// POPUP
+// ════════════════════════════════════════════════════════════
+function bindPopup(lm, data) {
+  const cat = CAT_MAP[data.cat] || CATEGORIES[3];
+  const url = data.slug ? WIKI_BASE + data.slug : null;
+  let html  = `<div class="popup-cat">${cat.icon} ${cat.label}</div>`;
+  html += `<div class="popup-title">${data.label || 'Unnamed Location'}</div>`;
+  if (data.desc) html += `<div class="popup-desc">${data.desc}</div>`;
+  if (url) html += `<a class="popup-link" href="${url}" target="_blank">Open Wiki Page →</a>`;
+  lm.bindPopup(html);
+}
+
+// ════════════════════════════════════════════════════════════
+// ZOOM VISIBILITY
+// ════════════════════════════════════════════════════════════
+function applyVisibility(data) {
+  if (!data.lm) return;
+  const z      = map.getZoom();
+  const hidden = hiddenCats.has(data.cat);
+  const inZoom = z >= data.minZoom && z <= data.maxZoom;
+  const el     = data.lm.getElement();
+  if (el) el.style.display = (!hidden && inZoom) ? '' : 'none';
+}
+
+function updateMarkerVisibility() {
+  markers.forEach(applyVisibility);
+}
+
+// ════════════════════════════════════════════════════════════
+// SELECT & EDIT
+// ════════════════════════════════════════════════════════════
+function selectMarker(id) {
+  if (!isUnlocked) return;
+  selectedId = id;
+  const data = markers.find(m => m.id === id);
+  if (!data) return;
+
+  document.getElementById('editForm').style.display    = 'block';
+  document.getElementById('noSelection').style.display = 'none';
+  document.getElementById('editLabel').value   = data.label;
+  document.getElementById('editCat').value     = data.cat;
+  document.getElementById('editDesc').value    = data.desc;
+  document.getElementById('editSlug').value    = data.slug;
+  document.getElementById('editMinZoom').value = data.minZoom;
+  document.getElementById('editMaxZoom').value = data.maxZoom;
+
+  renderList();
+}
+
+// Auto-fill zoom defaults when category changes
+document.getElementById('editCat').addEventListener('change', () => {
+  const cat = CAT_MAP[document.getElementById('editCat').value];
+  if (cat) {
+    document.getElementById('editMinZoom').value = cat.minZoom;
+    document.getElementById('editMaxZoom').value = cat.maxZoom;
+  }
+});
+
+function saveMarker() {
+  const data = markers.find(m => m.id === selectedId);
+  if (!data) return;
+
+  data.label   = document.getElementById('editLabel').value.trim()   || 'Location';
+  data.cat     = document.getElementById('editCat').value;
+  data.desc    = document.getElementById('editDesc').value.trim();
+  data.slug    = document.getElementById('editSlug').value.trim();
+  data.minZoom = parseFloat(document.getElementById('editMinZoom').value) ?? -5;
+  data.maxZoom = parseFloat(document.getElementById('editMaxZoom').value) ?? 3;
+
+  data.lm.setIcon(makeIcon(data));
+  bindPopup(data.lm, data);
+  applyVisibility(data);
+  renderList();
+}
+
+function deleteMarker() {
+  const idx = markers.findIndex(m => m.id === selectedId);
+  if (idx === -1) return;
+  markers[idx].lm.remove();
+  markers.splice(idx, 1);
+  selectedId = null;
+  document.getElementById('editForm').style.display    = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  renderList();
+}
+
+// ════════════════════════════════════════════════════════════
+// LEGEND (toggle category visibility)
+// ════════════════════════════════════════════════════════════
+function buildLegend() {
+  const legend = document.getElementById('legend');
+  legend.innerHTML = '';
+  CATEGORIES.forEach(cat => {
+    const el = document.createElement('div');
+    el.className   = 'legend-item';
+    el.dataset.cat = cat.id;
+    el.title       = 'Click to toggle visibility';
+    el.innerHTML   = `<span class="legend-icon">${cat.icon}</span><span>${cat.label.split('/')[0].trim()}</span>`;
+    el.onclick     = () => toggleCat(cat.id);
+    legend.appendChild(el);
+  });
+}
+
+function toggleCat(catId) {
+  if (hiddenCats.has(catId)) {
+    hiddenCats.delete(catId);
+  } else {
+    hiddenCats.add(catId);
+  }
+  // update legend item style
+  document.querySelectorAll('.legend-item').forEach(el => {
+    el.classList.toggle('hidden-cat', hiddenCats.has(el.dataset.cat));
+  });
+  updateMarkerVisibility();
+}
+
+// ════════════════════════════════════════════════════════════
+// CATEGORY SELECT
+// ════════════════════════════════════════════════════════════
+function buildCatSelect() {
+  const sel = document.getElementById('editCat');
+  CATEGORIES.forEach(cat => {
+    const opt   = document.createElement('option');
+    opt.value   = cat.id;
+    opt.textContent = `${cat.icon}  ${cat.label}`;
+    sel.appendChild(opt);
+  });
+}
+
+// ════════════════════════════════════════════════════════════
+// SIDEBAR LIST
+// ════════════════════════════════════════════════════════════
+function renderList() {
+  const list  = document.getElementById('markerList');
+  const empty = document.getElementById('emptyState');
+
+  list.querySelectorAll('.marker-item').forEach(el => el.remove());
+
+  if (markers.length === 0) {
+    list.appendChild(empty);
+    empty.style.display = 'block';
+    return;
+  }
+
+  empty.style.display = 'none';
+  markers.forEach(m => {
+    const cat = CAT_MAP[m.cat] || CATEGORIES[3];
+    const el  = document.createElement('div');
+    el.className = 'marker-item' + (m.id === selectedId ? ' active' : '');
+    el.innerHTML = `
+      <div class="mi-icon">${cat.icon}</div>
+      <div class="mi-body">
+        <div class="mi-label">${m.label || '<em style="opacity:.45">Unnamed</em>'}</div>
+        <div class="mi-cat">${cat.label}</div>
+        ${m.slug ? `<div class="mi-url">neverwood.co.uk/${m.slug}</div>` : ''}
+      </div>`;
+    el.onclick = () => {
+      map.setView([m.lat, m.lng], Math.max(map.getZoom(), 0));
+      if (isUnlocked) selectMarker(m.id);
+      else if (m.label) m.lm?.openPopup();
+    };
+    list.appendChild(el);
+  });
+}
+</script>
+</body>
+</html>
