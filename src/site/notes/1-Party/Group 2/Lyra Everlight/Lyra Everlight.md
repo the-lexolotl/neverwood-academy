@@ -1,5 +1,5 @@
 ---
-{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Midnight]]","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Group 2/Lyra Everlight/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/lyra-everlight/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Midnight]]","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Group 2/Lyra Everlight/Lyra Everlight.md","permalink":"/party/group-2/lyra-everlight/lyra-everlight/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -55,7 +55,36 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 
 # Skills
-![Pasted image 20250928225051.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928225051.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    8     |    13     |      10      |      12      |   15   |    17    |
+| Ability Mod  |    -1    |    +1     |      +0      |      +1      |   +2   |    +3    |
+| Saving Throw |    -1    |    +1     |      +0      |      +1      |  ● +4  |   ● +5   |
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +1    |     | ●   | Wis | Medicine       | +4    |
+| ○   | Wis | Animal Handling | +2    |     | ○   | Int | Nature         | +1    |
+| ○   | Int | Arcana          | +1    |     | ○   | Wis | Perception     | +2    |
+| ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +3    |
+| ○   | Cha | Deception       | +3    |     | ●   | Cha | Persuasion     | +5    |
+| ○   | Int | History         | +1    |     | ○   | Int | Religion       | +1    |
+| ●   | Wis | Insight         | +4    |     | ○   | Dex | Slight of Hand | +1    |
+| ●   | Cha | Intimidation    | +5    |     | ○   | Dex | Stealth        | +1    |
+| ○   | Int | Investigation   | +1    |     | ○   | Wis | Survival       | +2    |
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +1        |        +1        |        -1        |  0   |     +3     |
+#### Boons
+**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 ## Other Skills/Proficiencies 
 - Resistance against Necrotic damage
@@ -66,14 +95,6 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 - Shields
 - Martial Weapons 
 - Simple Weapons
-
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +1        |        -1        |  0   |     +3     |
-#### Boons
-**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 # Inventory
 *Carrying Capacity: 120 lbs*
@@ -116,7 +137,7 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[1-Party/Group 2/Group 2.md|Group 2]],[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]],[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]
 
-**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Merchant of Moons\|The Merchant of Moons]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Merchant of Moons\|The Merchant of Moons]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
 # Relationships
 **Pets:** [[1-Party/Group 2/Lyra Everlight/Midnight\|Midnight]],[[1-Party/Group 2/Lyra Everlight/Orion\|Orion]]

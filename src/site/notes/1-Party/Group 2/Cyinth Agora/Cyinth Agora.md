@@ -1,5 +1,5 @@
 ---
-{"aliases":["Catarina","Cyinth"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":15,"max_hp":15,"ac":11,"modifier":1,"pasperc":14,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"allies":["[[Bhedum Sooviij]]","[[Quentillius Antiphiun Melentor III]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Hornfellow the Grand]]","[[Mr Muffin]]"],"subclass":["Battle Smith"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":12,"pasinvest":13,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","companions":["[[T.1.T.4.N]]"],"dg-path":"Party/Group 2/Cyinth Agora/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/cyinth-agora/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Catarina","Cyinth"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":15,"max_hp":15,"ac":11,"modifier":1,"pasperc":14,"Status":"Active","PlayerKnownLanguages":["Aarakocra","Common","Common Sign Language","Deep Speech","Undercommon"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Aarakocra","char_class":"Artificer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]"],"parents":["Elwar Trytha","Hestha Agora"],"allies":["[[Bhedum Sooviij]]","[[Quentillius Antiphiun Melentor III]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Cyinth.png","char_role":"Player","char_college":"Lorehold","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Hornfellow the Grand]]","[[Mr Muffin]]"],"subclass":["Battle Smith"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":12,"pasinvest":13,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","companions":["[[T.1.T.4.N]]"],"dg-path":"Party/Group 2/Cyinth Agora/Cyinth Agora.md","permalink":"/party/group-2/cyinth-agora/cyinth-agora/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -46,7 +46,37 @@
 | Other           | Unlike most Aarakocra, Cyinth and her family appear to look like corvids |
 
 # Skills
-![Pasted image 20250928223117.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928223117.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    10    |    12     |      8       |      17      |   15   |    13    |
+| Ability Mod  |    +0    |    +1     |      -1      |      +3      |   +2   |    +1    |
+| Saving Throw |    +0    |    +1     |     ● +1     |     ● +5     |   +2   |    +1    |
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +1    |     | ○   | Wis | Medicine       | +2    |
+| ○   | Wis | Animal Handling | +2    |     | ○   | Int | Nature         | +3    |
+| ●   | Int | Arcana          | +5    |     | ●   | Wis | Perception     | +4    |
+| ○   | Str | Athletics       | +0    |     | ○   | Cha | Performance    | +1    |
+| ○   | Cha | Deception       | +1    |     | ○   | Cha | Persuasion     | +1    |
+| ●   | Int | History         | +5    |     | ●   | Int | Religion       | +5    |
+| ○   | Wis | Insight         | +2    |     | ○   | Dex | Slight of Hand | +1    |
+| ○   | Cha | Intimidation    | +1    |     | ○   | Dex | Stealth        | +1    |
+| ○   | Int | Investigation   | +3    |     | ○   | Wis | Survival       | +2    |
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        +3        |        0         |  0   |     +2     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
 ## Other Skills/Proficiencies 
 - Light Armour 
 - Medium Armour 
@@ -56,14 +86,6 @@
 - Alchemist's Supplies 
 - Thieves' Tools 
 - Tinker's Tools
-
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        +3        |        0         |  0   |     +2     |
-#### Boons 
-**Applied Learning:** You start each exam with one reroll available.
 
 # Inventory
 *Carrying Capacity: 150 lbs*
@@ -117,7 +139,7 @@
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[1-Party/Group 2/Group 2.md|Group 2]]
 
-**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
 # Relationships
 **Pets:** [[1-Party/Group 2/Cyinth Agora/Hornfellow the Grand\|Hornfellow the Grand]],[[1-Party/Group 2/Cyinth Agora/Mr Muffin\|Mr Muffin]]

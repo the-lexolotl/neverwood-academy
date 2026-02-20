@@ -51,7 +51,29 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 | Other           | Long frizzy hair, mutton chops, neck beard. |
 
 # Skills
-![Pasted image 20250928220650.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928220650.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    8     |    13     |      16      |      14      |   13   |    11    |
+| Ability Mod  |    -1    |    +1     |      +3      |      +2      |   +1   |    +0    |
+| Saving Throw |    -1    |    +1     |      +3      |     ● +4     |  ● +3  |    +0    |
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +1    |     | ●   | Wis | Medicine       | +3    |
+| ○   | Wis | Animal Handling | +1    |     | ●   | Int | Nature         | +5    |
+| ●   | Int | Arcana          | +5    |     | ○   | Wis | Perception     | +1    |
+| ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +0    |
+| ○   | Cha | Deception       | +0    |     | ○   | Cha | Persuasion     | +0    |
+| ○   | Int | History         | +2    |     | ○   | Int | Religion       | +2    |
+| ○   | Wis | Insight         | +1    |     | ○   | Dex | Slight of Hand | +1    |
+| ○   | Cha | Intimidation    | +0    |     | ○   | Dex | Stealth        | +1    |
+| ○   | Int | Investigation   | +2    |     | ●   | Wis | Survival       | +3    |
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |

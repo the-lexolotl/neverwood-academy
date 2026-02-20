@@ -11,7 +11,7 @@
 
 **Category:** Group Cup
 
-**Current Points:** 185
+**Current Points:** 195
 
 
 # Membership

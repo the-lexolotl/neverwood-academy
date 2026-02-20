@@ -54,15 +54,29 @@ Ultimately, Glue dreams of becoming a healer whose work transcends the boundarie
 | Other           |                                         |
 
 # Skills
-![Pasted image 20250928214938.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928214938.png)
-## Other Skills/Proficiencies 
-- Resistance against Cold damage
-- Light Armour 
-- Shields
-- Simple Weapons 
-- Herbalism Kit 
-- Alchemist's Supplies
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
 
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    10    |    13     |      8       |      15      |   17   |    12    |
+| Ability Mod  |    +0    |    +1     |      -1      |      +2      |   +3   |    +1    |
+| Saving Throw |    +0    |    +1     |      -1      |     ● +4     |  ● +5  |    +1    |
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +1    |     | ●   | Wis | Medicine       | +5    |
+| ○   | Wis | Animal Handling | +3    |     | ●   | Int | Nature         | +7    |
+| ○   | Int | Arcana          | +5    |     | ○   | Wis | Perception     | +3    |
+| ○   | Str | Athletics       | +0    |     | ○   | Cha | Performance    | +1    |
+| ○   | Cha | Deception       | +1    |     | ○   | Cha | Persuasion     | +1    |
+| ○   | Int | History         | +2    |     | ○   | Int | Religion       | +2    |
+| ○   | Wis | Insight         | +3    |     | ●   | Dex | Slight of Hand | +3    |
+| ○   | Cha | Intimidation    | +1    |     | ○   | Dex | Stealth        | +1    |
+| ○   | Int | Investigation   | +2    |     | ●   | Wis | Survival       | +5    |
 ## Student Skill Points
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -70,6 +84,14 @@ Ultimately, Glue dreams of becoming a healer whose work transcends the boundarie
 |        +2        |        +3        |        0         |  +1  |     -2     |
 #### Boons 
 **Applied Learning:** You start each exam with one reroll available.
+
+## Other Skills/Proficiencies 
+- Resistance against Cold damage
+- Light Armour 
+- Shields
+- Simple Weapons 
+- Herbalism Kit 
+- Alchemist's Supplies
 
 # Inventory
 *Carrying Capacity: 150 lbs*

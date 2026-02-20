@@ -55,8 +55,37 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 | Faith           | Worshipper of [[3-Mechanics/CLI/deities/faerunian-sune-scag\|Sune]]                                 |
 | Other           |                                                                             |
 
-# Skills
-![Pasted image 20251022223231.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020251022223231.png)
+# # Skills
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    8     |    15     |      10      |      15      |   12   |    15    |
+| Ability Mod  |    -1    |    +2     |      +0      |      +2      |   +1   |    +2    |
+| Saving Throw |    -1    |   ● +4    |      +0      |     ● +4     |   +1   |    +2    |
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +2    |     | ○   | Wis | Medicine       | +1    |
+| ○   | Wis | Animal Handling | +1    |     | ●   | Int | Nature         | +4    |
+| ○   | Int | Arcana          | +2    |     | ●   | Wis | Perception     | +3    |
+| ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +2    |
+| ○   | Cha | Deception       | +2    |     | ●   | Cha | Persuasion     | +4    |
+| ○   | Int | History         | +2    |     | ○   | Int | Religion       | +2    |
+| ●   | Wis | Insight         | +3    |     | ○   | Dex | Slight of Hand | +2    |
+| ○   | Cha | Intimidation    | +2    |     | ★   | Dex | Stealth        | +6    |
+| ★   | Int | Investigation   | +6    |     | ●   | Wis | Survival       | +3    |
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        0         |        +2        |        +1        |  -2  |     +3     |
+#### Boons
+**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 ## Other Skills/Proficiencies 
 - Immune to Magical Sleep
@@ -73,14 +102,6 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 - Painter's Supplies 
 - Thieves' Tools 
 - Woodcarver's Tools
-
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        0         |        +2        |        +1        |  -2  |     +3     |
-#### Boons
-**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 # Inventory
 *Carrying Capacity: 120 lbs*

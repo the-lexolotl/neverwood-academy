@@ -54,7 +54,38 @@ Vith’s goals are straightforward — to dominate the Mage Tower circuit, to pu
 | Other           |                                               |
 
 # Skills
-![Pasted image 20251012232112.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020251012232112.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    16    |    13     |      12      |      8       |   10   |    16    |
+| Ability Mod  |    +3    |    +1     |      +1      |      -1      |   +0   |    +3    |
+| Saving Throw |   ● +5   |    +1     |     ● +3     |      -1      |   +0   |    +3    |
+*Advantage on DEX unless Incapacitated.
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +1    |     | ○   | Wis | Medicine       | +0    |
+| ○   | Wis | Animal Handling | +0    |     | ○   | Int | Nature         | -1    |
+| ○   | Int | Arcana          | -1    |     | ●   | Wis | Perception     | +2    |
+| ●   | Str | Athletics       | +5    |     | ●   | Cha | Performance    | +5    |
+| ○   | Cha | Deception       | +3    |     | ●   | Cha | Persuasion     | +5    |
+| ○   | Int | History         | -1    |     | ○   | Int | Religion       | -1    |
+| ○   | Wis | Insight         | +0    |     | ○   | Dex | Slight of Hand | +1    |
+| ●   | Cha | Intimidation    | +5    |     | ○   | Dex | Stealth        | +1    |
+| ○   | Int | Investigation   | -1    |     | ○   | Wis | Survival       | +0    |
+
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        -1        |        +2        |  +1  |     +3     |
+#### Boons
+**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 ## Other Skills/Proficiencies 
 - Resistance against Cold damage
@@ -64,12 +95,6 @@ Vith’s goals are straightforward — to dominate the Mage Tower circuit, to pu
 - Martial Weapons 
 - Simple Weapons
 - Drum
-
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        -1        |        +2        |  +1  |     +3     |
 
 # Inventory
 *Carrying Capacity: 240 lbs*

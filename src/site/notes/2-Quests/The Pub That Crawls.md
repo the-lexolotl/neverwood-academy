@@ -25,13 +25,14 @@ Among Neverwood Academy’s many student legends, none are as persistent as the 
 
 Now, rumours have resurfaced after a strange notebook fell from the shelves of the Biblioplex, its pages bearing the mark of one Eb Zenithon, one of the original founders. The book speaks of a potion brewed from five signature drinks that, when consumed in a single night, opens the way to The Pub That Crawls. Whether the promise is treasure, knowledge, or simply glory, no student has ever completed the challenge — and the opportunity may come but once in a lifetime. For the party, uncovering the truth of the Crawling Pub isn’t just a test of endurance; it’s a chance to solve one of Neverwood’s oldest mysteries and perhaps claim the secrets of a pub that walks between worlds.
 
+## Objectives
+
 <iframe 
   src="https://www.neverwood.co.uk/pub-that-crawls/"
   width="100%" 
   height="900px" 
   style="border: none; border-radius: 4px;"
 ></iframe>
-
 
 
 ## Quest Handouts
@@ -46,21 +47,31 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 
 # Locations
 
-| File                                         | Location                                    | Type       |
-| -------------------------------------------- | ------------------------------------------- | ---------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]] | [[2-World/Regions/The North\|The North]] | City +1500 |
+| File                                                                                   | Location                                     | Type       |
+| -------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Tavern     |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]                                           | [[2-World/Regions/The North\|The North]]  | City +1500 |
 
 { .block-language-dataview}
 # People
 
 The following people are associated with this quest.
-| Character                                                                     | Race       | Gender | Role                |
-| ----------------------------------------------------------------------------- | ---------- | ------ | ------------------- |
-| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                      | Human      | Male   | Deputy Head Teacher |
-| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]               | Human      | Male   | Professor of Chaos  |
-| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]       | Tiefling   | Female | Professor of Theory |
-| [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                   | Dragonborn | Male   | Player              |
-| [[1-Party/Group 3/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]] | Minotaur   | Male   | Player              |
-| [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                | Dragonborn | Female | Player              |
+| Character                                                                     | Race            | Gender | Role                |
+| ----------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
+| [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]                      | Human           | Male   | Deputy Head Teacher |
+| [[2-World/People/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]               | Human           | Male   | Professor of Chaos  |
+| [[2-World/People/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]       | Tiefling        | Female | Professor of Theory |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]    | Dragonborn      | Male   | Player              |
+| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                | Aarakocra       | Female | Player              |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                        | Tiefling        | Female | Player              |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]          | Variant Aasimar | Female | Player              |
+| [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                   | Dragonborn      | Male   | Player              |
+| [[1-Party/Group 3/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]] | Minotaur        | Male   | Player              |
+| [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                | Dragonborn      | Female | Player              |
 
 { .block-language-dataview}

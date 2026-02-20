@@ -1,5 +1,5 @@
 ---
-{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":3,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Storm Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Group 2/H'er/H'er.md","permalink":"/party/group-2/h-er/h-er/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":3,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Storm Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Group 2/H'er/H'er.md","permalink":"/party/group-2/h-er/h-er/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -46,13 +46,29 @@
 | Other           | Tail nubbin hidden beneath clothes. Scarred tip, as it was non-surgically removed as an infant by her father to try to "normalise" her appearance. |
 
 # Skills
-![Pasted image 20250928223732.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928223732.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
 
-## Other Skills/Proficiencies 
-- Resistance against Necrotic damage
-- Simple Weapons 
-- Painter's Supplies
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    8     |    12     |      11      |      14      |   13   |    17    |
+| Ability Mod  |    -1    |    +1     |      +0      |      +2      |   +1   |    +3    |
+| Saving Throw |    -1    |    +1     |     ● +2     |      +2      |   +1   |   ● +5   |
 
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ●   | Dex | Acrobatics      | +3    |     | ○   | Wis | Medicine       | +1    |
+| ○   | Wis | Animal Handling | +1    |     | ○   | Int | Nature         | +2    |
+| ○   | Int | Arcana          | +2    |     | ○   | Wis | Perception     | +1    |
+| ○   | Str | Athletics       | -1    |     | ●   | Cha | Performance    | +5    |
+| ●   | Cha | Deception       | +5    |     | ●   | Cha | Persuasion     | +5    |
+| ○   | Int | History         | +2    |     | ○   | Int | Religion       | +2    |
+| ○   | Wis | Insight         | +1    |     | ○   | Dex | Slight of Hand | +1    |
+| ○   | Cha | Intimidation    | +3    |     | ○   | Dex | Stealth        | +1    |
+| ○   | Int | Investigation   | +2    |     | ○   | Wis | Survival       | +1    |
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -60,6 +76,11 @@
 |        +2        |        +2        |        +3        |  -1  |     -2     |
 #### Boons 
 **Extracurriculars:** Your student die from Extracurriculars is now a d8. Gain one additional student dice each week.
+
+## Other Skills/Proficiencies 
+- Resistance against Necrotic damage
+- Simple Weapons 
+- Painter's Supplies
 
 # Inventory
 *Carrying Capacity: 120 lbs*
@@ -99,7 +120,7 @@
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[1-Party/Group 2/Group 2.md|Group 2]],[[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]]
 
-**Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/Colours in Chaos\|Colours in Chaos]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
+**Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/Colours in Chaos\|Colours in Chaos]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
 # Relationships
 **Pets:** None/Unknown

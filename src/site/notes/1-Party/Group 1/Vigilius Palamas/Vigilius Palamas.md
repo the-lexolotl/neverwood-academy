@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","dg-path":"Party/Group 1/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1\|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","dg-path":"Party/Group 1/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/group-1/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -54,7 +54,36 @@ Looking ahead, Vagilius envisions himself standing as a protector, shielding the
 | Other           |                       |
 
 # Skills
-![Pasted image 20251130012313.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020251130012313.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    13    |    15     |      10      |      8       |   17   |    12    |
+| Ability Mod  |    +1    |    +2     |      +0      |      -1      |   +3   |    +1    |
+| Saving Throw |   ● +3   |   ● +4    |      +0      |      -1      |   +3   |    +1    |
+
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ●   | Dex | Acrobatics      | +4    |     | ●   | Wis | Medicine       | +5    |
+| ○   | Wis | Animal Handling | +3    |     | ●   | Int | Nature         | +1    |
+| ●   | Int | Arcana          | +1    |     | ○   | Wis | Perception     | +3    |
+| ○   | Str | Athletics       | +1    |     | ○   | Cha | Performance    | +1    |
+| ○   | Cha | Deception       | +1    |     | ○   | Cha | Persuasion     | +1    |
+| ●   | Int | History         | +1    |     | ○   | Int | Religion       | -1    |
+| ●   | Wis | Insight         | +5    |     | ○   | Dex | Slight of Hand | +2    |
+| ○   | Cha | Intimidation    | +1    |     | ○   | Dex | Stealth        | +2    |
+| ○   | Int | Investigation   | -1    |     | ○   | Wis | Survival       | +3    |
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +1        |        +3        |        -1        |  0   |     +1     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
 
 ## Other Skills/Proficiencies 
 - Resistance against Fire
@@ -67,13 +96,7 @@ Looking ahead, Vagilius envisions himself standing as a protector, shielding the
 - Herbalism Kit 
 - Tinker's Tools
 
-## Student Skill Points 
 
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +3        |        -1        |  0   |     +1     |
-#### Boons 
-**Applied Learning:** You start each exam with one reroll available.
 
 # Inventory
 *Carrying Capacity: 195 lbs*
@@ -116,7 +139,7 @@ Looking ahead, Vagilius envisions himself standing as a protector, shielding the
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[1-Party/Group 1/Group 1.md|Group 1]],[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
 
-**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Price of Integrity\|The Price of Integrity]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Price of Integrity\|The Price of Integrity]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]],[[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
 # Relationships
 **Pets:** None/Unknown

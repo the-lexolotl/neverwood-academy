@@ -54,8 +54,40 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | **Other**           |                                         |
 
 # Skills
-![Pasted image 20260202181939.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020260202181939.png)
-Advantage on DEX unless Incapacitated.
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    17    |    10     |      14      |      13      |   8    |    13    |
+| Ability Mod  |    +3    |    +0     |      +2      |      +1      |   -1   |    +1    |
+| Saving Throw |   ● +5   |    +0     |     ● +4     |      +1      |   -1   |    +1    |
+
+*Advantage on DEX unless Incapacitated.*
+
+|      | Mod | Skill           | Bonus |     |      | Mod | Skill          | Bonus |
+| ---- | --- | --------------- | ----- | --- | ---- | --- | -------------- | ----- |
+| ○    | Dex | Acrobatics      | +0    |     | ●    | Wis | Medicine       | +1    |
+| ○    | Wis | Animal Handling | -1    |     | ●(A) | Int | Nature         | +3    |
+| ○(A) | Int | Arcana          | +1    |     | ○    | Wis | Perception     | -1    |
+| ●    | Str | Athletics       | +5    |     | ○    | Cha | Performance    | +1    |
+| ○    | Cha | Deception       | +1    |     | ○    | Cha | Persuasion     | +1    |
+| ○(A) | Int | History         | +1    |     | ●(A) | Int | Religion       | +1    |
+| ○    | Wis | Insight         | -1    |     | ○    | Dex | Slight of Hand | +0    |
+| ●    | Cha | Intimidation    | +3    |     | ○    | Dex | Stealth        | +0    |
+| ○(A) | Int | Investigation   | +1    |     | ○(A) | Wis | Survival       | -1    |
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        3         |        -1        |  0   |     3      |
+#### Boons
+**Applied Learning:** You start each exam with one reroll available.
+
+**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 ## Other Skills/Proficiencies 
 - Light Armour
@@ -65,15 +97,6 @@ Advantage on DEX unless Incapacitated.
 - Simple Weapons
 - Alchemist's Supplies 
 - Smith's Tools
-
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        3         |        -1        |  0   |     3      |
-#### Boons
-**Applied Learning:** You start each exam with one reroll available.
-**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
 # Inventory
 *Carrying Capacity: 255 lbs*

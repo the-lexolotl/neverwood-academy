@@ -54,14 +54,29 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 | Other           | Minor disrespect for school uniform, small burns on his right arm from accidents learning fire magic |
 
 # Skills
-![Pasted image 20250928224425.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020250928224425.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
 
-## Other Skills/Proficiencies 
-- Simple Weapons 
-- Alchemist's Supplies 
-- Jeweller's Tools 
-- Woodcarver's Tools
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    8     |    13     |      14      |      17      |   12   |    13    |
+| Ability Mod  |    -1    |    +1     |      +2      |      +3      |   +1   |    +1    |
+| Saving Throw |    -1    |    +1     |      +2      |     ● +5     |  ● +3  |    +1    |
 
+|     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +1    |     | ○   | Wis | Medicine       | +1    |
+| ○   | Wis | Animal Handling | +1    |     | ●   | Int | Nature         | +5    |
+| ●   | Int | Arcana          | +5    |     | ○   | Wis | Perception     | +1    |
+| ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +1    |
+| ○   | Cha | Deception       | +1    |     | ○   | Cha | Persuasion     | +1    |
+| ○   | Int | History         | +3    |     | ○   | Int | Religion       | +3    |
+| ●   | Wis | Insight         | +3    |     | ○   | Dex | Slight of Hand | +1    |
+| ○   | Cha | Intimidation    | +1    |     | ●   | Dex | Stealth        | +3    |
+| ★   | Int | Investigation   | +7    |     | ○   | Wis | Survival       | +1    |
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -74,6 +89,12 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 #### Banes 
 **Popularity:** 
+
+## Other Skills/Proficiencies 
+- Simple Weapons 
+- Alchemist's Supplies 
+- Jeweller's Tools 
+- Woodcarver's Tools
 
 # Inventory
 *Carrying Capacity: 120 lbs*

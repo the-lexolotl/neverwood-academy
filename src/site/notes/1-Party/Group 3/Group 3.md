@@ -11,7 +11,7 @@
 
 **Category:** Group Cup
 
-**Current Points:** 16
+**Current Points:** 48
 
 # Goals
 > [!NOTE]+ Public Goals

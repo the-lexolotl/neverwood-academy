@@ -46,7 +46,34 @@
 | Other           |               |
 
 # Skills
-![Pasted image 20260108182243.png](/img/user/z_Assets/Skills%20Screenshots/Pasted%20image%2020260108182243.png)
+> [!info]- Proficiency
+> ○ - Not proficient 
+> ◐ - Half-proficient
+> ● - Proficient 
+> ★ - Expertise 
+
+|              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|    Score     |    16    |    11     |      12      |      8       |   12   |    16    |
+| Ability Mod  |    +3    |    +0     |      +1      |      -1      |   +1   |    +3    |
+| Saving Throw |    +3    |    +0     |      +1      |      -1      |  ● +3  |   ● +5   |
+
+|     | Mod | Skill           | Bonus |     |      | Mod | Skill          | Bonus |
+| --- | --- | --------------- | ----- | --- | ---- | --- | -------------- | ----- |
+| ○   | Dex | Acrobatics      | +0    |     | ●    | Wis | Medicine       | +3    |
+| ○   | Wis | Animal Handling | +1    |     | ○    | Int | Nature         | -1    |
+| ○   | Int | Arcana          | -1    |     | ○    | Wis | Perception     | +1    |
+| ●   | Str | Athletics       | +5    |     | ○    | Cha | Performance    | +3    |
+| ○   | Cha | Deception       | +3    |     | ○    | Cha | Persuasion     | +3    |
+| ●   | Int | History         | +1    |     | ●    | Int | Religion       | +1    |
+| ○   | Wis | Insight         | +1    |     | ○    | Dex | Slight of Hand | +0    |
+| ○   | Cha | Intimidation    | +3    |     | ○(D) | Dex | Stealth        | +0    |
+| ○   | Int | Investigation   | -1    |     | ○    | Wis | Survival       | +1    |
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        +2        |        +2        |  +1  |     0      |
 
 ## Other Skills/Proficiencies 
 - Resistance against Lightning damage
@@ -56,12 +83,6 @@
 - Shields
 - Martial Weapons 
 - Simple Weapons
-
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        +2        |        +2        |  +1  |     0      |
 
 # Inventory
 *Carrying Capacity: 240 lbs*
