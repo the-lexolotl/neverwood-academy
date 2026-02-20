@@ -20,14 +20,14 @@
 # People
 The following people are members of this group.  
 
-| File                                                                       | Race       | Gender     | College     |
-| -------------------------------------------------------------------------- | ---------- | ---------- | ----------- |
-| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]     | Gorgon     | Female     | Witherbloom |
-| [[2-World/People/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn | Male       | Prismari    |
-| [[2-World/People/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome      | Male       | Prismari    |
-| [[2-World/People/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc   | Male       | Prismari    |
-| [[2-World/People/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling   | Male       | Silverquill |
-| [[2-World/People/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter    | Male       | Silverquill |
-| [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]   | Shadar-Kai | Non-binary | Silverquill |
+| File                                                                                         | Race       | Gender     | College     |
+| -------------------------------------------------------------------------------------------- | ---------- | ---------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]     | Gorgon     | Female     | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn | Male       | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome      | Male       | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc   | Male       | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling   | Male       | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter    | Male       | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]   | Shadar-Kai | Non-binary | Silverquill |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[2-World/People/Staff/Dramitia.md|Dramitia]]","questLocationObtained":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","questSessionObtained":"[[2025-10-24 - Megan Async|2025-10-24 - Megan Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Merchant of Moons.md","permalink":"/quests/the-merchant-of-moons/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Dramitia|Dramitia]]","questLocationObtained":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","questSessionObtained":"[[2025-10-24 - Megan Async|2025-10-24 - Megan Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Merchant of Moons.md","permalink":"/quests/the-merchant-of-moons/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -26,7 +26,7 @@
 | Date Obtained:    | 2025-10-24                                                        |
 | ----------------- | ----------------------------------------------------------------- |
 | Status:           | In Progress                                                       |
-| Quest Giver:      | [[2-World/People/Staff/Dramitia\|Dramitia]]                                                      |
+| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                                                      |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                             |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Megan Async\|Megan Async - The Merchant of Moons]] |
 | Acquired Loot:    |                                                                   |
@@ -41,7 +41,7 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 The following people are associated with this quest.
 | File                                                                 | Race            | Gender | Role   |
 | -------------------------------------------------------------------- | --------------- | ------ | ------ |
-| [[2-World/People/Staff/Dramitia\|Dramitia]]                       | Tiefling        | Female | Coach  |
+| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]     | Tiefling        | Female | Coach  |
 | [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]] | Variant Aasimar | Female | Player |
 
 { .block-language-dataview}

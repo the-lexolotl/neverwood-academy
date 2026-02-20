@@ -1,0 +1,35 @@
+---
+{"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]"],"MyCategory":null,"image":"Francis.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[Cohort of 1507|Cohort of 1507]]","[[Witherbloom College|Witherbloom College]]","[[Dead Language Society|Dead Language Society]]","[[Neverwood Times|Neverwood Times]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":2,"dg-path":"World/People/Neverwood Academy/Students/1507/Francis Farlight.md","permalink":"/world/people/neverwood-academy/students/1507/francis-farlight/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+---
+
+
+![Francis.jpg](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201507/Francis.jpg)
+# General
+
+
+| Name:        | Francis Farlight |
+| ------------ | ---------------- |
+| **Status:**  | Alive            |
+| **Race:**    | Human            |
+| **Gender:**  | Male             |
+| **Age:**     | Young Adult      |
+| **Role:**    | Student          |
+| **College:** | Witherbloom      |
+
+
+---
+
+This is the persons description. 
+
+
+# Connections
+
+
+**Quests:** None 
+
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]], [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]] , [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]],  [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]
+
+# Relationships
+
+List important relationships here. 
+

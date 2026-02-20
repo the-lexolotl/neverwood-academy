@@ -143,7 +143,7 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 **Siblings** - None/Unknown
 **Partner** - None/Unknown
 **Children** - None/Unknown
-**Allies** - [[2-World/People/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]
+**Allies** - [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]
 **Enemies** - None/Unknown
 
 # Academics

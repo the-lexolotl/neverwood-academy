@@ -148,7 +148,7 @@
 **Siblings** - None/Unknown
 **Partner** - None/Unknown
 **Children** - None/Unknown
-**Allies** - [[2-World/People/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]],[[2-World/People/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
+**Allies** - [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]],[[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]]
 **Enemies** - None/Unknown
 
 # Academics

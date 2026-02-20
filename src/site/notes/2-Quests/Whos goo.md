@@ -24,8 +24,8 @@
 | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                                    | 26 Jul, 2025  |
 | [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  |
-| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  |
 | [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
+| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  |
 
 { .block-language-dataview}
 
@@ -49,21 +49,21 @@ Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood
 
 The following people are associated with this quest.
 
-| Character                                                                     | Race            | Gender | Role                  |
-| ----------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
-| [[2-World/People/Staff/Yedora\|Yedora]]                                    | Treant          | Female | Grounds Keeper        |
-| [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin           | Female | Professor of Radiance |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                  | Half-Bullywug   | Male   | Alumni                |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]              | Bullywug        | Male   | Alumni                |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                    | Halfling        | Female | Applicant             |
-| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                               | Yuan-Ti         | Male   | Player                |
-| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton          | Male   | Player                |
-| [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling        | Male   | Player                |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]    | Dragonborn      | Male   | Player                |
-| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                | Aarakocra       | Female | Player                |
-| [[1-Party/Group 2/H'er/H'er\|H'er]]                                        | Tiefling        | Female | Player                |
-| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]    | Human           | Male   | Player                |
-| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]          | Variant Aasimar | Female | Player                |
+| Character                                                                                      | Race            | Gender | Role                  |
+| ---------------------------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                   | Half-Bullywug   | Male   | Alumni                |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                               | Bullywug        | Male   | Alumni                |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                     | Halfling        | Female | Applicant             |
+| [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                                   | Treant          | Female | Grounds Keeper        |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
+| [[1-Party/Group 1/Atudark/Atudark\|Atudark]]                                                | Yuan-Ti         | Male   | Player                |
+| [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                           | Triton          | Male   | Player                |
+| [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                  | Halfling        | Male   | Player                |
+| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                     | Dragonborn      | Male   | Player                |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                                         | Tiefling        | Female | Player                |
+| [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                 | Aarakocra       | Female | Player                |
+| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                     | Human           | Male   | Player                |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                           | Variant Aasimar | Female | Player                |
 
 { .block-language-dataview}
 

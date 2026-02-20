@@ -127,7 +127,7 @@
 **Companions:** None/Unknown
 **Parents** - None/Unknown
 **Siblings** - None/Unknown
-**Partner** - [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]
+**Partner** - [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]
 **Children** - None/Unknown
 **Allies** - None/Unknown
 **Enemies** - None/Unknown

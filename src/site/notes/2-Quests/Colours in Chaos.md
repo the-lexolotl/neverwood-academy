@@ -8,7 +8,7 @@
 # Quest Info
 - [x] ~~Investigate the sabotage at the Art Exhibition.~~
 - [x] ~~Protect or transform H’er’s own artwork amid magical instability.~~
-- [x] ~~Deepen her connection with [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra]] through shared emotion and discovery.~~
+- [x] ~~Deepen her connection with [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra]] through shared emotion and discovery.~~
 - [ ] Uncover or suppress the truth behind the sabotage.
 - [ ] Evolve H’er’s sorcery through her artistic awakening.
 
@@ -40,11 +40,11 @@ Her choices will define not only her art but her place in [[2-World/Groups/Colle
 
 The following people are associated with this quest.
 
-| File                                                                           | Race       | Gender | Role    |
-| ------------------------------------------------------------------------------ | ---------- | ------ | ------- |
-| [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]     | Elf        | Male   | Student |
-| [[2-World/People/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Air Genasi | Female | Student |
-| [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
-| [[1-Party/Group 2/H'er/H'er\|H'er]]                                         | Tiefling   | Female | Player  |
+| File                                                                                             | Race       | Gender | Role    |
+| ------------------------------------------------------------------------------------------------ | ---------- | ------ | ------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]     | Elf        | Male   | Student |
+| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Air Genasi | Female | Student |
+| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
+| [[1-Party/Group 2/H'er/H'er\|H'er]]                                                           | Tiefling   | Female | Player  |
 
 { .block-language-dataview}

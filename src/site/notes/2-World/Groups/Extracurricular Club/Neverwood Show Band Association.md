@@ -26,15 +26,15 @@ Upon request or via sign-up at freshers fair
 
 # People
 The following people are members of this group.  
-| File                                                                                             | Race      | Gender | College     | School Year |
-| ------------------------------------------------------------------------------------------------ | --------- | ------ | ----------- | ----------- |
-| [[2-World/People/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom | 1           |
-| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Gorgon    | Female | Witherbloom | 3           |
-| [[2-World/People/Staff/Dramitia\|Dramitia]]                                                   | Tiefling  | Female | None        | \-          |
-| [[2-World/People/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    | 2           |
-| [[2-World/People/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill | 2           |
-| [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    | 1           |
-| [[2-World/People/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill | 1           |
+| File                                                                                                               | Race      | Gender | College     | School Year |
+| ------------------------------------------------------------------------------------------------------------------ | --------- | ------ | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Dhampir   | Female | Witherbloom | 1           |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Gorgon    | Female | Witherbloom | 3           |
+| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                                                   | Tiefling  | Female | None        | \-          |
+| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome     | Male   | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Human     | Male   | Silverquill | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Warforged | Male   | Quandrix    | 1           |
+| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                       | Human     | Female | Silverquill | 1           |
 
 { .block-language-dataview}
 

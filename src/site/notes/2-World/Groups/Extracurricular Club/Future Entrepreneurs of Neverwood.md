@@ -26,13 +26,13 @@ Upon request or via sign-up at freshers fair
 
 # People
 The following people are members of this group.  
-| File                                                                         | Race     | Gender     | College     | School Year |
-| ---------------------------------------------------------------------------- | -------- | ---------- | ----------- | ----------- |
-| [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]]     | Hexblood | Female     | Witherbloom | 1           |
-| [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Human    | Male       | Silverquill | 1           |
-| [[2-World/People/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Elf      | Male       | Witherbloom | 2           |
-| [[2-World/People/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku    | Non-binary | Quandrix    | 2           |
-| [[2-World/People/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]     | Orc      | Female     | Silverquill | 2           |
+| File                                                                                           | Race     | Gender     | College     | School Year |
+| ---------------------------------------------------------------------------------------------- | -------- | ---------- | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]     | Hexblood | Female     | Witherbloom | 1           |
+| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Human    | Male       | Silverquill | 1           |
+| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Elf      | Male       | Witherbloom | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku    | Non-binary | Quandrix    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]     | Orc      | Female     | Silverquill | 2           |
 
 { .block-language-dataview}
 

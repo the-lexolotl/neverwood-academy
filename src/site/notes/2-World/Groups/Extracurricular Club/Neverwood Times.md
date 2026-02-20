@@ -26,17 +26,17 @@ Upon request or via sign-up at freshers fair
 
 # People
 The following people are members of this group.  
-| File                                                                         | Race       | Gender     | College     | School Year |
-| ---------------------------------------------------------------------------- | ---------- | ---------- | ----------- | ----------- |
-| [[2-World/People/Students/1507/Emeline Redstream\|Emeline Redstream]]     | Loxodon    | Female     | Prismari    | 2           |
-| [[2-World/People/Students/1507/Francis Farlight\|Francis Farlight]]       | Human      | Male       | Witherbloom | 2           |
-| [[2-World/People/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]] | Human      | Female     | Lorehold    | 2           |
-| [[2-World/People/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Human      | Male       | Silverquill | 1           |
-| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]   | Human      | Male       | Quandrix    | 1           |
-| [[2-World/People/Students/1507/Mina Lee\|Mina Lee]]                       | Human      | Female     | Silverquill | 2           |
-| [[2-World/People/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]           | Firbolg    | Non-binary | Lorehold    | 2           |
-| [[2-World/People/Students/1508/Tobias Thornfield\|Tobias Thornfield]]     | Half-Orc   | Male       | Lorehold    | 1           |
-| [[2-World/People/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]     | Shadar-Kai | Non-binary | Silverquill | 3           |
+| File                                                                                           | Race       | Gender     | College     | School Year |
+| ---------------------------------------------------------------------------------------------- | ---------- | ---------- | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]     | Loxodon    | Female     | Prismari    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]       | Human      | Male       | Witherbloom | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]] | Human      | Female     | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Human      | Male       | Silverquill | 1           |
+| [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                     | Human      | Male       | Quandrix    | 1           |
+| [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                       | Human      | Female     | Silverquill | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]           | Firbolg    | Non-binary | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]     | Half-Orc   | Male       | Lorehold    | 1           |
+| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]     | Shadar-Kai | Non-binary | Silverquill | 3           |
 
 { .block-language-dataview}
 

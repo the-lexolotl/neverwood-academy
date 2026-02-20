@@ -26,10 +26,10 @@ Upon request or via sign-up at freshers fair
 
 # People
 The following people are members of this group.  
-| File                                                                       | Race        | Gender | College  | School Year |
-| -------------------------------------------------------------------------- | ----------- | ------ | -------- | ----------- |
-| [[2-World/People/Students/1508/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari | 1           |
-| [[2-World/People/Students/1508/Zanther Brown\|Zanther Brown]]           | Fire Genasi | Male   | Prismari | 1           |
+| File                                                                                         | Race        | Gender | College  | School Year |
+| -------------------------------------------------------------------------------------------- | ----------- | ------ | -------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]] | Tiefling    | Male   | Prismari | 1           |
+| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]           | Fire Genasi | Male   | Prismari | 1           |
 
 { .block-language-dataview}
 

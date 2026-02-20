@@ -26,13 +26,13 @@ Upon request or via sign-up at freshers fair
 
 # People
 The following people are members of this group.  
-| File                                                                           | Race    | Gender | College     | School Year |
-| ------------------------------------------------------------------------------ | ------- | ------ | ----------- | ----------- |
-| [[2-World/People/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Firbolg | Female | Lorehold    | 2           |
-| [[2-World/People/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Satyr   | Female | Silverquill | 2           |
-| [[2-World/People/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad   | Male   | Witherbloom | 1           |
-| [[2-World/People/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin   | Female | Silverquill | 1           |
-| [[2-World/People/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Aasimar | Female | Silverquill | 2           |
+| File                                                                                             | Race    | Gender | College     | School Year |
+| ------------------------------------------------------------------------------------------------ | ------- | ------ | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Firbolg | Female | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Satyr   | Female | Silverquill | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad   | Male   | Witherbloom | 1           |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin   | Female | Silverquill | 1           |
+| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Aasimar | Female | Silverquill | 2           |
 
 { .block-language-dataview}
 

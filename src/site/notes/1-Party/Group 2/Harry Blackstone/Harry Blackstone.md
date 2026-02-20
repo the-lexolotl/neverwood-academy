@@ -146,7 +146,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 **Siblings** - [[2-World/People/Other/Adalynn Blackstone\|Adalynn Blackstone]]
 **Partner** - None/Unknown
 **Children** - None/Unknown
-**Allies** - [[2-World/People/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
+**Allies** - [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
 **Enemies** - None/Unknown
 
 # Academics

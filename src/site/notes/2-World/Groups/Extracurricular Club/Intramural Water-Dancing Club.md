@@ -26,12 +26,12 @@ Upon request or via sign-up at freshers fair
 
 # People
 The following people are members of this group.  
-| File                                                                         | Race      | Gender | College     | School Year |
-| ---------------------------------------------------------------------------- | --------- | ------ | ----------- | ----------- |
-| [[2-World/People/Students/1506/Calypso Virellis\|Calypso Virellis]]       | Gorgon    | Female | Witherbloom | 3           |
-| [[2-World/People/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged | Male   | Quandrix    | 1           |
-| [[2-World/People/Students/1508/Larine Arneza\|Larine Arneza]]             | Human     | Female | Quandrix    | 1           |
-| [[2-World/People/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human     | Female | Quandrix    | 2           |
+| File                                                                                           | Race      | Gender | College     | School Year |
+| ---------------------------------------------------------------------------------------------- | --------- | ------ | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]       | Gorgon    | Female | Witherbloom | 3           |
+| [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged | Male   | Quandrix    | 1           |
+| [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]             | Human     | Female | Quandrix    | 1           |
+| [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human     | Female | Quandrix    | 2           |
 
 { .block-language-dataview}
 

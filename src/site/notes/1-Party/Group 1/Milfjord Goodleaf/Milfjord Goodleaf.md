@@ -132,7 +132,7 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 **Siblings** - None/Unknown
 **Partner** - None/Unknown
 **Children** - None/Unknown
-**Allies** - [[2-World/People/Students/1508/Althea Nightshade\|Althea Nightshade]],[[2-World/People/Students/1507/Ivy Drake\|Ivy Drake]]
+**Allies** - [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]],[[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]
 
 
 # Academics

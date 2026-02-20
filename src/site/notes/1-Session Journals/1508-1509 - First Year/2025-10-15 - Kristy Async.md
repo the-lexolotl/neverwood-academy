@@ -1,5 +1,5 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Administrative Misconduct","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-15","players":1,"OneLiner":"Vigilius gets interrogated for the student records heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[Vigilius Palamas|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]","[[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]]"],"dg-publish":true,"ingameDate":"17th Nightal 1508","fc-start":"1508-17-17","fc-end":null,"aat-event-body":"When a mysterious silver-lettered summons arrives at his dorm, Vigilius Palamas finds himself called before the highest authorities of Neverwood Academy to answer for his role in the midnight break-in at the Administration Offices. What begins as a disciplinary hearing soon turns into something more — a test of honesty, character, and redemption — leading to a secret mission that could earn back the professors’ trust… or plunge him deeper into the academy’s mysteries.","aat-event-picture":"Pasted image 20250819074603.png","dg-show-local-graph":true,"aliases":["Kristy Async - Administrative Misconduct"],"dg-show-backlinks":true,"order":17,"school_year_j":"First Year","dg-path":"Session Journals/1508-1509 - First Year/2025-10-15 - Kristy Async.md","permalink":"/session-journals/1508-1509-first-year/2025-10-15-kristy-async/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"Administrative Misconduct","sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2025-10-15","players":1,"OneLiner":"Vigilius gets interrogated for the student records heist","timelines":["journal"],"tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[Vigilius Palamas|Vigilius Palamas]]"],"sessionAbsent":null,"sessionNPC":["[[Mavinda Sharpbeak|Mavinda Sharpbeak]]","[[Ricard Ruanad|Ricard Ruanad]]"],"dg-publish":true,"ingameDate":"17th Nightal 1508","fc-start":"1508-17-17","fc-end":null,"aat-event-body":"When a mysterious silver-lettered summons arrives at his dorm, Vigilius Palamas finds himself called before the highest authorities of Neverwood Academy to answer for his role in the midnight break-in at the Administration Offices. What begins as a disciplinary hearing soon turns into something more — a test of honesty, character, and redemption — leading to a secret mission that could earn back the professors’ trust… or plunge him deeper into the academy’s mysteries.","aat-event-picture":"Pasted image 20250819074603.png","dg-show-local-graph":true,"aliases":["Kristy Async - Administrative Misconduct"],"dg-show-backlinks":true,"order":17,"school_year_j":"First Year","dg-path":"Session Journals/1508-1509 - First Year/2025-10-15 - Kristy Async.md","permalink":"/session-journals/1508-1509-first-year/2025-10-15-kristy-async/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 # Kristy Async - Administrative Misconduct
@@ -22,7 +22,7 @@
 
 ## NPC's
 
-[[2-World/People/Staff/Silverquill/Mavinda Sharpbeak.md|Mavinda Sharpbeak]],[[2-World/People/Staff/Ricard Ruanad.md|Ricard Ruanad]]
+[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]],[[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]
 
 ## Summary
 
@@ -38,7 +38,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 
 ### The Hall of Inquiry
 
-* A winged silver quill leads Vigilius into a rune-lit chamber where Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] and Deputy Head Teacher [[2-World/People/Staff/Ricard Ruanad\|Ricard Ruanad]] await.  
+* A winged silver quill leads Vigilius into a rune-lit chamber where Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] and Deputy Head Teacher [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]] await.  
 * Mavinda gestures to a chair, her expression disappointed but not cruel.  
 * Ricard, smooth-voiced and precise, opens with:  
 	  “No shackles, no detentions — yet. Let’s simply have a conversation.”  
@@ -71,7 +71,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 ### A Second Chance
 
 * Later that evening, Vigilius hears a quiet knock at his door.  
-* Professor [[2-World/People/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] stands outside, feathers dulled by lamplight, holding a sealed parchment.  
+* Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] stands outside, feathers dulled by lamplight, holding a sealed parchment.  
 * “This is not punishment,” she says softly, “but perspective.”  
 * A **[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]] first-year** has gone missing near the **Root Archives**, deep in the old wings of campus.  
 * She tasks Vigilius to find them **alone — no spells, no faculty.**  

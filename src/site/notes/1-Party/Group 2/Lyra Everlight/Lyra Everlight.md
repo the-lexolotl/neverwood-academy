@@ -146,7 +146,7 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 **Siblings** - None/Unknown
 **Partner** - None/Unknown
 **Children** - None/Unknown
-**Allies** - [[2-World/People/Students/1508/Greta Gorunn\|Greta Gorunn]]
+**Allies** - [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]
 **Enemies** - None/Unknown
 
 # Academics

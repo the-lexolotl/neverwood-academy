@@ -4,15 +4,13 @@
 
 
 
-![Pasted image 20250914220845.png](/img/user/z_Assets/Maps/Pasted%20image%2020250914220845.png)
+![Neverwinter-(ZF-9046-66654-1-001).jpg](/img/user/z_Assets/Maps/Neverwinter-(ZF-9046-66654-1-001).jpg)
 # General
 
 **Region:** [[2-World/Regions/Sword Coast\|Sword Coast]]
-
 **Category:** City (+1500)
 
 ## Description
-
 Neverwinter, also called the *City of Skilled Hands*, is a major city-state in [[2-World/Regions/The North\|The North]] of [[2-World/Continents/Faerûn\|Faerûn]]. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in the North.
 
 Once called **Eigersstor** by its Illuskan founders, the name “Neverwinter” derives from the city’s ability to remain vibrant through the cold months — its river never freezing thanks to elemental heat flowing from Mount Hotenow.
@@ -75,11 +73,11 @@ The city’s economy remains guild-free by decree of Lord Neverember, allowing m
 ## Districts
 The modern city is divided into several key districts:
 
-* **Protector’s Enclave** – administrative and noble quarter surrounding Castle Never.
-* **Blacklake District** – historic residential area, now home to artisans and minor nobles.
-* **Docks District** – bustling trade hub at the harbor.
-* **River District** – home to mages, scholars, and artisans.
-* **Neverdeath Graveyard** – vast cemetery containing honored dead and lingering undead threats.
+* **[[2-World/Places/Protector's Enclave\|Protector's Enclave]]** – administrative and noble quarter surrounding Castle Never.
+* **[[2-World/Places/Blacklake District\|Blacklake District]]** – historic residential area, now home to artisans and minor nobles.
+* **[[2-World/Places/Dock Ward\|Dock Ward]]** – bustling trade hub at the harbor.
+* **[[2-World/Places/River District\|River District]]** – home to mages, scholars, and artisans.
+* [[2-World/Places/The Chasm\|The Chasm]] - a huge canyon-like crack amid the southeastern district
 
 ## Factions & Organizations
 Several groups influence Neverwinter’s politics and power:
@@ -118,24 +116,27 @@ Exhaustion Level: 0
 
 # NPCs
 
-| File                                                                                 | Race       | Gender | Role              |
-| ------------------------------------------------------------------------------------ | ---------- | ------ | ----------------- |
-| [[2-World/People/Other/Neverwinter/Alise Thallas\|Alise Thallas]]                 | Changling  | Female | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Baz\|Baz]]                                     | Owlin      | Male   | Tavern Manager    |
-| [[2-World/People/Other/Neverwinter/Bellana\|Bellana]]                             | Dryad      | Female | Tavern Manager    |
-| [[2-World/People/Other/Neverwinter/Bree Peregrine\|Bree Peregrine]]               | Elf        | Female | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Cedric the Kor\|Cedric the Kor]]               | Kor        | Male   | Tavern Ghost      |
-| [[2-World/People/Other/Neverwinter/Cedric the Orc\|Cedric the Orc]]               | Orc        | Male   | Tavern Ghost      |
-| [[2-World/People/Other/Neverwinter/Eb Zenithon\|Eb Zenithon]]                     | Elf        | Male   | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]               | Human      | Male   | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Grayson\|Grayson]]                             | Vampire    | Male   | Tavern Manager    |
-| [[2-World/People/Other/Neverwinter/Kask\|Kask]]                                   | Human      | Male   | Other             |
-| [[2-World/People/Other/Neverwinter/Marcellus\|Marcellus]]                         | Loxodon    | Male   | Tavern Manager    |
-| [[2-World/People/Other/Neverwinter/Orestes Alaris\|Orestes Alaris]]               | Half-Orc   | Male   | Tavern Founder    |
-| [[2-World/People/Other/Neverwinter/Vani\|Vani]]                                   | Automaton  | Other  | Tavern Manager    |
-| [[2-World/People/Other/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male   | Other             |
-| [[2-World/People/Other/Vormor\|Vormor]]                                           | Half-Giant | Male   | Other             |
-| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                         | Giant      | Female | Other             |
-| [[2-World/People/Other/Alex Fallowridge\|Alex Fallowridge]]                       | Human      | Male   | Transport Manager |
+| File                                                                           | Race       | Gender     | Role              |
+| ------------------------------------------------------------------------------ | ---------- | ---------- | ----------------- |
+| [[2-World/People/Other/Vormor\|Vormor]]                                     | Half-Giant | Male       | Other             |
+| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                   | Giant      | Female     | Other             |
+| [[2-World/People/Other/Alex Fallowridge\|Alex Fallowridge]]                 | Human      | Male       | Transport Manager |
+| [[2-World/People/Neverwinter/Alise Thallas\|Alise Thallas]]                 | Changling  | Female     | Tavern Founder    |
+| [[2-World/People/Neverwinter/Baz\|Baz]]                                     | Owlin      | Male       | Tavern Manager    |
+| [[2-World/People/Neverwinter/Bellana\|Bellana]]                             | Dryad      | Female     | Tavern Manager    |
+| [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]               | Elf        | Female     | Tavern Founder    |
+| [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]               | Kor        | Male       | Tavern Ghost      |
+| [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]               | Orc        | Male       | Tavern Ghost      |
+| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                     | Elf        | Male       | Tavern Founder    |
+| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]               | Human      | Male       | Tavern Founder    |
+| [[2-World/People/Neverwinter/Grayson\|Grayson]]                             | Vampire    | Male       | Tavern Manager    |
+| [[2-World/People/Neverwinter/Kask\|Kask]]                                   | Human      | Male       | Other             |
+| [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                         | Loxodon    | Male       | Tavern Manager    |
+| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]               | Half-Orc   | Male       | Tavern Founder    |
+| [[2-World/People/Neverwinter/Vani\|Vani]]                                   | Automaton  | Other      | Tavern Manager    |
+| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male       | Other             |
+| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                       | Human      | Male       | Shop Manager      |
+| [[2-World/People/Neverwinter/Bessa Carver\|Bessa Carver]]                   | Dwarf      | Female     | Shop Manager      |
+| [[2-World/People/Neverwinter/Oswin Thatch\|Oswin Thatch]]                   | Tiefling   | Non-binary | Shop Manager      |
 
 { .block-language-dataview}

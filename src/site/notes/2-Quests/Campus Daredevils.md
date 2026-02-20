@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-01-10","questStatus":"Not Started","questGiver":"[[2-World/People/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]","questLocationObtained":"[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md|Captain Dapplewing's Manor]]","questSessionObtained":"[[2026-01-10 - Session 25|2026-01-10 - Session 25]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Campus Daredevils.md","permalink":"/quests/campus-daredevils/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-01-10","questStatus":"Not Started","questGiver":"[[Javenesh Stoutclaw|Javenesh Stoutclaw]]","questLocationObtained":"[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md|Captain Dapplewing's Manor]]","questSessionObtained":"[[2026-01-10 - Session 25|2026-01-10 - Session 25]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Campus Daredevils.md","permalink":"/quests/campus-daredevils/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -23,12 +23,12 @@
 | Date Obtained:    | 2026-01-10T00:00:00.000+00:00         |
 | ----------------- | ------------------------------ |
 | Status:           | Not Started           |
-| Quest Giver:      | [[2-World/People/Students/1507/Javenesh Stoutclaw.md|Javenesh Stoutclaw]]            |
+| Quest Giver:      | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]            |
 | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md|Captain Dapplewing's Manor]] |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-01-10 - Session 25\|2026-01-10 - Session 25]]  |
 | Acquired Loot:    |                                |
 # Backstory
-A short while after their second Magical Physiologies Exam, one of the characters is intercepted by a familiar face. [[2-World/People/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]], a confident second-year student, rushes past, presses a crumpled, slightly damp note into their hand, gives an exaggerated wink, and vanishes back into the crowd.
+A short while after their second Magical Physiologies Exam, one of the characters is intercepted by a familiar face. [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]], a confident second-year student, rushes past, presses a crumpled, slightly damp note into their hand, gives an exaggerated wink, and vanishes back into the crowd.
 The note reads:
 > “Big heroes on campus! You’re the talk of the school, what with your monster-dispatching ways. But can you recover the legendary Sassy Sally Jane? Many have tried. All have failed. Meet us outside Captain Dapplewing’s Manor at midnight tonight and see if you’ve got what it takes!”
 
