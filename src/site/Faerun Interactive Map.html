@@ -111,24 +111,62 @@ html, body { height: 100%; overflow: hidden; background: var(--bg); font-family:
 .search-clear { font-size: 0.65rem; color: var(--gold-dim); cursor: pointer; background: none; border: none; font-family: 'Crimson Pro', serif; padding: 0; transition: color 0.15s; width: auto; flex: none; }
 .search-clear:hover { color: var(--gold); }
 
-/* Category filter pills */
+/* ── ACCORDION FILTER ── */
 .cat-filters {
-  padding: 7px 12px 8px;
   border-bottom: 1px solid var(--border);
-  display: flex; flex-wrap: wrap; gap: 4px;
+  background: var(--surface);
   flex-shrink: 0;
+  overflow-y: auto;
+  max-height: 200px;
 }
-.cat-pill {
+.cat-filters::-webkit-scrollbar { width: 3px; }
+.cat-filters::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+.filter-group { border-bottom: 1px solid rgba(58,48,32,0.5); }
+.filter-group:last-child { border-bottom: none; }
+
+.filter-group-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 6px 12px; cursor: pointer; user-select: none;
+  transition: background 0.15s;
+}
+.filter-group-header:hover { background: rgba(201,151,58,0.05); }
+.filter-group-header.all-hidden { opacity: 0.45; }
+
+.fgh-left { display: flex; align-items: center; gap: 7px; }
+.fgh-icon { font-size: 0.95rem; line-height: 1; }
+.fgh-label { font-family: 'Uncial Antiqua', serif; font-size: 0.65rem; color: var(--text); letter-spacing: 0.05em; }
+
+.fgh-right { display: flex; align-items: center; gap: 7px; }
+.fgh-toggle {
+  font-size: 0.58rem; font-family: 'Crimson Pro', serif; color: var(--gold-dim);
+  border: 1px solid rgba(122,90,32,0.4); border-radius: 2px;
+  padding: 2px 6px; cursor: pointer; white-space: nowrap;
+  transition: all 0.15s; background: transparent;
+  flex: none; width: auto; letter-spacing: 0.03em;
+}
+.fgh-toggle:hover { background: rgba(201,151,58,0.1); color: var(--gold); }
+.fgh-toggle.active { background: rgba(201,151,58,0.18); color: var(--gold); border-color: var(--gold-dim); }
+
+.fgh-chevron { font-size: 0.55rem; color: var(--gold-dim); transition: transform 0.2s; flex: none; }
+.filter-group.open .fgh-chevron { transform: rotate(180deg); }
+
+.filter-subcats {
+  display: none; padding: 3px 10px 7px 32px;
+  gap: 4px; flex-wrap: wrap;
+}
+.filter-group.open .filter-subcats { display: flex; }
+
+.subcat-pill {
   display: flex; align-items: center; gap: 3px;
-  padding: 2px 8px; border-radius: 10px; cursor: pointer;
-  font-size: 0.62rem; font-family: 'Crimson Pro', serif;
-  border: 1px solid var(--border); background: transparent;
-  color: var(--text-dim); transition: all 0.15s; user-select: none;
-  white-space: nowrap; width: auto; flex: none; letter-spacing: 0.02em;
+  font-size: 0.6rem; font-family: 'Crimson Pro', serif; color: var(--text-dim);
+  padding: 2px 8px; border-radius: 10px; border: 1px solid var(--border);
+  cursor: pointer; transition: all 0.15s; user-select: none;
+  background: transparent; white-space: nowrap; width: auto; flex: none;
 }
-.cat-pill:hover { border-color: var(--gold-dim); color: var(--text); }
-.cat-pill.active { background: rgba(201,151,58,0.15); border-color: var(--gold-dim); color: var(--gold); }
-.cat-pill .cp-icon { font-size: 0.8rem; }
+.subcat-pill:hover { border-color: var(--gold-dim); color: var(--text); }
+.subcat-pill.inactive { opacity: 0.3; text-decoration: line-through; }
+.subcat-pill .sp-icon { font-size: 0.78rem; }
 
 /* Results list */
 .results-list { flex: 1; overflow-y: auto; }
@@ -472,6 +510,7 @@ const CATEGORIES = [
   { id: 'town',      label: 'Town',               icon: '🏘️',  color: '#7a5a14', minZoom: -2,  maxZoom:  4,   group: 'Settlements'},
   { id: 'village',   label: 'Village',            icon: '🏡',  color: '#5a4a14', minZoom: -1,  maxZoom:  4,   group: 'Settlements'},
   { id: 'settlement',label: 'Settlement (Other)', icon: '⛺',  color: '#4a3a10', minZoom: -1,  maxZoom:  4,   group: 'Settlements'},
+  { id: 'academy',   label: 'Magic Academy',      icon: '🔯',  color: '#4a1a6a', minZoom: -2,  maxZoom:  4,   group: 'Settlements'},
   { id: 'port',      label: 'Port / Harbour',     icon: '⚓',  color: '#1a4a6a', minZoom: -2,  maxZoom:  4,   group: 'Settlements'},
   { id: 'mountain',  label: 'Mountain / Peak',    icon: '⛰️',  color: '#6a6a6a', minZoom: -3,  maxZoom:  4,   group: 'Terrain'    },
   { id: 'mtnrange',  label: 'Mountain Range',     icon: '🏔️',  color: '#5a5a5a', minZoom: -5,  maxZoom: -1,   group: 'Terrain'    },
@@ -588,7 +627,13 @@ let activeFilters = new Set(); // empty = show all
 // To update: use ⬇ Export, edit, paste back here, redeploy.
 // ══════════════════════════════════════════════════════════════
 const PERMANENT_MARKERS = [
-  // Add your Faerûn markers here after placing them on the map
+  {"id":1,"lat":5242.75,"lng":4066.5,"label":"Neverwinter","cat":"city","desc":"","slug":"world/hubs/neverwinter/","minZoom":-2.5,"maxZoom":4},
+  {"id":2,"lat":3927.9781694912713,"lng":4939.140866588034,"label":"Daggerford","cat":"town","desc":"","slug":"world/hubs/daggerford/","minZoom":-1.75,"maxZoom":4},
+  {"id":3,"lat":4148,"lng":4608,"label":"Waterdeep","cat":"city","desc":"","slug":"","minZoom":-2.5,"maxZoom":4},
+  {"id":4,"lat":5270,"lng":4334,"label":"Neverwood Academy","cat":"academy","desc":"","slug":"world/hubs/neverwood-academy/","minZoom":-1.5,"maxZoom":4},
+  {"id":5,"lat":5321.1925157255055,"lng":4349.116259692211,"label":"Neverwinter Woods","cat":"forest","desc":"","slug":"","minZoom":-4,"maxZoom":4},
+  {"id":6,"lat":3893.166792740158,"lng":4972.372249605128,"label":"Gillian's Hill","cat":"settlement","desc":"","slug":"world/hubs/gillian-s-hill/","minZoom":0.25,"maxZoom":4},
+  {"id":7,"lat":5435.554428200011,"lng":4208.686558344842,"label":"Xvart Village","cat":"settlement","desc":"","slug":"world/hubs/xvart-village/","minZoom":-1,"maxZoom":4}
 ];
 
 function loadMarkers() {
@@ -754,35 +799,100 @@ function highlight(text, query) {
 }
 
 // ══════════════════════════════════════════════════════════════
-// CATEGORY FILTER PILLS
+// ACCORDION FILTER
 // ══════════════════════════════════════════════════════════════
+
+// Group definitions for the accordion
+const FILTER_GROUPS = [
+  { id: 'Lands',       label: 'Lands',       icon: '🗺️' },
+  { id: 'Settlements', label: 'Settlements', icon: '🏘️' },
+  { id: 'Terrain',     label: 'Terrain',     icon: '⛰️' },
+  { id: 'Points',      label: 'Points',      icon: '⭐' },
+];
+
 function buildCatFilters() {
-  const wrap = document.getElementById('catFilters');
-  wrap.innerHTML = '';
-  // "All" pill
-  const allPill = document.createElement('button');
-  allPill.className = 'cat-pill active'; allPill.dataset.cat = 'all';
-  allPill.innerHTML = 'All';
-  allPill.onclick = () => { activeFilters.clear(); refreshPills(); renderList(); };
-  wrap.appendChild(allPill);
-  // One pill per category
-  CATEGORIES.forEach(cat => {
-    const p = document.createElement('button');
-    p.className = 'cat-pill'; p.dataset.cat = cat.id;
-    p.innerHTML = `<span class="cp-icon">${cat.icon}</span>${cat.label.split('/')[0].trim()}`;
-    p.onclick = () => {
-      if (activeFilters.has(cat.id)) activeFilters.delete(cat.id);
-      else activeFilters.add(cat.id);
-      refreshPills(); renderList();
-    };
-    wrap.appendChild(p);
+  const panel = document.getElementById('catFilters');
+  panel.innerHTML = '';
+
+  FILTER_GROUPS.forEach(group => {
+    const cats = CATEGORIES.filter(c => c.group === group.id);
+    if (!cats.length) return;
+
+    const groupEl = document.createElement('div');
+    groupEl.className = 'filter-group';
+    groupEl.dataset.group = group.id;
+
+    // Header row
+    const header = document.createElement('div');
+    header.className = 'filter-group-header';
+    header.innerHTML = `
+      <div class="fgh-left">
+        <span class="fgh-icon">${group.icon}</span>
+        <span class="fgh-label">${group.label}</span>
+      </div>
+      <div class="fgh-right">
+        <button class="fgh-toggle active" data-group="${group.id}">All</button>
+        <span class="fgh-chevron">▼</span>
+      </div>`;
+
+    // "All" toggle for group
+    header.querySelector('.fgh-toggle').addEventListener('click', e => {
+      e.stopPropagation();
+      toggleGroup(group.id, cats.map(c => c.id));
+    });
+
+    // Expand/collapse
+    header.addEventListener('click', () => groupEl.classList.toggle('open'));
+
+    // Sub-category pills
+    const subcats = document.createElement('div');
+    subcats.className = 'filter-subcats';
+    cats.forEach(cat => {
+      const pill = document.createElement('button');
+      pill.className   = 'subcat-pill';
+      pill.dataset.cat = cat.id;
+      pill.innerHTML   = `<span class="sp-icon">${cat.icon}</span>${cat.label.split('/')[0].trim()}`;
+      pill.addEventListener('click', e => { e.stopPropagation(); toggleCat(cat.id); });
+      subcats.appendChild(pill);
+    });
+
+    groupEl.appendChild(header);
+    groupEl.appendChild(subcats);
+    panel.appendChild(groupEl);
   });
 }
 
-function refreshPills() {
-  document.querySelectorAll('.cat-pill').forEach(p => {
-    if (p.dataset.cat === 'all') p.classList.toggle('active', activeFilters.size === 0);
-    else p.classList.toggle('active', activeFilters.has(p.dataset.cat));
+function toggleGroup(groupId, catIds) {
+  // If any visible → hide all; if all hidden → show all
+  const anyVisible = catIds.some(id => !activeFilters.has(id));
+  catIds.forEach(id => anyVisible ? activeFilters.add(id) : activeFilters.delete(id));
+  refreshFilterUI();
+  renderList();
+}
+
+function toggleCat(catId) {
+  activeFilters.has(catId) ? activeFilters.delete(catId) : activeFilters.add(catId);
+  refreshFilterUI();
+  renderList();
+}
+
+function refreshPills() { refreshFilterUI(); } // alias for compatibility
+
+function refreshFilterUI() {
+  // Update sub-pills
+  document.querySelectorAll('.subcat-pill').forEach(pill => {
+    pill.classList.toggle('inactive', activeFilters.has(pill.dataset.cat));
+  });
+  // Update group toggle button + header dimming
+  FILTER_GROUPS.forEach(group => {
+    const cats    = CATEGORIES.filter(c => c.group === group.id).map(c => c.id);
+    const btn     = document.querySelector(`.fgh-toggle[data-group="${group.id}"]`);
+    const header  = document.querySelector(`.filter-group[data-group="${group.id}"] .filter-group-header`);
+    if (!btn) return;
+    const allHidden = cats.every(id => activeFilters.has(id));
+    const anyHidden = cats.some(id => activeFilters.has(id));
+    btn.classList.toggle('active', !anyHidden);
+    if (header) header.classList.toggle('all-hidden', allHidden);
   });
 }
 
@@ -814,7 +924,7 @@ function renderList() {
   // Filter markers
   let filtered = markers.filter(m => {
     const matchSearch = !searchQuery || m.label.toLowerCase().includes(searchQuery);
-    const matchCat    = activeFilters.size === 0 || activeFilters.has(m.cat);
+    const matchCat    = !activeFilters.has(m.cat);
     return matchSearch && matchCat;
   });
 
