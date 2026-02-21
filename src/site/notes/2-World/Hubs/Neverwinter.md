@@ -10,6 +10,8 @@
 **Region:** [[2-World/Regions/Sword Coast\|Sword Coast]]
 **Category:** City (+1500)
 
+#### [View the Neverwinter Interactive Map](https://www.neverwood.co.uk/neverwinter-map/)
+
 ## Description
 Neverwinter, also called the *City of Skilled Hands*, is a major city-state in [[2-World/Regions/The North\|The North]] of [[2-World/Continents/Faerûn\|Faerûn]]. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in the North.
 
@@ -93,50 +95,45 @@ Several groups influence Neverwinter’s politics and power:
 Neverwinter’s emblem is three white snowflakes enclosed in silver and blue halos, arranged vertically in a swirl as if falling. It symbolizes grace, craftsmanship, and endurance — qualities the people of Neverwinter hold dear.
 ![Pasted image 20251023232515.png|200](/img/user/z_Assets/website/Pasted%20image%2020251023232515.png)
 
-
-# Travel
-
-
-
-8 hrs per day
-Exhaustion Level: 0
-
-| Destination           | Travel Days     |
-| --------------------- | --------------- |
-| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 🕓: 3.2 Walking |
-| [[2-World/Hubs/Xvart Village\|Xvart Village]]     | 🕓: 2.6 Walking |
-
 # Quests
-
 | File                                                     | Status      | Date Obtained |
 | -------------------------------------------------------- | ----------- | ------------- |
 | [[2-Quests/The Pub That Crawls\|The Pub That Crawls]] | In Progress | 01 Nov, 2025  |
 
 { .block-language-dataview}
 
-# NPCs
+# Locations
+| District                                                       | Parent Location                              | Category    |
+| -------------------------------------------------------------- | -------------------------------------------- | ----------- |
+| [[2-World/Places/Blacklake District\|Blacklake District]]   | [[2-World/Hubs/Neverwinter\|Neverwinter]] | \-          |
+| [[2-World/Places/Dock Ward\|Dock Ward]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Commerce    |
+| [[2-World/Places/Nevewinter Woods\|Nevewinter Woods]]       | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Agriculture |
+| [[2-World/Places/Protector's Enclave\|Protector's Enclave]] | [[2-World/Hubs/Neverwinter\|Neverwinter]] | \-          |
+| [[2-World/Places/River District\|River District]]           | [[2-World/Hubs/Neverwinter\|Neverwinter]] | \-          |
+| [[2-World/Places/The Chasm\|The Chasm]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Industrial  |
 
-| File                                                                           | Race       | Gender     | Role              |
-| ------------------------------------------------------------------------------ | ---------- | ---------- | ----------------- |
-| [[2-World/People/Other/Vormor\|Vormor]]                                     | Half-Giant | Male       | Other             |
-| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                   | Giant      | Female     | Other             |
-| [[2-World/People/Other/Alex Fallowridge\|Alex Fallowridge]]                 | Human      | Male       | Transport Manager |
-| [[2-World/People/Neverwinter/Alise Thallas\|Alise Thallas]]                 | Changling  | Female     | Tavern Founder    |
-| [[2-World/People/Neverwinter/Baz\|Baz]]                                     | Owlin      | Male       | Tavern Manager    |
-| [[2-World/People/Neverwinter/Bellana\|Bellana]]                             | Dryad      | Female     | Tavern Manager    |
-| [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]               | Elf        | Female     | Tavern Founder    |
-| [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]               | Kor        | Male       | Tavern Ghost      |
-| [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]               | Orc        | Male       | Tavern Ghost      |
-| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                     | Elf        | Male       | Tavern Founder    |
-| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]               | Human      | Male       | Tavern Founder    |
-| [[2-World/People/Neverwinter/Grayson\|Grayson]]                             | Vampire    | Male       | Tavern Manager    |
-| [[2-World/People/Neverwinter/Kask\|Kask]]                                   | Human      | Male       | Other             |
-| [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                         | Loxodon    | Male       | Tavern Manager    |
-| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]               | Half-Orc   | Male       | Tavern Founder    |
-| [[2-World/People/Neverwinter/Vani\|Vani]]                                   | Automaton  | Other      | Tavern Manager    |
-| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male       | Other             |
-| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                       | Human      | Male       | Shop Manager      |
-| [[2-World/People/Neverwinter/Bessa Carver\|Bessa Carver]]                   | Dwarf      | Female     | Shop Manager      |
-| [[2-World/People/Neverwinter/Oswin Thatch\|Oswin Thatch]]                   | Tiefling   | Non-binary | Shop Manager      |
+{ .block-language-dataview}
+
+| Point of Interest                                                                      | Parent Location                                                                                                                         | Category |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[2-World/Points of Interest/Neverwinter/Carver & Thread\|Carver & Thread]]         | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Shop     |
+| [[2-World/Points of Interest/Neverwinter/Mira’s Marginalia\|Mira’s Marginalia]]     | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Shop     |
+| [[2-World/Points of Interest/Neverwinter/The Amber Lens\|The Amber Lens]]           | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Shop     |
+| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern   |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern   |
+| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern   |
+| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern   |
+| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern   |
+| [[2-World/Points of Interest/Neverwinter/The Silver Shuttle\|The Silver Shuttle]]   | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Shop     |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern   |
+
+{ .block-language-dataview}
+
+# NPCs
+| File                                                                           | Race       | Gender | Role  | Location                                                        |
+| ------------------------------------------------------------------------------ | ---------- | ------ | ----- | --------------------------------------------------------------- |
+| [[2-World/People/Other/Vormor\|Vormor]]                                     | Half-Giant | Male   | Other | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
+| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                   | Giant      | Female | Other | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
+| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male   | Other | [[2-World/Hubs/Neverwinter\|Neverwinter]]                    |
 
 { .block-language-dataview}

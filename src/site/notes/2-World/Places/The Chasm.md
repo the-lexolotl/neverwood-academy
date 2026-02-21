@@ -78,8 +78,11 @@ Funding for the project remains politically sensitive, with debates ongoing abou
 - “There’s a city beneath the city.”  
 
 # NPCs
-| File | Race | Gender | Role |
-| ---- | ---- | ------ | ---- |
+| File                                                             | Race    | Gender | Role           |
+| ---------------------------------------------------------------- | ------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
+| [[2-World/People/Neverwinter/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/Kask\|Kask]]                     | Human   | Male   | Other          |
 
 { .block-language-dataview}
 
