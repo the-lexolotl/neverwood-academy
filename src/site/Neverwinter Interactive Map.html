@@ -337,7 +337,7 @@ permalink: /neverwinter-map/
       <div class="toolbar">
         <button class="btn-tool" onclick="exportData()" title="Export markers as JSON">⬇ Export</button>
         <button class="btn-tool" onclick="document.getElementById('importBox').classList.toggle('visible')" title="Import markers from JSON">⬆ Import</button>
-        <button class="btn-tool btn-tool-danger" onclick="confirmClear()" title="Clear all markers">🗑 Clear</button>
+        <button class="btn-tool btn-tool-danger" onclick="confirmClear()" title="Reset to permanent markers">↺ Reset</button>
       </div>
       <div class="import-box" id="importBox">
         <textarea id="importText" placeholder="Paste exported JSON here…"></textarea>
@@ -522,7 +522,7 @@ function initMap() {
   map.on('zoomend', updateMarkerVisibility);
   buildLegend();
   buildCatSelect();
-  loadFromStorage();
+  loadMarkers();
   renderList();
 }
 
@@ -533,31 +533,90 @@ let markers    = [];
 let selectedId = null;
 let idCounter  = 0;
 let hiddenCats = new Set();
-const STORAGE_KEY = 'neverwood_neverwinter_markers';
 
 // ════════════════════════════════════════════════════════════
-// PERSISTENCE — localStorage
+// PERMANENT MARKERS — baked in, visible to all visitors
+// To update: export via the ⬇ Export button, edit as needed,
+// then replace the array below and redeploy.
+// ════════════════════════════════════════════════════════════
+const PERMANENT_MARKERS = [
+  {"id":1,"lat":2364.565076287815,"lng":4830.953529066493,"label":"Protector's Enclave","cat":"region","desc":"","slug":"world/places/protector-s-enclave/","minZoom":-5,"maxZoom":-2.5},
+  {"id":2,"lat":6585.900724267092,"lng":4480.296100471791,"label":"Blacklake District","cat":"region","desc":"","slug":"world/places/blacklake-district/","minZoom":-5,"maxZoom":-2.5},
+  {"id":3,"lat":6390.812755928231,"lng":8960.592200943582,"label":"River District","cat":"region","desc":"","slug":"world/places/river-district/","minZoom":-5,"maxZoom":-2.5},
+  {"id":4,"lat":2926.3195250829267,"lng":9646.763675790613,"label":"The Chasm","cat":"region","desc":"","slug":"world/places/the-chasm/","minZoom":-5,"maxZoom":-2.5},
+  {"id":5,"lat":4756.1101246750095,"lng":2872.502154506689,"label":"Dock Ward","cat":"region","desc":"","slug":"world/places/dock-ward/","minZoom":-5,"maxZoom":-2.5},
+  {"id":6,"lat":3504.8562587774823,"lng":7083.711402097291,"label":"The Wall","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":7,"lat":4957.925264335901,"lng":4305.389646099019,"label":"Castle Never","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":8,"lat":7359.52542630051,"lng":8604.052120876007,"label":"Shard of Moon","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":-2},
+  {"id":9,"lat":7083.711402097291,"lng":5603.733711250754,"label":"Blacklake","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":10,"lat":5812.276022233675,"lng":11927.274753958687,"label":"Cloak Tower","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":11,"lat":3908,"lng":3300,"label":"Hall of Justice","cat":"landmark","desc":"","slug":"","minZoom":-2,"maxZoom":3},
+  {"id":12,"lat":4240,"lng":1628,"label":"Moonstone Mask","cat":"tavern","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":13,"lat":6968,"lng":3896,"label":"The Tall Tale","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-tall-tale/","minZoom":-2,"maxZoom":3},
+  {"id":14,"lat":5796,"lng":6388,"label":"The Lucid Dreamer","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-lucid-dreamer/","minZoom":-2,"maxZoom":3},
+  {"id":15,"lat":7214.891242876871,"lng":8509.871722367592,"label":"The Frothing Flask","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-frothing-flask/","minZoom":-2,"maxZoom":3},
+  {"id":16,"lat":1294.9804794907204,"lng":7554.613394639372,"label":"The Rambling Toad","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-rambling-toad/","minZoom":-2,"maxZoom":3},
+  {"id":17,"lat":2781.6853416592876,"lng":4450.023829522657,"label":"The Beauty's Mirror","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-beauty-s-mirror/","minZoom":-2,"maxZoom":3},
+  {"id":18,"lat":5990.60865021243,"lng":3911.7147135239807,"label":"Carver & Thread","cat":"shop","desc":"","slug":"world/points-of-interest/neverwinter/carver-and-thread/","minZoom":-1.5,"maxZoom":3},
+  {"id":19,"lat":2293.85439816916,"lng":3894.7441507755034,"label":"Mira's Marginalia","cat":"bookshop","desc":"","slug":"world/points-of-interest/neverwinter/mira-s-marginalia/","minZoom":-1.5,"maxZoom":3},
+  {"id":20,"lat":3544.019187306976,"lng":3874.9451609022803,"label":"The Silver Shuttle","cat":"clothes","desc":"","slug":"world/points-of-interest/neverwinter/the-silver-shuttle/","minZoom":-1.5,"maxZoom":3},
+  {"id":21,"lat":3380,"lng":2576,"label":"The Amber Lens","cat":"magic","desc":"","slug":"world/points-of-interest/neverwinter/the-amber-lens/","minZoom":-1.5,"maxZoom":3},
+  {"id":24,"lat":5260,"lng":2824,"label":"Grifft Pick-up - North Docks","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1.5,"maxZoom":3},
+  {"id":25,"lat":3794,"lng":3040,"label":"Grifft Pick-up - South Docks","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":26,"lat":2730,"lng":3552,"label":"Grifft Pick-up - Enclave Park","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":28,"lat":3956,"lng":5424,"label":"Grifft Pick-up - Dragon Bridge","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":29,"lat":6320,"lng":3506,"label":"Grifft Pick-up - Blacklake West","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":30,"lat":6612,"lng":5346,"label":"Grifft Pick-up - Blacklake","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":32,"lat":7578.158494266476,"lng":8133.150128333928,"label":"Grifft Pick-up - Shard Row","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":33,"lat":7812,"lng":8970,"label":"Grifft Pick-up - Moon Row","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":35,"lat":6514,"lng":7500,"label":"Grifft Pick-up - North River","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":36,"lat":6878,"lng":8866,"label":"Grifft Pick-up - River Residential","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":37,"lat":1682,"lng":6540,"label":"Grifft Pick-up - Graveyard East","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":39,"lat":2082,"lng":5674,"label":"Grifft Pick-up - Graveyard West","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":40,"lat":1548,"lng":8606,"label":"Grifft Pick-up - Chasm South","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":41,"lat":4635.021040878475,"lng":7490.7052670800895,"label":"Grifft Pick-up - Chasm North","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":42,"lat":2697.595700133916,"lng":4826.745423556322,"label":"Grifft Pick-up - Enclave Central","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":43,"lat":1103.2560968128735,"lng":4473.568929149762,"label":"Grifft Pick-up - Southwest Gatehouse","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":44,"lat":8046.87516990291,"lng":4242.640687119285,"label":"Grifft Pick-up - Northwest Gatehouse","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":45,"lat":8614.142877859053,"lng":9152.31658362143,"label":"Grifft Pick-up - Northeast Gatehouse","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":46,"lat":6243.337353764286,"lng":10869.35303112487,"label":"Grifft Pick-up - River East/Cloak Tower","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":47,"lat":4168,"lng":1900,"label":"Grifft Pick-up - Moonstone Isle","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":48,"lat":4514,"lng":3968,"label":"Grifft Pick-up - Castle Never","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":51,"lat":5311.0790334921585,"lng":3257.6409409264243,"label":"Whalebucks - North Docks","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":52,"lat":4184.657931061988,"lng":3043.3875862269,"label":"Whalebucks - South Docks","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":54,"lat":6210,"lng":4334,"label":"Whalebucks - Blacklake","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":55,"lat":7930.9096577883165,"lng":7353.910524340094,"label":"Whalebucks - Blacklake East","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":56,"lat":8065.878415113631,"lng":9129.612380409579,"label":"Whalebucks - Northeast Gate","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":57,"lat":7085.209947489206,"lng":9118.849050181716,"label":"Whalebucks - River Row","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":58,"lat":3911.7147135239807,"lng":6259.309227063318,"label":"Whalebucks - Enclave East","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":59,"lat":3189.051583151329,"lng":4266.682317679628,"label":"Whalebucks - Enclave Central","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":60,"lat":1909.1883092036783,"lng":4753.171783135972,"label":"Whalebucks - Southwest Gate","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":61,"lat":1238.8510806388313,"lng":6984.800784560716,"label":"Whalebucks - Chasm","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":62,"lat":2508.8148596498704,"lng":9569.983176578733,"label":"Whalebucks - Overlook","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3}
+];
+
+// ════════════════════════════════════════════════════════════
+// PERSISTENCE — localStorage for admin edits only
+// Visitors always see PERMANENT_MARKERS.
+// When unlocked, admin changes are saved locally for the
+// editing session and exported via ⬇ Export to update the
+// PERMANENT_MARKERS array above.
 // ════════════════════════════════════════════════════════════
 function saveToStorage() {
   const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
     ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom })
   );
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch(e) {}
+  try { localStorage.setItem('nw_admin_draft', JSON.stringify(data)); } catch(e) {}
 }
 
-function loadFromStorage() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return;
-    const saved = JSON.parse(raw);
-    saved.forEach(d => {
-      if (d.id > idCounter) idCounter = d.id;
-      const data = { ...d, lm: null };
-      markers.push(data);
-      addLeafletMarker(data);
-    });
-    renderList();
-  } catch(e) { console.warn('Could not load saved markers:', e); }
+function loadMarkers() {
+  // Always start from the baked-in permanent set
+  PERMANENT_MARKERS.forEach(d => {
+    if (d.id > idCounter) idCounter = d.id;
+    const data = { ...d, lm: null };
+    markers.push(data);
+    addLeafletMarker(data);
+  });
 }
 
 // ════════════════════════════════════════════════════════════
@@ -603,12 +662,12 @@ function importData() {
 
 function confirmClear() {
   if (!isUnlocked) return;
-  if (!confirm('Delete all markers? This cannot be undone.')) return;
+  if (!confirm('Reset all markers back to the permanent defaults? Any unsaved additions will be lost.')) return;
   markers.forEach(m => m.lm?.remove());
   markers = []; idCounter = 0; selectedId = null;
   document.getElementById('editForm').style.display    = 'none';
   document.getElementById('noSelection').style.display = 'block';
-  saveToStorage();
+  loadMarkers();
   renderList();
 }
 
