@@ -252,37 +252,91 @@ button {
 .popup-link:hover { background: #a03030; }
 
 /* ══════════════════════════════════════
-   PINS
+   PINS — label hidden until hover
 ══════════════════════════════════════ */
 .faerun-pin {
   display: flex; flex-direction: column; align-items: center;
   filter: drop-shadow(0 2px 6px rgba(0,0,0,0.9));
   cursor: pointer;
+  position: relative;
 }
-/* SVG symbol pin */
+
 .faerun-pin .pin-symbol {
   width: 28px; height: 28px; border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
   border: 1.5px solid rgba(255,255,255,0.2);
   box-shadow: 0 2px 8px rgba(0,0,0,0.7);
   font-size: 0.85rem; line-height: 1;
+  transition: transform 0.15s, box-shadow 0.15s;
 }
-.faerun-pin .pin-label {
-  background: rgba(10,8,4,0.9); color: var(--text);
-  font-family: 'Crimson Pro', serif; font-size: 9px; font-weight: 600;
-  padding: 1px 5px; border-radius: 2px; border: 1px solid var(--gold-dim);
-  white-space: nowrap; margin-top: 2px; letter-spacing: 0.03em; line-height: 1.5;
+
+.faerun-pin:hover .pin-symbol {
+  transform: scale(1.2);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.9);
 }
-/* Region pins — no dot, just a label badge */
+
+/* Hidden label — only shown on hover via tooltip */
+.faerun-pin .pin-label { display: none; }
+
+/* Hover tooltip card */
+.faerun-pin .pin-tooltip {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%; transform: translateX(-50%);
+  background: rgba(14,12,8,0.97);
+  border: 1px solid var(--gold-dim);
+  border-radius: 5px;
+  padding: 8px 11px;
+  min-width: 150px; max-width: 230px;
+  white-space: normal;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.9);
+  z-index: 9999;
+  pointer-events: none;
+  text-align: left;
+}
+
+/* Arrow */
+.faerun-pin .pin-tooltip::after {
+  content: '';
+  position: absolute; top: 100%; left: 50%; transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--gold-dim);
+}
+
+.faerun-pin:hover .pin-tooltip { display: block; }
+
+.pin-tooltip .tt-cat {
+  font-size: 0.62rem; color: var(--gold-dim); font-style: italic;
+  margin-bottom: 3px; font-family: 'Crimson Pro', serif;
+}
+.pin-tooltip .tt-name {
+  font-family: 'Uncial Antiqua', serif; font-size: 0.82rem;
+  color: var(--gold); line-height: 1.2; margin-bottom: 5px;
+}
+.pin-tooltip .tt-desc {
+  font-size: 0.72rem; color: var(--text-dim); font-style: italic;
+  line-height: 1.4; margin-bottom: 6px;
+}
+.pin-tooltip .tt-link {
+  display: inline-block; font-size: 0.65rem;
+  color: var(--gold-dim); font-family: 'Crimson Pro', serif;
+  border-top: 1px solid var(--border); padding-top: 5px;
+  width: 100%; margin-top: 2px;
+}
+
+/* Region pins — larger, styled differently */
 .faerun-pin.pin-region .pin-symbol {
-  background: transparent; border: 1px dashed rgba(201,151,58,0.4);
-  font-size: 0.7rem;
+  background: transparent !important;
+  border: 1px dashed rgba(201,151,58,0.35);
+  font-size: 0.7rem; width: 24px; height: 24px;
 }
-.faerun-pin.pin-region .pin-label {
-  font-family: 'Uncial Antiqua', serif; font-size: 10px;
-  border-color: rgba(201,151,58,0.5); color: var(--gold);
-  background: rgba(10,8,4,0.75); letter-spacing: 0.05em;
+.faerun-pin.pin-region .pin-tooltip .tt-name {
+  font-size: 0.9rem; letter-spacing: 0.04em;
 }
+
+/* prevent Leaflet clipping the hover tooltip */
+.leaflet-marker-icon { overflow: visible !important; }
 
 /* ══════════════════════════════════════
    PASSWORD MODAL
@@ -500,7 +554,7 @@ const map = L.map('map', {
   zoomSnap: 0.25, attributionControl: false, zoomControl: true
 });
 
-const IMG_URL = 'https://www.neverwood.co.uk/img/user/z_Assets/Maps/Pasted%20image%2020250928234357.png';
+const IMG_URL = 'https://www.neverwood.co.uk/img/user/z_Assets/Maps/Sword-Coast-Map_HighRes.25.jpg';
 let imgW = 8192, imgH = 8192;
 
 const probe = new Image();
@@ -550,14 +604,30 @@ function loadMarkers() {
 // ICONS
 // ══════════════════════════════════════════════════════════════
 function makeIcon(data) {
-  const cat   = CAT_MAP[data.cat] || CATEGORIES[10];
-  const label = (data.label || '').replace(/</g,'&lt;');
+  const cat      = CAT_MAP[data.cat] || CATEGORIES[10];
   const isRegion = (data.cat === 'region' || data.cat === 'mtnrange');
+  const name     = (data.label || '').replace(/</g,'&lt;');
+  const desc     = (data.desc  || '').replace(/</g,'&lt;');
+  const url      = data.slug ? WIKI_BASE + data.slug : null;
+
+  // Build tooltip contents — only show if we have a name
+  let tooltipHtml = '';
+  if (name) {
+    tooltipHtml = `
+      <div class="pin-tooltip">
+        <div class="tt-cat">${cat.icon} ${cat.label}</div>
+        <div class="tt-name">${name}</div>
+        ${desc ? `<div class="tt-desc">${desc}</div>` : ''}
+        ${url  ? `<div class="tt-link">🔗 neverwood.co.uk/${data.slug}</div>` : ''}
+      </div>`;
+  }
+
   const html = `
     <div class="faerun-pin ${isRegion ? 'pin-region' : ''}">
       <div class="pin-symbol" style="background:${isRegion ? 'transparent' : cat.color}">${cat.icon}</div>
-      ${label ? `<div class="pin-label">${label}</div>` : ''}
+      ${tooltipHtml}
     </div>`;
+
   return L.divIcon({ className:'', html, iconAnchor:[14,14], popupAnchor:[100,-14] });
 }
 
