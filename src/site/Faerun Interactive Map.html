@@ -1,0 +1,848 @@
+---
+permalink: /faerun-map/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Faerûn — Neverwood Wiki Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Uncial+Antiqua&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #0e0c08;
+  --surface:   #1a1610;
+  --surface2:  #221e14;
+  --border:    #3a3020;
+  --gold:      #c9973a;
+  --gold-dim:  #7a5a20;
+  --red:       #8b2020;
+  --text:      #e8dfc8;
+  --text-dim:  #8a7d60;
+  --shadow:    rgba(0,0,0,0.7);
+}
+
+html, body { height: 100%; overflow: hidden; background: var(--bg); font-family: 'Crimson Pro', serif; color: var(--text); }
+.app { display: flex; height: 100vh; }
+
+/* ══════════════════════════════════════
+   SIDEBAR
+══════════════════════════════════════ */
+.sidebar {
+  width: 310px; flex-shrink: 0;
+  background: var(--surface);
+  border-right: 2px solid var(--border);
+  display: flex; flex-direction: column;
+  overflow: hidden; z-index: 500;
+  box-shadow: 4px 0 24px var(--shadow);
+  position: relative;
+}
+
+/* parchment texture overlay */
+.sidebar::before {
+  content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+  opacity: 0.6;
+}
+
+.sidebar > * { position: relative; z-index: 1; }
+
+/* Header */
+.sidebar-head {
+  padding: 16px 16px 12px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface2);
+  flex-shrink: 0;
+}
+
+.head-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+
+.sidebar-head h1 {
+  font-family: 'Uncial Antiqua', serif;
+  font-size: 1.2rem; color: var(--gold);
+  letter-spacing: 0.04em; line-height: 1.1;
+  text-shadow: 0 1px 8px rgba(201,151,58,0.4);
+}
+.sidebar-head .subtitle { font-size: 0.72rem; color: var(--text-dim); font-style: italic; margin-top: 3px; }
+
+/* Lock */
+.lock-btn {
+  flex-shrink: 0; padding: 5px 10px; border-radius: 3px;
+  border: 1px solid var(--gold-dim); background: transparent;
+  color: var(--gold-dim); font-family: 'Crimson Pro', serif;
+  font-size: 0.65rem; letter-spacing: 0.05em; cursor: pointer;
+  transition: all 0.2s; white-space: nowrap; width: auto;
+}
+.lock-btn:hover { border-color: var(--gold); color: var(--gold); background: rgba(201,151,58,0.08); }
+.lock-btn.unlocked { border-color: var(--red); color: #e05050; background: rgba(139,32,32,0.1); }
+
+/* Search */
+.search-wrap {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.search-box {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 4px; padding: 7px 10px;
+  transition: border-color 0.15s;
+}
+.search-box:focus-within { border-color: var(--gold-dim); }
+.search-box .search-icon { color: var(--text-dim); font-size: 0.85rem; flex-shrink: 0; }
+.search-box input {
+  flex: 1; background: transparent; border: none; outline: none;
+  color: var(--text); font-family: 'Crimson Pro', serif;
+  font-size: 0.88rem; min-width: 0;
+}
+.search-box input::placeholder { color: var(--text-dim); font-style: italic; }
+
+.search-meta {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-top: 7px; gap: 6px; flex-wrap: wrap;
+}
+.search-count { font-size: 0.68rem; color: var(--text-dim); font-style: italic; }
+.search-clear { font-size: 0.65rem; color: var(--gold-dim); cursor: pointer; background: none; border: none; font-family: 'Crimson Pro', serif; padding: 0; transition: color 0.15s; width: auto; flex: none; }
+.search-clear:hover { color: var(--gold); }
+
+/* Category filter pills */
+.cat-filters {
+  padding: 7px 12px 8px;
+  border-bottom: 1px solid var(--border);
+  display: flex; flex-wrap: wrap; gap: 4px;
+  flex-shrink: 0;
+}
+.cat-pill {
+  display: flex; align-items: center; gap: 3px;
+  padding: 2px 8px; border-radius: 10px; cursor: pointer;
+  font-size: 0.62rem; font-family: 'Crimson Pro', serif;
+  border: 1px solid var(--border); background: transparent;
+  color: var(--text-dim); transition: all 0.15s; user-select: none;
+  white-space: nowrap; width: auto; flex: none; letter-spacing: 0.02em;
+}
+.cat-pill:hover { border-color: var(--gold-dim); color: var(--text); }
+.cat-pill.active { background: rgba(201,151,58,0.15); border-color: var(--gold-dim); color: var(--gold); }
+.cat-pill .cp-icon { font-size: 0.8rem; }
+
+/* Results list */
+.results-list { flex: 1; overflow-y: auto; }
+.results-list::-webkit-scrollbar { width: 4px; }
+.results-list::-webkit-scrollbar-track { background: transparent; }
+.results-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+.no-results {
+  padding: 32px 20px; text-align: center;
+  color: var(--text-dim); font-style: italic; font-size: 0.85rem; line-height: 1.7;
+}
+
+/* Group headers in list */
+.list-group-header {
+  padding: 8px 14px 4px;
+  font-family: 'Uncial Antiqua', serif;
+  font-size: 0.62rem; letter-spacing: 0.1em;
+  color: var(--gold-dim); text-transform: uppercase;
+  border-top: 1px solid var(--border);
+  margin-top: 2px;
+}
+.list-group-header:first-child { border-top: none; margin-top: 0; }
+
+.result-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 14px; cursor: pointer;
+  transition: background 0.12s; border-left: 2px solid transparent;
+}
+.result-item:hover { background: rgba(201,151,58,0.06); border-left-color: var(--gold-dim); }
+.result-item.active { background: rgba(201,151,58,0.1); border-left-color: var(--gold); }
+.ri-icon { font-size: 1rem; flex-shrink: 0; width: 20px; text-align: center; }
+.ri-body { flex: 1; min-width: 0; }
+.ri-label { font-size: 0.82rem; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ri-label mark { background: rgba(201,151,58,0.25); color: var(--gold); border-radius: 2px; padding: 0 1px; }
+.ri-sub { font-size: 0.68rem; color: var(--text-dim); font-style: italic; margin-top: 1px; }
+
+/* Edit panel */
+.edit-panel {
+  padding: 12px 14px; border-top: 1px solid var(--border);
+  background: var(--surface2); flex-shrink: 0;
+  max-height: 340px; overflow-y: auto;
+}
+.edit-panel::-webkit-scrollbar { width: 3px; }
+.edit-panel::-webkit-scrollbar-thumb { background: var(--border); }
+
+.edit-panel h3 {
+  font-family: 'Uncial Antiqua', serif; font-size: 0.65rem;
+  letter-spacing: 0.1em; color: var(--gold-dim); margin-bottom: 9px; text-transform: uppercase;
+}
+.edit-panel input, .edit-panel select, .edit-panel textarea {
+  width: 100%; background: var(--bg); border: 1px solid var(--border);
+  border-radius: 3px; padding: 6px 9px; color: var(--text);
+  font-family: 'Crimson Pro', serif; font-size: 0.85rem;
+  margin-bottom: 6px; outline: none; transition: border-color 0.15s; appearance: none; resize: none;
+}
+.edit-panel input::placeholder, .edit-panel textarea::placeholder { color: var(--text-dim); opacity: 0.7; font-style: italic; }
+.edit-panel input:focus, .edit-panel select:focus, .edit-panel textarea:focus { border-color: var(--gold-dim); }
+.edit-panel select option, .edit-panel select optgroup { background: var(--surface2); color: var(--text); }
+
+.url-row { display: flex; gap: 5px; align-items: center; margin-bottom: 6px; }
+.url-prefix { font-size: 0.68rem; color: var(--text-dim); white-space: nowrap; font-style: italic; }
+.url-row input { margin-bottom: 0; flex: 1; }
+
+.zoom-row { display: flex; gap: 6px; align-items: center; margin-bottom: 6px; }
+.zoom-row label { font-size: 0.68rem; color: var(--text-dim); white-space: nowrap; font-style: italic; }
+.zoom-row input[type=number] { width: 58px; flex: none; text-align: center; }
+.zoom-row span { font-size: 0.68rem; color: var(--text-dim); }
+
+.btn-row { display: flex; gap: 6px; }
+button {
+  flex: 1; padding: 7px; border: none; border-radius: 3px;
+  font-family: 'Crimson Pro', serif; font-size: 0.78rem; letter-spacing: 0.03em;
+  cursor: pointer; transition: all 0.15s;
+}
+.btn-save { background: var(--red); color: var(--text); }
+.btn-save:hover { background: #a03030; }
+.btn-delete { background: transparent; color: var(--text-dim); border: 1px solid var(--border); flex: 0 0 auto; padding: 7px 11px; width: auto; }
+.btn-delete:hover { background: rgba(255,255,255,0.05); }
+.no-selection { font-size: 0.78rem; color: var(--text-dim); font-style: italic; line-height: 1.6; }
+
+/* Toolbar */
+.toolbar { display: flex; gap: 5px; padding: 8px 12px; border-top: 1px solid var(--border); background: var(--surface2); flex-shrink: 0; }
+.btn-tool {
+  flex: 1; padding: 5px 8px; border-radius: 3px;
+  border: 1px solid var(--border); background: transparent;
+  color: var(--text-dim); font-family: 'Crimson Pro', serif;
+  font-size: 0.65rem; letter-spacing: 0.04em; cursor: pointer;
+  transition: all 0.15s; white-space: nowrap; width: auto;
+}
+.btn-tool:hover { border-color: var(--gold-dim); color: var(--text); }
+.btn-tool-danger { border-color: rgba(139,32,32,0.5); color: #a05050; }
+.btn-tool-danger:hover { background: rgba(139,32,32,0.1); border-color: var(--red); }
+
+.import-box { display: none; padding: 8px 12px; border-top: 1px solid var(--border); background: var(--surface2); }
+.import-box.visible { display: block; }
+.import-box textarea { width: 100%; height: 72px; background: var(--bg); border: 1px solid var(--border); border-radius: 3px; padding: 6px 8px; color: var(--text); font-family: monospace; font-size: 0.72rem; outline: none; resize: vertical; }
+.import-box textarea:focus { border-color: var(--gold-dim); }
+.import-box .btn-tool { width: 100%; margin-top: 5px; flex: none; }
+
+/* ══════════════════════════════════════
+   MAP
+══════════════════════════════════════ */
+#map { flex: 1; background: #0a0e14; }
+#map.locked { cursor: default; }
+.leaflet-container { background: #0a0e14 !important; }
+.leaflet-control-zoom a { background: var(--surface2) !important; color: var(--text) !important; border-color: var(--border) !important; }
+.leaflet-control-zoom a:hover { background: var(--border) !important; }
+
+.leaflet-popup-content-wrapper {
+  background: var(--surface); border: 1px solid var(--gold-dim);
+  border-radius: 4px; box-shadow: 0 4px 24px var(--shadow);
+  font-family: 'Crimson Pro', serif; color: var(--text);
+}
+.leaflet-popup-tip { background: var(--surface); }
+.leaflet-popup-close-button { color: var(--text-dim) !important; font-size: 18px !important; top: 6px !important; right: 8px !important; }
+.leaflet-popup-content { margin: 14px 16px 12px; min-width: 180px; max-width: 260px; }
+.popup-cat { font-size: 0.68rem; color: var(--gold-dim); font-style: italic; margin-bottom: 3px; }
+.popup-title { font-family: 'Uncial Antiqua', serif; font-size: 0.95rem; color: var(--gold); margin-bottom: 6px; line-height: 1.2; }
+.popup-desc { font-size: 0.8rem; color: var(--text-dim); font-style: italic; margin-bottom: 9px; line-height: 1.5; }
+.popup-link { display: inline-block; padding: 4px 13px; background: var(--red); color: var(--text); text-decoration: none; font-family: 'Crimson Pro', serif; font-size: 0.72rem; border-radius: 3px; transition: background 0.15s; }
+.popup-link:hover { background: #a03030; }
+
+/* ══════════════════════════════════════
+   PINS
+══════════════════════════════════════ */
+.faerun-pin {
+  display: flex; flex-direction: column; align-items: center;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.9));
+  cursor: pointer;
+}
+/* SVG symbol pin */
+.faerun-pin .pin-symbol {
+  width: 28px; height: 28px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  border: 1.5px solid rgba(255,255,255,0.2);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.7);
+  font-size: 0.85rem; line-height: 1;
+}
+.faerun-pin .pin-label {
+  background: rgba(10,8,4,0.9); color: var(--text);
+  font-family: 'Crimson Pro', serif; font-size: 9px; font-weight: 600;
+  padding: 1px 5px; border-radius: 2px; border: 1px solid var(--gold-dim);
+  white-space: nowrap; margin-top: 2px; letter-spacing: 0.03em; line-height: 1.5;
+}
+/* Region pins — no dot, just a label badge */
+.faerun-pin.pin-region .pin-symbol {
+  background: transparent; border: 1px dashed rgba(201,151,58,0.4);
+  font-size: 0.7rem;
+}
+.faerun-pin.pin-region .pin-label {
+  font-family: 'Uncial Antiqua', serif; font-size: 10px;
+  border-color: rgba(201,151,58,0.5); color: var(--gold);
+  background: rgba(10,8,4,0.75); letter-spacing: 0.05em;
+}
+
+/* ══════════════════════════════════════
+   PASSWORD MODAL
+══════════════════════════════════════ */
+.modal-overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,0,0,0.85); z-index: 2000;
+  align-items: center; justify-content: center; backdrop-filter: blur(4px);
+}
+.modal-overlay.visible { display: flex; }
+.modal {
+  background: var(--surface); border: 1px solid var(--gold-dim);
+  border-radius: 6px; padding: 28px 28px 22px; width: 300px;
+  box-shadow: 0 8px 48px rgba(0,0,0,0.9); animation: mIn 0.2s ease;
+}
+@keyframes mIn { from { opacity:0; transform: scale(0.93) translateY(10px); } to { opacity:1; transform:none; } }
+.modal-seal { text-align: center; font-size: 2.2rem; margin-bottom: 10px; }
+.modal h2 { font-family: 'Uncial Antiqua', serif; font-size: 0.9rem; color: var(--gold); text-align: center; margin-bottom: 4px; letter-spacing: 0.06em; }
+.modal p { font-size: 0.78rem; color: var(--text-dim); text-align: center; font-style: italic; margin-bottom: 14px; }
+.modal input[type=password] {
+  width: 100%; background: var(--bg); border: 1px solid var(--border);
+  border-radius: 3px; padding: 9px 12px; color: var(--text);
+  font-family: 'Crimson Pro', serif; font-size: 1rem; text-align: center;
+  letter-spacing: 0.15em; outline: none; margin-bottom: 8px; transition: border-color 0.15s;
+}
+.modal input[type=password]:focus { border-color: var(--gold-dim); }
+.modal-error { text-align: center; font-size: 0.74rem; color: #e05050; font-style: italic; height: 15px; margin-bottom: 10px; }
+.modal-btns { display: flex; gap: 7px; }
+.btn-modal-ok { flex: 1; padding: 8px; background: var(--red); color: var(--text); border: none; border-radius: 3px; font-family: 'Crimson Pro', serif; font-size: 0.75rem; cursor: pointer; transition: background 0.15s; }
+.btn-modal-ok:hover { background: #a03030; }
+.btn-modal-cancel { padding: 8px 13px; background: transparent; color: var(--text-dim); border: 1px solid var(--border); border-radius: 3px; font-family: 'Crimson Pro', serif; font-size: 0.75rem; cursor: pointer; transition: background 0.15s; width: auto; flex: none; }
+.btn-modal-cancel:hover { background: rgba(255,255,255,0.05); }
+</style>
+</head>
+<body>
+
+<!-- PASSWORD MODAL -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-seal">🌍</div>
+    <h2>Cartographer's Seal</h2>
+    <p>Speak the word to unlock the atlas.</p>
+    <input type="password" id="pwInput" placeholder="••••••••" onkeydown="if(event.key==='Enter')confirmPassword()">
+    <div class="modal-error" id="modalError"></div>
+    <div class="modal-btns">
+      <button class="btn-modal-ok" onclick="confirmPassword()">Unlock</button>
+      <button class="btn-modal-cancel" onclick="closeModal()">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<div class="app">
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <div class="sidebar-head">
+      <div class="head-row">
+        <div>
+          <h1>Faerûn</h1>
+          <div class="subtitle">Neverwood Wiki — Continent Atlas</div>
+        </div>
+        <button class="lock-btn" id="lockBtn" onclick="toggleLock()">🔒 Locked</button>
+      </div>
+    </div>
+
+    <!-- SEARCH -->
+    <div class="search-wrap">
+      <div class="search-box">
+        <span class="search-icon">⚲</span>
+        <input type="text" id="searchInput" placeholder="Search locations…" oninput="onSearch()">
+      </div>
+      <div class="search-meta">
+        <span class="search-count" id="searchCount"></span>
+        <button class="search-clear" id="searchClear" onclick="clearSearch()" style="display:none">✕ Clear</button>
+      </div>
+    </div>
+
+    <!-- CATEGORY FILTER PILLS -->
+    <div class="cat-filters" id="catFilters"></div>
+
+    <!-- RESULTS -->
+    <div class="results-list" id="resultsList">
+      <div class="no-results" id="emptyState">No locations yet.<br><br>Unlock the map to begin charting Faerûn.</div>
+    </div>
+
+    <!-- EDIT PANEL -->
+    <div class="edit-panel" id="editPanel">
+      <h3>Location Details</h3>
+      <div id="editForm" style="display:none">
+        <input type="text" id="editLabel" placeholder="Location name…">
+        <select id="editCat"></select>
+        <textarea id="editDesc" rows="2" placeholder="Description (optional)…"></textarea>
+        <div class="url-row">
+          <span class="url-prefix">neverwood.co.uk/</span>
+          <input type="text" id="editSlug" placeholder="page-slug">
+        </div>
+        <div class="zoom-row">
+          <label>Zoom</label>
+          <input type="number" id="editMinZoom" min="-5" max="4" step="0.25" placeholder="min">
+          <span>→</span>
+          <input type="number" id="editMaxZoom" min="-5" max="4" step="0.25" placeholder="max">
+        </div>
+        <div class="btn-row">
+          <button class="btn-save" onclick="saveMarker()">Save</button>
+          <button class="btn-delete" onclick="deleteMarker()">✕ Delete</button>
+        </div>
+      </div>
+      <div id="noSelection" class="no-selection">Click a result or map pin to select it, or click the map to add a new location.</div>
+    </div>
+
+    <!-- TOOLBAR -->
+    <div class="toolbar">
+      <button class="btn-tool" onclick="exportData()">⬇ Export</button>
+      <button class="btn-tool" onclick="document.getElementById('importBox').classList.toggle('visible')">⬆ Import</button>
+      <button class="btn-tool btn-tool-danger" onclick="confirmReset()">↺ Reset</button>
+    </div>
+    <div class="import-box" id="importBox">
+      <textarea placeholder="Paste exported JSON here…" id="importText"></textarea>
+      <button class="btn-tool" onclick="importData()">Load Markers</button>
+    </div>
+  </div>
+
+  <!-- MAP -->
+  <div id="map"></div>
+</div>
+
+<script>
+// ══════════════════════════════════════════════════════════════
+// CATEGORIES
+// ══════════════════════════════════════════════════════════════
+const CATEGORIES = [
+  { id: 'region',    label: 'Region / Territory', icon: '🗺️',  color: '#4a6a9a', minZoom: -5,  maxZoom: -1,   group: 'Lands'      },
+  { id: 'city',      label: 'City',               icon: '🏙️',  color: '#8b6914', minZoom: -4,  maxZoom:  4,   group: 'Settlements'},
+  { id: 'town',      label: 'Town',               icon: '🏘️',  color: '#7a5a14', minZoom: -2,  maxZoom:  4,   group: 'Settlements'},
+  { id: 'village',   label: 'Village',            icon: '🏡',  color: '#5a4a14', minZoom: -1,  maxZoom:  4,   group: 'Settlements'},
+  { id: 'settlement',label: 'Settlement (Other)', icon: '⛺',  color: '#4a3a10', minZoom: -1,  maxZoom:  4,   group: 'Settlements'},
+  { id: 'port',      label: 'Port / Harbour',     icon: '⚓',  color: '#1a4a6a', minZoom: -2,  maxZoom:  4,   group: 'Settlements'},
+  { id: 'mountain',  label: 'Mountain / Peak',    icon: '⛰️',  color: '#6a6a6a', minZoom: -3,  maxZoom:  4,   group: 'Terrain'    },
+  { id: 'mtnrange',  label: 'Mountain Range',     icon: '🏔️',  color: '#5a5a5a', minZoom: -5,  maxZoom: -1,   group: 'Terrain'    },
+  { id: 'forest',    label: 'Forest / Wood',      icon: '🌲',  color: '#2a5a2a', minZoom: -4,  maxZoom:  4,   group: 'Terrain'    },
+  { id: 'water',     label: 'Body of Water',      icon: '🌊',  color: '#1a3a6a', minZoom: -5,  maxZoom:  4,   group: 'Terrain'    },
+  { id: 'landmark',  label: 'Landmark / POI',     icon: '⭐',  color: '#8a6a10', minZoom: -2,  maxZoom:  4,   group: 'Points'     },
+  { id: 'ruin',      label: 'Ruin',               icon: '🏚️',  color: '#5a4a3a', minZoom: -2,  maxZoom:  4,   group: 'Points'     },
+  { id: 'cave',      label: 'Cave / Dungeon',     icon: '🕳️',  color: '#3a2a1a', minZoom: -1,  maxZoom:  4,   group: 'Points'     },
+  { id: 'battle',    label: 'Battlefield',        icon: '⚔️',  color: '#6a1a1a', minZoom: -2,  maxZoom:  4,   group: 'Points'     },
+];
+
+const CAT_MAP   = Object.fromEntries(CATEGORIES.map(c => [c.id, c]));
+const WIKI_BASE = 'https://neverwood.co.uk/';
+
+// Groups for the filter pills
+const CAT_GROUPS = ['Lands', 'Settlements', 'Terrain', 'Points'];
+
+// ══════════════════════════════════════════════════════════════
+// PASSWORD (SHA-256 of "NW4dm1n")
+// ══════════════════════════════════════════════════════════════
+const PW_HASH = '3c665461f56b0e58ccf205767a0e35d3eaf590ddc9fc8e8b450f189b8421e2d4';
+async function hashStr(s) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s));
+  return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
+}
+
+// ══════════════════════════════════════════════════════════════
+// LOCK
+// ══════════════════════════════════════════════════════════════
+let isUnlocked = false;
+
+function toggleLock() {
+  if (isUnlocked) { lock(); }
+  else {
+    document.getElementById('modalOverlay').classList.add('visible');
+    document.getElementById('pwInput').value = '';
+    document.getElementById('modalError').textContent = '';
+    setTimeout(()=>document.getElementById('pwInput').focus(), 60);
+  }
+}
+async function confirmPassword() {
+  const h = await hashStr(document.getElementById('pwInput').value);
+  if (h === PW_HASH) { isUnlocked = true; closeModal(); applyLockState(); }
+  else {
+    document.getElementById('modalError').textContent = 'Incorrect password.';
+    document.getElementById('pwInput').value = '';
+    document.getElementById('pwInput').focus();
+  }
+}
+function closeModal() { document.getElementById('modalOverlay').classList.remove('visible'); }
+function lock() {
+  isUnlocked = false; applyLockState();
+  selectedId = null;
+  document.getElementById('editForm').style.display = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  renderList();
+}
+function applyLockState() {
+  const btn = document.getElementById('lockBtn');
+  const mapEl = document.getElementById('map');
+  if (isUnlocked) {
+    btn.textContent = '🔓 Unlocked'; btn.classList.add('unlocked');
+    mapEl.style.cursor = 'crosshair';
+    markers.forEach(m => m.lm?.dragging?.enable());
+  } else {
+    btn.textContent = '🔒 Locked'; btn.classList.remove('unlocked');
+    mapEl.style.cursor = '';
+    markers.forEach(m => m.lm?.dragging?.disable());
+  }
+}
+document.getElementById('modalOverlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+});
+
+// ══════════════════════════════════════════════════════════════
+// MAP SETUP
+// ══════════════════════════════════════════════════════════════
+const map = L.map('map', {
+  crs: L.CRS.Simple, minZoom: -5, maxZoom: 4,
+  zoomSnap: 0.25, attributionControl: false, zoomControl: true
+});
+
+const IMG_URL = 'https://www.neverwood.co.uk/img/user/z_Assets/Maps/Pasted%20image%2020250928234357.png';
+let imgW = 8192, imgH = 8192;
+
+const probe = new Image();
+probe.onload  = () => { imgW = probe.naturalWidth  || 8192; imgH = probe.naturalHeight || 8192; initMap(); };
+probe.onerror = () => initMap();
+probe.src = IMG_URL;
+
+function initMap() {
+  const bounds = [[0,0],[imgH,imgW]];
+  L.imageOverlay(IMG_URL, bounds).addTo(map);
+  map.fitBounds(bounds);
+  map.setMaxBounds([[-imgH*0.1,-imgW*0.1],[imgH*1.1,imgW*1.1]]);
+  map.on('zoomend', updateVisibility);
+  buildCatFilters();
+  buildCatSelect();
+  loadMarkers();
+  renderList();
+}
+
+// ══════════════════════════════════════════════════════════════
+// STATE
+// ══════════════════════════════════════════════════════════════
+let markers     = [];
+let selectedId  = null;
+let idCounter   = 0;
+let searchQuery = '';
+let activeFilters = new Set(); // empty = show all
+
+// ══════════════════════════════════════════════════════════════
+// PERMANENT MARKERS
+// To update: use ⬇ Export, edit, paste back here, redeploy.
+// ══════════════════════════════════════════════════════════════
+const PERMANENT_MARKERS = [
+  // Add your Faerûn markers here after placing them on the map
+];
+
+function loadMarkers() {
+  PERMANENT_MARKERS.forEach(d => {
+    if (d.id > idCounter) idCounter = d.id;
+    const data = { ...d, lm: null };
+    markers.push(data);
+    addLeafletMarker(data);
+  });
+}
+
+// ══════════════════════════════════════════════════════════════
+// ICONS
+// ══════════════════════════════════════════════════════════════
+function makeIcon(data) {
+  const cat   = CAT_MAP[data.cat] || CATEGORIES[10];
+  const label = (data.label || '').replace(/</g,'&lt;');
+  const isRegion = (data.cat === 'region' || data.cat === 'mtnrange');
+  const html = `
+    <div class="faerun-pin ${isRegion ? 'pin-region' : ''}">
+      <div class="pin-symbol" style="background:${isRegion ? 'transparent' : cat.color}">${cat.icon}</div>
+      ${label ? `<div class="pin-label">${label}</div>` : ''}
+    </div>`;
+  return L.divIcon({ className:'', html, iconAnchor:[14,14], popupAnchor:[100,-14] });
+}
+
+// ══════════════════════════════════════════════════════════════
+// ADD / RENDER MARKERS
+// ══════════════════════════════════════════════════════════════
+map.on('click', e => {
+  if (!isUnlocked) return;
+  const defaultCat = CAT_MAP['landmark'];
+  const id   = ++idCounter;
+  const data = { id, lat: e.latlng.lat, lng: e.latlng.lng, label: '', cat: defaultCat.id, desc: '', slug: '', minZoom: defaultCat.minZoom, maxZoom: defaultCat.maxZoom, lm: null };
+  markers.push(data);
+  addLeafletMarker(data);
+  selectMarker(id);
+  saveToStorage();
+  renderList();
+});
+
+function addLeafletMarker(data) {
+  if (data.lm) data.lm.remove();
+  const lm = L.marker([data.lat, data.lng], { icon: makeIcon(data), draggable: isUnlocked }).addTo(map);
+  lm.on('click', () => { if (isUnlocked) selectMarker(data.id); else if (data.label) lm.openPopup(); });
+  lm.on('dragend', ev => { if (!isUnlocked) return; data.lat = ev.target.getLatLng().lat; data.lng = ev.target.getLatLng().lng; saveToStorage(); });
+  bindPopup(lm, data);
+  data.lm = lm;
+  applyVisibility(data);
+}
+
+function bindPopup(lm, data) {
+  const cat = CAT_MAP[data.cat] || CATEGORIES[10];
+  const url = data.slug ? WIKI_BASE + data.slug : null;
+  let html = `<div class="popup-cat">${cat.icon} ${cat.label}</div>`;
+  html += `<div class="popup-title">${data.label || 'Unnamed'}</div>`;
+  if (data.desc) html += `<div class="popup-desc">${data.desc}</div>`;
+  if (url) html += `<a class="popup-link" href="${url}" target="_blank">Open Wiki →</a>`;
+  lm.bindPopup(html);
+}
+
+// ══════════════════════════════════════════════════════════════
+// VISIBILITY
+// ══════════════════════════════════════════════════════════════
+function applyVisibility(data) {
+  if (!data.lm) return;
+  const z = map.getZoom();
+  const inZoom = z >= data.minZoom && z <= data.maxZoom;
+  const el = data.lm.getElement();
+  if (el) el.style.display = inZoom ? '' : 'none';
+}
+function updateVisibility() { markers.forEach(applyVisibility); }
+
+// ══════════════════════════════════════════════════════════════
+// SELECT & EDIT
+// ══════════════════════════════════════════════════════════════
+function selectMarker(id) {
+  if (!isUnlocked) return;
+  selectedId = id;
+  const data = markers.find(m => m.id === id);
+  if (!data) return;
+  document.getElementById('editForm').style.display    = 'block';
+  document.getElementById('noSelection').style.display = 'none';
+  document.getElementById('editLabel').value   = data.label;
+  document.getElementById('editCat').value     = data.cat;
+  document.getElementById('editDesc').value    = data.desc;
+  document.getElementById('editSlug').value    = data.slug;
+  document.getElementById('editMinZoom').value = data.minZoom;
+  document.getElementById('editMaxZoom').value = data.maxZoom;
+  renderList();
+  // scroll edit panel into view
+  document.getElementById('editPanel').scrollIntoView({ behavior: 'smooth', block: 'end' });
+}
+
+document.getElementById('editCat').addEventListener('change', () => {
+  const cat = CAT_MAP[document.getElementById('editCat').value];
+  if (cat) { document.getElementById('editMinZoom').value = cat.minZoom; document.getElementById('editMaxZoom').value = cat.maxZoom; }
+});
+
+function saveMarker() {
+  const data = markers.find(m => m.id === selectedId);
+  if (!data) return;
+  data.label   = document.getElementById('editLabel').value.trim() || 'Location';
+  data.cat     = document.getElementById('editCat').value;
+  data.desc    = document.getElementById('editDesc').value.trim();
+  data.slug    = document.getElementById('editSlug').value.trim();
+  data.minZoom = parseFloat(document.getElementById('editMinZoom').value) ?? -5;
+  data.maxZoom = parseFloat(document.getElementById('editMaxZoom').value) ?? 4;
+  data.lm.setIcon(makeIcon(data));
+  bindPopup(data.lm, data);
+  applyVisibility(data);
+  saveToStorage();
+  renderList();
+}
+
+function deleteMarker() {
+  const idx = markers.findIndex(m => m.id === selectedId);
+  if (idx === -1) return;
+  markers[idx].lm.remove(); markers.splice(idx, 1);
+  selectedId = null;
+  document.getElementById('editForm').style.display    = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  saveToStorage(); renderList();
+}
+
+// ══════════════════════════════════════════════════════════════
+// SEARCH
+// ══════════════════════════════════════════════════════════════
+function onSearch() {
+  searchQuery = document.getElementById('searchInput').value.trim().toLowerCase();
+  document.getElementById('searchClear').style.display = searchQuery ? 'block' : 'none';
+  renderList();
+}
+
+function clearSearch() {
+  document.getElementById('searchInput').value = '';
+  searchQuery = '';
+  document.getElementById('searchClear').style.display = 'none';
+  renderList();
+}
+
+function highlight(text, query) {
+  if (!query) return text.replace(/</g,'&lt;');
+  const safe = text.replace(/</g,'&lt;');
+  const safeQ = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return safe.replace(new RegExp(`(${safeQ})`, 'gi'), '<mark>$1</mark>');
+}
+
+// ══════════════════════════════════════════════════════════════
+// CATEGORY FILTER PILLS
+// ══════════════════════════════════════════════════════════════
+function buildCatFilters() {
+  const wrap = document.getElementById('catFilters');
+  wrap.innerHTML = '';
+  // "All" pill
+  const allPill = document.createElement('button');
+  allPill.className = 'cat-pill active'; allPill.dataset.cat = 'all';
+  allPill.innerHTML = 'All';
+  allPill.onclick = () => { activeFilters.clear(); refreshPills(); renderList(); };
+  wrap.appendChild(allPill);
+  // One pill per category
+  CATEGORIES.forEach(cat => {
+    const p = document.createElement('button');
+    p.className = 'cat-pill'; p.dataset.cat = cat.id;
+    p.innerHTML = `<span class="cp-icon">${cat.icon}</span>${cat.label.split('/')[0].trim()}`;
+    p.onclick = () => {
+      if (activeFilters.has(cat.id)) activeFilters.delete(cat.id);
+      else activeFilters.add(cat.id);
+      refreshPills(); renderList();
+    };
+    wrap.appendChild(p);
+  });
+}
+
+function refreshPills() {
+  document.querySelectorAll('.cat-pill').forEach(p => {
+    if (p.dataset.cat === 'all') p.classList.toggle('active', activeFilters.size === 0);
+    else p.classList.toggle('active', activeFilters.has(p.dataset.cat));
+  });
+}
+
+// ══════════════════════════════════════════════════════════════
+// CATEGORY SELECT (edit form) — grouped
+// ══════════════════════════════════════════════════════════════
+function buildCatSelect() {
+  const sel = document.getElementById('editCat');
+  sel.innerHTML = '';
+  CAT_GROUPS.forEach(group => {
+    const og = document.createElement('optgroup');
+    og.label = group;
+    CATEGORIES.filter(c => c.group === group).forEach(cat => {
+      const o = document.createElement('option');
+      o.value = cat.id; o.textContent = `${cat.icon}  ${cat.label}`;
+      og.appendChild(o);
+    });
+    sel.appendChild(og);
+  });
+}
+
+// ══════════════════════════════════════════════════════════════
+// RENDER LIST
+// ══════════════════════════════════════════════════════════════
+function renderList() {
+  const list  = document.getElementById('resultsList');
+  const empty = document.getElementById('emptyState');
+
+  // Filter markers
+  let filtered = markers.filter(m => {
+    const matchSearch = !searchQuery || m.label.toLowerCase().includes(searchQuery);
+    const matchCat    = activeFilters.size === 0 || activeFilters.has(m.cat);
+    return matchSearch && matchCat;
+  });
+
+  // Update count
+  const countEl = document.getElementById('searchCount');
+  countEl.textContent = markers.length === 0 ? '' :
+    filtered.length === markers.length ? `${markers.length} locations` :
+    `${filtered.length} of ${markers.length} locations`;
+
+  list.querySelectorAll('.result-item, .list-group-header').forEach(el => el.remove());
+
+  if (filtered.length === 0) {
+    list.appendChild(empty);
+    empty.style.display = 'block';
+    empty.textContent = markers.length === 0
+      ? 'No locations yet.\n\nUnlock the map to begin charting Faerûn.'
+      : 'No locations match your search.';
+    return;
+  }
+
+  empty.style.display = 'none';
+
+  // Group by category group
+  CAT_GROUPS.forEach(group => {
+    const groupItems = filtered.filter(m => (CAT_MAP[m.cat]?.group || 'Points') === group);
+    if (groupItems.length === 0) return;
+
+    const header = document.createElement('div');
+    header.className = 'list-group-header';
+    header.textContent = group;
+    list.appendChild(header);
+
+    // Sort alphabetically within group
+    groupItems.sort((a,b) => a.label.localeCompare(b.label)).forEach(m => {
+      const cat = CAT_MAP[m.cat] || CATEGORIES[10];
+      const el  = document.createElement('div');
+      el.className  = 'result-item' + (m.id === selectedId ? ' active' : '');
+      el.dataset.id = m.id;
+      el.innerHTML  = `
+        <div class="ri-icon">${cat.icon}</div>
+        <div class="ri-body">
+          <div class="ri-label">${highlight(m.label || 'Unnamed', searchQuery)}</div>
+          <div class="ri-sub">${cat.label}</div>
+        </div>`;
+      el.addEventListener('click', () => {
+        map.setView([m.lat, m.lng], Math.max(map.getZoom(), 0));
+        if (isUnlocked) selectMarker(m.id);
+        else if (m.label) m.lm?.openPopup();
+      });
+      list.appendChild(el);
+    });
+  });
+}
+
+// ══════════════════════════════════════════════════════════════
+// STORAGE (admin session only — for editing workflow)
+// ══════════════════════════════════════════════════════════════
+function saveToStorage() {
+  const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
+    ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }));
+  try { localStorage.setItem('nw_faerun_draft', JSON.stringify(data)); } catch(e) {}
+}
+
+// ══════════════════════════════════════════════════════════════
+// EXPORT / IMPORT / RESET
+// ══════════════════════════════════════════════════════════════
+function exportData() {
+  const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
+    ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }));
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a'); a.href = url; a.download = 'faerun-markers.json'; a.click();
+  URL.revokeObjectURL(url);
+}
+
+function importData() {
+  try {
+    const saved = JSON.parse(document.getElementById('importText').value.trim());
+    if (!Array.isArray(saved)) throw new Error();
+    markers.forEach(m => m.lm?.remove()); markers = []; idCounter = 0;
+    saved.forEach(d => {
+      if (d.id > idCounter) idCounter = d.id;
+      const data = { ...d, lm: null }; markers.push(data); addLeafletMarker(data);
+    });
+    saveToStorage(); renderList();
+    document.getElementById('importBox').classList.remove('visible');
+    document.getElementById('importText').value = '';
+  } catch(e) { alert('Invalid JSON. Please paste a valid exported marker file.'); }
+}
+
+function confirmReset() {
+  if (!isUnlocked) return;
+  if (!confirm('Reset to permanent markers? Unsaved changes will be lost.')) return;
+  markers.forEach(m => m.lm?.remove()); markers = []; idCounter = 0; selectedId = null;
+  document.getElementById('editForm').style.display    = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  loadMarkers(); renderList();
+}
+</script>
+</body>
+</html>
