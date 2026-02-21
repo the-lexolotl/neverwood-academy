@@ -6,13 +6,12 @@
 
 
 # General Info
-![Pasted image 20250928234357.png](/img/user/z_Assets/Maps/Pasted%20image%2020250928234357.png)
+![Sword-Coast-Map_HighRes.25.jpg](/img/user/z_Assets/Maps/Sword-Coast-Map_HighRes.25.jpg)
 The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]], Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
 
-See [[2-World/Continents/Faerun Interactive Map\|Faerun Interactive Map]]
+#### [Visit the Faerûn Interactive Map](https://www.neverwood.co.uk/faerun-map)
 
 # Geography of Faerûn
-
 The continent features terrain as varied as any other. Alongside the western and southern coastlines, the most dominant feature is the **Sea of Fallen Stars**. This irregular inland sea keeps the interior lands fertile, connects the western and eastern regions of Faerûn, and serves as a major trade route for many of the bordering nations.
 
 The **Shaar** follows in significance — a broad region of southern grasslands which, together with the **Lake of Steam**, separates the inland sea from the southern coastal nations. To the east lies a vast region of steppes stretching from Kara-Tur, while the north holds massive glaciers (Pelvuria and Reghed) and wide tundra. South of the continent, across the Great Sea, is the sub-tropical land of **Zakhara**.
