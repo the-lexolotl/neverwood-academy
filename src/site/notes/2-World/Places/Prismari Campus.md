@@ -3,12 +3,10 @@
 ---
 
 
+![map-1.3 -prismari-campus.jpg|500](/img/user/z_Assets/Maps/Campus%20Maps/map-1.3%20-prismari-campus.jpg)
 # General
 
-![map-1.3.jpg|500](/img/user/z_Assets/Maps/Campus%20Maps/map-1.3.jpg)
-
 **Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
 **Category:** College Campus 
 
 ### Description

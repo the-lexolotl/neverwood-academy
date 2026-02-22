@@ -18,10 +18,10 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 
 | File                                                                                               | Race       | Gender     | Role                  |
 | -------------------------------------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                   | Human      | Male       | College Dean          |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                   | Human      | Male       | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]           | Leonin     | Male       | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |

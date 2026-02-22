@@ -102,8 +102,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | File                                                     | Category      |
 | -------------------------------------------------------- | ------------- |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]         | Village +80   |
-| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | Magic Academy |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]             | City +1500    |
+| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | Magic Academy |
 
 { .block-language-dataview}
 
@@ -122,8 +122,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]                       | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]                         | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            |
-| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
+| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
@@ -152,11 +152,6 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | File                                                                                                                    | Category             |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Magic Academy        |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
@@ -179,8 +174,13 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
 | [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
-| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
+| [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
 
 { .block-language-dataview}
 

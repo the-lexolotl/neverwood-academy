@@ -86,8 +86,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Nils\|Nils]]                                      | Human                  | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                        | Kenku                  | Non-binary | Silverquill | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                                      | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                    | Human                  | Male       | Silverquill | Professor of Shadow        |
@@ -100,8 +100,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                | Elf                    | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                | Firbolg                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                      | Dryad                  | Female     | Witherbloom | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                          | Treant                 | Female     | Witherbloom | Professor of Growth        |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                    | Human                  | Male       | Witherbloom | Veteran                    |
 
 { .block-language-dataview}

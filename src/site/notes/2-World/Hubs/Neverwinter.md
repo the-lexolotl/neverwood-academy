@@ -130,10 +130,12 @@ Neverwinter’s emblem is three white snowflakes enclosed in silver and blue hal
 { .block-language-dataview}
 
 # NPCs
-| File                                                                           | Race       | Gender | Role  | Location                                                        |
-| ------------------------------------------------------------------------------ | ---------- | ------ | ----- | --------------------------------------------------------------- |
-| [[2-World/People/Other/Vormor\|Vormor]]                                     | Half-Giant | Male   | Other | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
-| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                   | Giant      | Female | Other | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
-| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male   | Other | [[2-World/Hubs/Neverwinter\|Neverwinter]]                    |
+| File                                                                           | Race       | Gender | Role              | Location                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------ | ---------- | ------ | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-World/People/Other/Vormor\|Vormor]]                                     | Half-Giant | Male   | Other             | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                                                                                                                                                                       |
+| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                   | Giant      | Female | Other             | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                                                                                                                                                                       |
+| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]] | Human      | Male   | Other             | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                                                                                                                          |
+| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                       | Human      | Male   | Shop Manager      | <ul><li>[[2-World/Points of Interest/Neverwinter/The Silver Shuttle.md\\|The Silver Shuttle]]</li><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
+| [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]           | Human      | Male   | Transport Manager | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                                                                                                                          |
 
 { .block-language-dataview}
