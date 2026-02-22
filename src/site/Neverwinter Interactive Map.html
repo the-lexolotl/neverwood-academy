@@ -1,7 +1,6 @@
 ---
 permalink: /neverwinter-map/
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,26 +67,63 @@ permalink: /neverwinter-map/
   .lock-btn.unlocked { border-color: var(--red); color: var(--red); background: rgba(139,26,26,0.08); }
   .lock-btn.unlocked:hover { background: rgba(139,26,26,0.15); }
 
-  /* ── CATEGORY LEGEND ── */
-  .legend {
-    padding: 8px 10px;
-    border-bottom: 1px solid var(--gold);
+  /* ── ACCORDION FILTER ── */
+  .filter-panel {
+    border-bottom: 2px solid var(--gold);
     background: var(--parchment);
     flex-shrink: 0;
-    display: flex; flex-wrap: wrap; gap: 5px;
+    overflow-y: auto;
+    max-height: 220px;
   }
+  .filter-panel::-webkit-scrollbar { width: 3px; }
+  .filter-panel::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 2px; }
 
-  .legend-item {
-    display: flex; align-items: center; gap: 4px;
-    font-size: 0.65rem; font-family: 'Cinzel', serif;
-    color: var(--ink-light); cursor: pointer;
-    padding: 3px 7px; border-radius: 3px;
-    border: 1px solid transparent;
-    transition: all 0.15s; user-select: none;
+  .filter-group { border-bottom: 1px solid rgba(160,116,42,0.25); }
+  .filter-group:last-child { border-bottom: none; }
+
+  .filter-group-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 7px 12px; cursor: pointer; user-select: none;
+    transition: background 0.15s;
   }
-  .legend-item:hover { background: rgba(160,116,42,0.1); border-color: rgba(160,116,42,0.3); }
-  .legend-item.hidden-cat { opacity: 0.35; }
-  .legend-icon { font-size: 0.9rem; line-height: 1; }
+  .filter-group-header:hover { background: rgba(160,116,42,0.08); }
+
+  .filter-group-header.all-hidden { opacity: 0.5; }
+
+  .fgh-left { display: flex; align-items: center; gap: 7px; }
+  .fgh-icon { font-size: 1rem; line-height: 1; }
+  .fgh-label { font-family: 'Cinzel', serif; font-size: 0.7rem; color: var(--ink); letter-spacing: 0.04em; }
+
+  .fgh-right { display: flex; align-items: center; gap: 8px; }
+  .fgh-toggle {
+    font-size: 0.6rem; font-family: 'Cinzel', serif; color: var(--gold);
+    border: 1px solid rgba(160,116,42,0.4); border-radius: 2px;
+    padding: 2px 6px; cursor: pointer; white-space: nowrap;
+    transition: all 0.15s; background: transparent;
+    flex: none; width: auto; letter-spacing: 0.03em;
+  }
+  .fgh-toggle:hover { background: rgba(160,116,42,0.15); }
+  .fgh-toggle.active { background: var(--gold); color: var(--parchment); border-color: var(--gold); }
+
+  .fgh-chevron { font-size: 0.6rem; color: var(--gold); transition: transform 0.2s; flex: none; }
+  .filter-group.open .fgh-chevron { transform: rotate(180deg); }
+
+  .filter-subcats {
+    display: none; padding: 4px 10px 8px 32px; gap: 4px;
+    flex-wrap: wrap;
+  }
+  .filter-group.open .filter-subcats { display: flex; }
+
+  .subcat-pill {
+    display: flex; align-items: center; gap: 3px;
+    font-size: 0.62rem; font-family: 'Cinzel', serif; color: var(--ink-light);
+    padding: 2px 8px; border-radius: 10px; border: 1px solid rgba(160,116,42,0.35);
+    cursor: pointer; transition: all 0.15s; user-select: none;
+    background: transparent; white-space: nowrap; width: auto; flex: none; letter-spacing: 0.02em;
+  }
+  .subcat-pill:hover { background: rgba(160,116,42,0.1); }
+  .subcat-pill.hidden-cat { opacity: 0.35; text-decoration: line-through; }
+  .subcat-pill .sp-icon { font-size: 0.8rem; }
 
   /* ── MARKER LIST ── */
   .marker-list { flex: 1; overflow-y: auto; padding: 8px; }
@@ -147,6 +183,36 @@ permalink: /neverwinter-map/
 
   .no-selection { font-size: 0.78rem; color: var(--ink-light); font-style: italic; line-height: 1.5; }
 
+  /* ── TOOLBAR ── */
+  .toolbar { display: flex; gap: 5px; margin-top: 10px; }
+  .btn-tool {
+    flex: 1; padding: 5px 8px; border-radius: 3px;
+    border: 1px solid var(--gold); background: transparent;
+    color: var(--ink-light); font-family: 'Cinzel', serif;
+    font-size: 0.6rem; letter-spacing: 0.04em; cursor: pointer;
+    transition: all 0.15s; white-space: nowrap; width: auto;
+  }
+  .btn-tool:hover { background: rgba(160,116,42,0.15); color: var(--ink); }
+  .btn-tool-danger { border-color: rgba(139,26,26,0.4); color: #8b1a1a; }
+  .btn-tool-danger:hover { background: rgba(139,26,26,0.1); }
+
+  .import-box { display: none; margin-top: 8px; }
+  .import-box.visible { display: block; }
+  .import-box textarea {
+    width: 100%; height: 80px; background: var(--parchment);
+    border: 1px solid var(--gold); border-radius: 3px;
+    padding: 6px 8px; color: var(--ink); font-family: monospace;
+    font-size: 0.72rem; resize: vertical; outline: none;
+  }
+  .import-box textarea:focus { border-color: var(--red); }
+
+  /* ── DRAG REORDER ── */
+  .marker-item { position: relative; }
+  .marker-item[draggable=true] { cursor: grab; }
+  .marker-item.drag-over { border-color: var(--gold) !important; background: rgba(160,116,42,0.15) !important; }
+  .drag-handle { font-size: 0.75rem; color: var(--gold); opacity: 0.5; flex-shrink: 0; align-self: center; padding-right: 2px; cursor: grab; user-select: none; }
+  .drag-handle:hover { opacity: 1; }
+
   /* ── MAP ── */
   #map { flex: 1; background: #1a1208; cursor: crosshair; }
   #map.locked { cursor: default; }
@@ -171,7 +237,6 @@ permalink: /neverwinter-map/
 
   /* ── CUSTOM PIN MARKERS ── */
   .map-pin { display: flex; flex-direction: column; align-items: center; cursor: pointer; filter: drop-shadow(0 2px 5px rgba(0,0,0,0.8)); }
-  .map-pin .pin-icon { font-size: 1.4rem; line-height: 1; }
   .map-pin .pin-bg {
     width: 30px; height: 30px; border-radius: 50% 50% 50% 0;
     transform: rotate(-45deg); display: flex; align-items: center;
@@ -184,6 +249,26 @@ permalink: /neverwinter-map/
     font-family: 'Cinzel', serif; font-size: 9px; font-weight: 600;
     padding: 2px 6px; border-radius: 2px; border: 1px solid var(--gold);
     white-space: nowrap; margin-top: 2px; letter-spacing: 0.04em; line-height: 1.5;
+  }
+
+  /* Image-based pin (Whalebucks etc.) */
+  .map-pin-img .pin-img-wrap {
+    width: 36px; height: 36px; border-radius: 50%;
+    overflow: hidden; border: 2px solid var(--gold);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.7);
+    background: #000;
+  }
+  .map-pin-img .pin-img-wrap img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+
+  /* Full-shape image pin (Grifft — already pin-shaped, no crop) */
+  .map-pin-raw .pin-img-wrap {
+    width: 40px; height: 48px;
+  }
+  .map-pin-raw .pin-img-wrap img {
+    width: 100%; height: 100%; object-fit: contain;
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.8));
   }
 
   /* ── PASSWORD MODAL ── */
@@ -248,10 +333,19 @@ permalink: /neverwinter-map/
         <button class="lock-btn" id="lockBtn" onclick="toggleLock()">🔒 Locked</button>
       </div>
       <div class="hint" id="hintText">Click 🔒 to unlock editing.</div>
+      <div class="toolbar">
+        <button class="btn-tool" onclick="exportData()" title="Export markers as JSON">⬇ Export</button>
+        <button class="btn-tool" onclick="document.getElementById('importBox').classList.toggle('visible')" title="Import markers from JSON">⬆ Import</button>
+        <button class="btn-tool btn-tool-danger" onclick="confirmClear()" title="Reset to permanent markers">↺ Reset</button>
+      </div>
+      <div class="import-box" id="importBox">
+        <textarea id="importText" placeholder="Paste exported JSON here…"></textarea>
+        <button class="btn-tool" style="width:100%;margin-top:4px" onclick="importData()">Load Markers</button>
+      </div>
     </div>
 
-    <!-- CATEGORY LEGEND (toggle visibility) -->
-    <div class="legend" id="legend"></div>
+    <!-- ACCORDION FILTER -->
+    <div class="filter-panel" id="filterPanel"></div>
 
     <!-- MARKER LIST -->
     <div class="marker-list" id="markerList">
@@ -293,15 +387,30 @@ permalink: /neverwinter-map/
 // CATEGORIES — emoji icon, colour, zoom defaults
 // ════════════════════════════════════════════════════════════
 const CATEGORIES = [
-  { id: 'region',   label: 'Region / District',            icon: '🏛️',  color: '#4a6fa5', minZoom: -5,   maxZoom:  0   },
-  { id: 'tavern',   label: 'Tavern / Inn',                 icon: '🍺',  color: '#7a4f1f', minZoom: -0.5, maxZoom:  3   },
-  { id: 'inn',      label: 'Inn / Lodging',                icon: '🛏️',  color: '#8b5e3c', minZoom: -0.5, maxZoom:  3   },
-  { id: 'food',     label: 'Food Shop',                    icon: '🥩',  color: '#b35c1e', minZoom: -0.5, maxZoom:  3   },
-  { id: 'clothes',  label: 'Clothes Shop',                 icon: '👗',  color: '#b3478a', minZoom: -0.5, maxZoom:  3   },
-  { id: 'magic',    label: 'Magic Shop',                   icon: '🔮',  color: '#5b3fa0', minZoom: -0.5, maxZoom:  3   },
-  { id: 'shop',     label: 'Shop (Other)',                 icon: '🛒',  color: '#2d6e3f', minZoom: -0.5, maxZoom:  3   },
-  { id: 'landmark', label: 'Landmark / Point of Interest', icon: '⭐',  color: '#a0742a', minZoom: -2,   maxZoom:  3   },
-  { id: 'griff',    label: 'Taxi / Griff Location',        icon: '🦅',  color: '#6b3fa0', minZoom: -1,   maxZoom:  3   },
+  { id: 'region',     label: 'Region / District',            icon: '🏛️',  color: '#4a6fa5', minZoom: -5,   maxZoom:  0,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'landmark',   label: 'Landmark / Point of Interest', icon: '⭐',  color: '#a0742a', minZoom: -2,   maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'tavern',     label: 'Tavern / Inn',                 icon: '🍺',  color: '#7a4f1f', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'inn',        label: 'Inn / Lodging',                icon: '🛏️',  color: '#8b5e3c', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'restaurant', label: 'Restaurant',                   icon: '🍽️',  color: '#c0392b', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'food',       label: 'Food Shop',                    icon: '🥩',  color: '#b35c1e', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'whalebucks', label: 'Whalebucks Coffee Co.',        icon: '☕',  color: '#7a5230', minZoom: -0.5, maxZoom:  3,   imgPin: 'https://www.neverwood.co.uk/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png',  pinStyle: 'circle' },
+  { id: 'clothes',    label: 'Clothes Shop',                 icon: '👗',  color: '#b3478a', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'magic',      label: 'Magic Shop',                   icon: '🔮',  color: '#5b3fa0', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'potion',     label: 'Potion Shop',                  icon: '⚗️',  color: '#1a7a5e', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'bookshop',   label: 'Bookshop / Library',           icon: '📚',  color: '#3d6b4f', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'shop',       label: 'Shop (Other)',                 icon: '🛒',  color: '#2d6e3f', minZoom: -0.5, maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+  { id: 'griff',      label: 'Grifft Location',              icon: '🦅',  color: '#c9973a', minZoom: -1,   maxZoom:  3,   imgPin: 'https://www.neverwood.co.uk/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT%20Pin.png', pinStyle: 'raw'    },
+  { id: 'transport',  label: 'Transport (Other)',             icon: '🚢',  color: '#2e6b8a', minZoom: -1,   maxZoom:  3,   imgPin: null,                                                                                    pinStyle: null     },
+];
+
+// ════════════════════════════════════════════════════════════
+// FILTER GROUPS — broad categories for accordion
+// ════════════════════════════════════════════════════════════
+const FILTER_GROUPS = [
+  { id: 'places',    label: 'Places',      icon: '🗺️',  cats: ['region', 'landmark'] },
+  { id: 'food',      label: 'Food & Drink',icon: '🍽️',  cats: ['tavern', 'inn', 'restaurant', 'food', 'whalebucks'] },
+  { id: 'shopping',  label: 'Shopping',    icon: '🛍️',  cats: ['clothes', 'magic', 'potion', 'bookshop', 'shop'] },
+  { id: 'transport', label: 'Transport',   icon: '🚦',  cats: ['griff', 'transport'] },
 ];
 
 const CAT_MAP = Object.fromEntries(CATEGORIES.map(c => [c.id, c]));
@@ -412,6 +521,7 @@ function initMap() {
   map.on('zoomend', updateMarkerVisibility);
   buildLegend();
   buildCatSelect();
+  loadMarkers();
   renderList();
 }
 
@@ -421,22 +531,187 @@ function initMap() {
 let markers    = [];
 let selectedId = null;
 let idCounter  = 0;
-let hiddenCats = new Set(); // categories toggled off in legend
+let hiddenCats = new Set();
+
+// ════════════════════════════════════════════════════════════
+// PERMANENT MARKERS — baked in, visible to all visitors
+// To update: export via the ⬇ Export button, edit as needed,
+// then replace the array below and redeploy.
+// ════════════════════════════════════════════════════════════
+const PERMANENT_MARKERS = [
+  {"id":1,"lat":2364.565076287815,"lng":4830.953529066493,"label":"Protector's Enclave","cat":"region","desc":"","slug":"world/places/protector-s-enclave/","minZoom":-5,"maxZoom":-2.5},
+  {"id":2,"lat":6585.900724267092,"lng":4480.296100471791,"label":"Blacklake District","cat":"region","desc":"","slug":"world/places/blacklake-district/","minZoom":-5,"maxZoom":-2.5},
+  {"id":3,"lat":6390.812755928231,"lng":8960.592200943582,"label":"River District","cat":"region","desc":"","slug":"world/places/river-district/","minZoom":-5,"maxZoom":-2.5},
+  {"id":4,"lat":2926.3195250829267,"lng":9646.763675790613,"label":"The Chasm","cat":"region","desc":"","slug":"world/places/the-chasm/","minZoom":-5,"maxZoom":-2.5},
+  {"id":5,"lat":4756.1101246750095,"lng":2872.502154506689,"label":"Dock Ward","cat":"region","desc":"","slug":"world/places/dock-ward/","minZoom":-5,"maxZoom":-2.5},
+  {"id":6,"lat":3504.8562587774823,"lng":7083.711402097291,"label":"The Wall","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":7,"lat":4957.925264335901,"lng":4305.389646099019,"label":"Castle Never","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":8,"lat":7359.52542630051,"lng":8604.052120876007,"label":"Shard of Moon","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":-2},
+  {"id":9,"lat":7083.711402097291,"lng":5603.733711250754,"label":"Blacklake","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":10,"lat":5812.276022233675,"lng":11927.274753958687,"label":"Cloak Tower","cat":"landmark","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":11,"lat":3908,"lng":3300,"label":"Hall of Justice","cat":"landmark","desc":"","slug":"","minZoom":-2,"maxZoom":3},
+  {"id":12,"lat":4240,"lng":1628,"label":"Moonstone Mask","cat":"tavern","desc":"","slug":"","minZoom":-3,"maxZoom":3},
+  {"id":13,"lat":6968,"lng":3896,"label":"The Tall Tale","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-tall-tale/","minZoom":-2,"maxZoom":3},
+  {"id":14,"lat":5796,"lng":6388,"label":"The Lucid Dreamer","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-lucid-dreamer/","minZoom":-2,"maxZoom":3},
+  {"id":15,"lat":7214.891242876871,"lng":8509.871722367592,"label":"The Frothing Flask","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-frothing-flask/","minZoom":-2,"maxZoom":3},
+  {"id":16,"lat":1294.9804794907204,"lng":7554.613394639372,"label":"The Rambling Toad","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-rambling-toad/","minZoom":-2,"maxZoom":3},
+  {"id":17,"lat":2781.6853416592876,"lng":4450.023829522657,"label":"The Beauty's Mirror","cat":"tavern","desc":"","slug":"world/points-of-interest/neverwinter/the-beauty-s-mirror/","minZoom":-2,"maxZoom":3},
+  {"id":18,"lat":5990.60865021243,"lng":3911.7147135239807,"label":"Carver & Thread","cat":"shop","desc":"","slug":"world/points-of-interest/neverwinter/carver-and-thread/","minZoom":-1.5,"maxZoom":3},
+  {"id":19,"lat":2293.85439816916,"lng":3894.7441507755034,"label":"Mira's Marginalia","cat":"bookshop","desc":"","slug":"world/points-of-interest/neverwinter/mira-s-marginalia/","minZoom":-1.5,"maxZoom":3},
+  {"id":20,"lat":3544.019187306976,"lng":3874.9451609022803,"label":"The Silver Shuttle","cat":"clothes","desc":"","slug":"world/points-of-interest/neverwinter/the-silver-shuttle/","minZoom":-1.5,"maxZoom":3},
+  {"id":21,"lat":3380,"lng":2576,"label":"The Amber Lens","cat":"magic","desc":"","slug":"world/points-of-interest/neverwinter/the-amber-lens/","minZoom":-1.5,"maxZoom":3},
+  {"id":24,"lat":5260,"lng":2824,"label":"Grifft Pick-up - North Docks","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1.5,"maxZoom":3},
+  {"id":25,"lat":3794,"lng":3040,"label":"Grifft Pick-up - South Docks","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":26,"lat":2730,"lng":3552,"label":"Grifft Pick-up - Enclave Park","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":28,"lat":3956,"lng":5424,"label":"Grifft Pick-up - Dragon Bridge","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":29,"lat":6320,"lng":3506,"label":"Grifft Pick-up - Blacklake West","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":30,"lat":6612,"lng":5346,"label":"Grifft Pick-up - Blacklake","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":32,"lat":7578.158494266476,"lng":8133.150128333928,"label":"Grifft Pick-up - Shard Row","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":33,"lat":7812,"lng":8970,"label":"Grifft Pick-up - Moon Row","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":35,"lat":6514,"lng":7500,"label":"Grifft Pick-up - North River","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":36,"lat":6878,"lng":8866,"label":"Grifft Pick-up - River Residential","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":37,"lat":1682,"lng":6540,"label":"Grifft Pick-up - Graveyard East","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":39,"lat":2082,"lng":5674,"label":"Grifft Pick-up - Graveyard West","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":40,"lat":1548,"lng":8606,"label":"Grifft Pick-up - Chasm South","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":41,"lat":4635.021040878475,"lng":7490.7052670800895,"label":"Grifft Pick-up - Chasm North","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":42,"lat":2697.595700133916,"lng":4826.745423556322,"label":"Grifft Pick-up - Enclave Central","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":43,"lat":1103.2560968128735,"lng":4473.568929149762,"label":"Grifft Pick-up - Southwest Gatehouse","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":44,"lat":8046.87516990291,"lng":4242.640687119285,"label":"Grifft Pick-up - Northwest Gatehouse","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":45,"lat":8614.142877859053,"lng":9152.31658362143,"label":"Grifft Pick-up - Northeast Gatehouse","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":46,"lat":6243.337353764286,"lng":10869.35303112487,"label":"Grifft Pick-up - River East/Cloak Tower","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":47,"lat":4168,"lng":1900,"label":"Grifft Pick-up - Moonstone Isle","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":48,"lat":4514,"lng":3968,"label":"Grifft Pick-up - Castle Never","cat":"griff","desc":"","slug":"world/businesses/grifft/","minZoom":-1,"maxZoom":3},
+  {"id":51,"lat":5311.0790334921585,"lng":3257.6409409264243,"label":"Whalebucks - North Docks","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":52,"lat":4184.657931061988,"lng":3043.3875862269,"label":"Whalebucks - South Docks","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":54,"lat":6210,"lng":4334,"label":"Whalebucks - Blacklake","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":55,"lat":7930.9096577883165,"lng":7353.910524340094,"label":"Whalebucks - Blacklake East","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":56,"lat":8065.878415113631,"lng":9129.612380409579,"label":"Whalebucks - Northeast Gate","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":57,"lat":7085.209947489206,"lng":9118.849050181716,"label":"Whalebucks - River Row","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":58,"lat":3911.7147135239807,"lng":6259.309227063318,"label":"Whalebucks - Enclave East","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":59,"lat":3189.051583151329,"lng":4266.682317679628,"label":"Whalebucks - Enclave Central","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":60,"lat":1909.1883092036783,"lng":4753.171783135972,"label":"Whalebucks - Southwest Gate","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":61,"lat":1238.8510806388313,"lng":6984.800784560716,"label":"Whalebucks - Chasm","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3},
+  {"id":62,"lat":2508.8148596498704,"lng":9569.983176578733,"label":"Whalebucks - Overlook","cat":"whalebucks","desc":"","slug":"world/businesses/whalebucks-coffee-co/","minZoom":-1.5,"maxZoom":3}
+];
+
+// ════════════════════════════════════════════════════════════
+// PERSISTENCE — localStorage for admin edits only
+// Visitors always see PERMANENT_MARKERS.
+// When unlocked, admin changes are saved locally for the
+// editing session and exported via ⬇ Export to update the
+// PERMANENT_MARKERS array above.
+// ════════════════════════════════════════════════════════════
+function saveToStorage() {
+  const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
+    ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom })
+  );
+  try { localStorage.setItem('nw_admin_draft', JSON.stringify(data)); } catch(e) {}
+}
+
+function loadMarkers() {
+  // Always start from the baked-in permanent set
+  PERMANENT_MARKERS.forEach(d => {
+    if (d.id > idCounter) idCounter = d.id;
+    const data = { ...d, lm: null };
+    markers.push(data);
+    addLeafletMarker(data);
+  });
+}
+
+// ════════════════════════════════════════════════════════════
+// EXPORT / IMPORT / CLEAR
+// ════════════════════════════════════════════════════════════
+function exportData() {
+  const data = markers.map(({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom }) =>
+    ({ id, lat, lng, label, cat, desc, slug, minZoom, maxZoom })
+  );
+  const json = JSON.stringify(data, null, 2);
+  // Copy to clipboard and offer download
+  const blob = new Blob([json], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url; a.download = 'neverwinter-markers.json'; a.click();
+  URL.revokeObjectURL(url);
+}
+
+function importData() {
+  const raw = document.getElementById('importText').value.trim();
+  if (!raw) return;
+  try {
+    const saved = JSON.parse(raw);
+    if (!Array.isArray(saved)) throw new Error('Not an array');
+    // Clear existing
+    markers.forEach(m => m.lm?.remove());
+    markers = [];
+    idCounter = 0;
+    saved.forEach(d => {
+      if (d.id > idCounter) idCounter = d.id;
+      const data = { ...d, lm: null };
+      markers.push(data);
+      addLeafletMarker(data);
+    });
+    saveToStorage();
+    renderList();
+    document.getElementById('importBox').classList.remove('visible');
+    document.getElementById('importText').value = '';
+  } catch(e) {
+    alert('Invalid JSON. Please paste a valid exported marker file.');
+  }
+}
+
+function confirmClear() {
+  if (!isUnlocked) return;
+  if (!confirm('Reset all markers back to the permanent defaults? Any unsaved additions will be lost.')) return;
+  markers.forEach(m => m.lm?.remove());
+  markers = []; idCounter = 0; selectedId = null;
+  document.getElementById('editForm').style.display    = 'none';
+  document.getElementById('noSelection').style.display = 'block';
+  loadMarkers();
+  renderList();
+}
 
 // ════════════════════════════════════════════════════════════
 // ICONS
 // ════════════════════════════════════════════════════════════
 function makeIcon(data) {
-  const cat   = CAT_MAP[data.cat] || CATEGORIES[3];
+  const cat   = CAT_MAP[data.cat] || CAT_MAP['landmark']; // landmark default
   const label = (data.label || 'New').replace(/</g,'&lt;');
-  const html  = `
-    <div class="map-pin">
-      <div class="pin-bg" style="background:${cat.color}">
-        <div class="pin-inner">${cat.icon}</div>
-      </div>
-      <div class="pin-label">${label}</div>
-    </div>`;
-  return L.divIcon({ className:'', html, iconAnchor:[15,36], popupAnchor:[75,-36] });
+
+  let pinHtml;
+
+  if (cat.imgPin && cat.pinStyle === 'raw') {
+    // Full-shape image (Grifft) — already pin-shaped, render as-is
+    pinHtml = `
+      <div class="map-pin map-pin-raw">
+        <div class="pin-img-wrap">
+          <img src="${cat.imgPin}" alt="${cat.label}">
+        </div>
+        <div class="pin-label">${label}</div>
+      </div>`;
+    return L.divIcon({ className:'', html: pinHtml, iconAnchor:[20, 46], popupAnchor:[75, -46] });
+
+  } else if (cat.imgPin && cat.pinStyle === 'circle') {
+    // Circular logo pin (Whalebucks)
+    pinHtml = `
+      <div class="map-pin map-pin-img">
+        <div class="pin-img-wrap">
+          <img src="${cat.imgPin}" alt="${cat.label}">
+        </div>
+        <div class="pin-label">${label}</div>
+      </div>`;
+    return L.divIcon({ className:'', html: pinHtml, iconAnchor:[18, 42], popupAnchor:[75, -42] });
+
+  } else {
+    // Standard emoji diamond pin
+    pinHtml = `
+      <div class="map-pin">
+        <div class="pin-bg" style="background:${cat.color}">
+          <div class="pin-inner">${cat.icon}</div>
+        </div>
+        <div class="pin-label">${label}</div>
+      </div>`;
+    return L.divIcon({ className:'', html: pinHtml, iconAnchor:[15, 36], popupAnchor:[75, -36] });
+  }
 }
 
 // ════════════════════════════════════════════════════════════
@@ -444,7 +719,7 @@ function makeIcon(data) {
 // ════════════════════════════════════════════════════════════
 map.on('click', e => {
   if (!isUnlocked) return;
-  const defaultCat = CATEGORIES[3]; // landmark default
+  const defaultCat = CAT_MAP['landmark'];
   const id   = ++idCounter;
   const data = {
     id, lat: e.latlng.lat, lng: e.latlng.lng,
@@ -455,6 +730,7 @@ map.on('click', e => {
   markers.push(data);
   addLeafletMarker(data);
   selectMarker(id);
+  saveToStorage();
   renderList();
 });
 
@@ -467,7 +743,6 @@ function addLeafletMarker(data) {
 
   lm.on('click', () => {
     if (isUnlocked) { selectMarker(data.id); return; }
-    // show popup for visitors
     if (data.label) lm.openPopup();
   });
 
@@ -475,6 +750,7 @@ function addLeafletMarker(data) {
     if (!isUnlocked) return;
     data.lat = ev.target.getLatLng().lat;
     data.lng = ev.target.getLatLng().lng;
+    saveToStorage();
   });
 
   bindPopup(lm, data);
@@ -486,7 +762,7 @@ function addLeafletMarker(data) {
 // POPUP
 // ════════════════════════════════════════════════════════════
 function bindPopup(lm, data) {
-  const cat = CAT_MAP[data.cat] || CATEGORIES[3];
+  const cat = CAT_MAP[data.cat] || CAT_MAP['landmark'];
   const url = data.slug ? WIKI_BASE + data.slug : null;
   let html  = `<div class="popup-cat">${cat.icon} ${cat.label}</div>`;
   html += `<div class="popup-title">${data.label || 'Unnamed Location'}</div>`;
@@ -507,9 +783,7 @@ function applyVisibility(data) {
   if (el) el.style.display = (!hidden && inZoom) ? '' : 'none';
 }
 
-function updateMarkerVisibility() {
-  markers.forEach(applyVisibility);
-}
+function updateMarkerVisibility() { markers.forEach(applyVisibility); }
 
 // ════════════════════════════════════════════════════════════
 // SELECT & EDIT
@@ -532,7 +806,6 @@ function selectMarker(id) {
   renderList();
 }
 
-// Auto-fill zoom defaults when category changes
 document.getElementById('editCat').addEventListener('change', () => {
   const cat = CAT_MAP[document.getElementById('editCat').value];
   if (cat) {
@@ -555,6 +828,7 @@ function saveMarker() {
   data.lm.setIcon(makeIcon(data));
   bindPopup(data.lm, data);
   applyVisibility(data);
+  saveToStorage();
   renderList();
 }
 
@@ -566,55 +840,124 @@ function deleteMarker() {
   selectedId = null;
   document.getElementById('editForm').style.display    = 'none';
   document.getElementById('noSelection').style.display = 'block';
+  saveToStorage();
   renderList();
 }
 
 // ════════════════════════════════════════════════════════════
-// LEGEND (toggle category visibility)
+// ACCORDION FILTER
 // ════════════════════════════════════════════════════════════
 function buildLegend() {
-  const legend = document.getElementById('legend');
-  legend.innerHTML = '';
-  CATEGORIES.forEach(cat => {
-    const el = document.createElement('div');
-    el.className   = 'legend-item';
-    el.dataset.cat = cat.id;
-    el.title       = 'Click to toggle visibility';
-    el.innerHTML   = `<span class="legend-icon">${cat.icon}</span><span>${cat.label.split('/')[0].trim()}</span>`;
-    el.onclick     = () => toggleCat(cat.id);
-    legend.appendChild(el);
+  const panel = document.getElementById('filterPanel');
+  panel.innerHTML = '';
+
+  FILTER_GROUPS.forEach(group => {
+    const groupEl = document.createElement('div');
+    groupEl.className  = 'filter-group';
+    groupEl.dataset.group = group.id;
+
+    // Header
+    const header = document.createElement('div');
+    header.className = 'filter-group-header';
+    header.innerHTML = `
+      <div class="fgh-left">
+        <span class="fgh-icon">${group.icon}</span>
+        <span class="fgh-label">${group.label}</span>
+      </div>
+      <div class="fgh-right">
+        <button class="fgh-toggle active" data-group="${group.id}" title="Toggle all in group">All</button>
+        <span class="fgh-chevron">▼</span>
+      </div>`;
+
+    // Toggle all button
+    header.querySelector('.fgh-toggle').addEventListener('click', e => {
+      e.stopPropagation();
+      toggleGroup(group.id, group.cats);
+    });
+
+    // Expand/collapse on header click
+    header.addEventListener('click', () => {
+      groupEl.classList.toggle('open');
+    });
+
+    // Subcategory pills
+    const subcats = document.createElement('div');
+    subcats.className = 'filter-subcats';
+
+    group.cats.forEach(catId => {
+      const cat = CAT_MAP[catId];
+      if (!cat) return;
+      const pill = document.createElement('button');
+      pill.className     = 'subcat-pill';
+      pill.dataset.cat   = catId;
+      pill.innerHTML     = `<span class="sp-icon">${cat.icon}</span>${cat.label.split('/')[0].trim()}`;
+      pill.title         = 'Click to toggle';
+      pill.addEventListener('click', e => { e.stopPropagation(); toggleCat(catId); });
+      subcats.appendChild(pill);
+    });
+
+    groupEl.appendChild(header);
+    groupEl.appendChild(subcats);
+    panel.appendChild(groupEl);
   });
 }
 
-function toggleCat(catId) {
-  if (hiddenCats.has(catId)) {
-    hiddenCats.delete(catId);
-  } else {
-    hiddenCats.add(catId);
-  }
-  // update legend item style
-  document.querySelectorAll('.legend-item').forEach(el => {
-    el.classList.toggle('hidden-cat', hiddenCats.has(el.dataset.cat));
-  });
+function toggleGroup(groupId, catIds) {
+  // If any are visible, hide all; if all hidden, show all
+  const anyVisible = catIds.some(id => !hiddenCats.has(id));
+  catIds.forEach(id => anyVisible ? hiddenCats.add(id) : hiddenCats.delete(id));
+  refreshFilterUI();
   updateMarkerVisibility();
 }
 
-// ════════════════════════════════════════════════════════════
-// CATEGORY SELECT
-// ════════════════════════════════════════════════════════════
-function buildCatSelect() {
-  const sel = document.getElementById('editCat');
-  CATEGORIES.forEach(cat => {
-    const opt   = document.createElement('option');
-    opt.value   = cat.id;
-    opt.textContent = `${cat.icon}  ${cat.label}`;
-    sel.appendChild(opt);
+function toggleCat(catId) {
+  hiddenCats.has(catId) ? hiddenCats.delete(catId) : hiddenCats.add(catId);
+  refreshFilterUI();
+  updateMarkerVisibility();
+}
+
+function refreshFilterUI() {
+  // Update subcat pills
+  document.querySelectorAll('.subcat-pill').forEach(pill => {
+    pill.classList.toggle('hidden-cat', hiddenCats.has(pill.dataset.cat));
+  });
+  // Update group-level "All" button state
+  FILTER_GROUPS.forEach(group => {
+    const btn      = document.querySelector(`.fgh-toggle[data-group="${group.id}"]`);
+    const header   = document.querySelector(`[data-group="${group.id}"]`)?.closest('.filter-group')?.querySelector('.filter-group-header');
+    if (!btn) return;
+    const allHidden = group.cats.every(id => hiddenCats.has(id));
+    btn.classList.toggle('active', !allHidden);
+    if (header) header.classList.toggle('all-hidden', allHidden);
   });
 }
 
 // ════════════════════════════════════════════════════════════
-// SIDEBAR LIST
+// CATEGORY SELECT — grouped optgroups
 // ════════════════════════════════════════════════════════════
+function buildCatSelect() {
+  const sel = document.getElementById('editCat');
+  sel.innerHTML = '';
+  FILTER_GROUPS.forEach(group => {
+    const og = document.createElement('optgroup');
+    og.label = `${group.icon} ${group.label}`;
+    group.cats.forEach(catId => {
+      const cat = CAT_MAP[catId];
+      if (!cat) return;
+      const opt = document.createElement('option');
+      opt.value = cat.id;
+      opt.textContent = `${cat.icon}  ${cat.label}`;
+      og.appendChild(opt);
+    });
+    sel.appendChild(og);
+  });
+}
+
+// ════════════════════════════════════════════════════════════
+// SIDEBAR LIST — with drag-to-reorder
+// ════════════════════════════════════════════════════════════
+let dragSrcId = null;
+
 function renderList() {
   const list  = document.getElementById('markerList');
   const empty = document.getElementById('emptyState');
@@ -629,21 +972,57 @@ function renderList() {
 
   empty.style.display = 'none';
   markers.forEach(m => {
-    const cat = CAT_MAP[m.cat] || CATEGORIES[3];
+    const cat = CAT_MAP[m.cat] || CAT_MAP['landmark'];
     const el  = document.createElement('div');
-    el.className = 'marker-item' + (m.id === selectedId ? ' active' : '');
+    el.className   = 'marker-item' + (m.id === selectedId ? ' active' : '');
+    el.dataset.id  = m.id;
+    el.draggable   = isUnlocked;
+
     el.innerHTML = `
+      ${isUnlocked ? '<div class="drag-handle" title="Drag to reorder">⠿</div>' : ''}
       <div class="mi-icon">${cat.icon}</div>
       <div class="mi-body">
         <div class="mi-label">${m.label || '<em style="opacity:.45">Unnamed</em>'}</div>
         <div class="mi-cat">${cat.label}</div>
         ${m.slug ? `<div class="mi-url">neverwood.co.uk/${m.slug}</div>` : ''}
       </div>`;
-    el.onclick = () => {
+
+    // Click to fly + select
+    el.addEventListener('click', ev => {
+      if (ev.target.classList.contains('drag-handle')) return;
       map.setView([m.lat, m.lng], Math.max(map.getZoom(), 0));
       if (isUnlocked) selectMarker(m.id);
       else if (m.label) m.lm?.openPopup();
-    };
+    });
+
+    // Drag events (only active when unlocked)
+    el.addEventListener('dragstart', ev => {
+      dragSrcId = m.id;
+      ev.dataTransfer.effectAllowed = 'move';
+      setTimeout(() => el.style.opacity = '0.4', 0);
+    });
+    el.addEventListener('dragend', () => { el.style.opacity = ''; });
+    el.addEventListener('dragover', ev => {
+      ev.preventDefault();
+      ev.dataTransfer.dropEffect = 'move';
+      list.querySelectorAll('.marker-item').forEach(e => e.classList.remove('drag-over'));
+      el.classList.add('drag-over');
+    });
+    el.addEventListener('dragleave', () => el.classList.remove('drag-over'));
+    el.addEventListener('drop', ev => {
+      ev.preventDefault();
+      el.classList.remove('drag-over');
+      if (dragSrcId === m.id) return;
+      // Reorder markers array
+      const fromIdx = markers.findIndex(x => x.id === dragSrcId);
+      const toIdx   = markers.findIndex(x => x.id === m.id);
+      if (fromIdx === -1 || toIdx === -1) return;
+      const [moved] = markers.splice(fromIdx, 1);
+      markers.splice(toIdx, 0, moved);
+      saveToStorage();
+      renderList();
+    });
+
     list.appendChild(el);
   });
 }
