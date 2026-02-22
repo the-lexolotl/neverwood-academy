@@ -640,74 +640,74 @@ let activeFilters = new Set();
 const PERMANENT_MARKERS = [
   {
     "id": 1,
-    "lat": 1197.8388873300114,
-    "lng": 1518.865365988704,
+    "lat": 961.6652224137046,
+    "lng": 1637.6593052280439,
     "label": "Central Campus",
     "cat": "region",
     "desc": "",
     "slug": "world/places/central-campus/",
     "minZoom": -5,
-    "maxZoom": 0,
+    "maxZoom": -1,
     "parentId": null
   },
   {
     "id": 2,
-    "lat": 382,
-    "lng": 2478,
+    "lat": 336.5828278447966,
+    "lng": 2599.3245276417483,
     "label": "Witherbloom Campus",
     "cat": "region",
     "desc": "",
     "slug": "world/places/witherbloom-campus/",
     "minZoom": -5,
-    "maxZoom": 0,
+    "maxZoom": -1,
     "parentId": null
   },
   {
     "id": 3,
-    "lat": 358,
-    "lng": 640,
+    "lat": 305.4701294725885,
+    "lng": 763.6753236814712,
     "label": "Prismari Campus",
     "cat": "region",
     "desc": "",
     "slug": "world/places/prismari-campus/",
     "minZoom": -5,
-    "maxZoom": 0,
+    "maxZoom": -1,
     "parentId": null
   },
   {
     "id": 4,
-    "lat": 1552,
-    "lng": 564,
+    "lat": 1516.0369388639579,
+    "lng": 701.4499269370551,
     "label": "Lorehold Campus",
     "cat": "region",
     "desc": "",
     "slug": "world/places/lorehold-campus/",
     "minZoom": -5,
-    "maxZoom": 0,
+    "maxZoom": -1,
     "parentId": null
   },
   {
     "id": 5,
-    "lat": 1888,
-    "lng": 1508,
+    "lat": 1815.850214087054,
+    "lng": 1637.6593052280439,
     "label": "Silverquill Campus",
     "cat": "region",
     "desc": "",
     "slug": "world/places/silverquill-campus/",
     "minZoom": -5,
-    "maxZoom": 0,
+    "maxZoom": -1,
     "parentId": null
   },
   {
     "id": 6,
-    "lat": 1560,
-    "lng": 2520,
+    "lat": 1513.2085117392116,
+    "lng": 2667.206778635657,
     "label": "Quandrix Campus",
     "cat": "region",
     "desc": "",
     "slug": "world/places/quandrix-campus/",
     "minZoom": -5,
-    "maxZoom": 0,
+    "maxZoom": -1,
     "parentId": null
   },
   {
@@ -1647,87 +1647,106 @@ function buildParentSelect(excludeId = null, currentParentId = null) {
 // RENDER LIST
 // ══════════════════════════════════════════════════════════════
 function getCatIcon(cat) {
-  // For Whalebucks, return an img tag instead of emoji
   if (cat.customLogo) {
     return `<img class="whalebucks-icon" src="${WHALEBUCKS_LOGO}" alt="Whalebucks">`;
   }
   return cat.icon;
 }
 
+function markerMatchesSearch(m, q) {
+  if (!q) return true;
+  return m.label.toLowerCase().includes(q) || (m.desc||'').toLowerCase().includes(q);
+}
+
 function renderList() {
   const list  = document.getElementById('resultsList');
   const empty = document.getElementById('emptyState');
+  const q     = searchQuery.trim().toLowerCase();
 
-  const q = searchQuery.trim().toLowerCase();
-
-  // When searching, find all markers (including children) that match name/desc
-  // Then also include parent markers of any matching children
-  let matchedIds = new Set();
+  // Pre-build childMap (all children, unfiltered)
+  const childMap = {};
   markers.forEach(m => {
-    const matchCat    = !activeFilters.has(m.cat);
-    const matchSearch = !q
-      || m.label.toLowerCase().includes(q)
-      || (m.desc||'').toLowerCase().includes(q);
-    if (matchSearch && matchCat) matchedIds.add(m.id);
-  });
-
-  // If a child matches, ensure its parent is also in the display set
-  markers.forEach(m => {
-    if (m.parentId && matchedIds.has(m.id)) {
-      const parent = getParent(m.parentId);
-      if (parent && !activeFilters.has(parent.cat)) matchedIds.add(parent.id);
+    if (m.parentId) {
+      if (!childMap[m.parentId]) childMap[m.parentId] = [];
+      childMap[m.parentId].push(m);
     }
   });
 
-  // All markers visible in list
-  const visible = markers.filter(m => matchedIds.has(m.id));
+  // For each top-level marker, decide whether it should appear in the list.
+  // A top-level marker is visible if:
+  //   (a) its own category is not filtered AND it matches the search query, OR
+  //   (b) it has at least one child that passes both the category filter AND the search query
+  // Children shown under a parent = those that pass category filter AND search query.
+
+  function childrenToShow(parentId) {
+    return (childMap[parentId] || []).filter(c =>
+      !activeFilters.has(c.cat) && markerMatchesSearch(c, q)
+    );
+  }
+
+  function parentShouldShow(m) {
+    const ownPass = !activeFilters.has(m.cat) && markerMatchesSearch(m, q);
+    const hasVisibleChild = childrenToShow(m.id).length > 0;
+    return ownPass || hasVisibleChild;
+  }
+
+  const topLevel = markers.filter(m => !m.parentId && parentShouldShow(m));
+
+  // Count = all individual entries visible (top-level + their visible children)
+  let totalVisible = 0;
+  topLevel.forEach(m => {
+    totalVisible++; // the parent row itself
+    totalVisible += childrenToShow(m.id).length;
+  });
 
   const countEl = document.getElementById('searchCount');
   countEl.textContent = markers.length === 0 ? '' :
-    visible.length === markers.length ? `${markers.length} locations` :
-    `${visible.length} of ${markers.length} locations`;
+    totalVisible === markers.length ? `${markers.length} locations` :
+    `${totalVisible} of ${markers.length} locations`;
 
   list.querySelectorAll('.result-item, .list-group-header').forEach(el => el.remove());
 
-  if (visible.length === 0) {
+  if (topLevel.length === 0) {
     list.appendChild(empty); empty.style.display = 'block';
     empty.textContent = markers.length === 0
       ? 'No locations yet.\n\nUnlock the map to begin charting the Academy.'
-      : 'No locations match your search.';
+      : 'No locations match your search or filters.';
     return;
   }
   empty.style.display = 'none';
 
-  // Build a childMap from ALL children (not just filtered) so parents always show their kids
-  const childMap = {};
-  markers.filter(m => m.parentId).forEach(m => {
-    if (!childMap[m.parentId]) childMap[m.parentId] = [];
-    childMap[m.parentId].push(m);
-  });
-
-  const topLevel = visible.filter(m => !m.parentId);
-
   CAT_GROUPS.forEach(group => {
     const groupItems = topLevel.filter(m => (CAT_MAP[m.cat]?.group || 'Academy Buildings') === group);
+
+    // Also check if any of this group's items are being shown because of a visible child
+    // (the parent's own cat might be filtered, but it appears due to children)
+    // We need to figure out which display-group to put orphaned parents under.
+    // Rule: group by the parent's own category group, always.
     if (!groupItems.length) return;
+
     const header = document.createElement('div');
     header.className = 'list-group-header'; header.textContent = group;
     list.appendChild(header);
 
     groupItems.sort((a,b) => a.label.localeCompare(b.label)).forEach(m => {
-      const cat = CAT_MAP[m.cat] || CATEGORIES[0];
-      const allChildren = childMap[m.id] || [];
-      const childCount  = allChildren.length;
+      const cat      = CAT_MAP[m.cat] || CATEGORIES[0];
+      const kids     = childrenToShow(m.id);
+      const allKids  = childMap[m.id] || [];
+      const childBadge = allKids.length
+        ? `<span class="ri-has-children">${kids.length < allKids.length ? `${kids.length}/` : ''}${allKids.length}</span>`
+        : '';
 
+      // Dim the parent row if its own category is filtered (visible only due to children)
+      const parentFiltered = activeFilters.has(m.cat);
       const el = document.createElement('div');
       el.className  = 'result-item' + (m.id === selectedId ? ' active' : '');
       el.dataset.id = m.id;
-      const childBadge = childCount ? `<span class="ri-has-children">+ ${childCount}</span>` : '';
+      if (parentFiltered) el.style.opacity = '0.5';
       el.innerHTML  = `
         <div class="ri-icon">${getCatIcon(cat)}</div>
         <div class="ri-body">
           <div class="ri-label">${highlight(m.label || 'Unnamed', q)}</div>
-          <div class="ri-sub">${cat.label}</div>
+          <div class="ri-sub">${cat.label}${parentFiltered ? ' · filtered' : ''}</div>
         </div>${childBadge}`;
       el.addEventListener('click', () => {
         map.setView([m.lat, m.lng], Math.max(map.getZoom(), 0));
@@ -1735,12 +1754,7 @@ function renderList() {
       });
       list.appendChild(el);
 
-      // Show children inline — all children if no search, filtered children if searching
-      const childrenToShow = q
-        ? allChildren.filter(c => matchedIds.has(c.id))
-        : allChildren;
-
-      childrenToShow.sort((a,b) => a.label.localeCompare(b.label)).forEach(child => {
+      kids.sort((a,b) => a.label.localeCompare(b.label)).forEach(child => {
         const cc = CAT_MAP[child.cat] || CATEGORIES[0];
         const cel = document.createElement('div');
         cel.className  = 'result-item' + (child.id === selectedId ? ' active' : '');
@@ -1752,7 +1766,6 @@ function renderList() {
             <div class="ri-sub">${cc.label}</div>
           </div>`;
         cel.addEventListener('click', () => {
-          // Navigate to parent's location since children have no map pin
           const parentMarker = getParent(child.parentId);
           if (parentMarker) map.setView([parentMarker.lat, parentMarker.lng], Math.max(map.getZoom(), 1));
           if (isUnlocked) selectMarker(child.id);
