@@ -57,6 +57,27 @@ GRIFFT offers both passenger and light cargo services, specialising in speed, sa
 - Express service for guilds, merchants, and adventurers
 - Optional magical containment for fragile or sensitive goods
 
+## Neverwinter Rates
+
+### Standard Passenger Trips
+- **Single trip (per passenger):** **3 gp**
+- **Multi-pass:** **12 gp** for **5 trips** (per passenger)
+
+> **Multi-pass Terms:**  
+> • Valid for **5 standard passenger trips**  
+> • **Expires 24 hours after first use**  
+> • Non-transferable  
+> • Non-refundable  
+
+Trips cover travel between official GRIFFT pick-up points within Neverwinter and its immediate service radius.
+
+### Private Hire (Griffin + Handler)
+- **12 hours:** **30 gp**
+- **24 hours:** **55 gp**
+- **Deposit:** **5 gp** (required at booking; applied to total cost)
+Includes one griffin, one handler, standard safety gear, and reasonable waiting time between short hops.
+Does not include hazardous flights (active combat zones, storms, restricted airspace), oversized cargo, or multi-griffin convoy coordination.
+
 ## Safety & Rider Experience
 - Trained griffins and experienced handlers
 - Safety harnesses and instructions provided for first-time riders
