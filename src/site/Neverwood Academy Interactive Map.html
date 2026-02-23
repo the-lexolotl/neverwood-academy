@@ -373,11 +373,37 @@ button {
   border: 6px solid transparent; border-top-color: var(--parch-dim);
 }
 .nw-pin:hover .pin-tooltip { display: block; }
+.nw-pin.tooltip-pinned .pin-tooltip {
+  display: block;
+  pointer-events: auto;
+  border-color: var(--parchment);
+  box-shadow: 0 4px 28px rgba(0,0,0,0.9), 0 0 0 1px rgba(197,193,167,0.3);
+}
+.nw-pin.tooltip-pinned .pin-tooltip::after { border-top-color: var(--parchment); }
+.pin-tooltip-close {
+  position: absolute; top: 5px; right: 7px;
+  font-size: 0.7rem; color: var(--parch-dim);
+  cursor: pointer; line-height: 1; padding: 2px 4px;
+  transition: color 0.12s;
+  font-family: 'Diphylleia', serif;
+}
+.pin-tooltip-close:hover { color: var(--parchment); }
+.pin-tooltip-pin-hint {
+  font-size: 0.55rem; color: var(--parch-dim); font-style: italic;
+  text-align: center; padding-top: 5px; margin-top: 4px;
+  border-top: 1px solid var(--border-dim);
+  font-family: 'Diphylleia', serif;
+}
+.nw-pin.tooltip-pinned .pin-tooltip .pin-tooltip-pin-hint { display: none; }
+.nw-pin:not(.tooltip-pinned) .pin-tooltip .pin-tooltip-close { display: none; }
 .pin-tooltip .tt-cat { font-size: 0.6rem; color: var(--parch-mid); font-style: italic; margin-bottom: 3px; }
 .pin-tooltip .tt-name { font-family: 'Distillery', 'Georgia', serif; font-size: 0.85rem; color: var(--parchment); line-height: 1.2; margin-bottom: 4px; letter-spacing: 0.05em; }
 .pin-tooltip .tt-desc { font-size: 0.7rem; color: var(--text-dim); font-style: italic; line-height: 1.4; margin-bottom: 5px; }
 .pin-tooltip .tt-parent { font-size: 0.6rem; color: var(--parch-dim); margin-bottom: 4px; }
 .pin-tooltip .tt-children { font-size: 0.62rem; color: var(--parch-mid); border-top: 1px solid var(--border-dim); padding-top: 5px; margin-top: 3px; }
+.pin-tooltip .tt-children-block { border-top: 1px solid var(--border-dim); padding-top: 6px; margin-top: 5px; }
+.pin-tooltip .tt-children-title { font-family: 'Distillery', 'Georgia', serif; font-size: 0.58rem; color: var(--parch-mid); letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+.pin-tooltip .tt-child-item { font-size: 0.68rem; color: var(--text); font-family: 'Diphylleia', serif; padding: 1px 0; display: flex; align-items: center; line-height: 1.3; }
 .pin-tooltip .tt-link { display: inline-block; font-size: 0.62rem; color: var(--parch-mid); border-top: 1px solid var(--border-dim); padding-top: 5px; width: 100%; margin-top: 2px; }
 
 .leaflet-marker-icon { overflow: visible !important; }
@@ -537,6 +563,33 @@ const CAT_MAP    = Object.fromEntries(CATEGORIES.map(c => [c.id, c]));
 const WHALEBUCKS_LOGO = 'https://www.neverwood.co.uk/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png';
 const WIKI_BASE  = 'https://neverwood.co.uk/';
 const CAT_GROUPS = ['Regions', 'Academy Buildings', 'Food & Drink', 'Shops'];
+
+// ══════════════════════════════════════════════════════════════
+// PINNED TOOLTIP
+// ══════════════════════════════════════════════════════════════
+let pinnedPinEl = null; // the .nw-pin DOM element currently pinned
+
+function unpinTooltip(e) {
+  if (e) e.stopPropagation();
+  if (pinnedPinEl) {
+    pinnedPinEl.classList.remove('tooltip-pinned');
+    pinnedPinEl = null;
+  }
+}
+
+function togglePinTooltip(pinEl) {
+  if (pinnedPinEl === pinEl) {
+    // Already pinned — unpin
+    unpinTooltip();
+  } else {
+    unpinTooltip(); // dismiss any existing pinned tooltip
+    pinnedPinEl = pinEl;
+    pinEl.classList.add('tooltip-pinned');
+  }
+}
+
+// Dismiss pinned tooltip when clicking the map background or pressing Escape
+document.addEventListener('keydown', e => { if (e.key === 'Escape') unpinTooltip(); });
 
 // ══════════════════════════════════════════════════════════════
 // PASSWORD (SHA-256 of "NW4dm1n")
@@ -1330,6 +1383,9 @@ function loadMarkers() {
     const data = { ...d, parentId: d.parentId || null, lm: null };
     markers.push(data); addLeafletMarker(data);
   });
+  // Rebuild icons for top-level markers now that all children are loaded,
+  // so the "Locations within" tooltip list is fully populated.
+  markers.filter(m => !m.parentId && m.lm).forEach(m => m.lm.setIcon(makeIcon(m)));
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -1354,16 +1410,32 @@ function makeIcon(data) {
   // Hover tooltip for non-region pins
   let tooltipHtml = '';
   if (name && !isRegion) {
-    const parentLine = parent   ? `<div class="tt-parent">📍 Inside: ${parent.label}</div>` : '';
-    const childLine  = children.length ? `<div class="tt-children">🏠 ${children.length} location${children.length>1?'s':''} inside</div>` : '';
+    const parentLine = parent ? `<div class="tt-parent">📍 Inside: ${parent.label}</div>` : '';
+    let childrenBlock = '';
+    if (children.length) {
+      const childItems = children.map(c => {
+        const cc = CAT_MAP[c.cat] || CATEGORIES[0];
+        const cIcon = cc.customLogo
+          ? `<img src="${WHALEBUCKS_LOGO}" style="width:12px;height:12px;border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:3px;" alt="Whalebucks">`
+          : `<span style="margin-right:3px;">${cc.icon}</span>`;
+        return `<div class="tt-child-item">${cIcon}${c.label}</div>`;
+      }).join('');
+      childrenBlock = `
+        <div class="tt-children-block">
+          <div class="tt-children-title">Locations within</div>
+          ${childItems}
+        </div>`;
+    }
     tooltipHtml = `
       <div class="pin-tooltip">
+        <span class="pin-tooltip-close" onclick="unpinTooltip(event)">✕</span>
         <div class="tt-cat">${cat.icon} ${cat.label}</div>
         <div class="tt-name">${name}</div>
         ${parentLine}
         ${desc ? `<div class="tt-desc">${desc}</div>` : ''}
-        ${childLine}
+        ${childrenBlock}
         ${url  ? `<div class="tt-link">🔗 neverwood.co.uk/${data.slug}</div>` : ''}
+        <div class="pin-tooltip-pin-hint">click pin to lock open</div>
       </div>`;
   }
 
@@ -1398,7 +1470,7 @@ function makeIcon(data) {
     : `background:${cat.color};`;
 
   const html = `
-    <div class="nw-pin ${isChild ? 'pin-child' : ''}">
+    <div class="nw-pin ${isChild ? 'pin-child' : ''}" onclick="togglePinTooltip(this)">
       <div class="pin-symbol" style="${pinStyle}">${pinInner}</div>
       ${tooltipHtml}
     </div>`;
@@ -1412,6 +1484,7 @@ function makeIcon(data) {
 // MARKERS
 // ══════════════════════════════════════════════════════════════
 map.on('click', e => {
+  unpinTooltip();
   if (!isUnlocked) return;
   const defaultCat = CAT_MAP['poi'];
   const id   = ++idCounter;
