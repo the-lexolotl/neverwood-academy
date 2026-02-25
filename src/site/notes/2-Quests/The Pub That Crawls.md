@@ -49,8 +49,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 
 | File                                                                                   | Location                                                                                                                                | Type       |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
@@ -70,8 +70,8 @@ The following people are associated with this quest.
 | [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                            | Aarakocra       | Female | Player              |
 | [[1-Party/Group 2/H'er/H'er\|H'er]]                                                    | Tiefling        | Female | Player              |
 | [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                      | Variant Aasimar | Female | Player              |
-| [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                               | Dragonborn      | Male   | Player              |
 | [[1-Party/Group 3/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]             | Minotaur        | Male   | Player              |
+| [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                               | Dragonborn      | Male   | Player              |
 | [[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]                            | Dragonborn      | Female | Player              |
 
 { .block-language-dataview}

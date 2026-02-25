@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Serafina Onyx
-> ![Pasted image 20260119193357.png](/img/user/z_Assets/character_art/Pasted%20image%2020260119193357.png)
+> ![Pasted image 20260119193357.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020260119193357.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

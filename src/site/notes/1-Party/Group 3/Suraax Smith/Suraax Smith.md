@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Player Name:  Ross
-> ![z_Assets/character_art/Suraax Smith.png](/img/user/z_Assets/character_art/Suraax%20Smith.png)
+> ![Suraax Smith 1.png](/img/user/z_Assets/character_art/Players/Suraax%20Smith%201.png)
 > ###### Basic Information
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|

@@ -4,18 +4,17 @@
 
 
 > [!infobox|left]+
-> # Ebeneezer the Strange
-> ![[Ebeneezer the Strange.avif]]
-> ###### Basic Info
-> Type |  Stat |
-> ---|---|
-> Status | Alive |
-> Race | Human |
-> Gender | Male |
-> Age | Elder |
-> Location | [[2-World/Hubs/Neverwinter\|Neverwinter]] |
-> Role | Other |
-> College | None |
+> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:19027:21)
+    at evalInContext (plugin:dataview:19028:7)
+    at asyncEvalInContext (plugin:dataview:19038:32)
+    at DataviewJSRenderer.render (plugin:dataview:19064:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
+    at e.load (app://obsidian.md/app.js:1:698509)
+    at DataviewApi.executeJs (plugin:dataview:19607:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:91:61)</pre>
 
 # Biography
 Ebeneezer the Strange has been a wizard for longer than most people have been alive, and he has never been subtle about it. Trained in formal arcane study, he spent decades moving between magical institutions, towers, and travelling circles, teaching, researching, and occasionally causing quiet scandals through sheer eccentricity.

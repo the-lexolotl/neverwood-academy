@@ -6,11 +6,11 @@
 
 ![Veyra Murgaxor.png](/img/user/z_Assets/character_art/NPCs/Veyra%20Murgaxor.png)
 
-![Pasted image 20260119193357.png](/img/user/z_Assets/character_art/Pasted%20image%2020260119193357.png)
+![Pasted image 20260119193357.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020260119193357.png)
 
-![z_Assets/character_art/Suraax Smith.png](/img/user/z_Assets/character_art/Suraax%20Smith.png)
+![Suraax Smith 1.png](/img/user/z_Assets/character_art/Players/Suraax%20Smith%201.png)
 
-![Vormor.png](/img/user/z_Assets/character_art/Vormor.png)
+![Vormor.png](/img/user/z_Assets/character_art/NPCs/Vormor.png)
 
 ![classicalminotaurforgenesis81male00maindaz3d.webp](/img/user/z_Assets/character_art/NPCs/classicalminotaurforgenesis81male00maindaz3d.webp)
 

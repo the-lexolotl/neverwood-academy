@@ -82,7 +82,7 @@ Funding for the project remains politically sensitive, with debates ongoing abou
 | ---------------------------------------------------------------- | ------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
-| [[2-World/People/Neverwinter/Kask\|Kask]]                     | Human   | Male   | Other          |
+| [[2-World/People/Neverwinter/Kask\|Kask]]                     | Burrog  | Male   | Other          |
 
 { .block-language-dataview}
 

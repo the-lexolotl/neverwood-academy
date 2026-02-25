@@ -27,8 +27,8 @@ The following people are members of this group.
 | -------------------------------------------------------------------------- | --------------- | ------ | ----------- |
 | [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]             | Aarakocra       | Female | Lorehold    |
 | [[1-Party/Group 2/H'er/H'er\|H'er]]                                     | Tiefling        | Female | Prismari    |
-| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]       | Variant Aasimar | Female | Silverquill |
 | [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]] | Human           | Male   | Quandrix    |
+| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]       | Variant Aasimar | Female | Silverquill |
 
 { .block-language-dataview}
 ![group 2.2.png](/img/user/z_Assets/character_art/Players/group%202.2.png)

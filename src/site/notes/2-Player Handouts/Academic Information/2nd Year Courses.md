@@ -10,6 +10,9 @@
 **Quests:** None
 
 ---
+#### [Apply for Second Year](https://forms.gle/bqwBvH7Kgwvs9g6UA)
+
+---
 # Compulsory Course
 #### Scrawl to the Wall: Scrivening and Symbology
 *Professor [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]*  

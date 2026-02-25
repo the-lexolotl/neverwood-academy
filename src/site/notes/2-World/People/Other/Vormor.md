@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Vormor
-> ![Vormor.png](/img/user/z_Assets/character_art/Vormor.png)
+> ![Vormor.png](/img/user/z_Assets/character_art/NPCs/Vormor.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
