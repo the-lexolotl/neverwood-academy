@@ -51,8 +51,8 @@ Additional large islands or small continents are located north-west of Maztica, 
 
 | File                                         |
 | -------------------------------------------- |
-| [[2-World/Continents/Faerûn\|Faerûn]]     |
 | [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
+| [[2-World/Continents/Faerûn\|Faerûn]]     |
 
 { .block-language-dataview}
 

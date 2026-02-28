@@ -33,10 +33,10 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                     | Dryad         | Female     | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                               | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                         | Treant        | Female     | Professor of Growth |
-| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]] | Dhampir       | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                             | Dryad         | Male       | Student             |
+| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]             | Reborn        | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                             | Dryad         | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                 | Dryad         | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                 | Human         | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                     | Tiefling      | Male       | Student             |
@@ -59,7 +59,7 @@ Make notes of what you need to track in the town here.
 | -------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]]       |
 | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]               |
-| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]       |
 | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] |
+| [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]       |
 
 { .block-language-dataview}

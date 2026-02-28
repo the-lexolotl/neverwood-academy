@@ -26,8 +26,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
 | [[2-World/People/Neverwood Academy/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Neverwood Academy/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
-| [[2-World/People/Neverwood Academy/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
 | [[2-World/People/Neverwood Academy/Staff/Melvi Le Donto\|Melvi Le Donto]]       | Human                  | Female | Lab Administrator          |
+| [[2-World/People/Neverwood Academy/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
 | [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
 | [[2-World/People/Neverwood Academy/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
@@ -35,8 +35,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
 | [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]         | Human                  | Male   | Deputy Head Teacher        |
-| [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]         | Vedalken               | Male   | General Studies Professor  |
 | [[2-World/People/Neverwood Academy/Staff/Construct V339\|Construct V339]]       | Automaton              | Other  | Automaton                  |
+| [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]         | Vedalken               | Male   | General Studies Professor  |
 | [[2-World/People/Neverwood Academy/Staff/Groff Lundquist\|Groff Lundquist]]     | Human                  | Male   | Shop Manager               |
 
 { .block-language-dataview}
@@ -45,8 +45,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 # Points of Interest
 | File                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
+| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
