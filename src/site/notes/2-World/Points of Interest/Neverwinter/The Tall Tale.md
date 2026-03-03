@@ -22,7 +22,11 @@ This sturdy pub looks like it was plucked out of a picturesque hamlet. Its weath
 { .block-language-dataview}
 # People
 
-| File | Race | Gender | Role |
-| ---- | ---- | ------ | ---- |
+| File                                                             | Race     | Gender | Role           |
+| ---------------------------------------------------------------- | -------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]] | Kor      | Male   | Tavern Ghost   |
+| [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]] | Orc      | Male   | Tavern Ghost   |
+| [[2-World/People/Neverwinter/Marcellus\|Marcellus]]           | Loxodon  | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]] | Half-Orc | Male   | Tavern Founder |
 
 { .block-language-dataview}
