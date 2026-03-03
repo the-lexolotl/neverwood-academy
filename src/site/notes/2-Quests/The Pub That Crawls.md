@@ -62,6 +62,7 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                          | Kor             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                          | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                                    | Loxodon         | Male   | Tavern Manager      |
+| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                          | Half-Orc        | Male   | Tavern Founder      |
 | [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]                | Human           | Male   | Deputy Head Teacher |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human           | Male   | Professor of Chaos  |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory |
