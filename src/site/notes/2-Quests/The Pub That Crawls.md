@@ -46,8 +46,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 # Locations
 | File                                                                                   | Location                                                                                                                                | Type       |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
@@ -59,8 +59,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 The following people are associated with this quest.
 | Character                                                                                 | Race            | Gender | Role                |
 | ----------------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
-| [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                          | Kor             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                          | Orc             | Male   | Tavern Ghost        |
+| [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                          | Kor             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                                    | Loxodon         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                          | Half-Orc        | Male   | Tavern Founder      |
 | [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]                | Human           | Male   | Deputy Head Teacher |

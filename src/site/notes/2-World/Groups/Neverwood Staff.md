@@ -58,8 +58,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                                   | Fire Genasi            | Other      | Prismari    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]               | Air Genasi             | Female     | Prismari    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]               | Dragon                 | Male       | Prismari    | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                     | Eladrin                | Female     | Prismari    | Professor of Expression    |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                       | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]]                                     | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Ahkwa\|Ahkwa]]                                       | Tortle                 | Female     | Prismari    | Professor of Perfection    |
@@ -99,8 +99,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]            | Dragonborn             | Male       | Witherbloom | Professor of Decay         |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                | Elf                    | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                | Firbolg                | Male       | Witherbloom | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                      | Dryad                  | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                                | Loxodon                | Male       | Witherbloom | Professor of Growth        |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                      | Dryad                  | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                          | Treant                 | Female     | Witherbloom | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                    | Human                  | Male       | Witherbloom | Veteran                    |
 

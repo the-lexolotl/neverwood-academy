@@ -30,9 +30,9 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin       | Male       | Veteran            |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin       | Male       | Professor of Chaos |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome       | Female     | Professor of Order |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                  | Human       | Male       | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon      | Female     | Founder Dragon     |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                  | Human       | Male       | Professor of Chaos |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                               | Loxodon     | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1508/Calla Fernbrook\|Calla Fernbrook]]                             | Satyr       | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                   | Dwarf       | Female     | Student            |
