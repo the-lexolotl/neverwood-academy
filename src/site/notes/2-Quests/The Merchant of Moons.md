@@ -39,9 +39,9 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 # People
 
 The following people are associated with this quest.
-| File                                                                 | Race            | Gender | Role   |
-| -------------------------------------------------------------------- | --------------- | ------ | ------ |
-| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]     | Tiefling        | Female | Coach  |
-| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]] | Variant Aasimar | Female | Player |
+| File                                                             | Race            | Gender | Role   |
+| ---------------------------------------------------------------- | --------------- | ------ | ------ |
+| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]] | Tiefling        | Female | Coach  |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]     | Variant Aasimar | Female | Player |
 
 { .block-language-dataview}

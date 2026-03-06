@@ -1,11 +1,11 @@
 ---
-{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Wrestling Club","aliases":["Ross Async - The Wrestling Club"],"sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2026-01-25","ingameDate":"24th Ches 1509","fc-start":"1509-04-24","fc-end":null,"players":1,"OneLiner":"Suraax starts a Wrestling club","timelines":["journal"],"aat-event-body":"A single-minded burst of administrative ambition sends Suraax charging across campus with one goal: founding a wrestling society. What follows is a whirlwind tour of the Biblioplex and the stadium, a brief but painful interruption to mage tower training, and the unlikely success of recruiting both staff sponsorship and student members in record time. By the end of the afternoon, paperwork is pending, Coach Shtomp is plotting athletic vengeance, and Suraax has secured herself a campus job — all accomplished at a dead sprint.","tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[1-Party/Group 3/Suraax Smith/Suraax Smith\|Suraax Smith]]"],"sessionAbsent":null,"sessionNPC":["[[Shtomp|Shtomp]]","[[Javenesh Stoutclaw|Javenesh Stoutclaw]]","[[Pyrus Flintbrand|Pyrus Flintbrand]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":false,"dg-show-backlinks":true,"order":38,"school_year_j":"First Year","dg-path":"Session Journals/1508-1509 - First Year/2026-01-25 - Ross Async.md","permalink":"/session-journals/1508-1509-first-year/2026-01-25-ross-async/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"image":"Pasted image 20250819074603.png","NoteIcon":"journal","aat-render-enabled":true,"fc-category":["Async"],"fc-display-name":"The Wrestling Club","aliases":["Ross Async - The Wrestling Club"],"sessionstatus":"Occurred","type":"Session Journal","sessionDate":"2026-01-25","ingameDate":"24th Ches 1509","fc-start":"1509-04-24","fc-end":null,"players":1,"OneLiner":"Suraax starts a Wrestling club","timelines":["journal"],"aat-event-body":"A single-minded burst of administrative ambition sends Suraax charging across campus with one goal: founding a wrestling society. What follows is a whirlwind tour of the Biblioplex and the stadium, a brief but painful interruption to mage tower training, and the unlikely success of recruiting both staff sponsorship and student members in record time. By the end of the afternoon, paperwork is pending, Coach Shtomp is plotting athletic vengeance, and Suraax has secured herself a campus job — all accomplished at a dead sprint.","tags":["journal","#Category/Journal"],"obsidianUIMode":"preview","sessionRoster":["[[Suraax Smith|Suraax Smith]]"],"sessionAbsent":null,"sessionNPC":["[[Shtomp|Shtomp]]","[[Javenesh Stoutclaw|Javenesh Stoutclaw]]","[[Pyrus Flintbrand|Pyrus Flintbrand]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":false,"dg-show-backlinks":true,"order":38,"school_year_j":"First Year","dg-path":"Session Journals/1508-1509 - First Year/2026-01-25 - Ross Async.md","permalink":"/session-journals/1508-1509-first-year/2026-01-25-ross-async/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 # Ross Async - The Wrestling Club
 ## Roster 
 
-[[1-Party/Group 3/Suraax Smith/Suraax Smith.md|Suraax Smith]]
+[[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]
 
 # Session Overview
 
@@ -29,7 +29,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 
 ### The Idea Takes Hold
 - Suraax decides to officially start a **wrestling society**.
-- She already has student interest from [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith]].
+- She already has student interest from [[1-Party/Vith Pahlok/Vith Pahlok\|Vith]].
 - She learns that to form a society she needs:
     - Additional student members.
     - A **member of staff willing to sponsor** the club.
@@ -48,7 +48,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 - Inside, she finds:
     - Students racing around the stadium on **roller skates**.
     - A large orc — Coach Shtomp — yelling instructions from the centre.
-- Among the skaters is [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith]], noticeably focused and competent.
+- Among the skaters is [[1-Party/Vith Pahlok/Vith Pahlok\|Vith]], noticeably focused and competent.
 - Suraax enthusiastically cheers for him.
 - Vith momentarily loses focus, trips, and crashes spectacularly across the floor.
 - Coach Shtomp halts training in horror.
@@ -73,7 +73,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 #### Confirmed Wrestling Society Members
 - **Staff Sponsor:** [[2-World/People/Neverwood Academy/Staff/Shtomp\|Coach Shtomp]]
 - **Students:**
-    - [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
+    - [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
     - [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]
     - [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]
 

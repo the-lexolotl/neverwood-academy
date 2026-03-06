@@ -5,7 +5,7 @@
 # Ross Async - Harry's Library Heist
 ## Roster 
 
-[[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
+[[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
 
 # Session Overview
 

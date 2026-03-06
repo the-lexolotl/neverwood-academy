@@ -35,9 +35,9 @@ Deputy Head [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruana
 # People
 
 The following people are associated with this quest.
-| File                                                                                | Race    | Gender | Role                |
-| ----------------------------------------------------------------------------------- | ------- | ------ | ------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]          | Human   | Male   | Deputy Head Teacher |
-| [[1-Party/Group 3/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin | Female | Player              |
+| File                                                                        | Race    | Gender | Role                |
+| --------------------------------------------------------------------------- | ------- | ------ | ------------------- |
+| [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]  | Human   | Male   | Deputy Head Teacher |
+| [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin | Female | Player              |
 
 { .block-language-dataview}

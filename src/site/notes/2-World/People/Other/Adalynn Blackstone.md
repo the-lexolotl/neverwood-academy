@@ -34,7 +34,7 @@
 # Relationships
 **Grandparents** - [[2-World/People/Other/Reynard Blackstone\|Reynard Blackstone]]
 **Parents** - None/Unknown
-**Siblings** - [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
+**Siblings** - [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
 **Partner** - None/Unknown
 **Children** - None/Unknown
 **Allies** - None/Unknown

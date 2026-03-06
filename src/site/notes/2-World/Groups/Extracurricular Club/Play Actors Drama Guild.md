@@ -31,7 +31,7 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc             | Non-binary | Prismari    | 2           |
 | [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                                                             | Tiefling        | Female     | None        | \-          |
 | [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf             | Non-binary | Silverquill | 2           |
-| [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                                         | Variant Aasimar | Female     | Silverquill | 1           |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                                                 | Variant Aasimar | Female     | Silverquill | 1           |
 | [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human           | Male       | Prismari    | 1           |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female     | Silverquill | 1           |
 | [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male       | Lorehold    | 1           |

@@ -5,7 +5,7 @@
 # Rain Async - Colours in Chaos
 ## Roster 
 
-[[1-Party/Group 2/H'er/H'er\|H'er]]
+[[1-Party/H'er/H'er\|H'er]]
 
 # Session Overview
 
@@ -25,7 +25,7 @@
 [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]],[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]],[[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]
 
 ## Summary
-An evening of art and innovation spirals into chaos when the [[2-World/Groups/Colleges/Prismari College\|Prismari]] Gallery’s annual exhibition is struck by magical sabotage. Amidst the shattering of enchanted glass and the warping of living paintings, [[1-Party/Group 2/H'er/H'er\|H'er]] discovers a deeper power within her art — one that binds emotion, magic, and self-expression into something transcendent. What begins as a disaster becomes a revelation, as H’er’s soul ignites in colour and [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra]] witnesses the birth of a new kind of magic.
+An evening of art and innovation spirals into chaos when the [[2-World/Groups/Colleges/Prismari College\|Prismari]] Gallery’s annual exhibition is struck by magical sabotage. Amidst the shattering of enchanted glass and the warping of living paintings, [[1-Party/H'er/H'er\|H'er]] discovers a deeper power within her art — one that binds emotion, magic, and self-expression into something transcendent. What begins as a disaster becomes a revelation, as H’er’s soul ignites in colour and [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra]] witnesses the birth of a new kind of magic.
 
 ### The Exhibition Begins
 * The Prismari Gallery opens its doors, filled with floating artwork, elemental music, and displays that blur the line between spellcraft and emotion.  

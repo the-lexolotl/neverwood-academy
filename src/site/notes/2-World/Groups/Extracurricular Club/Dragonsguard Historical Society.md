@@ -31,7 +31,7 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Loxodon    | Male   | Lorehold | 1           |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]] | Triton     | Male   | Prismari | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]     | Half-Elf   | Male   | Quandrix | 2           |
-| [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]               | Dragonborn | Male   | Quandrix | 1           |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                       | Dragonborn | Male   | Quandrix | 1           |
 
 { .block-language-dataview}
 

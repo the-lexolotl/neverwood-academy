@@ -5,7 +5,7 @@
 # Kristy Async - Administrative Misconduct
 ## Roster 
 
-[[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]
+[[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]
 
 # Session Overview
 
@@ -26,7 +26,7 @@
 
 ## Summary
 
-When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]] finds himself called before the highest authorities of Neverwood Academy to answer for his role in the midnight break-in at the Administration Offices. What begins as a disciplinary hearing soon turns into something more — a test of honesty, character, and redemption — leading to a secret mission that could earn back the professors’ trust… or plunge him deeper into the academy’s mysteries.
+When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]] finds himself called before the highest authorities of Neverwood Academy to answer for his role in the midnight break-in at the Administration Offices. What begins as a disciplinary hearing soon turns into something more — a test of honesty, character, and redemption — leading to a secret mission that could earn back the professors’ trust… or plunge him deeper into the academy’s mysteries.
 
 ### The Summons
 
@@ -54,7 +54,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Group 1
 * He explains that he and several fellow first-years had broken in to learn more about a **student who was expelled**, hoping the information might explain recent strange events.  - see [[1-Session Journals/1508-1509 - First Year/2025-09-06 - Session 9\|2025-09-06 - Session 9]]
 * He clarifies that the plan wasn’t originally his, though he takes responsibility for following through.  
 * A natural 20 on Persuasion turns the tide in his favour — his sincerity clearly moves Mavinda.  
-* When asked to name the others, Vigilius reluctantly lists [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]], [[1-Party/Group 2/Cyinth Agora/Cyinth Agora\|Cyinth Agora]], [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 1/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] and [[1-Party/Group 1/Guiloip Guhloo/Guiloip Guhloo\|Glue]] (surname forgotten).
+* When asked to name the others, Vigilius reluctantly lists [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]], [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]], [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] and [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Glue]] (surname forgotten).
 
 ### Judgment and Punishment
 

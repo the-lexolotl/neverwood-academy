@@ -44,9 +44,9 @@ Authority in the Hellhound Gang is fluid — leadership shifts mid-song, and dis
 
 # Enemies/Allies
 
-**Enemies:** [[1-Party/Group 3/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
+**Enemies:** [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
 
-**Allies:** [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
+**Allies:** [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
 
 # People
 

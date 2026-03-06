@@ -71,8 +71,8 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 # NPCs
 | File                                                             | Race     | Gender | Role           |
 | ---------------------------------------------------------------- | -------- | ------ | -------------- |
-| [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]] | Orc      | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]] | Kor      | Male   | Tavern Ghost   |
+| [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]] | Orc      | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/Marcellus\|Marcellus]]           | Loxodon  | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]] | Half-Orc | Male   | Tavern Founder |
 

@@ -5,7 +5,7 @@
 # Ross Async - Sigma Mail
 ## Roster 
 
-[[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
+[[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
 
 # Session Overview
 
@@ -33,7 +33,7 @@ After the disciplinary summons from the Head Teacher, Harry Blackstone finds him
 * Though suspicious, Harry’s curiosity outweighs his caution. He and Cadoras agree to investigate together, arranging to meet at the old observatory by nightfall.
 
 ### Preparations and Paranoia
-* Back in his dorm, Harry prepares for whatever trap may lie ahead. He crafts an “in case I die” letter to **[[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]**, entrusting its delivery to one of his automatons should he fail to return within 24 hours.
+* Back in his dorm, Harry prepares for whatever trap may lie ahead. He crafts an “in case I die” letter to **[[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]**, entrusting its delivery to one of his automatons should he fail to return within 24 hours.
 * With precautions in place and **Mage Armour** woven around him, Harry steels himself for the meeting — armed with intellect, caution, and mild resignation.
 
 ### The Meeting at the Observatory

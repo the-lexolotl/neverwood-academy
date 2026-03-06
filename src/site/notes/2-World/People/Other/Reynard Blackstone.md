@@ -35,7 +35,7 @@
 **Siblings** - None/Unknown
 **Partner** - None/Unknown
 **Children** - None/Unknown
-**Grandchildren** - [[1-Party/Group 2/Harry Blackstone/Harry Blackstone\|Harry Blackstone]],[[2-World/People/Other/Adalynn Blackstone\|Adalynn Blackstone]]
+**Grandchildren** - [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]],[[2-World/People/Other/Adalynn Blackstone\|Adalynn Blackstone]]
 **Allies** - None/Unknown
 **Enemies** - None/Unknown
 

@@ -5,7 +5,7 @@
 # Megan Async - The Merchant of Moons
 ## Roster 
 
-[[1-Party/Group 2/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
+[[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
 
 
 # Session Overview
