@@ -47,16 +47,16 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 
 ## Appearance
 
-|                 |               |
-| --------------- | ------------- |
-| Age             | 18            |
-| Height          | 6ft 6         |
-| Weight          | 164lbs        |
-| Eye Colour      | Green         |
-| Hair/Fur Colour | Black Spines  |
-| Skin Colour     | Purple Scales |
-| Faith           |               |
-| Other           |               |
+|                 |                                       |
+| --------------- | ------------------------------------- |
+| Age             | 18                                    |
+| Height          | 6ft 6                                 |
+| Weight          | 164lbs                                |
+| Eye Colour      | Green                                 |
+| Hair/Fur Colour | Black Spines                          |
+| Skin Colour     | Purple Scales                         |
+| Faith           | Bahamut - God of Justice and Nobility |
+| Other           |                                       |
 
 # Skills
 > [!info]- Proficiency
