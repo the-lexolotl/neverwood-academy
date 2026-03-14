@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 15 \| 12 (20) |  14 \| 17 (20)  |  17 \| 5 (20)   |  14 \| 18 (20)  |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 15 \| 17 (20) |                 |                 |                 |       |
+| **Term 5** | 15 \| 17 (20) |  12 \| 6 (18)   |  23 \| 10 (20)  |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -57,7 +57,7 @@
 |            |  Perception   |    Insight    |    Nature     |   Medicine    |       |
 | **Term 4** | 4 \| 15 (19)  | 15 \| 5 (20)  | 21 \| 21 (20) | 21 \| 11 (20) |       |
 |            |    Arcana     |   Medicine    |   Deception   |   Survival    |       |
-| **Term 5** | 19 \| 16 (20) |               |               |               |       |
+| **Term 5** | 19 \| 16 (20) | 3 \| 12 (15)  | 18 \| 12 (20) |               |       |
 |            |    Nature     |    Arcana     |   Medicine    |    Nature     |       |
 | **Term 6** |               |               |               |               |       |
 |            |    Insight    | Investigation |   Medicine    |    Arcana     |       |
@@ -88,7 +88,7 @@
 |            |  Perception   |    Nature     |   Survival    |    History    |       |
 | **Term 4** | 10 \| 24 (20) | 11 \| 13 (20) | 12 \| 13 (20) | 7 \| 16 (20)  |       |
 |            |   Deception   |    Insight    |    Nature     |  Perception   |       |
-| **Term 5** | 17 \| 4 (20)  |               |               |               |       |
+| **Term 5** | 17 \| 4 (20)  | 12 \| 12 (20) | 16 \| 11 (20) |               |       |
 |            |    Arcana     |   Survival    |    Nature     |  Perception   |       |
 | **Term 6** |               |               |               |               |       |
 |            |   Survival    |  Perception   |    Nature     |   Survival    |       |
@@ -120,7 +120,7 @@
 |            |    Arcana     | Slight of Hand |  Intimidation  |   Deception    |       |
 | **Term 4** |  7 \| 7 (14)  | 10 \| 22 (20)  | 16 \| 14 (20)  |  15 \| 2 (17)  |       |
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
-| **Term 5** | 12 \| 12 (20) |                |                |                |       |
+| **Term 5** | 12 \| 12 (20) |  16 \| 7 (20)  | 12 \| 14 (20)  |                |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
 | **Term 6** |               |                |                |                |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |

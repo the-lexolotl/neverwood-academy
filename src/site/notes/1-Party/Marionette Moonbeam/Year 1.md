@@ -21,9 +21,9 @@
 |            |    Insight    |   Persuasion    | Animal Handling |     Nature      |       |
 | **Term 3** |               |                 |  24 \| 22 (20)  |  20 \| 9 (20)   |       |
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
-| **Term 4** | 16 \| 10 (20) |  8 \| 12 (20)   |  3 \| 20 (20)   |                 |       |
+| **Term 4** | 16 \| 10 (20) |  8 \| 12 (20)   |  3 \| 20 (20)   |  12 \| 22 (20)  |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |               |                 |                 |                 |       |
+| **Term 5** | 12 \| 14 (20) |  15 \| 4 (19)   |  20 \| 18 (20)  |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -55,9 +55,9 @@
 |            |   Medicine    |   Deception   |    Nature     |    Arcana     |       |
 | **Term 3** |               |               | 10 \| 15 (20) | 14 \| 20 (20) |       |
 |            |  Perception   |    Insight    |    Nature     |   Medicine    |       |
-| **Term 4** | 18 \| 19 (20) |  8 \| 3 (11)  | 18 \| 11 (20) |               |       |
+| **Term 4** | 18 \| 19 (20) |  8 \| 3 (11)  | 18 \| 11 (20) | 23 \| 8 (20)  |       |
 |            |    Arcana     |   Medicine    |   Deception   |   Survival    |       |
-| **Term 5** |               |               |               |               |       |
+| **Term 5** | 8 \| 21 (20)  |  6 \| 9 (15)  |  4 \| 2 (6)   |               |       |
 |            |    Nature     |    Arcana     |   Medicine    |    Nature     |       |
 | **Term 6** |               |               |               |               |       |
 |            |    Insight    | Investigation |   Medicine    |    Arcana     |       |
@@ -78,20 +78,20 @@
 > - Survival
 
 ## Homework
-|            |   Week 1    |    Week 2    |    Week 3     |    Week 4    | Total |
-| :--------: | :---------: | :----------: | :-----------: | :----------: | :---: |
-| **Term 1** |             |              |               |              |       |
-|            | Perception  |    Nature    |  Perception   |   Survival   |       |
-| **Term 2** |             |              |               |              |       |
-|            |  Survival   |  Deception   |    Insight    |    Nature    |       |
-| **Term 3** |             |              | 14 \| 11 (20) | 22 \| 5 (20) |       |
-|            | Perception  |    Nature    |   Survival    |   History    |       |
-| **Term 4** | 9 \| 4 (13) | 7 \| 13 (20) | 22 \| 24 (20) |              |       |
-|            |  Deception  |   Insight    |    Nature     |  Perception  |       |
-| **Term 5** |             |              |               |              |       |
-|            |   Arcana    |   Survival   |    Nature     |  Perception  |       |
-| **Term 6** |             |              |               |              |       |
-|            |  Survival   |  Perception  |    Nature     |   Survival   |       |
+|            |    Week 1     |    Week 2    |    Week 3     |    Week 4    | Total |
+| :--------: | :-----------: | :----------: | :-----------: | :----------: | :---: |
+| **Term 1** |               |              |               |              |       |
+|            |  Perception   |    Nature    |  Perception   |   Survival   |       |
+| **Term 2** |               |              |               |              |       |
+|            |   Survival    |  Deception   |    Insight    |    Nature    |       |
+| **Term 3** |               |              | 14 \| 11 (20) | 22 \| 5 (20) |       |
+|            |  Perception   |    Nature    |   Survival    |   History    |       |
+| **Term 4** |  9 \| 4 (13)  | 7 \| 13 (20) | 22 \| 24 (20) | 8 \| 10 (18) |       |
+|            |   Deception   |   Insight    |    Nature     |  Perception  |       |
+| **Term 5** | 22 \| 11 (20) | 7 \| 7 (14)  | 24 \| 18 (20) |              |       |
+|            |    Arcana     |   Survival   |    Nature     |  Perception  |       |
+| **Term 6** |               |              |               |              |       |
+|            |   Survival    |  Perception  |    Nature     |   Survival   |       |
 ## Exams
 
 |        |  Skill 1   | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -118,9 +118,9 @@
 |            | Dexterity Ability |    Performance    |     Arcana     |   Strength Save   |       |
 | **Term 3** |                   |                   | 21 \| 18 (20)  |   14 \| 10 (20)   |       |
 |            |     Athletics     | Dexterity Ability |   Acrobatics   |  Dexterity Save   |       |
-| **Term 4** |   16 \| 8 (20)    |   17 \| 23 (20)   |  14 \| 5 (19)  |                   |       |
+| **Term 4** |   16 \| 8 (20)    |   17 \| 23 (20)   |  14 \| 5 (19)  |   16 \| 3 (19)    |       |
 |            |    Acrobatics     |  Dexterity Save   |   Athletics    |    Performance    |       |
-| **Term 5** |                   |                   |                |                   |       |
+| **Term 5** |   18 \| 17 (20)   |    7 \| 5 (12)    |  5 \| 19 (20)  |                   |       |
 |            |  Dexterity Save   |     Athletics     |   Acrobatics   | Dexterity Ability |       |
 | **Term 6** |                   |                   |                |                   |       |
 |            |    Performance    |    Acrobatics     | Dexterity Save |     Athletics     |       |

@@ -59,7 +59,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ## 🧑‍🤝‍🧑 Cup Challenge Groups
 | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) | ![Group 3.png](/img/user/z_Assets/character_art/Players/Group%203.png) |
 | :--------------: | :--------------: | :--------------: |
-| **[[1-Party/Group Cup/Group 1\|Group 1]]**  | **[[1-Party/Group Cup/Group 2\|Group 2]]**  | **[[1-Party/Group Cup/Group 3\|Group 3]]**  |
+| **[[z_Website/Group 1\|Group 1]]**  | **[[z_Website/Group 2\|Group 2]]**  | **[[z_Website/Group 3\|Group 3]]**  |
 
 *Group assignments are provisional and subject to change.*
 

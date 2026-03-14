@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** |               |                 |                 |  20 \| 4 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 17 \| 10 (20) |                 |                 |                 |       |
+| **Term 5** | 17 \| 10 (20) |  16 \| 6 (20)   |  18 \| 10 (20)  |                 |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -47,20 +47,20 @@
 > - Religion
 
 ## Homework
-|            |    Week 1     |    Week 2     |   Week 3    |    Week 4     | Total |
-| :--------: | :-----------: | :-----------: | :---------: | :-----------: | :---: |
-| **Term 1** |               |               |             |               |       |
-|            |    History    |    Insight    |  Religion   |    History    |       |
-| **Term 2** |               |               |             |               |       |
-|            |   Religion    | Investigation | Performance |    Insight    |       |
-| **Term 3** |               |               |             |               |       |
-|            |   Religion    |    History    |   Insight   | Investigation |       |
-| **Term 4** |               |               |             | 19 \| 22 (20) |       |
-|            |    Insight    |   Religion    |   History   |  Performance  |       |
-| **Term 5** | 11 \| 15 (20) |               |             |               |       |
-|            |    History    | Investigation |   Insight   |   Religion    |       |
-| **Term 6** |               |               |             |               |       |
-|            |    History    |    Insight    |  Religion   |    History    |       |
+|            |    Week 1     |    Week 2     |    Week 3    |    Week 4     | Total |
+| :--------: | :-----------: | :-----------: | :----------: | :-----------: | :---: |
+| **Term 1** |               |               |              |               |       |
+|            |    History    |    Insight    |   Religion   |    History    |       |
+| **Term 2** |               |               |              |               |       |
+|            |   Religion    | Investigation | Performance  |    Insight    |       |
+| **Term 3** |               |               |              |               |       |
+|            |   Religion    |    History    |   Insight    | Investigation |       |
+| **Term 4** |               |               |              | 19 \| 22 (20) |       |
+|            |    Insight    |   Religion    |   History    |  Performance  |       |
+| **Term 5** | 11 \| 15 (20) | 16 \| 9 (20)  | 19 \| 5 (14) |               |       |
+|            |    History    | Investigation |   Insight    |   Religion    |       |
+| **Term 6** |               |               |              |               |       |
+|            |    History    |    Insight    |   Religion   |    History    |       |
 
  ## Exams
 |            | Skill 1 | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -90,7 +90,7 @@
 |            |  Persuasion   | Investigation |     Tools     |   History    |       |
 | **Term 4** |               |               |               | 11 \| 6 (17) |       |
 |            |     Tools     |   Religion    | Investigation |  Persuasion  |       |
-| **Term 5** | 19 \| 18 (20) |               |               |              |       |
+| **Term 5** | 19 \| 18 (20) | 6 \| 14 (20)  | 15 \| 10 (20) |              |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
 | **Term 6** |               |               |               |              |       |
 |            |    History    |     Tools     | Investigation |    Tools     |       |
@@ -112,20 +112,20 @@
 > - Sleight of Hand
 
 ## Homework
-|            |     Week 1      |     Week 2      |  Week 3   |     Week 4      | Total |
-| :--------: | :-------------: | :-------------: | :-------: | :-------------: | :---: |
-| **Term 1** |                 |                 |           |                 |       |
-|            |    Athletics    |     History     | Athletics | Sleight of Hand |       |
-| **Term 2** |                 |                 |           |                 |       |
-|            |    Survival     | Sleight of Hand |  Insight  |  Investigation  |       |
-| **Term 3** |                 |                 |           |                 |       |
-|            |     Insight     |    Athletics    |  History  | Sleight of Hand |       |
-| **Term 4** |                 |                 |           |   2 \| 1 (3)    |       |
-|            | Sleight of Hand |     History     | Athletics |  Investigation  |       |
-| **Term 5** |  11 \| 6 (17)   |                 |           |                 |       |
-|            |     History     | Sleight of Hand | Survival  |    Athletics    |       |
-| **Term 6** |                 |                 |           |                 |       |
-|            |    Athletics    |   Perception    |  History  | Sleight of Hand |       |
+|            |     Week 1      |     Week 2      |    Week 3    |     Week 4      | Total |
+| :--------: | :-------------: | :-------------: | :----------: | :-------------: | :---: |
+| **Term 1** |                 |                 |              |                 |       |
+|            |    Athletics    |     History     |  Athletics   | Sleight of Hand |       |
+| **Term 2** |                 |                 |              |                 |       |
+|            |    Survival     | Sleight of Hand |   Insight    |  Investigation  |       |
+| **Term 3** |                 |                 |              |                 |       |
+|            |     Insight     |    Athletics    |   History    | Sleight of Hand |       |
+| **Term 4** |                 |                 |              |   2 \| 1 (3)    |       |
+|            | Sleight of Hand |     History     |  Athletics   |  Investigation  |       |
+| **Term 5** |  11 \| 6 (17)   |  12 \| 3 (15)   | 4 \| 19 (20) |                 |       |
+|            |     History     | Sleight of Hand |   Survival   |    Athletics    |       |
+| **Term 6** |                 |                 |              |                 |       |
+|            |    Athletics    |   Perception    |   History    | Sleight of Hand |       |
 ## Exams
 
 |        |  Skill 1  | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
