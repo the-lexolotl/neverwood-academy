@@ -28,8 +28,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human           | Male   | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf           | Female | Lorehold    |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                                 | Triton          | Male   | Witherbloom |
+| [[1-Party/H'er/H'er\|H'er]]                                                                                               | Tiefling        | Female | Prismari    |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                                                           | Human           | Male   | Quandrix    |
-| [[1-Party/Her/Her\|Her]]                                                                                                  | Tiefling        | Female | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf             | Male   | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]                                           | Human           | Female | Quandrix    |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                                                 | Variant Aasimar | Female | Silverquill |

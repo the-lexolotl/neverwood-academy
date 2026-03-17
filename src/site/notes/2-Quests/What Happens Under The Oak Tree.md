@@ -90,6 +90,6 @@ The following people are associated with this quest.
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                               | Human           | Male   | Player              |
 | [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                      | Eladrin         | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                     | Variant Aasimar | Female | Player              |
-| [[1-Party/Her/Her\|Her]]                                                                      | Tiefling        | Female | Player              |
+| [[1-Party/H'er/H'er\|H'er]]                                                                   | Tiefling        | Female | Player              |
 
 { .block-language-dataview}

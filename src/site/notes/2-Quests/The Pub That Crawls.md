@@ -72,7 +72,7 @@ The following people are associated with this quest.
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
 | [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
-| [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player              |
+| [[1-Party/H'er/H'er\|H'er]]                                                            | Tiefling        | Female | Player              |
 
 { .block-language-dataview}
 
