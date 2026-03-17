@@ -2,8 +2,7 @@
 {"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":null,"dg-path":"Homebrew Mechanics/Feats/Halloobabrew Crafter.md","permalink":"/homebrew-mechanics/feats/halloobabrew-crafter/","dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
-**Prerequisite:** Requires a Wisdom score of 13 or higher
-
+*General Feat · Level 1+ · Prerequisite: Requires a Wisdom score of 13 or higher*
 ## Description
 You have mastered the unpredictable art of crafting "Halloobabrew" — a spontaneous, organic concoction brewed from whatever nature (or your pockets) provides. You can craft these brews quickly in moments of crisis or downtime, but their effects are... wildly variable.
 
