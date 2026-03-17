@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","House-Rules"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":null,"dg-path":"Homebrew Mechanics/Other/Alcohol and Intoxicants.md","permalink":"/homebrew-mechanics/other/alcohol-and-intoxicants/","dgShowToc":true,"dgPassFrontmatter":true}
+{"tags":["Homebrew","House-Rules"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":null,"dg-path":"Mechanics/Other/Alcohol and Intoxicants.md","permalink":"/mechanics/other/alcohol-and-intoxicants/","dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
 # Drinking Alcohol
