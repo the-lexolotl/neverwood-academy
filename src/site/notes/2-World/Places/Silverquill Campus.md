@@ -38,8 +38,8 @@ The Silverquill campus is located due north of the central Neverwood campus and 
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]   | Owlin      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
-| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                           | Human      | Female     | Student               |
+| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]         | Orc        | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]         | Changling  | Non-binary | Student               |
