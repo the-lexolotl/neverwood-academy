@@ -1,11 +1,11 @@
 ---
-{"tags":["Homebrew","Spell"],"dg-publish":true,"dg-show-toc":null,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":null,"dg-path":"Mechanics/Spells/Piss Yourself.md","permalink":"/mechanics/spells/piss-yourself/","dgPassFrontmatter":true}
+{"tags":["Homebrew","Spell"],"dg-publish":true,"dg-show-toc":null,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Spells/Piss Yourself.md","permalink":"/mechanics/spells/piss-yourself/","dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-| Level | Casting Time   | Range/Area | Components              | Duration | School      | Attack/Save | Damage/Effect |
-| ----- | -------------- | ---------- | ----------------------- | -------- | ----------- | ----------- | ------------- |
-| 1st   | ! Bonus Action | 60 ft.     | S, M (A Glass of Water) | 1 Round  | Enchantment | CON Save    | Incapacitated |
+| Level | Casting Time   | Range/Area | Components                | Duration | School      | Attack/Save | Damage/Effect |
+| ----- | -------------- | ---------- | ------------------------- | -------- | ----------- | ----------- | ------------- |
+| 1st   | 1 Bonus Action | 60 ft.     | S, M *(A Glass of Water)* | 1 Round  | Enchantment | CON Save    | Incapacitated |
 You silently level a finger at a creature you can see within range, focusing your will into a sudden and deeply embarrassing enchantment. The target must make a Constitution saving throw.
 
 - On a failed save, the creature immediately and involuntarily voids their bladder and becomes incapacitated until the start of their next turn. If they are wearing clothing, it is thoroughly soiled.

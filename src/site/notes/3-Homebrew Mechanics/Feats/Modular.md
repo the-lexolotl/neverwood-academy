@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":null,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":null,"dg-path":"Mechanics/Feats/Modular.md","permalink":"/mechanics/feats/modular/","dgPassFrontmatter":true}
+{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":null,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Modular.md","permalink":"/mechanics/feats/modular/","dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 *General Feat · Level 4+ · Prerequisite: Battle Smith (Artificer)*

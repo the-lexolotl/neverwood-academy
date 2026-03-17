@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":null,"dg-path":"Mechanics/Feats/Halloobabrew Crafter.md","permalink":"/mechanics/feats/halloobabrew-crafter/","dgShowToc":true,"dgPassFrontmatter":true}
+{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Halloobabrew Crafter.md","permalink":"/mechanics/feats/halloobabrew-crafter/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
 *General Feat · Level 1+ · Prerequisite: Requires a Wisdom score of 13 or higher*
