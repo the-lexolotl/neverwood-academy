@@ -13,7 +13,7 @@
                     <i x-show="!isOpen"  icon-name="chevron-right"></i>
                     <span class="foldername">{{fileOrFolderName}}</span>
                     </div>
-                    {% for fileOrFolderName, child in fileOrFolder %}
+                    {% for fileOrFolderName, child in fileOrFolder | dictsort %}
                         {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
                     {% endfor %}
                 </div>
@@ -47,10 +47,13 @@
                 {% include "components/searchButton.njk" %}
             </div>
         {%endif%}
-         <div class="folder" x-data="{isOpen: true}">
-               {%- for fileOrFolderName, fileOrFolder in filetree -%}
-                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
-               {%- endfor -%}
-         </div>
+<div class="folder" x-data="{isOpen: true}">
+      {%- set folderOrder = ["1-Party", "2-Session Journals", "2-Quests", "2-Player Handouts", "3-World", "3-Homebrew Mechanics", "z_Website"] -%}
+      {%- for key in folderOrder -%}
+          {%- if filetree[key] -%}
+              {{- menuItem(key, filetree[key], 0, key) -}}
+          {%- endif -%}
+      {%- endfor -%}
+</div>
       </nav>
     </div>
