@@ -61,9 +61,9 @@ The following people are associated with this quest.
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                         | Aarakocra       | Female | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
-| [[1-Party/H'er/H'er\|H'er]]                                                                 | Tiefling        | Female | Player                |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Human           | Male   | Player                |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
+| [[1-Party/Her/Her\|Her]]                                                                    | Tiefling        | Female | Player                |
 
 { .block-language-dataview}
 

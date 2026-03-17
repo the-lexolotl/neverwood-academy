@@ -87,9 +87,9 @@ The following people are associated with this quest.
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                          | Yuan-Ti         | Male   | Player              |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                     | Triton          | Male   | Player              |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Dragonborn      | Male   | Player              |
-| [[1-Party/H'er/H'er\|H'er]]                                                                   | Tiefling        | Female | Player              |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                               | Human           | Male   | Player              |
 | [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                      | Eladrin         | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                     | Variant Aasimar | Female | Player              |
+| [[1-Party/Her/Her\|Her]]                                                                      | Tiefling        | Female | Player              |
 
 { .block-language-dataview}
