@@ -25,13 +25,11 @@
     <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" 
             x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" 
             x-data="{isDesktop: true, showFilesMobile: false}">
-
         <div x-show.important="!isDesktop" style="display: none;">
             {%include "components/filetreeNavbar.njk"%}
         </div>
         
         <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
-
       <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
@@ -47,13 +45,15 @@
                 {% include "components/searchButton.njk" %}
             </div>
         {%endif%}
-<div class="folder" x-data="{isOpen: true}">
-      {%- set folderOrder = ["1-Party", "2-Session Journals", "2-Quests", "2-Player Handouts", "3-World", "3-Homebrew Mechanics", "z_Website"] -%}
-      {%- for fileOrFolderName, fileOrFolder in filetree | dictsort -%}
-          {%- if fileOrFolderName in folderOrder -%}
-              {{- menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName) -}}
-          {%- endif -%}
-      {%- endfor -%}
-</div>
+        <div class="folder" x-data="{isOpen: true}">
+            {%- set folderOrder = ["Party", "Session Journals", "Quests", "Player Handouts", "World", "Mechanics"] -%}
+            {%- for key in folderOrder -%}
+                {%- for fileOrFolderName, fileOrFolder in filetree | dictsort -%}
+                    {%- if fileOrFolder.name === key or fileOrFolderName === key -%}
+                        {{- menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName) -}}
+                    {%- endif -%}
+                {%- endfor -%}
+            {%- endfor -%}
+        </div>
       </nav>
     </div>
