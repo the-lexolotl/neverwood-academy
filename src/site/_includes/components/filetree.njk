@@ -49,9 +49,9 @@
         {%endif%}
 <div class="folder" x-data="{isOpen: true}">
       {%- set folderOrder = ["1-Party", "2-Session Journals", "2-Quests", "2-Player Handouts", "3-World", "3-Homebrew Mechanics", "z_Website"] -%}
-      {%- for key in folderOrder -%}
-          {%- if filetree[key] -%}
-              {{- menuItem(key, filetree[key], 0, key) -}}
+      {%- for fileOrFolderName, fileOrFolder in filetree | dictsort -%}
+          {%- if fileOrFolderName in folderOrder -%}
+              {{- menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName) -}}
           {%- endif -%}
       {%- endfor -%}
 </div>
