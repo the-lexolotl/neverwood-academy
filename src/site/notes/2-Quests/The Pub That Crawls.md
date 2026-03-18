@@ -66,13 +66,13 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                          | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                                    | Loxodon         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                          | Half-Orc        | Male   | Tavern Founder      |
-| [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                    | Aarakocra       | Female | Player              |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player              |
-| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
-| [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
-| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
+| [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                    | Aarakocra       | Female | Player              |
 | [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player              |
+| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
+| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
+| [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}
 

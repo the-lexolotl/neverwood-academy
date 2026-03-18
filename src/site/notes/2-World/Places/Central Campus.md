@@ -47,8 +47,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | ---------------------------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
-| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
+| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
 | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           |
 | [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   |

@@ -173,7 +173,9 @@ In this dazzling follow-up to first-year studies, Professor Deekah introduces st
 > [!success]- Reward
 > Mirror Image
 
-In this dazzling follow-up to first-year studies, Professor Deekah introduces students to the living mathematics of nature. By applying fractal theory to spellcasting, students conjure self-replicating, geometric constructs shaped by rhythm and ratio. Labs are filled with luminous creatures, all made of shifting patterns and repeating forms. The key lesson: in magic, beauty and logic are one and the same.
+Taught by the Twincasters, Adrix and Nev, this intermediate Quandrix course explores the principles of magical duplication. Rather than altering size or scale, students learn how to create additional instances of objects, effects, and even themselves through precise arcane manipulation.
+The course blends theoretical mathematics with practical application, challenging students to maintain control over multiple simultaneous manifestations. Assessments may take the form of complex arcane problem-solving, requiring careful focus and sustained concentration.
+Alternatively, examinations may involve practical demonstrations of duplicative magic, with students using illusionary copies to evade incoming threats. Success depends not only on magical aptitude but also on awareness, timing, and a willingness to trust in one’s own projections.
 
 #### Arches and Textures: Natural Buildings of the Vastlands
 *Dean [[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]]*  

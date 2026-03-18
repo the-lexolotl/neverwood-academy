@@ -122,8 +122,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
-| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
+| [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
 | [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   | [[2-World/Places/Central Campus\|Central Campus]]                                                                                    |
@@ -158,17 +158,17 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]                                         | Extracurricular Club |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
@@ -246,8 +246,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Neverwinter/Kask\|Kask]]                                                                                 | Burrog                 | Male       | Other                      |
 | [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]]                                               | Human                  | Male       | Other                      |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                                | Elf                    | Female     | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                                      | Loxodon                | Female     | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                                | Halfling               | Male       | Professor of Chaos         |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                                      | Loxodon                | Female     | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                                    | Human                  | Male       | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin                  | Male       | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                            | Human                  | Male       | Professor of Chaos         |
@@ -255,8 +255,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Tivash\|Tivash]]                                                     | Human                  | Male       | Professor of Decay         |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]                               | Dragonborn             | Male       | Professor of Decay         |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                                          | Human                  | Male       | Professor of Expression    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Rock\|Rock]]                                                            | Earth Genasi           | Male       | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                                        | Eladrin                | Female     | Professor of Expression    |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Rock\|Rock]]                                                            | Earth Genasi           | Male       | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]]                                                        | Human                  | Male       | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                                   | Elf                    | Female     | Professor of Growth        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                                   | Firbolg                | Male       | Professor of Growth        |
@@ -305,15 +305,15 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi             | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human                  | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged              | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf                    | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]                                           | Human                  | Female     | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling               | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                                                 | Dryad                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn                 | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai             | Male       | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn                 | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human                  | Male       | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai             | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin                  | Female     | Student                    |
@@ -330,20 +330,20 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                                   | Loxodon                | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]]           | Gnome                  | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human                  | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                               | Human                  | Male       | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human                  | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                               | Human                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                                         | Tiefling               | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                                     | Half-Elf               | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                                                   | Half-Orc               | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                                 | Owlin                  | Male       | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf                    | Non-binary | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]                                 | Human                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                                                     | Human                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                               | Human                  | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                                                         | Earth Genasi           | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf                    | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     | Fire Genasi            | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                                         | Firbolg                | Non-binary | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     | Fire Genasi            | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]                                         | Half-Elf               | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]                                             | Halfling               | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]                                           | Orc                    | Male       | Student                    |
@@ -355,9 +355,9 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                                         | Leonin                 | Female     | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                                   | Changling              | Non-binary | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]]                                 | Half-Orc               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                                                 | Tiefling               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn             | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]                                   | Shifter                | Male       | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn             | Male       | Student                    |
+| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                                                 | Tiefling               | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             | Gnome                  | Male       | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]                                   | Shadar-Kai             | Non-binary | Student                    |
 | [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                                     | Gorgon                 | Female     | Student                    |
@@ -366,8 +366,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Neverwood Academy/Staff/Curtie Axechucker\|Curtie Axechucker]]                                           | Dwarf                  | Female     | Tavern Chef                |
 | [[2-World/People/Neverwinter/Alise Thallas\|Alise Thallas]]                                                               | Changling              | Female     | Tavern Founder             |
 | [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]                                                             | Elf                    | Female     | Tavern Founder             |
-| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                                                                   | Elf                    | Male       | Tavern Founder             |
 | [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]                                                             | Human                  | Male       | Tavern Founder             |
+| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                                                                   | Elf                    | Male       | Tavern Founder             |
 | [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                                                             | Half-Orc               | Male       | Tavern Founder             |
 | [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                                                             | Kor                    | Male       | Tavern Ghost               |
 | [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                                                             | Orc                    | Male       | Tavern Ghost               |
