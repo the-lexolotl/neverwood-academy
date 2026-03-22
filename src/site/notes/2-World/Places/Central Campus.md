@@ -28,8 +28,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Neverwood Academy/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
 | [[2-World/People/Neverwood Academy/Staff/Melvi Le Donto\|Melvi Le Donto]]       | Human                  | Female | Lab Administrator          |
 | [[2-World/People/Neverwood Academy/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
-| [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
+| [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
 | [[2-World/People/Neverwood Academy/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Tavern Manager             |
 | [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |

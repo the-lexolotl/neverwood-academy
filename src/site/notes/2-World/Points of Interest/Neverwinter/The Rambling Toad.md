@@ -25,7 +25,10 @@ Rambling Toad’s amenities may be sparse, but the regular clientele like it tha
 { .block-language-dataview}
 # People
 
-| File | Race | Gender | Role |
-| ---- | ---- | ------ | ---- |
+| File                                                             | Race    | Gender | Role           |
+| ---------------------------------------------------------------- | ------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
+| [[2-World/People/Neverwinter/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/Kask\|Kask]]                     | Burrog  | Male   | Other          |
 
 { .block-language-dataview}
