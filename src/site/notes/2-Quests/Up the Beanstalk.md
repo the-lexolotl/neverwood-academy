@@ -71,9 +71,9 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                       | Giant           | Male   | Other        |
 | [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                     | Giant           | Female | Other        |
 | [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]] | Human           | Female | Head Teacher |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]               | Dragonborn      | Male   | Player       |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                          | Yuan-Ti         | Male   | Player       |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                     | Triton          | Male   | Player       |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]               | Dragonborn      | Male   | Player       |
 | [[1-Party/Her/Her\|Her]]                                                      | Tiefling        | Female | Player       |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]               | Human           | Male   | Player       |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                     | Variant Aasimar | Female | Player       |

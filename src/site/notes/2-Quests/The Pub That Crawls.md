@@ -38,8 +38,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | File                                                                                                                                         | Date Obtained |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Others/Neverwinter Pubs, Inns & Taverns\|Neverwinter Pubs, Inns & Taverns]]                                           | 01 Nov, 2025  |
-| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
 | [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  |
+| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
 
 { .block-language-dataview}
 
@@ -80,8 +80,8 @@ The following people are associated with this quest.
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                    | Aarakocra       | Female | Player              |
 | [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player              |
-| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
+| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
 | [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}

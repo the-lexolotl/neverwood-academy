@@ -45,9 +45,9 @@ The following people are associated with this quest.
 
 | Character                                                                                      | Race       | Gender | Role                  |
 | ---------------------------------------------------------------------------------------------- | ---------- | ------ | --------------------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]   | Reborn     | Female | Student               |
 | [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]                     | Human      | Male   | Deputy Head Teacher   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin      | Female | Professor of Radiance |
+| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]   | Reborn     | Female | Student               |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn | Male   | Player                |
 
 { .block-language-dataview}
