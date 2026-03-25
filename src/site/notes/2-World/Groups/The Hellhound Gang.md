@@ -56,9 +56,9 @@ The following people are members of this group.
 | File                                                                                         | Gender | Race       | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ------ | ---------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male   | Half-Orc   | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Male   | Tiefling   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Male   | Dragonborn | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Male   | Shifter    | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Male   | Tiefling   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Male   | Gnome      | Student | Prismari    |
 
 { .block-language-dataview}

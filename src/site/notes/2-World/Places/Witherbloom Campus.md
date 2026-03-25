@@ -31,8 +31,8 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                             | Vampire       | Male       | College Dean        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]           | Dragonborn    | Male       | Professor of Decay  |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                     | Dryad         | Female     | Professor of Growth |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                               | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                         | Treant        | Female     | Professor of Growth |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                               | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]               | Hexblood      | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]] | Dhampir       | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                             | Dryad         | Male       | Student             |

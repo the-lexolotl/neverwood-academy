@@ -14,7 +14,7 @@
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700520)
+    at e.load (app://obsidian.md/app.js:1:700894)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)

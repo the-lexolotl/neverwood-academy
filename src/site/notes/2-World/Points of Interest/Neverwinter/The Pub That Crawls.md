@@ -12,7 +12,7 @@
 **Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
 **Category:** Tavern
 
-No one knows if this pub is even real. Neverwinter students talk of it only as legend. Younger students often wish to locate the mysterious pub, whilst upperclassmen laugh at those that attempt such a foolish endeavour. 
+This pub would seem to be nothing more than a ramshackle cabin in the swamp were it not balanced on spindly wooden legs like some cross between a bird and a spider. As one would guess from its name, it ambles chaotically about, spinning and seesawing dangerously, before stopping briefly as if in wait, for what one can only guess.
 
 
 # Quests
@@ -23,7 +23,8 @@ No one knows if this pub is even real. Neverwinter students talk of it only as l
 { .block-language-dataview}
 # People
 
-| File | Race | Gender | Role |
-| ---- | ---- | ------ | ---- |
+| File                                           | Race  | Gender | Role           |
+| ---------------------------------------------- | ----- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Boyan\|Boyan]] | Human | Male   | Tavern Manager |
 
 { .block-language-dataview}

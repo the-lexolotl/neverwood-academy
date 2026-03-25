@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"In Progress","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","questSessionObtained":"[[2025-11-01 - Session 17|2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"questGiver":"[[Eb Zenithon|Eb Zenithon]]","dg-path":"Quests/The Pub That Crawls.md","permalink":"/quests/the-pub-that-crawls/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"Complete","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","questSessionObtained":"[[2025-11-01 - Session 17|2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"questGiver":"[[Eb Zenithon|Eb Zenithon]]","dg-path":"Quests/The Pub That Crawls.md","permalink":"/quests/the-pub-that-crawls/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,11 +13,11 @@
 
 | Date Obtained:    | 2025-11-01                                                                                                                                                |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Status:           | In Progress                                                                                                                                      |
+| Status:           | Complete                                                                                                                                      |
 | Quest Giver:      | [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                                                                                                                   |
 | Quest Locations:  | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]], [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]],  [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|Session 17 - Chaos in the Kitchen]]                                                                                            |
-| Acquired Loot:    |                                                                                                                                                           |
+| Acquired Loot:    | Decanter of Endless Spirits, Pyroconverger, Everbright Lantern, Phil's Top Hat                                                                            |
 
 ## Backstory
 Among Neverwood Academy’s many student legends, none are as persistent as the tale of The Pub That Crawls — a mythical tavern said to walk on wooden legs through the Neverwood Marshes, appearing only to those who have proven themselves “worthy drinkers of five worlds.” Centuries ago, a group of eccentric students discovered the secret of the moving pub and, after falling out over how to use it, each founded their own establishment somewhere between Neverwinter and the Academy grounds. These five pubs — the Tall Tale, the Frothing Flask, the Lucid Dreamer, the Rambling Toad, and the Beauty’s Mirror — became local icons, their founders sealing within them fragments of the magic needed to summon the sixth and final tavern.
@@ -38,8 +38,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | File                                                                                                                                         | Date Obtained |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Others/Neverwinter Pubs, Inns & Taverns\|Neverwinter Pubs, Inns & Taverns]]                                           | 01 Nov, 2025  |
-| [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  |
 | [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
+| [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  |
 
 { .block-language-dataview}
 
@@ -47,8 +47,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | File                                                                                   | Location                                                                                                                                | Type       |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
@@ -66,8 +66,8 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                          | Kor             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                          | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                                | Elf             | Male   | Tavern Founder      |
-| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]                          | Human           | Male   | Tavern Founder      |
 | [[2-World/People/Neverwinter/Grayson\|Grayson]]                                        | Vampire         | Male   | Tavern Manager      |
+| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]                          | Human           | Male   | Tavern Founder      |
 | [[2-World/People/Neverwinter/Kask\|Kask]]                                              | Burrog          | Male   | Other               |
 | [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                                    | Loxodon         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                          | Half-Orc        | Male   | Tavern Founder      |

@@ -21,15 +21,15 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                              | Human       | Female     | College Dean       |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling    | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf       | Male       | Professor of Order |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf         | Female     | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                            | Loxodon     | Female     | Professor of Chaos |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                      | Elf         | Female     | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                      | Halfling    | Male       | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                          | Human       | Male       | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]          | Giant       | Male       | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                                              | Orc         | Male       | College Dean       |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin       | Male       | Veteran            |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin       | Male       | Professor of Chaos |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                    | Dragon      | Female     | Founder Dragon     |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                  | Human       | Male       | Professor of Chaos |
