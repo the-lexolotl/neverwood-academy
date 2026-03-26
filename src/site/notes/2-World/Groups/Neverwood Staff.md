@@ -25,8 +25,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                     | Human                  | Female     | Lorehold    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                                     | Orc                    | Male       | Lorehold    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]           | Dragon                 | Female     | Lorehold    | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                 | Owlin                  | Male       | Lorehold    | Professor of Chaos         |
@@ -63,8 +63,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Rock\|Rock]]                                         | Earth Genasi           | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]]                                     | Human                  | Male       | Prismari    | Professor of Expression    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Ahkwa\|Ahkwa]]                                       | Tortle                 | Female     | Prismari    | Professor of Perfection    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]]                                         | Air Genasi             | FtM        | Prismari    | Professor of Perfection    |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Veyran\|Veyran]]                                     | Water Genasi           | Female     | Prismari    | Professor of Perfection    |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]]                                         | Air Genasi             | FtM        | Prismari    | Professor of Perfection    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                                 | Owlin                  | Male       | Quandrix    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]]                                     | Elf                    | Female     | Quandrix    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]                 | Dragon                 | Female     | Quandrix    | Founder Dragon             |

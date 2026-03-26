@@ -11,6 +11,10 @@ Welcome to the authorised archive of **Neverwood Academy**, a centre of magical 
 These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents.
 
 ---
+## [[2-Player Handouts/Academic Information/2nd Year Courses\|Apply for Second Year]]
+
+---
+
 ## 🧭 Student Resources
 
 | ![Player Characters.png](/img/user/z_Assets/website/Player%20Characters.png) | ![Cohorts.png](/img/user/z_Assets/website/Cohorts.png) | ![Handouts.png](/img/user/z_Assets/website/Handouts.png)   | ![Appointments.png](/img/user/z_Assets/website/Appointments.png)                 |
@@ -19,9 +23,9 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 
 ---
 ## 🗞️ Notice Board Highlights
-- ❗ **Subterranean disturbances reported beneath campus**  
-- 📜 **Faculty research volunteers requested**  
-- 🕷️ **Increased ankheg activity under investigation**
+- ❗ **Term 5 exam week is approaching**
+- 📜 **Academy production of "The Merchant of Moons" is underway** 
+- 🕷️ **Students are asked to report any suspicious behaviour immediately**
 
 ### *Failure to read notices is not an excuse.*
 

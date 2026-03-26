@@ -23,8 +23,8 @@
 | File                                                                                                                   | Date Obtained |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                                    | 26 Jul, 2025  |
-| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  |
 | [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
+| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  |
 | [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  |
 
 { .block-language-dataview}
