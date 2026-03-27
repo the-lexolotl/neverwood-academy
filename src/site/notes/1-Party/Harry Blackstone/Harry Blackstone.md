@@ -88,7 +88,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 **Applied Learning:** You start each exam with one reroll available.
 
 #### Banes 
-**Popularity:** 
+**Popularity:** Disadvantage on Charisma based roles when interacting with fellow students (Advantage on rolls to annoy)
 
 ## Other Skills/Proficiencies 
 - Simple Weapons 
