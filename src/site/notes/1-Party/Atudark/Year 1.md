@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 15 \| 12 (20) |  14 \| 17 (20)  |  17 \| 5 (20)   |  14 \| 18 (20)  |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 15 \| 17 (20) |  12 \| 6 (18)   |  23 \| 10 (20)  |                 |       |
+| **Term 5** | 15 \| 17 (20) |  12 \| 6 (18)   |  23 \| 10 (20)  |  12 \| 12 (20)  |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |        |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -57,7 +57,7 @@
 |            |  Perception   |    Insight    |    Nature     |   Medicine    |       |
 | **Term 4** | 4 \| 15 (19)  | 15 \| 5 (20)  | 21 \| 21 (20) | 21 \| 11 (20) |       |
 |            |    Arcana     |   Medicine    |   Deception   |   Survival    |       |
-| **Term 5** | 19 \| 16 (20) | 3 \| 12 (15)  | 18 \| 12 (20) |               |       |
+| **Term 5** | 19 \| 16 (20) | 3 \| 12 (15)  | 18 \| 12 (20) | 15 \| 17 (20) |       |
 |            |    Nature     |    Arcana     |   Medicine    |    Nature     |       |
 | **Term 6** |               |               |               |               |       |
 |            |    Insight    | Investigation |   Medicine    |    Arcana     |       |
@@ -67,10 +67,10 @@
 | **Exam 1** | Arcana  | Medicine |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # A Thorn in One’s Side: The Danger of Misidentified Spell
 > [!info]- Associated Skills
 > - Nature 
@@ -88,7 +88,7 @@
 |            |  Perception   |    Nature     |   Survival    |    History    |       |
 | **Term 4** | 10 \| 24 (20) | 11 \| 13 (20) | 12 \| 13 (20) | 7 \| 16 (20)  |       |
 |            |   Deception   |    Insight    |    Nature     |  Perception   |       |
-| **Term 5** | 17 \| 4 (20)  | 12 \| 12 (20) | 16 \| 11 (20) |               |       |
+| **Term 5** | 17 \| 4 (20)  | 12 \| 12 (20) | 16 \| 11 (20) | 10 \| 14 (20) |       |
 |            |    Arcana     |   Survival    |    Nature     |  Perception   |       |
 | **Term 6** |               |               |               |               |       |
 |            |   Survival    |  Perception   |    Nature     |   Survival    |       |
@@ -99,10 +99,10 @@
 | Exam 1 | Perception | Survival |   8    |   20   |    17    |    -     | 92.5% |  2  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   55%    | N/A  |  45%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   55%    | N/A  |  45%  |
+| Weighted Grade |          |      |       |
 # Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
 > [!info]- Associated Skills
 > - Arcana
@@ -120,7 +120,7 @@
 |            |    Arcana     | Slight of Hand |  Intimidation  |   Deception    |       |
 | **Term 4** |  7 \| 7 (14)  | 10 \| 22 (20)  | 16 \| 14 (20)  |  15 \| 2 (17)  |       |
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
-| **Term 5** | 12 \| 12 (20) |  16 \| 7 (20)  | 12 \| 14 (20)  |                |       |
+| **Term 5** | 12 \| 12 (20) |  16 \| 7 (20)  | 12 \| 14 (20)  |   5 \| 0 (5)   |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
 | **Term 6** |               |                |                |                |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |
@@ -128,10 +128,10 @@
 
 |        |   Skill 1    | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :----------: | :-----: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Intimidation | Arcana  |        |        |          |          |       |     |
+| Exam 1 | Intimidation | Arcana  |   15   |   7    |    -     |    11    |  65%  |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   50%    | N/A  |  50%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   50%    | N/A  |  50%  |
+| Weighted Grade |          |      |       |

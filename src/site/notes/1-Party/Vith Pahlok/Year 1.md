@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Mightier Than the Sword: Beginning Inkomancy
 > [!info]- Associated Skills
 > - Charisma Saves
@@ -67,10 +67,10 @@
 | **Exam 1** | Charisma Save | Persuasion |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   70%    | N/A  |  30%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   70%    | N/A  |  30%  |
+| Weighted Grade |          |      |       |
 # Slam Poetry: Devastating Your Enemies with Magical Insults
 > [!info]- Associated Skills
 > - Intimidation
@@ -99,10 +99,10 @@
 | Exam 1 | Intimidation | Persuasion |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # Cutting Remarks: Turning Words into Weapons as a Shadowing
 > [!info]- Associated Skills
 > - Athletics
@@ -131,7 +131,7 @@
 | Exam 1 | Athletics | Intimidation |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   65%    | N/A  |  35%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   65%    | N/A  |  35%  |
+| Weighted Grade |          |      |       |

@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -67,10 +67,10 @@
 | **Exam 1** | Arcana  | Medicine |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # Falling Into Ruin: Guidelines on Successful Exploration of Historical Sites
 > [!info]- Associated Skills
 > - Athletics 
@@ -99,10 +99,10 @@
 | Exam 1 | Athletics | History |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   50%    | N/A  |  50%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   50%    | N/A  |  50%  |
+| Weighted Grade |          |      |       |
 # Flame of Knowledge: Lessons from the Founders
 > [!info]- Associated Skills
 > - Arcana
@@ -128,10 +128,10 @@
 
 |        | Skill 1 | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-----: | :-----: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | History | Insight |        |        |          |          |       |     |
+| Exam 1 | History | Insight |   1    |   14   |    9     |    -     | 57.5% |  -  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   80%    | N/A  |  20%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   80%    | N/A  |  20%  |
+| Weighted Grade |          |      |       |

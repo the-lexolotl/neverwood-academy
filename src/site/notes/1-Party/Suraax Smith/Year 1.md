@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** |               |                 |                 |  20 \| 4 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 17 \| 10 (20) |  16 \| 6 (20)   |  18 \| 10 (20)  |                 |       |
+| **Term 5** | 17 \| 10 (20) |  16 \| 6 (20)   |  18 \| 10 (20)  |  2 \| 15 (17)   |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Digging Up the Past: Introduction to Archaeomancy
 > [!info]- Associated Skills
 > - Insight 
@@ -57,7 +57,7 @@
 |            |   Religion    |    History    |   Insight    | Investigation |       |
 | **Term 4** |               |               |              | 19 \| 22 (20) |       |
 |            |    Insight    |   Religion    |   History    |  Performance  |       |
-| **Term 5** | 11 \| 15 (20) | 16 \| 9 (20)  | 19 \| 5 (14) |               |       |
+| **Term 5** | 11 \| 15 (20) | 16 \| 9 (20)  | 19 \| 5 (14) | 6 \| 15 (20)  |       |
 |            |    History    | Investigation |   Insight    |   Religion    |       |
 | **Term 6** |               |               |              |               |       |
 |            |    History    |    Insight    |   Religion   |    History    |       |
@@ -68,10 +68,10 @@
 | **Exam 1** | History | Religion |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   70%    | N/A  |  30%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   70%    | N/A  |  30%  |
+| Weighted Grade |          |      |       |
 # Hindsight: Examining and Identifying Historical Arcane Artefacts
 
 > [!info]- Associated Skills
@@ -90,7 +90,7 @@
 |            |  Persuasion   | Investigation |     Tools     |   History    |       |
 | **Term 4** |               |               |               | 11 \| 6 (17) |       |
 |            |     Tools     |   Religion    | Investigation |  Persuasion  |       |
-| **Term 5** | 19 \| 18 (20) | 6 \| 14 (20)  | 15 \| 10 (20) |              |       |
+| **Term 5** | 19 \| 18 (20) | 6 \| 14 (20)  | 15 \| 10 (20) | 3 \| 16 (19) |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
 | **Term 6** |               |               |               |              |       |
 |            |    History    |     Tools     | Investigation |    Tools     |       |
@@ -98,13 +98,13 @@
 
 |        | Skill 1 |    Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-----: | :-----------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | History | Investigation |        |        |          |          |       |     |
+| Exam 1 | History | Investigation |   16   |   18   |    -     |    -     |  85%  |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   55%    | N/A  |  45%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   55%    | N/A  |  45%  |
+| Weighted Grade |          |      |       |
 # Falling Into Ruin: Guidelines on Successful Exploration of Historical Sites
 > [!info]- Associated Skills
 > - Athletics 
@@ -122,7 +122,7 @@
 |            |     Insight     |    Athletics    |   History    | Sleight of Hand |       |
 | **Term 4** |                 |                 |              |   2 \| 1 (3)    |       |
 |            | Sleight of Hand |     History     |  Athletics   |  Investigation  |       |
-| **Term 5** |  11 \| 6 (17)   |  12 \| 3 (15)   | 4 \| 19 (20) |                 |       |
+| **Term 5** |  11 \| 6 (17)   |  12 \| 3 (15)   | 4 \| 19 (20) |  21 \| 14 (20)  |       |
 |            |     History     | Sleight of Hand |   Survival   |    Athletics    |       |
 | **Term 6** |                 |                 |              |                 |       |
 |            |    Athletics    |   Perception    |   History    | Sleight of Hand |       |
@@ -133,7 +133,7 @@
 | Exam 1 | Athletics | History |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   50%    | N/A  |  50%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   50%    | N/A  |  50%  |
+| Weighted Grade |          |      |       |

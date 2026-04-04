@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -67,10 +67,10 @@
 | **Exam 1** | Arcana  | Medicine |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # Weeding Out the Weak: Introduction to Blight Magic
 > [!info]- Associated Skills
 > - Alchemy Tools 
@@ -100,10 +100,10 @@
 
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   50%    | N/A  |  50%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   50%    | N/A  |  50%  |
+| Weighted Grade |          |      |       |
 # Art of War: Techniques Used in Dance and Combat
 > [!info]- Associated Skills
 > - Athletics
@@ -132,7 +132,7 @@
 | Exam 1 | Athletics | Acrobatics |   11   |   6    |    -     |    -     | 42.5% |  -  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   85%    | N/A  |  15%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   85%    | N/A  |  15%  |
+| Weighted Grade |          |      |       |

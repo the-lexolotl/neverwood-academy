@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -67,10 +67,10 @@
 | **Exam 1** | Arcana  | Medicine |   5    |   9    |    -     |    -     |  35%  |  -  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # A Thorn in One’s Side: The Danger of Misidentified Spell
 > [!info]- Associated Skills
 > - Nature 
@@ -99,10 +99,10 @@
 | Exam 1 | Perception | Survival |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   55%    | N/A  |  45%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   55%    | N/A  |  45%  |
+| Weighted Grade |          |      |       |
 # Art of War: Techniques Used in Dance and Combat
 > [!info]- Associated Skills
 > - Athletics
@@ -128,10 +128,10 @@
 
 |        |  Skill 1  |  Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-------: | :--------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Athletics | Acrobatics |        |        |          |          |       |     |
+| Exam 1 | Athletics | Acrobatics |   -2   |   9    |    -     |    -     | 17.5% |  -  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   85%    | N/A  |  15%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   85%    | N/A  |  15%  |
+| Weighted Grade |          |      |       |

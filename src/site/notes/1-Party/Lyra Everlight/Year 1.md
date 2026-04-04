@@ -22,7 +22,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 10 \| 17 (20) |  16 \| 5 (20)   |  13 \| 14 (20)  |  8 \| 11 (19)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** |  8 \| 2 (10)  |  16 \| 11 (20)  |  11 \| 3 (14)   |                 |       |
+| **Term 5** |  8 \| 2 (10)  |  16 \| 11 (20)  |  11 \| 3 (14)   |  3 \| 17 (20)   |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -35,10 +35,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Mightier Than the Sword: Beginning Inkomancy
 > [!info]- Associated Skills
 > - Charisma Saves
@@ -56,7 +56,7 @@
 |            |     Insight      | Charisma Save | Charisma Ability |  Persuasion   |       |
 | **Term 4** |  16 \| 25 (20)   | 10 \| 20 (20) |  12 \| 24 (20)   | 21 \| 14 (20) |       |
 |            |    Persuasion    | Spell Attack  |  Charisma Save   |  Performance  |       |
-| **Term 5** |   21 \| 7 (20)   | 12 \| 21 (20) |  13 \| 12 (20)   |               |       |
+| **Term 5** |   21 \| 7 (20)   | 12 \| 21 (20) |  13 \| 12 (20)   | 12 \| 13 (20) |       |
 |            | Charisma Ability |  Persuasion   |   Spell Attack   | Charisma Save |       |
 | **Term 6** |                  |               |                  |               |       |
 |            |   Spell Attack   | Charisma Save |    Persuasion    |  Performance  |       |
@@ -66,10 +66,10 @@
 | **Exam 1** | Charisma Save | Persuasion |   18   |   25   |    -     |    -     |  95%  |  2  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # A Kind Word: Introduction to the Magic of Compliments
 > [!info]- Associated Skills
 > - Arcana
@@ -87,7 +87,7 @@
 |            |   Medicine    |      Arcana       |   Medicine    |  Persuasion   |       |
 | **Term 4** | 17 \| 17 (20) |   21 \| 8 (20)    | 20 \| 4 (20)  | 5 \| 23 (20)  |       |
 |            |  Persuasion   |     Medicine      |    Arcana     |  Performance  |       |
-| **Term 5** |  3 \| 2 (5)   |   13 \| 20 (20)   | 21 \| 17 (20) |               |       |
+| **Term 5** |  3 \| 2 (5)   |   13 \| 20 (20)   | 21 \| 17 (20) | 16 \| 8 (20)  |       |
 |            |    Arcana     |    Persuasion     |   Medicine    |   Deception   |       |
 | **Term 6** |               |                   |               |               |       |
 |            | Charisma Save |     Medicine      |  Persuasion   |    Arcana     |       |
@@ -98,10 +98,10 @@
 | Exam 1 | Medicine | Persuasion |   12   |   7    |    -     |    14    |  65%  |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   55%    | N/A  |  45%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   55%    | N/A  |  45%  |
+| Weighted Grade |          |      |       |
 # Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
 > [!info]- Associated Skills
 > - Arcana
@@ -119,7 +119,7 @@
 |            |    Arcana     | Slight of Hand |  Intimidation  |   Deception    |       |
 | **Term 4** | 25 \| 16 (20) |  7 \| 14 (20)  | 15 \| 17 (20)  | 15 \| 19 (20)  |       |
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
-| **Term 5** |  4 \| 8 (12)  |  19 \| 4 (20)  | 14 \| 23 (20)  |                |       |
+| **Term 5** |  4 \| 8 (12)  |  19 \| 4 (20)  | 14 \| 23 (20)  |  19 \| 7 (20)  |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
 | **Term 6** |               |                |                |                |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |
@@ -127,10 +127,10 @@
 
 |        |   Skill 1    | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :----------: | :-----: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Intimidation | Arcana  |        |        |          |          |       |     |
+| Exam 1 | Intimidation | Arcana  |   7    |   9    |    -     |    -     |  40%  |  -  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   50%    | N/A  |  50%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   50%    | N/A  |  50%  |
+| Weighted Grade |          |      |       |

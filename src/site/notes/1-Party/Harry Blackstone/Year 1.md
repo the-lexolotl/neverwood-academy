@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 22 \| 16 (20) |  16 \| 11 (20)  |  12 \| 5 (17)   |  20 \| 7 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 18 \| 20 (20) |  24 \| 14 (20)  |  15 \| 15 (20)  |                 |       |
+| **Term 5** | 18 \| 20 (20) |  24 \| 14 (20)  |  15 \| 15 (20)  |  10 \| 8 (18)   |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -36,10 +36,10 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Connecting the Dots: Beginning Computational Magic
 > [!info]- Associated Skills
 > - Arcana
@@ -57,7 +57,7 @@
 |            |  Intelligence Save   |      Arcana       | Intelligence Ability |        Nature        |       |
 | **Term 4** |    18 \| 21 (20)     |   8 \| 21 (20)    |    10 \| 20 (20)     |    19 \| 17 (20)     |       |
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
-| **Term 5** |     19 \| 9 (20)     |    7 \| 9 (16)    |    22 \| 25 (20)     |                      |       |
+| **Term 5** |     19 \| 9 (20)     |    7 \| 9 (16)    |    22 \| 25 (20)     |    15 \| 12 (20)     |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
 | **Term 6** |                      |                   |                      |                      |       |
 |            |        Nature        |      History      |        Arcana        | Intelligence Ability |       |
@@ -67,10 +67,10 @@
 | **Exam 1** | Arcana  | Nature  |   21   |   24   |    -     |    -     | 100%  |  2  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   70%    | N/A  |  30%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   70%    | N/A  |  30%  |
+| Weighted Grade |          |      |       |
 # Birds of a Feather: Introduction to Recognition of Natural Patterns
 > [!info]- Associated Skills
 > - Insight
@@ -88,7 +88,7 @@
 |            |  Perception   |        Nature        | Intelligence Save |     Insight     |       |
 | **Term 4** | 16 \| 6 (20)  |    24 \| 19 (20)     |   10 \| 23 (20)   |  10 \| 8 (18)   |       |
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
-| **Term 5** |  9 \| 2 (11)  |     17 \| 2 (19)     |   14 \| 19 (20)   |                 |       |
+| **Term 5** |  9 \| 2 (11)  |     17 \| 2 (19)     |   14 \| 19 (20)   |  15 \| 11 (20)  |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |
 | **Term 6** |               |                      |                   |                 |       |
 |            |    Nature     |  Intelligence Save   |    Perception     |     Insight     |       |
@@ -99,10 +99,10 @@
 | Exam 1 | Nature  | Perception |   20   |   9    |    -     |    -     |  72%  |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # Growing Pains: How Larger Numbers Can Cause More Hurt
 > [!info]- Associated Skills
 > - Arcana
@@ -121,7 +121,7 @@
 |            |        Arcana        | Constitution Ability |  Intelligence Save   |        Arcana        |       |
 | **Term 4** |     8 \| 5 (13)      |    14 \| 21 (20)     |    21 \| 17 (20)     |      5 \| 4 (9)      |       |
 |            |       Insight        |        Arcana        | Intelligence Ability | Constitution Ability |       |
-| **Term 5** |    20 \| 22 (20)     |      5 \| 4 (9)      |    18 \| 12 (20)     |                      |       |
+| **Term 5** |    20 \| 22 (20)     |      5 \| 4 (9)      |    18 \| 12 (20)     |    11 \| 14 (20)     |       |
 |            |      Perception      |  Constitution Save   |        Arcana        |  Intelligence Save   |       |
 | **Term 6** |                      |                      |                      |                      |       |
 |            | Intelligence Ability |        Arcana        |  Constitution Save   |        Arcana        |       |
@@ -129,10 +129,10 @@
 
 |        | Skill 1 |   Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-----: | :----------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Arcana  | Intelligence |        |        |          |          |       |     |
+| Exam 1 | Arcana  | Intelligence |   11   |   19   |    20    |    -     | 97.5% |  2  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   70%    | N/A  |  30%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   70%    | N/A  |  30%  |
+| Weighted Grade |          |      |       |

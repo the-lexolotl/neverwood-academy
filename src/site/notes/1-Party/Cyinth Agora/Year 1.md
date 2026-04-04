@@ -23,7 +23,7 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 17 \| 19 (20) |  13 \| 15 (20)  |   9 \| 7 (16)   |  21 \| 8 (20)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 18 \| 22 (20) |  7 \| 15 (20)   |  15 \| 12 (20)  |                 |       |
+| **Term 5** | 18 \| 22 (20) |  7 \| 15 (20)   |  15 \| 12 (20)  |  11 \| 22 (20)  |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
 | **Term 6** |               |                 |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
@@ -32,14 +32,14 @@
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   17   |   11   |    -     |    -     |  70%  |  1  |
-| **Exam 2** |    Nature     | Animal Handling |   23   |   9    |          |    20    | 100%  |  2  |
+| **Exam 2** |    Nature     | Animal Handling |   23   |   9    |    -     |    20    | 100%  |  2  |
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+| Weighted Grade |          |      |       |
 # Digging Up the Past: Introduction to Archaeomancy
 > [!info]- Associated Skills
 > - Insight 
@@ -57,7 +57,7 @@
 |            |   Religion    |    History    |    Insight    | Investigation |       |
 | **Term 4** | 13 \| 10 (20) | 16 \| 6 (20)  | 17 \| 22 (20) |  3 \| 5 (8)   |       |
 |            |    Insight    |   Religion    |    History    |  Performance  |       |
-| **Term 5** | 19 \| 7 (20)  | 8 \| 15 (20)  |  2 \| 8 (10)  |               |       |
+| **Term 5** | 19 \| 7 (20)  | 8 \| 15 (20)  |  2 \| 8 (10)  | 9 \| 19 (20)  |       |
 |            |    History    | Investigation |    Insight    |   Religion    |       |
 | **Term 6** |               |               |               |               |       |
 |            |    History    |    Insight    |   Religion    |    History    |       |
@@ -67,10 +67,10 @@
 | **Exam 1** | History | Religion |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   70%    | N/A  |  30%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   70%    | N/A  |  30%  |
+| Weighted Grade |          |      |       |
 # Everything Old is New Again: Methods of Archaeological Preservation
 
 > [!info]- Associated Skills
@@ -79,20 +79,20 @@
 > - Investigation
 
 ## Homework
-|            |    Week 1     |    Week 2     |    Week 3     |    Week 4    | Total |
-| :--------: | :-----------: | :-----------: | :-----------: | :----------: | :---: |
-| **Term 1** | 16 \| 5 (20)  | 3 \| 11 (14)  |  7 \| 8 (15)  | 10 \| 3 (13) |       |
-|            | Investigation |   Deception   |    History    |  Deception   |       |
-| **Term 2** | 13 \| 8 (20)  | 11 \| 13 (20) | 13 \| 24 (20) | 8 \| 19 (20) |       |
-|            | Investigation |  Persuasion   |    History    |    Arcana    |       |
-| **Term 3** |               |               |               |              |       |
-|            |  Persuasion   | Investigation |   Deception   |   History    |       |
-| **Term 4** | 19 \| 11 (20) | 20 \| 9 (20)  | 14 \| 11 (20) |  3 \| 2 (5)  |       |
-|            |   Deception   |   Religion    | Investigation |  Persuasion  |       |
-| **Term 5** | 11 \| 12 (20) | 13 \| 20 (20) | 14 \| 20 (20) |              |       |
-|            | Investigation |  Persuasion   |    History    |    Arcana    |       |
-| **Term 6** |               |               |               |              |       |
-|            |    History    |   Deception   | Investigation |  Deception   |       |
+|            |    Week 1     |    Week 2     |    Week 3     |    Week 4     | Total |
+| :--------: | :-----------: | :-----------: | :-----------: | :-----------: | :---: |
+| **Term 1** | 16 \| 5 (20)  | 3 \| 11 (14)  |  7 \| 8 (15)  | 10 \| 3 (13)  |       |
+|            | Investigation |   Deception   |    History    |   Deception   |       |
+| **Term 2** | 13 \| 8 (20)  | 11 \| 13 (20) | 13 \| 24 (20) | 8 \| 19 (20)  |       |
+|            | Investigation |  Persuasion   |    History    |    Arcana     |       |
+| **Term 3** |               |               |               |               |       |
+|            |  Persuasion   | Investigation |   Deception   |    History    |       |
+| **Term 4** | 19 \| 11 (20) | 20 \| 9 (20)  | 14 \| 11 (20) |  3 \| 2 (5)   |       |
+|            |   Deception   |   Religion    | Investigation |  Persuasion   |       |
+| **Term 5** | 11 \| 12 (20) | 13 \| 20 (20) | 14 \| 20 (20) | 23 \| 16 (20) |       |
+|            | Investigation |  Persuasion   |    History    |    Arcana     |       |
+| **Term 6** |               |               |               |               |       |
+|            |    History    |   Deception   | Investigation |   Deception   |       |
 ## Exams
 
 |        |  Skill 1  |    Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -100,10 +100,10 @@
 | Exam 1 | Deception | Investigation |   20   |   12   |    -     |    6     |  65%  |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+| Weighted Grade |          |      |       |
 # Don't Hate, Cultivate: Augmenting for Beginners
 > [!info]- Associated Skills
 > - Athletics
@@ -121,7 +121,7 @@
 |            |  Perception   |   Athletics   |    Nature     |   Survival    |       |
 | **Term 4** | 18 \| 12 (20) | 10 \| 22 (20) | 6 \| 12 (18)  | 13 \| 15 (20) |       |
 |            |   Survival    |    Nature     |   Athletics   |  Perception   |       |
-| **Term 5** |  4 \| 9 (13)  | 11 \| 19 (20) | 17 \| 6 (20)  |               |       |
+| **Term 5** |  4 \| 9 (13)  | 11 \| 19 (20) | 17 \| 6 (20)  |  6 \| 9 (15)  |       |
 |            |    Nature     |   Survival    | Strength Save |   Athletics   |       |
 | **Term 6** |               |               |               |               |       |
 |            |   Athletics   |  Perception   |    Nature     |   Survival    |       |
@@ -129,10 +129,10 @@
 
 |        |  Skill 1  | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :-------: | :------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Athletics | Survival |        |        |          |          |       |     |
+| Exam 1 | Athletics | Survival |   8    |   7    |    0     |    8     |  20%  |  -  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   50%    | N/A  |  50%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   50%    | N/A  |  50%  |
+| Weighted Grade |          |      |       |
