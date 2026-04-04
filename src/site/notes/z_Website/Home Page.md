@@ -23,7 +23,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 
 ---
 ## 🗞️ Notice Board Highlights
-- ❗ **Term 5 exam week is approaching**
+- ❗ **College Application Deadline - 15th Mirtul**
 - 📜 **Academy production of "The Merchant of Moons" is underway** 
 - 🕷️ **Students are asked to report any suspicious behaviour immediately**
 
@@ -99,4 +99,4 @@ FantasyCalendar({
 | **[Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join)** | **[[z_Website/House Rules\|House Rules]]** | **[[z_Website/Downtime Activities\|Downtime Activities]]** | **[[z_Website/Safety Tools\|Safety Tools]]** |
 
 ---
-*Neverwood Academy accepts no responsibility for injuries sustained during unsanctioned study, exploration, or curiosity.*
+*Disclaimer: A degree from Neverwood Academy does not provide protection from magic missiles, fireballs, freezing spheres, or any other deleterious effects spellcasters might generate. If you create deleterious effects, Neverwood kindly requests you refrain from invoking any names, symbols, or other references to the academy should you find yourself in a confrontation. Neverwood Academy does not take responsibility for any injury of any nature sustained in the course of anything, magical or otherwise.*

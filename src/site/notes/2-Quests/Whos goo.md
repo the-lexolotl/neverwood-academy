@@ -23,8 +23,8 @@
 | File                                                                                                                   | Date Obtained |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                                    | 26 Jul, 2025  |
-| [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
 | [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  |
+| [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
 | [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  |
 
 { .block-language-dataview}
@@ -56,8 +56,8 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                     | Halfling        | Female | Applicant             |
 | [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                                   | Treant          | Female | Grounds Keeper        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
-| [[1-Party/Atudark/Atudark\|Atudark]]                                                        | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                   | Triton          | Male   | Player                |
+| [[1-Party/Atudark/Atudark\|Atudark]]                                                        | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                         | Aarakocra       | Female | Player                |
