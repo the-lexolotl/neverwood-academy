@@ -91,6 +91,11 @@ Atudark venerates a Yuan-Ti deity of necromancy, a legendary figure said to have
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
 |        +2        |        +2        |        -1        |  +1  |     0      |
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 195 lbs*

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":2,"hp":19,"max_hp":19,"ac":13,"modifier":1,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":null,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/milfjord-goodleaf/milfjord-goodleaf/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":3,"hp":27,"max_hp":27,"ac":13,"modifier":1,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":1,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/milfjord-goodleaf/milfjord-goodleaf/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -10,16 +10,16 @@
 > ---|---|---|---|
 > **Race** | Halfling | **Gender** | Male |
 > **Class** | Druid | **Age** | Young Adult |
-> **Subclass** | None | **Languages** | Common,Druidic,Dwarvish,Goblin,Halfling |
-> **Level** | 2 | **College** | Witherbloom |
+> **Subclass** | Circle of Spores | **Languages** | Common,Druidic,Dwarvish,Goblin,Halfling |
+> **Level** | 3 | **College** | Witherbloom |
 > **Status** | Alive | **Academic Year** | 1 |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 19 | **Passive Perception** | 11 |
+> **Max HP** | 27 | **Passive Perception** | 11 |
 > **AC** | 13 | **Passive Insight** | 11 |
 > **Initiative** | 1 | **Passive Investigation** | 12 |
-> **Proficiency** | 2 | **Darkvision** | None |
+> **Proficiency** | 1 | **Darkvision** | None |
 > ###### Movement
 > Travel Type | Distance | Jump Type | Distance |
 > ---|---|---|---|
@@ -74,11 +74,24 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 | ○   | Wis | Insight         | +1    |     | ○   | Dex | Slight of Hand | +1    |
 | ○   | Cha | Intimidation    | +0    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | +2    |     | ●   | Wis | Survival       | +3    |
+## Other Skills/Proficiencies 
+- Advantage to avoid or end the Frightened condition
+- Light Armour 
+- Shields
+- Simple Weapons 
+- Herbalism Kit
+- Poisoner's Kit
+
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        +2        |        +2        |  0   |     +1     |
+|        0         |        +2        |        +2        |  0   |     +1     |
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 120 lbs*

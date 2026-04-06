@@ -82,12 +82,6 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 | ○   | Wis | Insight         | +1    |     | ○    | Dex | Slight of Hand | +0    |
 | ○   | Cha | Intimidation    | +3    |     | ○(D) | Dex | Stealth        | +0    |
 | ○   | Int | Investigation   | -1    |     | ○    | Wis | Survival       | +1    |
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        +2        |        +2        |  +1  |     0      |
-
 ## Other Skills/Proficiencies 
 - Resistance against Lightning damage
 - Heavy Armour 
@@ -95,7 +89,19 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 - Medium Armour 
 - Shields
 - Martial Weapons 
-- Simple Weapons
+- Simple Weapons 
+
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        +2        |        +2        |  +1  |     0      |
+
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 240 lbs*

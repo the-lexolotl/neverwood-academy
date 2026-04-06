@@ -79,6 +79,15 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | ○    | Wis | Insight         | -1    |     | ○    | Dex | Slight of Hand | +0    |
 | ●    | Cha | Intimidation    | +3    |     | ○    | Dex | Stealth        | +0    |
 | ○(A) | Int | Investigation   | +1    |     | ○(A) | Wis | Survival       | -1    |
+## Other Skills/Proficiencies 
+- Light Armour
+- Medium Armour
+- Shields
+- Martial Weapons 
+- Simple Weapons
+- Alchemist's Supplies 
+- Smith's Tools 
+
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -89,14 +98,11 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 **Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
-## Other Skills/Proficiencies 
-- Light Armour
-- Medium Armour
-- Shields
-- Martial Weapons 
-- Simple Weapons
-- Alchemist's Supplies 
-- Smith's Tools
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 255 lbs*

@@ -25,14 +25,14 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                     | Human                  | Female     | Lorehold    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                                     | Orc                    | Male       | Lorehold    | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]           | Dragon                 | Female     | Lorehold    | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                   | Loxodon                | Female     | Lorehold    | Professor of Chaos         |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]             | Elf                    | Female     | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]             | Halfling               | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                 | Human                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                 | Owlin                  | Male       | Lorehold    | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                         | Human                  | Male       | Lorehold    | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]               | Halfling               | Female     | Lorehold    | Professor of Order         |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                 | Dwarf                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | Giant                  | Male       | Lorehold    | Professor of Order         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                     | Owlin                  | Female     | Lorehold    | Professor of Order         |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                       | Gnome                  | Female     | Lorehold    | Professor of Order         |

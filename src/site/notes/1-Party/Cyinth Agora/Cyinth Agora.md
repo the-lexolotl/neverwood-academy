@@ -69,14 +69,6 @@
 | ○   | Wis | Insight         | +2    |     | ○   | Dex | Slight of Hand | +1    |
 | ○   | Cha | Intimidation    | +1    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | +3    |     | ○   | Wis | Survival       | +2    |
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        +3        |        0         |  0   |     +2     |
-#### Boons 
-**Applied Learning:** You start each exam with one reroll available.
-
 ## Other Skills/Proficiencies 
 - Light Armour 
 - Medium Armour 
@@ -86,6 +78,20 @@
 - Alchemist's Supplies 
 - Thieves' Tools 
 - Tinker's Tools
+
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        -1        |        +3        |        0         |  0   |     +2     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 150 lbs*

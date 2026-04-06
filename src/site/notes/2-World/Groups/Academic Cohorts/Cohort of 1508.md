@@ -25,6 +25,7 @@ The following people are members of this group.
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                                       | Aarakocra       | Female | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi      | Female | Prismari    |
 | [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                                                                          | Kobold          | Female | Silverquill |
+| [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]]                                               | Halfling        | Male   | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged       | Male   | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human           | Male   | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf           | Female | Lorehold    |

@@ -69,6 +69,11 @@
 | ○   | Wis | Insight         | +1    |     | ○   | Dex | Slight of Hand | +1    |
 | ○   | Cha | Intimidation    | +3    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | +2    |     | ○   | Wis | Survival       | +1    |
+## Other Skills/Proficiencies 
+- Resistance against Necrotic damage
+- Simple Weapons 
+- Painter's Supplies 
+
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -77,10 +82,11 @@
 #### Boons 
 **Extracurriculars:** Your student die from Extracurriculars is now a d8. Gain one additional student dice each week.
 
-## Other Skills/Proficiencies 
-- Resistance against Necrotic damage
-- Simple Weapons 
-- Painter's Supplies
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 120 lbs*

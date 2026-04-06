@@ -77,6 +77,14 @@ Ultimately, Glue dreams of becoming a healer whose work transcends the boundarie
 | ○   | Wis | Insight         | +3    |     | ●   | Dex | Slight of Hand | +3    |
 | ○   | Cha | Intimidation    | +1    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | +2    |     | ●   | Wis | Survival       | +5    |
+## Other Skills/Proficiencies 
+- Resistance against Cold damage
+- Light Armour 
+- Shields
+- Simple Weapons 
+- Herbalism Kit 
+- Alchemist's Supplies 
+
 ## Student Skill Points
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -85,13 +93,12 @@ Ultimately, Glue dreams of becoming a healer whose work transcends the boundarie
 #### Boons 
 **Applied Learning:** You start each exam with one reroll available.
 
-## Other Skills/Proficiencies 
-- Resistance against Cold damage
-- Light Armour 
-- Shields
-- Simple Weapons 
-- Herbalism Kit 
-- Alchemist's Supplies
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
+
 
 # Inventory
 *Carrying Capacity: 150 lbs*

@@ -78,6 +78,14 @@ Vith’s goals are straightforward — to dominate the Mage Tower circuit, to pu
 | ○   | Wis | Insight         | +0    |     | ○   | Dex | Slight of Hand | +1    |
 | ●   | Cha | Intimidation    | +5    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | -1    |     | ○   | Wis | Survival       | +0    |
+## Other Skills/Proficiencies 
+- Resistance against Cold damage
+- Light Armour 
+- Medium Armour
+- Shields
+- Martial Weapons 
+- Simple Weapons
+- Drum
 
 ## Student Skill Points 
 
@@ -87,14 +95,11 @@ Vith’s goals are straightforward — to dominate the Mage Tower circuit, to pu
 #### Boons
 **Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
-## Other Skills/Proficiencies 
-- Resistance against Cold damage
-- Light Armour 
-- Medium Armour
-- Shields
-- Martial Weapons 
-- Simple Weapons
-- Drum
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 240 lbs*

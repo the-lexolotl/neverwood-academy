@@ -77,11 +77,11 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human           | Male   | Professor of Chaos  |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player              |
-| [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                    | Aarakocra       | Female | Player              |
 | [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player              |
-| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
+| [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                    | Aarakocra       | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player              |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
+| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
 | [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}

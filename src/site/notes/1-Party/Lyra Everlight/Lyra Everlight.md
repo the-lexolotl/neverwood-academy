@@ -78,14 +78,6 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 | ●   | Wis | Insight         | +4    |     | ○   | Dex | Slight of Hand | +1    |
 | ●   | Cha | Intimidation    | +5    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | +1    |     | ○   | Wis | Survival       | +2    |
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +1        |        -1        |  0   |     +3     |
-#### Boons
-**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
-
 ## Other Skills/Proficiencies 
 - Resistance against Necrotic damage
 - Resistance against Radiant damage
@@ -94,7 +86,21 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 - Medium Armour 
 - Shields
 - Martial Weapons 
-- Simple Weapons
+- Simple Weapons 
+
+## Student Skill Points 
+
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +1        |        +1        |        -1        |  0   |     +3     |
+#### Boons
+**Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
+
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 120 lbs*

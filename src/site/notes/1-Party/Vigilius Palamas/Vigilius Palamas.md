@@ -77,14 +77,6 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 | ●   | Wis | Insight         | +5    |     | ○   | Dex | Slight of Hand | +2    |
 | ○   | Cha | Intimidation    | +1    |     | ○   | Dex | Stealth        | +2    |
 | ○   | Int | Investigation   | -1    |     | ○   | Wis | Survival       | +3    |
-## Student Skill Points 
-
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +3        |        -1        |  0   |     +1     |
-#### Boons 
-**Applied Learning:** You start each exam with one reroll available.
-
 ## Other Skills/Proficiencies 
 - Resistance against Fire
 - Crossbow
@@ -96,7 +88,19 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 - Herbalism Kit 
 - Tinker's Tools
 
+## Student Skill Points 
 
+| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
+| :--------------: | :--------------: | :--------------: | :--: | :--------: |
+|        +1        |        +3        |        -1        |  0   |     +1     |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 195 lbs*

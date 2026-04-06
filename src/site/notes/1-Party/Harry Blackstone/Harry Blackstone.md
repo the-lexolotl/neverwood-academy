@@ -77,6 +77,12 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 | ●   | Wis | Insight         | +3    |     | ○   | Dex | Slight of Hand | +1    |
 | ○   | Cha | Intimidation    | +1    |     | ●   | Dex | Stealth        | +3    |
 | ★   | Int | Investigation   | +7    |     | ○   | Wis | Survival       | +1    |
+## Other Skills/Proficiencies 
+- Simple Weapons 
+- Alchemist's Supplies 
+- Jeweller's Tools 
+- Woodcarver's Tools 
+
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
@@ -90,11 +96,11 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 #### Banes 
 **Popularity:** Disadvantage on Charisma based roles when interacting with fellow students (Advantage on rolls to annoy)
 
-## Other Skills/Proficiencies 
-- Simple Weapons 
-- Alchemist's Supplies 
-- Jeweller's Tools 
-- Woodcarver's Tools
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
 
 # Inventory
 *Carrying Capacity: 120 lbs*

@@ -103,6 +103,12 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 - Thieves' Tools 
 - Woodcarver's Tools
 
+# Student Dice
+### Extracurricular - Once per tenday
+- [ ] 
+### Single Use
+- [ ] 
+
 # Inventory
 *Carrying Capacity: 120 lbs*
 *Push, Drag, or Lift: 240 lbs*
