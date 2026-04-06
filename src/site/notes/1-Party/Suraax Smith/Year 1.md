@@ -3,7 +3,7 @@
 ---
 
 # Timetable
-![z_Assets/Class Timetables/First Year Timetable - Ross (Suraax).png](/img/user/z_Assets/Class%20Timetables/First%20Year%20Timetable%20-%20Ross%20(Suraax).png)
+![First Year Timetable - Ross (Suraax) 1.png](/img/user/z_Assets/Class%20Timetables/First%20Year/First%20Year%20Timetable%20-%20Ross%20(Suraax)%201.png)
 
 # A is for Ankheg: A Complete Guide on 26 Classic Monsters
 > [!info]- Associated Skills

@@ -43,7 +43,7 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad           | Female | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai      | Male   | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human           | Male   | Prismari    |
-| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Minotaur        | Male   | Witherbloom |
+| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Minotaur        | Male   | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome           | Female | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin           | Female | Silverquill |
