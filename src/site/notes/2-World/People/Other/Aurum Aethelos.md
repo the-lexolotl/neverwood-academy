@@ -41,8 +41,13 @@ Despite his suffering, Aurum Aethelos remains deeply tied to the balance of the 
 # Connections
 
 **Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

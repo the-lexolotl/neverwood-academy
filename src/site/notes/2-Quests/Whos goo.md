@@ -49,7 +49,7 @@
 - [ ] Purify the waters of Sedgemoor
 - [ ] Confirm Murgaxor's connection to the tainted balm
 
-## Quest Handouts
+# Quest Handouts
 | File                                                                                                                   | Date Obtained |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Murgaxor's Diary\|Murgaxor's Diary]]                                                            | \-            |
@@ -77,9 +77,7 @@ Students were attacked by a mimic on their first day of [[2-World/Hubs/Neverwood
 
 
 # People
-
 The following people are associated with this quest.
-
 | Character                                                                                      | Race            | Gender | Role                  |
 | ---------------------------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                                   | Treant          | Female | Grounds Keeper        |

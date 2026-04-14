@@ -23,8 +23,13 @@
 # Connections
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

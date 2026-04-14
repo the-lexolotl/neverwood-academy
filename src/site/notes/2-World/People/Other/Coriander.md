@@ -23,8 +23,13 @@ Coriander is a loyal homunculus who serves Freyot, attending to his needs and as
 # Connections
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Other/Freyot\|Freyot]]

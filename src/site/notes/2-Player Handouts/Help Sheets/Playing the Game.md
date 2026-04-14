@@ -8,8 +8,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ![Playing the game.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Playing%20the%20game.png)

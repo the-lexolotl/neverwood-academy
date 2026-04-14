@@ -11,7 +11,7 @@
 - [x] ~~Free the chest from its viney captor~~
 - [x] ~~Return the items to [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]~~
 
-## Quest Handouts
+# Quest Handouts
 | File | Date Obtained |
 | ---- | ------------- |
 
@@ -33,7 +33,6 @@ Deputy Head [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruana
 
 
 # People
-
 The following people are associated with this quest.
 | File                                                                        | Race    | Gender | Role                |
 | --------------------------------------------------------------------------- | ------- | ------ | ------------------- |

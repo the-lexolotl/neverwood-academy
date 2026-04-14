@@ -6,8 +6,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ![Dorm Rooms.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Dorm%20Rooms.png)

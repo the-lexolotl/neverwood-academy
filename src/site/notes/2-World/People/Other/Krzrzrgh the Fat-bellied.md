@@ -23,8 +23,13 @@
 # Connections
 
 **Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

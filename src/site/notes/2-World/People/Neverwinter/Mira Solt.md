@@ -18,7 +18,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Mira Solt has lived in Neverwinter her entire life. She knows its streets, its shifting neighbourhood politics, and which alleyways to avoid after dusk. Her manner is sharp, dry, and faintly harried — the natural condition of someone who has spent decades rescuing first editions from careless hands.
@@ -40,8 +40,13 @@ She does not elaborate unless pressed.
 # Connections
 
 **Quests:** None
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

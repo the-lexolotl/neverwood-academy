@@ -11,9 +11,10 @@
 - [x] ~~Investigate the anonymous patron behind the production~~
 - [x] ~~Discover the hidden messages in the altered script~~
 - [x] ~~Choose how to perform at the final audition — expose, defy, or refuse~~
+- [ ] Perform in The Merchant of Moons at The Rose Festival
 - [ ] Uncover the truth behind the Everlight Trust’s connection to Silverquill
 
-## Quest Handouts
+# Quest Handouts
 | File | Date Obtained |
 | ---- | ------------- |
 
@@ -37,7 +38,6 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 
 
 # People
-
 The following people are associated with this quest.
 | File                                                             | Race            | Gender | Role   |
 | ---------------------------------------------------------------- | --------------- | ------ | ------ |

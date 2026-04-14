@@ -23,8 +23,14 @@
 # Connections
 
 **Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
-
 **Groups:**  [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
+
+### Associated Handouts
+| File                                                                                                               | Date Obtained |
+| ------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]] | 06 Sep, 2025  |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]

@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Baz is impossible to miss. A sharp-eyed owlin with a flair for drama and biting wit, he moves effortlessly between bartender, performer, and master of ceremonies at the Lucid Dreamer. Every word is chosen for effect, every gesture part of a performance—even when he insists he’s being perfectly sincere.
@@ -24,8 +24,14 @@ Though he plays the part of a caustic entertainer, Baz is deeply protective of [
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

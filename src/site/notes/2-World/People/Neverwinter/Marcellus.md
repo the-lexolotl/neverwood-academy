@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Marcellus is a gentle, soft-spoken loxodon who runs the bar at [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]] with a scholar’s care and a historian’s patience. A former Lorehold student who never quite finished his studies, he speaks fondly—and at great length—about ancient battles, heroic legends, and half-remembered lectures. Conversations with Marcellus often wander, looping back on themselves as he searches for the right academic phrasing.
@@ -24,8 +24,13 @@ Despite his absent-minded nature, Marcellus takes his role seriously. He believe
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

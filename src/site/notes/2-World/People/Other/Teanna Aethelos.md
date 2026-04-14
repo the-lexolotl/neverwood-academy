@@ -43,8 +43,13 @@ Teanna treats visitors — especially mortals — as fragile beings in need of p
 # Connections
 
 **Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

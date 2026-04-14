@@ -43,7 +43,7 @@
 ### Resolution
 - [x] ~~Report back to Jimmy~~
 
-## Quest Handouts
+# Quest Handouts
 | File                                                                                 | Date Obtained |
 | ------------------------------------------------------------------------------------ | ------------- |
 | [[2-Player Handouts/Academy Events/Winter Solstice Dance\|Winter Solstice Dance]] | 11 Oct, 2025  |
@@ -68,7 +68,6 @@ Moments later, Jimmy, clearly panicking, rushes to the party for help. He didnâ€
 
 
 # People
-
 The following people are associated with this quest.
 
 | File                                                                                         | Race            | Gender | Role    | Connected Groups                                                                                                                                                                                                                                                                                                                                  |

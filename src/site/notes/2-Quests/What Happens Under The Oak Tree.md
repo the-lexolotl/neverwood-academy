@@ -47,7 +47,7 @@
 	- [x] ~~Restore the Star beneath the great oak~~ 
 	- [x] ~~Celebrate as heroes (and face detention)~~
 
-## Quest Handouts
+# Quest Handouts
 | File                                                             | Date Obtained |
 | ---------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXX\|Volume XXX]]  | 01 Nov, 2025  |
@@ -74,9 +74,7 @@ The party must recover the Star before the Wintergeist grows too strong. Failure
 
 
 # People
-
 The following people are associated with this quest.
-
 | Character                                                                                        | Race            | Gender | Role                |
 | ------------------------------------------------------------------------------------------------ | --------------- | ------ | ------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Construct V339\|Construct V339]]                     | Automaton       | Other  | Automaton           |

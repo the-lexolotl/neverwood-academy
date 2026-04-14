@@ -12,7 +12,7 @@
 - [ ] Uncover or suppress the truth behind the sabotage.
 - [ ] Evolve H’er’s sorcery through her artistic awakening.
 
-## Quest Handouts
+# Quest Handouts
 | File | Date Obtained |
 | ---- | ------------- |
 
@@ -37,7 +37,6 @@ Her choices will define not only her art but her place in [[2-World/Groups/Colle
 
 
 # People
-
 The following people are associated with this quest.
 
 | File                                                                                             | Race       | Gender | Role    |

@@ -10,7 +10,7 @@
 - [ ] Arrive at [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] before midnight
 
 
-## Quest Handouts
+# Quest Handouts
 | File                                                           | Date Obtained |
 | -------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Others/Crumpled Paper\|Crumpled Paper]] | 10 Jan, 2026  |
@@ -46,7 +46,6 @@ The manor functions as:
 
 
 # People
-
 The following people are associated with this quest.
 | Character | Race | Gender | Role |
 | --------- | ---- | ------ | ---- |

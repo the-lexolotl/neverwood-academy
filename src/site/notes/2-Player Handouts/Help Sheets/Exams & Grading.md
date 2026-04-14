@@ -6,8 +6,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ![Exams & Grading.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Exams%20&%20Grading.png)

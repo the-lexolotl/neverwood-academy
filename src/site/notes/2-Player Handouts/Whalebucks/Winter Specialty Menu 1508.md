@@ -9,8 +9,8 @@
 # Connections
 
 **Groups:** [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]
-
 **Quests:** None
+**NPCs:** None
 
 ---
 

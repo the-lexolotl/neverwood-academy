@@ -28,7 +28,7 @@
 	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Murgaxor, Veyra]]~~
 - [x] ~~Escape Without Being Spotted~~
 
-## Quest Handouts
+# Quest Handouts
 | File                                                                                                                   | Date Obtained |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
@@ -54,7 +54,6 @@ Strange things have been happening on campus. The party has been tipped off abou
 
 
 # People
-
 The following people are associated with this quest.
 
 | File                                                                  | Race            | Gender | Role      |

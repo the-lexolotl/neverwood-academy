@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Ebeneezer the Strange has been a wizard for longer than most people have been alive, and he has never been subtle about it. Trained in formal arcane study, he spent decades moving between magical institutions, towers, and travelling circles, teaching, researching, and occasionally causing quiet scandals through sheer eccentricity.
@@ -34,8 +34,13 @@ Though playful and occasionally exasperating, he is not foolish. He notices deta
 # Connections
 
 **Quests:** None
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

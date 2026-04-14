@@ -70,8 +70,13 @@ To history, undeniably effective.
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

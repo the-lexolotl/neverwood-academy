@@ -6,8 +6,8 @@
 # Connections
 
 **Groups:** [[2-World/Groups/The Hellhound Gang.md|The Hellhound Gang]]
-
 **Quests:** [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]
+**NPCs:** None
 
 ---
 

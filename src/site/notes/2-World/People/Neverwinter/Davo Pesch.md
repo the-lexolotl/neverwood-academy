@@ -18,7 +18,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Davo Pesch is fastidiously dressed at all times. Crisp cuffs. Immaculate tailoring. Shoes polished to a reflective sheen. His hair is styled with deliberate precision, and he carries measuring tape like a duellist carries a rapier.
@@ -39,8 +39,13 @@ He is, however, delighted by the challenge.
 # Connections
 
 **Quests:** None
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

@@ -28,8 +28,14 @@
 # Connections
 
 **Quests:** None
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Grandparents** - [[2-World/People/Other/Reynard Blackstone\|Reynard Blackstone]]

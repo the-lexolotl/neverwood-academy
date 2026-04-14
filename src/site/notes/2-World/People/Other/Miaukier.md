@@ -24,8 +24,13 @@ Miaukier is the beloved pet of Professor [[Theodore Moss]], recently transformed
 # Connections
 
 **Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
+**Groups:**  [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 
-**Groups:** [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]

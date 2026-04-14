@@ -23,8 +23,15 @@
 # Connections
 
 **Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File                                                                                                             | Date Obtained |
+| ---------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Murgaxor's Diary\|Murgaxor's Diary]]                                                      | \-            |
+| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]] | 06 Sep, 2025  |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]

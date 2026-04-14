@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Bellana is an ethereal presence behind the bar of [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]], appearing more like a living work of art than a tavernkeeper. Soft-spoken and serene, she often speaks in poetic fragments, offering observations rather than direct answers. Her calm demeanour invites reflection, encouraging patrons to consider not just what they see, but what they bring with them.
@@ -24,8 +24,14 @@ Bellana believes that art is a dialogue between creator and observer, and that b
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

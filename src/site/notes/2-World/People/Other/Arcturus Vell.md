@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Investigator Arcturus Vell is a seasoned agent of a distant magical council, called upon when arcane incidents escalate beyond local control. Specialising in magical mishaps, unexplained phenomena, and crimes of a supernatural nature, Vell has built a reputation for quiet efficiency and relentless precision. He is known to arrive without warning, already informed, and already forming conclusions.
@@ -24,8 +24,14 @@ Though he rarely reveals his findings outright, one truth is widely understood: 
 # Connections
 
 **Quests:** None
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

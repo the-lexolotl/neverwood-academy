@@ -69,8 +69,13 @@ If Borlen made Whalebucks inevitable, Merrick is ensuring it remains _enduring_.
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]

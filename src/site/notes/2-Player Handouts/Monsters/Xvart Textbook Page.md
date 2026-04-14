@@ -6,11 +6,10 @@
 
 
 
-# Connections
 
 **Groups:** None
-
 **Quests:** [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
+**NPCs:** None
 
 ---
 

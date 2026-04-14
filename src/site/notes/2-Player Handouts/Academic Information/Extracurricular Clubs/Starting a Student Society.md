@@ -8,8 +8,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ## Guide

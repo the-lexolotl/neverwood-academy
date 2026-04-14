@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Giovanni Uncuf was a brilliant and ambitious student whose talents straddled cunning, charm, and a willingness to take dangerous risks. Originally known for his sharp instincts and opportunism, his interests eventually led him toward powers best handled with care.
@@ -24,8 +24,13 @@ Gio believed strength was something to be proven and displayed, and he rarely ba
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

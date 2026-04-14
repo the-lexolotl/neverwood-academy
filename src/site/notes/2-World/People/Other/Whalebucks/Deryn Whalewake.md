@@ -57,8 +57,14 @@ If Borlen changed the world, Deryn made sure a small corner of it continued to w
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

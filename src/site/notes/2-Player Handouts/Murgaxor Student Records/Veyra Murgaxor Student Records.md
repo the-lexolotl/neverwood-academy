@@ -1,13 +1,13 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Veyra.png","dg-publish":true,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Loot","dg-show-backlinks":true,"handoutObtained":"2025-09-06","dg-path":"Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/veyra-murgaxor-student-records/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":"Murgaxor, Veyra.png","dg-publish":true,"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]"],"dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Loot","dg-show-backlinks":true,"handoutObtained":"2025-09-06","Connected_NPC":["[[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]"],"dg-path":"Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records.md","permalink":"/player-handouts/murgaxor-student-records/veyra-murgaxor-student-records/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 # Connections
 
 **Groups:** None
-
 **Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
+**NPCs:** [[2-World/People/Other/Veyra Murgaxor.md|Veyra Murgaxor]]
 
 ---
 

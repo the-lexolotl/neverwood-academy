@@ -33,8 +33,13 @@ Delta is _eerily calm_, speaking in academic cadence and metaphor. They never li
 # Connections
 
 **Quests:** [[2-Quests/Sigma Mail\|Sigma Mail]]
-
 **Groups:**  [[2-World/Groups/The Silent Equation.md|The Silent Equation]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

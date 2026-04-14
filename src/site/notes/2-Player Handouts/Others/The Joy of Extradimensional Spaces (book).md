@@ -6,8 +6,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
+**NPCs:** None
 
 ---
 ![009-02-001.book 1.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book%201.webp)

@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Orestes Alaris was a larger-than-life figure even by Neverwood standards. A Lorehold student with a barbarian’s strength and a scholar’s curiosity, he was fascinated by the legendary adventurers of the Blood Age and dreamed of living up to their exploits. Whether competing in Mage Tower or delving into ancient ruins, Orestes threw himself wholeheartedly into every challenge, often insisting on taking the lead.
@@ -26,8 +26,13 @@ After graduation, he remained closely tied to [[2-World/Points of Interest/Never
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

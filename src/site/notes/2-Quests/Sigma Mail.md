@@ -37,7 +37,7 @@
 ### Moral Choice and Consequences
 - [ ] Decide whether to follow instructions faithfully, alter the spells, or refuse the task.
 
-## Quest Handouts
+# Quest Handouts
 | File | Date Obtained |
 | ---- | ------------- |
 
@@ -59,10 +59,12 @@
 
 
 # People
-
 The following people are associated with this quest.
 
-| File | Race | Gender | Role |
-| ---- | ---- | ------ | ---- |
+| File                                                                                         | Race  | Gender | Role    |
+| -------------------------------------------------------------------------------------------- | ----- | ------ | ------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] | Elf   | Male   | Student |
+| [[2-World/People/Other/Professor Delta\|Professor Delta]]                                 | Human | Male   | Student |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                           | Human | Male   | Player  |
 
 { .block-language-dataview}

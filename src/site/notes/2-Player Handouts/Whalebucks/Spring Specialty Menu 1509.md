@@ -9,8 +9,8 @@
 # Connections
 
 **Groups:** [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks Coffee Co.]]
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ![Spring Menu 1509.png](/img/user/z_Assets/Whalebucks/Spring%20Menu%201509.png)

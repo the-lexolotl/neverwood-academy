@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Eb Zenithon was widely regarded as one of the most gifted students Neverwood Academy ever produced. A Quandrix wizard with a talent for conjuration and an unconventional approach to problem-solving, Eb possessed a mind that constantly searched for patterns others overlooked. Where many relied on raw magical force, Eb preferred careful planning, elegant solutions, and the quiet satisfaction of things working exactly as intended.
@@ -26,8 +26,14 @@ After the dissolution of his adventuring group, Eb turned his focus inward, pour
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File                                                                                                                                         | Date Obtained |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

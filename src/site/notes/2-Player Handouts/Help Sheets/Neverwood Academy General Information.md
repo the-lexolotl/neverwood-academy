@@ -6,8 +6,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ![Neverwood Academy.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Neverwood%20Academy.png)

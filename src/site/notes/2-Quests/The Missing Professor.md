@@ -4,6 +4,7 @@
 
 
 
+![009-02-001.book.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book.webp)
 # Quest Info
 
 - [x] ~~Investigate Professor Matreous's Disappearance~~
@@ -17,7 +18,7 @@
 - [x] ~~Investigate Professor Matreous's Death~~
 - [x] ~~Kill the Imp~~
 
-## Quest Handouts
+# Quest Handouts
 | File                                                                                                                 | Date Obtained |
 | -------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]]                                                | 09 Aug, 2025  |
@@ -42,7 +43,6 @@ A Neverwood professor has been missing for a year now. He seemingly disappeared 
 
 
 # People
-
 The following people are associated with this quest.
 
 | Character                                                                             | Race            | Gender | Role               |

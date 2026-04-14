@@ -59,8 +59,13 @@ Among the city’s workers, Alex is seen as _one of them_. Among nobles, he is o
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Businesses/Grifft.md|Grifft]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

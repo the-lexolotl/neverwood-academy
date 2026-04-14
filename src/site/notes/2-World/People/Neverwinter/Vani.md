@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Vani is the ever-present bartender of [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]], greeting newcomers and regulars alike with an uncanny familiarity. Created long ago by the wizard Eb Zenithon, she is a sentient construct with a sharp memory, keen insight, and a surprisingly nuanced view of the people around her.
@@ -26,8 +26,13 @@ Though careful about what she reveals, Vani has a habit of nudging curious patro
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

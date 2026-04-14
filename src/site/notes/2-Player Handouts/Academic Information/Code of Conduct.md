@@ -8,8 +8,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** None
+**NPCs:** None
 
 ---
 ![Code Of Conduct (1).png](/img/user/z_Assets/Posters/Code%20Of%20Conduct%20(1).png)

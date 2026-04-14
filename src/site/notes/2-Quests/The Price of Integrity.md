@@ -13,7 +13,7 @@
 - [x] ~~Decide the fate of the items found within the Archives.~~
 - [x] ~~Return to either Professor Sharpbeak or Ricard Ruanad.~~
 
-## Quest Handouts
+# Quest Handouts
 | File | Date Obtained |
 | ---- | ------------- |
 
@@ -40,7 +40,6 @@ Vigilius must decide who — and what — he serves.
 
 
 # People
-
 The following people are associated with this quest.
 
 | Character                                                                                      | Race       | Gender | Role                  |

@@ -23,8 +23,13 @@ Cumin is a devoted homunculus who serves as Fistandria’s butler, attending to 
 # Connections
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Other/Fistandria\|Fistandria]]

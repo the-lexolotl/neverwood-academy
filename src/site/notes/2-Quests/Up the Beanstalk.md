@@ -37,7 +37,7 @@
 - [ ] Witness the Sky-King regain lucidity
 - [ ] Receive a wish as a reward
 
-## Quest Handouts
+# Quest Handouts
 | File                                                                  | Date Obtained |
 | --------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXXIII\|Volume XXXIII]] | 03 Jan, 2026  |
@@ -64,7 +64,6 @@ Head Teacher [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Lo
 
 
 # People
-
 The following people are associated with this quest.
 | Character                                                                        | Race            | Gender | Role         |
 | -------------------------------------------------------------------------------- | --------------- | ------ | ------------ |

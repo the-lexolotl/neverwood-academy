@@ -8,8 +8,8 @@
 # Connections
 
 **Groups:** None
-
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
+**NPCs:** None
 
 ---
 

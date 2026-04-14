@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Bree Peregrine was a visionary artist and elemental druid whose work blurred the line between magic and self-expression. A Prismari student through and through, she believed that true art was inseparable from the artist’s identity, emotion, and intent. Her creations were deeply personal, often infused with fragments of memory, love, and conflict.
@@ -24,8 +24,13 @@ Passionate and introspective, Bree formed powerful bonds with those she cared fo
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

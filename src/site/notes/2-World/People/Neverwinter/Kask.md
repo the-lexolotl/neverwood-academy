@@ -14,7 +14,7 @@
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
     at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+    at fulfilled (plugin:digitalgarden:78:24)</pre>
 
 # Biography
 Kask is a small, hunched bullywug who spends his days muttering to himself amid the brewing equipment of [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]. Once an aspiring Witherbloom student, something went very wrong along the way, leaving him fragmented, childlike, and deeply tied to the rhythms of the swamp.
@@ -24,8 +24,13 @@ He speaks in riddles, half-sentences, and repeated phrases, often referencing th
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

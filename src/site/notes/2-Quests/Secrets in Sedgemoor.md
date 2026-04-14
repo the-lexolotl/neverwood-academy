@@ -34,6 +34,13 @@
 - [ ] Recover and secure the diary for return to Neverwood
 - [ ] Piece together fragments of their experiments and intentions
 
+# Quest Handouts
+| File                                                        | Date Obtained |
+| ----------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Murgaxor's Diary\|Murgaxor's Diary]] | \-            |
+
+{ .block-language-dataview}
+
 # Quest Details
 
 
@@ -53,7 +60,6 @@ What the students find there may not only cleanse the waters... but reveal the f
 
 
 # People
-
 The following people are associated with this quest.
 | File                                                                                   | Race  | Gender | Role                |
 | -------------------------------------------------------------------------------------- | ----- | ------ | ------------------- |

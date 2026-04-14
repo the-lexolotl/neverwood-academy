@@ -57,8 +57,14 @@ Among travellers, his name has become synonymous with preparation — and with t
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Businesses/Folly Guides.md|Folly Guides]]
+
+### Associated Handouts
+| File                                                                                 | Date Obtained |
+| ------------------------------------------------------------------------------------ | ------------- |
+| [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]] | 24 Jan, 2026  |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]

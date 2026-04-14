@@ -16,7 +16,7 @@
 - [x]  ~~Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete~~
 - [x]  ~~Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]~~
 
-## Quest Handouts
+# Quest Handouts
 | File                                                                       | Date Obtained |
 | -------------------------------------------------------------------------- | ------------- |
 | [[2-Player Handouts/Monsters/Xvart Textbook Page\|Xvart Textbook Page]] | 20 Sep, 2025  |
@@ -41,7 +41,6 @@
 
 
 # People
-
 The following people are associated with this quest.
 
 | File                                                                                   | Race            | Gender     | Role    |
