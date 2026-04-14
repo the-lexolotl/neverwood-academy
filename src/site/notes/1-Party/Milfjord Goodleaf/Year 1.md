@@ -32,14 +32,17 @@
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   8    |   7    |    \-    |    12    |  50%  | \-  |
-| **Exam 2** |    Nature     | Animal Handling |        |        |          |          |       |     |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+| **Exam 2** |    Nature     | Animal Handling |   7    |   2    |    23    |    -     | 62.5% |  1  |
+| **Exam 3** | Investigation |   Persuasion    |   21   |   17   |    -     |    -     |  95%  |  2  |
 ## Final Grade
 
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   30%    | N/A  |  70%  |
-| Weighted Grade |          |      |       |
+|     Grade      |   90%    | N/A  | 69.2% |
+| Weighted Grade |   27%    | N/A  | 48.2% |
+### Final Grade - 75.4% (Pass)
+
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -64,13 +67,16 @@
 ## Exams
 |            | Skill 1 | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----: | :------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| **Exam 1** | Arcana  | Medicine |        |        |          |          |       |     |
+| **Exam 1** | Arcana  | Medicine |   19   |   22   |    -     |    -     | 97.5% |  2  |
 ## Final Grade
 
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
-| Weighted Grade |          |      |       |
+|     Grade      |  99.5%   | N/A  | 97.5% |
+| Weighted Grade |  59.7%   | N/A  |  39%  |
+### Final Grade - 98.7% (Pass)
+
 # Weeding Out the Weak: Introduction to Blight Magic
 > [!info]- Associated Skills
 > - Alchemy Tools 
@@ -96,14 +102,17 @@
 ## Exams
 |            |    Skill 1    |      Skill 2      | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :---------------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| **Exam 1** | Alchemy Tools | Constitution Save |        |        |          |          |       |     |
+| **Exam 1** | Alchemy Tools | Constitution Save |   24   |   7    |    -     |    -     | 77.5% |  1  |
 
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   50%    | N/A  |  50%  |
-| Weighted Grade |          |      |       |
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   50%    | N/A  |  50%   |
+|     Grade      |   83%    | N/A  | 77.5%  |
+| Weighted Grade |  41.5%   | N/A  | 38.75% |
+### Final Grade - 80.25% (Pass)
+
 # Art of War: Techniques Used in Dance and Combat
 > [!info]- Associated Skills
 > - Athletics
@@ -135,4 +144,6 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   85%    | N/A  |  15%  |
-| Weighted Grade |          |      |       |
+|     Grade      |   85%    | N/A  | 42.5% |
+| Weighted Grade |  72.25%  | N/A  | 6.38% |
+### Final Grade - 78.6% (Pass)

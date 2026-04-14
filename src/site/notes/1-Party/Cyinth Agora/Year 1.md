@@ -25,7 +25,7 @@
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** | 18 \| 22 (20) |  7 \| 15 (20)   |  15 \| 12 (20)  |  11 \| 22 (20)  |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** |               |                 |                 |                 |       |
+| **Term 6** |  4 \| 9 (13)  |   4 \| 7 (11)   |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   30%    | N/A  |  70%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Digging Up the Past: Introduction to Archaeomancy
 > [!info]- Associated Skills
 > - Insight 
@@ -59,18 +62,21 @@
 |            |    Insight    |   Religion    |    History    |  Performance  |       |
 | **Term 5** | 19 \| 7 (20)  | 8 \| 15 (20)  |  2 \| 8 (10)  | 9 \| 19 (20)  |       |
 |            |    History    | Investigation |    Insight    |   Religion    |       |
-| **Term 6** |               |               |               |               |       |
+| **Term 6** | 18 \| 15 (20) | 15 \| 14 (20) |               |               |       |
 |            |    History    |    Insight    |   Religion    |    History    |       |
 ## Exams
 |            | Skill 1 | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----: | :------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| **Exam 1** | History | Religion |        |        |          |          |       |     |
+| **Exam 1** | History | Religion |   23   |   22   |    -     |    -     | 100%  |  2  |
 ## Final Grade
 
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    | N/A  |  30%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Everything Old is New Again: Methods of Archaeological Preservation
 
 > [!info]- Associated Skills
@@ -91,7 +97,7 @@
 |            |   Deception   |   Religion    | Investigation |  Persuasion   |       |
 | **Term 5** | 11 \| 12 (20) | 13 \| 20 (20) | 14 \| 20 (20) | 23 \| 16 (20) |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana     |       |
-| **Term 6** |               |               |               |               |       |
+| **Term 6** | 19 \| 19 (20) |  9 \| 6 (15)  |               |               |       |
 |            |    History    |   Deception   | Investigation |   Deception   |       |
 ## Exams
 
@@ -103,7 +109,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Don't Hate, Cultivate: Augmenting for Beginners
 > [!info]- Associated Skills
 > - Athletics
@@ -135,4 +144,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    | N/A  |  50%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

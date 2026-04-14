@@ -79,17 +79,17 @@ The following people are associated with this quest.
 
 | Character                                                                                        | Race            | Gender | Role                |
 | ------------------------------------------------------------------------------------------------ | --------------- | ------ | ------------------- |
-| [[2-World/People/Other/Vormor\|Vormor]]                                                       | Half-Giant      | Male   | Other               |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                             | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Neverwood Academy/Staff/Construct V339\|Construct V339]]                     | Automaton       | Other  | Automaton           |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                             | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad           | Male   | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin           | Female | Student             |
+| [[2-World/People/Other/Vormor\|Vormor]]                                                       | Half-Giant      | Male   | Other               |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                          | Yuan-Ti         | Male   | Player              |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                     | Triton          | Male   | Player              |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Dragonborn      | Male   | Player              |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                               | Human           | Male   | Player              |
 | [[1-Party/Her/Her\|Her]]                                                                      | Tiefling        | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                     | Variant Aasimar | Female | Player              |
-| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                               | Human           | Male   | Player              |
 | [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                      | Eladrin         | Female | Player              |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}

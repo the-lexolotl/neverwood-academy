@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   35%    |  -   |  65%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+
+### Final Grade - % (Pass/Fail)
 
 # Beyond the Veil: Contacting Vengeful and Violent Spirits of the Past
 > [!info]- Associated Skills
@@ -74,7 +77,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    |  -   |  40%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Pushing Up Daisies: Using Death to Fuel Life										
 > [!info]- Associated Skills
 > - Constitution Saves
@@ -108,7 +114,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   56%    |  -   |  44%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Words Will Always Hurt You: Strategies for Silencing Opponents Before They Can Cast
 > [!info]- Associated Skills
 > - Deception
@@ -142,4 +151,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    |  -   |  30%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

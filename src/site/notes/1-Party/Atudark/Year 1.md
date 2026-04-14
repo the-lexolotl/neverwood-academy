@@ -40,6 +40,8 @@
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   30%    | N/A  |  70%  |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -71,6 +73,8 @@
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # A Thorn in One’s Side: The Danger of Misidentified Spell
 > [!info]- Associated Skills
 > - Nature 
@@ -103,6 +107,8 @@
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   55%    | N/A  |  45%  |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
 > [!info]- Associated Skills
 > - Arcana
@@ -135,3 +141,5 @@
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    | N/A  |  50%  |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

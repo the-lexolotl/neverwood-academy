@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   30%    | N/A  |  70%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Connecting the Dots: Beginning Computational Magic
 > [!info]- Associated Skills
 > - Arcana
@@ -70,7 +73,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    | N/A  |  30%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Speaking the Same Language: Overview of Magical Notation
 > [!info]- Associated Skills
 > - Arcana 
@@ -102,7 +108,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   80%    | N/A  |  20%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
 > [!info]- Associated Skills
 > - Arcana
@@ -134,4 +143,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    | N/A  |  50%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

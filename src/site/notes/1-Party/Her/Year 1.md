@@ -36,10 +36,13 @@
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   30%    | N/A  |  70%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   30%    | N/A  |  70%  |
+|     Grade      |          |      |       |
+| Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Fashionably Late: History of Magic and Art
 > [!info]- Associated Skills
 > - History
@@ -67,10 +70,13 @@
 | **Exam 1** | History | Performance |   7    |   17   |    -     |    -     |  60%  |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+|     Grade      |          |      |       |
+| Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Eye of the Storm: Fundamentals of Tempest Art
 > [!info]- Associated Skills
 > - Strength Saves 
@@ -99,10 +105,13 @@
 | Exam 1 | Performance | Strength Save |        |        |          |          |       |     |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   40%    | N/A  |  60%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   40%    | N/A  |  60%  |
+|     Grade      |          |      |       |
+| Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Birds of a Feather: Introduction to Recognition of Natural Patterns
 > [!info]- Associated Skills
 > - Insight
@@ -131,7 +140,10 @@
 | Exam 1 | Nature  | Perception |   9    |   3    |    -     |    18    | 67.5% |  1  |
 ## Final Grade
 
-| Homework | Labs | Exams |
-| :------: | :--: | :---: |
-|   60%    | N/A  |  40%  |
-|          |      |       |
+|                | Homework | Labs | Exams |
+| :------------: | :------: | :--: | :---: |
+|     Weight     |   60%    | N/A  |  40%  |
+|     Grade      |          |      |       |
+| Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

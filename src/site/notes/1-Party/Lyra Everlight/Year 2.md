@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   35%    |  -   |  65%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Vitally Important: How Healing Environments Enhance Healing Effects		
 > [!info]- Associated Skills
 > - Nature 
@@ -73,7 +76,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   33%    |  -   |  67%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Pushing Up Daisies: Using Death to Fuel Life												
 > [!info]- Associated Skills
 > - Constitution Saves
@@ -107,7 +113,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   56%    |  -   |  44%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Shelter from the Storm: Preparing Accommodations for Any Environment
 > [!info]- Associated Skills
 > - Arcana
@@ -141,4 +150,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   80%    |  -   |  20%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

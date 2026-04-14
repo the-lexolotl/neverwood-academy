@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   35%    |  -   |  65%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+
+### Final Grade - % (Pass/Fail)
 
 # Heard it Through the Great Vine: Communicating With Plants
 > [!info]- Associated Skills
@@ -74,7 +77,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   65%    |  -   |  35%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Getting to the Root of Poisons: Fundamentals of Antidotes (Lab)
 > [!info]- Associated Skills
 > - Arcana
@@ -113,7 +119,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   40%    | 30%  |  30%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Going the Extra Mile: A Guide to Spell Efficiency
 > [!info]- Associated Skills
 > - Arcana
@@ -147,4 +156,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    |  -   |  40%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Verelda Lang.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dryad","char_gender":"Female","char_role":"Professor of Growth","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang.md","permalink":"/world/people/neverwood-academy/staff/witherbloom/verelda-lang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Verelda Lang.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dryad","char_gender":"Female","char_role":"Professor of Growth","char_college":"Witherbloom","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang.md","permalink":"/world/people/neverwood-academy/staff/witherbloom/verelda-lang/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -24,7 +24,7 @@ Her research stretches into fractal creatures and artificial life, bridging the 
 
 # Connections
 
-**Quests:** None
+**Quests:** [[2-Quests/Secrets in Sedgemoor.md|Secrets in Sedgemoor]]
 
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 

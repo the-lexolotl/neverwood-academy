@@ -31,7 +31,7 @@
 
 |            |    Skill 1    |     Skill 2     | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| **Exam 1** |    Arcana     |     Insight     |        |        |          |          |       |     |
+| **Exam 1** |    Arcana     |     Insight     |   4    |   17   |    8     |    -     | 62.5% |  1  |
 | **Exam 2** |    Nature     | Animal Handling |   23   |   5    |    -     |    -     | 62.5% |  1  |
 | **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
 ## Final Grade
@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   30%    | N/A  |  70%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Putting Down Roots: Arcano-botany for Beginners
 > [!info]- Associated Skills
 > - Arcana
@@ -70,7 +73,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # A Thorn in One’s Side: The Danger of Misidentified Spell
 > [!info]- Associated Skills
 > - Nature 
@@ -96,13 +102,16 @@
 
 |        |  Skill 1   | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :--------: | :------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Perception | Survival |        |        |          |          |       |     |
+| Exam 1 | Perception | Survival |   2    |   3    |    -     |    -     | 12.5% |  0  |
 ## Final Grade
 
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   55%    | N/A  |  45%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Art of War: Techniques Used in Dance and Combat
 > [!info]- Associated Skills
 > - Athletics
@@ -134,4 +143,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   85%    | N/A  |  15%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

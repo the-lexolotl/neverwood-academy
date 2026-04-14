@@ -91,8 +91,8 @@ Exhaustion Level: 0
 
 | File                                                               | Race  | Gender | Role  |
 | ------------------------------------------------------------------ | ----- | ------ | ----- |
-| [[2-World/People/Other/Reynard Blackstone\|Reynard Blackstone]] | Human | Male   | Other |
 | [[2-World/People/Other/Adalynn Blackstone\|Adalynn Blackstone]] | Human | Female | Other |
+| [[2-World/People/Other/Reynard Blackstone\|Reynard Blackstone]] | Human | Male   | Other |
 
 { .block-language-dataview}
 

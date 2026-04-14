@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   35%    |  -   |  65%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+
+### Final Grade - % (Pass/Fail)
 
 # Beyond the Veil: Contacting Vengeful and Violent Spirits of the Past
 > [!info]- Associated Skills
@@ -74,7 +77,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    |  -   |  40%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Great Balls of Fire: Pyromancy and the Arts
 > [!info]- Associated Skills
 > - Arcana
@@ -108,7 +114,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   55%    |  -   |  45%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # There’s No Cook Like Gyome: Magical Cooking with Everyone’s Favourite Troll
 > [!info]- Associated Skills
 > - Constitution Saves
@@ -142,4 +151,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    |  -   |  50%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

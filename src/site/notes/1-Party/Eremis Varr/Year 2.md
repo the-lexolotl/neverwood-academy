@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   35%    |  -   |  65%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+
+### Final Grade - % (Pass/Fail)
 
 # Vitally Important: How Healing Environments Enhance Healing Effects		
 > [!info]- Associated Skills
@@ -74,7 +77,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   33%    |  -   |  67%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Taking Their Word For It: Fundamentals of Counterspelling		
 > [!info]- Associated Skills
 > - Arcana
@@ -108,7 +114,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   75%    |  -   |  25%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Boom or Bust: How to Capture an Audience with Your Arrival		
 > [!info]- Associated Skills
 > - Acrobatics
@@ -142,4 +151,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   45%    |  -   |  55%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

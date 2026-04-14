@@ -84,9 +84,9 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Neverwinter/Carver & Thread\|Carver & Thread]]     |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]] |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]         |
-| [[2-World/Points of Interest/Neverwinter/Carver & Thread\|Carver & Thread]]     |
 
 { .block-language-dataview}
 

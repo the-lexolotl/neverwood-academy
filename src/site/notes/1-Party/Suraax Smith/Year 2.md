@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   35%    |  -   |  65%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Beyond the Veil: Contacting Vengeful and Violent Spirits of the Past
 > [!info]- Associated Skills
 > - Athletics
@@ -73,7 +76,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    |  -   |  40%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+
+### Final Grade - % (Pass/Fail)
 
 # All the King's Horses: Comparing the Great Steeds of Different Reigns
 > [!info]- Associated Skills
@@ -113,7 +119,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   40%    | 40%  |  20%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # The Harder They Fall: A Review of the Downfalls of Great Champions and Heroes
 > [!info]- Associated Skills
 > - Athletics
@@ -147,4 +156,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    |  -   |  50%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+

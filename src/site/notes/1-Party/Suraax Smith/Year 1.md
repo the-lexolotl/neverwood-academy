@@ -25,7 +25,7 @@
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** | 17 \| 10 (20) |  16 \| 6 (20)   |  18 \| 10 (20)  |  2 \| 15 (17)   |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** |               |                 |                 |                 |       |
+| **Term 6** | 23 \| 19 (20) |  14 \| 0 (14)   |                 |                 |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -39,7 +39,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   30%    | N/A  |  70%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Digging Up the Past: Introduction to Archaeomancy
 > [!info]- Associated Skills
 > - Insight 
@@ -59,7 +62,7 @@
 |            |    Insight    |   Religion    |   History    |  Performance  |       |
 | **Term 5** | 11 \| 15 (20) | 16 \| 9 (20)  | 19 \| 5 (14) | 6 \| 15 (20)  |       |
 |            |    History    | Investigation |   Insight    |   Religion    |       |
-| **Term 6** |               |               |              |               |       |
+| **Term 6** | 18 \| 4 (20)  | 10 \| 20 (20) |              |               |       |
 |            |    History    |    Insight    |   Religion   |    History    |       |
 
  ## Exams
@@ -71,7 +74,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    | N/A  |  30%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Hindsight: Examining and Identifying Historical Arcane Artefacts
 
 > [!info]- Associated Skills
@@ -92,7 +98,7 @@
 |            |     Tools     |   Religion    | Investigation |  Persuasion  |       |
 | **Term 5** | 19 \| 18 (20) | 6 \| 14 (20)  | 15 \| 10 (20) | 3 \| 16 (19) |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana    |       |
-| **Term 6** |               |               |               |              |       |
+| **Term 6** |  7 \| 18(20)  | 16 \| 10 (20) |               |              |       |
 |            |    History    |     Tools     | Investigation |    Tools     |       |
 ## Exams
 
@@ -104,7 +110,10 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   55%    | N/A  |  45%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
 # Falling Into Ruin: Guidelines on Successful Exploration of Historical Sites
 > [!info]- Associated Skills
 > - Athletics 
@@ -124,7 +133,7 @@
 |            | Sleight of Hand |     History     |  Athletics   |  Investigation  |       |
 | **Term 5** |  11 \| 6 (17)   |  12 \| 3 (15)   | 4 \| 19 (20) |  21 \| 14 (20)  |       |
 |            |     History     | Sleight of Hand |   Survival   |    Athletics    |       |
-| **Term 6** |                 |                 |              |                 |       |
+| **Term 6** |  16 \| 12 (20)  |  12 \| 14 (20)  |              |                 |       |
 |            |    Athletics    |   Perception    |   History    | Sleight of Hand |       |
 ## Exams
 
@@ -136,4 +145,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    | N/A  |  50%  |
+|     Grade      |          |      |       |
 | Weighted Grade |          |      |       |
+### Final Grade - % (Pass/Fail)
+
