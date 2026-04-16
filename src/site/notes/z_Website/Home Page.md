@@ -11,7 +11,7 @@ Welcome to the authorised archive of **Neverwood Academy**, a centre of magical 
 These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents.
 
 ---
-## [[2-Player Handouts/Academic Information/2nd Year Courses\|Apply for Second Year]]
+![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
 
 ---
 
