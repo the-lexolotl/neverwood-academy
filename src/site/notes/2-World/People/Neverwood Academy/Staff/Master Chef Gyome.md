@@ -25,8 +25,14 @@ Students from all colleges flock to Sedgemoor to experience his creations. His c
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

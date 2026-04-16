@@ -46,10 +46,10 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 # Locations
 | File                                                                                   | Location                                                                                                                                | Type       |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
-| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                           | [[2-World/Regions/The North\|The North]]                                                                                             | City +1500 |
@@ -80,8 +80,8 @@ The following people are associated with this quest.
 | [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player              |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player              |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player              |
 | [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}

@@ -75,19 +75,19 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                     | Dwarf                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Deekah\|Deekah]]                                     | Human                  | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]]                                           | Triton                 | Non-binary | Quandrix    | Professor of Theory        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]                     | Human                  | Male       | Quandrix    | Professor of Theory        |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                                         | Changling              | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]                 | Tiefling               | Female     | Quandrix    | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                          | Human                  | Male       | Silverquill | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]              | Owlin                  | Female     | Silverquill | College Dean               |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]        | Dragon                 | Male       | Silverquill | Founder Dragon             |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]                  | Leonin                 | Male       | Silverquill | Professor of Radiance      |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]            | Owlin                  | Female     | Silverquill | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Nils\|Nils]]                                      | Human                  | Male       | Silverquill | Professor of Radiance      |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                  | Half-Elf               | Female     | Silverquill | Professor of Radiance      |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                        | Kenku                  | Non-binary | Silverquill | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                                  | Owlin                  | Female     | Silverquill | Professor of Shadow        |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]        | Dhampir                | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                                      | Human                  | Male       | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                    | Human                  | Female     | Silverquill | Professor of Shadow        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                    | Human                  | Male       | Silverquill | Professor of Shadow        |

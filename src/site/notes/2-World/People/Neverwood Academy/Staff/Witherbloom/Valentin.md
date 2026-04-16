@@ -25,8 +25,14 @@ His classes focus on dissection, decay, and the arcane applications of life’s 
 # Connections
 
 **Quests:** [[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

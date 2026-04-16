@@ -27,8 +27,14 @@ Shtomp insists that all student workers address him as “Coach Shtomp”, despi
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

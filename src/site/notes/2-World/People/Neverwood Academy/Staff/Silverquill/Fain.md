@@ -25,8 +25,14 @@ Fain teaches more than simple procurement; his lessons explore negotiation, disc
 # Connections
 
 **Quests:** [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

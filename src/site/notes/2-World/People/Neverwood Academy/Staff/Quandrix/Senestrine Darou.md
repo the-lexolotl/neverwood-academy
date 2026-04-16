@@ -27,8 +27,14 @@ Cold, focused, and intensely driven, Professor Darou embodies the belief that kn
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College.md|Quandrix College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

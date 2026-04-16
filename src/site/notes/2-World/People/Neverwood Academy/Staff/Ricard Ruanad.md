@@ -27,8 +27,13 @@ Polite, calculating, and utterly self-assured, Deputy Head Teacher Ruanad was a 
 # Connections
 
 **Quests:** [[2-Quests/The Price of Integrity\|The Price of Integrity]],[[2-Quests/Ricards Riches\|Ricards Riches]],[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

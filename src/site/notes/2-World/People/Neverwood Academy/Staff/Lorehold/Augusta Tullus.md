@@ -27,8 +27,14 @@ Despite her stern exterior, Augusta is deeply invested in the success of her stu
 # Connections
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

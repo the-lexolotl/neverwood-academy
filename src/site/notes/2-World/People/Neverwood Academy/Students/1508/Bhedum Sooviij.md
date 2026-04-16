@@ -1,36 +1,43 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-009.bhedum.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Loxodon","char_gender":"Male","char_role":"Student","char_college":"Lorehold","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":[],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Dragonchess Club|Dragonchess Club]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":1,"dg-path":"World/People/Neverwood Academy/Students/1508/Bhedum Sooviij.md","permalink":"/world/people/neverwood-academy/students/1508/bhedum-sooviij/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-009.bhedum.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Loxodon","char_gender":"Male","char_role":"Student","char_college":"Lorehold","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Dragonchess Club|Dragonchess Club]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":1,"dg-path":"World/People/Neverwood Academy/Students/1508/Bhedum Sooviij.md","permalink":"/world/people/neverwood-academy/students/1508/bhedum-sooviij/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![033-03-009-bhedum.webp](/img/user/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/033-03-009-bhedum.webp)
-# General
+> [!infobox|left]+
+> # Bhedum Sooviij
+> ![03-009.bhedum.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/03-009.bhedum.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Loxodon |
+> Gender | Male |
+> Age | Young Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Student |
+> College | Lorehold |
+> Academic Year | 1 |
 
-
-| Name:        | Bhedum Sooviij |
-| ------------ | -------------- |
-| **Status:**  | Alive          |
-| **Race:**    | Loxodon        |
-| **Gender:**  | Male           |
-| **Age:**     | Young Adult    |
-| **Role:**    | Student        |
-| **College:** | Lorehold       |
-
-
----
-
-This is the persons description. 
-
+# Biography
+*You haven't spoken to this student yet. Talk to them to learn more about them.*
 
 # Connections
 
+**Quests:** None
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]],[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
 
-**Quests:** None 
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]], [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
+{ .block-language-dataview}
 
 
 # Relationships
-
-List important relationships here. 
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 

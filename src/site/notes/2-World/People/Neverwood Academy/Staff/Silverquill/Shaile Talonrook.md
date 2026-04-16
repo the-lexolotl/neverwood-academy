@@ -27,8 +27,14 @@ She often sparrs intellectually with [[2-World/People/Neverwood Academy/Staff/Si
 # Connections
 
 **Quests:** [[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

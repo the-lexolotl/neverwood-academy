@@ -25,8 +25,14 @@ Ruxa’s calm, reassuring presence makes him popular among students, especially 
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

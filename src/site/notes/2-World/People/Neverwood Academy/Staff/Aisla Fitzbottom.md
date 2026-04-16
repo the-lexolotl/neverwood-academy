@@ -25,8 +25,14 @@ Though friendly and approachable, Aisla has little patience for dawdling or diso
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

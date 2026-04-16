@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Baz
+> ![Baz.png](/img/user/z_Assets/character_art/NPCs/Baz.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Owlin |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Places/Blacklake District\|Blacklake District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> Role | Tavern Manager |
+> College | Silverquill |
 
 # Biography
 Baz is impossible to miss. A sharp-eyed owlin with a flair for drama and biting wit, he moves effortlessly between bartender, performer, and master of ceremonies at the Lucid Dreamer. Every word is chosen for effect, every gesture part of a performance—even when he insists he’s being perfectly sincere.

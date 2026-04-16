@@ -3,34 +3,41 @@
 ---
 
 
-![Mirella.jpg](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/Mirella.jpg)
-# General
+> [!infobox|left]+
+> # Mirella Blackbriar
+> ![Mirella.jpg](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/Mirella.jpg)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Reborn |
+> Gender | Female |
+> Age | Young Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Student |
+> College | Witherbloom |
+> Academic Year | 1 |
 
-
-| Name:        | Mirella Blackbriar |
-| ------------ | ------------------ |
-| **Status:**  | Alive              |
-| **Race:**    | Reborn             |
-| **Gender:**  | Female             |
-| **Age:**     | Young Adult        |
-| **Role:**    | Student            |
-| **College:** | Witherbloom        |
-
-
----
-
-This is the persons description. 
-
+# Biography
+*You haven't spoken to this student yet. Talk to them to learn more about them.*
 
 # Connections
 
-
 **Quests:** [[2-Quests/The Price of Integrity\|The Price of Integrity]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 
 # Relationships
-
-List important relationships here. 
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
 

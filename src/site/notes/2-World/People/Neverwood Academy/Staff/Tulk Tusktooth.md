@@ -25,8 +25,13 @@ Kind but uncompromising, Tulk has no tolerance for misbehavior and ensures the t
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

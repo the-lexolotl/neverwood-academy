@@ -8,17 +8,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Davo Pesch
+> ![Davo Pesch.jpg](/img/user/z_Assets/character_art/NPCs/Davo%20Pesch.jpg)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Points of Interest/Neverwinter/The Silver Shuttle\|The Silver Shuttle]], [[2-World/Places/Protector's Enclave\|Protector's Enclave]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> Role | Shop Manager |
+> College | None |
 
 # Biography
 Davo Pesch is fastidiously dressed at all times. Crisp cuffs. Immaculate tailoring. Shoes polished to a reflective sheen. His hair is styled with deliberate precision, and he carries measuring tape like a duellist carries a rapier.

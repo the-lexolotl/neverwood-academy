@@ -25,8 +25,14 @@ Nassari believes true art is born of passion rather than calculation. They chall
 # Connections
 
 **Quests:** [[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Prismari College\|Prismari College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

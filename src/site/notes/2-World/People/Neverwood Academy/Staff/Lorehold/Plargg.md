@@ -25,8 +25,14 @@ Plargg dismisses attempts to impose order on chaos as folly, yet he has a genuin
 # Connections
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

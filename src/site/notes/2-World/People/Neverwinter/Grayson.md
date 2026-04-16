@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Grayson
+> ![Grayson (RT).png](/img/user/z_Assets/character_art/NPCs/Grayson%20(RT).png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Vampire |
+> Gender | Male |
+> Age | Adult |
+> Location | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Places/The Chasm\|The Chasm]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> Role | Tavern Manager |
+> College | Witherbloom |
 
 # Biography
 Grayson is the long-standing bartender of [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], a quiet figure with a dry sense of humour and an air of deep fatigue. Affiliated loosely with Witherbloom, he has seen enough strange magic and bad decisions to last several lifetimes. He prefers calm evenings, steady drinks, and patrons who don’t cause trouble.

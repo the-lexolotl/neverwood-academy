@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Alise Thallas
+> ![Alise Thallas.png](/img/user/z_Assets/character_art/NPCs/Alise%20Thallas.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Deceased |
+> Race | Changling |
+> Gender | Female |
+> Age | Elder |
+> Location | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Places/Blacklake District\|Blacklake District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> Role | Tavern Founder |
+> College | Silverquill |
 
 # Biography
 Alise Thallas was a bard of remarkable presence and effortless charm, known as much for her shifting appearance as for her silvered words. A changeling from a noble background, she moved through Neverwood Academy’s social circles with practiced ease, reinventing herself as circumstances required. To Alise, identity was not something fixed, but something to be performed—and refined.

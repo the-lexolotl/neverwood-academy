@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Eb Zenithon
+> ![Pasted image 20260130233046.png](/img/user/z_Assets/website/Pasted%20image%2020260130233046.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Deceased |
+> Race | Elf |
+> Gender | Male |
+> Age | Elder |
+> Location | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]], [[2-World/Places/River District\|River District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> Role | Tavern Founder |
+> College | Quandrix |
 
 # Biography
 Eb Zenithon was widely regarded as one of the most gifted students Neverwood Academy ever produced. A Quandrix wizard with a talent for conjuration and an unconventional approach to problem-solving, Eb possessed a mind that constantly searched for patterns others overlooked. Where many relied on raw magical force, Eb preferred careful planning, elegant solutions, and the quiet satisfaction of things working exactly as intended.

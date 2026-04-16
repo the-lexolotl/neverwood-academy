@@ -1,20 +1,21 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Investigator Vell"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Investigator","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Arcturus Vell.md","permalink":"/world/people/other/arcturus-vell/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"None","MyCategory":null,"image":"Inspector Vell.jpeg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Investigator Vell"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Investigator","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Arcturus Vell.md","permalink":"/world/people/other/arcturus-vell/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Arcturus Vell
+> ![Inspector Vell.jpeg](/img/user/z_Assets/character_art/NPCs/Inspector%20Vell.jpeg)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Male |
+> Age | Adult |
+> Location | Unknown |
+> Role | Investigator |
+> College | None |
 
 # Biography
 Investigator Arcturus Vell is a seasoned agent of a distant magical council, called upon when arcane incidents escalate beyond local control. Specialising in magical mishaps, unexplained phenomena, and crimes of a supernatural nature, Vell has built a reputation for quiet efficiency and relentless precision. He is known to arrive without warning, already informed, and already forming conclusions.

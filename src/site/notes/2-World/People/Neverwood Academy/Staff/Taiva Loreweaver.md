@@ -25,8 +25,13 @@ Taiva believes that true education nurtures both knowledge and character, and sh
 # Connections
 
 **Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

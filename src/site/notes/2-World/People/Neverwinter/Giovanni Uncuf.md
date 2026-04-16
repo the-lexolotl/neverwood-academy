@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Giovanni Uncuf
+> ![Giovanni Uncuf.png](/img/user/z_Assets/character_art/NPCs/Giovanni%20Uncuf.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Deceased |
+> Race | Human |
+> Gender | Male |
+> Age | Elder |
+> Location | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Tavern Founder |
+> College | Witherbloom |
 
 # Biography
 Giovanni Uncuf was a brilliant and ambitious student whose talents straddled cunning, charm, and a willingness to take dangerous risks. Originally known for his sharp instincts and opportunism, his interests eventually led him toward powers best handled with care.

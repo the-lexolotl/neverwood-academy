@@ -25,8 +25,14 @@ Easily distracted by new information, V339 can often be found mid-task explainin
 # Connections
 
 **Quests:** [[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

@@ -8,17 +8,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:91:61)</pre>
+> # Groff Lundquist
+> ![Groff Lundquist.jpg](/img/user/z_Assets/character_art/NPCs/Staff/Groff%20Lundquist.jpg)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Human |
+> Gender | Male |
+> Age | Elder |
+> Location | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Shop Manager |
+> College | None |
 
 # Biography
 Groff Lundquist is the cheerful and fashion-forward manager of the student shop within the Biblioplex. Known for his impeccable eye for colour coordination, Groff has an uncanny talent for pairing house colours with just the right accessory, ensuring students can display their college pride with style.
@@ -28,8 +29,13 @@ Always ready with a friendly greeting, he helps students find everything from pr
 # Connections
 
 **Quests:** None
-
 **Groups:**  None
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

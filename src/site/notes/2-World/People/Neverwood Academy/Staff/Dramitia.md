@@ -27,8 +27,14 @@ Now the Director of the Neverwood Performing Arts Society, Dramitia lends her ex
 # Connections
 
 **Quests:** [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]],[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

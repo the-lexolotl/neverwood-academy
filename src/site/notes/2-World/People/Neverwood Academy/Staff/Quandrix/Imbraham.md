@@ -27,8 +27,14 @@ Students who thrive under Dean Imbraham learn patience, meticulous reasoning, an
 # Connections
 
 **Quests:** [[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

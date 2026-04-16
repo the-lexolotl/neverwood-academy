@@ -45,9 +45,9 @@ The following people are associated with this quest.
 
 | File                                                                                   | Race            | Gender     | Role    |
 | -------------------------------------------------------------------------------------- | --------------- | ---------- | ------- |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] | Human           | Male       | Veteran |
 | [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]         | Xvart           | Non-binary | Other   |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                         | Cat             | Male       | Other   |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] | Human           | Male       | Veteran |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                 | Aarakocra       | Female     | Player  |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                           | Triton          | Male       | Player  |

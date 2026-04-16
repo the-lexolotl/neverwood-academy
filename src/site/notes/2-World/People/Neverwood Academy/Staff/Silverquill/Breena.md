@@ -27,8 +27,13 @@ Her reputation for subtle influence is legendary. Once, when an Oriq agent attem
 # Connections
 
 **Quests:** None
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

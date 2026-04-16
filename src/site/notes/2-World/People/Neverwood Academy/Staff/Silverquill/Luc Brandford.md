@@ -27,8 +27,14 @@ In addition to duelling theory, Luc leads courses focused on group protection an
 # Connections
 
 **Quests:** [[2-Quests/Secrets in Sedgemoor.md|Secrets in Sedgemoor]],[[2-Quests/Whos goo\|Whos goo]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

@@ -3,34 +3,43 @@
 ---
 
 
-![03-010.cadoras.png|500](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/03-010.cadoras.png)
-# General
+> [!infobox|left]+
+> # Cadoras Damellawar
+> ![03-010.cadoras.png](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201508%20(Us)/03-010.cadoras.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Elf |
+> Gender | Male |
+> Age | Young Adult |
+> Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Student |
+> College | Quandrix |
+> Academic Year | 1 |
 
-
-| Name:        | Cadoras Damellawar |
-| ------------ | ------------------ |
-| **Status:**  | Alive              |
-| **Race:**    | Elf                |
-| **Gender:**  | Male               |
-| **Age:**     | Young Adult        |
-| **Role:**    | Student            |
-| **College:** | Quandrix           |
-
-
----
-
+# Biography
 Cadoras Damellawar is a bright and mischievous Quandrix student with a grin that always seems one step ahead of trouble. Known for his quick wit and quicker reflexes, he has a habit of bending both rules and reality in equal measure. Though his professors might call him reckless, his friends know him as loyal, curious, and endlessly inventive. Rumour has it he once slipped past the wards of the restricted library—and came out with both the book and the librarian’s respect.
-
 
 # Connections
 
+**Quests:** [[2-Quests/Colours in Chaos\|Colours in Chaos]],[[2-Quests/Sigma Mail\|Sigma Mail]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]],[[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]
 
-**Quests:** [[2-Quests/Colours in Chaos\|Colours in Chaos]], [[2-Quests/Sigma Mail\|Sigma Mail]]
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]], [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Guild\|Live-Action Roleplaying Guild]]
+{ .block-language-dataview}
 
 
 # Relationships
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - Harry Blackstone
+**Enemies** - None/Unknown
 
-List important relationships here. 
+
 

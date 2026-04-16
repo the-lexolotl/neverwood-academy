@@ -4,17 +4,18 @@
 
 
 > [!infobox|left]+
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10851:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:78:24)</pre>
+> # Bellana
+> ![Bellana.png](/img/user/z_Assets/character_art/NPCs/Bellana.png)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Sylph |
+> Gender | Female |
+> Age | Adult |
+> Location | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]], [[2-World/Places/Protector's Enclave\|Protector's Enclave]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> Role | Tavern Manager |
+> College | Prismari |
 
 # Biography
 Bellana is an ethereal presence behind the bar of [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]], appearing more like a living work of art than a tavernkeeper. Soft-spoken and serene, she often speaks in poetic fragments, offering observations rather than direct answers. Her calm demeanour invites reflection, encouraging patrons to consider not just what they see, but what they bring with them.

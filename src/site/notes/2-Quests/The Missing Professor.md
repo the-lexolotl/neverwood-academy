@@ -47,13 +47,13 @@ The following people are associated with this quest.
 
 | Character                                                                             | Race            | Gender | Role               |
 | ------------------------------------------------------------------------------------- | --------------- | ------ | ------------------ |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[2-World/People/Other/Coriander\|Coriander]]                                      | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Cumin\|Cumin]]                                              | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandria\|Fistandria]]                                    | Human           | Female | Mage               |
 | [[2-World/People/Other/Freyot\|Freyot]]                                            | Human           | Male   | Mage               |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                | Aarakocra       | Female | Player             |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                    | Human           | Male   | Player             |

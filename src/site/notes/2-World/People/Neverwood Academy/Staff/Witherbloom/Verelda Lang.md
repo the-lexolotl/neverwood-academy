@@ -25,8 +25,14 @@ Her research stretches into fractal creatures and artificial life, bridging the 
 # Connections
 
 **Quests:** [[2-Quests/Secrets in Sedgemoor.md|Secrets in Sedgemoor]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
 
 # Relationships
 **Parents** - None/Unknown

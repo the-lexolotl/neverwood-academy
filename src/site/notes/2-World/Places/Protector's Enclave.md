@@ -67,6 +67,7 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 | [[2-World/People/Neverwinter/Bellana\|Bellana]]               | Sylph    | Female     | Tavern Manager |
 | [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]] | Elf      | Female     | Tavern Founder |
 | [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]         | Human    | Male       | Shop Manager   |
+| [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]           | Half-Elf | Female     | Shop Manager   |
 | [[2-World/People/Neverwinter/Oswin Thatch\|Oswin Thatch]]     | Tiefling | Non-binary | Shop Manager   |
 
 { .block-language-dataview}

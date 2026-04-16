@@ -28,8 +28,13 @@ Approachable and eager to talk shop, Professor Shaffer is always happy to help s
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Lorehold College.md|Lorehold College]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown

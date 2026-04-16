@@ -25,8 +25,13 @@ Her lessons in horticulture and magical growth emphasise patience, continuity, a
 # Connections
 
 **Quests:** [[2-Quests/Whos goo\|Whos goo]]
-
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
 
 # Relationships
 **Parents** - None/Unknown
