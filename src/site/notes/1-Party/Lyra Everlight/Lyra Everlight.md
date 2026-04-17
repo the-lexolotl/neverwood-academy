@@ -1,5 +1,5 @@
 ---
-{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md\|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Midnight]]","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Lyra Everlight/Lyra Everlight.md","permalink":"/party/lyra-everlight/lyra-everlight/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md\|Group 2]]","[[Play Actors Drama Guild|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Midnight]]","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Lyra Everlight/Lyra Everlight.md","permalink":"/party/lyra-everlight/lyra-everlight/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -105,6 +105,12 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 # Inventory
 *Carrying Capacity: 120 lbs*
 *Push, Drag, or Lift: 240 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (22)
 > [[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]
 > Potion of Advantage
@@ -156,7 +162,12 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 **Enemies** - None/Unknown
 
 # Academics
+### Counsellors
+| Sace Solindiel | Luc Brandford |
+|----------------|---------------|
 
+
+### Grades & Timetables
 | [[1-Party/Lyra Everlight/Year 1\|Year 1]] | [[1-Party/Lyra Everlight/Year 2\|Year 2]] | [[1-Party/Lyra Everlight/Year 3\|Year 3]] | [[1-Party/Lyra Everlight/Year 4\|Year 4]] |
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                               | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                              | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                               | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                               |

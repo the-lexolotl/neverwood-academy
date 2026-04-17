@@ -1,5 +1,5 @@
 ---
-{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":3,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Storm Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","dg-path":"Party/Her/Her.md","permalink":"/party/her/her/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":3,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Storm Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Her/Her.md","permalink":"/party/her/her/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -91,6 +91,12 @@
 # Inventory
 *Carrying Capacity: 120 lbs*
 *Push, Drag, or Lift: 240 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (18)
 > [[3-Mechanics/CLI/items/astral-shard-tce\|Astral Shard]]
 > A bandolier of watercolour paints 
@@ -139,6 +145,10 @@
 **Enemies** - None/Unknown
 
 # Academics
+### Counsellors
+| Zaffai | Zaph |
+|--------|------|
+### Grades & Timetables
 
 | [[1-Party/Her/Year 1\|Year 1]] | [[1-Party/Her/Year 2\|Year 2]] | [[1-Party/Her/Year 3\|Year 3]] | [[1-Party/Her/Year 4\|Year 4]] |
 | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |

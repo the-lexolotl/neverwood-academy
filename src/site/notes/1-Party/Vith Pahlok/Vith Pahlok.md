@@ -104,6 +104,12 @@ Vith’s goals are straightforward — to dominate the Mage Tower circuit, to pu
 # Inventory
 *Carrying Capacity: 240 lbs*
 *Push, Drag, or Lift: 480 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (11)
 [[3-Mechanics/CLI/items/cuddly-strixhaven-mascot-scc\|Cuddly Neverwood Mascot]]
 [[3-Mechanics/CLI/items/greataxe-xphb\|Greataxe]]

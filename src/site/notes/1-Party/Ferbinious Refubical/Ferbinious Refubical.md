@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Inactive","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":null,"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Inactive","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -97,6 +97,12 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 # Inventory
 *Carrying Capacity: 150 lbs*
 *Push, Drag, or Lift: 300 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (0)
 > This is my text
 
@@ -123,6 +129,11 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 **Enemies** - None/Unknown
 
 # Academics
+### Counsellors
+| Hofri Ghostforge | Marrick Deepfinder |
+|------------------|--------------------|
+
+### Grades & Timetables
 
 | [[1-Party/Ferbinious Refubical/Year 1\|Year 1]] | [[1-Party/Ferbinious Refubical/Year 2\|Year 2]] | [[1-Party/Ferbinious Refubical/Year 3\|Year 3]] | [[1-Party/Ferbinious Refubical/Year 4\|Year 4]] |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |

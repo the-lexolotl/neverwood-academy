@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":17,"modifier":2,"pasperc":13,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","dg-publish":true,"dg-pinned":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","dg-path":"Party/Eremis Varr/Eremis Varr.md","permalink":"/party/eremis-varr/eremis-varr/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":17,"modifier":2,"pasperc":13,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","dg-publish":true,"dg-pinned":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Eremis Varr/Eremis Varr.md","permalink":"/party/eremis-varr/eremis-varr/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -90,6 +90,12 @@
 # Inventory
 *Carrying Capacity: 195 lbs*
 *Push, Drag, or Lift: 390 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (0)
 > This is my text
 
@@ -116,6 +122,11 @@
 **Enemies** - None/Unknown
 
 # Academics
+### Counsellors
+| Smart Mouth | Liv Brandford |
+|-------------|---------------|
+
+### Grades & Timetables
 
 | [[1-Party/Eremis Varr/Year 1\|Year 1]] | [[1-Party/Eremis Varr/Year 2\|Year 2]] | [[1-Party/Eremis Varr/Year 3\|Year 3]] | [[1-Party/Eremis Varr/Year 4\|Year 4]] |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |

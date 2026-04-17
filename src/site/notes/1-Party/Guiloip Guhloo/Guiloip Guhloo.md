@@ -103,6 +103,12 @@ Ultimately, Glue dreams of becoming a healer whose work transcends the boundarie
 # Inventory
 *Carrying Capacity: 150 lbs*
 *Push, Drag, or Lift: 300 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (29)
 > [[3-Mechanics/CLI/items/potion-of-longevity-xdmg\|Potion of Longevity]]
 > [[3-Mechanics/CLI/items/adamantine-weapon-xdmg\|Adamantine Trident]]

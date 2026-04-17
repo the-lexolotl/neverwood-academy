@@ -112,6 +112,12 @@ Now at Neverwood, Marionette is eager to prove that even those born in shadow ca
 # Inventory
 *Carrying Capacity: 120 lbs*
 *Push, Drag, or Lift: 240 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (11)
 [[3-Mechanics/CLI/items/arrows-20-xphb\|Arrows (20)]]
 [[3-Mechanics/CLI/items/dagger-xphb\|Dagger]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","dg-path":"Party/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -105,6 +105,12 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 # Inventory
 *Carrying Capacity: 195 lbs*
 *Push, Drag, or Lift: 390 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (25)
 > [[3-Mechanics/CLI/items/potion-of-pugilism-xdmg\|Potion of Pugilism]]
 > A Scrap of Paper With a Code (5/6) 
@@ -155,6 +161,10 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 **Allies** - None/Unknown
 **Enemies** - None/Unknown
 # Academics
+### Counsellors
+| Jazzack Quickfood | Renald Rothton |
+|-------------------|----------------|
+### Grades & Timetables
 
 | [[1-Party/Vigilius Palamas/Year 1\|Year 1]] | [[1-Party/Vigilius Palamas/Year 2\|Year 2]] | [[1-Party/Vigilius Palamas/Year 3\|Year 3]] | [[1-Party/Vigilius Palamas/Year 4\|Year 4]] |
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |

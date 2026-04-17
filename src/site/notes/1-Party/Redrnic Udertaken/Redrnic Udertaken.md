@@ -1,5 +1,5 @@
 ---
-{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -107,6 +107,12 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 # Inventory
 *Carrying Capacity: 255 lbs*
 *Push, Drag, or Lift: 510 lbs*
+### Coin
+
+| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+### Items
 > [!example]- Equipment (12)
 > [[3-Mechanics/CLI/items/bullseye-lantern-xphb\|Bullseye Lantern]]
 > [[3-Mechanics/CLI/items/greataxe-xphb\|Greataxe]]
@@ -147,6 +153,10 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 **Enemies** - None/Unknown
 
 # Academics
+### Counsellors
+| Osgir, the Reconstructor | Tervis Sharpwing |
+|--------------------------|------------------|
+### Grades & Timetables
 
 | [[1-Party/Redrnic Udertaken/Year 1\|Year 1]] | [[1-Party/Redrnic Udertaken/Year 2\|Year 2]] | [[1-Party/Redrnic Udertaken/Year 3\|Year 3]] | [[1-Party/Redrnic Udertaken/Year 4\|Year 4]] |
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
