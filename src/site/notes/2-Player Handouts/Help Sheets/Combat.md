@@ -5,11 +5,12 @@
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** None
-**NPCs:** None
+**Associated Groups:** None
+**Associated Quests:** None
+**Associated NPCs:** None
+**Session Obtained:** Unknown
 
 ---
 ![Combat.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Combat.png)

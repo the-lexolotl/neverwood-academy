@@ -1,15 +1,16 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","Connected_Quests":null,"Connected_Groups":null,"handout-cat":"Academy Information","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"handoutObtained":"2025-04-18","dg-path":"Player Handouts/Academic Information/1st Year Courses.md","permalink":"/player-handouts/academic-information/1st-year-courses/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","Connected_Quests":null,"Connected_Groups":null,"handout-cat":"Academy Information","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"handoutObtained":"2025-04-18","handoutSessionObtained":null,"dg-path":"Player Handouts/Academic Information/1st Year Courses.md","permalink":"/player-handouts/academic-information/1st-year-courses/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** None
-**NPCs:** None
+**Associated Groups:** None
+**Associated Quests:** None
+**Associated NPCs:** None
+**Session Obtained:** Unknown
 
 ---
 # Compulsory Courses

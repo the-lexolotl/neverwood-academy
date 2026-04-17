@@ -5,11 +5,12 @@
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** None
-**NPCs:** None
+**Associated Groups:** None
+**Associated Quests:** None
+**Associated NPCs:** None
+**Session Obtained:** Unknown
 
 ---
 ![Playing the game.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/Playing%20the%20game.png)

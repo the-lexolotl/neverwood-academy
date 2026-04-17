@@ -58,11 +58,11 @@ Within Neverwood’s ivy-clad towers, knowledge is both the light that guides an
 | File                                                                             | Status      | Date Obtained |
 | -------------------------------------------------------------------------------- | ----------- | ------------- |
 | [[2-Quests/Campus Daredevils\|Campus Daredevils]]                             | Not Started | 10 Jan, 2026  |
-| [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] | In Progress | 03 Jan, 2026  |
 | [[2-Quests/Sigma Mail\|Sigma Mail]]                                           | In Progress | 24 Oct, 2025  |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | In Progress | 24 Oct, 2025  |
 | [[2-Quests/Colours in Chaos\|Colours in Chaos]]                               | In Progress | 23 Oct, 2025  |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | In Progress | 12 Jul, 2025  |
+| [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] | Complete    | 03 Jan, 2026  |
 | [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | Complete    | 13 Dec, 2025  |
 | [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | Complete    | 08 Nov, 2025  |
 | [[2-Quests/Ricards Riches\|Ricards Riches]]                                   | Complete    | 07 Nov, 2025  |

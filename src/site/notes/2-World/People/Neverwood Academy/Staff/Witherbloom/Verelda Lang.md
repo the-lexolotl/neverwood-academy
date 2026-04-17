@@ -28,8 +28,9 @@ Her research stretches into fractal creatures and artificial life, bridging the 
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 
 ### Associated Handouts
-| File | Date Obtained |
-| ---- | ------------- |
+| File                                                                         | Date Obtained |
+| ---------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Others/Professor Lang's List\|Professor Lang's List]] | 18 Apr, 2026  |
 
 { .block-language-dataview}
 

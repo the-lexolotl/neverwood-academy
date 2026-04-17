@@ -5,11 +5,11 @@
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** None
-**NPCs:** None
-
+**Associated Groups:** None
+**Associated Quests:** None
+**Associated NPCs:** None
+**Session Obtained:** Unknown
 ---
 ![DM Conditions.png](/img/user/z_Assets/website/DnD%20Help%20Sheets/DM%20Conditions.png)

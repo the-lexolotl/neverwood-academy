@@ -1,15 +1,16 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":null,"dg-publish":true,"Connected_Quests":null,"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Academy Information","dg-show-backlinks":true,"handoutObtained":"2025-07-19","dg-path":"Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars List.md","permalink":"/player-handouts/academic-information/extracurricular-clubs/extracurriculars-list/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","image":null,"dg-publish":true,"Connected_Quests":null,"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Academy Information","dg-show-backlinks":true,"handoutObtained":"2025-07-19","handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2025-07-19 - Session 2\|2025-07-19 - Session 2]]","dg-path":"Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars List.md","permalink":"/player-handouts/academic-information/extracurricular-clubs/extracurriculars-list/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** None
-**NPCs:** None
+**Associated Groups:** None
+**Associated Quests:** None
+**Associated NPCs:** None
+**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2025-07-19 - Session 2.md|2025-07-19 - Session 2]]
 
 ---
 
