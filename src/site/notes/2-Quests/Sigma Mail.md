@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[2-World/People/Other/Professor Delta.md|Professor Delta]]","questLocationObtained":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","questSessionObtained":"[[2025-10-24 - Ross Async|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Sigma Mail.md","permalink":"/quests/sigma-mail/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Professor Delta|Professor Delta]]","questLocationObtained":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","questSessionObtained":"[[2025-10-24 - Ross Async|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Sigma Mail.md","permalink":"/quests/sigma-mail/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 
 ### Meeting the Representative
 - [x] ~~Arrive at the observatory at midnight.~~
-- [x] ~~Meet [[2-World/People/Other/Professor Delta\|"Professor Delta"]], the representative of The Silent Equation.~~
+- [x] ~~Meet [[2-World/People/Other/Unspecified/Professor Delta\|"Professor Delta"]], the representative of The Silent Equation.~~
 - [x] ~~Accept the assignment: decode the ancient spellbook and copy its spells onto scrolls.~~
 - [x] ~~Take note of the unusual properties of the book.~~
 
@@ -49,7 +49,7 @@
 | Date Obtained:    | 2025-10-24                                           |
 | ----------------- | ---------------------------------------------------- |
 | Status:           | In Progress                                          |
-| Quest Giver:      | [[2-World/People/Other/Professor Delta\|"Professor Delta"]]               |
+| Quest Giver:      | [[2-World/People/Other/Unspecified/Professor Delta\|"Professor Delta"]]               |
 | Quest Location:   | [[2-World/Places/Quandrix Campus\|Quandrix Campus]]                                  |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Ross Async\|Ross Async - Sigma Mail]] |
 | Acquired Loot:    |                                                      |
@@ -63,7 +63,7 @@ The following people are associated with this quest.
 
 | File                                                                                         | Race  | Gender | Role    |
 | -------------------------------------------------------------------------------------------- | ----- | ------ | ------- |
-| [[2-World/People/Other/Professor Delta\|Professor Delta]]                                 | Human | Male   | Student |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Human | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] | Elf   | Male   | Student |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                           | Human | Male   | Player  |
 

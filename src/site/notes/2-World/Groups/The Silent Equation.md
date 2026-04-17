@@ -67,9 +67,9 @@ New recruits often start with simple tasks, giving them a chance to prove themse
 **Allies:** Unknown 
 # People
 
-| File                                                         | Gender | Race  | Role    | College  |
-| ------------------------------------------------------------ | ------ | ----- | ------- | -------- |
-| [[2-World/People/Other/Professor Delta\|Professor Delta]] | Male   | Human | Student | Quandrix |
+| File                                                                     | Gender | Race  | Role    | College  |
+| ------------------------------------------------------------------------ | ------ | ----- | ------- | -------- |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] | Male   | Human | Student | Quandrix |
 
 { .block-language-dataview}
 # Services

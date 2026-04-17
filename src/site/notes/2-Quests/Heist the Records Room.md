@@ -56,17 +56,17 @@ Strange things have been happening on campus. The party has been tipped off abou
 # People
 The following people are associated with this quest.
 
-| File                                                                  | Race            | Gender | Role      |
-| --------------------------------------------------------------------- | --------------- | ------ | --------- |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]          | Half-Bullywug   | Male   | Alumni    |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]      | Bullywug        | Male   | Alumni    |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]            | Halfling        | Female | Applicant |
-| [[1-Party/Atudark/Atudark\|Atudark]]                               | Yuan-Ti         | Male   | Player    |
-| [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                | Aarakocra       | Female | Player    |
-| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]          | Triton          | Male   | Player    |
-| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]    | Human           | Male   | Player    |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]          | Variant Aasimar | Female | Player    |
-| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | Halfling        | Male   | Player    |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]    | Dragonborn      | Male   | Player    |
+| File                                                                      | Race            | Gender | Role      |
+| ------------------------------------------------------------------------- | --------------- | ------ | --------- |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
+| [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug        | Male   | Alumni    |
+| [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling        | Female | Applicant |
+| [[1-Party/Atudark/Atudark\|Atudark]]                                   | Yuan-Ti         | Male   | Player    |
+| [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                    | Aarakocra       | Female | Player    |
+| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]              | Triton          | Male   | Player    |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]        | Human           | Male   | Player    |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]              | Variant Aasimar | Female | Player    |
+| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]     | Halfling        | Male   | Player    |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]        | Dragonborn      | Male   | Player    |
 
 { .block-language-dataview}

@@ -23,8 +23,8 @@ This pub would seem to be nothing more than a ramshackle cabin in the swamp were
 { .block-language-dataview}
 # People
 
-| File                                           | Race  | Gender | Role           |
-| ---------------------------------------------- | ----- | ------ | -------------- |
-| [[2-World/People/Neverwinter/Boyan\|Boyan]] | Human | Male   | Tavern Manager |
+| File                                                               | Race  | Gender | Role           |
+| ------------------------------------------------------------------ | ----- | ------ | -------------- |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]] | Human | Male   | Tavern Manager |
 
 { .block-language-dataview}

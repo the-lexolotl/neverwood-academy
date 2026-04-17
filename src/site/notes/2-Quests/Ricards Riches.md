@@ -7,9 +7,9 @@
 
 # Quest Info
 - [x] ~~Head to the Root Archives~~
-- [x] ~~Locate [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricards]] lost chest~~ 
+- [x] ~~Locate [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricards]] lost chest~~ 
 - [x] ~~Free the chest from its viney captor~~
-- [x] ~~Return the items to [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]~~
+- [x] ~~Return the items to [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]~~
 
 # Quest Handouts
 | File | Date Obtained |
@@ -24,19 +24,19 @@
 | Date Obtained:    | 2025-11-07                                                    |
 | ----------------- | ------------------------------------------------------------- |
 | Status:           | Complete                                                      |
-| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]                                             |
+| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                                             |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                 |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-07 - Cat Async\|Catarina Async - Roots and Riches]] |
 | Acquired Loot:    |                                                               |
 # Backstory
-Deputy Head [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]] has lost something in the Root Archives. Marionette just happens to be looking for a job. What a coincidence...
+Deputy Head [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] has lost something in the Root Archives. Marionette just happens to be looking for a job. What a coincidence...
 
 
 # People
 The following people are associated with this quest.
-| File                                                                        | Race    | Gender | Role                |
-| --------------------------------------------------------------------------- | ------- | ------ | ------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]  | Human   | Male   | Deputy Head Teacher |
-| [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]] | Eladrin | Female | Player              |
+| File                                                                                      | Race    | Gender | Role                |
+| ----------------------------------------------------------------------------------------- | ------- | ------ | ------------------- |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human   | Male   | Deputy Head Teacher |
+| [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]               | Eladrin | Female | Player              |
 
 { .block-language-dataview}

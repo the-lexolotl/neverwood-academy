@@ -17,7 +17,7 @@ hidden
 `BUTTON[button_quest]` 
 
 - [ ]  Navigate through the dungeon
-- [ ]  Locate the sharman and [[2-World/People/Other/Miaukier\|Miaukier]] 
+- [ ]  Locate the sharman and [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]] 
 - [ ]  Stop the ritual
 - [ ]  Decide if Mutant Miaukier should go free
 
@@ -57,6 +57,6 @@ views:
 
 ### [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
 - [x]  Navigate through the dungeon
-- [x]  Locate the sharman and [[2-World/People/Other/Miaukier\|Miaukier]] 
+- [x]  Locate the sharman and [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]] 
 - [x]  Stop the ritual
 - [x]  Decide if Mutant Miaukier should go free

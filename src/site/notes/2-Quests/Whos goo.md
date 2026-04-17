@@ -16,7 +16,7 @@
 - [x] ~~Learn more about the unnamed student mentioned by staff~~
 	- [x] ~~Speak with faculty and students~~
 	- [x] ~~Piece together rumours and fragmented accounts~~
-- [x] ~~Determine whether the student is connected to recent घटनाएँ
+- [x] ~~Determine whether the student is connected to recent incidents~~
 ### The Murgaxor Records
 - [x] ~~Find Murgaxor’s student records~~
 	- [x] ~~Ask the staff about the Admin Office~~
@@ -35,12 +35,12 @@
 ### The Expanding Pattern
 - [x] ~~Investigate the goo found on the pot~~
 - [ ] Compare samples across multiple incidents
-- [ ] Identify that the substance is consistent across घटनाएँ
+- [ ] Identify that the substance is consistent across all incidents
 - [ ] Realise the incidents are not isolated
 ### The Rose Stage Incident
 - [ ] Investigate magical chaos during the festival
 - [ ] Protect students and staff from unstable creatures or constructs
-- [ ] Track the source of the घटनाएँ
+- [ ] Track the source of the disturbance
 - [ ] Discover evidence of deliberate interference
 ### The Eldritch Balm Investigation
 - [ ] Determine whether the goo shares properties with the corrupted eldritch balm
@@ -72,19 +72,19 @@
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-07-12 - Session 1\|Session 1 - Orientation Day]] |
 | Acquired Loot:    |                                                         |
 # Backstory
-Across Neverwood Academy, strange and seemingly unrelated घटनाएँ have begun to surface.
+Across Neverwood Academy, strange and seemingly unrelated incidents have begun to surface.
 A shifting, unnatural substance appears on objects without explanation. Creatures behave erratically, their forms altered in subtle but disturbing ways. Even summoned or elemental beings begin to destabilise, as though something is interfering with their very nature.
 At first, these incidents are dismissed as minor magical anomalies - unfortunate side effects of student spellwork, or environmental quirks of the surrounding wilds.
 But patterns begin to emerge.
 The same viscous substance. The same unnatural adaptations. The same quiet sense that something is not just changing... but learning.
-Through investigation, the students uncover the name [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]] - an applicant from their own year, 1508 DR.
+Through investigation, the students uncover the name [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]] - an applicant from their own year, 1508 DR.
 Her records show that she was denied entry to Neverwood Academy.
 The reason is buried in administrative notes:
-Her grandfather, [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]], and her father, [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]], were both previously associated with the Academy. Their work, once promising, became controversial, then dangerous. Records reference misuse of magic, unethical experimentation, and eventual removal from academic circles.
+Her grandfather, [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]], and her father, [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]], were both previously associated with the Academy. Their work, once promising, became controversial, then dangerous. Records reference misuse of magic, unethical experimentation, and eventual removal from academic circles.
 Veyra’s application was rejected on those grounds alone.
 No interview. No appeal. No second chance.
 Yet despite never setting foot inside Neverwood as a student… her name keeps resurfacing.
-The effects observed point toward transmutation magic, though they appear inconsistent—processes feel incomplete, outcomes vary, and whatever is causing them doesn’t follow the clean, controlled results typically expected of the discipline. The strange substance does not behave like a typical magical byproduct.
+The effects observed point toward transmutation magic, though they appear inconsistent—processes feel incomplete, outcomes vary, and whatever is causing them doesn’t follow the clean, controlled results typically expected of the discipline. The strange substance does not behave like a typical magical by product.
 Creatures affected by it are changed, but not always unpredictably. Some exhibit similar traits, as though influenced by the same guiding principle.
 These incidents are becoming harder to dismiss as coincidence.
 What began as isolated curiosities are now appearing across multiple locations, with increasing frequency.
@@ -98,12 +98,12 @@ And at the centre of it all, a name that should have remained nothing more than 
 The following people are associated with this quest.
 | Character                                                                                      | Race            | Gender | Role                  |
 | ---------------------------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                   | Half-Bullywug   | Male   | Alumni                |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                               | Bullywug        | Male   | Alumni                |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                     | Halfling        | Female | Applicant             |
-| [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                                   | Treant          | Female | Grounds Keeper        |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                          | Half-Bullywug   | Male   | Alumni                |
+| [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                      | Bullywug        | Male   | Alumni                |
+| [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                            | Halfling        | Female | Applicant             |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]         | Human           | Male   | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
+| [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                           | Treant          | Female | Grounds Keeper        |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                        | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                         | Aarakocra       | Female | Player                |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                   | Triton          | Male   | Player                |

@@ -18,9 +18,8 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 
 | File                                                                                                     | Race          | Gender     | Role                |
 | -------------------------------------------------------------------------------------------------------- | ------------- | ---------- | ------------------- |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                             | Half-Bullywug | Male       | Alumni              |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                         | Bullywug      | Male       | Alumni              |
-| [[2-World/People/Other/Miaukier\|Miaukier]]                                                           | Cat           | Male       | Other               |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                                    | Half-Bullywug | Male       | Alumni              |
+| [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                                | Bullywug      | Male       | Alumni              |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]               | Elf           | Female     | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]     | Dragon        | Female     | Founder Dragon      |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]               | Firbolg       | Male       | Professor of Growth |
@@ -33,6 +32,7 @@ Witherbloom’s campus is tucked away in a wide bayou to the southeast of Neverw
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                     | Dryad         | Female     | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                               | Loxodon       | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                         | Treant        | Female     | Professor of Growth |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]                             | Cat           | Male       | Other               |
 | [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                 | Gorgon        | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                 | Human         | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                     | Tiefling      | Male       | Student             |

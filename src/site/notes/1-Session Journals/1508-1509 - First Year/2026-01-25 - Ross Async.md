@@ -22,7 +22,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]],[[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]],[[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]
+[[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]],[[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]],[[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]
 
 ## Summary
 A single-minded burst of administrative ambition sends Suraax charging across campus with one goal: founding a wrestling society. What follows is a whirlwind tour of the Biblioplex and the stadium, a brief but painful interruption to mage tower training, and the unlikely success of recruiting both staff sponsorship and student members in record time. By the end of the afternoon, paperwork is pending, Coach Shtomp is plotting athletic vengeance, and Suraax has secured herself a campus job — all accomplished at a dead sprint.
@@ -35,12 +35,12 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
     - A **member of staff willing to sponsor** the club.
 
 ### The Biblioplex Approach
-- Suraax heads to the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]] to speak with [[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]], the treant staff member.
+- Suraax heads to the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]] to speak with [[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]], the treant staff member.
 - She finds Isabrough carefully restocking books and asks about sponsorship.
 - Isabrough politely declines:
     - Wrestling is “not her cup of tea”.
     - She reassures Suraax that it has nothing to do with the axe.
-- Isabrough suggests **[[2-World/People/Neverwood Academy/Staff/Shtomp\|Coach Shtomp]]** as a far more suitable sponsor.
+- Isabrough suggests **[[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Coach Shtomp]]** as a far more suitable sponsor.
 - She directs Suraax towards the **stadium**, where the coach is likely training students.
 
 ### Chaos at the Stadium
@@ -71,7 +71,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 - With these sign-ups, the society meets the minimum requirements.
 
 #### Confirmed Wrestling Society Members
-- **Staff Sponsor:** [[2-World/People/Neverwood Academy/Staff/Shtomp\|Coach Shtomp]]
+- **Staff Sponsor:** [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Coach Shtomp]]
 - **Students:**
     - [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
     - [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]

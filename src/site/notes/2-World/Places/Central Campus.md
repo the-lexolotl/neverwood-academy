@@ -16,28 +16,28 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 
 
 # NPCs
-| File                                                                               | Race                   | Gender | Role                       |
-| ---------------------------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
-| [[2-World/People/Neverwood Academy/Staff/Cleaner\|Cleaner]]                     | Automaton              | Other  | Cleaner                    |
-| [[2-World/People/Neverwood Academy/Staff/Construct V339\|Construct V339]]       | Automaton              | Other  | Automaton                  |
-| [[2-World/People/Neverwood Academy/Staff/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
-| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                   | Tiefling               | Female | Coach                      |
-| [[2-World/People/Neverwood Academy/Staff/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
-| [[2-World/People/Neverwood Academy/Staff/Groff Lundquist\|Groff Lundquist]]     | Human                  | Male   | Shop Manager               |
-| [[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]]                 | Treant                 | Female | Head Librarian             |
-| [[2-World/People/Neverwood Academy/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]] | Owlin                  | Male   | Dean of Admissions         |
-| [[2-World/People/Neverwood Academy/Staff/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
-| [[2-World/People/Neverwood Academy/Staff/Melvi Le Donto\|Melvi Le Donto]]       | Human                  | Female | Lab Administrator          |
-| [[2-World/People/Neverwood Academy/Staff/Pythia\|Pythia]]                       | Human                  | Female | Oracle                     |
-| [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]         | Vedalken               | Male   | General Studies Professor  |
-| [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]         | Human                  | Male   | Deputy Head Teacher        |
-| [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                       | Orc                    | Male   | Coach                      |
-| [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]   | Human                  | Female | Head Teacher               |
-| [[2-World/People/Neverwood Academy/Staff/The Earl\|The Earl]]                   | Neverwood Campus Guide | Male   | Butler                     |
-| [[2-World/People/Neverwood Academy/Staff/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Tavern Manager             |
-| [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                       | Treant                 | Female | Grounds Keeper             |
-| [[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]]                           | Satyr                  | Female | Student Life Administrator |
+| File                                                                                                      | Race                   | Gender | Role                       |
+| --------------------------------------------------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]]           | Human                  | Female | Head Teacher               |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                 | Human                  | Male   | Deputy Head Teacher        |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Pythia\|Pythia]]                               | Human                  | Female | Oracle                     |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Lidbrix Teawillow\|Lidbrix Teawillow]]         | Owlin                  | Male   | Dean of Admissions         |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]]                                   | Satyr                  | Female | Student Life Administrator |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Curtie Axechucker\|Curtie Axechucker]] | Dwarf                  | Female | Tavern Chef                |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Groff Lundquist\|Groff Lundquist]]     | Human                  | Male   | Shop Manager               |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc                    | Male   | Tavern Manager             |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Cleaner\|Cleaner]]                                 | Automaton              | Other  | Cleaner                    |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                   | Automaton              | Other  | Automaton                  |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]]                               | Neverwood Campus Guide | Male   | Butler                     |
+| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                  | Tiefling               | Female | Coach                      |
+| [[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]]                                | Treant                 | Female | Head Librarian             |
+| [[2-World/People/Neverwood Academy/Staff/General/Melvi Le Donto\|Melvi Le Donto]]                      | Human                  | Female | Lab Administrator          |
+| [[2-World/People/Neverwood Academy/Staff/General/Quentis Orvlo\|Quentis Orvlo]]                        | Vedalken               | Male   | General Studies Professor  |
+| [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                                      | Treant                 | Female | Grounds Keeper             |
+| [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]]                                      | Orc                    | Male   | Coach                      |
 
 { .block-language-dataview}
 

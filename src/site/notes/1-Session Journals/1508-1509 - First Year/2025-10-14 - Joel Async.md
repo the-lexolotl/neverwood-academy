@@ -22,7 +22,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]],[[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]],[[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]],[[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]],[[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]],[[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]],[[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]],[[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]
+[[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]],[[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]],[[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]],[[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]],[[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]],[[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]],[[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]],[[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]
 
 ## Summary
 
@@ -35,11 +35,11 @@ A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage 
 * Vith makes a flamboyant entrance, loudly announcing himself before being quietly escorted out by the automaton.  
 * Their journey takes them out of the city and into the deep woods, where a magical barrier shimmers between two oak trees.  
 * Through the faint glow, Vith glimpses the towering spires and arcane silhouettes of Neverwood Academy.  
-* The automaton welcomes him to campus and hands him a letter sealed in gold wax — a personal welcome from Head Teacher [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]] (though Vith grumbles that silver would’ve been classier).
+* The automaton welcomes him to campus and hands him a letter sealed in gold wax — a personal welcome from Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] (though Vith grumbles that silver would’ve been classier).
 
 ### A Satyr’s Welcome
 
-* Vith is soon greeted by [[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]], a cheerful Satyr and the Student Life Administrator.  
+* Vith is soon greeted by [[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]], a cheerful Satyr and the Student Life Administrator.  
 * She gives him a tour of the [[2-World/Places/Central Campus\|Central Campus]], explaining the use of the Campus Guide automatons.  
 * They stop at the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]], where she points out the student shop and the [[2-World/Businesses/Whalebucks Coffee Co.\|Whalebucks]] café, before giving him some time to explore on his own.  
 * Vith visits the Hall of Oracle, where the glowing Snarl greets him and wishes him luck in his studies.  
@@ -68,18 +68,18 @@ After a few more drinks, Vith heads back to his dorm. Lysander follows him to th
 ### The Next Morning: Try-outs and Classes
 
 * Vith’s peace is shattered by a loud Campus Guide automaton, which explains his day’s schedule:  
-	* Mage Tower Try-outs with [[2-World/People/Neverwood Academy/Staff/Shtomp\|Coach Shtomp]]  
+	* Mage Tower Try-outs with [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Coach Shtomp]]  
 	* Arcane Grammar with Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] 
 * Zoei meets him in the [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]] with a steaming coffee and escorts him to [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]].  
-* [[2-World/People/Neverwood Academy/Staff/Shtomp\|Coach Shtomp]]  , a massive orc, introduces himself and asks Vith to demonstrate his skills.  
+* [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Coach Shtomp]]  , a massive orc, introduces himself and asks Vith to demonstrate his skills.  
 	* Vith throws a punch, only to feel like he’s hit a brick wall.  
-	* [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]] has him run through exercises — Vith performs decently but is clearly hungover.  
+	* [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]] has him run through exercises — Vith performs decently but is clearly hungover.  
 	* The coach remarks that while unimpressive, his abilities *“can be refined.”*  
-	* [[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]], ever encouraging, insists she’s *“very impressed.”*
+	* [[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]], ever encouraging, insists she’s *“very impressed.”*
 
 ### Arcane Grammar
 
-* [[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]] brings Vith to [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] on [[2-World/Places/Silverquill Campus\|Silverquill Campus]] for his first class.  
+* [[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]] brings Vith to [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] on [[2-World/Places/Silverquill Campus\|Silverquill Campus]] for his first class.  
 * There, he meets Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]], a dignified Owlin who also serves as the Guidance Counsellor.  
 * During the lesson, Vith’s quill suddenly erupts into a fiery sprite, which he instinctively swallows, extinguishing it with his frost breath.  
 * The sprite turns back into ink, coating his teeth black.  

@@ -30,21 +30,21 @@ Taught by Professor Xyla Langning of Lorehold, this foundational course explores
 Under the enthusiastic instruction of Professor Arkin Minexes, a Prismari alum and former cheerleader, this class celebrates the vital connection between mages and their magical companions. Students will learn to summon, nurture, and fight alongside conjured mascots, embodying the unity and pride that fuel Neverwood’s most spirited traditions. A mix of performance, magical practice, and care work awaits those brave enough to form a bond with their own mascot.
 
 #### Going the Extra Mile: A Guide to Spell Efficiency
-*Professor [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]*  
+*Professor [[2-World/People/Neverwood Academy/Staff/General/Quentis Orvlo\|Quentis Orvlo]]*  
 > [!success]- Reward
 > Spell Sniper feat
 
 Led by Professor Orvlo, this advanced study focuses on refining spellcasting precision and extending magical potential. Through a series of controlled experiments and practical exercises, students will learn to manipulate energy flow, optimise their casting techniques, and improve the reach and accuracy of their spells. Expect a highly practical course with an emphasis on precision, timing, and the art of subtle magical control.
 
 #### There’s No Cook Like Gyome: Magical Cooking with Everyone’s Favourite Troll
-*Professor [[2-World/People/Neverwood Academy/Staff/Master Chef Gyome\|Gyome]]* 
+*Professor [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Master Chef Gyome\|Gyome]]* 
 > [!success]- Reward
 > Chef feat
 
 Join Chef Gyome, Witherbloom’s renowned troll gourmand, for a culinary adventure that blurs the line between alchemy and cuisine. Students will explore the art of cooking with magical ingredients — from luminescent fungi to phoenix pepper flakes — crafting dishes that nourish both body and mana. Classes are split into themed sessions for breakfast, lunch, and dinner, each culminating in a communal feast (and plenty of questionable taste tests).
 
 #### Wiping the Slate Clean: Methods of Erasing Magical Effects
-*Professor [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]*  
+*Professor [[2-World/People/Neverwood Academy/Staff/General/Quentis Orvlo\|Quentis Orvlo]]*  
 > [!success]- Reward
 > Dispel Magic
 

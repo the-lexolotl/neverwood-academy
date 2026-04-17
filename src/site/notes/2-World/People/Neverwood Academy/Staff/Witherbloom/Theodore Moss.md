@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250911160709.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Veteran","char_college":"Witherbloom","char_items":null,"char_age":"Elder","parents":null,"children":["[[2-World/People/Other/Miaukier\|Miaukier]]"],"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss.md","permalink":"/world/people/neverwood-academy/staff/witherbloom/theodore-moss/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20250911160709.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Veteran","char_college":"Witherbloom","char_items":null,"char_age":"Elder","parents":null,"children":["[[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]"],"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Witherbloom College|Witherbloom College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss.md","permalink":"/world/people/neverwood-academy/staff/witherbloom/theodore-moss/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -38,7 +38,7 @@ Though long retired, Theodore continues to reside on campus, tending to his gard
 **Parents** - None/Unknown
 **Siblings** - None/Unknown
 **Partner** - None/Unknown
-**Children** - [[2-World/People/Other/Miaukier\|Miaukier]]
+**Children** - [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]
 **Allies** - None/Unknown
 **Enemies** - None/Unknown
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":null,"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-24","dg-hide":false,"dg-show-toc":false,"Connected_NPC":["[[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]"],"dg-path":"Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon..md","permalink":"/player-handouts/others/notes-on-the-pub-that-crawls-compiled-by-e-zenithon/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":null,"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-24","dg-hide":false,"dg-show-toc":false,"Connected_NPC":["[[Eb Zenithon|Eb Zenithon]]"],"dg-path":"Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon..md","permalink":"/player-handouts/others/notes-on-the-pub-that-crawls-compiled-by-e-zenithon/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,7 @@
 
 **Groups:** None
 **Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
-**NPCs:** [[2-World/People/Neverwinter/Eb Zenithon.md|Eb Zenithon]]
+**NPCs:** [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;

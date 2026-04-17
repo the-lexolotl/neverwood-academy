@@ -27,7 +27,7 @@
 | Date Obtained:    | 2025-10-24                                                        |
 | ----------------- | ----------------------------------------------------------------- |
 | Status:           | In Progress                                                       |
-| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                                                      |
+| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                                      |
 | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                             |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Megan Async\|Megan Async - The Merchant of Moons]] |
 | Acquired Loot:    |                                                                   |
@@ -39,9 +39,9 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 
 # People
 The following people are associated with this quest.
-| File                                                             | Race            | Gender | Role   |
-| ---------------------------------------------------------------- | --------------- | ------ | ------ |
-| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]] | Tiefling        | Female | Coach  |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]     | Variant Aasimar | Female | Player |
+| File                                                                     | Race            | Gender | Role   |
+| ------------------------------------------------------------------------ | --------------- | ------ | ------ |
+| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]] | Tiefling        | Female | Coach  |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]             | Variant Aasimar | Female | Player |
 
 { .block-language-dataview}

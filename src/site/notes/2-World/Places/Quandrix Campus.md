@@ -18,7 +18,7 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | File                                                                                           | Race       | Gender     | Role                   |
 | ---------------------------------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Other/Professor Delta\|Professor Delta]]                                   | Human      | Male       | Student                |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                       | Human      | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                            | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |

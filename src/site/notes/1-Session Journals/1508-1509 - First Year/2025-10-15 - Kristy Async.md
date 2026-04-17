@@ -22,7 +22,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]],[[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]
+[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]],[[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]
 
 ## Summary
 
@@ -38,7 +38,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Vigiliu
 
 ### The Hall of Inquiry
 
-* A winged silver quill leads Vigilius into a rune-lit chamber where Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] and Deputy Head Teacher [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]] await.  
+* A winged silver quill leads Vigilius into a rune-lit chamber where Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] and Deputy Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] await.  
 * Mavinda gestures to a chair, her expression disappointed but not cruel.  
 * Ricard, smooth-voiced and precise, opens with:  
 	  “No shackles, no detentions — yet. Let’s simply have a conversation.”  

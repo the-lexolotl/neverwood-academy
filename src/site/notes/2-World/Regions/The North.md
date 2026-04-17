@@ -178,6 +178,7 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]                                         | Extracurricular Club |
+| [[2-World/Groups/Wintershield Watchmen\|Wintershield Watchmen]]                                                      | Mercenary Company    |
 
 { .block-language-dataview}
 
@@ -203,184 +204,185 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 { .block-language-dataview}
 
 # NPCs
-| File                                                                                                                         | Race                   | Gender     | Role                       |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- | -------------------------- |
-| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                                                 | Half-Bullywug          | Male       | Alumni                     |
-| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                                                             | Bullywug               | Male       | Alumni                     |
-| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                                                   | Halfling               | Female     | Applicant                  |
-| [[2-World/People/Neverwood Academy/Staff/Construct V339\|Construct V339]]                                                 | Automaton              | Other      | Automaton                  |
-| [[2-World/People/Other/Coriander\|Coriander]]                                                                             | Homunculi              | Other      | Butler                     |
-| [[2-World/People/Neverwood Academy/Staff/The Earl\|The Earl]]                                                             | Neverwood Campus Guide | Male       | Butler                     |
-| [[2-World/People/Neverwood Academy/Staff/Aisla Fitzbottom\|Aisla Fitzbottom]]                                             | Gnome                  | Female     | Cafe Manager               |
-| [[2-World/People/Neverwood Academy/Staff/Ellina Tanglewood\|Ellina Tanglewood]]                                           | Elf                    | Female     | Cafe Manager               |
-| [[2-World/People/Neverwood Academy/Staff/Cleaner\|Cleaner]]                                                               | Automaton              | Other      | Cleaner                    |
-| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                                                             | Tiefling               | Female     | Coach                      |
-| [[2-World/People/Neverwood Academy/Staff/Shtomp\|Shtomp]]                                                                 | Orc                    | Male       | Coach                      |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                                        | Human                  | Female     | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                                                        | Orc                    | Male       | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                                                    | Owlin                  | Male       | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]]                                                        | Elf                    | Female     | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                                                      | Fire Genasi            | Other      | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                  | Air Genasi             | Female     | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Lissette\|Lissette]]                                                 | Human                  | Female     | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                                                 | Vampire                | Male       | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                                             | Human                  | Male       | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]                                 | Owlin                  | Female     | College Dean               |
-| [[2-World/People/Neverwood Academy/Staff/Lidbrix Teawillow\|Lidbrix Teawillow]]                                           | Owlin                  | Male       | Dean of Admissions         |
-| [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]                                                   | Human                  | Male       | Deputy Head Teacher        |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                              | Dragon                 | Female     | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]                                    | Dragon                 | Female     | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]                                  | Dragon                 | Male       | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]                         | Dragon                 | Female     | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]                           | Dragon                 | Male       | Founder Dragon             |
-| [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]                                                   | Vedalken               | Male       | General Studies Professor  |
-| [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                                                                 | Treant                 | Female     | Grounds Keeper             |
-| [[2-World/People/Neverwood Academy/Staff/Master Chef Gyome\|Master Chef Gyome]]                                           | Troll                  | Male       | Head Chef                  |
-| [[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]]                                                           | Treant                 | Female     | Head Librarian             |
-| [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                                             | Human                  | Female     | Head Teacher               |
-| [[2-World/People/Neverwood Academy/Staff/Melvi Le Donto\|Melvi Le Donto]]                                                 | Human                  | Female     | Lab Administrator          |
-| [[2-World/People/Neverwood Academy/Staff/Pythia\|Pythia]]                                                                 | Human                  | Female     | Oracle                     |
-| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]]                                               | Human                  | Male       | Other                      |
-| [[2-World/People/Neverwinter/Kask\|Kask]]                                                                                 | Burrog                 | Male       | Other                      |
-| [[2-World/People/Other/Miaukier\|Miaukier]]                                                                               | Cat                    | Male       | Other                      |
-| [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                                                                 | Giant                  | Female     | Other                      |
-| [[2-World/People/Other/Vormor\|Vormor]]                                                                                   | Half-Giant             | Male       | Other                      |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                            | Human                  | Male       | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                                | Elf                    | Female     | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                                      | Loxodon                | Female     | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                                | Halfling               | Male       | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                                    | Human                  | Male       | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin                  | Male       | Professor of Chaos         |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Serafina Onyx\|Serafina Onyx]]                                       | Human                  | Female     | Professor of Decay         |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Tivash\|Tivash]]                                                     | Human                  | Male       | Professor of Decay         |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]                               | Dragonborn             | Male       | Professor of Decay         |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                                          | Human                  | Male       | Professor of Expression    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                                        | Eladrin                | Female     | Professor of Expression    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Rock\|Rock]]                                                            | Earth Genasi           | Male       | Professor of Expression    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]]                                                        | Human                  | Male       | Professor of Expression    |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                                   | Elf                    | Female     | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                                   | Firbolg                | Male       | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                                         | Dryad                  | Female     | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                                                   | Loxodon                | Male       | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                                             | Treant                 | Female     | Professor of Growth        |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                                  | Halfling               | Female     | Professor of Order         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                                    | Dwarf                  | Male       | Professor of Order         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    | Giant                  | Male       | Professor of Order         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                                        | Owlin                  | Female     | Professor of Order         |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                          | Gnome                  | Female     | Professor of Order         |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Ahkwa\|Ahkwa]]                                                          | Tortle                 | Female     | Professor of Perfection    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Veyran\|Veyran]]                                                        | Water Genasi           | Female     | Professor of Perfection    |
-| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]]                                                            | Air Genasi             | FtM        | Professor of Perfection    |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]                                     | Leonin                 | Male       | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                               | Owlin                  | Female     | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Nils\|Nils]]                                                         | Human                  | Male       | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                                     | Half-Elf               | Female     | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                                           | Kenku                  | Non-binary | Professor of Radiance      |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                                                     | Owlin                  | Female     | Professor of Shadow        |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]                           | Dhampir                | Male       | Professor of Shadow        |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                                                         | Human                  | Male       | Professor of Shadow        |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                                       | Human                  | Female     | Professor of Shadow        |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                                       | Human                  | Male       | Professor of Shadow        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                                                          | Triton                 | Non-binary | Professor of Substance     |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]                                      | Fairy                  | Female     | Professor of Substance     |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]                                  | Harengon               | Male       | Professor of Substance     |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Ruxa\|Ruxa]]                                                            | Brown Bear             | Male       | Professor of Substance     |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                                        | Dwarf                  | Female     | Professor of Theory        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Deekah\|Deekah]]                                                        | Human                  | Female     | Professor of Theory        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]]                                                              | Triton                 | Non-binary | Professor of Theory        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]                                        | Human                  | Male       | Professor of Theory        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                                                            | Changling              | Female     | Professor of Theory        |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]                                    | Tiefling               | Female     | Professor of Theory        |
-| [[2-World/People/Neverwinter/Bessa Carver\|Bessa Carver]]                                                                 | Dwarf                  | Female     | Shop Manager               |
-| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                                                                     | Human                  | Male       | Shop Manager               |
-| [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                                                                       | Half-Elf               | Female     | Shop Manager               |
-| [[2-World/People/Neverwinter/Oswin Thatch\|Oswin Thatch]]                                                                 | Tiefling               | Non-binary | Shop Manager               |
-| [[2-World/People/Neverwood Academy/Staff/Groff Lundquist\|Groff Lundquist]]                                               | Human                  | Male       | Shop Manager               |
-| [[2-World/People/Other/Professor Delta\|Professor Delta]]                                                                 | Human                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]                                     | Elf                    | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                                     | Gorgon                 | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn             | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             | Gnome                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]]                                 | Half-Orc               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                                                 | Tiefling               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]                                   | Shifter                | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]                                   | Shadar-Kai             | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                                 | Firbolg                | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar                | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc                    | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                                           | Owlin                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                                     | Triton                 | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Minotaur               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                               | Halfling               | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                                   | Loxodon                | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]]           | Gnome                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                               | Human                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                               | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                                         | Tiefling               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                                     | Half-Elf               | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                                                   | Half-Orc               | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                                 | Owlin                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf                    | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]                                 | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                                                     | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                               | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                                                         | Earth Genasi           | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     | Fire Genasi            | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                                         | Firbolg                | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]                                         | Half-Elf               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]                                             | Halfling               | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]                                           | Orc                    | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                               | Elf                    | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]                                   | Aasimar                | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]                                   | Kenku                  | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     | Orc                    | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]                                   | Orc                    | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                                         | Leonin                 | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                                   | Changling              | Non-binary | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]                                   | Hexblood               | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Dhampir                | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                                         | Loxodon                | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                                 | Elf                    | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Calla Fernbrook\|Calla Fernbrook]]                                       | Satyr                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi             | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged              | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf                    | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]                                           | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                                                 | Dryad                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn                 | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai             | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human                  | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Human                  | Female     | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc               | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi            | Male       | Student                    |
-| [[2-World/People/Neverwood Academy/Staff/Zoei\|Zoei]]                                                                     | Satyr                  | Female     | Student Life Administrator |
-| [[2-World/People/Neverwood Academy/Staff/Curtie Axechucker\|Curtie Axechucker]]                                           | Dwarf                  | Female     | Tavern Chef                |
-| [[2-World/People/Neverwinter/Alise Thallas\|Alise Thallas]]                                                               | Changling              | Female     | Tavern Founder             |
-| [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]                                                             | Elf                    | Female     | Tavern Founder             |
-| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                                                                   | Elf                    | Male       | Tavern Founder             |
-| [[2-World/People/Neverwinter/Giovanni Uncuf\|Giovanni Uncuf]]                                                             | Human                  | Male       | Tavern Founder             |
-| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                                                             | Half-Orc               | Male       | Tavern Founder             |
-| [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                                                             | Kor                    | Male       | Tavern Ghost               |
-| [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                                                             | Orc                    | Male       | Tavern Ghost               |
-| [[2-World/People/Neverwinter/Baz\|Baz]]                                                                                   | Owlin                  | Male       | Tavern Manager             |
-| [[2-World/People/Neverwinter/Bellana\|Bellana]]                                                                           | Sylph                  | Female     | Tavern Manager             |
-| [[2-World/People/Neverwinter/Boyan\|Boyan]]                                                                               | Human                  | Male       | Tavern Manager             |
-| [[2-World/People/Neverwinter/Grayson\|Grayson]]                                                                           | Vampire                | Male       | Tavern Manager             |
-| [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                                                                       | Loxodon                | Male       | Tavern Manager             |
-| [[2-World/People/Neverwinter/Vani\|Vani]]                                                                                 | Automaton              | Other      | Tavern Manager             |
-| [[2-World/People/Neverwood Academy/Staff/Tulk Tusktooth\|Tulk Tusktooth]]                                                 | Orc                    | Male       | Tavern Manager             |
-| [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]                                                         | Human                  | Male       | Transport Manager          |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                                | Owlin                  | Male       | Veteran                    |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                                       | Human                  | Male       | Veteran                    |
+| File                                                                                                                         | Race                   | Gender     | Role                          |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- | ----------------------------- |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                                                        | Half-Bullywug          | Male       | Alumni                        |
+| [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                                                    | Bullywug               | Male       | Alumni                        |
+| [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                                                          | Halfling               | Female     | Applicant                     |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                                      | Automaton              | Other      | Automaton                     |
+| [[2-World/People/Other/Fistandria's Mansion/Coriander\|Coriander]]                                                        | Homunculi              | Other      | Butler                        |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]]                                                  | Neverwood Campus Guide | Male       | Butler                        |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Aisla Fitzbottom\|Aisla Fitzbottom]]                      | Gnome                  | Female     | Cafe Manager                  |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]]                    | Elf                    | Female     | Cafe Manager                  |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Cleaner\|Cleaner]]                                                    | Automaton              | Other      | Cleaner                       |
+| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                                     | Tiefling               | Female     | Coach                         |
+| [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]]                                                         | Orc                    | Male       | Coach                         |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]]                                        | Human                  | Female     | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                                                        | Orc                    | Male       | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                                                    | Owlin                  | Male       | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]]                                                        | Elf                    | Female     | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                                                      | Fire Genasi            | Other      | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]]                                  | Air Genasi             | Female     | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Lissette\|Lissette]]                                                 | Human                  | Female     | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                                                 | Vampire                | Male       | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                                             | Human                  | Male       | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]                                 | Owlin                  | Female     | College Dean                  |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Lidbrix Teawillow\|Lidbrix Teawillow]]                            | Owlin                  | Male       | Dean of Admissions            |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                                    | Human                  | Male       | Deputy Head Teacher           |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]                              | Dragon                 | Female     | Founder Dragon                |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]                                    | Dragon                 | Female     | Founder Dragon                |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]                                  | Dragon                 | Male       | Founder Dragon                |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]                         | Dragon                 | Female     | Founder Dragon                |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]                           | Dragon                 | Male       | Founder Dragon                |
+| [[2-World/People/Neverwood Academy/Staff/General/Quentis Orvlo\|Quentis Orvlo]]                                           | Vedalken               | Male       | General Studies Professor     |
+| [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                                                         | Treant                 | Female     | Grounds Keeper                |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Master Chef Gyome\|Master Chef Gyome]]                    | Troll                  | Male       | Head Chef                     |
+| [[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]]                                                   | Treant                 | Female     | Head Librarian                |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]]                              | Human                  | Female     | Head Teacher                  |
+| [[2-World/People/Neverwood Academy/Staff/General/Melvi Le Donto\|Melvi Le Donto]]                                         | Human                  | Female     | Lab Administrator             |
+| [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]]                                                       | Human                  | Male       | Lord Protector of Neverwinter |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Pythia\|Pythia]]                                                  | Human                  | Female     | Oracle                        |
+| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]]                                               | Human                  | Male       | Other                         |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                                                             | Burrog                 | Male       | Other                         |
+| [[2-World/People/Other/Up the Beanstalk/Teanna Aethelos\|Teanna Aethelos]]                                                | Giant                  | Female     | Other                         |
+| [[2-World/People/Other/Unspecified/Vormor\|Vormor]]                                                                       | Half-Giant             | Male       | Other                         |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]                                                 | Cat                    | Male       | Other                         |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]                                            | Human                  | Male       | Professor of Chaos            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Lianna Flametongue\|Lianna Flametongue]]                                | Elf                    | Female     | Professor of Chaos            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Losheel\|Losheel]]                                                      | Loxodon                | Female     | Professor of Chaos            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                                | Halfling               | Male       | Professor of Chaos            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                                    | Human                  | Male       | Professor of Chaos            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                                    | Owlin                  | Male       | Professor of Chaos            |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Serafina Onyx\|Serafina Onyx]]                                       | Human                  | Female     | Professor of Decay            |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Tivash\|Tivash]]                                                     | Human                  | Male       | Professor of Decay            |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]                               | Dragonborn             | Male       | Professor of Decay            |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Arkin Minexes\|Arkin Minexes]]                                          | Human                  | Male       | Professor of Expression       |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Ignaria Kahafi\|Ignaria Kahafi]]                                        | Eladrin                | Female     | Professor of Expression       |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Rock\|Rock]]                                                            | Earth Genasi           | Male       | Professor of Expression       |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]]                                                        | Human                  | Male       | Professor of Expression       |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]                                   | Elf                    | Female     | Professor of Growth           |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]                                   | Firbolg                | Male       | Professor of Growth           |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                                         | Dryad                  | Female     | Professor of Growth           |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                                                   | Loxodon                | Male       | Professor of Growth           |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                                             | Treant                 | Female     | Professor of Growth           |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                                  | Halfling               | Female     | Professor of Order            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                                    | Dwarf                  | Male       | Professor of Order            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]                    | Giant                  | Male       | Professor of Order            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                                        | Owlin                  | Female     | Professor of Order            |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                          | Gnome                  | Female     | Professor of Order            |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Ahkwa\|Ahkwa]]                                                          | Tortle                 | Female     | Professor of Perfection       |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Veyran\|Veyran]]                                                        | Water Genasi           | Female     | Professor of Perfection       |
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]]                                                            | Air Genasi             | FtM        | Professor of Perfection       |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]                                     | Leonin                 | Male       | Professor of Radiance         |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]                               | Owlin                  | Female     | Professor of Radiance         |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Nils\|Nils]]                                                         | Human                  | Male       | Professor of Radiance         |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]                                     | Half-Elf               | Female     | Professor of Radiance         |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                                           | Kenku                  | Non-binary | Professor of Radiance         |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                                                     | Owlin                  | Female     | Professor of Shadow           |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]]                           | Dhampir                | Male       | Professor of Shadow           |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                                                         | Human                  | Male       | Professor of Shadow           |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]                                       | Human                  | Female     | Professor of Shadow           |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]                                       | Human                  | Male       | Professor of Shadow           |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                                                          | Triton                 | Non-binary | Professor of Substance        |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]                                      | Fairy                  | Female     | Professor of Substance        |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]                                  | Harengon               | Male       | Professor of Substance        |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Ruxa\|Ruxa]]                                                            | Brown Bear             | Male       | Professor of Substance        |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]                                        | Dwarf                  | Female     | Professor of Theory           |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Deekah\|Deekah]]                                                        | Human                  | Female     | Professor of Theory           |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]]                                                              | Triton                 | Non-binary | Professor of Theory           |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]                                        | Human                  | Male       | Professor of Theory           |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                                                            | Changling              | Female     | Professor of Theory           |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]                                    | Tiefling               | Female     | Professor of Theory           |
+| [[2-World/People/Neverwinter/Bessa Carver\|Bessa Carver]]                                                                 | Dwarf                  | Female     | Shop Manager                  |
+| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                                                                     | Human                  | Male       | Shop Manager                  |
+| [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                                                                       | Half-Elf               | Female     | Shop Manager                  |
+| [[2-World/People/Neverwinter/Oswin Thatch\|Oswin Thatch]]                                                                 | Tiefling               | Non-binary | Shop Manager                  |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Groff Lundquist\|Groff Lundquist]]                        | Human                  | Male       | Shop Manager                  |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                                                     | Human                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]                                     | Elf                    | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                                     | Gorgon                 | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]]                                 | Dragonborn             | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                                             | Gnome                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]]                                 | Half-Orc               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                                                 | Tiefling               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]                                   | Shifter                | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]                                   | Shadar-Kai             | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                                 | Firbolg                | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar                | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc                    | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                                           | Owlin                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                                     | Triton                 | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Minotaur               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                               | Halfling               | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                                   | Loxodon                | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]]           | Gnome                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Satyr                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Human                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                               | Human                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                               | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                                         | Tiefling               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                                     | Half-Elf               | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                                                   | Half-Orc               | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                                 | Owlin                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf                    | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]                                 | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                                                     | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                               | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                                                         | Earth Genasi           | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                                     | Fire Genasi            | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                                         | Firbolg                | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]                                         | Half-Elf               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]                                             | Halfling               | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]                                           | Orc                    | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                               | Elf                    | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]                                   | Aasimar                | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]                                   | Kenku                  | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                                     | Orc                    | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]                                   | Orc                    | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                                         | Leonin                 | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                                   | Changling              | Non-binary | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]                                   | Hexblood               | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Dhampir                | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                                         | Loxodon                | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                                 | Elf                    | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Calla Fernbrook\|Calla Fernbrook]]                                       | Satyr                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                             | Air Genasi             | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                               | Warforged              | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Human                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Dwarf                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Elf                    | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]                                           | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Tiefling               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                                                 | Dryad                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Reborn                 | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Dryad                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Shadar-Kai             | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human                  | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Gnome                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Owlin                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Human                  | Female     | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc               | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Fire Genasi            | Male       | Student                       |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]]                                                      | Satyr                  | Female     | Student Life Administrator    |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Curtie Axechucker\|Curtie Axechucker]]                    | Dwarf                  | Female     | Tavern Chef                   |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]                                           | Changling              | Female     | Tavern Founder                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]                                         | Elf                    | Female     | Tavern Founder                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]                                               | Elf                    | Male       | Tavern Founder                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]                                         | Human                  | Male       | Tavern Founder                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]                                         | Half-Orc               | Male       | Tavern Founder                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]]                                         | Kor                    | Male       | Tavern Ghost                  |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]                                         | Orc                    | Male       | Tavern Ghost                  |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                                                               | Owlin                  | Male       | Tavern Manager                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                                                       | Sylph                  | Female     | Tavern Manager                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                                                           | Human                  | Male       | Tavern Manager                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                                                       | Vampire                | Male       | Tavern Manager                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                                                   | Loxodon                | Male       | Tavern Manager                |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                                                             | Automaton              | Other      | Tavern Manager                |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Tulk Tusktooth\|Tulk Tusktooth]]                          | Orc                    | Male       | Tavern Manager                |
+| [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]                                                         | Human                  | Male       | Transport Manager             |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                                | Owlin                  | Male       | Veteran                       |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]                                       | Human                  | Male       | Veteran                       |
 
 { .block-language-dataview}

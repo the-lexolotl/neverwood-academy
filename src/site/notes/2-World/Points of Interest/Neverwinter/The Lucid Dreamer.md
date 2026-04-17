@@ -26,9 +26,9 @@ currency here is spectacle, and anyone can try their hand at becoming the headli
 
 # People
 
-| File                                                           | Race      | Gender | Role           |
-| -------------------------------------------------------------- | --------- | ------ | -------------- |
-| [[2-World/People/Neverwinter/Alise Thallas\|Alise Thallas]] | Changling | Female | Tavern Founder |
-| [[2-World/People/Neverwinter/Baz\|Baz]]                     | Owlin     | Male   | Tavern Manager |
+| File                                                                               | Race      | Gender | Role           |
+| ---------------------------------------------------------------------------------- | --------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]] | Changling | Female | Tavern Founder |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                     | Owlin     | Male   | Tavern Manager |
 
 { .block-language-dataview}
