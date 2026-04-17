@@ -4,7 +4,7 @@
 
 # T.1.T.4.N - Steel Defender
 *Medium construct*
-![T.1.T.4.N.png|500](/img/user/z_Assets/T.1.T.4.N.png)
+![T.1.T.4.N.png|500](/img/user/z_Assets/character_art/Players/T.1.T.4.N.png)
 ## Stats
 **Armour Class:** 15 (natural armour)
 **Hit Points:** 20 (3d8)

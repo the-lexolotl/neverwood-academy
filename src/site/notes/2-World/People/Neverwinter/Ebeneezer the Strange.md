@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Ebeneezer the Strange
-> ![Ebeneezer the Strange.png](/img/user/z_Assets/Ebeneezer%20the%20Strange.png)
+> ![Ebeneezer the Strange.png](/img/user/z_Assets/character_art/NPCs/Ebeneezer%20the%20Strange.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

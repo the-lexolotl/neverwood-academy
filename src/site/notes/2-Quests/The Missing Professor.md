@@ -47,10 +47,10 @@ The following people are associated with this quest.
 
 | Character                                                                             | Race            | Gender | Role               |
 | ------------------------------------------------------------------------------------- | --------------- | ------ | ------------------ |
-| [[2-World/People/Other/Fistandria's Mansion/Coriander\|Coriander]]                 | Homunculi       | Other  | Butler             |
-| [[2-World/People/Other/Fistandria's Mansion/Cumin\|Cumin]]                         | Homunculi       | Other  | Butler             |
-| [[2-World/People/Other/Fistandria's Mansion/Fistandria\|Fistandria]]               | Human           | Female | Mage               |
-| [[2-World/People/Other/Fistandria's Mansion/Freyot\|Freyot]]                       | Human           | Male   | Mage               |
+| [[2-World/People/Other/Fistandrias Mansion/Coriander\|Coriander]]                  | Homunculi       | Other  | Butler             |
+| [[2-World/People/Other/Fistandrias Mansion/Cumin\|Cumin]]                          | Homunculi       | Other  | Butler             |
+| [[2-World/People/Other/Fistandrias Mansion/Fistandria\|Fistandria]]                | Human           | Female | Mage               |
+| [[2-World/People/Other/Fistandrias Mansion/Freyot\|Freyot]]                        | Human           | Male   | Mage               |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |

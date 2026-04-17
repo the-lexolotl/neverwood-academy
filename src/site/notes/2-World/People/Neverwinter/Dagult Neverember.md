@@ -9,7 +9,7 @@
 
 > [!infobox|left]+
 > # Dagult Neverember
-> ![Pasted image 20260416201501.png](/img/user/z_Assets/Pasted%20image%2020260416201501.png)
+> ![Dagult Neverember.png](/img/user/z_Assets/character_art/NPCs/Dagult%20Neverember.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|
