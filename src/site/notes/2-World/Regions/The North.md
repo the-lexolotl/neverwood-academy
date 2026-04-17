@@ -156,6 +156,7 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
@@ -210,7 +211,7 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                                                    | Bullywug               | Male       | Alumni                        |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                                                          | Halfling               | Female     | Applicant                     |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                                      | Automaton              | Other      | Automaton                     |
-| [[2-World/People/Other/Fistandria's Mansion/Coriander\|Coriander]]                                                        | Homunculi              | Other      | Butler                        |
+| [[2-World/People/Other/Fistandrias Mansion/Coriander\|Coriander]]                                                         | Homunculi              | Other      | Butler                        |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]]                                                  | Neverwood Campus Guide | Male       | Butler                        |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Aisla Fitzbottom\|Aisla Fitzbottom]]                      | Gnome                  | Female     | Cafe Manager                  |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]]                    | Elf                    | Female     | Cafe Manager                  |

@@ -55,6 +55,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]** — Third Years  
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]** — Forth Years 
 #### Previous Intakes
+- **[[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
 
 ### Advancement is not guaranteed. Survival is encouraged.
