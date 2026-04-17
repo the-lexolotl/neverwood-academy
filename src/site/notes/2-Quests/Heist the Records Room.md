@@ -1,11 +1,24 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Heist the Records Room.md","permalink":"/quests/heist-the-records-room/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Heist the Records Room.md","permalink":"/quests/heist-the-records-room/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # Heist the Records Room
+> ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
+> ###### Basic Info
+> | Date Obtained: | 2025-08-23T00:00:00.000+01:00 |
+| ----------------- | -------------------------- |
+| Status: | Complete |
+| Quest Giver: | Unknown |
+| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]], [[2-World/Places/Prismari Campus\|Prismari Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-23 - Session 7\|2025-08-23 - Session 7]] |
+| Acquired Loot:    | None |
 
-# Quest Info
+# Backstory
+Strange things have been happening on campus. The party has been tipped off about a expelled student but they need more information
 
+# Objectives
 - [x] ~~Head to the Administration Offices on Prismari Campus (Opus Walk)~~
 - [x] ~~Break into the Admin Offices~~
 - [x] ~~Find the Records Room~~
@@ -23,40 +36,30 @@
 - [x] ~~Unlock the Records Room~~
 - [x] ~~Find Murgaxor's Student Records~~
 - [x] ~~Grab the Records Folders~~
-	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Murgaxor, Grenshel]]~~
-	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Murgaxor, Daniel]]~~
-	- [x] ~~[[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Murgaxor, Veyra]]~~
+	- [x] ~~[[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Murgaxor, Grenshel]]~~
+	- [x] ~~[[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Murgaxor, Daniel]]~~
+	- [x] ~~[[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Murgaxor, Veyra]]~~
 - [x] ~~Escape Without Being Spotted~~
 
 # Quest Handouts
-| File                                                                                                                   | Date Obtained |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  |
-| [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
-| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  |
+| File                                                                                                   | Date Obtained | Category | Associated NPCs                                                                              |
+| ------------------------------------------------------------------------------------------------------ | ------------- | -------- | -------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>     |
+| [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul> |
+| [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>       |
 
 { .block-language-dataview}
 
+# Locations
+| File                                                                     | Location                                               | Type     |
+| ------------------------------------------------------------------------ | ------------------------------------------------------ | -------- |
+| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]] | [[2-World/Places/Prismari Campus\|Prismari Campus]] | Landmark |
 
-# Quest Details
-
-
-
-| Date Obtained:    | 2025-08-23                                                    |
-| ----------------- | ------------------------------------------------------------- |
-| Status:           | Complete                                                      |
-| Quest Giver:      |                                                               |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                         |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-23 - Session 7\|Session 7 - Cyinth's Dinner Party]] |
-| Acquired Loot:    |                                                               |
-# Backstory
-Strange things have been happening on campus. The party has been tipped off about a expelled student but they need more information
-
+{ .block-language-dataview}
 
 # People
 The following people are associated with this quest.
-
-| File                                                                      | Race            | Gender | Role      |
+| Character                                                                 | Race            | Gender | Role      |
 | ------------------------------------------------------------------------- | --------------- | ------ | --------- |
 | [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug        | Male   | Alumni    |
@@ -70,3 +73,5 @@ The following people are associated with this quest.
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]        | Dragonborn      | Male   | Player    |
 
 { .block-language-dataview}
+
+

@@ -1,42 +1,51 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-11-07","questStatus":"Complete","questGiver":"[[Ricard Ruanad|Ricard Ruanad]]","questLocationObtained":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","questSessionObtained":"[[2025-11-07 - Cat Async|2025-11-07 - Cat Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Ricards Riches.md","permalink":"/quests/ricards-riches/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Widdershins Hall.md|Widdershins Hall]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-11-07","questStatus":"Complete","questGiver":"[[Ricard Ruanad|Ricard Ruanad]]","questLocationObtained":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","questSessionObtained":"[[2025-11-07 - Cat Async|2025-11-07 - Cat Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Ricards Riches.md","permalink":"/quests/ricards-riches/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
-# Quest Info
+> [!infobox|left]+
+> # Ricards Riches
+> ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
+> ###### Basic Info
+> | Date Obtained: | 2025-11-07T00:00:00.000+00:00 |
+| ----------------- | -------------------------- |
+| Status: | Complete |
+| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] |
+| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-07 - Cat Async\|2025-11-07 - Cat Async]] |
+| Acquired Loot:    | None |
+
+# Backstory
+Deputy Head [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] has lost something in the Root Archives. Marionette just happens to be looking for a job. What a coincidence...
+
+# Objectives
 - [x] ~~Head to the Root Archives~~
 - [x] ~~Locate [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricards]] lost chest~~ 
 - [x] ~~Free the chest from its viney captor~~
 - [x] ~~Return the items to [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]~~
 
 # Quest Handouts
-| File | Date Obtained |
-| ---- | ------------- |
+| File | Date Obtained | Category | Associated NPCs |
+| ---- | ------------- | -------- | --------------- |
 
 { .block-language-dataview}
 
+# Locations
+| File                                                                                   | Location                                                     | Type     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] | Landmark |
 
-# Quest Details
-
-
-| Date Obtained:    | 2025-11-07                                                    |
-| ----------------- | ------------------------------------------------------------- |
-| Status:           | Complete                                                      |
-| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                                             |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]]                 |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-07 - Cat Async\|Catarina Async - Roots and Riches]] |
-| Acquired Loot:    |                                                               |
-# Backstory
-Deputy Head [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] has lost something in the Root Archives. Marionette just happens to be looking for a job. What a coincidence...
-
+{ .block-language-dataview}
 
 # People
 The following people are associated with this quest.
-| File                                                                                      | Race    | Gender | Role                |
+| Character                                                                                 | Race    | Gender | Role                |
 | ----------------------------------------------------------------------------------------- | ------- | ------ | ------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human   | Male   | Deputy Head Teacher |
 | [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]               | Eladrin | Female | Player              |
 
 { .block-language-dataview}
+
+

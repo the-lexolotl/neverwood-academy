@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Conjorot Hall.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Conjurot Hall.md","permalink":"/world/points-of-interest/neverwood-academy/conjurot-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Conjorot Hall.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[Colours in Chaos|Colours in Chaos]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Conjurot Hall.md","permalink":"/world/points-of-interest/neverwood-academy/conjurot-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Opus Walk.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Opus Walk.md","permalink":"/world/points-of-interest/neverwood-academy/opus-walk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Opus Walk.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[Heist the Records Room|Heist the Records Room]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Opus Walk.md","permalink":"/world/points-of-interest/neverwood-academy/opus-walk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

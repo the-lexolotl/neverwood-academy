@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Widdershins Hall.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Widdershins Hall.md","permalink":"/world/points-of-interest/neverwood-academy/widdershins-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Widdershins Hall.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[Ricards Riches|Ricards Riches]]","[[The Price of Integrity|The Price of Integrity]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Widdershins Hall.md","permalink":"/world/points-of-interest/neverwood-academy/widdershins-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

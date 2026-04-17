@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Pillardrop.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Pillardrop.md","permalink":"/world/points-of-interest/neverwood-academy/pillardrop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Pillardrop.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Pillardrop.md","permalink":"/world/points-of-interest/neverwood-academy/pillardrop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 hidden

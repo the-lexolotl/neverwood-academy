@@ -3,9 +3,24 @@
 ---
 
 
+> [!infobox|left]+
+> # Up the Beanstalk
+> ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
+> ###### Basic Info
+> | Date Obtained: | 2025-12-13T00:00:00.000+00:00 |
+| ----------------- | -------------------------- |
+| Status: | Complete (sorta...) |
+| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-12-13 - Session 22\|2025-12-13 - Session 22]] |
+| Acquired Loot:    | None |
 
+# Backstory
+[[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.
+However, later that day, [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette]], [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Glue]], [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]], and [[1-Party/Atudark/Atudark\|Atudark]] broke into the Medical Wing and opened the crate. The beanstalk erupted violently, smashing through the floors of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], rupturing the roof, and continuing to grow into the sky. Snow and frost drifted down from the gaping hole, and whispers spread across campus that Jack had climbed the stalk and was now missing somewhere above.
+Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] demands that the students contain the chaos, retrieve anything dangerous, and shut the sky portal before more harm comes to the school or its students.
 
-# Quest Info
+# Objectives
 ### The Great Beanstalk Breach
 * [x] ~~Witness the beanstalk erupt through the top floors of Kollema Hall~~
 * [x] ~~Receive [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]]’s instructions to investigate and contain the breach~~
@@ -30,7 +45,7 @@
 	- [x] ~~Observe the Sky-King’s emotional storms~~
 	- [x] ~~Decide whether to fight, pacify, or negotiate~~
 
-## Resolving the Sky-King’s Curse
+### Resolving the Sky-King’s Curse
 - [ ] Return the Golden Grimmhen to its proper place
 - [ ] Play the Song of Before-Storms on the harp
 - [ ] Present magic or symbolic creation to soothe the Sky-King
@@ -38,30 +53,17 @@
 - [ ] Receive a wish as a reward
 
 # Quest Handouts
-| File                                                                  | Date Obtained |
-| --------------------------------------------------------------------- | ------------- |
-| [[2-Player Handouts/Neverwood Times/Volume XXXIII\|Volume XXXIII]] | 03 Jan, 2026  |
+| File                                                                  | Date Obtained | Category        | Associated NPCs                                                                                               |
+| --------------------------------------------------------------------- | ------------- | --------------- | ------------------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXXIII\|Volume XXXIII]] | 03 Jan, 2026  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere.md\\|Grayson Wildemere]]</li></ul> |
 
 { .block-language-dataview}
 
+# Locations
+| File | Location | Type |
+| ---- | -------- | ---- |
 
-# Quest Details
-
-
-| Date Obtained:    | 2025-12-13                                                            |
-| ----------------- | --------------------------------------------------------------------- |
-| Status:           | Complete (sort of...)                                                 |
-| Quest Giver:      | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]]                                                  |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                               |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-12-13 - Session 22\|Session 22 - Oops... We Grew a Beanstalk]] |
-| Acquired Loot:    | Golden Grimmhen, Giant's IOU Pouch, Harp of Self-writing              |
-# Backstory
-[[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.
-
-However, later that day, [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette]], [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Glue]], [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]], and [[1-Party/Atudark/Atudark\|Atudark]] broke into the Medical Wing and opened the crate. The beanstalk erupted violently, smashing through the floors of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], rupturing the roof, and continuing to grow into the sky. Snow and frost drifted down from the gaping hole, and whispers spread across campus that Jack had climbed the stalk and was now missing somewhere above.
-
-Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] demands that the students contain the chaos, retrieve anything dangerous, and shut the sky portal before more harm comes to the school or its students.
-
+{ .block-language-dataview}
 
 # People
 The following people are associated with this quest.
@@ -79,3 +81,4 @@ The following people are associated with this quest.
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn      | Male   | Player       |
 
 { .block-language-dataview}
+

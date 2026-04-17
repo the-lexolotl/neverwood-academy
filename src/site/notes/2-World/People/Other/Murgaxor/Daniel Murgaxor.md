@@ -26,9 +26,9 @@
 **Groups:**  [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]],[[2-World/Groups/Academic Cohorts/Cohort of 1410.md|Cohort of 1410]]
 
 ### Associated Handouts
-| File                                                                                                               | Date Obtained |
-| ------------------------------------------------------------------------------------------------------------------ | ------------- |
-| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]] | 06 Sep, 2025  |
+| File                                                                                               | Date Obtained |
+| -------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]] | 06 Sep, 2025  |
 
 { .block-language-dataview}
 

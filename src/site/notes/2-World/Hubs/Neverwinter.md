@@ -107,7 +107,7 @@ Neverwinter’s emblem is three white snowflakes enclosed in silver and blue hal
 | -------------------------------------------------------------- | -------------------------------------------- | ----------- |
 | [[2-World/Places/Blacklake District\|Blacklake District]]   | [[2-World/Hubs/Neverwinter\|Neverwinter]] | \-          |
 | [[2-World/Places/Dock Ward\|Dock Ward]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Commerce    |
-| [[2-World/Places/Nevewinter Woods\|Nevewinter Woods]]       | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Agriculture |
+| [[2-World/Places/Neverwinter Woods\|Neverwinter Woods]]     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Agriculture |
 | [[2-World/Places/Protector's Enclave\|Protector's Enclave]] | [[2-World/Hubs/Neverwinter\|Neverwinter]] | \-          |
 | [[2-World/Places/River District\|River District]]           | [[2-World/Hubs/Neverwinter\|Neverwinter]] | \-          |
 | [[2-World/Places/The Chasm\|The Chasm]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]] | Industrial  |

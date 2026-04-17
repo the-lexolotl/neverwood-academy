@@ -3,29 +3,24 @@
 ---
 
 
+> [!infobox|left]+
+> # The Pub That Crawls
+> ![TPTC.png](/img/user/z_Assets/The%20Pub%20That%20Crawls/TPTC.png)
+> ###### Basic Info
+> | Date Obtained: | 2025-11-01T00:00:00.000+00:00 |
+| ----------------- | -------------------------- |
+| Status: | Complete |
+| Quest Giver: | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]], [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]],  [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|2025-11-01 - Session 17]] |
+| Acquired Loot:    | Decanter of Endless Spirits, Pyroconverger, Everbright Lantern, Phil's Top Hat |
 
-
-
-![TPTC.png|400](/img/user/z_Assets/The%20Pub%20That%20Crawls/TPTC.png)
-# Quest Info
-## Quest Details
-
-
-| Date Obtained:    | 2025-11-01                                                                                                                                                |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Status:           | Complete                                                                                                                                      |
-| Quest Giver:      | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]                                                                                                                   |
-| Quest Locations:  | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]], [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]],  [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|Session 17 - Chaos in the Kitchen]]                                                                                            |
-| Acquired Loot:    | Decanter of Endless Spirits, Pyroconverger, Everbright Lantern, Phil's Top Hat                                                                            |
-
-## Backstory
+# Backstory
 Among Neverwood Academy’s many student legends, none are as persistent as the tale of The Pub That Crawls — a mythical tavern said to walk on wooden legs through the Neverwood Marshes, appearing only to those who have proven themselves “worthy drinkers of five worlds.” Centuries ago, a group of eccentric students discovered the secret of the moving pub and, after falling out over how to use it, each founded their own establishment somewhere between Neverwinter and the Academy grounds. These five pubs — the Tall Tale, the Frothing Flask, the Lucid Dreamer, the Rambling Toad, and the Beauty’s Mirror — became local icons, their founders sealing within them fragments of the magic needed to summon the sixth and final tavern.
 
 Now, rumours have resurfaced after a strange notebook fell from the shelves of the Biblioplex, its pages bearing the mark of one Eb Zenithon, one of the original founders. The book speaks of a potion brewed from five signature drinks that, when consumed in a single night, opens the way to The Pub That Crawls. Whether the promise is treasure, knowledge, or simply glory, no student has ever completed the challenge — and the opportunity may come but once in a lifetime. For the party, uncovering the truth of the Crawling Pub isn’t just a test of endurance; it’s a chance to solve one of Neverwood’s oldest mysteries and perhaps claim the secrets of a pub that walks between worlds.
 
-## Objectives
-
+# Objectives
 <iframe 
   src="https://www.neverwood.co.uk/pub-that-crawls/"
   width="100%" 
@@ -33,13 +28,12 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
   style="border: none; border-radius: 4px;"
 ></iframe>
 
-
 # Quest Handouts
-| File                                                                                                                                         | Date Obtained |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[2-Player Handouts/Others/Neverwinter Pubs, Inns & Taverns\|Neverwinter Pubs, Inns & Taverns]]                                           | 01 Nov, 2025  |
-| [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  |
-| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
+| File                                                                                                                                         | Date Obtained | Category     | Associated NPCs                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------ | ------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Others/Neverwinter Pubs, Inns & Taverns\|Neverwinter Pubs, Inns & Taverns]]                                           | 01 Nov, 2025  | Travel Guide | \-                                                                                                |
+| [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  | Book         | <ul><li>[[2-World/People/Other/Whalebucks/Tolan Whalewake.md\\|Tolan Whalewake]]</li></ul>        |
+| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  | Book         | <ul><li>[[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon.md\\|Eb Zenithon]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -55,6 +49,7 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                           | [[2-World/Regions/The North\|The North]]                                                                                             | City +1500 |
 
 { .block-language-dataview}
+
 # People
 The following people are associated with this quest.
 | Character                                                                                 | Race            | Gender | Role                |
@@ -85,4 +80,5 @@ The following people are associated with this quest.
 | [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                       | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}
+
 

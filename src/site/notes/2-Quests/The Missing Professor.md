@@ -1,12 +1,24 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"MyCategory":null,"image":"009-02-001.book.webp","obsidianUIMode":"preview","questObtained":"2025-08-09","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-08-09 - Session 5|2025-08-09 - Session 5]]","questNotes":null,"questLootAvail":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"questLootEarned":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","dg-show-backlinks":true,"dg-path":"Quests/The Missing Professor.md","permalink":"/quests/the-missing-professor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Pillardrop.md|Pillardrop]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"009-02-001.book.webp","obsidianUIMode":"preview","questObtained":"2025-08-09","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-08-09 - Session 5|2025-08-09 - Session 5]]","questNotes":null,"questLootAvail":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"questLootEarned":"[[3-Mechanics/CLI/items/driftglobe-xdmg.md|driftglobe-xdmg]]","dg-show-backlinks":true,"dg-path":"Quests/The Missing Professor.md","permalink":"/quests/the-missing-professor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # The Missing Professor
+> ![009-02-001.book.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book.webp)
+> ###### Basic Info
+> | Date Obtained: | 2025-08-09T00:00:00.000+01:00 |
+| ----------------- | -------------------------- |
+| Status: | Complete |
+| Quest Giver: | Unknown |
+| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]], [[2-World/Places/Lorehold Campus\|Lorehold Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-09 - Session 5\|2025-08-09 - Session 5]] |
+| Acquired Loot:    | Driftglobe |
 
-![009-02-001.book.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book.webp)
-# Quest Info
+# Backstory
+A Neverwood professor has been missing for a year now. He seemingly disappeared from his office with not trace.
 
+# Objectives
 - [x] ~~Investigate Professor Matreous's Disappearance~~
 - [x] ~~Find "The Joy of Extradiemnsional Spaces"~~
 - [x] ~~Investigate Fistandria~~
@@ -19,32 +31,22 @@
 - [x] ~~Kill the Imp~~
 
 # Quest Handouts
-| File                                                                                                                 | Date Obtained |
-| -------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]]                                                | 09 Aug, 2025  |
-| [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]] | 09 Aug, 2025  |
+| File                                                                                                                 | Date Obtained | Category        | Associated NPCs                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]]                                                | 09 Aug, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1507/Mina Lee.md\\|Mina Lee]]</li></ul>                                                                                  |
+| [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]] | 09 Aug, 2025  | Book            | <ul><li>[[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous.md\\|Matreous]]</li><li>[[2-World/People/Other/Fistandrias Mansion/Fistandria.md\\|Fistandria]]</li></ul> |
 
 { .block-language-dataview}
 
-# Quest Details
+# Locations
+| File                                                                       | Location                                               | Type     |
+| -------------------------------------------------------------------------- | ------------------------------------------------------ | -------- |
+| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]] | [[2-World/Places/Lorehold Campus\|Lorehold Campus]] | Landmark |
 
-
-| Date Obtained:    | 2025-08-09                                                    |
-| ----------------- | ------------------------------------------------------------- |
-| Status:           | Complete                                                      |
-| Quest Giver:      |                                                               |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                         |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-09 - Session 5\|Session 5 - The Missing Professor]] |
-| Acquired Loot:    | [[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]                               |
-
-# Backstory
-
-A Neverwood professor has been missing for a year now. He seemingly disappeared from his office with not trace.
-
+{ .block-language-dataview}
 
 # People
 The following people are associated with this quest.
-
 | Character                                                                             | Race            | Gender | Role               |
 | ------------------------------------------------------------------------------------- | --------------- | ------ | ------------------ |
 | [[2-World/People/Other/Fistandrias Mansion/Coriander\|Coriander]]                  | Homunculi       | Other  | Butler             |
@@ -61,3 +63,5 @@ The following people are associated with this quest.
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn      | Male   | Player             |
 
 { .block-language-dataview}
+
+

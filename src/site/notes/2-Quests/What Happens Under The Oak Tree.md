@@ -3,11 +3,24 @@
 ---
 
 
+> [!infobox|left]+
+> # What Happens Under The Oak Tree
+> ![Pasted image 20251010011732.png](/img/user/z_Assets/website/Pasted%20image%2020251010011732.png)
+> ###### Basic Info
+> | Date Obtained: | 2025-11-08T00:00:00.000+00:00 |
+| ----------------- | -------------------------- |
+| Status: | Complete |
+| Quest Giver: | Unknown |
+| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-08 - Session 18\|2025-11-08 - Session 18]] |
+| Acquired Loot:    | None |
 
+# Backstory
+At the heart of Neverwood Academy’s Feasthall stands the ancient tree, home to the Star of Remembrance—a magical relic that preserves the memories, achievements, and bonds of every student. When a powerful Wintergeist steals the Star, the Academy’s protective magic falters, the forest grows restless, and dark forces begin to stir.
 
-![Pasted image 20251010011732.png](/img/user/z_Assets/website/Pasted%20image%2020251010011732.png)
-# Quest Info
+The party must recover the Star before the Wintergeist grows too strong. Failure could leave the school and surrounding lands vulnerable to wandering spirits, magical chaos, and a winter that never ends. Their mission is not just heroism—it is the defense of Neverwood itself.
 
+# Objectives
 - [x] ~~Defend the Feasthall~~
 	- [x] ~~Survive the Wintergeist’s attack~~
 	- [x] ~~Protect fellow students~~
@@ -48,30 +61,18 @@
 	- [x] ~~Celebrate as heroes (and face detention)~~
 
 # Quest Handouts
-| File                                                             | Date Obtained |
-| ---------------------------------------------------------------- | ------------- |
-| [[2-Player Handouts/Neverwood Times/Volume XXX\|Volume XXX]]  | 01 Nov, 2025  |
-| [[2-Player Handouts/Others/Hunters Journal\|Hunters Journal]] | 08 Nov, 2025  |
+| File                                                             | Date Obtained | Category        | Associated NPCs                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------- | ------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXX\|Volume XXX]]  | 01 Nov, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper.md\\|Torin Grimwhisper]]</li><li>[[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream.md\\|Emeline Redstream]]</li><li>[[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield.md\\|Tobias Thornfield]]</li></ul> |
+| [[2-Player Handouts/Others/Hunters Journal\|Hunters Journal]] | 08 Nov, 2025  | Book            | \-                                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
+# Locations
+| File | Location | Type |
+| ---- | -------- | ---- |
 
-# Quest Details
-
-
-| Date Obtained:    | 2025-11-08                                                |
-| ----------------- | --------------------------------------------------------- |
-| Status:           | In Progress                                               |
-| Quest Giver:      |                                                           |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]                                     |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-08 - Session 18\|Session 18 - The Star Stolen]] |
-| Acquired Loot:    |                                                           |
-# Backstory
-
-At the heart of Neverwood Academy’s Feasthall stands the ancient tree, home to the Star of Remembrance—a magical relic that preserves the memories, achievements, and bonds of every student. When a powerful Wintergeist steals the Star, the Academy’s protective magic falters, the forest grows restless, and dark forces begin to stir.
-
-The party must recover the Star before the Wintergeist grows too strong. Failure could leave the school and surrounding lands vulnerable to wandering spirits, magical chaos, and a winter that never ends. Their mission is not just heroism—it is the defense of Neverwood itself.
-
+{ .block-language-dataview}
 
 # People
 The following people are associated with this quest.
@@ -91,3 +92,4 @@ The following people are associated with this quest.
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Dragonborn      | Male   | Player              |
 
 { .block-language-dataview}
+
