@@ -24,6 +24,12 @@
 
 [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]],[[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]],[[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 A single-minded burst of administrative ambition sends Suraax charging across campus with one goal: founding a wrestling society. What follows is a whirlwind tour of the Biblioplex and the stadium, a brief but painful interruption to mage tower training, and the unlikely success of recruiting both staff sponsorship and student members in record time. By the end of the afternoon, paperwork is pending, Coach Shtomp is plotting athletic vengeance, and Suraax has secured herself a campus job — all accomplished at a dead sprint.
 

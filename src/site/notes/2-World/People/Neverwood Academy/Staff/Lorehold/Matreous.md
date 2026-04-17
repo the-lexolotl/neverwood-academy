@@ -28,8 +28,9 @@ On the 6th of Marpenoth, 1508, Professor Matreous was found deceased in his offi
 **Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
 
 ### Associated Handouts
-| File | Date Obtained |
-| ---- | ------------- |
+| File                                                                                                                 | Date Obtained |
+| -------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]] | 09 Aug, 2025  |
 
 { .block-language-dataview}
 

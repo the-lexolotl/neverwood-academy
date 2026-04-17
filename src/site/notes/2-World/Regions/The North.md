@@ -157,6 +157,7 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1509\|Cohort of 1509]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |

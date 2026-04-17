@@ -24,6 +24,12 @@
 
 [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]],[[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 
 When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]] finds himself called before the highest authorities of Neverwood Academy to answer for his role in the midnight break-in at the Administration Offices. What begins as a disciplinary hearing soon turns into something more — a test of honesty, character, and redemption — leading to a secret mission that could earn back the professors’ trust… or plunge him deeper into the academy’s mysteries.

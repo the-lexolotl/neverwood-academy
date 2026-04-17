@@ -24,6 +24,12 @@
 
 [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]],[[2-World/People/Neverwood Academy/Staff/Administration/Zoei\|Zoei]],[[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]],[[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]],[[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]],[[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]],[[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]],[[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 
 A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage and certain that the world already knows his name. His first day, however, proves that the academy has a way of humbling even the most confident of arrivals. From charming bartenders to explosive quills, Vith’s introduction to life at Neverwood is nothing short of spectacular.

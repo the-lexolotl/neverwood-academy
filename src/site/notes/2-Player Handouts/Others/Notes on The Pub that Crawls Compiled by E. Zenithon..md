@@ -1,15 +1,16 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":null,"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-24","dg-hide":false,"dg-show-toc":false,"Connected_NPC":["[[Eb Zenithon|Eb Zenithon]]"],"dg-path":"Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon..md","permalink":"/player-handouts/others/notes-on-the-pub-that-crawls-compiled-by-e-zenithon/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":null,"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-24","dg-hide":false,"dg-show-toc":false,"Connected_NPC":["[[Eb Zenithon|Eb Zenithon]]"],"handoutSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27\|2026-01-24 - Session 27]]"],"dg-path":"Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon..md","permalink":"/player-handouts/others/notes-on-the-pub-that-crawls-compiled-by-e-zenithon/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
-**NPCs:** [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]
+**Associated Groups:** None
+**Associated Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
+**Associated NPCs:** [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]
+**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27.md|2026-01-24 - Session 27]]
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;

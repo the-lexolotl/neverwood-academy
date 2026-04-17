@@ -26,8 +26,9 @@
 **Groups:**  None
 
 ### Associated Handouts
-| File | Date Obtained |
-| ---- | ------------- |
+| File                                                                                                                 | Date Obtained |
+| -------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]] | 09 Aug, 2025  |
 
 { .block-language-dataview}
 

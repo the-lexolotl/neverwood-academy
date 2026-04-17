@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"dg-path":"Home Page 1.md","permalink":"/home-page-1/","contentClasses":"homepage","dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":false,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"dg-path":"Home Page 1.md","permalink":"/home-page-1/","contentClasses":"homepage","dgPassFrontmatter":true}
 ---
 
 # Neverwood Academy  
@@ -11,7 +11,7 @@ Welcome to the authorised archive of **Neverwood Academy**, a centre of magical 
 These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents.
 
 ---
-![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
+# Welcome to 
 
 ---
 
@@ -24,9 +24,9 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ---
 ## 🗞️ Notice Board Highlights
 - 📌 All students are reminded that the new academic year begins 16th Eleasias — late arrivals will be noted
-- ⚠️ The East Wing remains closed pending structural assessment. Students are advised not to investigate
-- 📜 College applications for external placements are now open — speak to your faculty advisor
+- ⚠️  The East Wing remains closed pending structural assessment. Students are advised not to investigate
 - 🕯️ The library's restricted section will be accessible by appointment only this term
+- ☕ Whalebucks summer specials available now!
 
 ### *Failure to read notices is not an excuse.*
 
@@ -50,7 +50,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ## 🧑‍🎓 Enrolled Cohorts
 [[z_Website/Cohorts\|→ Full Cohorts Overview]]
 #### Current Students
-- **[[Cohort of 1509\|Cohort of 1509]]** — First Years 
+- **[[2-World/Groups/Academic Cohorts/Cohort of 1509\|Cohort of 1509]]** — First Years 
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]** — Second Years 
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]** — Third Years 
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]** — Forth Years 

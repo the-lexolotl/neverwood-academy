@@ -1,15 +1,16 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","image":"Front Cover.png","dg-publish":true,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]"],"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Book","dg-show-backlinks":true,"handoutObtained":"2025-11-08","dg-path":"Player Handouts/Others/Hunters Journal.md","permalink":"/player-handouts/others/hunters-journal/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"None","image":"Front Cover.png","dg-publish":true,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]"],"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Book","dg-show-backlinks":true,"handoutObtained":"2025-11-08","handoutSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2025-11-08 - Session 18\|2025-11-08 - Session 18]]"],"dg-path":"Player Handouts/Others/Hunters Journal.md","permalink":"/player-handouts/others/hunters-journal/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** [[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]
-**NPCs:** None
+**Associated Groups:** None
+**Associated Quests:** [[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]
+**Associated NPCs:** None
+**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2025-11-08 - Session 18.md|2025-11-08 - Session 18]]
 
 ---
 

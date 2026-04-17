@@ -1,15 +1,16 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"image":"NW Pubs Front.png","dg-publish":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Travel Guide","dg-show-backlinks":true,"handoutObtained":"2025-11-01","dg-path":"Player Handouts/Others/Neverwinter Pubs, Inns & Taverns.md","permalink":"/player-handouts/others/neverwinter-pubs-inns-and-taverns/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"image":"NW Pubs Front.png","dg-publish":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"NoteIcon":"journal","dg-show-local-graph":true,"dg-show-inline-title":true,"handout-cat":"Travel Guide","dg-show-backlinks":true,"handoutObtained":"2025-11-01","handoutSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|2025-11-01 - Session 17]]"],"dg-path":"Player Handouts/Others/Neverwinter Pubs, Inns & Taverns.md","permalink":"/player-handouts/others/neverwinter-pubs-inns-and-taverns/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
-# Connections
+# Details
 
-**Groups:** None
-**Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-**NPCs:** None
+**Associated Groups:** None
+**Associated Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
+**Associated NPCs:** None
+**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17.md|2025-11-01 - Session 17]]
 
 ---
 

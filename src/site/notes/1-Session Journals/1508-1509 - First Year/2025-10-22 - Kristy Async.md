@@ -23,6 +23,12 @@
 
 [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]], [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]], [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 A quiet day of reflection turns into a rescue mission when Vigilius answers [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Professor Sharpbeak's]] call to find a missing Witherbloom student in the forbidden Root Archives. Ignoring a tempting note from [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] offering payment for “anything valuable,” Vigilius proves that integrity can burn brighter than ambition — quite literally, as he faces the living roots of the Archives themselves to free a terrified classmate from their grasp.
 

@@ -24,6 +24,12 @@
 
 [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 A lingering heat, a curious fog, and a vault older than the academy itself set the stage for an expedition into the mysterious Creature Vaults. [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] and [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette]] confront the territorial magic of the [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]], uncover a recently frozen Steam Mephit, and collect a sample of enigmatic black goo. Along the way, the students witness the rules of containment, the authority of the groundskeeper, and the hidden corridors that stretch beyond mortal comprehension. At one point, the corridor opens into the Infinite Staircase — an extradimensional highway of impossible architecture linking countless planes. By the end of the morning, danger is contained, burns are healed, and knowledge is quietly gained, leaving both students with awe, lingering questions, and appetite.
 

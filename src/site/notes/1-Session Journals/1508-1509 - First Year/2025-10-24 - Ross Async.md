@@ -24,6 +24,12 @@
 
 [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]],[[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 After the disciplinary summons from the Head Teacher, Harry Blackstone finds himself drawn into a web of mathematical mystery and secret scholarship. What begins as a quiet library shift turns into a clandestine recruitment by *The Silent Equation* — a mysterious Quandrix circle seeking “balance and correction.” Enticed by both curiosity and coin, Harry follows the formula to its first variable: a meeting in the abandoned observatory and a book that hums with impossible geometry.
 

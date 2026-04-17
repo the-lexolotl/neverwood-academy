@@ -25,6 +25,12 @@
 
 [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]],[[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]],[[2-World/Groups/Extracurricular Club/Play Actors Drama Guild.md|Play Actors Drama Guild]]
 
+## Session Handouts
+| File | Category | Associated NPCs | Associated Quests |
+| ---- | -------- | --------------- | ----------------- |
+
+{ .block-language-dataview}
+
 ## Summary
 A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for *The Merchant of Moons*, Silverquill’s most prestigious annual production. What begins as a simple performance quickly reveals hidden ledgers, forged signatures, and family secrets lurking beneath the stage’s polished veneer. Caught between reputation, manipulation, and a mysterious truth-binding sigil, Lyra’s debut becomes a play scripted by forces far larger — and far closer — than she imagined.
 
