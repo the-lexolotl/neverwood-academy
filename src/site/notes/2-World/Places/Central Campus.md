@@ -32,6 +32,8 @@ The central campus is the heart of Neverwood. Its extensive grounds include resi
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Cleaner\|Cleaner]]                                 | Automaton              | Other  | Cleaner                    |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                   | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]]                               | Neverwood Campus Guide | Male   | Butler                     |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Brik-E\|Brik-E]]                                   | Automaton              | Other  | Automaton                  |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Burn-E\|Burn-E]]                                   | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                  | Tiefling               | Female | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]]                                | Treant                 | Female | Head Librarian             |
 | [[2-World/People/Neverwood Academy/Staff/General/Melvi Le Donto\|Melvi Le Donto]]                      | Human                  | Female | Lab Administrator          |
