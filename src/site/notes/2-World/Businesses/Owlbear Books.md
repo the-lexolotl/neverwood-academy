@@ -2,13 +2,20 @@
 {"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Publisher","image":"Owlbear Books.png","obsidianUIMode":"preview","leader":null,"Founders":null,"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Owlbear Books.md","permalink":"/world/businesses/owlbear-books/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-![Owlbear Books.png](/img/user/z_Assets/Companies/Dnd%20Logos/Owlbear%20Books.png)
-
-# General
-
-
-**Locations:** [[2-World/Planets/Toril.md|Toril]]
-**Category:** Publisher
+> [!infobox|left]+
+> # Owlbear Books
+> ![Owlbear Books.png](/img/user/z_Assets/Companies/Dnd%20Logos/Owlbear%20Books.png)
+> ###### General Info
+> | Location | [[2-World/Planets/Toril.md|Toril]] |
+> | ----------------- | -------------------------- |
+> | Category: | Publisher |
+> ###### Hierarchy
+> | Founders: | Unknown |
+> | ----------------- | -------------------------- |
+> | Current CEO: | Unknown |
+> | Staff:   | Unknown |
+> | Apprentices: | Unknown |
+> | Primary Contact | Unknown |
 
 # History
 
@@ -35,15 +42,6 @@ The company is respected for its editorial standards and for giving creators fre
 
 ## Legacy
 Owlbear Books has survived wars, fires, and planar shifts without losing its core identity: providing quality reading material for all ages. Its owlbear emblem continues to be a mark of trust for readers, while the company’s influence in both literary and academic circles ensures it remains a cornerstone of the publishing world.
-
-# Hierarchy
-**Founders:** Unknown
-**Current CEO:** Unknown
-**Staff:** Unknown
-**Apprentices:** Unknown
-**Primary Contact:** Unknown
-
-
 
 # People
 The following people are associated with this business.  
@@ -80,3 +78,4 @@ Owlbear Books produces a wide range of publications for multiple audiences and p
 ## Partnerships
 - **Folly Guides**: Owlbear Books handles printing and distribution of Folly Guides volumes
 - **Neverwood Academy & Other Institutions**: provides textbooks and academic compendiums
+

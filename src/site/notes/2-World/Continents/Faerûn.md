@@ -142,9 +142,7 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 
 The Underdark also hosts kuo-toa, illithid, and beholder cities, hidden in its endless depths.
 
-
 # Regions
-
 | File                                                  |
 | ----------------------------------------------------- |
 | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]] |
@@ -153,8 +151,8 @@ The Underdark also hosts kuo-toa, illithid, and beholder cities, hidden in its e
 
 { .block-language-dataview}
 # Capital Cities
-
-| File |
-| ---- |
+| File                                         |
+| -------------------------------------------- |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]] |
 
 { .block-language-dataview}

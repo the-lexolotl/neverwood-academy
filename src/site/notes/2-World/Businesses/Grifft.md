@@ -2,12 +2,20 @@
 {"tags":["Category/Business"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":"Transport Services","image":"GRIFFT.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Grifft.md","permalink":"/world/businesses/grifft/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-![GRIFFT.png](/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT.png)
-# General
-
-
-**Locations:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Transport Services
+> [!infobox|left]+
+> # Grifft
+> ![GRIFFT.png](/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT.png)
+> ###### General Info
+> | Location | [[2-World/Hubs/Neverwinter.md|Neverwinter]] |
+> | ----------------- | -------------------------- |
+> | Category: | Transport Services |
+> ###### Hierarchy
+> | Founders: | [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]] |
+> | ----------------- | -------------------------- |
+> | Current CEO: | Unknown |
+> | Staff:   | Unknown |
+> | Apprentices: | Unknown |
+> | Primary Contact | Unknown |
 
 # History
 ## Founding & Early History (1501 DR)
@@ -23,14 +31,6 @@ The company retained its playful branding, with griffins painted in gold-and-sca
 
 ## Modern Vision
 Alex Fallowridge has made it clear that the company aims to remain practical rather than extravagant. The goal is to offer a fast, reliable alternative to walking, carts, or magical teleportation — with a distinctly Neverwinter flair. Expansion plans are in discussion, but the current focus remains the city and immediate surrounding areas.
-
-# Hierarchy
-**Founders:** [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]
-**Current CEO:** Unknown
-**Staff:** Unknown
-**Apprentices:** Unknown
-**Primary Contact:** Unknown
-
 
 
 # People
@@ -87,3 +87,4 @@ Does not include hazardous flights (active combat zones, storms, restricted airs
 - Signature griffin harnesses in gold-and-scarlet
 - Catchy motto visible on all griffins, carriages, and advertising
 - Occasional promotional events, including free “first ride” experiences for new citizens
+

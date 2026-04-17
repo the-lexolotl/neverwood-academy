@@ -58,6 +58,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
 
+![Construction Bot.png|200](/img/user/z_Assets/website/Construction%20Bot.png)
 ### Advancement is not guaranteed. Survival is encouraged.
 
 ---
@@ -71,7 +72,8 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ---
 ## 📆 Academic Calendar
 
-*All dates are subject to revision, cancellation, or temporal anomaly.*
+*All dates are subject to revision, cancellation, or temporal anomaly.*  
+
 
 <script src='https://app.fantasy-calendar.com/js/embed.js'></script>
 <script>
@@ -90,7 +92,7 @@ FantasyCalendar({
 	},
 });
 </script>
-
+ ![Construction Bot 2.png|200](/img/user/z_Assets/website/Construction%20Bot%202.png)
 [View Full Calendar](https://app.fantasy-calendar.com/calendars/866405b66895483cdf57cd599d082c86)
 
 ---

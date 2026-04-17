@@ -95,16 +95,13 @@ Beyond mortal sight, Kara-Tur overlaps with spirit worlds where the Celestial Bu
 * **The Shadowed Garden** – A twilight mirror of Kara-Tur where forgotten spirits linger.
 * **The Dragon Courts** – Domains of celestial dragons who oversee rain, rivers, and fortune.
 
-
 # Regions
-
 | File                                    |
 | --------------------------------------- |
 | [[2-World/Regions/Malatra\|Malatra]] |
 
 { .block-language-dataview}
 # Capital Cities
-
 | File                                                           |
 | -------------------------------------------------------------- |
 | [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |

@@ -3,12 +3,20 @@
 ---
 
 
-![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png) ![New Whalebucks Logo BW.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo%20BW.png)
-# General
-
-
-**Locations:** [[2-World/Planets/Toril.md|Toril]]
-**Category:** Coffee Franchise
+> [!infobox|left]+
+> # Whalebucks Coffee Co.
+> ![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png)
+> ###### General Info
+> | Location | [[2-World/Planets/Toril.md|Toril]] |
+> | ----------------- | -------------------------- |
+> | Category: | Coffee Franchise |
+> ###### Hierarchy
+> | Founders: | [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]],[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]] |
+> | ----------------- | -------------------------- |
+> | Current CEO: | [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] |
+> | Staff:   | Unknown |
+> | Apprentices: | Unknown |
+> | Primary Contact | Unknown |
 
 # History
 ## Founding & Early History (pre-1215 DR)
@@ -36,15 +44,6 @@ By 2024 DR, Whalebucks had become the largest coffee franchise in the multiverse
 ## Legacy
 
 The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
-
-# Hierarchy
-**Founders:** [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]],[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]
-**Current CEO:** [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]]
-**Staff:** Unknown
-**Apprentices:** Unknown
-**Primary Contact:** Unknown
-
-
 
 # People
 The following people are associated with this business.  
@@ -202,3 +201,4 @@ A creamy blend of peach, mango, and coconut milk with a hint of vanilla. Sweet, 
 Flaky pastries filled with almond cream and sprinkled with edible flowers. Elegant and indulgent.
 ##### Spring Garden Tartlets
 Mini tarts with goat cheese, asparagus, and cherry tomatoes. Savoury, fresh, and seasonally vibrant.
+

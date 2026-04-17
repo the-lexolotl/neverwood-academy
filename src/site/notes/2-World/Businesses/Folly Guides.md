@@ -2,14 +2,20 @@
 {"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Travel Guide","image":"Folly Guides.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Folly Guides.md","permalink":"/world/businesses/folly-guides/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-
-![Folly Guides.png](/img/user/z_Assets/Companies/Dnd%20Logos/Folly%20Guides.png)
-
-# General
-
-
-**Locations:** [[2-World/Planets/Toril.md|Toril]]
-**Category:** Travel Guide
+> [!infobox|left]+
+> # Folly Guides
+> ![Folly Guides.png](/img/user/z_Assets/Companies/Dnd%20Logos/Folly%20Guides.png)
+> ###### General Info
+> | Location | [[2-World/Planets/Toril.md|Toril]] |
+> | ----------------- | -------------------------- |
+> | Category: | Travel Guide |
+> ###### Hierarchy
+> | Founders: | [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] |
+> | ----------------- | -------------------------- |
+> | Current CEO: | Unknown |
+> | Staff:   | Unknown |
+> | Apprentices: | Unknown |
+> | Primary Contact | Unknown |
 
 # History
 ## Founding & Early History (ca. 1470s DR)
@@ -19,7 +25,7 @@ He sold the first pamphlets himself from his ship, the _Folly’s Watch_, under 
 
 ## Official Launch & Early Titles (1480–1490 DR)
 Encouraged by positive reception, Tolan formally founded **Folly Guides** as a company dedicated to producing honest, reliable travel guides. The first bound titles included:
-- _The Mini Folly Guide to Neverwinter_ (still available in-game!)
+- _[[2-Player Handouts/Others/Folly Guide - Neverwinter\|The Mini Folly Guide to Neverwinter]]_ (still available in-game!)
 - _Baldur’s Gate: What They Don’t Tell You_
 - _Sword Coast Survival Notes_
 Unlike traditional guides, Folly Guides did not try to charm or flatter its subjects. Each edition included maps, survival tips, pricing estimates, social etiquette warnings, and Tolan’s characteristic wry commentary.
@@ -32,15 +38,6 @@ The company’s reputation was built on reliability, practicality, and editorial
 ## Modern Operations (1507–2024 DR)
 Folly Guides now operates out of a small, efficient editorial house in [[2-World/Hubs/Neverwinter\|Neverwinter]], with Tolan personally overseeing both acquisitions and editing. The company continues to produce core regional guides, city guides, and “adventurer cuts,” as well as occasional bespoke commissions for new or recently discovered locations.
 Although still relatively young compared to other multiversal businesses, Folly Guides has become a trusted resource for students, scholars, adventurers, and travellers who value practicality over propaganda.
-
-# Hierarchy
-**Founders:** [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]
-**Current CEO:** Unknown
-**Staff:** Unknown
-**Apprentices:** Unknown
-**Primary Contact:** Unknown
-
-
 
 # People
 The following people are associated with this business.  
@@ -79,3 +76,4 @@ Folly Guides produces accessible, reliable travel resources with a focus on hone
 - Limited editions for newly discovered or dangerous locations
 - Highly detailed, brutally honest, and expensive
 - Comes with a disclaimer absolving Folly Guides from responsibility for reader choices
+
