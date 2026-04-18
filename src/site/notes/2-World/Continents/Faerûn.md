@@ -4,12 +4,21 @@
 
 
 
+> [!infobox|left]+
+> # Faerûn
+> ![Sword-Coast-Map_HighRes.25.jpg](/img/user/z_Assets/Maps/Sword-Coast-Map_HighRes.25.jpg)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Planet:** | [[2-World/Planets/Toril\|Toril]] | 
+> **Deities of Note:** | A vast and diverse pantheon including Mystra, Tyr, Lathander, Shar, Chauntea, and many others |
+> **Primary Exports:** | Trade goods, magic, knowledge, mercenaries, agricultural produce, crafted items |
+> **Threats:** | Political conflict between nations, powerful factions (such as the Zhentarim), arcane catastrophes, extraplanar incursions, ancient evils resurfacing |
+> **Political Structure:** | A patchwork of independent city-states, kingdoms, and empires with no central authority; power is shaped by alliances, trade networks, and influential factions |
+> ## [Visit the Faerûn Interactive Map](https://www.neverwood.co.uk/faerun-map)
 
-# General Info
-![Sword-Coast-Map_HighRes.25.jpg](/img/user/z_Assets/Maps/Sword-Coast-Map_HighRes.25.jpg)
+# Description
 The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]], Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
-
-#### [Visit the Faerûn Interactive Map](https://www.neverwood.co.uk/faerun-map)
 
 # Geography of Faerûn
 The continent features terrain as varied as any other. Alongside the western and southern coastlines, the most dominant feature is the **Sea of Fallen Stars**. This irregular inland sea keeps the interior lands fertile, connects the western and eastern regions of Faerûn, and serves as a major trade route for many of the bordering nations.

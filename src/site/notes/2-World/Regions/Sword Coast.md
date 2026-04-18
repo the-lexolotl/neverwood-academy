@@ -4,8 +4,19 @@
 
 
 
-![Pasted image 20251101090155.png](/img/user/z_Assets/Maps/Pasted%20image%2020251101090155.png)
-# General Info
+> [!infobox|left]+
+> # Sword Coast
+> ![Pasted image 20251101090155.png](/img/user/z_Assets/Maps/Pasted%20image%2020251101090155.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Continents/Faerûn\|Faerûn]] | 
+> **Deities of Note:** | Tymora, Waukeen, Umberlee, Tempus |
+> **Primary Exports:** | Maritime trade goods, fish, crafted items, mercenary services |
+> **Threats:** | Piracy, coastal raids, political rivalries between city-states, maritime dangers |
+> **Political Structure:** | Independent coastal cities and trade hubs connected by commerce rather than unified governance |
+
+# Description
 The **Sword Coast** is the storied western shoreline of **[[2-World/Continents/Faerûn\|Faerûn]]**, stretching along the **Sea of Swords** from the mighty trade city of **Baldur’s Gate** in the south to the lands just north of **Waterdeep**, the City of Splendors. 
 
 The Sword Coast remains one of the most iconic and cosmopolitan regions in the *Forgotten Realms*. Its cities rise amid rugged wilderness, ancient ruins, and restless seas — a crossroads of civilisation, danger, and adventure. The coast’s name, according to traveller Volothamp Geddarm, comes from the perils that lurk along its roads and waves — “where every traveller should keep a sword close to hand.”
@@ -79,7 +90,6 @@ The region has endured endless upheavals and rebirths:
 
 Today, in the early **1500s DR**, the Sword Coast stands as a beacon of commerce and adventure — its cities ever watchful for threats from below, beyond, and within.
 
-
 # Hubs
 | File                                               | Category   |
 | -------------------------------------------------- | ---------- |
@@ -93,6 +103,7 @@ Today, in the early **1500s DR**, the Sword Coast stands as a beacon of commerce
 | ---- | -------- |
 
 { .block-language-dataview}
+
 # Groups
 | File | Category |
 | ---- | -------- |
@@ -104,3 +115,4 @@ Today, in the early **1500s DR**, the Sword Coast stands as a beacon of commerce
 | ---- | ------------- | ------ |
 
 { .block-language-dataview}
+

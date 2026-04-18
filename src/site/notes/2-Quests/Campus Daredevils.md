@@ -47,9 +47,9 @@ The manor functions as:
 { .block-language-dataview}
 
 # Locations
-| File                                                                                                       | Location                                             | Type     |
-| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | [[2-World/Places/Central Campus\|Central Campus]] | Landmark |
+| File                                                                                                       | Location                                                                                                                                  | Type     |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] | <ul><li>[[2-World/Places/Central Campus.md\\|Central Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Landmark |
 
 { .block-language-dataview}
 

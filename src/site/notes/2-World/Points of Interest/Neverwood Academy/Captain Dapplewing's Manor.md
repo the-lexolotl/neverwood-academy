@@ -1,22 +1,44 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Central Campus.md|Central Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dapplewings Manor.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[2-Quests/Campus Daredevils.md|Campus Daredevils]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md","permalink":"/world/points-of-interest/neverwood-academy/captain-dapplewing-s-manor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Central Campus.md|Central Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":"Landmark","obsidianUIMode":"preview","image":"Dapplewings Manor.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[2-Quests/Campus Daredevils.md|Campus Daredevils]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor.md","permalink":"/world/points-of-interest/neverwood-academy/captain-dapplewing-s-manor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-# General
+> [!infobox|left]+
+> # Captain Dapplewing's Manor
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Places/Central Campus\|Central Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Landmark |
 
-![Dapplewings Manor.webp](/img/user/z_Assets/Maps/Dapplewings%20Manor.webp)
-
-**Category:** Landmark
-
-### Description
-Tucked at the end of a leafy path on the central campus, Captain Dapplewing’s Manor is a quiet relaxation spot for elite faculty as well as a place of academic meditation and counselling for their students. The manor dates to the earliest days of Neverwood, when the owlin mage and military veteran Captain [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]] held faculty appointments in both [[2-World/Groups/Colleges/Lorehold College\|Lorehold]] and [[2-World/Groups/Colleges/Silverquill College\|Silverquill]] Colleges. Wanting a quiet place to retire in the evenings—and to host lavish dinner-parties-turned-colloquiums—the professor used his significant military pension to build this manor house on campus.
-
-Upon his death, Captain Dapplewing bequeathed the manor to the university, which honoured his legacy by giving the house his name and keeping most of its original furnishings in pristine condition. The house’s upper-floor libraries were converted into offices for esteemed dual-college faculty members, and those faculty members meet here with students on academic matters during the day. In the evenings, the manor is the site of dinner parties and elegant cocktail hours for those faculty members, their most promising students, and visiting alumni.
-
+# Description
+Tucked along a shaded path at the edge of central campus, Captain Dapplewing’s Manor serves as a serene retreat for faculty and a space for academic reflection. Surrounded by carefully maintained gardens and softly enchanted lighting, the manor offers a striking contrast to the bustling energy of the surrounding academy.
+Originally constructed by [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Captain Raymous Dapplewing]], an owlin mage and veteran of both [[2-World/Groups/Colleges/Lorehold College\|Lorehold]] and [[2-World/Groups/Colleges/Silverquill College\|Silverquill]] traditions, the manor was designed as both a private residence and a venue for intellectual gatherings. Its rooms were built to accommodate both quiet study and elaborate evening colloquiums, blending domestic comfort with scholarly prestige. Following his passing, the manor was gifted to Neverwood and preserved in his honour.
+Today, the upper floors house offices for distinguished faculty, while the lower halls are used for student consultations, mentorship meetings, and formal academic discussions. Evenings often transform the manor into a refined social space, where faculty host dinners and salons for promising students and visiting scholars. The building is secured each night, preserving its collection of antiques and sensitive research within a carefully maintained enchantment ward.
 Since no one permanently lives in Captain Dapplewing’s Manor, the building is closed and locked from 10:00 p.m. until 6:00 a.m. Because it holds many valuable antiques and volumes of sensitive research, security measures are in place in the manor.
 
-# GM Notes
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
 
-Make notes of what you need to track in the Point of Interest here. 
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
 
+# Quests
+| File                                                 |
+| ---------------------------------------------------- |
+| [[2-Quests/Campus Daredevils\|Campus Daredevils]] |
+
+{ .block-language-dataview}
+
+# People
+| File                                                                        | Race                   | Gender | Role   |
+| --------------------------------------------------------------------------- | ---------------------- | ------ | ------ |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]] | Neverwood Campus Guide | Male   | Butler |
+
+{ .block-language-dataview}
+
+# Map
+![Dapplewings Manor.webp](/img/user/z_Assets/Maps/Dapplewings%20Manor.webp)

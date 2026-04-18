@@ -1,9 +1,20 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Sword Coast.md|Sword Coast]]","[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]"],"MyCategory":"Hamlet <80","obsidianUIMode":"preview","image":"Gillian’s Hill.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Hubs/Gillian’s Hill.md","permalink":"/world/hubs/gillian-s-hill/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":["[[2-World/Regions/Delimbiyr Vale.md|Delimbiyr Vale]]","[[2-World/Regions/Sword Coast.md|Sword Coast]]"],"MyCategory":"Hamlet <80","obsidianUIMode":"preview","image":"Gillian’s Hill.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Hubs/Gillian’s Hill.md","permalink":"/world/hubs/gillian-s-hill/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![Pasted image 20251027015433.png](/img/user/z_Assets/Maps/Pasted%20image%2020251027015433.png)
+> [!infobox|left]+
+> # Gillian’s Hill
+> ![Pasted image 20251027015433.png](/img/user/z_Assets/Maps/Pasted%20image%2020251027015433.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Region:** | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]], [[2-World/Regions/Sword Coast\|Sword Coast]] | 
+> **Category:** | Hamlet <80 |
+> **Deities of Note:** | Chauntea |
+> **Primary Exports:** | Dairy, produce, grains, cider |
+> **Threats:** | Lizardfolk raids, Trade Way bandits, undead in the crypts beneath the hill |
+
 # General
 
 **Region:** [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]], [[2-World/Regions/Sword Coast\|Sword Coast]]
@@ -70,25 +81,21 @@ Though small, Gillian’s Hill is not defenceless.
 * **The Vanished Sculptor:** Some claim **Yujist Glemp**’s spirit still polishes his statue at night, waiting for it to be "perfect."
 * **Lightning Beneath the Hill:** On stormy nights, faint flashes of light are said to flicker from within the mound — as though the tomb itself still remembers trespass.
 
-
 # Travel
-8 hrs per day
-Exhaustion Level: 0
+*Based on 8 hrs walking per day with Exhaustion Level 0*
 
-| Destination | Travel Days                              |
-| ----------- | ---------------------------------------- |
-| Neverwinter | 🕓: 5.8 (walking)<br>🕓: 2.9 (horseback) |
-| Daggerford  | 🕓:                                      |
+| Destination     | Travel Days |
+| --------------- | ----------- |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]] | 🕓: 5.8     |
+|                 | 🕓:         |
 
 # Quests
-
 | File | Status | Date Obtained |
 | ---- | ------ | ------------- |
 
 { .block-language-dataview}
 
 # NPCs
-
 | File                                                                      | Race  | Gender | Role  |
 | ------------------------------------------------------------------------- | ----- | ------ | ----- |
 | [[2-World/People/Other/Family/Reynard Blackstone\|Reynard Blackstone]] | Human | Male   | Other |

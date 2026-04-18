@@ -69,9 +69,9 @@ Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Lorew
 The following people are associated with this quest.
 | Character                                                                                       | Race            | Gender | Role         |
 | ----------------------------------------------------------------------------------------------- | --------------- | ------ | ------------ |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human           | Female | Head Teacher |
 | [[2-World/People/Other/Up the Beanstalk/Teanna Aethelos\|Teanna Aethelos]]                   | Giant           | Female | Other        |
 | [[2-World/People/Other/Up the Beanstalk/Aurum Aethelos\|Aurum Aethelos]]                     | Giant           | Male   | Other        |
-| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human           | Female | Head Teacher |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                         | Yuan-Ti         | Male   | Player       |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                    | Triton          | Male   | Player       |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                              | Human           | Male   | Player       |

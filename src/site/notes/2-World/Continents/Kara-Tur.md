@@ -3,9 +3,19 @@
 ---
 
 
-![Pasted image 20251023194659.png](/img/user/z_Assets/Maps/Pasted%20image%2020251023194659.png)
+> [!infobox|left]+
+> # Kara-Tur
+> ![Pasted image 20251023194659.png](/img/user/z_Assets/Maps/Pasted%20image%2020251023194659.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Planet:** | [[2-World/Planets/Toril\|Toril]] | 
+> **Deities of Note:** | Regional pantheons, ancestral spirits, and celestial powers; in some regions, gods of the wider world such as Akadi and Grumbar are acknowledged |
+> **Primary Exports:** | Silk, spices, ceramics, rare herbs, philosophy, martial traditions |
+> **Threats:** | Regional warlords, imperial conflict, spiritual imbalance, supernatural creatures, isolation from western Faerûn |
+> **Political Structure:** | Dominated by large, centralised empires and rigid hierarchies, often influenced by tradition, bureaucracy, and divine or celestial mandate |
 
-# General Info
+# Description
 The great eastern continent of Toril, **Kara-Tur** lies beyond the lands of Faerûn, past the Hordelands and the towering **Mountains of the East**. A land of sprawling empires, ancient traditions, and immense natural beauty, Kara-Tur is a continent steeped in history and mysticism. Its cultures draw from countless centuries of dynasties, clans, and kingdoms—each shaped by spirits, ancestors, and the ever-turning Celestial Bureaucracy.
 
 From the disciplined legions of **Shou Lung** to the shamanic tribes of **Tabot**, Kara-Tur is a realm where honor, tradition, and balance shape every facet of life. Great rivers carve through its heartlands, sacred peaks pierce the clouds, and seas both stormy and serene cradle its island nations.

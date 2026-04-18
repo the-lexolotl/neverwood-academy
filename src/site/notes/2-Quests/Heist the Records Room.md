@@ -51,9 +51,9 @@ Strange things have been happening on campus. The party has been tipped off abou
 { .block-language-dataview}
 
 # Locations
-| File                                                                     | Location                                               | Type     |
-| ------------------------------------------------------------------------ | ------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]] | [[2-World/Places/Prismari Campus\|Prismari Campus]] | Landmark |
+| File                                                                     | Location                                                                                                                                    | Type |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]] | <ul><li>[[2-World/Places/Prismari Campus.md\\|Prismari Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Park |
 
 { .block-language-dataview}
 
@@ -61,8 +61,8 @@ Strange things have been happening on campus. The party has been tipped off abou
 The following people are associated with this quest.
 | Character                                                                 | Race            | Gender | Role      |
 | ------------------------------------------------------------------------- | --------------- | ------ | --------- |
-| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug        | Male   | Alumni    |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling        | Female | Applicant |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                   | Yuan-Ti         | Male   | Player    |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                    | Aarakocra       | Female | Player    |

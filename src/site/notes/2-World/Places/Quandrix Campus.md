@@ -18,9 +18,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | File                                                                                           | Race       | Gender     | Role                   |
 | ---------------------------------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                       | Human      | Male       | Student                |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                            | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                            | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                      | Owlin      | Male       | College Dean           |
@@ -28,8 +27,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]]                          | Elf        | Female     | College Dean           |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]          | Human      | Male       | Professor of Theory    |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]      | Tiefling   | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |
@@ -44,6 +43,7 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 | [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Warforged  | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]             | Human      | Female     | Student                |
 | [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]             | Human      | Female     | Student                |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                       | Human      | Male       | Student                |
 
 { .block-language-dataview}
 

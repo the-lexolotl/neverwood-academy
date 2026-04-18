@@ -41,7 +41,7 @@
 | File                                                                         | Location                                                                                                                                | Type        |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[2-World/Places/Neverwinter Woods\|Neverwinter Woods]]                   | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Agriculture |
-| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] | <ul><li>[[2-World/Places/Neverwinter Woods.md\\|Neverwinter Woods]]</li><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li></ul> | Dungeon     |
+| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] | <ul><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li><li>[[2-World/Places/Neverwinter Woods.md\\|Neverwinter Woods]]</li></ul> | Dungeon     |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]                             | [[2-World/Regions/The North\|The North]]                                                                                             | Village +80 |
 
 { .block-language-dataview}
@@ -50,9 +50,9 @@
 The following people are associated with this quest.
 | Character                                                                                  | Race            | Gender     | Role    |
 | ------------------------------------------------------------------------------------------ | --------------- | ---------- | ------- |
-| [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]     | Human           | Male       | Veteran |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]               | Cat             | Male       | Other   |
+| [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                    | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                     | Aarakocra       | Female     | Player  |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                               | Triton          | Male       | Player  |

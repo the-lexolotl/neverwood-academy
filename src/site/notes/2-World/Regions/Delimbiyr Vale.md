@@ -4,8 +4,19 @@
 
 
 
-![Pasted image 20251027020708.png](/img/user/z_Assets/Maps/Pasted%20image%2020251027020708.png)
-# General Info
+> [!infobox|left]+
+> # Delimbiyr Vale
+> ![Pasted image 20251027020708.png](/img/user/z_Assets/Maps/Pasted%20image%2020251027020708.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Regions/Sword Coast\|Sword Coast]] | 
+> **Deities of Note:** | Chauntea, Silvanus, Eldath |
+> **Primary Exports:** | Agriculture, livestock, river trade goods |
+> **Threats:** | Banditry, monster incursions from surrounding wilds, political tensions between nearby settlements |
+> **Political Structure:** | A loose collection of independent settlements and small communities with minimal central authority |
+
+# Description
 The **Delimbiyr Vale** — sometimes called the *Shining Vale* — is a fertile, river-cut valley in the **Western Heartlands** of **[[2-World/Continents/Faerûn\|Faerûn]]**, stretching along the winding **Delimbiyr River** between the **High Forest** to the east and the **Sword Mountains** to the west. Once the heart of the long-fallen elven realm of **Eaerlann**, the Vale today serves as a crossroads between north and south, civilization and wilderness, trade and ruin.
 
 Merchants and adventurers alike travel the ancient **Trade Way** and **Delimbiyr Route** through this lush valley, unaware that beneath its quiet fields and ruins lie the buried echoes of elven cities and dwarven halls.
@@ -74,31 +85,29 @@ Following **The Sundering (1480s DR)**, trade routes reopened and settlers recla
 
 Today, in the years around **1508 DR**, the Delimbiyr Vale stands once again as a crossroads of opportunity — rich in history, haunted by the past, and teeming with promise for those bold enough to seek it.
 
-
 # Hubs
-
 | File                                               |
 | -------------------------------------------------- |
 | [[2-World/Hubs/Daggerford\|Daggerford]]         |
 | [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] |
 
 { .block-language-dataview}
-# Points of Interest
 
+# Points of Interest
 | File | Location |
 | ---- | -------- |
 
 { .block-language-dataview}
 
 # Groups
-
 | File | Category |
 | ---- | -------- |
 
 { .block-language-dataview}
-# Quests
 
+# Quests
 | File | Date Obtained | Status |
 | ---- | ------------- | ------ |
 
 { .block-language-dataview}
+

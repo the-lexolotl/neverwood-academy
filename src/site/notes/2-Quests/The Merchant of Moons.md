@@ -35,9 +35,9 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 { .block-language-dataview}
 
 # Locations
-| File                                                                               | Location                                                     | Type     |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] | [[2-World/Places/Silverquill Campus\|Silverquill Campus]] | Landmark |
+| File                                                                               | Location                                                                                                                                          | Type             |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] | <ul><li>[[2-World/Places/Silverquill Campus.md\\|Silverquill Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Academy Building |
 
 { .block-language-dataview}
 

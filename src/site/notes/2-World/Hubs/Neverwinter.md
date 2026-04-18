@@ -4,13 +4,18 @@
 
 
 
-![Neverwinter-(ZF-9046-66654-1-001).webp](/img/user/z_Assets/Maps/Neverwinter-(ZF-9046-66654-1-001).webp)
-# General
-
-**Region:** [[2-World/Regions/Sword Coast\|Sword Coast]]
-**Category:** City (+1500)
-
-#### [View the Neverwinter Interactive Map](https://www.neverwood.co.uk/neverwinter-map/)
+> [!infobox|left]+
+> # Neverwinter
+> ![Neverwinter-(ZF-9046-66654-1-001).webp](/img/user/z_Assets/Maps/Neverwinter-(ZF-9046-66654-1-001).webp)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Region:** | [[2-World/Regions/The North\|The North]] | 
+> **Category:** | City +1500 |
+> **Deities of Note:** | Tyr, Tymora, Lathander, Waukeen |
+> **Primary Exports:** | Timber, shipbuilding materials, artisan crafts, maritime trade goods |
+> **Threats:** | Political instability, criminal organisations (including the Zhentarim), lingering effects of the Mount Hotenow eruption |
+> ## [View the Neverwinter Interactive Map](https://www.neverwood.co.uk/neverwinter-map/)
 
 ## Description
 Neverwinter, also called the *City of Skilled Hands*, is a major city-state in [[2-World/Regions/The North\|The North]] of [[2-World/Continents/Faerûn\|Faerûn]]. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in the North.
@@ -95,6 +100,15 @@ Several groups influence Neverwinter’s politics and power:
 Neverwinter’s emblem is three white snowflakes enclosed in silver and blue halos, arranged vertically in a swirl as if falling. It symbolizes grace, craftsmanship, and endurance — qualities the people of Neverwinter hold dear.
 ![Pasted image 20251023232515.png|200](/img/user/z_Assets/website/Pasted%20image%2020251023232515.png)
 
+
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
+
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
+
 # Quests
 | File                                                     | Status   | Date Obtained |
 | -------------------------------------------------------- | -------- | ------------- |
@@ -126,32 +140,5 @@ Neverwinter’s emblem is three white snowflakes enclosed in silver and blue hal
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern   |
 | [[2-World/Points of Interest/Neverwinter/The Silver Shuttle\|The Silver Shuttle]]   | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Shop     |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern   |
-
-{ .block-language-dataview}
-
-# NPCs
-| File                                                                                 | Race       | Gender | Role                          | Location                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------ | ---------- | ------ | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]                 | Human      | Male   | Transport Manager             | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                                                                                                                            |
-| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                             | Human      | Male   | Shop Manager                  | <ul><li>[[2-World/Points of Interest/Neverwinter/The Silver Shuttle.md\\|The Silver Shuttle]]</li><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   |
-| [[2-World/People/Neverwinter/Ebeneezer the Strange\|Ebeneezer the Strange]]       | Human      | Male   | Other                         | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                                                                                                                            |
-| [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                               | Half-Elf   | Female | Shop Manager                  | <ul><li>[[2-World/Points of Interest/Neverwinter/Mira’s Marginalia.md\\|Mira’s Marginalia]]</li><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>     |
-| [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]]               | Human      | Male   | Lord Protector of Neverwinter | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                                                                                                                            |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]   | Changling  | Female | Tavern Founder                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Lucid Dreamer.md\\|The Lucid Dreamer]]</li><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>       |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                       | Owlin      | Male   | Tavern Manager                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Lucid Dreamer.md\\|The Lucid Dreamer]]</li><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>       |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph      | Female | Tavern Manager                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror.md\\|The Beauty’s Mirror]]</li><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                   | Human      | Male   | Tavern Manager                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Pub That Crawls.md\\|The Pub That Crawls]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                                                                         |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf        | Female | Tavern Founder                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror.md\\|The Beauty’s Mirror]]</li><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor        | Male   | Tavern Ghost                  | <ul><li>[[2-World/Points of Interest/Neverwinter/The Tall Tale.md\\|The Tall Tale]]</li><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc        | Male   | Tavern Ghost                  | <ul><li>[[2-World/Points of Interest/Neverwinter/The Tall Tale.md\\|The Tall Tale]]</li><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]       | Elf        | Male   | Tavern Founder                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Frothing Flask.md\\|The Frothing Flask]]</li><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]] | Human      | Male   | Tavern Founder                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Rambling Toad.md\\|The Rambling Toad]]</li><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                         |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]               | Vampire    | Male   | Tavern Manager                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Rambling Toad.md\\|The Rambling Toad]]</li><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                         |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                     | Burrog     | Male   | Other                         | <ul><li>[[2-World/Points of Interest/Neverwinter/The Rambling Toad.md\\|The Rambling Toad]]</li><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                         |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]           | Loxodon    | Male   | Tavern Manager                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Tall Tale.md\\|The Tall Tale]]</li><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc   | Male   | Tavern Founder                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Tall Tale.md\\|The Tall Tale]]</li><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                     | Automaton  | Other  | Tavern Manager                | <ul><li>[[2-World/Points of Interest/Neverwinter/The Frothing Flask.md\\|The Frothing Flask]]</li><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>             |
-| [[2-World/People/Other/Up the Beanstalk/Teanna Aethelos\|Teanna Aethelos]]        | Giant      | Female | Other                         | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                                                                                                                                                                         |
-| [[2-World/People/Other/Unspecified/Vormor\|Vormor]]                               | Half-Giant | Male   | Other                         | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                                                                                                                                                                         |
 
 { .block-language-dataview}

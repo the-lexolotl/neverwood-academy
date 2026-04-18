@@ -3,14 +3,19 @@
 ---
 
 
-![Pasted image 20251023230953.png](/img/user/z_Assets/Maps/Pasted%20image%2020251023230953.png)
-# General
+> [!infobox|left]+
+> # The Malatran Plateau
+> ![Pasted image 20251023230953.png](/img/user/z_Assets/Maps/Pasted%20image%2020251023230953.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Region:** | [[2-World/Regions/Malatra\|Malatra]] | 
+> **Category:** | City +1500 |
+> **Deities of Note:** | Akadi, Grumbar, Talos |
+> **Primary Exports:** | Minerals, rare herbs, livestock, regional trade goods |
+> **Threats:** | Harsh climate, dangerous wildlife, isolation, local conflicts |
 
-**Region:** [[2-World/Regions/Malatra\|Malatra]]
-
-**Category:** City (+1500)
-
-## Description
+# Description
 
 The **Malatran Plateau** is a vast mountainous landform rising thousands of feet above the jungles of **[[2-World/Regions/Malatra\|Malatra]]**, in the heart of southern Kara-Tur. Shaped by alien sorcery in a forgotten age, it remains one of the most enigmatic and isolated regions of the world.
 
@@ -63,9 +68,23 @@ At the base of the **River of Laughing Idols**, this mist-choked valley widens b
 **Yaku Plains (Plains of Ash)**
 Once a fertile savanna, the Yaku Plains were transformed by an unknown cataclysm into a wasteland of gray ash and scorched trees. No vegetation grows here, and the land is regarded as cursed. Among the Nubari, shamans bring their apprentices here to learn the lesson of hubris and the folly of mortals.
 
-# NPCs
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
 
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
+
+# Quests
+| File | Status | Date Obtained |
+| ---- | ------ | ------------- |
+
+{ .block-language-dataview}
+
+# NPCs
 | File | Race | Gender | Role |
 | ---- | ---- | ------ | ---- |
 
 { .block-language-dataview}
+

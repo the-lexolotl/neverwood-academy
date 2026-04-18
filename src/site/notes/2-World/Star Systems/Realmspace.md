@@ -3,8 +3,18 @@
 ---
 
 
-![realmspace-2023.png](/img/user/z_Assets/Maps/realmspace-2023.png)
-# General Info
+> [!infobox|left]+
+> # Realmspace
+> ![realmspace-2023.png](/img/user/z_Assets/Maps/realmspace-2023.png)
+> ###### General Information
+> **Parent Realm:**  |  [[2-World/Realms/Prime Material plane\|Prime Material plane]] |
+> ---|---|
+> **Primary Bodies:** | [[2-World/Planets/Toril\|Toril]], Coliar, Karpri, Anadia, Chandos, and other celestial bodies orbiting its central sun | 
+> **Inhabitants:** | Humans and other mortals (primarily on Toril), dragons (notably on Coliar), lizardfolk of Karpri, spacefaring peoples, and various extraplanar visitors |
+> **Notable Features:** | A fully enclosed crystal sphere containing multiple habitable worlds, diverse environments, and established wildspace travel routes |
+> **Threats & Hazards:** | Spacefaring pirates, hostile creatures, environmental dangers of wildspace, and interplanetary conflict |
+
+# Description
 Realmspace is the term used to describe the Torilian system and its surrounding environs within the Prime Material Plane. To those on the surface of Toril, Realmspace was called the Sea of Night, while the Netherese referred to it as the Skyward Realms. Contained within a crystal sphere suspended in the enormous expanse of the phlogiston, Realmspace consisted of wildspace (empty vacuum), a sun, eight planets and their satellites, and a variety of asteroids, comets, and nebulae.
 
 # Star System Details
@@ -17,7 +27,7 @@ One of the two Dawn Heralds, this small, amber-and-green-coloured planet was clo
 ## Coliar
 Coliar was a gas giant mostly populated with avian life-forms and other flying creatures. Floating islands of water and earth revolved around the planet's core. Elminster was said to own a resort on one of these islands. The planet was covered with clouds and appeared as a grey-white sphere from Toril. It was considered one of the Dawn Heralds.
 
-## Toril
+## [[2-World/Planets/Toril\|Toril]]
 The third planet in the system was the most populated, teeming with life. Approximately 60% of the surface being covered with water, fauna on Toril ranged from creatures living in the air, on the land, under the water and subterranean habitats. This planet was formerly known as Abeir-Toril.
 
 #### Abeir
@@ -50,9 +60,7 @@ The last wave of migrations, estimated to have happened around the time humans l
 During the Time of Troubles, the chanting of the Wanderers had temporarily ceased due to the fall of Realmspace's powers. For the duration of this period, no portals could be opened through the crystal sphere.
 Travellers in Realmspace were sometimes terrorized by a mysterious and intimidating bat-shaped vessel known as the Batship, an invasive presence that originated in a remote crystal sphere and adopted Realmspace as its hunting grounds.
 
-
 # Planets
-
 | File                                |
 | ----------------------------------- |
 | [[2-World/Planets/Toril\|Toril]] |
@@ -60,8 +68,8 @@ Travellers in Realmspace were sometimes terrorized by a mysterious and intimidat
 { .block-language-dataview}
 
 # Points of Interest
-
 | File |
 | ---- |
 
 { .block-language-dataview}
+

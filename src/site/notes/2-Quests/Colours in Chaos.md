@@ -35,9 +35,9 @@ Her choices will define not only her art but her place in [[2-World/Groups/Colle
 { .block-language-dataview}
 
 # Locations
-| File                                                                             | Location                                               | Type     |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]] | [[2-World/Places/Prismari Campus\|Prismari Campus]] | Landmark |
+| File                                                                             | Location                                                                                                                                    | Type             |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]] | <ul><li>[[2-World/Places/Prismari Campus.md\\|Prismari Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Academy Building |
 
 { .block-language-dataview}
 

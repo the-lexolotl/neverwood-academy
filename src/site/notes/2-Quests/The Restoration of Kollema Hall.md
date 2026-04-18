@@ -60,9 +60,9 @@ The project places the students under faculty supervision and forms part of thei
 { .block-language-dataview}
 
 # Locations
-| File                                                                           | Location                                               | Type     |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] | [[2-World/Places/Lorehold Campus\|Lorehold Campus]] | Landmark |
+| File                                                                           | Location                                                                                                                                    | Type             |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] | <ul><li>[[2-World/Places/Lorehold Campus.md\\|Lorehold Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Academy Building |
 
 { .block-language-dataview}
 
@@ -71,11 +71,11 @@ The following people are associated with this quest.
 | Character                                                                                       | Race        | Gender | Role                  |
 | ----------------------------------------------------------------------------------------------- | ----------- | ------ | --------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                           | Orc         | Male   | College Dean          |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                       | Owlin       | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                         | Fire Genasi | Other  | College Dean          |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                       | Owlin       | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin       | Female | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]    | Owlin       | Female | College Dean          |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human       | Female | Head Teacher          |
 | [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                    | Triton      | Male   | Player                |
 | [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                     | Eladrin     | Female | Player                |

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Blacklake District\|Blacklake District]]","[[2-World/Hubs/Neverwinter\|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":"A Cave.png","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwinter/Carver & Thread.md","permalink":"/world/points-of-interest/neverwinter/carver-and-thread/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Blacklake District.md|Blacklake District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":"A Cave.png","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwinter/Carver & Thread.md","permalink":"/world/points-of-interest/neverwinter/carver-and-thread/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -7,12 +7,16 @@
 
 
 
+> [!infobox|left]+
+> # Carver & Thread
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Places/Blacklake District\|Blacklake District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Shop |
 
-# General
-
-**Location:** [[2-World/Places/Blacklake District.md|Blacklake District]],[[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Shop
-
+# Description
 Situated in the more practical stretches of the [[2-World/Places/Blacklake District\|Blacklake District]] in Neverwinter, **Carver & Thread** is the sort of shop that assumes you know what you’re about — or are willing to learn quickly.
 
 The frontage is sturdy rather than charming. The paint is intact, the hinges are oiled, and the sign above the door reads:
@@ -43,7 +47,13 @@ If you need something obscure, Bessa will tell you where to try next — assumin
 Students who arrive overconfident tend to leave slightly better equipped.
 Students who arrive underprepared tend to leave better informed.
 
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
 
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
 
 # Quests
 | File |
@@ -52,9 +62,8 @@ Students who arrive underprepared tend to leave better informed.
 { .block-language-dataview}
 
 # People
-
-| File                                                         | Race  | Gender | Role         |
-| ------------------------------------------------------------ | ----- | ------ | ------------ |
-| [[2-World/People/Neverwinter/Bessa Carver\|Bessa Carver]] | Dwarf | Female | Shop Manager |
+| File | Race | Gender | Role |
+| ---- | ---- | ------ | ---- |
 
 { .block-language-dataview}
+

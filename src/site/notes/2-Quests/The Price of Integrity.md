@@ -36,9 +36,9 @@ Vigilius must decide who — and what — he serves.
 { .block-language-dataview}
 
 # Locations
-| File                                                                                   | Location                                                     | Type     |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] | Landmark |
+| File                                                                                   | Location                                                                                                                                          | Type             |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]] | <ul><li>[[2-World/Places/Witherbloom Campus.md\\|Witherbloom Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Academy Building |
 
 { .block-language-dataview}
 

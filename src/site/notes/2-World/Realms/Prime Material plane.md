@@ -2,8 +2,18 @@
 {"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Realms/Prime Material plane.md","permalink":"/world/realms/prime-material-plane/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-![Pasted image 20260202173207.png](/img/user/z_Assets/website/Pasted%20image%2020260202173207.png)
-# General Info
+> [!infobox|left]+
+> # Prime Material plane
+> ![Pasted image 20260202173207.png](/img/user/z_Assets/website/Pasted%20image%2020260202173207.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Nature of the Plane** | The central plane of existence where mortal worlds (such as Toril) exist; balanced between opposing cosmic forces |
+> **Inhabitants:** | Mortals of all kinds, including humanoids, beasts, and dragons; visited or influenced by extraplanar beings |
+> **Planar Traits:** | Generally stable reality with consistent physical laws; supports life, magic, and divine influence without extreme planar distortion |
+> **Connections & Influence:** | Linked to all other planes; serves as the primary stage for divine influence, soul generation, and planar interaction |
+
+# Description
 The **Prime Material Plane** (commonly referred to as the **Material Plane**) is the primary realm of mortal existence and the plane upon which Neverwood Academy and the wider world are situated. It is the most stable and comprehensible of the planes, governed by consistent physical laws and shaped by both natural forces and magic.
 
 Unlike the Outer Planes, which embody philosophical and moral ideals, or the Inner Planes, which consist of raw elemental substance, the Prime Material Plane represents a balanced state between these extremes. It is here that civilisations rise and fall, histories are written, and heroes are born.
@@ -95,12 +105,6 @@ Known methods include:
 - Astral projection  
 - Planar conjunctions and cosmic events  
 Unauthorised planar travel is commonly restricted by arcane authorities due to the risks posed to both travellers and the stability of the plane itself.
-
-## Academic Summary
-The Prime Material Plane is the foundational reality of mortal existence:  
-a realm of matter and memory, shaped by magic but governed by nature.  
-It is the birthplace of civilisation, the origin of souls, and the axis upon which the wider multiverse turns.
-
 
 # Star Systems
 | File                                               |

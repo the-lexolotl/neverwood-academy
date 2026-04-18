@@ -1,18 +1,21 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Protector's Enclave\|Protector's Enclave]]","[[2-World/Hubs/Neverwinter\|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":"A Cave.png","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwinter/The Silver Shuttle.md","permalink":"/world/points-of-interest/neverwinter/the-silver-shuttle/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Protector's Enclave.md|Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":"A Cave.png","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwinter/The Silver Shuttle.md","permalink":"/world/points-of-interest/neverwinter/the-silver-shuttle/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
 
 
+> [!infobox|left]+
+> # The Silver Shuttle
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Places/Protector's Enclave\|Protector's Enclave]], [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Shop |
 
-
-# General
-
-**Location:** [[2-World/Places/Protector's Enclave.md|Protector's Enclave]],[[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Shop
-
+# Description
 Located along one of the immaculate, flower-box-lined streets of the [[2-World/Places/Protector's Enclave\|Protector's Enclave]] in Neverwinter, The Silver Shuttle caters to those who wish to look intentional.
 The frontage is pristine: polished glass, understated silver lettering, and seasonal window displays featuring elegantly dressed mannequins posed mid-conversation. Inside, the atmosphere is calm, controlled, and faintly perfumed with pressed linen and cedarwood.
 This is not an armourer.
@@ -37,6 +40,13 @@ Davo does not “do rustic”. He does, however, do “refined adventurer”.
 
 Students who endure Davo’s scrutiny often leave looking markedly better — and standing noticeably straighter.
 
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
+
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
 
 # Quests
 | File |
@@ -45,9 +55,9 @@ Students who endure Davo’s scrutiny often leave looking markedly better — an
 { .block-language-dataview}
 
 # People
-
 | File                                                     | Race  | Gender | Role         |
 | -------------------------------------------------------- | ----- | ------ | ------------ |
 | [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]] | Human | Male   | Shop Manager |
 
 { .block-language-dataview}
+

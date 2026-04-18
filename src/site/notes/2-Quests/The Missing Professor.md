@@ -39,9 +39,9 @@ A Neverwood professor has been missing for a year now. He seemingly disappeared 
 { .block-language-dataview}
 
 # Locations
-| File                                                                       | Location                                               | Type     |
-| -------------------------------------------------------------------------- | ------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]] | [[2-World/Places/Lorehold Campus\|Lorehold Campus]] | Landmark |
+| File                                                                       | Location                                                                                                                                    | Type     |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]] | <ul><li>[[2-World/Places/Lorehold Campus.md\\|Lorehold Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Landmark |
 
 { .block-language-dataview}
 
@@ -49,13 +49,13 @@ A Neverwood professor has been missing for a year now. He seemingly disappeared 
 The following people are associated with this quest.
 | Character                                                                             | Race            | Gender | Role               |
 | ------------------------------------------------------------------------------------- | --------------- | ------ | ------------------ |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[2-World/People/Other/Fistandrias Mansion/Coriander\|Coriander]]                  | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandrias Mansion/Cumin\|Cumin]]                          | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandrias Mansion/Fistandria\|Fistandria]]                | Human           | Female | Mage               |
 | [[2-World/People/Other/Fistandrias Mansion/Freyot\|Freyot]]                        | Human           | Male   | Mage               |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                | Aarakocra       | Female | Player             |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                    | Human           | Male   | Player             |

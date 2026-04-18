@@ -1,11 +1,21 @@
 ---
-{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace.md|Realmspace]]","image":"toril-2023-1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace\|Realmspace]]","image":"toril-2023-1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![toril-2023-1.png](/img/user/z_Assets/Maps/toril-2023-1.png)
-# General Info
+> [!infobox|left]+
+> # Toril
+> ![toril-2023-1.png](/img/user/z_Assets/Maps/toril-2023-1.png)
+> ###### General Information
+> **Parent Star System:**  |  [[2-World/Star Systems/Realmspace.md|Realmspace]] |
+> ---|---|
+> **Cosmic Classification:** | Prime Material world within Realmspace, one of many inhabited planets in its crystal sphere | 
+> **Major Continents / Regions:** | [[2-World/Continents/Faerûn\|Faerûn]], [[2-World/Continents/Kara-Tur\|Kara-Tur]], Maztica, Zakhara, and other distant or less-documented landmasses |
+> **Inhabitants:** | Humans, elves, dwarves, halflings, dragonborn, orcs, and numerous other mortal races alongside dragons, fiends, and extraplanar beings |
+> **Global Characteristics:** | Highly magically active world with strong divine influence, widespread arcane study, and diverse climates ranging from arctic wastes to tropical jungles |
+> **Major Threats:** | Interplanar incursions, ancient sealed evils, catastrophic magical events, divine conflict expressed through mortal realms, and large-scale political warfare |
 
+# Description
 The world of the Forgotten Realms is an Earth-sized planet formerly known as Abeir-toril, “Cradle of Life,” in an ancient tongue. In ancient times, some thirty thousand years ago, the world was threatened with destruction in a war between the gods and the primordials, so it was divided into two separate versions of itself. Abeir became the home of the primordials whilst Toril became the home of the gods. This event had faded to less than a rumour before it was spectacularly proven relevant again a century ago in the cataclysm known as the Spellplague, which briefly re-merged the two worlds, leaving scars behind that are fully yet to heal.
 
 # Planet Details
@@ -48,14 +58,6 @@ During the Spellplague, the small continent of Laerakond was somehow transplante
 
 Additional large islands or small continents are located north-west of Maztica, beyond the northern polar ice line, and to the south-west of Zakhara. There are also very large island chains in the Western Ocean between Ossë and Maztica which are still unexplored.
 
-
-| File                                         |
-| -------------------------------------------- |
-| [[2-World/Continents/Faerûn\|Faerûn]]     |
-| [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
-
-{ .block-language-dataview}
-
 # Oceans
 
 Toril possesses several notable oceans:
@@ -78,17 +80,23 @@ The Western Ocean lies to the west of Maztica and Katashaka, separating those co
 #### The Endless Ice Sea
 The Endless Ice Sea lies to the north of Faerûn, Kara-Tur and Maztica. The “sea” is actually an immense frozen ice pack extending across the polar regions of Toril and extending onto the landmass of the main supercontinent. The Endless Ice Sea links to the large glacial masses in Faerûn (Reghed Glacier, the High Ice and the Great Glacier of Pelvuria), as well as the Land of the Snow Spirits in northern Kara-Tur. The only notable marginal sea of this ocean is the Great Ice Sea, which cuts southwards to separate northern Faerûn from Kara-Tur.
 
+# Continents
+| File                                         |
+| -------------------------------------------- |
+| [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
+| [[2-World/Continents/Faerûn\|Faerûn]]     |
 
-# Sapient Species
+{ .block-language-dataview}
 
-| File |
-| ---- |
+# Capital Cities & Hubs
+| File                                                           |
+| -------------------------------------------------------------- |
+| [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]       |
+| [[2-World/Hubs/Daggerford\|Daggerford]]                     |
+| [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]]             |
+| [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]                   |
+| [[2-World/Hubs/Xvart Village\|Xvart Village]]               |
 
 { .block-language-dataview}
 
-# Capital Cities
-
-| File |
-| ---- |
-
-{ .block-language-dataview}

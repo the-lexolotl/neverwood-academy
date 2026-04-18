@@ -58,9 +58,9 @@ What the students find there may not only cleanse the waters... but reveal the f
 { .block-language-dataview}
 
 # Locations
-| File                                                                     | Location                                                     | Type     |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]] | [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]] | Landmark |
+| File                                                                     | Location                                                                                                                                          | Type     |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]] | <ul><li>[[2-World/Places/Witherbloom Campus.md\\|Witherbloom Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> | Landmark |
 
 { .block-language-dataview}
 
@@ -68,8 +68,8 @@ What the students find there may not only cleanse the waters... but reveal the f
 The following people are associated with this quest.
 | Character                                                                              | Race  | Gender | Role                |
 | -------------------------------------------------------------------------------------- | ----- | ------ | ------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad | Female | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human | Male   | Professor of Shadow |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad | Female | Professor of Growth |
 
 { .block-language-dataview}
 

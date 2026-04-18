@@ -3,16 +3,19 @@
 ---
 
 
-![Pasted image 20251027151330.png|600](/img/user/z_Assets/Maps/Pasted%20image%2020251027151330.png)
+> [!infobox|left]+
+> # Daggerford
+> ![Pasted image 20251027151330.png](/img/user/z_Assets/Maps/Pasted%20image%2020251027151330.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Region:** | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]], [[2-World/Regions/Sword Coast\|Sword Coast]] | 
+> **Category:** | Town +200 |
+> **Deities of Note:** | Lathander, Chauntea, Tymora |
+> **Primary Exports:** | Grain, livestock, leather goods, river trade goods, and crafted arms from local smiths |
+> **Threats:** | Bandits along the Trade Way, lizardfolk and trolls from the Lizard Marsh, raiders from the High Moor, and political tension between nearby city-states |
 
 # General
-
-**Region:** [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]], [[2-World/Regions/Sword Coast\|Sword Coast]]
-**Type:** Town
-**Deity of Note:** Lathander, Chauntea, and Tymora
-**Primary Exports:** Grain, livestock, leather goods, river trade goods, and crafted arms from local smiths
-**Threats:** Bandits along the Trade Way, lizardfolk and trolls from the Lizard Marsh, raiders from the High Moor, and political tension between nearby city-states
-
 Nestled along the **Trade Way** between **[[Waterdeep\|Waterdeep]]** and **[[Baldur’s Gate\|Baldur’s Gate]]**, the **Duchy of Daggerford** is a small but storied settlement on the **[[2-World/Regions/Sword Coast\|Sword Coast]]**. Built around the ruins of a long-fallen castle, Daggerford stands as both a frontier outpost and a vital stop for merchants, pilgrims, and adventurers travelling the coast. Though modest in size, its position on the **River Delimbiyr** grants it wealth and strategic importance far greater than its population suggests.
 
 Once part of the elven realm of **Illefarn**, the area now thrives under the rule of **Duke Morwen Daggerford**, whose pragmatic leadership and alliance with **[[Waterdeep\|Waterdeep]]** help keep the duchy secure. Daggerford’s people are proud, hardworking, and accustomed to danger — from trolls in the moors to bandits on the roads.
@@ -88,10 +91,8 @@ The **Trollwars** of the 14th century DR devastated the surrounding lands, but D
 
 Today, in **1508 DR**, Daggerford stands as a bastion of civilization between the great cities of the coast — a quiet duchy with a proud history, always one alarm away from adventure.
 
-
 # Travel
-8 hrs per day
-Exhaustion Level: 0
+*Based on 8 hrs walking per day with Exhaustion Level 0*
 
 | Destination | Travel Days |
 | ----------- | ----------- |
@@ -99,15 +100,14 @@ Exhaustion Level: 0
 |             | 🕓:         |
 
 # Quests
-
 | File | Status | Date Obtained |
 | ---- | ------ | ------------- |
 
 { .block-language-dataview}
 
 # NPCs
-
 | File | Race | Gender | Role |
 | ---- | ---- | ------ | ---- |
 
 { .block-language-dataview}
+

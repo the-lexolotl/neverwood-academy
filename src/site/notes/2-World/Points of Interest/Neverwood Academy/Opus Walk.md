@@ -1,18 +1,42 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Prismari Campus.md|Prismari Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Opus Walk.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[Heist the Records Room|Heist the Records Room]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Opus Walk.md","permalink":"/world/points-of-interest/neverwood-academy/opus-walk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":"Park","obsidianUIMode":"preview","image":"Opus Walk.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[Heist the Records Room|Heist the Records Room]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Opus Walk.md","permalink":"/world/points-of-interest/neverwood-academy/opus-walk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-# General
+> [!infobox|left]+
+> # Opus Walk
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Places/Prismari Campus\|Prismari Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Park |
 
+# Description
+Winding through the central Prismari campus is Opus Walk, a living gallery of magical artistry and experimental expression. The path is lined with sculptures, illusions, and enchanted installations created by generations of student artists, each piece reflecting a moment of creative breakthrough or personal discovery.
+Some artworks along Opus Walk are permanent fixtures, maintained and preserved through ongoing enchantment. Others are transient, existing only briefly before dissolving into light, sound, or elemental residue. The Walk is never the same twice, and students often return daily to see what has changed.
+Beyond being a display space, Opus Walk functions as a form of open-air education. Students are encouraged to study, critique, and interact with the works, making it both a gallery and a continuously evolving dialogue of artistic expression.
+
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
+
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
+
+# Quests
+| File                                                           |
+| -------------------------------------------------------------- |
+| [[2-Quests/Heist the Records Room\|Heist the Records Room]] |
+
+{ .block-language-dataview}
+
+# People
+| File | Race | Gender | Role |
+| ---- | ---- | ------ | ---- |
+
+{ .block-language-dataview}
+
+# Map
 ![Opus Walk.webp](/img/user/z_Assets/Maps/Opus%20Walk.webp)
-
-**Category:** Landmark
-
-### Description
-Hundreds of Prismari creations are displayed along a path that winds through the central campus buildings, giving the path its name: Opus Walk. Some famous pieces of magical art have been displayed along Opus Walk for centuries, while other transient bursts of creativity last only a few moments.
-
-# GM Notes
-
-Make notes of what you need to track in the Point of Interest here. 
-

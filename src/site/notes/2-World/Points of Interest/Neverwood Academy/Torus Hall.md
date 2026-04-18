@@ -1,163 +1,41 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Torus Hall.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Torus Hall.md","permalink":"/world/points-of-interest/neverwood-academy/torus-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":"Academy Building","obsidianUIMode":"preview","image":"Torus Hall.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwood Academy/Torus Hall.md","permalink":"/world/points-of-interest/neverwood-academy/torus-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-# General
+> [!infobox|left]+
+> # Torus Hall
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Places/Quandrix Campus\|Quandrix Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Academy Building |
 
-![Torus Hall.webp](/img/user/z_Assets/Maps/Torus%20Hall.webp)
+# Description
+Torus Hall is the central academic structure of the Quandrix campus, positioned at the end of a carefully aligned series of geometric walkways that converge in ascending ramps leading into its monumental entrance. The building’s architecture is a constantly evolving mathematical construct, mapped onto a living three-dimensional grid that subtly reconfigures itself over time.
+Inside, corridors curve in impossible loops, staircases connect in non-linear sequences, and rooms shift their relative positions depending on underlying arcane variables. Despite this instability, the structure remains functionally navigable—though only by those willing to adapt their understanding of spatial logic.
+Some faculty members caution against extended stays within Torus Hall, warning that prolonged exposure to its shifting geometry can alter a student’s perception of physical reality. There are persistent rumours of students who entered the hall during one configuration and emerged days later into a completely different architectural arrangement, still insisting nothing had changed.
 
-**Category:** Landmark
-
-### Description
-The central hall of Quandrix campus lies at the end of a geometric series of walkways, terminating at ascending ramps to the towering building. Inside, Torus Hall’s architecture is mapped to an ever-changing three-dimensional grid, which slowly evolves. Some Quandrix faculty members insist that mage-students shouldn’t linger too long inside the hall, lest its geometry eventually turn itself inside out while students are still within it.
-
-# GM Notes
-
-Make notes of what you need to track in the Point of Interest here. 
-
-::hidden
 # Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
 
-`VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
-[[1-DM Toolkit/Travel Calculator\|Travel Calculator]]  / [[Exhaustion\|Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
-
-| Destination |  Travel Days  |
-| ---|---|
-| [[Next Town A\|Next Town A]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-| [[Next Town B \|Next Town B ]] | 🕓: `VIEW[round((99* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
-
-# Scene Summary 
-
-This is a cave
-
-```statblock
-monster: Troll
-```
-
-### Forest Approach
-
-This is the approach
-
-### Cave Interior
-
-This is inside
-
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
 
 # Quests
+| File |
+| ---- |
 
-`BUTTON[button_quest]` 
-
-- [ ]  Locate the human remains. 
-- [ ] Recover the journal. 
-
-```base
-views:
-  - type: cards
-    name: Quests - Cards
-    filters:
-      and:
-        - file.folder == "2-World/Quests"
-        - list(MyContainer).contains(this)
-    order:
-      - file.name
-    image: note.image
-  - type: table
-    name: Quests - Table
-    filters:
-      and:
-        - file.folder == "2-World/Quests"
-        - list(MyContainer).contains(this)
-    order:
-      - file.name
-    sort:
-      - property: file.name
-        direction: DESC
-    columnSize:
-      file.name: 182
-
-```
+{ .block-language-dataview}
 
 # People
+| File | Race | Gender | Role |
+| ---- | ---- | ------ | ---- |
 
-`BUTTON[button_person]`  The following people are associated with this location.
+{ .block-language-dataview}
 
-```base
-properties:
-  note.Connected_Quests:
-    displayName: Associated Quests
-  note.Connected_Groups:
-    displayName: Associated Groups
-  note.char_race:
-    displayName: Race
-  note.char_gender:
-    displayName: Gender
-  note.char_age:
-    displayName: Age
-views:
-  - type: cards
-    name: People - Cards
-    filters:
-      and:
-        - file.folder == "2-World/People"
-        - list(MyContainer).contains(this)
-        - char_status == "Alive"
-    order:
-      - file.name
-      - char_age
-      - char_gender
-      - char_race
-    image: note.image
-  - type: table
-    name: People - Table
-    filters:
-      and:
-        - file.folder == "2-World/People"
-        - list(MyContainer).contains(this)
-    order:
-      - file.name
-      - char_race
-      - char_gender
-      - char_age
-      - Connected_Groups
-      - Connected_Quests
-    sort:
-      - property: Connected_Groups
-        direction: ASC
-      - property: char_gender
-        direction: ASC
-      - property: file.name
-        direction: DESC
-    columnSize:
-      file.name: 182
-
-```
-
-# Encounter
-
-Lists any mentioned monsters in this note.
-
-
-
-```base
-views:
-  - type: cards
-    name: Mentioned Monsters
-    filters:
-      and:
-        - this.hasLink(file)
-        - noteType == "pf2eMonster"
-    image: note.image
-    cardSize: 200
-    imageFit: contain
-    imageAspectRatio: 1
-
-```
-
-```encounter
-name: Example
-creatures:
- - 3: Goblin, 5, 15, 2, 25 # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
-```
-
-:::
+# Map
+![Torus Hall.webp](/img/user/z_Assets/Maps/Torus%20Hall.webp)

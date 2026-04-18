@@ -1,19 +1,42 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":"[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","MyCategory":"Landmark","obsidianUIMode":"preview","image":"Pillardrop.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Pillardrop.md","permalink":"/world/points-of-interest/neverwood-academy/pillardrop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":"Landmark","obsidianUIMode":"preview","image":"Pillardrop.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[The Missing Professor|The Missing Professor]]"],"dg-path":"World/Points of Interest/Neverwood Academy/Pillardrop.md","permalink":"/world/points-of-interest/neverwood-academy/pillardrop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
-hidden
-Select Category: `INPUT[template-poi-type][:MyCategory]`
 
-:::
+> [!infobox|left]+
+> # Pillardrop
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Places/Lorehold Campus\|Lorehold Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Landmark |
+
+# Description
+The Lorehold campus centres around Pillardrop, a vast chasm filled with layered architecture, ancient ruins, and newly constructed academic spaces. Built into the cliff faces and descending terraces, the district blends excavation site, living museum, and functioning university quarter into a single sprawling environment.
+Bridges of stone, rope, and enchanted material connect the various levels, often passing directly through colossal statues or partially unearthed relics. These monuments depict historical figures from across magical history, and many are still being actively studied by Lorehold scholars. The environment is constantly shifting as new discoveries are made and older structures are reinforced or repurposed.
+Pillardrop is as dangerous as it is inspiring. Collapses, unstable pathways, and unpredictable magical echoes are common, and every student carries at least one story of a near miss. Yet it is also a place of extraordinary intervention, where animated statues or lingering spirits are known to appear in moments of crisis, sometimes saving students from disaster at the last possible instant.
+
+# Travel
+*Based on 8 hrs walking per day with Exhaustion Level 0*
+
+| Destination | Travel Days |
+| ----------- | ----------- |
+|             | 🕓:         |
+|             | 🕓:         |
+
+# Quests
+| File                                                         |
+| ------------------------------------------------------------ |
+| [[2-Quests/The Missing Professor\|The Missing Professor]] |
+
+{ .block-language-dataview}
+
+# People
+| File | Race | Gender | Role |
+| ---- | ---- | ------ | ---- |
+
+{ .block-language-dataview}
+
+# Map
 ![Pillardrop.webp](/img/user/z_Assets/Maps/Pillardrop.webp)
-
-**Category:** Landmark
-
-### Description
-Part natural chasm, part archaeological excavation, and part new construction, Pillardrop is a series of buildings excavated out of cliffs on the Lorehold campus. Ruins and upgraded halls together are now used for research, classwork, and housing. Precarious bridges link one neighborhood of Pillardrop to another, often directly passing the enormous stone faces of old statues. Every Lorehold class has a story of some careless student making a misstep on one of these bridges or in some particularly crumbling section of the ruins, sometimes with disastrous consequences—and sometimes finding deliverance when a spirit statue appears from nowhere to catch the hapless student before they suffer serious harm.
-
-# GM Notes
-
-Make notes of what you need to track in the Point of Interest here. 
-
