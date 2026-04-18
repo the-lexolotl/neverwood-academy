@@ -54,8 +54,8 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
 | [[2-World/People/Other/Fistandrias Mansion/Coriander\|Coriander]]                  | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandrias Mansion/Cumin\|Cumin]]                          | Homunculi       | Other  | Butler             |
-| [[2-World/People/Other/Fistandrias Mansion/Fistandria\|Fistandria]]                | Human           | Female | Mage               |
 | [[2-World/People/Other/Fistandrias Mansion/Freyot\|Freyot]]                        | Human           | Male   | Mage               |
+| [[2-World/People/Other/Fistandrias Mansion/Fistandria\|Fistandria]]                | Human           | Female | Mage               |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                | Aarakocra       | Female | Player             |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                    | Human           | Male   | Player             |

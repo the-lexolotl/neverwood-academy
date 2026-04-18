@@ -1,18 +1,20 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":null,"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Protector's Enclave.md","permalink":"/world/places/protector-s-enclave/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Administrative District","Civic District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Protector's Enclave.md","permalink":"/world/places/protector-s-enclave/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # Protector's Enclave
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Administrative District,Civic District |
+> **Notable Features:** | Government buildings, Castle Never, military presence |
+> **Overview:** | The rebuilt centre of governance and order in Neverwinter, serving as the city’s political and civic heart |
 
-
-
-
-# General
-
-**Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Unknown
-
-## Overview
+# Description
 Protector’s Enclave serves as the political, cultural, and symbolic heart of Neverwinter. Rebuilt following the devastation of Mount Hotenow’s eruption, the district stands as a testament to resilience, order, and carefully curated civic pride.
 
 Broad avenues converge on a grand central square dominated by statuary and public memorials. Government offices, temples, guild representatives, and high-end establishments cluster here, making the Enclave both a centre of authority and a stage upon which the city presents its most polished face.
@@ -61,14 +63,19 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 - “Certain statues listen.”  
 - “There’s a vault beneath the plaza older than the current city.”  
 
-# NPCs
-| File                                                                                 | Race     | Gender     | Role           |
-| ------------------------------------------------------------------------------------ | -------- | ---------- | -------------- |
-| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                             | Human    | Male       | Shop Manager   |
-| [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                               | Half-Elf | Female     | Shop Manager   |
-| [[2-World/People/Neverwinter/Oswin Thatch\|Oswin Thatch]]                         | Tiefling | Non-binary | Shop Manager   |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph    | Female     | Tavern Manager |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf      | Female     | Tavern Founder |
+# Quests
+| File | Status | Date Obtained |
+| ---- | ------ | ------------- |
+
+{ .block-language-dataview}
+
+# People
+| File                                                                                 | Race     | Gender | Role           |
+| ------------------------------------------------------------------------------------ | -------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                             | Human    | Male   | Shop Manager   |
+| [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                               | Half-Elf | Female | Shop Manager   |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph    | Female | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf      | Female | Tavern Founder |
 
 { .block-language-dataview}
 
@@ -82,4 +89,5 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 | [[2-World/Points of Interest/Neverwinter/The Silver Shuttle\|The Silver Shuttle]]   |
 
 { .block-language-dataview}
+
 

@@ -52,8 +52,10 @@ What the students find there may not only cleanse the waters... but reveal the f
 - [ ] Piece together fragments of their experiments and intentions
 
 # Quest Handouts
-| File | Date Obtained | Category | Associated NPCs |
-| ---- | ------------- | -------- | --------------- |
+| File                                                                         | Date Obtained | Category | Associated NPCs                                                                                         |
+| ---------------------------------------------------------------------------- | ------------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Others/Professor Lang's List\|Professor Lang's List]] | 18 Apr, 2026  | Note     | <ul><li>[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang.md\\|Verelda Lang]]</li></ul> |
+| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]         | 18 Apr, 2026  | Book     | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                  |
 
 { .block-language-dataview}
 

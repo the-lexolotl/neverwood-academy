@@ -1,22 +1,22 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":"Commerce","obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Dock Ward.md","permalink":"/world/places/dock-ward/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Trade District","Waterfront District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Dock Ward.md","permalink":"/world/places/dock-ward/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # Dock Ward
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Trade District,Waterfront District |
+> **Notable Features:** | Docks, warehouses, taverns, smuggling activity |
+> **Overview:** | A bustling and often rough waterfront district focused on shipping, trade, and maritime industry |
 
-
-
-
-# General
-
-**Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Commerce
-
-## Overview
+# Description
 The Dock Ward is the restless, salt-stained gateway of Neverwinter. Ships from across the Sword Coast arrive daily, bringing cargo, coin, rumours, and trouble in equal measure. If [[2-World/Places/Protector's Enclave\|Protector's Enclave]] is the city’s face and [[2-World/Places/Blacklake District\|Blacklake]] its guarded heart, the Dock Ward is its pulse.
-
 Here, trade happens loudly. Sailors drink hard after long voyages. Warehouses crowd the waterfront. Cranes swing overhead, and gulls circle constantly. The district thrives on movement — of goods, of people, of secrets.
-
 For many visitors, the Dock Ward is their first impression of Neverwinter. It is rarely a quiet one.
 
 ## District Character
@@ -72,7 +72,13 @@ Fog rolling in from the Sea of Swords can turn the piers into shifting silhouett
 - “One of the taverns moves.”  
 
 
-# NPCs
+# Quests
+| File | Status | Date Obtained |
+| ---- | ------ | ------------- |
+
+{ .block-language-dataview}
+
+# People
 | File | Race | Gender | Role |
 | ---- | ---- | ------ | ---- |
 
@@ -84,4 +90,5 @@ Fog rolling in from the Sea of Swords can turn the piers into shifting silhouett
 | ---- |
 
 { .block-language-dataview}
+
 

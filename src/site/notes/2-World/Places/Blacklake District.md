@@ -1,22 +1,23 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":null,"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Blacklake"],"dg-path":"World/Places/Blacklake District.md","permalink":"/world/places/blacklake-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":["Residential District","Noble District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Blacklake"],"dg-path":"World/Places/Blacklake District.md","permalink":"/world/places/blacklake-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 
+> [!infobox|left]+
+> # Blacklake District
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Residential District,Noble District |
+> **Notable Features:** | Blacklake itself, manor houses, upscale residences |
+> **Overview:** | A more affluent district of Neverwinter centred around Blacklake, historically favoured by nobility and wealthier citizens |
 
-
-
-# General
-
-**Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Unknown
-
-## Overview
+# Description
 Blacklake District is the seat of wealth and influence within Neverwinter. Built around the deep, dark waters of Blacklake itself, the district is home to noble families, influential merchants, and those who prefer their power exercised behind closed doors rather than from public squares.
-
 Unlike [[2-World/Places/Protector's Enclave\|Protector's Enclave]], which performs authority openly, Blacklake cultivates exclusivity. High walls, wrought-iron gates, and manicured gardens conceal sprawling estates and private towers. Here, politics is conducted over fine wine, contracts are sealed in drawing rooms, and reputations are crafted with precision.
-
 Blacklake is not loud. It does not need to be.
 
 ## District Character
@@ -68,13 +69,19 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 - “There is a tunnel system beneath Blacklake connecting the manors.”  
 - “One house keeps a dragon egg in its cellar.”  
 
-# NPCs
+# Quests
+| File | Status | Date Obtained |
+| ---- | ------ | ------------- |
+
+{ .block-language-dataview}
+
+# People
 | File                                                                                 | Race      | Gender | Role           |
 | ------------------------------------------------------------------------------------ | --------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]           | Loxodon   | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc  | Male   | Tavern Founder |
 

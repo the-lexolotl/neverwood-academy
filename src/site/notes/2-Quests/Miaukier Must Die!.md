@@ -38,11 +38,11 @@
 { .block-language-dataview}
 
 # Locations
-| File                                                                         | Location                                                                                                                                | Type        |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[2-World/Places/Neverwinter Woods\|Neverwinter Woods]]                   | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Agriculture |
-| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] | <ul><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li><li>[[2-World/Places/Neverwinter Woods.md\\|Neverwinter Woods]]</li></ul> | Dungeon     |
-| [[2-World/Hubs/Xvart Village\|Xvart Village]]                             | [[2-World/Regions/The North\|The North]]                                                                                             | Village +80 |
+| File                                                                         | Location                                                                                                                                | Type                                               |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [[2-World/Places/Neverwinter Woods\|Neverwinter Woods]]                   | <ul><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li><li>[[2-World/Regions/The North.md\\|The North]]</li></ul>                    | <ul><li>Wilderness</li><li>Forest Region</li></ul> |
+| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] | <ul><li>[[2-World/Hubs/Xvart Village.md\\|Xvart Village]]</li><li>[[2-World/Places/Neverwinter Woods.md\\|Neverwinter Woods]]</li></ul> | Dungeon                                            |
+| [[2-World/Hubs/Xvart Village\|Xvart Village]]                             | [[2-World/Regions/The North\|The North]]                                                                                             | Village +80                                        |
 
 { .block-language-dataview}
 
@@ -55,10 +55,10 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                    | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                     | Aarakocra       | Female     | Player  |
-| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                               | Triton          | Male       | Player  |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                         | Human           | Male       | Player  |
-| [[1-Party/Her/Her\|Her]]                                                                | Tiefling        | Female     | Player  |
+| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                               | Triton          | Male       | Player  |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                               | Variant Aasimar | Female     | Player  |
+| [[1-Party/Her/Her\|Her]]                                                                | Tiefling        | Female     | Player  |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                      | Halfling        | Male       | Player  |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                         | Dragonborn      | Male       | Player  |
 

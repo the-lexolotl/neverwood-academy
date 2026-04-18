@@ -83,8 +83,8 @@ The Endless Ice Sea lies to the north of Faerûn, Kara-Tur and Maztica. The “s
 # Continents
 | File                                         |
 | -------------------------------------------- |
-| [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
 | [[2-World/Continents/Faerûn\|Faerûn]]     |
+| [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
 
 { .block-language-dataview}
 

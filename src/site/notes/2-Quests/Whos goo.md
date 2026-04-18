@@ -90,6 +90,7 @@ And at the centre of it all, a name that should have remained nothing more than 
 | [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>                                                                                                                        |
 | [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul>                                                                                                                    |
 | [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                          |
+| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]                                   | 18 Apr, 2026  | Book            | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                          |
 
 { .block-language-dataview}
 
@@ -106,15 +107,15 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]         | Human           | Male   | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                           | Treant          | Female | Grounds Keeper        |
-| [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                      | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                          | Half-Bullywug   | Male   | Alumni                |
+| [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                      | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                            | Halfling        | Female | Applicant             |
 | [[1-Party/Atudark/Atudark\|Atudark]]                                                        | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                         | Aarakocra       | Female | Player                |
-| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                   | Triton          | Male   | Player                |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Human           | Male   | Player                |
-| [[1-Party/Her/Her\|Her]]                                                                    | Tiefling        | Female | Player                |
+| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                   | Triton          | Male   | Player                |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
+| [[1-Party/Her/Her\|Her]]                                                                    | Tiefling        | Female | Player                |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
 

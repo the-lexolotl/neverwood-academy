@@ -1,22 +1,22 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":null,"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/River District.md","permalink":"/world/places/river-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Industrial District","Ruined District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/River District.md","permalink":"/world/places/river-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # River District
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Industrial District,Ruined District |
+> **Notable Features:** | Ruins, reconstruction zones, unstable infrastructure |
+> **Overview:** | A heavily damaged and partially reclaimed district, long associated with catastrophe and ongoing rebuilding efforts |
 
-
-
-
-# General
-
-**Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Unknown
-
-## Overview
+# Description
 The River District lies along the banks of the Neverwinter River and bears the clearest scars of the city’s near-destruction. Once a thriving residential and commercial quarter, the district was heavily damaged during the eruption of Mount Hotenow and the chaos that followed.
-
 Although reconstruction efforts continue, the River District remains a patchwork of restored buildings, abandoned shells, scaffolding, and opportunistic redevelopment. It is a place where ambition meets ruin — and not always cleanly.
-
 Where [[2-World/Places/Protector's Enclave\|Protector's Enclave]] displays order and [[2-World/Places/Blacklake District\|Blacklake]] guards privilege, the River District reveals the cost of survival.
 
 ## District Character
@@ -67,8 +67,13 @@ At night, portions of the riverbank grow quiet — too quiet — and stories cir
 - “There are still people living in the ruins who refuse to leave.”  
 - “The eruption didn’t destroy everything — some things survived.”  
 
+# Quests
+| File | Status | Date Obtained |
+| ---- | ------ | ------------- |
 
-# NPCs
+{ .block-language-dataview}
+
+# People
 | File                                                                           | Race      | Gender | Role           |
 | ------------------------------------------------------------------------------ | --------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] | Elf       | Male   | Tavern Founder |
@@ -83,4 +88,5 @@ At night, portions of the riverbank grow quiet — too quiet — and stories cir
 | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]] |
 
 { .block-language-dataview}
+
 

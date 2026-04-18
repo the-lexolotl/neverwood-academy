@@ -1,18 +1,20 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":"Industrial","obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/The Chasm.md","permalink":"/world/places/the-chasm/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":["Magical Ruin"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/The Chasm.md","permalink":"/world/places/the-chasm/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
+> [!infobox|left]+
+> # The Chasm
+> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Parent Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Magical Ruin |
+> **Notable Features:** | Rift caverns, arcane corruption, hazardous terrain |
+> **Overview:** | A massive rift left by the eruption of Mount Hotenow, filled with magical instability and dangerous anomalies |
 
-
-
-
-# General
-
-**Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:** Industrial
-
-## Overview
+# Description
 The Chasm District is Neverwinter’s most visible wound.
 When catastrophe tore through the city, a vast rift split this quarter apart, swallowing streets, towers, and entire lives. What remains is a district divided — part stabilised reconstruction, part abandoned ruin, and part open scar that no mason can simply mortar closed.
 By 1509 DR, efforts to reclaim sections of the Chasm have begun in earnest. Reinforced bridges now span narrower gaps. Certain outer streets have been cleared and rebuilt. Guard patrols operate along secured perimeters.
@@ -77,11 +79,17 @@ Funding for the project remains politically sensitive, with debates ongoing abou
 - “The wards aren’t holding.”  
 - “There’s a city beneath the city.”  
 
-# NPCs
+# Quests
+| File | Status | Date Obtained |
+| ---- | ------ | ------------- |
+
+{ .block-language-dataview}
+
+# People
 | File                                                                                 | Race    | Gender | Role           |
 | ------------------------------------------------------------------------------------ | ------- | ------ | -------------- |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                     | Burrog  | Male   | Other          |
 
 { .block-language-dataview}
@@ -93,4 +101,5 @@ Funding for the project remains politically sensitive, with debates ongoing abou
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]] |
 
 { .block-language-dataview}
+
 
