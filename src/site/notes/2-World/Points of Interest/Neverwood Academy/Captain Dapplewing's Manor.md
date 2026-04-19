@@ -34,9 +34,9 @@ Since no one permanently lives in Captain Dapplewing’s Manor, the building is 
 { .block-language-dataview}
 
 # People
-| File                                                                        | Race                   | Gender | Role   |
-| --------------------------------------------------------------------------- | ---------------------- | ------ | ------ |
-| [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]] | Neverwood Campus Guide | Male   | Butler |
+| File                                                                        | Race                   | Gender | Role      |
+| --------------------------------------------------------------------------- | ---------------------- | ------ | --------- |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]] | Neverwood Campus Guide | Male   | Automaton |
 
 { .block-language-dataview}
 

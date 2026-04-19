@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"raf,360x360,075,t,fafafa_ca443f4786.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Cleaner","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Automatons/Cleaner.md","permalink":"/world/people/neverwood-academy/staff/automatons/cleaner/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"raf,360x360,075,t,fafafa_ca443f4786.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Automatons/Cleaner.md","permalink":"/world/people/neverwood-academy/staff/automatons/cleaner/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -14,7 +14,7 @@
 > Gender | Other |
 > Age | Adult |
 > Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
-> Role | Cleaner |
+> Role | Automaton |
 > College | None |
 
 # Biography

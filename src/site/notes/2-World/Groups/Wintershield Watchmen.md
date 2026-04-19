@@ -1,13 +1,19 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":"Mercenary Company","image":"Template_Group_Placeholder.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":"John Doe","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["The Wintershield Watchmen"],"dg-path":"World/Groups/Wintershield Watchmen.md","permalink":"/world/groups/wintershield-watchmen/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":"Mercenary Company","image":"Template_Group_Placeholder.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["The Wintershield Watchmen"],"dg-path":"World/Groups/Wintershield Watchmen.md","permalink":"/world/groups/wintershield-watchmen/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-# General
+> [!infobox|left]+
+> # Wintershield Watchmen
+> ![Template_Group_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Group_Placeholder.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
+> **Category:** | Mercenary Company |
+> **Primary Contact:** | Unknown |
 
-**Location:** [[2-World/Hubs/Neverwinter.md|Neverwinter]]
-**Category:**  Mercenary Company
-
+# Description
 ### **Overview**
 The Wintershield Watchmen serve as the primary law enforcement force of Neverwinter. Formed during the city’s post-cataclysm reconstruction, they operate under the authority of the Lord Protector’s administration, tasked with maintaining order, enforcing civic law, and protecting citizens and trade within the city’s rebuilt districts.
 Their name derives from the “Wintershield” doctrine—an early reconstruction-era mandate focused on protecting vulnerable communities during Neverwinter’s recovery years, when lawlessness and instability were at their peak.
@@ -54,10 +60,14 @@ However, enforcement is not always even-handed. Wealthier or politically connect
 * **Dissenting factions:** Often seen as instruments of the Lord Protector’s control
 Within Neverwinter, the Watch are both a symbol of recovery and a reminder of continued centralised authority.
 
+# Enemies/Allies
+**Enemies:** Unknown
+**Allies:** Unknown
+
 # People
 The following people are members of this group.  
-| File | Gender | Race | Role | College |
-| ---- | ------ | ---- | ---- | ------- |
+| File                                                                   | Gender | Race  | Role                          | College |
+| ---------------------------------------------------------------------- | ------ | ----- | ----------------------------- | ------- |
+| [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]] | Male   | Human | Lord Protector of Neverwinter | None    |
 
 { .block-language-dataview}
-

@@ -58,9 +58,9 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Fistandrias Mansion/Freyot\|Freyot]]                        | Human           | Male   | Mage               |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                    | Human           | Male   | Player             |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                          | Variant Aasimar | Female | Player             |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn      | Male   | Player             |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                      | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                       | Aarakocra       | Female | Player             |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn      | Male   | Player             |
 
 { .block-language-dataview}
 
