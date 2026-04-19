@@ -11,6 +11,9 @@ Welcome to the authorised archive of **Neverwood Academy**, a centre of magical 
 These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents.
 
 ---
+### [View First Year Grades!](https://docs.google.com/spreadsheets/d/1isbxXRjzriIIWccrkB-hXwUsnunjHwXIGA2Q9l-cPng/edit?usp=sharing)
+
+---
 ![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
 
 ---
