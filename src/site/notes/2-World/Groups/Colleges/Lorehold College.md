@@ -3,11 +3,23 @@
 ---
 
 
-# General
+> [!infobox|left]+
+> # Lorehold College
+> ![map-1.2-lorehold-campus.jpg](/img/user/z_Assets/Maps/Campus%20Maps/map-1.2-lorehold-campus.jpg)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | College |
+> **Academic Specialty:** | Historical Archaeomancy |
+> **Founding Dragon:** | Velomachus Lorehold |
+> **Current Deans:** | Augusta Tullus,Plargg |
+> **Studies Overview** | The study of history through magical archaeology, with a focus on ancient civilisations, relic analysis, and the reconstruction of lost knowledge through arcane and physical evidence. |
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
-**Category:** College
+# Description
+Lorehold College is a place where the past is not merely studied—it is unearthed, debated, and brought to life. Its halls are filled with relics, reconstructed artefacts, and echoes of bygone eras, with magic used as a tool to illuminate history in ways no ordinary scholarship could achieve.
+Students of Lorehold often find themselves as much explorers as academics, venturing into ruins, deciphering ancient texts, and reconstructing lost cultures through both research and experience. Lessons may take place in lecture halls, excavation sites, or even magically recreated historical moments.
+The College thrives on intellectual tension. The push and pull between order and chaos is not just philosophical—it shapes how history is interpreted, taught, and even experienced. As a result, Lorehold students are known for their curiosity, boldness, and willingness to challenge accepted narratives.
 
 ### Values
 Lorehold College is devoted to the study of history, broadly understood to include the various aspects of culture, behavior, and social relationships that shape historical events. Its studies include various subdivisions of history (military history, social history, cultural history), archaeology, anthropology, psychology, sociology, religion, and economics. It overlaps with Prismari College in the field of art history, with some students splitting their studies between the two colleges. Lorehold mages use their magic to unearth secrets and share illumination.
@@ -18,7 +30,10 @@ The perspective of order emphasizes the structures that pull people together—l
 The perspective of chaos, by contrast, emphasizes individual actions, personal bonds of families and friends, and the disruptive force of lone, passionate people in history. Scholars of chaos gravitate toward reckless discovery and the spirit of adventure in their research of the past—the essence and emotion of history over precision or procedure.
 
 # Membership
-To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
+Students who join Lorehold College are typically those drawn to history, discovery, and the pursuit of knowledge through investigation. However, formal membership is not immediate upon arrival at Neverwood Academy.
+During their first year, students are encouraged to explore introductory courses across all colleges, gaining a broad understanding of each discipline. Throughout this time, those interested in Lorehold often gravitate toward historical studies, fieldwork exercises, and research-based projects.
+At the end of their first year, students may apply to join Lorehold College, demonstrating their aptitude, curiosity, and commitment to uncovering and interpreting the past. Successful applicants are formally inducted at the beginning of their second year, gaining full access to Lorehold resources, faculty, and expeditions.
+Lorehold students often participate in fieldwork, archival research, and interdisciplinary projects, frequently collaborating with other colleges in areas such as art history or cultural studies. Membership carries an expectation of curiosity, initiative, and a willingness to challenge established narratives.
 
 # Hierarchy
 **Founding Dragon:** Velomachus Lorehold

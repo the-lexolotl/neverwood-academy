@@ -3,11 +3,23 @@
 ---
 
 
-# General
+> [!infobox|left]+
+> # Quandrix College
+> ![map-1.4-quandrix-campus.jpg](/img/user/z_Assets/Maps/Campus%20Maps/map-1.4-quandrix-campus.jpg)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | College |
+> **Academic Specialty:** | Arcane Mathematics |
+> **Founding Dragon:** | Tanazir Quandrix |
+> **Current Deans:** | Kianne,Imbraham |
+> **Studies Overview** | Mathematical and theoretical magic, exploring the underlying patterns of reality through geometry, probability, fractal structures, and the formal logic of arcane systems. |
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
-**Category:** College
+# Description
+Quandrix College is a realm of logic, abstraction, and infinite possibility, where the fundamental principles of reality are studied, questioned, and reshaped. Its spaces often defy conventional geometry, reflecting the mathematical concepts explored within.
+Students engage with complex theories that blur the line between magic and mathematics, exploring how patterns, equations, and structures underpin the fabric of the multiverse. Lessons may involve visualising higher dimensions, manipulating probabilities, or redefining the limits of magical possibility.
+The College is defined by its dual perspective—whether reality is something to be discovered or something to be defined. This philosophical divide drives innovation, with students constantly testing the boundaries between theory and application.
 
 ### Values:
 The studies undertaken within Quandrix College include mathematics, physics, logic, statistics, metaphysics, and various fields of theoretical magic. Students from the other colleges occasionally delve into Quandrix courses to bolster the theoretical underpinnings of their studies, and Quandrix’s studies of nature and Witherbloom’s explorations of practical biology have some significant overlap.
@@ -18,7 +30,10 @@ The perspective of substance emphasizes physical reality. In this view, math is 
 The perspective of theory focuses on the abstract realms of conjecture and possibility. Its scholars view math as a lens through which a mind can understand the cosmos, not something that exists independently in the world. Mages who embrace this perspective use their spells to weave illusions and manipulate the fabric of magic itself.
 
 # Membership
-To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
+Students who aspire to join Quandrix College are typically drawn to logic, mathematics, and the underlying structures of reality. Formal entry, however, follows a foundational period of study.
+In their first year, students engage with introductory concepts across multiple disciplines, building the analytical skills necessary for more advanced study. Those interested in Quandrix often excel in problem-solving, theoretical reasoning, and abstract thinking during this time.
+Applications to Quandrix are made at the end of the first year, with students expected to demonstrate both aptitude and dedication to the College’s rigorous intellectual demands. Successful applicants are admitted at the beginning of their second year, where they gain access to specialised coursework and research opportunities.
+Membership involves collaboration, experimentation, and the exploration of both theoretical and practical applications of mathematical magic. Students are expected to approach their studies with precision, curiosity, and a willingness to engage with complex and often uncertain ideas.
 
 # Hierarchy
 **Founding Dragon:** Tanazir Quandrix

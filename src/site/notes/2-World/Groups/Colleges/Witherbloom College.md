@@ -3,11 +3,23 @@
 ---
 
 
-# General
+> [!infobox|left]+
+> # Witherbloom College
+> ![map-1.6-witherbloom-campus.jpg](/img/user/z_Assets/Maps/Campus%20Maps/map-1.6-witherbloom-campus.jpg)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | College |
+> **Academic Specialty:** | Life Cycle Magic |
+> **Founding Dragon:** | Beledros Witherbloom |
+> **Current Deans:** | Lissette,Valentin |
+> **Studies Overview** | Natural and life-cycle magic, focusing on biological systems, ecology, healing, decay, and the balance between growth and entropy through alchemical and primal study. |
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
-**Category:** College
+# Description
+Witherbloom College is a place where life and death are studied as two halves of the same cycle. Its grounds are rich with natural and magical energy, from thriving gardens to decaying swamps, each offering insight into the forces that sustain and end life.
+Students explore the interconnected systems that govern living things, learning to harness both growth and decay in their magic. This duality is ever-present, shaping not only their studies but their understanding of the world itself.
+The College embraces a pragmatic and often unflinching view of nature. Life is nurtured, but death is not feared—both are necessary, both are powerful, and both are to be understood.
 
 ### Values:
 The curriculum of Witherbloom College focuses on various sciences, revolving around the life sciences. Biology, ecology, botany, chemistry, and related sciences combine with the study and manipulation of the magical energy of the Positive Plane and the Negative Plane, the primal forces of life and death. Witherbloom’s curriculum shares some overlap with Quandrix’s analysis of the mathematical patterns in nature.
@@ -18,7 +30,10 @@ The philosophy of the root (growth) focuses on life and its irrepressible drive 
 The philosophy of the vein (decay) focuses on the inevitability of death and decay. Its traditional name comes from the prominence of vampires within the college, whose conceptions of draining life through the vein have long proven an important counterweight to the growth philosophy of Witherbloom. The decay philosophy sees life energy as a resource to be consumed, rather than a good to be nourished for its own sake. Mages who adopt this view wield negative energy and practice necromancy.
 
 # Membership
-To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
+Students who join Witherbloom College are those drawn to the study of life, death, and the natural forces that connect them. As with all colleges, formal membership begins after an initial period of exploration.
+During their first year, students are introduced to a range of scientific and magical disciplines, often engaging in practical work involving plants, creatures, and natural systems. Those inclined toward Witherbloom typically show an affinity for hands-on study and a comfort with the realities of both growth and decay.
+Applications are made toward the end of the first year, with students demonstrating their understanding of natural systems and their readiness to engage with the College’s often demanding subject matter. Successful applicants join Witherbloom at the beginning of their second year, gaining access to its specialised resources and environments.
+Membership involves direct interaction with living systems and magical energies, requiring responsibility, resilience, and respect for the balance between life and death.
 
 # Hierarchy
 **Founding Dragon:** Beledros Witherbloom

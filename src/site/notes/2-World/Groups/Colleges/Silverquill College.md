@@ -3,11 +3,23 @@
 ---
 
 
-# General
+> [!infobox|left]+
+> # Silverquill College
+> ![map-1.5-silverquill-campus.jpg](/img/user/z_Assets/Maps/Campus%20Maps/map-1.5-silverquill-campus.jpg)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | College |
+> **Academic Specialty:** | Rhetorical Spellcraft |
+> **Founding Dragon:** | Shadrix Silverquill |
+> **Current Deans:** | Shaile Talonrook,Embrose Lu |
+> **Studies Overview** | The study of communication magic, specialising in rhetoric, written and spoken expression, and the dual use of light and shadow to influence perception, emotion, and thought. |
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
-**Category:** College
+# Description
+Silverquill College is the domain of language, where words are honed into tools of influence, inspiration, and power. Its halls echo with speeches, debates, and performances, each carefully crafted to leave a lasting impression.
+Students learn to wield language as both an art and a weapon, shaping narratives, swaying opinions, and revealing truths. Magic enhances this ability, allowing words to take on tangible form—radiant or shadowed, uplifting or cutting.
+The College thrives on contrast. Whether seeking to illuminate or to challenge, Silverquill students understand that communication is never neutral. Every word carries intent, and mastering that intent is the key to true power.
 
 ### Values:
 The curriculum of Silverquill College revolves around words, encompassing literature (including fiction, essays, drama, and poetry), languages, linguistics, oratory, rhetoric, and dramatic performance. Students from other colleges often take Silverquill courses to improve their communication skills, learning to speak and write more effectively about their primary field of study. Silverquill and Prismari see overlap in the area of performing arts, with Silverquill emphasizing verbal performance and Prismari focusing more on dance and other forms of movement.
@@ -18,7 +30,10 @@ The college’s perspective of radiance envisions language as sunlight emanating
 The college’s perspective of shadow focuses on the power of language to stab, to expose stinging truths, and to obfuscate secrets. The magic of shadow mages often manifests as bolts or blades of darkness or blotches of flowing ink, and its effects range from a sting of shame to an assault on the target’s life energy.
 
 # Membership
-To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
+Membership in Silverquill College is sought by those who wish to master the power of language, but entry requires both preparation and demonstration of skill.
+Throughout their first year, students explore various forms of communication, from writing and rhetoric to performance and debate. Those drawn to Silverquill often stand out through their ability to persuade, inspire, or provoke thought through their words.
+At the end of the year, students may apply to Silverquill College, typically submitting written works, speeches, or performances as part of their application. Successful candidates are admitted at the start of their second year, where they begin focused study within the College.
+Members are expected to refine their voice, develop their personal style, and understand the impact of their words. Silverquill students often collaborate with others across the Academy, using their skills to enhance both academic and creative pursuits.
 
 # Hierarchy
 **Founding Dragon:** Shadrix Silverquill

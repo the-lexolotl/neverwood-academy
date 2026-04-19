@@ -1,13 +1,25 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Prismari College.md","permalink":"/world/groups/colleges/prismari-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3 -prismari-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Prismari College.md","permalink":"/world/groups/colleges/prismari-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-# General
+> [!infobox|left]+
+> # Prismari College
+> ![map-1.3 -prismari-campus.jpg](/img/user/z_Assets/Maps/Campus%20Maps/map-1.3%20-prismari-campus.jpg)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | College |
+> **Academic Specialty:** | Elemental Performance Magic |
+> **Founding Dragon:** | Galazeth Prismari |
+> **Current Deans:** | Uvilda Mistcoiler,Nassari |
+> **Studies Overview** | Expressive elemental magic, combining spellcasting with artistic performance, focusing on the manipulation of fire, water, air, and earth as mediums for creative and destructive expression. |
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-
-**Category:** College
+# Description
+Prismari College is a vibrant and expressive environment where magic and art are inseparable. Every corridor hums with creative energy, from grand performances and installations to fleeting, spontaneous displays of elemental beauty.
+Students of Prismari are creators first and foremost, using magic not just as a tool but as an extension of their artistic voice. Fire, water, air, and earth become mediums through which emotion, meaning, and identity are expressed. No two works are ever truly the same, and individuality is celebrated above all.
+The College exists in a constant state of creative tension, balancing control and chaos, precision and passion. Whether striving for perfection or embracing raw expression, Prismari students are united by their desire to create something meaningful—and unforgettable.
 
 ### Values: 
 Prismari College is dedicated to the arts. Its scholars view art as the fundamental form of self-expression and magic as a tool, a medium, and an inspiration. Prismari studies focus on visual arts (including architecture, painting, and sculpture) and performing arts (such as dance, music, and theater). The curriculum overlaps with Lorehold in the field of art history and with Silverquill in the literary arts, and some students divide their time between Prismari and one of those other schools to pursue these interdisciplinary fields. Prismari mages use magic to weave the elements into their creations; they might juxtapose fire alongside paint, ceramics, or fabric, or they might choreograph elaborate works that unite a dancer’s movements with gusts and eddies of air.
@@ -16,8 +28,12 @@ Prismari College is dedicated to the arts. Its scholars view art as the fundamen
 Prismari’s two deans carry the titles Dean of Perfection and Dean of Expression, and they often express the fundamental conflict of their philosophy as perfection versus expression—or, sometimes, as intellect versus emotion. What is the purpose of art? Is it to make people think things or make people feel things? Is it supposed to be carefully thought out or raw and spontaneous? Is mastery of art a matter of honing precise techniques to a point of perfection or of perfectly expressing a raw emotional state? Does art aspire to express universal truths or intensely personal ones?
 The perspective of perfection focuses on technique, analysis, theory, aesthetics, and universal principles. It embraces intellect over emotion, strives to be thought-provoking and reflective, and aspires to mastery. Its mages tend to use elemental forces of cold, water, and wind.
 The perspective of expression instead emphasizes the portrayal of personal emotional truths. Its mages value improvisation, innovation, and rule-breaking, and they often favor elemental magic using fire, lightning, and earth.
- Membership
-To join the college student must submit an application to the appropriate college admissions team before the 15th Mirtul of their first academic year
+
+# Membership
+Membership in Prismari College attracts those with a passion for artistic expression in any form, but like all colleges, entry follows a period of exploration.
+During their first year, students experience a wide range of artistic and magical disciplines, often experimenting with different mediums and performance styles. Those drawn to Prismari typically distinguish themselves through creativity, originality, and a willingness to take artistic risks.
+Students may apply to Prismari College toward the end of their first year, often submitting portfolios, performances, or other demonstrations of their work. Successful candidates are welcomed into the College at the start of their second year, where they can fully immerse themselves in its creative environment.
+Once admitted, members are encouraged to collaborate, experiment, and push the boundaries of their craft. Prismari values both technical growth and authentic self-expression, and students are expected to develop both in equal measure.
 
 # Hierarchy
 **Founding Dragon:** Galazeth Prismari
