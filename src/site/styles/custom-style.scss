@@ -187,15 +187,14 @@ img { max-width: 100%; border-radius: 8px; }
 }
 
 /* --- Main content area ---
-   Uses clamp() to scale gracefully between screen sizes.
-   On a 27" (~2560px): content fills the space between sidebars without excess right padding.
-   On a 15" (~1440px): content stays comfortably readable.
-   The calc accounts for: 250px left sidebar + 300px right sidebar + gutters.
+   300px left sidebar + 320px right sidebar + 40px gutters = 660px total reserved.
+   clamp: never smaller than 500px, never larger than 1200px, scales with viewport.
+   This keeps content from overlapping the right sidebar at any screen size.
 ------------------------------------- */
 .content {
     margin-left: 300px !important;
     margin-right: auto !important;
-    max-width: clamp(600px, calc(100vw - 620px), 1200px) !important;
+    max-width: clamp(500px, calc(100vw - 660px), 1200px) !important;
     padding-right: 2em !important;
     margin-top: 60px !important;
 }
@@ -204,15 +203,14 @@ img { max-width: 100%; border-radius: 8px; }
 body:not(:has(.sidebar)) .content,
 body:has(.sidebar[style*="display: none"]) .content,
 body:has(.sidebar[style*="display:none"]) .content {
-    max-width: clamp(600px, calc(100vw - 320px), 1400px) !important;
+    max-width: clamp(500px, calc(100vw - 370px), 1400px) !important;
     margin-right: 50px !important;
 }
 
-/* --- Mid-size screens: let content reflow naturally --- */
-@media (max-width: 1400px) {
+/* --- Mid-size screens (laptop): tighten up margins --- */
+@media (max-width: 1600px) {
     .content {
-        margin-left: auto !important;
-        max-width: calc(100vw - 340px) !important;
+        max-width: calc(100vw - 660px) !important;
         padding-right: 1.5em !important;
     }
 }
