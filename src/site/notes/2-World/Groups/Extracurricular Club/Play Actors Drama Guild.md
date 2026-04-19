@@ -1,43 +1,39 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Playactors Drama Guild.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"Deception","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[The Merchant of Moons|The Merchant of Moons]]"],"dg-show-backlinks":true,"dg-path":"World/Groups/Extracurricular Club/Play Actors Drama Guild.md","permalink":"/world/groups/extracurricular-club/play-actors-drama-guild/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Playactors Drama Guild.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"Deception","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[The Merchant of Moons|The Merchant of Moons]]"],"dg-show-backlinks":true,"clubType":"Arts & Performance","dg-path":"World/Groups/Extracurricular Club/Play Actors Drama Guild.md","permalink":"/world/groups/extracurricular-club/play-actors-drama-guild/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![Playactors Drama Guild.png](/img/user/z_Assets/Extracurriculars/Playactors%20Drama%20Guild.png)
+> [!infobox|left]+
+> # Play Actors Drama Guild
+> ![Playactors Drama Guild.png](/img/user/z_Assets/Extracurriculars/Playactors%20Drama%20Guild.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Arts & Performance |
+> **Primary Contact:** | Unknown |
 
-# General
+# Description
+The Play Actors Drama Guild is dedicated to the art of theatre, bringing stories to life through performance, staging, and magical enhancement. Productions range from classic works to original student-written plays, often incorporating illusion magic and elaborate set design.
+The Guild is a collaborative space, with members contributing both onstage and behind the scenes. Actors, directors, writers, and designers work together to create immersive experiences that captivate audiences across the Academy.
+Performances are a highlight of the social calendar, drawing large crowds and often leaving a lasting impression.
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-**Category:** Extracurricular Club
-**Associated Skills:** Arcana, Deception
-
-# Goals
-
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-# Membership
-Upon request or via sign-up at freshers fair
+## Membership
+Students may join the Play Actors Drama Guild by signing up during the Freshers Fair or at any time upon request.
+All aspects of theatre are open to members, from acting and directing to set construction and magical effects. New members are encouraged to explore different roles before specialising.
+Those with strong commitment and talent may take on leading roles in major productions.
 
 # People
 The following people are members of this group.  
-| File                                                                                                                         | Race            | Gender     | College     | School Year |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------- | ----------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Orc             | Non-binary | Prismari    | 2           |
-| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                                     | Tiefling        | Female     | None        | \-          |
-| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Elf             | Non-binary | Silverquill | 2           |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                                                 | Variant Aasimar | Female     | Silverquill | 1           |
-| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Human           | Male       | Prismari    | 1           |
-| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Human           | Female     | Silverquill | 1           |
-| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Half-Orc        | Male       | Lorehold    | 1           |
-| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                                   | Changling       | Non-binary | Silverquill | 2           |
+| File                                                                                                                         | Gender     | Race            | Role    | College     |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                                     | Female     | Tiefling        | Coach   | None        |
+| [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Non-binary | Orc             | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                             | Non-binary | Elf             | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                                   | Non-binary | Changling       | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male       | Human           | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Female     | Human           | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Male       | Half-Orc        | Student | Lorehold    |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                                                 | Female     | Variant Aasimar | Player  | Silverquill |
 
 { .block-language-dataview}
-
-
-

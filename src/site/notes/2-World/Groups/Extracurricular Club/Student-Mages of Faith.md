@@ -1,40 +1,36 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Mages of Faith.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Insight","Skill2":"Religion","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Extracurricular Club/Student-Mages of Faith.md","permalink":"/world/groups/extracurricular-club/student-mages-of-faith/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Mages of Faith.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Insight","Skill2":"Religion","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"clubType":"Academic & Scholarly","dg-path":"World/Groups/Extracurricular Club/Student-Mages of Faith.md","permalink":"/world/groups/extracurricular-club/student-mages-of-faith/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![Mages of Faith.png](/img/user/z_Assets/Extracurriculars/Mages%20of%20Faith.png)
+> [!infobox|left]+
+> # Student-Mages of Faith
+> ![Mages of Faith.png](/img/user/z_Assets/Extracurriculars/Mages%20of%20Faith.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Academic & Scholarly |
+> **Primary Contact:** | Unknown |
 
-# General
+# Description
+The Student-Mages of Faith is a gathering of students dedicated to the exploration of divine magic, spirituality, and belief. The group provides a space for respectful discussion, shared practice, and mutual understanding among followers of different deities and philosophies.
+Meetings often include rituals, meditations, and theological debates, as well as the study of how faith influences magical ability. The organisation encourages open-mindedness, recognising that belief can take many forms and that each perspective offers valuable insight.
+For some, the group is a place of devotion; for others, it is an opportunity to better understand the role of faith within the wider world.
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-**Category:** Extracurricular Club
-**Associated Skills:** Insight, Religion
-
-# Goals
-
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-# Membership
-Upon request or via sign-up at freshers fair
+## Membership
+Students may join the Student-Mages of Faith by signing up during the Freshers Fair or at any time upon request.
+Members are free to engage at their own level, whether through quiet reflection, active participation in rituals, or philosophical discussion. The group welcomes all perspectives, provided they are shared respectfully.
+Experienced members may lead discussions or organise events aligned with their traditions.
 
 # People
 The following people are members of this group.  
-| File                                                                                             | Race    | Gender | College     | School Year |
-| ------------------------------------------------------------------------------------------------ | ------- | ------ | ----------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Firbolg | Female | Lorehold    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Satyr   | Female | Silverquill | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad   | Male   | Witherbloom | 1           |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin   | Female | Silverquill | 1           |
-| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Aasimar | Female | Silverquill | 2           |
+| File                                                                                             | Gender | Race    | Role    | College     |
+| ------------------------------------------------------------------------------------------------ | ------ | ------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Female | Firbolg | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Female | Satyr   | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Female | Aasimar | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad   | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin   | Student | Silverquill |
 
 { .block-language-dataview}
-
-
-

@@ -1,40 +1,36 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Cheer Squad.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Perception","Skill2":"Persuasion","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md","permalink":"/world/groups/extracurricular-club/mage-tower-cheer-squad/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Cheer Squad.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Perception","Skill2":"Persuasion","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"clubType":"Sports & Physical Activities","dg-path":"World/Groups/Extracurricular Club/Mage Tower Cheer Squad.md","permalink":"/world/groups/extracurricular-club/mage-tower-cheer-squad/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![Cheer Squad.png](/img/user/z_Assets/Extracurriculars/Cheer%20Squad.png)
+> [!infobox|left]+
+> # Mage Tower Cheer Squad
+> ![Cheer Squad.png](/img/user/z_Assets/Extracurriculars/Cheer%20Squad.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Sports & Physical Activities |
+> **Primary Contact:** | Unknown |
 
-# General
+# Description
+The Mage Tower Cheer Squad is the beating heart of school spirit at Neverwood Academy. Combining athleticism, performance, and magical flair, the Squad supports intramural teams and major events with high-energy routines designed to inspire and entertain.
+Performances often feature synchronised movement, acrobatics, and carefully controlled spellwork, creating dazzling displays of light, sound, and motion. The Squad plays a central role in fostering unity and enthusiasm across the Academy, particularly during competitive events.
+Though outwardly celebratory, membership requires dedication, precision, and a strong sense of teamwork.
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-**Category:** Extracurricular Club
-**Associated Skills:** Perception, Persuasion
-
-# Goals
-
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-# Membership
-Upon request or via sign-up at freshers fair
+## Membership
+Students may join the Mage Tower Cheer Squad by signing up during the Freshers Fair or at any time upon request.
+Prospective members may be asked to demonstrate basic coordination or performance ability, though enthusiasm and commitment are equally valued. Training sessions focus on synchronisation, stamina, and safe magical execution.
+Members who excel may take on leadership roles within routines or represent the Squad at major Academy functions.
 
 # People
 The following people are members of this group.  
-| File                                                                                     | Race            | Gender     | College     | School Year |
-| ---------------------------------------------------------------------------------------- | --------------- | ---------- | ----------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]] | Elf             | Female     | Silverquill | 4           |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                             | Variant Aasimar | Female     | Silverquill | 1           |
-| [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]     | Firbolg         | Non-binary | Lorehold    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]       | Orc             | Male       | Quandrix    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]       | Fire Genasi     | Male       | Prismari    | 1           |
+| File                                                                                     | Gender     | Race            | Role    | College     |
+| ---------------------------------------------------------------------------------------- | ---------- | --------------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]] | Female     | Elf             | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]     | Non-binary | Firbolg         | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]       | Male       | Orc             | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]       | Male       | Fire Genasi     | Student | Prismari    |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                             | Female     | Variant Aasimar | Player  | Silverquill |
 
 { .block-language-dataview}
-
-
-

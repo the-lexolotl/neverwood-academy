@@ -1,39 +1,35 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"DragonsGuard Historical Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"History","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Extracurricular Club/Dragonsguard Historical Society.md","permalink":"/world/groups/extracurricular-club/dragonsguard-historical-society/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"DragonsGuard Historical Society.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Arcana","Skill2":"History","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"clubType":"Academic & Scholarly","dg-path":"World/Groups/Extracurricular Club/Dragonsguard Historical Society.md","permalink":"/world/groups/extracurricular-club/dragonsguard-historical-society/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![DragonsGuard Historical Society.png](/img/user/z_Assets/Extracurriculars/DragonsGuard%20Historical%20Society.png)
+> [!infobox|left]+
+> # Dragonsguard Historical Society
+> ![DragonsGuard Historical Society.png](/img/user/z_Assets/Extracurriculars/DragonsGuard%20Historical%20Society.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Academic & Scholarly |
+> **Primary Contact:** | Unknown |
 
-# General
+# Description
+The Dragonsguard Historical Society is devoted to the study of ancient history, with a particular focus on legendary conflicts, draconic influence, and the guardians who shaped the world’s past. Members delve into archives, oral traditions, and archaeological sites to uncover truths that are often obscured by time or myth.
+The Society places a strong emphasis on connecting history to the present. Many members believe that understanding past threats—especially those involving dragons and ancient powers—is essential to preparing for those that may yet return.
+Expeditions beyond the Academy grounds are not uncommon, and while officially supervised, these ventures can sometimes lead to unexpected discoveries—and dangers.
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-**Category:** Extracurricular Club
-**Associated Skills:** Arcana, History
-
-# Goals
-
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-# Membership
-Upon request or via sign-up at freshers fair
+## Membership
+Students may join the Dragonsguard Historical Society by signing up during the Freshers Fair or at any time upon request.
+The Society welcomes students with an interest in history, research, and exploration. Members may participate in archival work, field studies, or collaborative investigations into specific historical events.
+Those who demonstrate initiative may be invited to join more advanced expeditions or assist in the preservation of newly uncovered artefacts.
 
 # People
 The following people are members of this group.  
-| File                                                                                     | Race       | Gender | College  | School Year |
-| ---------------------------------------------------------------------------------------- | ---------- | ------ | -------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Loxodon    | Male   | Lorehold | 1           |
-| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]] | Triton     | Male   | Prismari | 2           |
-| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]     | Half-Elf   | Male   | Quandrix | 2           |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                       | Dragonborn | Male   | Quandrix | 1           |
+| File                                                                                     | Gender | Race       | Role    | College  |
+| ---------------------------------------------------------------------------------------- | ------ | ---------- | ------- | -------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]] | Male   | Triton     | Student | Prismari |
+| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]     | Male   | Half-Elf   | Student | Quandrix |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon    | Student | Lorehold |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                       | Male   | Dragonborn | Player  | Quandrix |
 
 { .block-language-dataview}
-
-
-

@@ -1,43 +1,39 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dragonchess.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Deception","Skill2":"Investigation","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Extracurricular Club/Dragonchess Club.md","permalink":"/world/groups/extracurricular-club/dragonchess-club/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Dragonchess.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Deception","Skill2":"Investigation","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"clubType":"Games & Recreational","dg-path":"World/Groups/Extracurricular Club/Dragonchess Club.md","permalink":"/world/groups/extracurricular-club/dragonchess-club/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
-![Dragonchess.png](/img/user/z_Assets/Extracurriculars/Dragonchess.png)
+> [!infobox|left]+
+> # Dragonchess Club
+> ![Dragonchess.png](/img/user/z_Assets/Extracurriculars/Dragonchess.png)
+> ###### General Information
+> Stat  |  Value |
+> ---|---|
+> **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
+> **Category:** | Games & Recreational |
+> **Primary Contact:** | Unknown |
 
-# General
+# Description
+The Dragonchess Club is dedicated to the mastery of Dragonchess, a complex and multilayered strategy game that tests intellect, foresight, and adaptability. Played across multiple boards or planes, the game requires players to think several moves ahead while accounting for shifting conditions and magical interference.
+Club meetings often involve both casual play and intense competitive matches, with members analysing past games, developing strategies, and debating optimal approaches. Illusory boards and animated pieces are frequently used, bringing matches to life in dramatic fashion.
+For some, Dragonchess is a pastime; for others, it is a discipline bordering on obsession. The Club has produced some of the Academy’s most formidable strategic minds.
 
-**Location:** [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]
-**Category:** Extracurricular Club
-**Associated Skills:** Deception, Investigation
-
-# Goals
-
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
-
-# Membership
-Upon request or via sign-up at freshers fair
+## Membership
+Students may join the Dragonchess Club by signing up during the Freshers Fair or at any time upon request.
+Players of all skill levels are welcome, with experienced members often mentoring newcomers in the rules and strategies of the game. Regular internal tournaments provide opportunities for progression, while top players may go on to represent the Academy in intercollegiate competitions.
+Dedication and patience are highly valued, as mastery of Dragonchess is considered a long-term pursuit.
 
 # People
 The following people are members of this group.  
-| File                                                                                         | Race     | Gender     | College     | School Year |
-| -------------------------------------------------------------------------------------------- | -------- | ---------- | ----------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]   | Hexblood | Female     | Witherbloom | 1           |
-| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]         | Loxodon  | Male       | Lorehold    | 1           |
-| [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]             | Aasimar  | Male       | Prismari    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Tiefling | Male       | Witherbloom | 2           |
-| [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]     | Half-Elf | Female     | Lorehold    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]] | Reborn   | Female     | Witherbloom | 1           |
-| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Kenku    | Non-binary | Quandrix    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]           | Human    | Female     | Quandrix    | 1           |
+| File                                                                                         | Gender     | Race     | Role    | College     |
+| -------------------------------------------------------------------------------------------- | ---------- | -------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]             | Male       | Aasimar  | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Male       | Tiefling | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]     | Female     | Half-Elf | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Non-binary | Kenku    | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]   | Female     | Hexblood | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]         | Male       | Loxodon  | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]] | Female     | Reborn   | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]           | Female     | Human    | Student | Quandrix    |
 
 { .block-language-dataview}
-
-
-
