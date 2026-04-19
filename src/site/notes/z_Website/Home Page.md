@@ -14,7 +14,6 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
 
 ---
-
 ## 🧭 Student Resources
 
 | ![Player Characters.png](/img/user/z_Assets/website/Player%20Characters.png) | ![Cohorts.png](/img/user/z_Assets/website/Cohorts.png) | ![Handouts.png](/img/user/z_Assets/website/Handouts.png)   | ![Appointments.png](/img/user/z_Assets/website/Appointments.png)                 |
