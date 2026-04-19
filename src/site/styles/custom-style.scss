@@ -366,12 +366,17 @@ input[type="checkbox"]:checked::after {
     isolation: isolate;
     mix-blend-mode: normal !important;
 }
-.callout[data-callout="infobox"] ~ h2:first-of-type {
-    clear: none;
-}
-.callout[data-callout="infobox"] ~ h2:first-of-type ~ h2 {
-    clear: both;
-    padding-top: 0.5rem;
+/* Minimum overlap rule — headings near the bottom of the infobox get pushed below.
+   display: flow-root on each heading means it won't start a new line partially
+   overlapping the float — if less than its own height fits, it clears below.
+   This is the closest pure CSS can get to dynamic float-gap detection. */
+.callout[data-callout="infobox"] ~ h2,
+.callout[data-callout="infobox"] ~ h3,
+.callout[data-callout="infobox"] ~ h4,
+.callout[data-callout="infobox"] ~ h5,
+.callout[data-callout="infobox"] ~ h6 {
+    display: flow-root;
+    margin-top: 0.5em;
 }
 
 /* ==============================
