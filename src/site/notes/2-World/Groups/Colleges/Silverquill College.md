@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Shadrix Silverquill"],"deans":["Shaile Talonrook","Embrose Lu"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Silverquill College.md","permalink":"/world/groups/colleges/silverquill-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.5-silverquill-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["[[Shadrix SIlverquill]]"],"deans":["[[Shaile Talonrook]]","[[Embrose Lu]]"],"staff":["Breena","Nils","Brenneth Blackstone","Fain","Mavinda Sharpbeak","Helios Sunmane","Liv Brandford","Luc Brandford","Sace Solindiel","Smart Mouth"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Silverquill College.md","permalink":"/world/groups/colleges/silverquill-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -12,8 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | College |
 > **Academic Specialty:** | Rhetorical Spellcraft |
-> **Founding Dragon:** | Shadrix Silverquill |
-> **Current Deans:** | Shaile Talonrook,Embrose Lu |
+> **Founding Dragon:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]] |
+> **Current Deans:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]] |
 > **Studies Overview** | The study of communication magic, specialising in rhetoric, written and spoken expression, and the dual use of light and shadow to influence perception, emotion, and thought. |
 
 # Description
@@ -36,8 +36,8 @@ At the end of the year, students may apply to Silverquill College, typically sub
 Members are expected to refine their voice, develop their personal style, and understand the impact of their words. Silverquill students often collaborate with others across the Academy, using their skills to enhance both academic and creative pursuits.
 
 # Hierarchy
-**Founding Dragon:** Shadrix Silverquill
-**Current Deans:** Shaile Talonrook,Embrose Lu
+**Founding Dragon:** [[2-World/People/Neverwood Academy/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]]
+**Current Deans:** [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]
 **Current Staff:**  Breena,Nils,Brenneth Blackstone,Fain,Mavinda Sharpbeak,Helios Sunmane,Liv Brandford,Luc Brandford,Sace Solindiel,Smart Mouth
 
 # People

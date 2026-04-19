@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3 -prismari-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Galazeth Prismari"],"deans":["Uvilda Mistcoiler","Nassari"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Prismari College.md","permalink":"/world/groups/colleges/prismari-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.3 -prismari-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["[[Galazeth Prismari]]"],"deans":["[[Uvilda Mistcoiler]]","[[Nassari]]"],"staff":["Veyran","Zaffai","Arkin Minexes","Ahkwa","Ignaria Kahfi","Rock","Zeph"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Prismari College.md","permalink":"/world/groups/colleges/prismari-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -12,8 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | College |
 > **Academic Specialty:** | Elemental Performance Magic |
-> **Founding Dragon:** | Galazeth Prismari |
-> **Current Deans:** | Uvilda Mistcoiler,Nassari |
+> **Founding Dragon:** | [[2-World/People/Neverwood Academy/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]] |
+> **Current Deans:** | [[2-World/People/Neverwood Academy/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]],[[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]] |
 > **Studies Overview** | Expressive elemental magic, combining spellcasting with artistic performance, focusing on the manipulation of fire, water, air, and earth as mediums for creative and destructive expression. |
 
 # Description
@@ -36,8 +36,8 @@ Students may apply to Prismari College toward the end of their first year, often
 Once admitted, members are encouraged to collaborate, experiment, and push the boundaries of their craft. Prismari values both technical growth and authentic self-expression, and students are expected to develop both in equal measure.
 
 # Hierarchy
-**Founding Dragon:** Galazeth Prismari
-**Current Deans:** Uvilda Mistcoiler,Nassari
+**Founding Dragon:** [[2-World/People/Neverwood Academy/Staff/Prismari/Galazeth Prismari\|Galazeth Prismari]]
+**Current Deans:** [[2-World/People/Neverwood Academy/Staff/Prismari/Uvilda Mistcoiler\|Uvilda Mistcoiler]],[[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]
 **Current Staff:**  Veyran,Zaffai,Arkin Minexes,Ahkwa,Ignaria Kahfi,Rock,Zeph
 
 # People

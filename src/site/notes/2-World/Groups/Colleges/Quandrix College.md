@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.4-quandrix-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":"John Doe","founder":["Tanazir Quandrix"],"deans":["Kianne","Imbraham"],"staff":["Adrix","Nev","Deekah","Bildra Forheim","Clem Greenthumb","Jazzack Quickfood","Ronald Rothton","Rixy"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Quandrix College.md","permalink":"/world/groups/colleges/quandrix-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.4-quandrix-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":"John Doe","founder":["[[Tanazir Quandrix]]"],"deans":["[[Imbraham]]","[[Kianne]]"],"staff":["Adrix","Nev","Deekah","Bildra Forheim","Clem Greenthumb","Jazzack Quickfood","Ronald Rothton","Rixy"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Quandrix College.md","permalink":"/world/groups/colleges/quandrix-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -12,8 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | College |
 > **Academic Specialty:** | Arcane Mathematics |
-> **Founding Dragon:** | Tanazir Quandrix |
-> **Current Deans:** | Kianne,Imbraham |
+> **Founding Dragon:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]] |
+> **Current Deans:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]],[[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]] |
 > **Studies Overview** | Mathematical and theoretical magic, exploring the underlying patterns of reality through geometry, probability, fractal structures, and the formal logic of arcane systems. |
 
 # Description
@@ -36,8 +36,8 @@ Applications to Quandrix are made at the end of the first year, with students ex
 Membership involves collaboration, experimentation, and the exploration of both theoretical and practical applications of mathematical magic. Students are expected to approach their studies with precision, curiosity, and a willingness to engage with complex and often uncertain ideas.
 
 # Hierarchy
-**Founding Dragon:** Tanazir Quandrix
-**Current Deans:** Kianne,Imbraham
+**Founding Dragon:** [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]
+**Current Deans:** [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]],[[2-World/People/Neverwood Academy/Staff/Quandrix/Kianne\|Kianne]]
 **Current Staff:**  Adrix,Nev,Deekah,Bildra Forheim,Clem Greenthumb,Jazzack Quickfood,Ronald Rothton,Rixy
 
 # People

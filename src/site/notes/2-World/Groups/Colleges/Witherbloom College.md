@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Beledros Witherbloom"],"deans":["Lissette","Valentin"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Witherbloom College.md","permalink":"/world/groups/colleges/witherbloom-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.6-witherbloom-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["[[Beledros Witherbloom]]"],"deans":["[[Lissette]]","[[Valentin]]"],"staff":["Willowdusk","Tivash","Verelda Lang","Serafina Onyx","Asana Vargundil","Kojil the Tamer","Venoc Plaguescale","Verooja"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Witherbloom College.md","permalink":"/world/groups/colleges/witherbloom-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -12,8 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | College |
 > **Academic Specialty:** | Life Cycle Magic |
-> **Founding Dragon:** | Beledros Witherbloom |
-> **Current Deans:** | Lissette,Valentin |
+> **Founding Dragon:** | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]] |
+> **Current Deans:** | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Lissette\|Lissette]],[[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]] |
 > **Studies Overview** | Natural and life-cycle magic, focusing on biological systems, ecology, healing, decay, and the balance between growth and entropy through alchemical and primal study. |
 
 # Description
@@ -36,8 +36,8 @@ Applications are made toward the end of the first year, with students demonstrat
 Membership involves direct interaction with living systems and magical energies, requiring responsibility, resilience, and respect for the balance between life and death.
 
 # Hierarchy
-**Founding Dragon:** Beledros Witherbloom
-**Current Deans:** Lissette,Valentin
+**Founding Dragon:** [[2-World/People/Neverwood Academy/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]]
+**Current Deans:** [[2-World/People/Neverwood Academy/Staff/Witherbloom/Lissette\|Lissette]],[[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]
 **Current Staff:**  Willowdusk,Tivash,Verelda Lang,Serafina Onyx,Asana Vargundil,Kojil the Tamer,Venoc Plaguescale,Verooja
 
 # People

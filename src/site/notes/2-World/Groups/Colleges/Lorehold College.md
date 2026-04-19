@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["Velomachus Lorehold"],"deans":["Augusta Tullus","Plargg"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"College","image":"map-1.2-lorehold-campus.jpg","obsidianUIMode":"preview","faction":null,"primary_contact":null,"founder":["[[Velomachus Lorehold]]"],"deans":["[[Augusta Tullus]]","[[Plargg]]"],"staff":["Hofri Ghostforge","Losheel","Hazkire Ravenfang","Lianna Flametongue","Marrick Deepfindee","Riri Brighteye","Tervis Sharpwing","Xyla Langning"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Groups/Colleges/Lorehold College.md","permalink":"/world/groups/colleges/lorehold-college/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -12,8 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | College |
 > **Academic Specialty:** | Historical Archaeomancy |
-> **Founding Dragon:** | Velomachus Lorehold |
-> **Current Deans:** | Augusta Tullus,Plargg |
+> **Founding Dragon:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]] |
+> **Current Deans:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]],[[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]] |
 > **Studies Overview** | The study of history through magical archaeology, with a focus on ancient civilisations, relic analysis, and the reconstruction of lost knowledge through arcane and physical evidence. |
 
 # Description
@@ -36,8 +36,8 @@ At the end of their first year, students may apply to join Lorehold College, dem
 Lorehold students often participate in fieldwork, archival research, and interdisciplinary projects, frequently collaborating with other colleges in areas such as art history or cultural studies. Membership carries an expectation of curiosity, initiative, and a willingness to challenge established narratives.
 
 # Hierarchy
-**Founding Dragon:** Velomachus Lorehold
-**Current Deans:** Augusta Tullus,Plargg
+**Founding Dragon:** [[2-World/People/Neverwood Academy/Staff/Lorehold/Velomachus Lorehold\|Velomachus Lorehold]]
+**Current Deans:** [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]],[[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]
 **Current Staff:**  Hofri Ghostforge,Losheel,Hazkire Ravenfang,Lianna Flametongue,Marrick Deepfindee,Riri Brighteye,Tervis Sharpwing,Xyla Langning
 
 # People
