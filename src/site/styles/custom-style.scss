@@ -3,11 +3,8 @@
    Brand: Dark Modern
    Text Color: #c5c7a1 everywhere
    Background: #323244
-   Fonts: Distillery Strong (headings), Diphylleia (body)
+   Fonts: Metamorphous (headings), Diphylleia (body)
 ============================== */
-
-/* --- Load Diphylleia via @import --- */
-@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
 
 /* --- Load fonts via Google Fonts --- */
 @import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Metamorphous&display=swap');
@@ -25,7 +22,7 @@ body {
 /* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Metamorphous', cursive !important;
-    color: #9b9d79 !important; /* slightly darker */
+    color: #9b9d79 !important;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
     text-decoration: underline;
@@ -33,14 +30,12 @@ h1, h2, h3, h4, h5, h6 {
     text-underline-offset: 4px;
 }
 
-/* Bigger sizes */
 h1 { font-size: 2.5em; }
 h2 { font-size: 2em; }
 h3 { font-size: 1.75em; }
 h4 { font-size: 1.5em; }
 h5 { font-size: 1.25em; }
 h6 { font-size: 1em; }
-
 
 /* --- Force all text elements to brand color --- */
 body, p, span, a, li, blockquote, code, pre, input, textarea, button, label, td, th {
@@ -49,7 +44,7 @@ body, p, span, a, li, blockquote, code, pre, input, textarea, button, label, td,
 
 /* --- Links with padding --- */
 body a {
-    padding-left: 0.3em; /* adds space only on the left */
+    padding-left: 0.3em;
 }
 
 /* --- Links --- */
@@ -137,19 +132,101 @@ button:hover, .btn:hover, .tag:hover, .badge:hover {
     background-color: #7d7dcf;
 }
 
-/* --- Expand content when right sidebar is hidden --- */
-body:not(:has(.sidebar)) .content,
-body:has(.sidebar[style*="display: none"]) .content,
-body:has(.sidebar[style*="display:none"]) .content {
-    max-width: 1100px !important;
-    margin-left: 320px !important;
-    margin-right: 50px !important;
-}
-
-/* --- Misc Spacing & Responsiveness --- */
+/* --- Misc Spacing --- */
 p { margin-bottom: 1em; }
 ul, ol { margin-bottom: 1em; padding-left: 1.5em; }
 img { max-width: 100%; border-radius: 8px; }
+
+/* ==============================
+   LAYOUT — RESPONSIVE
+============================== */
+
+/* --- Left file tree sidebar --- */
+.filetree-sidebar {
+    width: 250px !important;
+}
+
+/* --- Add logo image to top of left sidebar --- */
+.filetree-sidebar::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 80px;
+    background-image: url('/img/user/z_Assets/website/Light tran logo.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.filetree-sidebar h1 {
+    margin-top: -5px !important;
+}
+
+/* --- Right sidebar --- */
+.sidebar {
+    max-width: 300px !important;
+    right: 7px !important;
+    top: 50px !important;
+}
+
+.sidebar-container {
+    padding-right: 10px !important;
+}
+
+.sidebar .graph {
+    width: 270px !important;
+    min-height: 270px !important;
+    margin-top: -10px !important;
+    margin-bottom: 40px !important;
+}
+
+.sidebar .graph #link-graph {
+    width: 260px !important;
+    height: 260px !important;
+}
+
+/* --- Main content area ---
+   Uses clamp() to scale gracefully between screen sizes.
+   On a 27" (~2560px): content fills the space between sidebars without excess right padding.
+   On a 15" (~1440px): content stays comfortably readable.
+   The calc accounts for: 250px left sidebar + 300px right sidebar + gutters.
+------------------------------------- */
+.content {
+    margin-left: 300px !important;
+    margin-right: auto !important;
+    max-width: clamp(600px, calc(100vw - 620px), 1200px) !important;
+    padding-right: 2em !important;
+    margin-top: 60px !important;
+}
+
+/* --- When right sidebar is hidden, allow content to expand further --- */
+body:not(:has(.sidebar)) .content,
+body:has(.sidebar[style*="display: none"]) .content,
+body:has(.sidebar[style*="display:none"]) .content {
+    max-width: clamp(600px, calc(100vw - 320px), 1400px) !important;
+    margin-right: 50px !important;
+}
+
+/* --- Mid-size screens: let content reflow naturally --- */
+@media (max-width: 1400px) {
+    .content {
+        margin-left: auto !important;
+        max-width: calc(100vw - 340px) !important;
+        padding-right: 1.5em !important;
+    }
+}
+
+/* --- Tablet and mobile --- */
+@media (max-width: 800px) {
+    .content {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        max-width: 100% !important;
+        padding-right: 1em !important;
+        margin-top: 60px !important;
+    }
+}
 
 @media (max-width: 768px) {
     body { padding: 0 0.5em; }
@@ -158,123 +235,12 @@ img { max-width: 100%; border-radius: 8px; }
     h3 { font-size: 1.5em; }
 }
 
-/* --- Smooth Transitions --- */
-* {
-    transition: color 0.2s ease, background-color 0.2s ease;
-}
-
-/* --- Reduce spacing between file tree and main content --- */
-.filetree-sidebar {
-    width: 250px !important; /* Reduce sidebar width if desired */
-}
-
-.content {
-    margin-left: 300px !important; /* Adjust to match sidebar width + desired gap */
-}
-
-@media (max-width: 1400px) {
-    .content {
-        margin-left: auto !important; /* Reset on smaller screens */
-    }
-}
-
-/* --- Add image to top of sidebar --- */
-.filetree-sidebar::before {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 80px; /* Adjust height as needed */
-    background-image: url('/img/user/z_Assets/website/Light tran logo.png');
-    background-size: contain; /* or 'contain' depending on your preference */
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-bottom: 10px;
-    border-radius: 8px; /* Optional: rounds the corners */
-}
-.filetree-sidebar h1 {
-    margin-top: -5px !important;
-}
-
-/* --- Make right sidebar smaller --- */
-.sidebar {
-    max-width: 300px !important; /* Reduced from 350px */
-}
-
-.sidebar .graph {
-    width: 270px !important; /* Reduced from 320px */
-    min-height: 270px !important; /* Reduced from 320px */
-}
-
-.sidebar .graph #link-graph {
-    width: 260px !important;
-    height: 260px !important;
-}
-
-/* --- Reduce top padding on content --- */
-.content {
-    margin-top: 60px !important; /* Reduced from 90px */
-}
-
-@media (max-width: 800px) {
-    .content {
-        margin-top: 60px !important; /* Reduced from 75px on mobile */
-    }
-}
-
-/* --- Add padding under the graph --- */
-.sidebar .graph {
-    margin-bottom: 40px !important; /* Add space below graph */
-}
-/* --- Custom scrollbar styling --- */
-/* For Webkit browsers (Chrome, Safari, Edge) */
-::-webkit-scrollbar {
-    width: 12px; /* Width of vertical scrollbar */
-    height: 12px; /* Height of horizontal scrollbar */
-}
-
-::-webkit-scrollbar-track {
-    background: #323244; /* Matches your background */
-}
-
-::-webkit-scrollbar-thumb {
-    background: #5c5ca0; /* Matches your accent color */
-    border-radius: 6px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #7d7dcf; /* Lighter on hover */
-}
-
-/* For Firefox */
-* {
-    scrollbar-width: thin;
-    scrollbar-color: #5c5ca0 #323244; /* thumb color, track color */
-}
-
-/* --- Move graph higher in sidebar --- */
-.sidebar {
-    top: 50px !important; /* Reduced from 75px */
-}
-
-.sidebar .graph {
-    margin-top: -10px !important; /* Pulls graph up within sidebar */
-}
-
-/* --- Reduce right padding on right sidebar --- */
-.sidebar {
-    right: 7px !important; /* Reduced from 17px */
-}
-
-.sidebar-container {
-    padding-right: 10px !important; /* Reduced from 20px */
-}
-
-/* --- Adjust fullscreen/expanded graph size --- */
+/* --- Fullscreen/expanded graph size --- */
 .sidebar .graph-fs,
 #full-graph {
-    height: calc(100vmin - 50px) !important; /* Reduced from 100px */
+    height: calc(100vmin - 50px) !important;
     width: calc(100vmin - 50px) !important;
-    min-height: 500px !important; /* Increased from 350px */
+    min-height: 500px !important;
     min-width: 500px !important;
 }
 
@@ -284,41 +250,60 @@ img { max-width: 100%; border-radius: 8px; }
     height: 100% !important;
 }
 
-/* --- Fix graph rendering and change colours --- */
+/* ==============================
+   GRAPH COLOURS & RENDERING FIX
+============================== */
+
 /* Override graph colour variables */
 body {
-    --graph-main: #9b9d79 !important; /* Main node color */
-    --graph-muted: #5c5ca0 !important; /* Link/connection color */
+    --graph-main: #9b9d79 !important;
+    --graph-muted: #5c5ca0 !important;
 }
 
-/* Remove transitions from everything to fix graph */
+/* Strip transitions globally to fix graph rendering jank,
+   then restore them only on elements that need it */
 * {
     transition: none !important;
 }
 
-/* Add back transitions only where needed */
-body, p, a, button, .btn, h1, h2, h3, h4, h5, h6, 
+body, p, a, button, .btn, h1, h2, h3, h4, h5, h6,
 .garden-card, .note-card, .block {
     transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease !important;
 }
 
-/* Ensure graph containers don't have transitions */
+/* Ensure graph containers have no transitions */
 #link-graph, #full-graph-container, .graph, canvas, svg {
     transition: none !important;
 }
 
-/* --- Force smaller nodes if variable doesn't work --- */
-#link-graph circle,
-#full-graph-container circle,
-.graph circle {
-    r: 3 !important;
+/* ==============================
+   SCROLLBAR STYLING
+============================== */
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+::-webkit-scrollbar-track {
+    background: #323244;
+}
+::-webkit-scrollbar-thumb {
+    background: #5c5ca0;
+    border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #7d7dcf;
 }
 
-/* Also try targeting with attribute selector */
-circle[r] {
-    r: 3 !important;
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #5c5ca0 #323244;
 }
-/* Custom Checkbox Styling */
+
+/* ==============================
+   CUSTOM CHECKBOX STYLING
+============================== */
+
 input[type="checkbox"] {
     appearance: none;
     -webkit-appearance: none;
@@ -333,11 +318,9 @@ input[type="checkbox"] {
     pointer-events: none;
     vertical-align: middle;
 }
-
 input[type="checkbox"]:checked {
     background-color: #323244 !important;
 }
-
 input[type="checkbox"]:checked::after {
     content: "✓";
     position: absolute;
@@ -349,75 +332,61 @@ input[type="checkbox"]:checked::after {
     transform: translate(-50%, -50%);
 }
 
-/* Infobox styling */
-.callout[data-callout="infobox"] {
-  float: left;
-  clear: left;
-  width: 500px; /* Adjust width as needed */
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-}
-
-/* Right-aligned infobox variant */
-.callout[data-callout="infobox"][data-callout-metadata*="right"] {
-  float: right;
-  clear: right;
-  margin-right: 0;
-  margin-left: 1rem;
-}
-
-/* Center-aligned infobox variant (if you want this option) */
-.callout[data-callout="infobox"][data-callout-metadata*="center"] {
-  float: none;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Clear floats after content */
-.callout[data-callout="infobox"] ~ * {
-  display: flow-root;
-}
-
-/* Fix dulled images in infobox - override blend mode */
-.callout[data-callout="infobox"] img,
-.callout[data-callout="infobox"] .image-embed {
-  mix-blend-mode: normal !important;
-}
-
-/* Also ensure the callout itself doesn't apply blend mode to contents */
-.callout[data-callout="infobox"] {
-  --callout-blend-mode: normal !important;
-}
-
-/* If images are still affected, isolate them */
-.callout[data-callout="infobox"] img {
-  isolation: isolate;
-  mix-blend-mode: normal !important;
-}
-
-/* Ensure Biography section wraps next to infobox */
-.callout[data-callout="infobox"] ~ h2:first-of-type {
-  clear: none;
-}
-
-/* Force Appearance (second h2) to clear below the infobox */
-.callout[data-callout="infobox"] ~ h2:first-of-type ~ h2 {
-  clear: both;
-  padding-top: 0.5rem; /* Optional: adds space between sections */
-}
-
-/* ============================== 
-   HOMEPAGE-SPECIFIC STYLES 
+/* ==============================
+   INFOBOX CALLOUT STYLING
 ============================== */
 
-/* Remove top margin on content for homepage */
+.callout[data-callout="infobox"] {
+    float: left;
+    clear: left;
+    width: 500px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.callout[data-callout="infobox"][data-callout-metadata*="right"] {
+    float: right;
+    clear: right;
+    margin-right: 0;
+    margin-left: 1rem;
+}
+.callout[data-callout="infobox"][data-callout-metadata*="center"] {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.callout[data-callout="infobox"] ~ * {
+    display: flow-root;
+}
+.callout[data-callout="infobox"] img,
+.callout[data-callout="infobox"] .image-embed {
+    mix-blend-mode: normal !important;
+}
+.callout[data-callout="infobox"] {
+    --callout-blend-mode: normal !important;
+}
+.callout[data-callout="infobox"] img {
+    isolation: isolate;
+    mix-blend-mode: normal !important;
+}
+.callout[data-callout="infobox"] ~ h2:first-of-type {
+    clear: none;
+}
+.callout[data-callout="infobox"] ~ h2:first-of-type ~ h2 {
+    clear: both;
+    padding-top: 0.5rem;
+}
+
+/* ==============================
+   HOMEPAGE-SPECIFIC STYLES
+============================== */
+
 .homepage.content,
 body:has(.homepage) .content {
     margin-top: 0 !important;
     padding-top: 0 !important;
 }
 
-/* Add banner image at top of homepage */
+/* Banner image at top of homepage */
 .homepage::before {
     content: "";
     display: block;
@@ -434,26 +403,19 @@ body:has(.homepage) .content {
     border-radius: 0;
 }
 
-/* Center h1 and h3 on homepage only */
 .homepage h1,
 .homepage h3 {
     text-align: center;
 }
-
-/* Remove padding between h1 and h3 on homepage */
 .homepage h1 {
     margin-bottom: 0 !important;
 }
-
 .homepage h3 {
     margin-top: 0 !important;
 }
-
-/* Force even table column spacing on homepage */
 .homepage table {
     table-layout: fixed;
 }
-
 .homepage th,
 .homepage td {
     width: auto;
