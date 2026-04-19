@@ -32,8 +32,8 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | File                                                                                                                                         | Date Obtained | Category     | Associated NPCs                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------ | ------------------------------------------------------------------------------------------------- |
 | [[2-Player Handouts/Others/Neverwinter Pubs, Inns & Taverns\|Neverwinter Pubs, Inns & Taverns]]                                           | 01 Nov, 2025  | Travel Guide | \-                                                                                                |
-| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  | Book         | <ul><li>[[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon.md\\|Eb Zenithon]]</li></ul> |
 | [[2-Player Handouts/Others/Folly Guide - Neverwinter\|Folly Guide - Neverwinter]]                                                         | 24 Jan, 2026  | Book         | <ul><li>[[2-World/People/Other/Whalebucks/Tolan Whalewake.md\\|Tolan Whalewake]]</li></ul>        |
+| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  | Book         | <ul><li>[[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon.md\\|Eb Zenithon]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -57,25 +57,25 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]        | Changling       | Female | Tavern Founder      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                            | Owlin           | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]      | Elf             | Female | Tavern Founder      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                        | Human           | Male   | Tavern Manager      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]      | Elf             | Female | Tavern Founder      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]]      | Kor             | Male   | Tavern Ghost        |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]            | Elf             | Male   | Tavern Founder      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]      | Human           | Male   | Tavern Founder      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                | Loxodon         | Male   | Tavern Manager      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                          | Burrog          | Male   | Other               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                          | Automaton       | Other  | Tavern Manager      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                | Loxodon         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder      |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                          | Automaton       | Other  | Tavern Manager      |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human           | Male   | Professor of Chaos  |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human           | Male   | Deputy Head Teacher |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player              |
 | [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player              |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player              |
-| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player              |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player              |
+| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player              |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player              |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                           | Aarakocra       | Female | Player              |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                              | Dragonborn      | Male   | Player              |
 

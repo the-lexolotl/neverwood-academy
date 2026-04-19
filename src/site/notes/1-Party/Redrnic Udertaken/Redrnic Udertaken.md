@@ -1,5 +1,5 @@
 ---
-{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -10,10 +10,18 @@
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Minotaur | **Gender** | Male |
-> **Class** | Barbarian,Blood Hunter | **Age** | Young Adult |
-> **Subclass** | None | **Languages** | Common,Goblin |
-> **Level** | 3 | **College** | Lorehold |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Barbarian,Blood Hunter | **Subclass** | `= this.subclass` | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Goblin 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Lorehold | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 2]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -154,8 +162,8 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 # Academics
 ### Counsellors
-| Osgir, the Reconstructor | Tervis Sharpwing |
-|--------------------------|------------------|
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]] |
+| ---------------------------- | -------------------- |
 ### Grades & Timetables
 
 | [[1-Party/Redrnic Udertaken/Year 1\|Year 1]] | [[1-Party/Redrnic Udertaken/Year 2\|Year 2]] | [[1-Party/Redrnic Udertaken/Year 3\|Year 3]] | [[1-Party/Redrnic Udertaken/Year 4\|Year 4]] |

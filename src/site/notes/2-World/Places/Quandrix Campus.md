@@ -35,8 +35,8 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                            | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfood\|Jazzack Quickfood]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfoot\|Jazzack Quickfoot]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
@@ -58,9 +58,9 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
+| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
 | [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
-| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
 
 { .block-language-dataview}
 

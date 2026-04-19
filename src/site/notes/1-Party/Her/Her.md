@@ -1,5 +1,5 @@
 ---
-{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":3,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Storm Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Her/Her.md","permalink":"/party/her/her/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Rain"],"tags":["Category/Player"],"Player":"Rain","Role":"Player","level":3,"hp":14,"max_hp":14,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Giant","Infernal","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Tiefling","char_class":"Sorcerer","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Colours in Chaos|Colours in Chaos]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md\|Group 2]]","[[Distinguished Society of Fine Artists|Distinguished Society of Fine Artists]]"],"parents":null,"partner":["[[Elandra Stormwhisper]]"],"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Rain.png","char_role":"Player","char_college":"Prismari","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Storm Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 1]]","dg-path":"Party/Her/Her.md","permalink":"/party/her/her/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -10,10 +10,18 @@
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Tiefling | **Gender** | Female |
-> **Class** | Sorcerer | **Age** | Young Adult |
-> **Subclass** | Storm Sorcery | **Languages** | Common,Draconic,Giant,Infernal,Primordial |
-> **Level** | 3 | **College** | Prismari |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Sorcerer | **Subclass** | Storm Sorcery | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Draconic,Giant,Infernal,Primordial 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Prismari | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 1]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -146,8 +154,8 @@
 
 # Academics
 ### Counsellors
-| Zaffai | Zaph |
-|--------|------|
+| [[2-World/People/Neverwood Academy/Staff/Prismari/Zaffai\|Zaffai]] | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]] |
+| ---------- | -------- |
 ### Grades & Timetables
 
 | [[1-Party/Her/Year 1\|Year 1]] | [[1-Party/Her/Year 2\|Year 2]] | [[1-Party/Her/Year 3\|Year 3]] | [[1-Party/Her/Year 4\|Year 4]] |

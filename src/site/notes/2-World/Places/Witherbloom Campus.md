@@ -40,8 +40,8 @@ The atmosphere is heavy, humid, and deeply alive. Sounds carry strangely through
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]       | Dragonborn   | Male       | Professor of Decay  |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Asana Vargundil\|Asana Vargundil]]           | Elf          | Female     | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]]           | Firbolg      | Male       | Professor of Growth |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                           | Loxodon      | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                 | Dryad        | Female     | Professor of Growth |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                           | Loxodon      | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                     | Treant       | Female     | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]             | Gorgon       | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]             | Human        | Male       | Student             |

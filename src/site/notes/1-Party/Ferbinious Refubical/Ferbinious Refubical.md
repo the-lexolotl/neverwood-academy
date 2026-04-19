@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":null,"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -9,10 +9,18 @@
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Halfling | **Gender** | Male |
-> **Class** | Sorcerer | **Age** | Young Adult |
-> **Subclass** | Aberrant Sorcery | **Languages** | Common,Common Sign Language,Dwarvish,Giant,Gnomish |
-> **Level** | 3 | **College** | Lorehold |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Sorcerer | **Subclass** | Aberrant Sorcery | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Common Sign Language,Dwarvish,Giant,Gnomish 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Lorehold | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 3]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -130,8 +138,8 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 
 # Academics
 ### Counsellors
-| Hofri Ghostforge | Marrick Deepfinder |
-|------------------|--------------------|
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]] | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]] |
+| -------------------- | ---------------------- | 
 
 ### Grades & Timetables
 

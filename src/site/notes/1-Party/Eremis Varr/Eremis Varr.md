@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":17,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","dg-publish":true,"dg-pinned":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Eremis Varr/Eremis Varr.md","permalink":"/party/eremis-varr/eremis-varr/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":17,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","dg-publish":true,"dg-pinned":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 1]]","dg-path":"Party/Eremis Varr/Eremis Varr.md","permalink":"/party/eremis-varr/eremis-varr/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -9,10 +9,18 @@
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Kobold | **Gender** | Female |
-> **Class** | Cleric | **Age** | Young Adult |
-> **Subclass** | Peace Domain | **Languages** | Common,Draconic,Primordial,Sylvan |
-> **Level** | 3 | **College** | Silverquill |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Cleric | **Subclass** | Peace Domain | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Draconic,Primordial,Sylvan 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Silverquill | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 1]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -123,8 +131,8 @@
 
 # Academics
 ### Counsellors
-| Smart Mouth | Liv Brandford |
-|-------------|---------------|
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]] | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]] |
+| --------------- | ----------------- |
 
 ### Grades & Timetables
 

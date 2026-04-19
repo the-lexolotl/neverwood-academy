@@ -111,8 +111,8 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                      | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                            | Halfling        | Female | Applicant             |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Human           | Male   | Player                |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
 | [[1-Party/Her/Her\|Her]]                                                                    | Tiefling        | Female | Player                |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player                |

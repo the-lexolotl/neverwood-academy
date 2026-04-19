@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Socks]]"],"grandparents":["[[Reynard Blackstone]]"],"subclass":["Order of Scribes"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":13,"pasinvest":17,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Harry Blackstone/Harry Blackstone.md","permalink":"/party/harry-blackstone/harry-blackstone/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 2/Group 2.md|Group 2]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"pets":["[[Socks]]"],"grandparents":["[[Reynard Blackstone]]"],"subclass":["Order of Scribes"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":13,"pasinvest":17,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 1]]","dg-path":"Party/Harry Blackstone/Harry Blackstone.md","permalink":"/party/harry-blackstone/harry-blackstone/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -10,10 +10,18 @@
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Human | **Gender** | Male |
-> **Class** | Wizard | **Age** | Young Adult |
-> **Subclass** | Order of Scribes | **Languages** | Common,Common Sign Language |
-> **Level** | 3 | **College** | Quandrix |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Wizard | **Subclass** | Order of Scribes | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Common Sign Language 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Quandrix | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 1]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -163,8 +171,8 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 # Academics
 ### Counsellors
-| Adrix | Nev |
-|-------|-----|
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]] | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]] |
+| --------- | ------- |
 ### Grades & Timetables
 
 | [[1-Party/Harry Blackstone/Year 1\|Year 1]] | [[1-Party/Harry Blackstone/Year 2\|Year 2]] | [[1-Party/Harry Blackstone/Year 3\|Year 3]] | [[1-Party/Harry Blackstone/Year 4\|Year 4]] |

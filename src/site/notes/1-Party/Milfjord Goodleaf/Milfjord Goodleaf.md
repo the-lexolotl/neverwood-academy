@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":3,"hp":27,"max_hp":27,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":1,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/milfjord-goodleaf/milfjord-goodleaf/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":3,"hp":27,"max_hp":27,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":1,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/milfjord-goodleaf/milfjord-goodleaf/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -9,10 +9,18 @@
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Halfling | **Gender** | Male |
-> **Class** | Druid | **Age** | Young Adult |
-> **Subclass** | Circle of Spores | **Languages** | Common,Druidic,Dwarvish,Goblin,Halfling |
-> **Level** | 3 | **College** | Witherbloom |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Druid | **Subclass** | Circle of Spores | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Druidic,Dwarvish,Goblin,Halfling 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Witherbloom | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 2]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -156,8 +164,8 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 
 # Academics
 ### Counsellors
-| Kojil the Tamer | Theodore Moss |
-|-----------------|---------------|
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]] | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] |
+| ------------------- | ----------------- |
 ### Grades & Timetables
 
 | [[1-Party/Milfjord Goodleaf/Year 1\|Year 1]] | [[1-Party/Milfjord Goodleaf/Year 2\|Year 2]] | [[1-Party/Milfjord Goodleaf/Year 3\|Year 3]] | [[1-Party/Milfjord Goodleaf/Year 4\|Year 4]] |

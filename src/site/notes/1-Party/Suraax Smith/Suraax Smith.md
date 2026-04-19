@@ -1,19 +1,27 @@
 ---
-{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"dg-path":"Party/Suraax Smith/Suraax Smith.md","permalink":"/party/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Suraax Smith/Suraax Smith.md","permalink":"/party/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|left]+
 > # Player Name:  Ross
-> ![Suraax Smith 1.png](/img/user/z_Assets/character_art/Players/Suraax%20Smith%201.png)
+> ![z_Assets/character_art/Players/Suraax Smith.png](/img/user/z_Assets/character_art/Players/Suraax%20Smith.png)
 > ###### Basic Information
 > Stat  |  Value | Stat | Value |
 > ---|---|---|---|
 > **Race** | Dragonborn | **Gender** | Female |
-> **Class** | Paladin | **Age** | Young Adult |
-> **Subclass** | Oath of Glory | **Languages** | Common,Draconic |
-> **Level** | 3 | **College** | Lorehold |
-> **Status** | Alive | **Academic Year** | 1 |
+> **Class** | Paladin | **Subclass** | Oath of Glory | 
+> **Level** | 3 | **Status** | Alive |
+> 
+> **Languages:** Common,Draconic 
+>  ###### Academic Information
+> Stat  |  Value |
+> ---|---|
+> **College** | Lorehold | 
+> **Academic Year** | 1 |
+> **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 2]] |
+> **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]] | 
+> **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
@@ -143,8 +151,8 @@ Neverwood - First Year Uniform
 
 # Academics
 ### Counsellors
-| Karl Shaffer | Riri Brighteye |
-|--------------|----------------|
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]] | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]] |
+| ---------------- | ------------------ |
 ### Grades & Timetables
 
 | [[1-Party/Suraax Smith/Year 1\|Year 1]] | [[1-Party/Suraax Smith/Year 2\|Year 2]] | [[1-Party/Suraax Smith/Year 3\|Year 3]] | [[1-Party/Suraax Smith/Year 4\|Year 4]] |
