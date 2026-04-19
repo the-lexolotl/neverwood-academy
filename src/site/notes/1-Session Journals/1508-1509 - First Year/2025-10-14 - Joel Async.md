@@ -5,7 +5,7 @@
 # Joel Async - The Newcomer’s Orientation
 ## Roster 
 
-[[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
+[[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
 
 # Session Overview
 

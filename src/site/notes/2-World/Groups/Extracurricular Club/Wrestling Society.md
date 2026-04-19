@@ -31,7 +31,7 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Owlin       | Male   | Lorehold    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]     | Fire Genasi | Male   | Lorehold    | 2           |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                       | Dragonborn  | Female | Lorehold    | 1           |
-| [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                          | Dragonborn  | Male   | Silverquill | 1           |
+| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                 | Dragonborn  | Male   | Silverquill | 1           |
 
 { .block-language-dataview}
 

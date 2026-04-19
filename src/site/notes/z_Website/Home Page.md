@@ -36,7 +36,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 
 | ![Quests.png](/img/user/z_Assets/website/Quests.png) | ![Session Journals.png](/img/user/z_Assets/website/Session%20Journals.png) | ![Rumours.png](/img/user/z_Assets/website/Rumours.png)      |
 | --------------- | ------------------------- | --------------------- |
-| **[[z_Website/Quests\|Quests]]**      | **[[z_Website/Session Journals\|Session Journals]]**      | **[[z_Website/Rumours & Notices\|Rumours & Notices]]** |
+| **[[z_Website/Quests\|Quests]]**      | **[[z_Website/Session Journals\|Session Journals]]**      | **[[z_Website/Group Cup Challenge\|Group Cup Challenge]]** |
 
 *Accuracy not guaranteed. Memory is a fragile thing.*
 

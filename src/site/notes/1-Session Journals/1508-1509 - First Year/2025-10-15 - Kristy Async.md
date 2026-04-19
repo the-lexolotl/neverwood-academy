@@ -60,7 +60,7 @@ When a mysterious silver-lettered summons arrives at his dorm, [[1-Party/Vigiliu
 * He explains that he and several fellow first-years had broken in to learn more about a **student who was expelled**, hoping the information might explain recent strange events.  - see [[1-Session Journals/1508-1509 - First Year/2025-09-06 - Session 9\|2025-09-06 - Session 9]]
 * He clarifies that the plan wasn’t originally his, though he takes responsibility for following through.  
 * A natural 20 on Persuasion turns the tide in his favour — his sincerity clearly moves Mavinda.  
-* When asked to name the others, Vigilius reluctantly lists [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]], [[1-Party/Cyinth Agora/Cyinth Agora\|Cyinth Agora]], [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] and [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Glue]] (surname forgotten).
+* When asked to name the others, Vigilius reluctantly lists [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]], [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]], [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]], [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] and [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Glue]] (surname forgotten).
 
 ### Judgment and Punishment
 

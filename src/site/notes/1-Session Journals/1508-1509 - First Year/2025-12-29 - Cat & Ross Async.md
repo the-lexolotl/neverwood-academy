@@ -5,7 +5,7 @@
 # Ross & Catarina Async - Steam, Smoke, and Secrets
 ## Roster 
 
-[[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]],[[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]
+[[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]],[[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]
 
 # Session Overview
 
@@ -31,12 +31,12 @@
 { .block-language-dataview}
 
 ## Summary
-A lingering heat, a curious fog, and a vault older than the academy itself set the stage for an expedition into the mysterious Creature Vaults. [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] and [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette]] confront the territorial magic of the [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]], uncover a recently frozen Steam Mephit, and collect a sample of enigmatic black goo. Along the way, the students witness the rules of containment, the authority of the groundskeeper, and the hidden corridors that stretch beyond mortal comprehension. At one point, the corridor opens into the Infinite Staircase — an extradimensional highway of impossible architecture linking countless planes. By the end of the morning, danger is contained, burns are healed, and knowledge is quietly gained, leaving both students with awe, lingering questions, and appetite.
+A lingering heat, a curious fog, and a vault older than the academy itself set the stage for an expedition into the mysterious Creature Vaults. [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] and [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette]] confront the territorial magic of the [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]], uncover a recently frozen Steam Mephit, and collect a sample of enigmatic black goo. Along the way, the students witness the rules of containment, the authority of the groundskeeper, and the hidden corridors that stretch beyond mortal comprehension. At one point, the corridor opens into the Infinite Staircase — an extradimensional highway of impossible architecture linking countless planes. By the end of the morning, danger is contained, burns are healed, and knowledge is quietly gained, leaving both students with awe, lingering questions, and appetite.
 
 ### The Calm After Exams
 * The academy drifts into the uneasy quiet that follows exams. Snow melts in thin rivulets along the paths, steam curling where warm magic meets cold stone.
 * Rumours spread of [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern's]] temporary closure, injured kitchen staff, and strange frozen remnants removed overnight.
-* [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] struggles with the residual heat from a prior encounter, while [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette]] tends to burns on her hands, recalling the pain of the previous night’s confrontation with a Steam Mephit.
+* [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] struggles with the residual heat from a prior encounter, while [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette]] tends to burns on her hands, recalling the pain of the previous night’s confrontation with a Steam Mephit.
 
 ### Preparing for the Vault
 * Harry vents his frustration in his room before heading toward the Creature Vault, aware of the unique root-key grown by the groundskeeper to access its contents.

@@ -44,7 +44,7 @@ The following people are associated with this quest.
 | Character                                                                                 | Race    | Gender | Role                |
 | ----------------------------------------------------------------------------------------- | ------- | ------ | ------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human   | Male   | Deputy Head Teacher |
-| [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]               | Eladrin | Female | Player              |
+| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]      | Eladrin | Female | Player              |
 
 { .block-language-dataview}
 

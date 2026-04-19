@@ -28,7 +28,7 @@ Upon request or via sign-up at freshers fair
 The following people are members of this group.  
 | File                                                                                                                         | Race     | Gender | College     | School Year |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------ | ----------- | ----------- |
-| [[1-Party/Atudark/Atudark\|Atudark]]                                                                                      | Yuan-Ti  | Male   | Witherbloom | 1           |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Yuan-Ti  | Male   | Witherbloom | 1           |
 | [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Gnome    | Male   | Quandrix    | 1           |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Aasimar  | Male   | Prismari    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Minotaur | Male   | Quandrix    | 2           |

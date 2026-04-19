@@ -31,7 +31,7 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]   | Firbolg    | Female | Lorehold    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female | Quandrix    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]] | Halfling   | Female | Quandrix    | 2           |
-| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                   | Triton     | Male   | Witherbloom | 1           |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                          | Triton     | Male   | Witherbloom | 1           |
 | [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                     | Half-Orc   | Female | Witherbloom | 2           |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling   | Male   | Witherbloom | 1           |
 | [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]       | Dryad      | Female | Witherbloom | 1           |

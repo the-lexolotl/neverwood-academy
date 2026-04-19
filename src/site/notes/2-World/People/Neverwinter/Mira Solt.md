@@ -35,7 +35,7 @@ She remembers who bought what, when, and why.
 
 ### On Neverwinter
 If asked what is worth seeing in the city, Mira replies:
-“Depends what you're after. The [[Protector’s Enclave\|Protector’s Enclave]] if you want to spend money. The [[2-World/Places/Blacklake District\|Blacklake]] if you want to feel smug about not spending money. The docks if you want to lose something.”
+“Depends what you're after. The [[2-World/Places/Protector's Enclave\|Protector's Enclave]] if you want to spend money. The [[2-World/Places/Blacklake District\|Blacklake]] if you want to feel smug about not spending money. The docks if you want to lose something.”
 She does not elaborate unless pressed.
 
 # Connections

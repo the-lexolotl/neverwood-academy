@@ -77,9 +77,9 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]    | Owlin       | Female | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human       | Female | Head Teacher          |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
-| [[1-Party/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                    | Triton      | Male   | Player                |
-| [[1-Party/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                     | Eladrin     | Female | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn  | Male   | Player                |
+| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]            | Eladrin     | Female | Player                |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                           | Triton      | Male   | Player                |
 
 { .block-language-dataview}
 

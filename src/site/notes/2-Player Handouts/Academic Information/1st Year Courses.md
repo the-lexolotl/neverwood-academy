@@ -209,7 +209,7 @@ In this introductory course, Professor Deekah shares her passion for fractology 
 Assessment prioritises efficiency over accuracy; grades are awarded based on how quickly a student’s theorem reaches a solution, rather than the correctness of the final result. Through this work, students gain an early understanding of how fractals can fold space itself.
 
 #### Growing Pains: How Larger Numbers Can Cause More Injury
-*Professor [[Renald\|Renald]]*
+*Professor [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]*
 > [!success]- Reward
 > Magnify Gravity
 

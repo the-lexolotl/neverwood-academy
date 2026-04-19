@@ -35,7 +35,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 
 ### The Idea Takes Hold
 - Suraax decides to officially start a **wrestling society**.
-- She already has student interest from [[1-Party/Vith Pahlok/Vith Pahlok\|Vith]].
+- She already has student interest from [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith]].
 - She learns that to form a society she needs:
     - Additional student members.
     - A **member of staff willing to sponsor** the club.
@@ -54,7 +54,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 - Inside, she finds:
     - Students racing around the stadium on **roller skates**.
     - A large orc — Coach Shtomp — yelling instructions from the centre.
-- Among the skaters is [[1-Party/Vith Pahlok/Vith Pahlok\|Vith]], noticeably focused and competent.
+- Among the skaters is [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith]], noticeably focused and competent.
 - Suraax enthusiastically cheers for him.
 - Vith momentarily loses focus, trips, and crashes spectacularly across the floor.
 - Coach Shtomp halts training in horror.
@@ -79,7 +79,7 @@ A single-minded burst of administrative ambition sends Suraax charging across ca
 #### Confirmed Wrestling Society Members
 - **Staff Sponsor:** [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Coach Shtomp]]
 - **Students:**
-    - [[1-Party/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
+    - [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]
     - [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]
     - [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]
 

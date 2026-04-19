@@ -29,9 +29,9 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 - [ ] Uncover the truth behind the Everlight Trust’s connection to Silverquill
 
 # Quest Handouts
-| File                                                                                       | Date Obtained | Category     | Associated NPCs |
-| ------------------------------------------------------------------------------------------ | ------------- | ------------ | --------------- |
-| [[2-Player Handouts/Others/The Merchant of Moons Poster\|The Merchant of Moons Poster]] | 18 Apr, 2026  | Event Poster | \-              |
+| File                                                                                               | Date Obtained | Category     | Associated NPCs |
+| -------------------------------------------------------------------------------------------------- | ------------- | ------------ | --------------- |
+| [[2-Player Handouts/Academy Events/The Merchant of Moons Poster\|The Merchant of Moons Poster]] | 18 Apr, 2026  | Event Poster | \-              |
 
 { .block-language-dataview}
 

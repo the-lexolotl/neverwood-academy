@@ -11,15 +11,17 @@ Welcome to the authorised archive of **Neverwood Academy**, a centre of magical 
 These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents.
 
 ---
-# Welcome to 
+### Welcome Back Students!
 
 ---
 
 ## 📚 Student Portal
 
-| ![Player Characters.png](/img/user/z_Assets/website/Player%20Characters.png) | ![Session Journals.png](/img/user/z_Assets/website/Session%20Journals.png) | ![Quests.png](/img/user/z_Assets/website/Quests.png) | ![Handouts.png](/img/user/z_Assets/website/Handouts.png)       | ![Appointments.png](/img/user/z_Assets/website/Appointments.png)                     |
-| -------------------------- | ------------------------- | --------------- | ----------------------- | ----------------------------------------- |
-| **[[z_Website/Player Characters\|Player Characters]]**  | **[[z_Website/Session Journals\|Session Journals]]**  | **[[z_Website/Quests\|Quests]]**  | **[[z_Website/Player Handouts\|Player Handouts]]** | **[[z_Website/Appointments\|Book an Appointment]]** |
+| ![Player Characters.png](/img/user/z_Assets/website/Player%20Characters.png) |     ![Group Cup.png](/img/user/z_Assets/website/Group%20Cup.png)      |           ![Appointments.png](/img/user/z_Assets/website/Appointments.png)           |
+| :------------------------: | :-------------------------: | :---------------------------------------: |
+| **[[z_Website/Player Characters\|Player Characters]]**  | **[[z_Website/Group Cup Challenge\|Group Cup Challenge]]** | **[[z_Website/Appointments\|Book an Appointment]]** |
+| ![Session Journals.png](/img/user/z_Assets/website/Session%20Journals.png)  |       ![Quests.png](/img/user/z_Assets/website/Quests.png)       |             ![Handouts.png](/img/user/z_Assets/website/Handouts.png)             |
+|  **[[z_Website/Session Journals\|Session Journals]]**  |       **[[z_Website/Quests\|Quests]]**        |          **[[z_Website/Player Handouts\|Player Handouts]]**          |
 
 ---
 ## 🗞️ Notice Board Highlights
@@ -33,8 +35,8 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ---
 ## 🗺️ Interactive Maps
 
-| ![Neverwood Map.png](/img/user/z_Assets/website/Neverwood%20Map.png)                                                  | ![Neverwinter Map.png](/img/user/z_Assets/website/Neverwinter%20Map.png)                                    | ![Faerun Map.png](/img/user/z_Assets/website/Faerun%20Map.png)                               |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------- |
+|                         ![Neverwood Map.png](/img/user/z_Assets/website/Neverwood%20Map.png)                          |                  ![Neverwinter Map.png](/img/user/z_Assets/website/Neverwinter%20Map.png)                   |                ![Faerun Map.png](/img/user/z_Assets/website/Faerun%20Map.png)                |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------: |
 | [Neverwood Academy](https://www.neverwood.co.uk/neverwood-academy-map/) | [Neverwinter](https://www.neverwood.co.uk/neverwinter-map/) | [Faerûn](https://www.neverwood.co.uk/faerun-map/) |
 
 ---
@@ -60,16 +62,6 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
 
 ### Advancement is not guaranteed. Survival is encouraged.
-
----
-## 🧑‍🤝‍🧑 Cup Challenge Groups
-*To be updated for the new academic year.*
-
-|                 |                 |                 |
-| :-------------: | :-------------: | :-------------: |
-| **[[z_Website/Group 1\|Group 1]]** | **[[z_Website/Group 2\|Group 2]]** | **[[z_Website/Group 3\|Group 3]]** |
-
-*Group assignments are provisional and subject to change.*
 
 ---
 ## 📆 Academic Calendar
