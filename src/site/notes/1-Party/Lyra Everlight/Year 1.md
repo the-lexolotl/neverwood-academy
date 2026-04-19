@@ -24,7 +24,7 @@
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** |  8 \| 2 (10)  |  16 \| 11 (20)  |  11 \| 3 (14)   |  3 \| 17 (20)   |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** | 9 \| 15 (20)  |  2 \| 13 (15)   |                 |                 |       |
+| **Term 6** | 9 \| 15 (20)  |  2 \| 13 (15)   |  9 \| 13 (20)   |  15 \| 5 (20)   |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -32,15 +32,15 @@
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   4    |   15   |    19    |    -     |  85%  |  1  |
 | **Exam 2** |    Nature     | Animal Handling |   3    |   8    |    12    |    -     |  50%  |  -  |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+| **Exam 3** | Investigation |   Persuasion    |   14   |   7    |    -     |    8     |  55%  |  -  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   30%    | N/A  |  70%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   30%    | N/A  |  70%   |
+|     Grade      |  90.42%  | N/A  | 63.33% |
+| Weighted Grade |  27.13%  | N/A  | 44.33% |
+### Final Grade - 71.46% (Pass)
 
 # Mightier Than the Sword: Beginning Inkomancy
 > [!info]- Associated Skills
@@ -61,7 +61,7 @@
 |            |    Persuasion    | Spell Attack  |  Charisma Save   |  Performance  |       |
 | **Term 5** |   21 \| 7 (20)   | 12 \| 21 (20) |  13 \| 12 (20)   | 12 \| 13 (20) |       |
 |            | Charisma Ability |  Persuasion   |   Spell Attack   | Charisma Save |       |
-| **Term 6** |  20 \| 22 (20)   | 19 \| 18 (20) |                  |               |       |
+| **Term 6** |  20 \| 22 (20)   | 19 \| 18 (20) |  10 \| 10 (20)   | 23 \| 11 (20) |       |
 |            |   Spell Attack   | Charisma Save |    Persuasion    |  Performance  |       |
 ## Exams
 |            |    Skill 1    |  Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -72,9 +72,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  97.92%  | N/A  |  95%  |
+| Weighted Grade |  58.75%  | N/A  |  38%  |
+### Final Grade - 96.75% (Pass)
 
 # A Kind Word: Introduction to the Magic of Compliments
 > [!info]- Associated Skills
@@ -95,7 +95,7 @@
 |            |  Persuasion   |     Medicine      |    Arcana     |  Performance  |       |
 | **Term 5** |  3 \| 2 (5)   |   13 \| 20 (20)   | 21 \| 17 (20) | 16 \| 8 (20)  |       |
 |            |    Arcana     |    Persuasion     |   Medicine    |   Deception   |       |
-| **Term 6** |  8 \| 7 (15)  |   13 \| 9 (20)    |               |               |       |
+| **Term 6** |  8 \| 7 (15)  |   13 \| 9 (20)    |  6 \| 7 (13)  |  9 \| 7 (16)  |       |
 |            | Charisma Save |     Medicine      |  Persuasion   |    Arcana     |       |
 ## Exams
 
@@ -104,12 +104,12 @@
 | Exam 1 | Medicine | Persuasion |   12   |   7    |    -     |    14    |  65%  |  1  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   55%    | N/A  |  45%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   55%    | N/A  |  45%   |
+|     Grade      |  91.67%  | N/A  |  65%   |
+| Weighted Grade |  50.42%  | N/A  | 29.25% |
+### Final Grade - 79.67% (Pass)
 
 # Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
 > [!info]- Associated Skills
@@ -130,7 +130,7 @@
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
 | **Term 5** |  4 \| 8 (12)  |  19 \| 4 (20)  | 14 \| 23 (20)  |  19 \| 7 (20)  |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
-| **Term 6** | 18 \| 12 (20) | 16 \| 20 (20)  |                |                |       |
+| **Term 6** | 18 \| 12 (20) | 16 \| 20 (20)  | 14 \| 16 (20)  |  7 \| 11 (18)  |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |
 ## Exams
 
@@ -142,7 +142,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    | N/A  |  50%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  97.71%  | N/A  |  40%  |
+| Weighted Grade |  48.85%  | N/A  |  20%  |
+### Final Grade - 68.85% (Pass)
 

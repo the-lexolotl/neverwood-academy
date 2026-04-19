@@ -25,7 +25,7 @@
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** | 18 \| 20 (20) |  24 \| 14 (20)  |  15 \| 15 (20)  |  10 \| 8 (18)   |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** | 9 \| 12 (20)  |  23 \| 12 (20)  |                 |                 |       |
+| **Term 6** | 9 \| 12 (20)  |  23 \| 12 (20)  |  19 \| 20 (20)  |  17 \| 17 (20)  |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -33,15 +33,15 @@
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   16   |   14   |    -     |    4     |  50%  |  -  |
 | **Exam 2** |    Nature     | Animal Handling |   19   |   21   |    -     |    -     | 97.5% |  2  |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+| **Exam 3** | Investigation |   Persuasion    |   14   |   8    |    18    |    16    |  85%  |  1  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   30%    | N/A  |  70%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   30%    | N/A  |  70%   |
+|     Grade      |  95.2%   |      | 77.5%  |
+| Weighted Grade |  28.56%  |      | 54.25% |
+### Final Grade - 82.81% (Pass)
 
 # Connecting the Dots: Beginning Computational Magic
 > [!info]- Associated Skills
@@ -62,7 +62,7 @@
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
 | **Term 5** |     19 \| 9 (20)     |    7 \| 9 (16)    |    22 \| 25 (20)     |    15 \| 12 (20)     |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
-| **Term 6** |    18 \| 19 (20)     |   23 \| 20 (20)   |                      |                      |       |
+| **Term 6** |    18 \| 19 (20)     |   23 \| 20 (20)   |     9 \| 16 (20)     |    21 \| 19 (20)     |       |
 |            |        Nature        |      History      |        Arcana        | Intelligence Ability |       |
 ## Exams
 |            | Skill 1 | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -73,9 +73,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    | N/A  |  30%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  98.75%  | N/A  | 100%  |
+| Weighted Grade |  69.13%  | N/A  |  30%  |
+### Final Grade - 99.13% (Pass)
 
 # Birds of a Feather: Introduction to Recognition of Natural Patterns
 > [!info]- Associated Skills
@@ -96,7 +96,7 @@
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
 | **Term 5** |  9 \| 2 (11)  |     17 \| 2 (19)     |   14 \| 19 (20)   |  15 \| 11 (20)  |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |
-| **Term 6** | 11 \| 18 (20) |    23 \| 17 (20)     |                   |                 |       |
+| **Term 6** | 11 \| 18 (20) |    23 \| 17 (20)     |   17 \| 11 (20)   |  19 \| 7 (20)   |       |
 |            |    Nature     |  Intelligence Save   |    Perception     |     Insight     |       |
 ## Exams
 
@@ -108,9 +108,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  95.63%  | N/A  | 72.5% |
+| Weighted Grade |  57.38%  | N/A  |  29%  |
+### Final Grade - 86.35% (Pass)
 
 # Growing Pains: How Larger Numbers Can Cause More Hurt
 > [!info]- Associated Skills
@@ -141,10 +141,10 @@
 | Exam 1 | Arcana  | Intelligence |   11   |   19   |    20    |    -     | 97.5% |  2  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   70%    | N/A  |  30%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   70%    | N/A  |  30%   |
+|     Grade      |  91.04%  | N/A  | 97.5%  |
+| Weighted Grade |  63.73%  | N/A  | 29.25% |
+### Final Grade -92.98 % (Pass)
 

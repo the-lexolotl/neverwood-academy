@@ -25,7 +25,7 @@
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** | 13 \| 18 (20) |   7 \| 8 (15)   |  15 \| 20 (20)  | 12 \| 21 \|(20) |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** |               |                 |                 |                 |       |
+| **Term 6** | 15 \| 19 (20) |  12 \| 13 (20)  |  20 \| 8 (20)   |  21 \| 22 (20)  |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -33,15 +33,15 @@
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   9    |   9    |    -     |    20    | 72.5% |  1  |
 | **Exam 2** |    Nature     | Animal Handling |   13   |   15   |    10    |    -     | 62.5% |  1  |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+| **Exam 3** | Investigation |   Persuasion    |   0    |   14   |    0     |    -     |  35%  |  0  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   30%    | N/A  |  70%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   30%    | N/A  |  70%   |
+|     Grade      |  92.71%  | N/A  | 56.67% |
+| Weighted Grade |  27.81%  | N/A  | 39.67% |
+### Final Grade - 67.48% (Pass)
 
 # Connecting the Dots: Beginning Computational Magic
 > [!info]- Associated Skills
@@ -62,7 +62,7 @@
 |            |    Investigation     |      Insight      |  Intelligence Save   |        Arcana        |       |
 | **Term 5** |    10 \| 11 (20)     |   18 \| 6 (20)    |    12 \| 18 (20)     |     11 \| 1 (12)     |       |
 |            |        Arcana        | Intelligence Save |        Nature        | Intelligence Ability |       |
-| **Term 6** |                      |                   |                      |                      |       |
+| **Term 6** |     14 \| 1 (15)     |   8 \| 15 (20)    |     4 \| 16 (20)     |     20 \| 9 (20)     |       |
 |            |        Nature        |      History      |        Arcana        | Intelligence Ability |       |
 ## Exams
 |            | Skill 1 | Skill 2 | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -73,9 +73,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    | N/A  |  30%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  89.17%  | N/A  |  65%  |
+| Weighted Grade |  62.42%  | N/A  | 19.5% |
+### Final Grade - 81.92% (Pass)
 
 # Speaking the Same Language: Overview of Magical Notation
 > [!info]- Associated Skills
@@ -96,7 +96,7 @@
 |            |    History    |   Religion    |    Insight    |      Arcana       |       |
 | **Term 5** |  7 \| 5 (12)  | 21 \| 14 (20) | 19 \| 2 (20)  |   4 \| 14 (18)    |       |
 |            |  Wisdom Save  |    Insight    |    Arcana     | Intelligence Save |       |
-| **Term 6** |               |               |               |                   |       |
+| **Term 6** |  7 \| 2 (9)   |  2 \| 2 (4)   | 12 \| 13 (20) |   10 \| 22 (20)   |       |
 |            |    Arcana     |    History    |    History    |      Insight      |       |
 ## Exams
 
@@ -108,9 +108,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   80%    | N/A  |  20%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  83.33%  | N/A  |  85%  |
+| Weighted Grade |  66.67%  | N/A  |  17%  |
+### Final Grade - 83.67% (Pass)
 
 # Keep it Secret, Keep it Safe: Protecting Your Research Behind Locked Doors
 > [!info]- Associated Skills
@@ -131,7 +131,7 @@
 |            | Intimidation  |   Deception    |     Arcana     |    Insight     |       |
 | **Term 5** | 15 \| 9 (20)  | 21 \| 16 (20)  |  7 \| 21 (20)  |  5 \| 6 (11)   |       |
 |            |   Deception   |     Arcana     |  Intimidation  | Slight of Hand |       |
-| **Term 6** |               |                |                |                |       |
+| **Term 6** | 13 \| 17 (20) |   1 \| 8 (9)   | 14 \| 16 (20)  | 21 \| 19 (20)  |       |
 |            | Intimidation  | Investigation  |   Deception    |     Arcana     |       |
 ## Exams
 
@@ -140,10 +140,10 @@
 | Exam 1 | Intimidation | Arcana  |   17   |   12   |    -     |    10    | 67.5% |  1  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   50%    | N/A  |  50%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   50%    | N/A  |  50%   |
+|     Grade      |  89.58%  | N/A  | 67.5%  |
+| Weighted Grade |  44.79%  | N/A  | 33.75% |
+### Final Grade - 78.54% (Pass/Fail)
 

@@ -23,9 +23,9 @@
 |            |   Survival    | Animal Handling |  Investigation  |     Insight     |       |
 | **Term 4** | 16 \| 12 (20) |  19 \| 6 (20)   |  7 \| 12 (19)   |  11 \| 2 (13)   |       |
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
-| **Term 5** | 16 \| 20 (20) |                 |                 |                 |       |
+| **Term 5** | 16 \| 20 (20) |  13 \| 17 (20)  |  13 \| 17 (20)  |  19 \| 17 (20)  |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** |               |                 |                 |                 |       |
+| **Term 6** | 14 \| 18 (20) |  5 \| 18 (20)   |  10 \| 4 (14)   |   3 \| 9 (12)   |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -33,15 +33,15 @@
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   19   |   18   |    -     |    -     |  90%  |  2  |
 | **Exam 2** |    Nature     | Animal Handling |   22   |   19   |    -     |    -     | 97.5% |  2  |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+| **Exam 3** | Investigation |   Persuasion    |   20   |   21   |    -     |    -     | 100%  |  2  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   30%    | N/A  |  70%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   30%    | N/A  |  70%   |
+|     Grade      |  91.88%  | N/A  | 96.67% |
+| Weighted Grade |  27.56%  | N/A  | 67.67% |
+### Final Grade - 95.23% (Pass)
 
 # Fashionably Late: History of Magic and Art
 > [!info]- Associated Skills
@@ -60,9 +60,9 @@
 |            |    Perception     |    History    |    Performance    |    Insight    |       |
 | **Term 4** |   19 \| 4 (20)    |  6 \| 8 (14)  |   18 \| 9 (20)    | 13 \| 19 (20) |       |
 |            |      History      |  Performance  |      History      |  Perception   |       |
-| **Term 5** |   10 \| 25 (20)   |               |                   |               |       |
+| **Term 5** |   10 \| 25 (20)   | 17 \| 4 (20)  |   14 \| 3 (17)    | 3 \| 10 (13)  |       |
 |            |    Performance    |  Perception   |    Performance    |   Religion    |       |
-| **Term 6** |                   |               |                   |               |       |
+| **Term 6** |   17 \| 21 (20)   | 13 \| 9 (20)  |   9 \| 20 (20)    | 12 \| 13 (20) |       |
 |            | Intelligence Save |  Perception   |      History      |  Performance  |       |
 ## Exams
 |            | Skill 1 |   Skill 2   | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -73,9 +73,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  94.38%  | N/A  |  60%  |
+| Weighted Grade |  56.63%  | N/A  |  24%  |
+### Final Grade - 80.63% (Pass)
 
 # Eye of the Storm: Fundamentals of Tempest Art
 > [!info]- Associated Skills
@@ -94,23 +94,23 @@
 |            |  Performance   |    Arcana     | Spell Attack  |     Tools     |       |
 | **Term 4** |  8 \| 23 (20)  | 22 \| 10 (20) | 20 \| 7 (20)  | 3 \| 21 (20)  |       |
 |            |  Spell Attack  |     Tools     |  Performance  |    Insight    |       |
-| **Term 5** |   4 \| 2 (6)   |               |               |               |       |
+| **Term 5** |   4 \| 2 (6)   | 17 \| 11 (20) | 7 \| 23 (20)  | 10 \| 18 (20) |       |
 |            | Dexterity Save |  Performance  |     Tools     |  Performance  |       |
-| **Term 6** |                |               |               |               |       |
+| **Term 6** |  9 \| 8 (17)   | 24 \| 21 (20) | 6 \| 11 (17)  | 17 \| 17 (20) |       |
 |            |     Tools      | Spell Attack  |  Performance  |     Tools     |       |
 ## Exams
 
 |        |   Skill 1   |    Skill 2    | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
 | :----: | :---------: | :-----------: | :----: | :----: | :------: | :------: | :---: | :-: |
-| Exam 1 | Performance | Strength Save |        |        |          |          |       |     |
+| Exam 1 | Performance | Strength Save |   20   |   4    |    -     |    -     |  60%  |  1  |
 ## Final Grade
 
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   40%    | N/A  |  60%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  95.63%  | N/A  |  60%  |
+| Weighted Grade |  38.25%  | N/A  |  36%  |
+### Final Grade - 74.25% (Pass)
 
 # Birds of a Feather: Introduction to Recognition of Natural Patterns
 > [!info]- Associated Skills
@@ -129,9 +129,9 @@
 |            |  Perception   |        Nature        | Intelligence Save |     Insight     |       |
 | **Term 4** | 21 \| 4 (20)  |     20 \| 4 (20)     |    8 \| 9 (17)    |   4 \| 3 (7)    |       |
 |            |    Nature     |       Insight        |    Perception     | Animal Handling |       |
-| **Term 5** | 3 \| 13 (16)  |                      |                   |                 |       |
+| **Term 5** | 3 \| 13 (16)  |     4 \| 11 (15)     |   15 \| 8 (20)    |  19 \| 7 (20)   |       |
 |            |    Insight    |      Perception      |      Nature       |   Perception    |       |
-| **Term 6** |               |                      |                   |                 |       |
+| **Term 6** | 16 \| 20 (20) |    20 \| 22 (20)     |   7 \| 13 (20)    |  14 \| 6 (20)   |       |
 |            |    Nature     |  Intelligence Save   |    Perception     |     Insight     |       |
 ## Exams
 
@@ -143,7 +143,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  88.75%  | N/A  | 67.5% |
+| Weighted Grade |  53.25%  | N/A  |  27%  |
+### Final Grade - 80.25% (Pass)
 

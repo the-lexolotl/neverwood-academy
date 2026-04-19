@@ -25,7 +25,7 @@
 |            |    Nature     |   Performance   | Animal Handling |    Survival     |       |
 | **Term 5** | 18 \| 22 (20) |  7 \| 15 (20)   |  15 \| 12 (20)  |  11 \| 22 (20)  |       |
 |            | Investigation |     Arcana      |     Nature      |    Survival     |       |
-| **Term 6** |  4 \| 9 (13)  |   4 \| 7 (11)   |                 |                 |       |
+| **Term 6** |  4 \| 9 (13)  |   4 \| 7 (11)   |   7 \| 3 (10)   |  16 \| 16 (20)  |       |
 |            |  Persuasion   |     Nature      | Animal Handling |     Insight     |       |
 ## Exams
 
@@ -33,15 +33,15 @@
 | :--------: | :-----------: | :-------------: | :----: | :----: | :------: | :------: | :---: | :-: |
 | **Exam 1** |    Arcana     |     Insight     |   17   |   11   |    -     |    -     |  70%  |  1  |
 | **Exam 2** |    Nature     | Animal Handling |   23   |   9    |    -     |    20    | 100%  |  2  |
-| **Exam 3** | Investigation |   Persuasion    |        |        |          |          |       |     |
+| **Exam 3** | Investigation |   Persuasion    |   13   |   21   |    17    |    -     | 92.5% |  2  |
 ## Final Grade
 
-|                | Homework | Labs | Exams |
-| :------------: | :------: | :--: | :---: |
-|     Weight     |   30%    | N/A  |  70%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|                | Homework | Labs | Exams  |
+| :------------: | :------: | :--: | :----: |
+|     Weight     |   30%    | N/A  |  70%   |
+|     Grade      |  92.5%   | N/A  | 87.5%  |
+| Weighted Grade |  27.75%  | N/A  | 61.25% |
+### Final Grade - 89% (Pass)
 
 # Digging Up the Past: Introduction to Archaeomancy
 > [!info]- Associated Skills
@@ -62,7 +62,7 @@
 |            |    Insight    |   Religion    |    History    |  Performance  |       |
 | **Term 5** | 19 \| 7 (20)  | 8 \| 15 (20)  |  2 \| 8 (10)  | 9 \| 19 (20)  |       |
 |            |    History    | Investigation |    Insight    |   Religion    |       |
-| **Term 6** | 18 \| 15 (20) | 15 \| 14 (20) |               |               |       |
+| **Term 6** | 18 \| 15 (20) | 15 \| 14 (20) | 16 \| 24 (20) | 17 \| 7 (20)  |       |
 |            |    History    |    Insight    |   Religion    |    History    |       |
 ## Exams
 |            | Skill 1 | Skill 2  | Roll 1 | Roll 2 | Reroll 1 | Reroll 2 | Grade | D4  |
@@ -73,9 +73,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   70%    | N/A  |  30%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  89.5%   | N/A  | 100%  |
+| Weighted Grade |  62.65%  | N/A  |  20%  |
+### Final Grade - 92.65% (Pass)
 
 # Everything Old is New Again: Methods of Archaeological Preservation
 
@@ -97,7 +97,7 @@
 |            |   Deception   |   Religion    | Investigation |  Persuasion   |       |
 | **Term 5** | 11 \| 12 (20) | 13 \| 20 (20) | 14 \| 20 (20) | 23 \| 16 (20) |       |
 |            | Investigation |  Persuasion   |    History    |    Arcana     |       |
-| **Term 6** | 19 \| 19 (20) |  9 \| 6 (15)  |               |               |       |
+| **Term 6** | 19 \| 19 (20) |  9 \| 6 (15)  | 20 \| 13 (20) | 15 \| 14 (20) |       |
 |            |    History    |   Deception   | Investigation |   Deception   |       |
 ## Exams
 
@@ -109,9 +109,9 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   60%    | N/A  |  40%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  90.5%   | N/A  |  65%  |
+| Weighted Grade |  54.3%   | N/A  |  26%  |
+### Final Grade - 80.3% (Pass)
 
 # Don't Hate, Cultivate: Augmenting for Beginners
 > [!info]- Associated Skills
@@ -132,7 +132,7 @@
 |            |   Survival    |    Nature     |   Athletics   |  Perception   |       |
 | **Term 5** |  4 \| 9 (13)  | 11 \| 19 (20) | 17 \| 6 (20)  |  6 \| 9 (15)  |       |
 |            |    Nature     |   Survival    | Strength Save |   Athletics   |       |
-| **Term 6** |               |               |               |               |       |
+| **Term 6** |  1 \| 2 (3)   |  9 \| 9 (18)  | 18 \| 21 (20) |  8 \| 8 (16)  |       |
 |            |   Athletics   |  Perception   |    Nature     |   Survival    |       |
 ## Exams
 
@@ -144,7 +144,7 @@
 |                | Homework | Labs | Exams |
 | :------------: | :------: | :--: | :---: |
 |     Weight     |   50%    | N/A  |  50%  |
-|     Grade      |          |      |       |
-| Weighted Grade |          |      |       |
-### Final Grade - % (Pass/Fail)
+|     Grade      |  88.5%   | N/A  |  20%  |
+| Weighted Grade |  44.25%  | N/A  |  10%  |
+### Final Grade - 54.25% (Fail)
 
