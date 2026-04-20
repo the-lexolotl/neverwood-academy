@@ -45,8 +45,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]                                   | Male   | Human           | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]                                             | Female | Dwarf           | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Male   | Elf             | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Male   | Tiefling        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]                                           | Female | Human           | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Male   | Tiefling        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                                                 | Male   | Dryad           | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Female | Reborn          | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Female | Dryad           | Student | Witherbloom |
@@ -64,13 +64,13 @@ The following people are members of this group.
 | [[1-Party/Her/Her\|Her]]                                                                                                  | Female | Tiefling        | Player  | Prismari    |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                                                 | Female | Variant Aasimar | Player  | Silverquill |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                                                        | Male   | Halfling        | Player  | Witherbloom |
-| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                                                       | Female | Dragonborn      | Player  | Lorehold    |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Male   | Minotaur        | Player  | Lorehold    |
+| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                                                       | Female | Dragonborn      | Player  | Lorehold    |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                                           | Male   | Dragonborn      | Player  | Quandrix    |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
 | [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                                         | Female | Eladrin         | Player  | Witherbloom |
-| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                                                 | Male   | Dragonborn      | Player  | Silverquill |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                                           | Male   | Dragonborn      | Player  | Quandrix    |
+| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                                                 | Male   | Dragonborn      | Player  | Silverquill |
 
 { .block-language-dataview}

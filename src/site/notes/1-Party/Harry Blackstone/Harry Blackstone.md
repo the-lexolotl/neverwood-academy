@@ -156,7 +156,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 **Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/The Missing Professor\|The Missing Professor]], [[2-Quests/Heist the Records Room\|Heist the Records Room]], [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]], [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]], [[2-Quests/Sigma Mail\|Sigma Mail]], [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]], [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[z_Website/Group 2\|Group 2]], [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[Group 2\|Group 2]], [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]
 
 
 # Relationships

@@ -37,9 +37,9 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]     | Female     | Gorgon     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Male       | Dragonborn | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Male       | Gnome      | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male       | Half-Orc   | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Male       | Tiefling   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Male       | Shifter    | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male       | Half-Orc   | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]   | Non-binary | Shadar-Kai | Student | Silverquill |
 
 { .block-language-dataview}

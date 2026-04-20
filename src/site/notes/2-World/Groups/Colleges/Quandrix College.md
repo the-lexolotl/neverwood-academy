@@ -26,7 +26,7 @@ The studies undertaken within Quandrix College include mathematics, physics, log
 
 ### Substance and Theory:
 Quandrix’s two deans carry the titles Dean of Substance and Dean of Theory, reflecting the philosophical division within the college. Is mathematics a natural force that exists in the universe independent of the constructs of intelligent minds, or is it a theoretical framework created by those who study it? Is the work of the scholar to discover what is or to define what could be?
-The perspective of substance emphasizes physical reality. In this view, math is embodied in the natural forces of the multiverse, waiting to be discovered by those with the intellectual fortitude to delve into those secrets. Quandrix mages who embrace this view use magic to bring numerical concepts to life, creating or altering physical reality out of mathematical possibility.
+The perspective of substance emphasises physical reality. In this view, math is embodied in the natural forces of the multiverse, waiting to be discovered by those with the intellectual fortitude to delve into those secrets. Quandrix mages who embrace this view use magic to bring numerical concepts to life, creating or altering physical reality out of mathematical possibility.
 The perspective of theory focuses on the abstract realms of conjecture and possibility. Its scholars view math as a lens through which a mind can understand the cosmos, not something that exists independently in the world. Mages who embrace this perspective use their spells to weave illusions and manipulate the fabric of magic itself.
 
 # Membership

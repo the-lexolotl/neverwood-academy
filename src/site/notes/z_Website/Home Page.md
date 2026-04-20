@@ -14,7 +14,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ### [View First Year Grades!](https://docs.google.com/spreadsheets/d/1isbxXRjzriIIWccrkB-hXwUsnunjHwXIGA2Q9l-cPng/edit?usp=sharing)
 
 ---
-![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
+
 
 ---
 ## 🧭 Student Resources
@@ -60,14 +60,14 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
 
-![Construction Bot.png|200](/img/user/z_Assets/website/Construction%20Bot.png)
+
 ### Advancement is not guaranteed. Survival is encouraged.
 
 ---
 ## 🧑‍🤝‍🧑 Cup Challenge Groups
 | ![Group 1.png](/img/user/z_Assets/character_art/Players/Group%201.png) | ![group 2.png](/img/user/z_Assets/character_art/Players/Group%202.png) | ![Group 3.png](/img/user/z_Assets/character_art/Players/Group%203.png) |
 | :--------------: | :--------------: | :--------------: |
-| **[[z_Website/Group 1\|Group 1]]**  | **[[z_Website/Group 2\|Group 2]]**  | **[[z_Website/Group 3\|Group 3]]**  |
+| **[[Group 1\|Group 1]]**  | **[[Group 2\|Group 2]]**  | **[[Group 3\|Group 3]]**  |
 
 *Group assignments are provisional and subject to change.*
 
