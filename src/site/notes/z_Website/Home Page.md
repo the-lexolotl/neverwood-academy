@@ -8,7 +8,7 @@
 
 Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. 
 
-These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents.
+These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. ![Construction Bot.png|200](/img/user/z_Assets/website/Construction%20Bot.png)
 
 ---
 ![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
@@ -22,7 +22,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 | **[[z_Website/Player Characters\|Player Characters]]**  | **[[z_Website/Group Cup Challenge\|Group Cup Challenge]]** | **[[z_Website/Appointments\|Book an Appointment]]** |
 | ![Session Journals.png](/img/user/z_Assets/website/Session%20Journals.png)  |       ![Quests.png](/img/user/z_Assets/website/Quests.png)       |             ![Handouts.png](/img/user/z_Assets/website/Handouts.png)             |
 |  **[[z_Website/Session Journals\|Session Journals]]**  |       **[[z_Website/Quests\|Quests]]**        |          **[[z_Website/Player Handouts\|Player Handouts]]**          |
-![Construction Bot.png|200](/img/user/z_Assets/website/Construction%20Bot.png)
+
 
 ---
 ## 🗞️ Notice Board Highlights
