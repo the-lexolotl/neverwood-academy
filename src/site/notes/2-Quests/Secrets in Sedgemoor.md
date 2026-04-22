@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-04-18","questStatus":"Not Obtained","questGiver":["[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]","[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]"],"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Secrets in Sedgemoor.md","permalink":"/quests/secrets-in-sedgemoor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-04-18","questStatus":"Not Obtained","questGiver":["[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]","[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]"],"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Secrets in Sedgemoor.md","permalink":"/quests/secrets-in-sedgemoor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -24,32 +24,31 @@ What the students find there may not only cleanse the waters... but reveal the f
 
 # Objectives
 ### A Field Assignment Gone Sour
-- [ ] Receive [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Professor Lang’s]] instructions to collect biological spell components from Sedgemoor
-- [ ] Receive [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Professor Brandford’s]] sealed flask of holy water
-- [ ] Learn of strange magical disturbances within the marsh
+- [x] ~~Receive [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Professor Lang’s]] instructions to collect biological spell components from Sedgemoor~~
+- [x] ~~Receive [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Professor Brandford’s]] sealed flask of holy water~~
+- [x] ~~Learn of strange magical disturbances within the marsh~~
 ### Harvesting the Marsh
-- [ ] Travel into the depths of Sedgemoor
-- [ ] Collect required spell components for Magical Physiologies
-	- [ ] 
+- [x] ~~Travel into the depths of Sedgemoor~~
+- [x] ~~Collect required spell components for Magical Physiologies~~
 ### Signs Beneath the Surface
-- [ ] Investigate areas of magical corruption
-- [ ] Identify traces of necrotic or experimental magic
-- [ ] Follow clues pointing toward the north-west islet
-- [ ] Discover evidence suggesting Murgaxor’s involvement
+- [x] ~~Investigate areas of magical corruption~~
+- [x] ~~Identify traces of necrotic or experimental magic~~
+- [x] ~~Follow clues pointing toward the north-west islet~~
+- [x] ~~Discover evidence suggesting Murgaxor’s involvement~~
 ### The North-West Islet
-- [ ] Locate the isolated islet deep within Sedgemoor
-- [ ] Search for the source of magical disturbance
-- [ ] Discover the submerged spring beneath the water
-- [ ] Enter the water and reach the spring
+- [x] ~~Locate the isolated islet deep within Sedgemoor~~
+- [x] ~~Search for the source of magical disturbance~~
+- [x] ~~Discover the submerged spring beneath the water~~
+- [x] ~~Enter the water and reach the spring~~
 ### The Corrupted Spring
-- [ ] Confront whatever guards or inhabits the spring
-- [ ] Survive environmental hazards and underwater dangers
-- [ ] Pour Professor Brandford’s holy water into the spring
-- [ ] Witness the corruption recoil and partially cleanse
+- [x] ~~Confront whatever guards or inhabits the spring~~
+- [x] ~~Survive environmental hazards and underwater dangers~~
+- [x] ~~Pour Professor Brandford’s holy water into the spring~~
+- [x] ~~Witness the corruption recoil and partially cleanse~~
 ### Murgaxor’s Trail
-- [ ] Discover Murgaxor’s abandoned diary near the spring
-- [ ] Recover and secure the diary for return to Neverwood
-- [ ] Piece together fragments of their experiments and intentions
+- [x] ~~Discover Murgaxor’s abandoned diary near the spring~~
+- [x] ~~Recover and secure the diary for return to Neverwood~~
+- [x] ~~Piece together fragments of their experiments and intentions~~
 
 # Quest Handouts
 | File                                                                         | Date Obtained | Category | Associated NPCs                                                                                         |
@@ -68,10 +67,15 @@ What the students find there may not only cleanse the waters... but reveal the f
 
 # People
 The following people are associated with this quest.
-| Character                                                                              | Race  | Gender | Role                |
-| -------------------------------------------------------------------------------------- | ----- | ------ | ------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human | Male   | Professor of Shadow |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad | Female | Professor of Growth |
+| Character                                                                              | Race            | Gender | Role                |
+| -------------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human           | Male   | Professor of Shadow |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad           | Female | Professor of Growth |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                     | Human           | Male   | Player              |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                           | Variant Aasimar | Female | Player              |
+| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                  | Minotaur        | Male   | Player              |
+| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                 | Dragonborn      | Female | Player              |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                        | Aarakocra       | Female | Player              |
 
 { .block-language-dataview}
 
