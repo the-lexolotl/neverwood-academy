@@ -1,5 +1,5 @@
 ---
-{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":0,"coin_gp":52,"coin_ep":0,"coin_sp":35,"coin_cp":20,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -88,6 +88,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | ●    | Cha | Intimidation    | +3    |     | ○    | Dex | Stealth        | +0    |
 | ○(A) | Int | Investigation   | +1    |     | ○(A) | Wis | Survival       | -1    |
 ## Other Skills/Proficiencies 
+- Resistance to Bludgeoning, Piercing, and Slashing damage (Rage)
 - Light Armour
 - Medium Armour
 - Shields
@@ -117,11 +118,11 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 *Push, Drag, or Lift: 510 lbs*
 ### Coin
 
-| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+| `= this.coin_pp` | 52 | `= this.coin_ep` | 35 | 20 |
 ### Items
-> [!example]- Equipment (12)
+> [!example]- Equipment (16)
 > [[3-Mechanics/CLI/items/bullseye-lantern-xphb\|Bullseye Lantern]]
 > [[3-Mechanics/CLI/items/greataxe-xphb\|Greataxe]]
 > [[3-Mechanics/CLI/items/handaxe-xphb\|Handaxe]]
@@ -129,7 +130,11 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 > [[3-Mechanics/CLI/items/handaxe-xphb\|Handaxe]]
 > [[3-Mechanics/CLI/items/handaxe-xphb\|Handaxe]]
 > [[3-Mechanics/CLI/items/manacles-xphb\|Manacles]]
+> Moss and Fungi Harvesting Kit
 > [[3-Mechanics/CLI/items/oil-xphb\|Oil]]
+> Phil's Top Hat 
+> [[3-Mechanics/CLI/items/potion-of-healing-xdmg\|Potion of Healing]]
+> Pyroconverger
 > [[3-Mechanics/CLI/items/smiths-tools-xphb\|Smith's Tools]]
 > [[3-Mechanics/CLI/items/spear-xphb\|Spear]]
 > [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
@@ -147,7 +152,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[1-Party/Group 3/Group 3.md|Group 3]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]]
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
 
@@ -170,5 +175,29 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                                  | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                                 | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                                  | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                                  |
 
+:::hidden
+# Configure
 
 
+
+| Stat     | Value                                                                                                                                                                                                                                                                              |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Status   | `INPUT[template-person-status][:char_status]`                                                                                                                                                                                                                                      |
+| Race     | `INPUT[template-person-race][:char_race]`                                                                                                                                                                                                                                          |
+| Class    | `INPUT[inlineListSuggester(option(Artificer), option(Barbarian), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Fighter), option(Monk), option(Paladin), option(Ranger), option(Rogue), option(Sorcerer), option(Warlock), option(Wizard)):char_class]` |
+| Level    | `INPUT[number:level]`                                                                                                                                                                                                                                                              |
+| Gender   | `INPUT[template-person-gender][:char_gender]`                                                                                                                                                                                                                                      |
+| Age      | `INPUT[template-person-age-range][:char_age]`                                                                                                                                                                                                                                      |
+| HP       | `INPUT[number:hp]`                                                                                                                                                                                                                                                                 |
+| Max HP   | `INPUT[number:max_hp]`                                                                                                                                                                                                                                                             |
+| AC       | `INPUT[number:ac]`                                                                                                                                                                                                                                                                 |
+| Modifier | `INPUT[number:modifier]`                                                                                                                                                                                                                                                           |
+| College  | `INPUT[template-college][:char_college]`                                                                                                                                                                                                                                           |
+# GM Notes
+
+| Required Info   | DM's Suggestion                                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| College         | Lorehold                                                                                                                   |
+| Courses         | Falling into Ruin: Guidelines on Successful Exploration of Historical Sites, Flame of Knowledge: Lessons from the Founders |
+| Characteristics | Age, Hight, Weight, Eye colour, Hair colour, Skin colour, Faith                                                            |
+arch nemisis - the mosquito

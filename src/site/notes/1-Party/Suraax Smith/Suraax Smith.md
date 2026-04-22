@@ -1,5 +1,5 @@
 ---
-{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[1-Party/Group 3/Group 3.md\|Group 3]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Suraax Smith/Suraax Smith.md","permalink":"/party/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":0,"coin_gp":43,"coin_ep":0,"coin_sp":7,"coin_cp":32,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Suraax Smith/Suraax Smith.md","permalink":"/party/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -116,20 +116,24 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 *Push, Drag, or Lift: 480 lbs*
 ### Coin
 
-| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+| `= this.coin_pp` | 43 | `= this.coin_ep` | 7 | 32 |
 ### Items
-> [!example]- Equipment (7)
-[[3-Mechanics/CLI/items/chain-mail-xphb\|Chain Mail]]
-[[3-Mechanics/CLI/items/greataxe-xphb\|Greataxe]]
-Hammer
-[[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
-[[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
-[[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]]
-[[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
-Suraax's Dorm Room Key
-Neverwood - First Year Uniform
+> [!example]- Equipment (12)
+> Book of GRIFFT Vouchers
+> Moss and Fungi Harvesting Kit
+> [[3-Mechanics/CLI/items/chain-mail-xphb\|Chain Mail]]
+> [[3-Mechanics/CLI/items/greataxe-xphb\|Greataxe]]
+> Hammer
+> [[3-Mechanics/CLI/items/ink-xphb\|Ink]] (1 ounce bottle)
+> [[3-Mechanics/CLI/items/ink-pen-xphb\|Ink Pen]]
+> [[3-Mechanics/CLI/items/hooded-lantern-xphb\|Hooded Lantern]]
+> [[3-Mechanics/CLI/items/tinderbox-xphb\|Tinderbox]]
+> Suraax's Dorm Room Key
+> Neverwood - First Year Uniform
+
+> [!example]- Heward's Handy Haversack (0)
 
 > [!example]- Pouch (0)
 > 
@@ -138,7 +142,7 @@ Neverwood - First Year Uniform
 
 **Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
-**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[1-Party/Group 3/Group 3.md|Group 3]],[[2-World/Groups/Extracurricular Club/Wrestling Society.md|Wrestling Society]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Wrestling Society.md|Wrestling Society]]
 
 # Relationships
 **Pets:** None/Unknown
@@ -159,4 +163,25 @@ Neverwood - First Year Uniform
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                             | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                            | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                             | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                             |
 
+:::hidden
+# Configure
+
+
+
+| Stat     | Value                                         |
+| -------- | --------------------------------------------- |
+| Status   | `INPUT[template-person-status][:char_status]` |
+| Race     | `INPUT[template-person-race][:char_race]`     |
+| Class    | `INPUT[template-person-class][:char_class]`   |
+| Level    | `INPUT[number:level]`                         |
+| Gender   | `INPUT[template-person-gender][:char_gender]` |
+| Age      | `INPUT[template-person-age-range][:char_age]` |
+| HP       | `INPUT[number:hp]`                            |
+| Max HP   | `INPUT[number:max_hp]`                        |
+| AC       | `INPUT[number:ac]`                            |
+| Modifier | `INPUT[number:modifier]`                      |
+| College  | `INPUT[template-college][:char_college]`      |
+# GM Notes
+
+Make notes of what you need to track in the town here. 
 

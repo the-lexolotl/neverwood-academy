@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[1-Party/Group 1/Group 1.md\|Group 1]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":5,"coin_gp":192,"coin_ep":4,"coin_sp":135,"coin_cp":97,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -115,9 +115,9 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 *Push, Drag, or Lift: 390 lbs*
 ### Coin
 
-| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+| 5 | 192 | 4 | 135 | 97 |
 ### Items
 > [!example]- Equipment (25)
 > [[3-Mechanics/CLI/items/potion-of-pugilism-xdmg\|Potion of Pugilism]]
@@ -155,7 +155,7 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[1-Party/Group 1/Group 1.md|Group 1]],[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Price of Integrity\|The Price of Integrity]],[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]],[[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]],[[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
 
@@ -178,3 +178,23 @@ Looking ahead, Vigilius envisions himself standing as a protector, shielding the
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                                 | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                                | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                                 | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                                 |
 
+:::hidden
+# Configure
+
+
+
+| Stat     | Value                                         |
+| -------- | --------------------------------------------- |
+| Status   | `INPUT[template-person-status][:char_status]` |
+| Race     | `INPUT[template-person-race][:char_race]`     |
+| Class    | `INPUT[template-person-class][:char_class]`   |
+| Level    | `INPUT[number:level]`                         |
+| Gender   | `INPUT[template-person-gender][:char_gender]` |
+| Age      | `INPUT[template-person-age-range][:char_age]` |
+| HP       | `INPUT[number:hp]`                            |
+| Max HP   | `INPUT[number:max_hp]`                        |
+| AC       | `INPUT[number:ac]`                            |
+| Modifier | `INPUT[number:modifier]`                      |
+| College  | `INPUT[template-college][:char_college]`      |
+# GM Notes
+Make notes of what you need to track in the town here. 

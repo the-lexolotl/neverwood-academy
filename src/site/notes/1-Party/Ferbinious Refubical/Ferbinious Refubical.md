@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":null,"coin_ep":null,"coin_gp":null,"coin_sp":null,"coin_cp":null,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"aliases":null,"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":1,"coin_gp":43,"coin_ep":0,"coin_sp":15,"coin_cp":12,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 > [!infobox|left]+
@@ -107,15 +107,31 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 *Push, Drag, or Lift: 300 lbs*
 ### Coin
 
-| Platinum (pp)    | Electrum (ep)    | Gold (gp)        | Silver (sp)      | Copper (cp)      |
+| Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | `= this.coin_ep` | `= this.coin_gp` | `= this.coin_sp` | `= this.coin_cp` |
+| 1 | 43 | `= this.coin_ep` | 15 | 12 |
 ### Items
-> [!example]- Equipment (0)
-> This is my text
+> [!example]- Equipment (10)
+> Crystal
+Dagger
+Dagger
+Hammer
+Ink (1 ounce bottle)
+Ink Pen
+Hooded Lantern 
+Spear
+Tinderbox
+Tinker's Tools
 
-> [!example]- Backpack (0)
-> This is my text
+> [!example]- Backpack (8)
+> Caltrops
+Crowbar
+Oil
+Rations
+Rope
+Tinderbox
+Torch
+Waterskin
 
 > [!example]- Pouch (0)
 > This is my text 
