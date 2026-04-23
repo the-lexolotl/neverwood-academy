@@ -175,29 +175,3 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                                  | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                                 | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                                  | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                                  |
 
-:::hidden
-# Configure
-
-
-
-| Stat     | Value                                                                                                                                                                                                                                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Status   | `INPUT[template-person-status][:char_status]`                                                                                                                                                                                                                                      |
-| Race     | `INPUT[template-person-race][:char_race]`                                                                                                                                                                                                                                          |
-| Class    | `INPUT[inlineListSuggester(option(Artificer), option(Barbarian), option(Bard), option(Blood Hunter), option(Cleric), option(Druid), option(Fighter), option(Monk), option(Paladin), option(Ranger), option(Rogue), option(Sorcerer), option(Warlock), option(Wizard)):char_class]` |
-| Level    | `INPUT[number:level]`                                                                                                                                                                                                                                                              |
-| Gender   | `INPUT[template-person-gender][:char_gender]`                                                                                                                                                                                                                                      |
-| Age      | `INPUT[template-person-age-range][:char_age]`                                                                                                                                                                                                                                      |
-| HP       | `INPUT[number:hp]`                                                                                                                                                                                                                                                                 |
-| Max HP   | `INPUT[number:max_hp]`                                                                                                                                                                                                                                                             |
-| AC       | `INPUT[number:ac]`                                                                                                                                                                                                                                                                 |
-| Modifier | `INPUT[number:modifier]`                                                                                                                                                                                                                                                           |
-| College  | `INPUT[template-college][:char_college]`                                                                                                                                                                                                                                           |
-# GM Notes
-
-| Required Info   | DM's Suggestion                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| College         | Lorehold                                                                                                                   |
-| Courses         | Falling into Ruin: Guidelines on Successful Exploration of Historical Sites, Flame of Knowledge: Lessons from the Founders |
-| Characteristics | Age, Hight, Weight, Eye colour, Hair colour, Skin colour, Faith                                                            |
-arch nemisis - the mosquito
