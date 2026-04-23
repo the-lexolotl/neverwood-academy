@@ -175,23 +175,3 @@ Looking ahead, Vigilius no longer seeks answers buried in the past, but purpose 
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | ![First Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/First%20Year.png)                                 | ![Second Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Second%20Year.png)                                | ![Third Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Third%20Year.png)                                 | ![Forth Year.png](/img/user/z_Assets/website/Academic%20Year%20Buttons/Forth%20Year.png)                                 |
 
-:::hidden
-# Configure
-
-
-
-| Stat     | Value                                         |
-| -------- | --------------------------------------------- |
-| Status   | `INPUT[template-person-status][:char_status]` |
-| Race     | `INPUT[template-person-race][:char_race]`     |
-| Class    | `INPUT[template-person-class][:char_class]`   |
-| Level    | `INPUT[number:level]`                         |
-| Gender   | `INPUT[template-person-gender][:char_gender]` |
-| Age      | `INPUT[template-person-age-range][:char_age]` |
-| HP       | `INPUT[number:hp]`                            |
-| Max HP   | `INPUT[number:max_hp]`                        |
-| AC       | `INPUT[number:ac]`                            |
-| Modifier | `INPUT[number:modifier]`                      |
-| College  | `INPUT[template-college][:char_college]`      |
-# GM Notes
-Make notes of what you need to track in the town here. 
