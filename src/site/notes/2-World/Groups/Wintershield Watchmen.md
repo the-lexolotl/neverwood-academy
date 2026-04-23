@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":"Mercenary Company","image":"Template_Group_Placeholder.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["The Wintershield Watchmen"],"dg-path":"World/Groups/Wintershield Watchmen.md","permalink":"/world/groups/wintershield-watchmen/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":"Mercenary Company","image":"Template_Group_Placeholder.png","obsidianUIMode":"preview","leader":"Bob","officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["The Wintershield Watchmen"],"Connected_Quests":["[[Nest of the Eldritch Eye]]"],"dg-path":"World/Groups/Wintershield Watchmen.md","permalink":"/world/groups/wintershield-watchmen/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -69,5 +69,7 @@ The following people are members of this group.
 | File                                                                   | Gender | Race  | Role                          | College |
 | ---------------------------------------------------------------------- | ------ | ----- | ----------------------------- | ------- |
 | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]] | Male   | Human | Lord Protector of Neverwinter | None    |
+| [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]] | Male   | Human | City Watch                    | None    |
+| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] | Female | Human | City Watch                    | None    |
 
 { .block-language-dataview}
