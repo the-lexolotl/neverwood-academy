@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Heist the Records Room.md","permalink":"/quests/heist-the-records-room/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Heist the Records Room.md","permalink":"/quests/heist-the-records-room/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -68,9 +68,9 @@ The following people are associated with this quest.
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]              | Variant Aasimar | Female | Player    |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]     | Halfling        | Male   | Player    |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]        | Dragonborn      | Male   | Player    |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                          | Yuan-Ti         | Male   | Player    |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]           | Aarakocra       | Female | Player    |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]     | Triton          | Male   | Player    |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                          | Yuan-Ti         | Male   | Player    |
 
 { .block-language-dataview}
 

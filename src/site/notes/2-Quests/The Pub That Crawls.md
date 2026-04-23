@@ -56,18 +56,18 @@ The following people are associated with this quest.
 | ----------------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]        | Changling       | Female | Tavern Founder      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                            | Owlin           | Male   | Tavern Manager      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                        | Human           | Male   | Tavern Manager      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]      | Elf             | Female | Tavern Founder      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]]      | Kor             | Male   | Tavern Ghost        |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]            | Elf             | Male   | Tavern Founder      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost        |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]      | Human           | Male   | Tavern Founder      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                          | Burrog          | Male   | Other               |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                | Loxodon         | Male   | Tavern Manager      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                          | Automaton       | Other  | Tavern Manager      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder      |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human           | Male   | Professor of Chaos  |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human           | Male   | Deputy Head Teacher |

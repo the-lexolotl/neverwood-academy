@@ -34,8 +34,8 @@ Cohorts are typically overseen by assigned staff members, such as Guidance Couns
 The following people are members of this group.  
 | File                                                                                                               | Gender     | Race         | Role    | College     |
 | ------------------------------------------------------------------------------------------------------------------ | ---------- | ------------ | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Female     | Firbolg      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                                   | Male       | Aasimar      | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Female     | Firbolg      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                   | Non-binary | Orc          | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                                 | Female     | Owlin        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                           | Male       | Triton       | Student | Prismari    |

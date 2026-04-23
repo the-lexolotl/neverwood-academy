@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-12-13","questStatus":"Complete","questGiver":"[[Taiva Loreweaver|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]"],"questSessionObtained":"[[2025-12-13 - Session 22|2025-12-13 - Session 22]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-inline-title":true,"dg-show-local-graph":true,"dg-path":"Quests/Up the Beanstalk.md","permalink":"/quests/up-the-beanstalk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-12-13","questStatus":"Complete","questGiver":"[[Taiva Loreweaver|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2025-12-13 - Session 22|2025-12-13 - Session 22]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-inline-title":true,"dg-show-local-graph":true,"dg-path":"Quests/Up the Beanstalk.md","permalink":"/quests/up-the-beanstalk/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -76,9 +76,9 @@ The following people are associated with this quest.
 | [[1-Party/Her/Her\|Her]]                                                                     | Tiefling        | Female | Player       |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                    | Variant Aasimar | Female | Player       |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn      | Male   | Player       |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                | Yuan-Ti         | Male   | Player       |
 | [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]            | Eladrin         | Female | Player       |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                           | Triton          | Male   | Player       |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                | Yuan-Ti         | Male   | Player       |
 
 { .block-language-dataview}
 

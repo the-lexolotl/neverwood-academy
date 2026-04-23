@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Industrial District","Ruined District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/River District.md","permalink":"/world/places/river-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Industrial District","Ruined District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"Connected_Quests":["[[Nest of the Eldritch Eye]]"],"dg-path":"World/Places/River District.md","permalink":"/world/places/river-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 

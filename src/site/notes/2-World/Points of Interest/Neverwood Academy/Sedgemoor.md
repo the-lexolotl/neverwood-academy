@@ -27,8 +27,9 @@ Despite its dangers, Sedgemoor is deeply respected rather than feared. It is see
 |             | 🕓:         |
 
 # Quests
-| File |
-| ---- |
+| File                                                       |
+| ---------------------------------------------------------- |
+| [[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]] |
 
 { .block-language-dataview}
 

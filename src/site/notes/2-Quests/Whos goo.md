@@ -68,19 +68,19 @@ And at the centre of it all, a name that should have remained nothing more than 
 - [x] ~~Identify signs of magical interference or forced transformation~~
 ### The Expanding Pattern
 - [x] ~~Investigate the goo found on the pot~~
-- [ ] Compare samples across multiple incidents
-- [ ] Identify that the substance is consistent across all incidents
-- [ ] Realise the incidents are not isolated
+- [x] ~~Compare samples across multiple incidents~~
+- [x] ~~Identify that the substance is consistent across all incidents~~
+- [x] ~~Realise the incidents are not isolated~~
 ### The Rose Stage Incident
-- [ ] Investigate magical chaos during the festival
-- [ ] Protect students and staff from unstable creatures or constructs
-- [ ] Track the source of the disturbance
-- [ ] Discover evidence of deliberate interference
+- [x] ~~Investigate magical chaos during the festival~~
+- [x] ~~Protect students and staff from unstable creatures or constructs~~
+- [x] ~~Track the source of the disturbance~~
+- [x] ~~Discover evidence of deliberate interference~~
 ### The Eldritch Balm Investigation
-- [ ] Determine whether the goo shares properties with the corrupted eldritch balm
-- [ ] Trace the supply chain of eldritch balm used on campus
-- [ ] Locate the source of the corruption in Sedgemoor's waters
-- [ ] Purify the waters of Sedgemoor
+- [x] ~~Determine whether the goo shares properties with the corrupted eldritch balm~~
+- [x] ~~Trace the supply chain of eldritch balm used on campus~~
+- [x] ~~Locate the source of the corruption in Sedgemoor's waters~~
+- [x] ~~Purify the waters of Sedgemoor~~
 - [ ] Confirm Murgaxor's connection to the tainted balm
 
 # Quest Handouts
@@ -115,9 +115,9 @@ The following people are associated with this quest.
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                | Aarakocra       | Female | Player                |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                          | Triton          | Male   | Player                |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player                |
 
 { .block-language-dataview}
 

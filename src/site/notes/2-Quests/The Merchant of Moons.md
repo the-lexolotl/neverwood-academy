@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/The Rose Stage.md|The Rose Stage]]","[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Merchants of the Moon.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Dramitia|Dramitia]]","questLocationObtained":"[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","questSessionObtained":"[[2025-10-24 - Megan Async|2025-10-24 - Megan Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Merchant of Moons.md","permalink":"/quests/the-merchant-of-moons/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/The Rose Stage.md|The Rose Stage]]","[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Merchants of the Moon.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Dramitia|Dramitia]]","questLocationObtained":["[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2025-10-24 - Megan Async|2025-10-24 - Megan Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Merchant of Moons.md","permalink":"/quests/the-merchant-of-moons/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolle
 - [x] ~~Investigate the anonymous patron behind the production~~
 - [x] ~~Discover the hidden messages in the altered script~~
 - [x] ~~Choose how to perform at the final audition — expose, defy, or refuse~~
-- [ ] Perform in The Merchant of Moons at The Rose Festival
+- [x] ~~Perform in The Merchant of Moons at The Rose Festival~~
 - [ ] Uncover the truth behind the Everlight Trust’s connection to Silverquill
 
 # Quest Handouts
