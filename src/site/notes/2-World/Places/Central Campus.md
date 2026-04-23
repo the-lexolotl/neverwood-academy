@@ -40,7 +40,7 @@ Though it appears open and accessible, the Central Campus is subtly structured t
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]]                                      | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Lidbrix Teawillow\|Lidbrix Teawillow]]         | Owlin                  | Male   | Dean of Admissions         |
-| [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                 | Human                  | Male   | Deputy Head Teacher        |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                 | Human                  | Male   | Former Deputy Head Teacher |
 | [[2-World/People/Neverwood Academy/Staff/General/Quentis Orvlo\|Quentis Orvlo]]                        | Vedalken               | Male   | General Studies Professor  |
 | [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                                      | Treant                 | Female | Grounds Keeper             |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Master Chef Gyome\|Master Chef Gyome]] | Troll                  | Male   | Head Chef                  |
