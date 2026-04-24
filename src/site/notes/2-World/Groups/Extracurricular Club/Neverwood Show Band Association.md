@@ -27,12 +27,12 @@ Opportunities for performance are frequent, with standout members often featured
 The following people are members of this group.  
 | File                                                                                                               | Gender | Race      | Role    | College     |
 | ------------------------------------------------------------------------------------------------------------------ | ------ | --------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                           | Female | Tiefling  | Coach   | None        |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Female | Gorgon    | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male   | Gnome     | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male   | Human     | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]                           | Female | Gorgon    | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]           | Female | Dhampir   | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]]                     | Male   | Warforged | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                       | Female | Human     | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                                           | Female | Tiefling  | Coach   | None        |
 
 { .block-language-dataview}

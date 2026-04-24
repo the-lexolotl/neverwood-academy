@@ -27,9 +27,9 @@ Members who excel may take on leadership roles within routines or represent the 
 The following people are members of this group.  
 | File                                                                                     | Gender     | Race            | Role    | College     |
 | ---------------------------------------------------------------------------------------- | ---------- | --------------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]] | Female     | Elf             | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]     | Non-binary | Firbolg         | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]       | Male       | Orc             | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]] | Female     | Elf             | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]       | Male       | Fire Genasi     | Student | Prismari    |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                             | Female     | Variant Aasimar | Player  | Silverquill |
 

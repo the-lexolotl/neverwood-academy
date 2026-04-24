@@ -75,12 +75,12 @@ Moments later, Jimmy, clearly panicking, rushes to the party for help. He didnâ€
 The following people are associated with this quest.
 | Character                                                                                    | Race            | Gender | Role    |
 | -------------------------------------------------------------------------------------------- | --------------- | ------ | ------- |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf             | Female | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn      | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome           | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter         | Male   | Student |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf             | Female | Student |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                           | Human           | Male   | Player  |
 | [[1-Party/Her/Her\|Her]]                                                                  | Tiefling        | Female | Player  |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                 | Variant Aasimar | Female | Player  |

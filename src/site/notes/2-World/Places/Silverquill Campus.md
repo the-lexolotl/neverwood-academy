@@ -42,9 +42,11 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]           | Elf        | Female     | Student               |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
+| [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
+| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
@@ -52,9 +54,7 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]         | Orc        | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]         | Changling  | Non-binary | Student               |
-| [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
-| [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
-| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]           | Elf        | Female     | Student               |
 
 { .block-language-dataview}
 
@@ -63,8 +63,8 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
 
 { .block-language-dataview}
 

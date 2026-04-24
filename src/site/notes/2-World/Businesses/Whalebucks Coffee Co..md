@@ -49,8 +49,8 @@ The original brothers passed away about thirty years ago. Their respective busin
 The following people are associated with this business.  
 | File                                                                        | Gender | Race  | Role         | College |
 | --------------------------------------------------------------------------- | ------ | ----- | ------------ | ------- |
-| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]     | Male   | Human | Cafe Founder | None    |
+| [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]   | Male   | Human | Cafe Founder | None    |
 | [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] | Male   | Human | Cafe Manager | None    |
 
 { .block-language-dataview}
