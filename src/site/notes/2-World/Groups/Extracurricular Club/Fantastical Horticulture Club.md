@@ -28,8 +28,8 @@ The following people are members of this group.
 | File                                                                                           | Gender | Race       | Role    | College     |
 | ---------------------------------------------------------------------------------------------- | ------ | ---------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]   | Female | Firbolg    | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Female | Owlin      | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]] | Female | Halfling   | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Female | Owlin      | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                     | Female | Half-Orc   | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]     | Female | Aasimar    | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]       | Male   | Orc        | Student | Witherbloom |

@@ -27,8 +27,8 @@ The Guild thrives on collaboration, with every participant contributing to the e
 The following people are members of this group.  
 | File                                                                                                       | Gender | Race       | Role    | College     |
 | ---------------------------------------------------------------------------------------------------------- | ------ | ---------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Female | Owlin      | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Male   | Triton     | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Female | Owlin      | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]               | Male   | Elf        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                   | Male   | Shadar-Kai | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Female | Gnome      | Student | Lorehold    |

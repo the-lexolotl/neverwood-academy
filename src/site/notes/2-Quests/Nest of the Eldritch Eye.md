@@ -7,7 +7,7 @@
 
 > [!infobox|left]+
 > # Nest of the Eldritch Eye
-> ![Pasted image 20260423140831.png](/img/user/z_Assets/Pasted%20image%2020260423140831.png)
+> ![VECNA Nest.png](/img/user/z_Assets/VECNA%20Nest.png)
 > ###### Basic Info
 > | Date Obtained: | 2026-04-25T00:00:00.000+01:00 |
 | ----------------- | -------------------------- |
@@ -80,8 +80,8 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwinter/Chanelle Hallwinter\|Chanelle Hallwinter]] | Human    | Female | Ghost                         |
 | [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]]     | Human    | Male   | City Watch                    |
 | [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]]     | Human    | Female | City Watch                    |
-| [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]     | Deity    | Male   | Mage                          |
 | [[2-World/People/Neverwinter/Zalryr\|Zalryr]]                           | Half-Elf | Male   | Cult Leader                   |
+| [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]     | Deity    | Male   | Mage                          |
 
 { .block-language-dataview}
 

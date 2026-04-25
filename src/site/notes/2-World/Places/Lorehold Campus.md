@@ -46,8 +46,8 @@ The campus carries an atmosphere of quiet intensity. Every stone feels significa
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome       | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg     | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome       | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human       | Female     | Student            |
+| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome       | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf    | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin       | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |

@@ -50,9 +50,9 @@
 The following people are associated with this quest.
 | Character                                                                                  | Race            | Gender     | Role    |
 | ------------------------------------------------------------------------------------------ | --------------- | ---------- | ------- |
+| [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]     | Human           | Male       | Veteran |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]               | Cat             | Male       | Other   |
-| [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                         | Human           | Male       | Player  |
 | [[1-Party/Her/Her\|Her]]                                                                | Tiefling        | Female     | Player  |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                               | Variant Aasimar | Female     | Player  |

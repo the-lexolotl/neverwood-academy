@@ -82,8 +82,8 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc  | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]           | Loxodon   | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc  | Male   | Tavern Founder |
 
 { .block-language-dataview}
 
