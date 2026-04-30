@@ -78,11 +78,11 @@ The party must recover the Star before the Wintergeist grows too strong. Failure
 The following people are associated with this quest.
 | Character                                                                                        | Race            | Gender | Role                |
 | ------------------------------------------------------------------------------------------------ | --------------- | ------ | ------------------- |
-| [[2-World/People/Other/Unspecified/Vormor\|Vormor]]                                           | Half-Giant      | Male   | Other               |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                             | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]          | Automaton       | Other  | Automaton           |
 | [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Dryad           | Male   | Student             |
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin           | Female | Student             |
+| [[2-World/People/Other/Unspecified/Vormor\|Vormor]]                                           | Half-Giant      | Male   | Other               |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                               | Human           | Male   | Player              |
 | [[1-Party/Her/Her\|Her]]                                                                      | Tiefling        | Female | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                     | Variant Aasimar | Female | Player              |

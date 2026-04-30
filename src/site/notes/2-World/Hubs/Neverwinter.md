@@ -112,7 +112,7 @@ Neverwinter’s emblem is three white snowflakes enclosed in silver and blue hal
 # Quests
 | File                                                               | Status      | Date Obtained |
 | ------------------------------------------------------------------ | ----------- | ------------- |
-| [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]] | Not Started | 25 Apr, 2026  |
+| [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]] | In Progress | 25 Apr, 2026  |
 | [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]           | Complete    | 01 Nov, 2025  |
 
 { .block-language-dataview}

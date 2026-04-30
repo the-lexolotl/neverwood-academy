@@ -69,9 +69,9 @@ Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Lorew
 The following people are associated with this quest.
 | Character                                                                                       | Race            | Gender | Role         |
 | ----------------------------------------------------------------------------------------------- | --------------- | ------ | ------------ |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human           | Female | Head Teacher |
 | [[2-World/People/Other/Up the Beanstalk/Teanna Aethelos\|Teanna Aethelos]]                   | Giant           | Female | Other        |
 | [[2-World/People/Other/Up the Beanstalk/Aurum Aethelos\|Aurum Aethelos]]                     | Giant           | Male   | Other        |
-| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human           | Female | Head Teacher |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                              | Human           | Male   | Player       |
 | [[1-Party/Her/Her\|Her]]                                                                     | Tiefling        | Female | Player       |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                    | Variant Aasimar | Female | Player       |

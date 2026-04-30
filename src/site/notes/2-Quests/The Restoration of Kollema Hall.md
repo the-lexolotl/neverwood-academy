@@ -72,9 +72,9 @@ The following people are associated with this quest.
 | ----------------------------------------------------------------------------------------------- | ----------- | ------ | --------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                           | Orc         | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                         | Fire Genasi | Other  | College Dean          |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                       | Owlin       | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin       | Female | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]    | Owlin       | Female | College Dean          |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                       | Owlin       | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human       | Female | Head Teacher          |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn  | Male   | Player                |

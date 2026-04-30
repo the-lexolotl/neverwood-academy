@@ -62,8 +62,8 @@ New recruits often start with simple tasks, giving them a chance to prove themse
 The following people are members of this group.  
 | File                                                                                         | Gender | Race  | Role    | College  |
 | -------------------------------------------------------------------------------------------- | ------ | ----- | ------- | -------- |
-| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Male   | Human | Student | Quandrix |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] | Male   | Elf   | Student | Quandrix |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Male   | Human | Student | Quandrix |
 
 { .block-language-dataview}
 

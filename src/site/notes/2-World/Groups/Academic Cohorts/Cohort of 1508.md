@@ -34,8 +34,8 @@ Cohorts are typically overseen by assigned staff members, such as Guidance Couns
 The following people are members of this group.  
 | File                                                                                                                         | Gender | Race            | Role    | College     |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]                                   | Female | Hexblood        | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female | Dhampir         | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]                                   | Female | Hexblood        | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                                         | Male   | Loxodon         | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Male   | Gnome           | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                                 | Male   | Elf             | Student | Quandrix    |
