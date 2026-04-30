@@ -141,9 +141,35 @@ img { max-width: 100%; border-radius: 8px; }
    LAYOUT — RESPONSIVE
 ============================== */
 
-/* --- Left file tree sidebar --- */
-.filetree-sidebar {
-    width: 250px !important;
+/* ==============================
+   LAYOUT — use CSS variables to work WITH the new base template
+   rather than overriding layout classes directly.
+   The base template now uses a variable system for all layout values.
+============================== */
+
+body {
+    /* Content area */
+    --dg-content-max-width: clamp(500px, calc(100vw - 660px), 1100px);
+    --dg-content-padding-top: 60px;
+    --dg-content-padding-top-mobile: 60px;
+    --dg-content-font-size: 18px;
+
+    /* Right sidebar */
+    --dg-sidebar-top: 50px;
+    --dg-sidebar-gap: 40px;
+    --dg-sidebar-max-width: 300px;
+    --dg-sidebar-container-padding: 10px;
+
+    /* Graph */
+    --dg-graph-width: 270px;
+    --dg-graph-height: 270px;
+    --dg-graph-margin-bottom: 40px;
+
+    /* Left filetree sidebar */
+    --dg-filetree-width: 250px;
+    --dg-filetree-min-width: 250px;
+    --dg-filetree-gap: 40px;
+    --dg-filetree-logo-height: 80px;
 }
 
 /* --- Add logo image to top of left sidebar --- */
@@ -163,66 +189,10 @@ img { max-width: 100%; border-radius: 8px; }
     margin-top: -5px !important;
 }
 
-/* --- Right sidebar --- */
-.sidebar {
-    max-width: 300px !important;
-    right: 7px !important;
-    top: 50px !important;
-}
-
-.sidebar-container {
-    padding-right: 10px !important;
-}
-
-.sidebar .graph {
-    width: 270px !important;
-    min-height: 270px !important;
-    margin-top: -10px !important;
-    margin-bottom: 40px !important;
-}
-
-.sidebar .graph #link-graph {
-    width: 260px !important;
-    height: 260px !important;
-}
-
-/* --- Main content area ---
-   300px left sidebar + 320px right sidebar + 40px gutters = 660px total reserved.
-   clamp: never smaller than 500px, never larger than 1200px, scales with viewport.
-   This keeps content from overlapping the right sidebar at any screen size.
-------------------------------------- */
-.content {
-    margin-left: 300px !important;
-    margin-right: auto !important;
-    max-width: clamp(500px, calc(100vw - 660px), 1200px) !important;
-    padding-right: 2em !important;
-    margin-top: 60px !important;
-}
-
-/* --- When right sidebar is hidden, allow content to expand further --- */
-body:not(:has(.sidebar)) .content,
-body:has(.sidebar[style*="display: none"]) .content,
-body:has(.sidebar[style*="display:none"]) .content {
-    max-width: clamp(500px, calc(100vw - 370px), 1400px) !important;
-    margin-right: 50px !important;
-}
-
-/* --- Mid-size screens (laptop): tighten up margins --- */
+/* --- Responsive: tighten content on mid-size screens --- */
 @media (max-width: 1600px) {
-    .content {
-        max-width: calc(100vw - 660px) !important;
-        padding-right: 1.5em !important;
-    }
-}
-
-/* --- Tablet and mobile --- */
-@media (max-width: 800px) {
-    .content {
-        margin-left: auto !important;
-        margin-right: auto !important;
-        max-width: 100% !important;
-        padding-right: 1em !important;
-        margin-top: 60px !important;
+    body {
+        --dg-content-max-width: calc(100vw - 660px);
     }
 }
 
@@ -231,21 +201,6 @@ body:has(.sidebar[style*="display:none"]) .content {
     h1 { font-size: 2em; }
     h2 { font-size: 1.75em; }
     h3 { font-size: 1.5em; }
-}
-
-/* --- Fullscreen/expanded graph size --- */
-.sidebar .graph-fs,
-#full-graph {
-    height: calc(100vmin - 50px) !important;
-    width: calc(100vmin - 50px) !important;
-    min-height: 500px !important;
-    min-width: 500px !important;
-}
-
-.sidebar .graph-fs #link-graph,
-#full-graph #full-graph-container {
-    width: 100% !important;
-    height: 100% !important;
 }
 
 /* ==============================
