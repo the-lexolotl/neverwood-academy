@@ -771,7 +771,7 @@ module.exports = function(eleventyConfig) {
       data: `_data`,
     },
     templateFormats: ["njk", "md", "11ty.js", "canvas", "html"],
-    htmlTemplateEngine: ["njk", "html"],
+    htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
   };
