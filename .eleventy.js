@@ -770,8 +770,8 @@ module.exports = function(eleventyConfig) {
       output: "dist",
       data: `_data`,
     },
-    templateFormats: ["njk", "md", "11ty.js", "canvas"],
-    htmlTemplateEngine: "njk",
+    templateFormats: ["njk", "md", "11ty.js", "canvas", "html"],
+    htmlTemplateEngine: ["njk", "html"],
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
   };
