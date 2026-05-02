@@ -148,13 +148,13 @@ img { max-width: 100%; border-radius: 8px; }
 ============================== */
 
 body {
-    /* Content area - set a fixed max-width; the base template handles responsive scaling */
-    --dg-content-max-width: 900px;
+    /* Set max-width large so it never artificially caps — the sidebar gaps control width */
+    --dg-content-max-width: 9999px;
     --dg-content-padding-top: 60px;
     --dg-content-padding-top-mobile: 60px;
     --dg-content-font-size: 18px;
 
-    /* Right sidebar - reduce gap so content sits closer */
+    /* Right sidebar sits at edge with minimal gap */
     --dg-sidebar-top: 50px;
     --dg-sidebar-gap: 20px;
     --dg-sidebar-max-width: 280px;
@@ -165,7 +165,7 @@ body {
     --dg-graph-height: 250px;
     --dg-graph-margin-bottom: 30px;
 
-    /* Left filetree sidebar - reduce gap so content sits closer */
+    /* Left filetree sidebar sits at edge with minimal gap */
     --dg-filetree-width: 250px;
     --dg-filetree-min-width: 250px;
     --dg-filetree-gap: 20px;
