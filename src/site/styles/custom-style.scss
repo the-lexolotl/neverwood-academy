@@ -149,19 +149,18 @@ img { max-width: 100%; border-radius: 8px; }
 
 body {
     /* Layout arithmetic:
-       Left sidebar: 250px wide + 20px gap = 270px
-       Right sidebar: 280px wide + 20px gap = 300px
-       Total reserved: 570px
-       Content max-width = 100vw - 570px, capped sensibly.
-       Use a large clamp max so it never artificially caps on wide screens. */
-    --dg-content-max-width: clamp(400px, calc(100vw - 570px), 2000px);
+       Left sidebar: 250px wide + 40px gap = 290px
+       Right sidebar: 280px wide + 40px gap = 320px
+       Total reserved: 610px
+       Content max-width = 100vw - 610px */
+    --dg-content-max-width: clamp(400px, calc(100vw - 610px), 2000px);
     --dg-content-padding-top: 60px;
     --dg-content-padding-top-mobile: 60px;
     --dg-content-font-size: 18px;
 
-    /* Right sidebar */
+    /* Right sidebar — increase gap so content doesn't butt up against it */
     --dg-sidebar-top: 50px;
-    --dg-sidebar-gap: 20px;
+    --dg-sidebar-gap: 40px;
     --dg-sidebar-max-width: 280px;
     --dg-sidebar-container-padding: 10px;
 
@@ -170,10 +169,11 @@ body {
     --dg-graph-height: 250px;
     --dg-graph-margin-bottom: 30px;
 
-    /* Left filetree sidebar */
+    /* Left filetree — increase gap so tree has breathing room from screen edge */
     --dg-filetree-width: 250px;
     --dg-filetree-min-width: 250px;
-    --dg-filetree-gap: 20px;
+    --dg-filetree-gap: 40px;
+    --dg-filetree-padding: 10px 20px 10px 20px;
     --dg-filetree-logo-height: 80px;
 }
 
@@ -342,6 +342,8 @@ input[type="checkbox"]:checked::after {
 body:has(.homepage) .content {
     margin-top: 0 !important;
     padding-top: 0 !important;
+    /* No right sidebar on homepage — override max-width to use that extra space */
+    max-width: clamp(400px, calc(100vw - 330px), 2000px) !important;
 }
 
 /* Banner image at top of homepage */
