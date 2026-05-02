@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Businesses/Folly Guides\|Folly Guides]]"],"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-24","dg-hide":false,"Connected_NPC":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]"],"handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27\|2026-01-24 - Session 27]]","school_year":1,"dg-path":"Player Handouts/Others/Folly Guide - Neverwinter.md","permalink":"/player-handouts/others/folly-guide-neverwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Businesses/Folly Guides\|Folly Guides]]"],"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-01-24","dg-hide":false,"Connected_NPC":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]"],"handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27\|2026-01-24 - Session 27]]","school_year":1,"dg-path":"Player Handouts/Others/Folly Guide - Neverwinter.md","permalink":"/player-handouts/others/folly-guide-neverwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Businesses/Folly Guides\|Folly Guides]]"],"handout-cat":"Book","handoutObtained":"2026-01-24","Connected_NPC":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]"],"handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27\|2026-01-24 - Session 27]]","school_year":1}}
 ---
 
 
@@ -7,10 +7,10 @@
 
 # Details
 
-**Associated Groups:** [[2-World/Businesses/Folly Guides.md|Folly Guides]]
-**Associated Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
-**Associated NPCs:** [[2-World/People/Other/Whalebucks/Tolan Whalewake.md|Tolan Whalewake]]
-**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27.md|2026-01-24 - Session 27]]
+**Associated Groups:** [[2-World/Businesses/Folly Guides\|Folly Guides]]
+**Associated Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
+**Associated NPCs:** [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]
+**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27\|2026-01-24 - Session 27]]
 
 ---
 <div style="position: relative; width: 80%; height: 0; padding-top: 141.4286%;

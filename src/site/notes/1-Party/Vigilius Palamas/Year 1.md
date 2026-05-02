@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"dg-path":"Party/Vigilius Palamas/Year 1.md","permalink":"/party/vigilius-palamas/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"dg-path":"Party/Vigilius Palamas/Year 1.md","permalink":"/party/vigilius-palamas/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Academics"],"obsidianUIMode":"preview"}}
 ---
 
 # Timetable

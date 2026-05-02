@@ -1,12 +1,12 @@
 ---
-{"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Travel Guide","image":"Folly Guides.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Folly Guides.md","permalink":"/world/businesses/folly-guides/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Business"],"MyContainer":"[Toril]]","MyCategory":"Travel Guide","image":"Folly Guides.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake](/img/user/2-World/Planets/Toril.md)"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Folly Guides.md","permalink":"/world/businesses/folly-guides/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Business"],"MyContainer":"[Toril]]","MyCategory":"Travel Guide","image":"Folly Guides.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake](/img/user/2-World/Planets/Toril.md)"],"staff":null,"apprentices":null,"primary_contact":null}}
 ---
 
 > [!infobox|left]+
 > # Folly Guides
 > ![Folly Guides.png](/img/user/z_Assets/Companies/Dnd%20Logos/Folly%20Guides.png)
 > ###### General Info
-> | Location | [[2-World/Planets/Toril.md|Toril]] |
+> | Location | [[2-World/Planets/Toril\|Toril]] |
 > | ----------------- | -------------------------- |
 > | Category: | Travel Guide |
 > ###### Hierarchy
@@ -19,7 +19,7 @@
 
 # History
 ## Founding & Early History (ca. 1470s DR)
-[[Tolan Whalewake]], son of [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn]], grew up among the decks and docks of his father’s sea trade. From an early age he inherited both a wanderlust and a keen eye for practical details — the sort of observations sailors make when a wrong turn can cost both coin and life.
+[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], son of [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn]], grew up among the decks and docks of his father’s sea trade. From an early age he inherited both a wanderlust and a keen eye for practical details — the sort of observations sailors make when a wrong turn can cost both coin and life.
 As he travelled across [[2-World/Continents/Faerûn\|Faerûn]] and beyond, Tolan noticed that most travel books, maps, and guides were either wildly optimistic or carefully sugar-coated for wealthy patrons. In response, he began compiling his own journals, full of honest notes on inns, streets, customs, hazards, and the kinds of “local knowledge” that could save a traveller from serious trouble.
 He sold the first pamphlets himself from his ship, the _Folly’s Watch_, under the tongue-in-cheek title **“Folly Notes for the Informed Traveller.”** Their blunt and humorous tone quickly gained a small but devoted following among sailors, caravan leaders, and practical adventurers.
 

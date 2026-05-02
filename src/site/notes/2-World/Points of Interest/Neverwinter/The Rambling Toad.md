@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/The Chasm.md|The Chasm]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The rambling toad.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwinter/The Rambling Toad.md","permalink":"/world/points-of-interest/neverwinter/the-rambling-toad/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[The Chasm]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The rambling toad.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Places/The%20Chasm.md)"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwinter/The Rambling Toad.md","permalink":"/world/points-of-interest/neverwinter/the-rambling-toad/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/PointofInterest"],"MyContainer":["[The Chasm]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The rambling toad.jpg","Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Places/The%20Chasm.md)"]}}
 ---
 
 
@@ -39,8 +39,8 @@ Rambling Toad’s amenities may be sparse, but the regular clientele like it tha
 | File                                                                                 | Race    | Gender | Role           |
 | ------------------------------------------------------------------------------------ | ------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                     | Burrog  | Male   | Other          |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
 
 { .block-language-dataview}
 

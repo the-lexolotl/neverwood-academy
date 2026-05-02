@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"Complete","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","questSessionObtained":"[[2025-11-01 - Session 17|2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"questGiver":"[[Eb Zenithon|Eb Zenithon]]","dg-path":"Quests/The Pub That Crawls.md","permalink":"/quests/the-pub-that-crawls/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"Complete","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter](/img/user/2-World/Hubs/Neverwinter.md)","questSessionObtained":"[2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"questGiver":"[[Eb Zenithon|Eb Zenithon]]","dg-path":"Quests/The Pub That Crawls.md","permalink":"/quests/the-pub-that-crawls/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[The Tall Tale|The Tall Tale]]","[[The Frothing Flask|The Frothing Flask]]","[[The Lucid Dreamer|The Lucid Dreamer]]","[[The Rambling Toad|The Rambling Toad]]","[[The Beauty’s Mirror|The Beauty’s Mirror]]","[[2-World/Points of Interest/Neverwinter/The Pub That Crawls|The Pub That Crawls]]"],"MyCategory":null,"image":"TPTC.png","obsidianUIMode":"preview","questObtained":"2025-11-01","questStatus":"Complete","questLocationObtained":"[[2-World/Hubs/Neverwinter.md|Neverwinter](/img/user/1-Session%20Journals/1508-1509%20-%20First%20Year/2025-11-01%20-%20Session%2017.md)","questSessionObtained":"[[2025-11-01 - Session 17|2025-11-01 - Session 17]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","questGiver":"[[Eb Zenithon|Eb Zenithon]]"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # The Pub That Crawls
 > ![TPTC.png](/img/user/z_Assets/The%20Pub%20That%20Crawls/TPTC.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-11-01T00:00:00.000+00:00 |
+> | Date Obtained: | 01/11/2025 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
 | Quest Giver: | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] |
@@ -41,9 +41,9 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | File                                                                                   | Location                                                                                                                                | Type       |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
-| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                           | [[2-World/Regions/The North\|The North]]                                                                                             | City +1500 |
@@ -54,23 +54,23 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 The following people are associated with this quest.
 | Character                                                                                 | Race            | Gender | Role                       |
 | ----------------------------------------------------------------------------------------- | --------------- | ------ | -------------------------- |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]        | Changling       | Female | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                            | Owlin           | Male   | Tavern Manager             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                        | Human           | Male   | Tavern Manager             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]      | Elf             | Female | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]]      | Kor             | Male   | Tavern Ghost               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]            | Elf             | Male   | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]      | Human           | Male   | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                          | Burrog          | Male   | Other                      |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                | Loxodon         | Male   | Tavern Manager             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                          | Automaton       | Other  | Tavern Manager             |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human           | Male   | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human           | Male   | Former Deputy Head Teacher |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                            | Owlin           | Male   | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]        | Changling       | Female | Tavern Founder             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                        | Human           | Male   | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]      | Elf             | Female | Tavern Founder             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]]      | Kor             | Male   | Tavern Ghost               |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]            | Elf             | Male   | Tavern Founder             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost               |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]      | Human           | Male   | Tavern Founder             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                          | Burrog          | Male   | Other                      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                | Loxodon         | Male   | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                          | Automaton       | Other  | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder             |
 | [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player                     |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player                     |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player                     |

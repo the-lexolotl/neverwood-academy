@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ruxa.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Brown Bear","char_gender":"Male","char_role":"Professor of Substance","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Quandrix/Ruxa.md","permalink":"/world/people/neverwood-academy/staff/quandrix/ruxa/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ruxa.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Brown Bear","char_gender":"Male","char_role":"Professor of Substance","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Quandrix%20Campus.md)","[Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Quandrix/Ruxa.md","permalink":"/world/people/neverwood-academy/staff/quandrix/ruxa/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ruxa.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Brown Bear","char_gender":"Male","char_role":"Professor of Substance","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Groups/Colleges/Quandrix%20College.md)","[[Quandrix College|Quandrix College]]"]}}
 ---
 
 
@@ -25,7 +25,7 @@ Ruxa’s calm, reassuring presence makes him popular among students, especially 
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
 
 ### Associated Handouts
 | File | Date Obtained |

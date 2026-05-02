@@ -1,5 +1,5 @@
 ---
-{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","Connected_Quests":["[[2-Quests/Whos goo\|Whos goo]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]"],"Connected_Groups":null,"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-04-18","Connected_NPC":["[[Veyra Murgaxor|Veyra Murgaxor]]"],"handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","school_year":1,"dg-path":"Player Handouts/Murgaxor/Murgaxor's Diary.md","permalink":"/player-handouts/murgaxor/murgaxor-s-diary/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","Connected_Quests":["[[2-Quests/Whos goo\|Whos goo]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]"],"Connected_Groups":null,"handout-cat":"Book","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"handoutObtained":"2026-04-18","Connected_NPC":["[[Veyra Murgaxor|Veyra Murgaxor]]"],"handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","school_year":1,"dg-path":"Player Handouts/Murgaxor/Murgaxor's Diary.md","permalink":"/player-handouts/murgaxor/murgaxor-s-diary/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Handout"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","Connected_Quests":["[[2-Quests/Whos goo\|Whos goo]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]"],"Connected_Groups":null,"handout-cat":"Book","handoutObtained":"2026-04-18","Connected_NPC":["[[Veyra Murgaxor|Veyra Murgaxor]]"],"handoutSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","school_year":1}}
 ---
 
 
@@ -8,9 +8,9 @@
 # Details
 
 **Associated Groups:** None
-**Associated Quests:** [[2-Quests/Whos goo.md|Whos goo]],[[2-Quests/Secrets in Sedgemoor.md|Secrets in Sedgemoor]]
+**Associated Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]
 **Associated NPCs:** [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]
-**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37.md|2026-04-18 - Session 37]]
+**Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;

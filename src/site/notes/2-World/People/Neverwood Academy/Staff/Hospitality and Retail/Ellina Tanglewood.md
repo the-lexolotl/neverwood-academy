@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ellina Tanglewood.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"Cafe Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood.md","permalink":"/world/people/neverwood-academy/staff/hospitality-and-retail/ellina-tanglewood/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Firejolt Café]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ellina Tanglewood.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"Cafe Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Firejolt%20Caf%C3%A9.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood.md","permalink":"/world/people/neverwood-academy/staff/hospitality-and-retail/ellina-tanglewood/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Firejolt Café]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Ellina Tanglewood.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"Cafe Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Firejolt%20Caf%C3%A9.md)"]}}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Elf |
 > Gender | Female |
 > Age | Adult |
-> Location | [[Firejolt Café]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 > Role | Cafe Manager |
 > College | None |
 
@@ -25,7 +25,7 @@ Under Ellina’s leadership, the Firejolt Café has become a lively gathering pl
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

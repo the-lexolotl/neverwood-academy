@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"dg-hide":true,"dg-path":"House Rules.md","permalink":"/house-rules/","hide":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"dg-hide":true,"dg-path":"House Rules.md","permalink":"/house-rules/","hide":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 *By enrolling at Neverwood Academy, all students implicitly agree to the following regulations, clarifications, and institutional interpretations of arcane conduct.*

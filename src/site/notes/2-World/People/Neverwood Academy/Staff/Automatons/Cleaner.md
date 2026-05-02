@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"raf,360x360,075,t,fafafa_ca443f4786.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Automatons/Cleaner.md","permalink":"/world/people/neverwood-academy/staff/automatons/cleaner/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"raf,360x360,075,t,fafafa_ca443f4786.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Central%20Campus.md)"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Automatons/Cleaner.md","permalink":"/world/people/neverwood-academy/staff/automatons/cleaner/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"raf,360x360,075,t,fafafa_ca443f4786.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Automaton","char_gender":"Other","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Central%20Campus.md)"],"Connected_Quests":null}}
 ---
 
 
@@ -27,7 +27,7 @@ Some students have noticed that Cleaner collects discarded trinkets and broken o
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

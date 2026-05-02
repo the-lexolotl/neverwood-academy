@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Kianne.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Kianne"],"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"College Dean","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Quandrix/Kianne.md","permalink":"/world/people/neverwood-academy/staff/quandrix/kianne/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Kianne.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Kianne"],"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"College Dean","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Quandrix%20Campus.md)","[Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Quandrix/Kianne.md","permalink":"/world/people/neverwood-academy/staff/quandrix/kianne/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Kianne.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Kianne"],"NoteStatus":"❓","char_status":"Alive","char_race":"Elf","char_gender":"Female","char_role":"College Dean","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Groups/Colleges/Quandrix%20College.md)","[[Quandrix College|Quandrix College]]"]}}
 ---
 
 
@@ -27,7 +27,7 @@ Students who study under Kianne quickly learn to approach magic analytically, co
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
 
 ### Associated Handouts
 | File | Date Obtained |

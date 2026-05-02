@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":false,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Neverwood Mascot.md","permalink":"/mechanics/feats/neverwood-mascot/","dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":false,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Neverwood Mascot.md","permalink":"/mechanics/feats/neverwood-mascot/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat"]}}
 ---
 
 *General Feat · Level 4+ · Prerequisite: Requires [[3-Homebrew Mechanics/Feats/Neverwood Initiate\|Neverwood Initiate]] Feat*

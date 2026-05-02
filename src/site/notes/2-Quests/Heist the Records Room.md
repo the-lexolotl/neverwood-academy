@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Heist the Records Room.md","permalink":"/quests/heist-the-records-room/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Opus%20Walk.md)","[Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Heist the Records Room.md","permalink":"/quests/heist-the-records-room/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk]]","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-08-23","questStatus":"Complete","questGiver":null,"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Opus Walk.md|Opus Walk](/img/user/2-World/Places/Prismari%20Campus.md)","[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"questSessionObtained":"[[2025-08-23 - Session 7|2025-08-23 - Session 7]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # Heist the Records Room
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-08-23T00:00:00.000+01:00 |
+> | Date Obtained: | 23/08/2025 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
 | Quest Giver: | Unknown |
@@ -44,8 +44,8 @@ Strange things have been happening on campus. The party has been tipped off abou
 # Quest Handouts
 | File                                                                                                   | Date Obtained | Category | Associated NPCs                                                                              |
 | ------------------------------------------------------------------------------------------------------ | ------------- | -------- | -------------------------------------------------------------------------------------------- |
-| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>     |
 | [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul> |
+| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>     |
 | [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>       |
 
 { .block-language-dataview}
@@ -61,15 +61,15 @@ Strange things have been happening on campus. The party has been tipped off abou
 The following people are associated with this quest.
 | Character                                                                 | Race            | Gender | Role      |
 | ------------------------------------------------------------------------- | --------------- | ------ | --------- |
-| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]] | Bullywug        | Male   | Alumni    |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]     | Half-Bullywug   | Male   | Alumni    |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]       | Halfling        | Female | Applicant |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]        | Human           | Male   | Player    |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]              | Variant Aasimar | Female | Player    |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]     | Halfling        | Male   | Player    |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]        | Dragonborn      | Male   | Player    |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                          | Yuan-Ti         | Male   | Player    |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]           | Aarakocra       | Female | Player    |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                          | Yuan-Ti         | Male   | Player    |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]     | Triton          | Male   | Player    |
 
 { .block-language-dataview}

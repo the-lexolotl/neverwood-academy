@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn]]","image":"Delimbiyr Vale.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Regions/Delimbiyr Vale.md","permalink":"/world/regions/delimbiyr-vale/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[Faerûn]]","image":"Delimbiyr Vale.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Regions/Delimbiyr Vale.md","permalink":"/world/regions/delimbiyr-vale/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Region"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Continents/Faerûn.md|Faerûn](/img/user/2-World/Continents/Faer%C3%BBn.md)","image":"Delimbiyr Vale.png"}}
 ---
 
 

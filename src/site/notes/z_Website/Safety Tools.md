@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"dg-hide":true,"dg-path":"Safety Tools.md","permalink":"/safety-tools/","hide":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"dg-hide":true,"dg-path":"Safety Tools.md","permalink":"/safety-tools/","hide":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 *Neverwood Academy deals in dangerous knowledge, unsettling truths, and situations that may challenge its students.*

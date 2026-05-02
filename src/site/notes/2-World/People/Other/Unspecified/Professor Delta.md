@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Professor Delta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["\"Professor Delta\""],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Sigma Mail|Sigma Mail]]"],"Connected_Groups":["[[2-World/Groups/The Silent Equation\|The Silent Equation]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Unspecified/Professor Delta.md","permalink":"/world/people/other/unspecified/professor-delta/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Professor Delta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["\"Professor Delta\""],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Sigma Mail|Sigma Mail](/img/user/2-World/Hubs/Neverwood%20Academy.md)"],"Connected_Groups":["[The Silent Equation]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Unspecified/Professor Delta.md","permalink":"/world/people/other/unspecified/professor-delta/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]"],"MyCategory":null,"image":"Professor Delta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["\"Professor Delta\""],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Student","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[Sigma Mail|Sigma Mail](/img/user/2-World/Groups/The%20Silent%20Equation.md)"],"Connected_Groups":["[[2-World/Groups/The Silent Equation\|The Silent Equation]]"]}}
 ---
 
 
@@ -33,7 +33,7 @@ Delta is _eerily calm_, speaking in academic cadence and metaphor. They never li
 # Connections
 
 **Quests:** [[2-Quests/Sigma Mail\|Sigma Mail]]
-**Groups:**  [[2-World/Groups/The Silent Equation.md|The Silent Equation]]
+**Groups:**  [[2-World/Groups/The Silent Equation\|The Silent Equation]]
 
 ### Associated Handouts
 | File | Date Obtained |

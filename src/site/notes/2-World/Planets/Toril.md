@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace\|Realmspace]]","image":"toril-2023-1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[Realmspace]]","image":"toril-2023-1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Planets/Toril.md","permalink":"/world/planets/toril/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Planet"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Star Systems/Realmspace\|Realmspace](/img/user/2-World/Star%20Systems/Realmspace.md)","image":"toril-2023-1.png"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # Toril
 > ![toril-2023-1.png](/img/user/z_Assets/Maps/toril-2023-1.png)
 > ###### General Information
-> **Parent Star System:**  |  [[2-World/Star Systems/Realmspace.md|Realmspace]] |
+> **Parent Star System:**  |  [[2-World/Star Systems/Realmspace\|Realmspace]] |
 > ---|---|
 > **Cosmic Classification:** | Prime Material world within Realmspace, one of many inhabited planets in its crystal sphere | 
 > **Major Continents / Regions:** | [[2-World/Continents/Faerûn\|Faerûn]], [[2-World/Continents/Kara-Tur\|Kara-Tur]], Maztica, Zakhara, and other distant or less-documented landmasses |

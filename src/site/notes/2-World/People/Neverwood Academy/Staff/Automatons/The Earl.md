@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"The Earl.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Neverwood Campus Guide","char_gender":"Male","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Automatons/The Earl.md","permalink":"/world/people/neverwood-academy/staff/automatons/the-earl/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Captain Dapplewing's Manor]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"The Earl.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Neverwood Campus Guide","char_gender":"Male","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Captain%20Dapplewing's%20Manor.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Automatons/The Earl.md","permalink":"/world/people/neverwood-academy/staff/automatons/the-earl/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Captain Dapplewing's Manor]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"The Earl.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Neverwood Campus Guide","char_gender":"Male","char_role":"Automaton","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Captain%20Dapplewing's%20Manor.md)"]}}
 ---
 
 
@@ -13,7 +13,7 @@
 > Race | Neverwood Campus Guide |
 > Gender | Male |
 > Age | Adult |
-> Location | [[Captain Dapplewing's Manor]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Location | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 > Role | Automaton |
 > College | None |
 
@@ -25,7 +25,7 @@ Though its master is gone, the Earl maintains the household with unwavering dedi
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

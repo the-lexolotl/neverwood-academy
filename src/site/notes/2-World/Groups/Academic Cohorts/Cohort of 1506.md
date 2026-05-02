@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":3,"grad_year":1510,"join_year":"1506","dg-path":"World/Groups/Academic Cohorts/Cohort of 1506.md","permalink":"/world/groups/academic-cohorts/cohort-of-1506/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":3,"grad_year":1510,"join_year":"1506","dg-path":"World/Groups/Academic Cohorts/Cohort of 1506.md","permalink":"/world/groups/academic-cohorts/cohort-of-1506/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":3,"grad_year":1510,"join_year":"1506"}}
 ---
 
 
@@ -34,12 +34,12 @@ Cohorts are typically overseen by assigned staff members, such as Guidance Couns
 The following people are members of this group.  
 | File                                                                                         | Gender     | Race       | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ---------- | ---------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]     | Female     | Gorgon     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Male       | Dragonborn | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Male       | Gnome      | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male       | Half-Orc   | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Male       | Tiefling   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Male       | Shifter    | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]   | Non-binary | Shadar-Kai | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]     | Female     | Gorgon     | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Male       | Half-Orc   | Student | Prismari    |
 
 { .block-language-dataview}

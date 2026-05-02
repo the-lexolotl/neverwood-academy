@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy]]","questSessionObtained":"[[2025-07-12 - Session 1|2025-07-12 - Session 1]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Whos goo.md","permalink":"/quests/whos-goo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","questSessionObtained":"[2025-07-12 - Session 1]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Whos goo.md","permalink":"/quests/whos-goo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2025-07-12","questStatus":"In Progress","questGiver":null,"questLocationObtained":"[[Neverwood Academy|Neverwood Academy](/img/user/1-Session%20Journals/1508-1509%20-%20First%20Year/2025-07-12%20-%20Session%201.md)","questSessionObtained":"[[2025-07-12 - Session 1|2025-07-12 - Session 1]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # Whos goo
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-07-12T00:00:00.000+01:00 |
+> | Date Obtained: | 12/07/2025 |
 | ----------------- | -------------------------- |
 | Status: | In Progress |
 | Quest Giver: | Unknown |
@@ -87,8 +87,8 @@ And at the centre of it all, a name that should have remained nothing more than 
 | File                                                                                                   | Date Obtained | Category        | Associated NPCs                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------ | ------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                    | 26 Jul, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere.md\\|Grayson Wildemere]]</li><li>[[2-World/People/Neverwood Academy/Students/1507/Francis Farlight.md\\|Francis Farlight]]</li></ul> |
-| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>                                                                                                                        |
 | [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul>                                                                                                                    |
+| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>                                                                                                                        |
 | [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                          |
 | [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]                                   | 18 Apr, 2026  | Book            | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                          |
 
@@ -107,16 +107,16 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]         | Human           | Male   | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                           | Treant          | Female | Grounds Keeper        |
-| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                          | Half-Bullywug   | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                      | Bullywug        | Male   | Alumni                |
+| [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                          | Half-Bullywug   | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                            | Halfling        | Female | Applicant             |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Human           | Male   | Player                |
 | [[1-Party/Her/Her\|Her]]                                                                    | Tiefling        | Female | Player                |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                | Aarakocra       | Female | Player                |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                          | Triton          | Male   | Player                |
 
 { .block-language-dataview}

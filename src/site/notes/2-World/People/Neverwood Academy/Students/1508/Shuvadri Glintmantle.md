@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-022.shuvadri.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Student","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[Student-Mages of Faith|Student-Mages of Faith]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":1,"dg-path":"World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle.md","permalink":"/world/people/neverwood-academy/students/1508/shuvadri-glintmantle/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[Neverwood Academy]]","MyCategory":null,"image":"03-022.shuvadri.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Student","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree](/img/user/2-World/Hubs/Neverwood%20Academy.md)"],"Connected_Groups":["[Cohort of 1508]]","[[Student-Mages of Faith|Student-Mages of Faith]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":1,"dg-path":"World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle.md","permalink":"/world/people/neverwood-academy/students/1508/shuvadri-glintmantle/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-022.shuvadri.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Female","char_role":"Student","char_college":"Silverquill","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree](/img/user/2-World/Groups/Academic%20Cohorts/Cohort%20of%201508.md)"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[Student-Mages of Faith|Student-Mages of Faith]]"],"school_year":1}}
 ---
 
 
@@ -23,8 +23,8 @@
 
 # Connections
 
-**Quests:** [[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]
-**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508.md|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]
+**Quests:** [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]
 
 ### Associated Handouts
 | File | Date Obtained |

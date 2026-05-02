@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":false,"dg-hide":true,"dg-path":"Cohorts.md","permalink":"/cohorts/","hide":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":false,"dg-hide":true,"dg-path":"Cohorts.md","permalink":"/cohorts/","hide":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

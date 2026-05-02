@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[Neverwinter Woods|Neverwinter Woods]]"],"MyCategory":null,"image":"Pasted image 20250911161923.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"Complete","questGiver":"[[Theodore Moss|Theodore Moss]]","questLocationObtained":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]"],"questSessionObtained":"[[2025-09-13 - Session 10|2025-09-13 - Session 10]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Miaukier Must Die!.md","permalink":"/quests/miaukier-must-die/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[Neverwinter Woods|Neverwinter Woods]]"],"MyCategory":null,"image":"Pasted image 20250911161923.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"Complete","questGiver":"[[Theodore Moss|Theodore Moss](/img/user/2-World/Hubs/Xvart%20Village.md)","questLocationObtained":["[Neverwood Academy]]","[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]"],"questSessionObtained":"[[2025-09-13 - Session 10|2025-09-13 - Session 10]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Miaukier Must Die!.md","permalink":"/quests/miaukier-must-die/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[Neverwinter Woods|Neverwinter Woods]]"],"MyCategory":null,"image":"Pasted image 20250911161923.png","obsidianUIMode":"preview","questObtained":"2025-09-13","questStatus":"Complete","questGiver":"[[Theodore Moss|Theodore Moss](/img/user/2-World/Hubs/Neverwood%20Academy.md)","questLocationObtained":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","[[2-World/Hubs/Xvart Village.md|Xvart Village]]","[[2-World/Points of Interest/Xvart Ritual Dungeon.md|Xvart Ritual Dungeon]]"],"questSessionObtained":"[[2025-09-13 - Session 10|2025-09-13 - Session 10]]","questNotes":null,"questLootEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # Miaukier Must Die!
 > ![Pasted image 20250911161923.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911161923.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-09-13T00:00:00.000+01:00 |
+> | Date Obtained: | 13/09/2025 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
 | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] |
@@ -58,8 +58,8 @@ The following people are associated with this quest.
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                               | Variant Aasimar | Female     | Player  |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                      | Halfling        | Male       | Player  |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                         | Dragonborn      | Male       | Player  |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                           | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                            | Aarakocra       | Female     | Player  |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                           | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                      | Triton          | Male       | Player  |
 
 { .block-language-dataview}

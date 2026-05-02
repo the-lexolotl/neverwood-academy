@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Familiar"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Archived/Guiloip Guhloo/Cynthia.md","permalink":"/party/archived/guiloip-guhloo/cynthia/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Familiar"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Archived/Guiloip Guhloo/Cynthia.md","permalink":"/party/archived/guiloip-guhloo/cynthia/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Familiar"],"obsidianUIMode":"preview"}}
 ---
 
 ![Pasted image 20251216133140.png](/img/user/z_Assets/creatures/Pasted%20image%2020251216133140.png)

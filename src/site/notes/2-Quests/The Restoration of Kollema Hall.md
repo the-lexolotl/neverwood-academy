@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-01-03","questStatus":"Complete","questGiver":"[[Taiva Loreweaver|Taiva Loreweaver]]","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2026-01-03 - Session 24|2026-01-03 - Session 24]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/The Restoration of Kollema Hall.md","permalink":"/quests/the-restoration-of-kollema-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-01-03","questStatus":"Complete","questGiver":"[[Taiva Loreweaver|Taiva Loreweaver](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Kollema%20Hall.md)","questLocationObtained":["[Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2026-01-03 - Session 24|2026-01-03 - Session 24]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/The Restoration of Kollema Hall.md","permalink":"/quests/the-restoration-of-kollema-hall/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-01-03","questStatus":"Complete","questGiver":"[[Taiva Loreweaver|Taiva Loreweaver](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Kollema%20Hall.md)","questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Kollema Hall.md|Kollema Hall]]","[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2026-01-03 - Session 24|2026-01-03 - Session 24]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # The Restoration of Kollema Hall
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
-> | Date Obtained: | 2026-01-03T00:00:00.000+00:00 |
+> | Date Obtained: | 03/01/2026 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
 | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
@@ -73,13 +73,13 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                           | Orc         | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                         | Fire Genasi | Other  | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                       | Owlin       | Male   | College Dean          |
+| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin       | Female | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]    | Owlin       | Female | College Dean          |
-| [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human       | Female | Head Teacher          |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn  | Male   | Player                |
-| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]            | Eladrin     | Female | Player                |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                           | Triton      | Male   | Player                |
+| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]            | Eladrin     | Female | Player                |
 
 { .block-language-dataview}
 

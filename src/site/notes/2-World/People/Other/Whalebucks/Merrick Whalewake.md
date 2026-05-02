@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Continents/Faerûn.md|Faerûn]]"],"MyCategory":null,"image":"Merrick  Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Merrick"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Cafe Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]]"],"children":null,"enemies":null,"allies":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]","[[Deryn Whalewake]]"],"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Whalebucks Coffee Co.|Whalebucks Coffee Co.]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Whalebucks/Merrick Whalewake.md","permalink":"/world/people/other/whalebucks/merrick-whalewake/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Faerûn]]"],"MyCategory":null,"image":"Merrick  Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Merrick"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Cafe Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake](/img/user/2-World/Continents/Faer%C3%BBn.md)"],"children":null,"enemies":null,"allies":["[Tolan Whalewake]]","[[Deryn Whalewake]]"],"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Whalebucks Coffee Co.|Whalebucks Coffee Co.]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Whalebucks/Merrick Whalewake.md","permalink":"/world/people/other/whalebucks/merrick-whalewake/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Continents/Faerûn.md|Faerûn]]"],"MyCategory":null,"image":"Merrick  Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Merrick"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Cafe Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake](/img/user/2-World/People/Other/Whalebucks/Tolan%20Whalewake.md)"],"children":null,"enemies":null,"allies":["[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]]","[[Deryn Whalewake]]"],"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Whalebucks Coffee Co.|Whalebucks Coffee Co.]]"]}}
 ---
 
 
@@ -20,7 +20,7 @@
 # Biography
 ### Early Life (Born ca. mid–late 15th century DR)
 [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]] was born into success in a way no previous Whalewake had been. By the time of his childhood, **Whalebucks** was already an established name across [[2-World/Continents/Faerûn\|Faerûn]], its green sigil a familiar sight in ports and market squares alike.
-Raised primarily in cities rather than on ships, Merrick’s upbringing was shaped by tutors, ledgers, and long conversations about logistics and contracts. His father, [[Borlen Whalewake]], involved him early in the business — not with sentiment, but with expectation.
+Raised primarily in cities rather than on ships, Merrick’s upbringing was shaped by tutors, ledgers, and long conversations about logistics and contracts. His father, [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen Whalewake]], involved him early in the business — not with sentiment, but with expectation.
 Where Borlen taught instinct and momentum, Merrick learned structure.
 
 ### Education & Preparation
@@ -52,7 +52,7 @@ Merrick is acutely aware of the contrast between himself and his forebears:
 - Deryn embodied restraint
 - Merrick maintains equilibrium
 He respects his father deeply, admires his uncle’s integrity, and feels quietly responsible for reconciling the two philosophies within a single, sprawling organisation.
-His relationship with [[Tolan Whalewake]] is courteous but distant. Merrick considers Folly Guides useful, occasionally inconvenient, and fundamentally outside Whalebucks’ control — a fact he has learned to accept.
+His relationship with [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] is courteous but distant. Merrick considers Folly Guides useful, occasionally inconvenient, and fundamentally outside Whalebucks’ control — a fact he has learned to accept.
 
 ### Personality & Public Image
 Merrick is calm, precise, and measured. He speaks carefully, chooses words for effect, and dislikes improvisation in public settings.

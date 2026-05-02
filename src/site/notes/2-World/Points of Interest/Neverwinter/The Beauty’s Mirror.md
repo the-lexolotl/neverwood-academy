@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Protector's Enclave.md|Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The beautys mirror.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwinter/The Beauty’s Mirror.md","permalink":"/world/points-of-interest/neverwinter/the-beauty-s-mirror/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The beautys mirror.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Places/Protector's%20Enclave.md)"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwinter/The Beauty’s Mirror.md","permalink":"/world/points-of-interest/neverwinter/the-beauty-s-mirror/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/PointofInterest"],"MyContainer":["[Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The beautys mirror.jpg","Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Places/Protector's%20Enclave.md)"]}}
 ---
 
 
@@ -37,8 +37,8 @@ encrusted with iridescent coral. It offers intoxicating drinks to spur the imagi
 # People
 | File                                                                                 | Race  | Gender | Role           |
 | ------------------------------------------------------------------------------------ | ----- | ------ | -------------- |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph | Female | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf   | Female | Tavern Founder |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph | Female | Tavern Manager |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"MyAllies":["[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]"],"dg-path":"World/Groups/The Silent Equation.md","permalink":"/world/groups/the-silent-equation/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"MyAllies":["[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar](/img/user/2-World/Hubs/Neverwood%20Academy.md)"],"dg-path":"World/Groups/The Silent Equation.md","permalink":"/world/groups/the-silent-equation/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"MyAllies":["[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar](/img/user/2-World/Hubs/Neverwood%20Academy.md)"]}}
 ---
 
 
@@ -56,7 +56,7 @@ New recruits often start with simple tasks, giving them a chance to prove themse
 
 # Enemies/Allies
 **Enemies:** Unknown
-**Allies:** [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar.md|Cadoras Damellawar]]
+**Allies:** [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]
 
 # People
 The following people are members of this group.  

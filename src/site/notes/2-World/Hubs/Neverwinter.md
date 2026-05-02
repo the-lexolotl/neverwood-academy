@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Neverwinter-(ZF-9046-66654-1-001).webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]","[[Nest of the Eldritch Eye]]"],"dg-show-backlinks":true,"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":"[The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Neverwinter-(ZF-9046-66654-1-001).webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Regions/The%20North.md)","[[Nest of the Eldritch Eye]]"],"dg-show-backlinks":true,"dg-path":"World/Hubs/Neverwinter.md","permalink":"/world/hubs/neverwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"City +1500","obsidianUIMode":"preview","image":"Neverwinter-(ZF-9046-66654-1-001).webp","Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]","[[Nest of the Eldritch Eye]]"]}}
 ---
 
 
@@ -98,7 +98,7 @@ Several groups influence Neverwinter’s politics and power:
 
 ## Symbol
 Neverwinter’s emblem is three white snowflakes enclosed in silver and blue halos, arranged vertically in a swirl as if falling. It symbolizes grace, craftsmanship, and endurance — qualities the people of Neverwinter hold dear.
-![Pasted image 20251023232515.png|200](/img/user/z_Assets/website/Pasted%20image%2020251023232515.png)
+![Pasted image 20251023232515.png\|200](/img/user/z_Assets/website/Pasted%20image%2020251023232515.png)
 
 
 # Travel

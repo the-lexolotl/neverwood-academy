@@ -1,12 +1,12 @@
 ---
-{"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Publisher","image":"Owlbear Books.png","obsidianUIMode":"preview","leader":null,"Founders":null,"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Owlbear Books.md","permalink":"/world/businesses/owlbear-books/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Business"],"MyContainer":"[Toril]]","MyCategory":"Publisher","image":"Owlbear Books.png","obsidianUIMode":"preview","leader":null,"Founders":null,"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Owlbear Books.md","permalink":"/world/businesses/owlbear-books/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril](/img/user/2-World/Planets/Toril.md)","MyCategory":"Publisher","image":"Owlbear Books.png","obsidianUIMode":"preview","leader":null,"Founders":null,"staff":null,"apprentices":null,"primary_contact":null}}
 ---
 
 > [!infobox|left]+
 > # Owlbear Books
 > ![Owlbear Books.png](/img/user/z_Assets/Companies/Dnd%20Logos/Owlbear%20Books.png)
 > ###### General Info
-> | Location | [[2-World/Planets/Toril.md|Toril]] |
+> | Location | [[2-World/Planets/Toril\|Toril]] |
 > | ----------------- | -------------------------- |
 > | Category: | Publisher |
 > ###### Hierarchy

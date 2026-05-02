@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"Player":"Ross","dg-show-toc":true,"dg-path":"Party/Harry Blackstone/Year 1.md","permalink":"/party/harry-blackstone/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"Player":"Ross","dg-show-toc":true,"dg-path":"Party/Harry Blackstone/Year 1.md","permalink":"/party/harry-blackstone/year-1/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Academics"],"obsidianUIMode":"preview","Player":"Ross"}}
 ---
 
 # Timetable

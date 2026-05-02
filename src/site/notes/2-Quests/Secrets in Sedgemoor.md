@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-04-18","questStatus":"Complete","questGiver":["[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]","[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]"],"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Secrets in Sedgemoor.md","permalink":"/quests/secrets-in-sedgemoor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Sedgemoor]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-04-18","questStatus":"Complete","questGiver":["[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Sedgemoor.md)","[Luc Brandford]]"],"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Secrets in Sedgemoor.md","permalink":"/quests/secrets-in-sedgemoor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Places/Witherbloom Campus.md|Witherbloom Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Template_Quest_Placeholder.png","obsidianUIMode":"preview","questObtained":"2026-04-18","questStatus":"Complete","questGiver":["[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang](/img/user/2-World/People/Neverwood%20Academy/Staff/Silverquill/Luc%20Brandford.md)","[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]"],"questLocationObtained":["[[2-World/Points of Interest/Neverwood Academy/Sedgemoor.md|Sedgemoor]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,12 +7,12 @@
 > # Secrets in Sedgemoor
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
-> | Date Obtained: | 2026-04-18T00:00:00.000+01:00 |
+> | Date Obtained: | 18/04/2026 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang.md|Verelda Lang]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford.md|Luc Brandford]] |
+| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] |
 | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37.md|2026-04-18 - Session 37]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]] |
 | Acquired Loot:    | None |
 
 # Backstory
@@ -69,8 +69,8 @@ What the students find there may not only cleanse the waters... but reveal the f
 The following people are associated with this quest.
 | Character                                                                              | Race            | Gender | Role                |
 | -------------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad           | Female | Professor of Growth |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human           | Male   | Professor of Shadow |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                     | Human           | Male   | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                           | Variant Aasimar | Female | Player              |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                  | Minotaur        | Male   | Player              |

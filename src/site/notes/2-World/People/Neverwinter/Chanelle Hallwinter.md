@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Chanelle Hallwinter.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Female","char_role":"Ghost","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwinter/Chanelle Hallwinter.md","permalink":"/world/people/neverwinter/chanelle-hallwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Chanelle Hallwinter.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Female","char_role":"Ghost","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye](/img/user/2-World/Hubs/Neverwinter.md)"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwinter/Chanelle Hallwinter.md","permalink":"/world/people/neverwinter/chanelle-hallwinter/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Chanelle Hallwinter.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Dead","char_race":"Human","char_gender":"Female","char_role":"Ghost","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye](/img/user/2-World/Hubs/Neverwinter.md)"],"Connected_Groups":null}}
 ---
 
 
@@ -28,7 +28,7 @@ Though bound by her condition, Chanelle aids those who oppose the rising darknes
 
 # Connections
 
-**Quests:** [[2-Quests/Nest of the Eldritch Eye.md|Nest of the Eldritch Eye]]
+**Quests:** [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 **Groups:**  None
 
 ### Associated Handouts

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":null,"image":"Vormor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Unspecified/Vormor.md","permalink":"/world/people/other/unspecified/vormor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Neverwinter]]"],"MyCategory":null,"image":"Vormor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree](/img/user/2-World/Hubs/Neverwinter.md)"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Unspecified/Vormor.md","permalink":"/world/people/other/unspecified/vormor/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Neverwinter]]"],"MyCategory":null,"image":"Vormor.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree](/img/user/2-World/Hubs/Neverwinter.md)"],"Connected_Groups":null}}
 ---
 
 
@@ -22,7 +22,7 @@
 
 # Connections
 
-**Quests:** [[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]
+**Quests:** [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]
 **Groups:**  None
 
 ### Associated Handouts

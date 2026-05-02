@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zaph.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"FtM","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Prismari College|Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Prismari/Zaph.md","permalink":"/world/people/neverwood-academy/staff/prismari/zaph/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zaph.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"FtM","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Prismari%20Campus.md)","[Prismari College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Prismari/Zaph.md","permalink":"/world/people/neverwood-academy/staff/prismari/zaph/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Places/Prismari Campus.md|Prismari Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zaph.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Air Genasi","char_gender":"FtM","char_role":"Professor of Perfection","char_college":"Prismari","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Groups/Colleges/Prismari%20College.md)","[[Prismari College|Prismari College]]"]}}
 ---
 
 
@@ -27,7 +27,7 @@ When not teaching, Zeph can often be found climbing to the top of Conjurot Hall 
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Prismari College\|Prismari College]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]],[[2-World/Groups/Colleges/Prismari College\|Prismari College]]
 
 ### Associated Handouts
 | File | Date Obtained |

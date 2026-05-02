@@ -1,12 +1,12 @@
 ---
-{"tags":["Category/Business"],"MyContainer":"[[2-World/Hubs/Neverwinter\|Neverwinter]]","MyCategory":"Transport Services","image":"GRIFFT.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Grifft.md","permalink":"/world/businesses/grifft/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Business"],"MyContainer":"[Neverwinter]]","MyCategory":"Transport Services","image":"GRIFFT.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge](/img/user/2-World/Hubs/Neverwinter.md)"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Businesses/Grifft.md","permalink":"/world/businesses/grifft/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Business"],"MyContainer":"[Neverwinter]]","MyCategory":"Transport Services","image":"GRIFFT.png","obsidianUIMode":"preview","leader":null,"Founders":["[[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge](/img/user/2-World/Hubs/Neverwinter.md)"],"staff":null,"apprentices":null,"primary_contact":null}}
 ---
 
 > [!infobox|left]+
 > # Grifft
 > ![GRIFFT.png](/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT.png)
 > ###### General Info
-> | Location | [[2-World/Hubs/Neverwinter.md|Neverwinter]] |
+> | Location | [[2-World/Hubs/Neverwinter\|Neverwinter]] |
 > | ----------------- | -------------------------- |
 > | Category: | Transport Services |
 > ###### Hierarchy
@@ -19,7 +19,7 @@
 
 # History
 ## Founding & Early History (1501 DR)
-GRIFFT was founded in 1501 DR by [[Alex Fallowridge]], a daring entrepreneur and avid gryphon enthusiast who grew up on the trade routes around Neverwinter. Inspired by tales of griffin-mounted messengers and airborne adventurers, Alex sought to create a new kind of transport service: fast, reliable, and airborne.
+GRIFFT was founded in 1501 DR by [[2-World/People/Neverwinter/Alex Fallowridge\|Alex Fallowridge]], a daring entrepreneur and avid gryphon enthusiast who grew up on the trade routes around Neverwinter. Inspired by tales of griffin-mounted messengers and airborne adventurers, Alex sought to create a new kind of transport service: fast, reliable, and airborne.
 Using personal savings, a few contacts in Neverwinter’s stable and mage circles, and a small magical subsidy from a local guild, Alex acquired a handful of trained griffins and began offering rides to merchants, nobles, and curious citizens. The service quickly gained attention for its novelty, efficiency, and sheer thrill factor.
 
 ## Early Operations & Growth (1502–1508 DR)
@@ -43,7 +43,7 @@ The following people are associated with this business.
 
 # Services
 GRIFFT offers both passenger and light cargo services, specialising in speed, safety, and accessibility. Grifft pick up locations can be found in various parts, many of which are staffed by a helpful manager to arrange pick ups and bookings. Looks out for the Griff Pick-up signs
-![GRIFFT Pin.png|100](/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT%20Pin.png)
+![GRIFFT Pin.png\|100](/img/user/z_Assets/Companies/Dnd%20Logos/GRIFFT%20Pin.png)
 
 ## Core Offerings
 

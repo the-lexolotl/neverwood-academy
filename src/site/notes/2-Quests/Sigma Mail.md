@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"The Silent Equation.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Professor Delta|Professor Delta]]","questLocationObtained":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2025-10-24 - Ross Async|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Sigma Mail.md","permalink":"/quests/sigma-mail/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"The Silent Equation.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Professor Delta|Professor Delta](/img/user/2-World/Places/Quandrix%20Campus.md)","questLocationObtained":["[Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2025-10-24 - Ross Async|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/Sigma Mail.md","permalink":"/quests/sigma-mail/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"The Silent Equation.png","obsidianUIMode":"preview","questObtained":"2025-10-24","questStatus":"In Progress","questGiver":"[[Professor Delta|Professor Delta](/img/user/2-World/Places/Quandrix%20Campus.md)","questLocationObtained":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"questSessionObtained":"[[2025-10-24 - Ross Async|2025-10-24 - Ross Async]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # Sigma Mail
 > ![The Silent Equation.png](/img/user/z_Assets/website/The%20Silent%20Equation.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-10-24T00:00:00.000+01:00 |
+> | Date Obtained: | 24/10/2025 |
 | ----------------- | -------------------------- |
 | Status: | In Progress |
 | Quest Giver: | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] |

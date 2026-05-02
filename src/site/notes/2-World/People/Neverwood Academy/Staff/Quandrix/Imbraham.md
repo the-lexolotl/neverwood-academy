@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Imbraham.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Imbraham"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Male","char_role":"College Dean","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Quandrix/Imbraham.md","permalink":"/world/people/neverwood-academy/staff/quandrix/imbraham/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Imbraham.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Imbraham"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Male","char_role":"College Dean","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall](/img/user/2-World/Places/Quandrix%20Campus.md)"],"Connected_Groups":["[Neverwood Staff]]","[[Quandrix College|Quandrix College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Quandrix/Imbraham.md","permalink":"/world/people/neverwood-academy/staff/quandrix/imbraham/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Places/Quandrix Campus.md|Quandrix Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Imbraham.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Dean Imbraham"],"NoteStatus":"❓","char_status":"Alive","char_race":"Owlin","char_gender":"Male","char_role":"College Dean","char_college":"Quandrix","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall](/img/user/2-World/Groups/Neverwood%20Staff.md)"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[Quandrix College|Quandrix College]]"]}}
 ---
 
 
@@ -26,8 +26,8 @@ Students who thrive under Dean Imbraham learn patience, meticulous reasoning, an
 
 # Connections
 
-**Quests:** [[2-Quests/The Restoration of Kollema Hall.md|The Restoration of Kollema Hall]]
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
+**Quests:** [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]
 
 ### Associated Handouts
 | File | Date Obtained |

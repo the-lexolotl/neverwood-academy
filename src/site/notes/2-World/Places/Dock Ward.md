@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Trade District","Waterfront District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Dock Ward.md","permalink":"/world/places/dock-ward/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":["[Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Trade District","Waterfront District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Dock Ward.md","permalink":"/world/places/dock-ward/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter](/img/user/2-World/Hubs/Neverwinter.md)","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Trade District","Waterfront District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png"}}
 ---
 
 

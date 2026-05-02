@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":false,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"dg-path":"Home Page.md","permalink":"/home-page/","contentClasses":"homepage","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":false,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"dg-path":"Home Page.md","permalink":"/home-page/","contentClasses":"homepage","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"cssclasses":"homepage"}}
 ---
 
 # Neverwood Academy  
@@ -8,7 +8,7 @@
 
 Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. 
 
-These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. ![Construction Bot.png|200](/img/user/z_Assets/website/Construction%20Bot.png)
+These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. ![Construction Bot.png\|200](/img/user/z_Assets/website/Construction%20Bot.png)
 
 ---
 ![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
@@ -61,7 +61,7 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
-### Advancement is not guaranteed. Survival is encouraged.  ![Construction Bot.png|200](/img/user/z_Assets/website/Construction%20Bot.png)
+### Advancement is not guaranteed. Survival is encouraged.  ![Construction Bot.png\|200](/img/user/z_Assets/website/Construction%20Bot.png)
 
 ---
 ## 📆 Academic Calendar

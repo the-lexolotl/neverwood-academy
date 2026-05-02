@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Alex Fallowridge.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Transport Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Businesses/Grifft\|Grifft]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwinter/Alex Fallowridge.md","permalink":"/world/people/neverwinter/alex-fallowridge/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Alex Fallowridge.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Transport Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Businesses/Grifft\|Grifft](/img/user/2-World/Hubs/Neverwinter.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwinter/Alex Fallowridge.md","permalink":"/world/people/neverwinter/alex-fallowridge/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Alex Fallowridge.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Transport Manager","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Businesses/Grifft\|Grifft](/img/user/2-World/Hubs/Neverwinter.md)"]}}
 ---
 
 
@@ -59,7 +59,7 @@ Among the city’s workers, Alex is seen as _one of them_. Among nobles, he is o
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Businesses/Grifft.md|Grifft]]
+**Groups:**  [[2-World/Businesses/Grifft\|Grifft]]
 
 ### Associated Handouts
 | File | Date Obtained |

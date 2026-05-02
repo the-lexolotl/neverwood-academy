@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":["Academic College"],"obsidianUIMode":"preview","image":"map-1.6-witherbloom-campus.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Witherbloom Campus.md","permalink":"/world/places/witherbloom-campus/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":"[Neverwood Academy]]","MyCategory":["Academic College"],"obsidianUIMode":"preview","image":"map-1.6-witherbloom-campus.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Witherbloom Campus.md","permalink":"/world/places/witherbloom-campus/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":["Academic College"],"obsidianUIMode":"preview","image":"map-1.6-witherbloom-campus.jpg"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"In Progress","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]]"],"questLocationObtained":["[[2-World/Places/River District.md|River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Nest of the Eldritch Eye.md","permalink":"/quests/nest-of-the-eldritch-eye/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"In Progress","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember](/img/user/2-World/Hubs/Neverwinter.md)"],"questLocationObtained":["[River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Nest of the Eldritch Eye.md","permalink":"/quests/nest-of-the-eldritch-eye/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"In Progress","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember](/img/user/2-World/Places/River%20District.md)"],"questLocationObtained":["[[2-World/Places/River District.md|River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -9,12 +9,12 @@
 > # Nest of the Eldritch Eye
 > ![VECNA Nest.png](/img/user/z_Assets/VECNA%20Nest.png)
 > ###### Basic Info
-> | Date Obtained: | 2026-04-25T00:00:00.000+01:00 |
+> | Date Obtained: | 25/04/2026 |
 | ----------------- | -------------------------- |
 | Status: | In Progress |
-| Quest Giver: | [[2-World/People/Neverwinter/Dagult Neverember.md|Dagult Neverember]] |
+| Quest Giver: | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]] |
 | Quest Location:   | [[2-World/Places/River District\|River District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38.md|2026-04-25 - Session 38]] |
+| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]] |
 | Acquired Loot:    | None |
 
 # Backstory
@@ -76,8 +76,8 @@ The eyeball is more than it appears - it is both a compass and a key, pointing t
 The following people are associated with this quest.
 | Character                                                                      | Race            | Gender | Role                          |
 | ------------------------------------------------------------------------------ | --------------- | ------ | ----------------------------- |
-| [[2-World/People/Neverwinter/Chanelle Hallwinter\|Chanelle Hallwinter]]     | Human           | Female | Ghost                         |
 | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]]         | Human           | Male   | Lord Protector of Neverwinter |
+| [[2-World/People/Neverwinter/Chanelle Hallwinter\|Chanelle Hallwinter]]     | Human           | Female | Ghost                         |
 | [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]]         | Human           | Male   | City Watch                    |
 | [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]]         | Human           | Female | City Watch                    |
 | [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]         | Deity           | Male   | Mage                          |

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-11-08 - Session 18|2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/What Happens Under The Oak Tree.md","permalink":"/quests/what-happens-under-the-oak-tree/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","questSessionObtained":"[2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/What Happens Under The Oak Tree.md","permalink":"/quests/what-happens-under-the-oak-tree/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Pasted image 20251010011732.png","obsidianUIMode":"preview","questObtained":"2025-11-08","questStatus":"Complete","questGiver":null,"questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy](/img/user/1-Session%20Journals/1508-1509%20-%20First%20Year/2025-11-08%20-%20Session%2018.md)","questSessionObtained":"[[2025-11-08 - Session 18|2025-11-08 - Session 18]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # What Happens Under The Oak Tree
 > ![Pasted image 20251010011732.png](/img/user/z_Assets/website/Pasted%20image%2020251010011732.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-11-08T00:00:00.000+00:00 |
+> | Date Obtained: | 08/11/2025 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
 | Quest Giver: | Unknown |
@@ -88,8 +88,8 @@ The following people are associated with this quest.
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                     | Variant Aasimar | Female | Player              |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Dragonborn      | Male   | Player              |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                 | Yuan-Ti         | Male   | Player              |
-| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]             | Eladrin         | Female | Player              |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                            | Triton          | Male   | Player              |
+| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]             | Eladrin         | Female | Player              |
 
 { .block-language-dataview}
 

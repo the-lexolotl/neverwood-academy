@@ -1,10 +1,10 @@
 ---
-{"tags":["Category/Construct"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":false,"dg-show-backlinks":true,"dg-path":"Party/Archived/Cyinth Agora/T.1.T.4.N.md","permalink":"/party/archived/cyinth-agora/t-1-t-4-n/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"tags":["Category/Construct"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":false,"dg-show-backlinks":true,"dg-path":"Party/Archived/Cyinth Agora/T.1.T.4.N.md","permalink":"/party/archived/cyinth-agora/t-1-t-4-n/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Construct"],"obsidianUIMode":"preview"}}
 ---
 
 # T.1.T.4.N - Steel Defender
 *Medium construct*
-![T.1.T.4.N.png|500](/img/user/z_Assets/character_art/Players/T.1.T.4.N.png)
+![T.1.T.4.N.png\|500](/img/user/z_Assets/character_art/Players/T.1.T.4.N.png)
 ## Stats
 **Armour Class:** 15 (natural armour)
 **Hit Points:** 20 (3d8)

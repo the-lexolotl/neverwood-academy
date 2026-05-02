@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Giantess Teanna","Giantess Teanna Aethelos","Teanna"],"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Female","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Aurum Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"sc":null,"dg-path":"World/People/Other/Up the Beanstalk/Teanna Aethelos.md","permalink":"/world/people/other/up-the-beanstalk/teanna-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Neverwinter]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Giantess Teanna","Giantess Teanna Aethelos","Teanna"],"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Female","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Aurum Aethelos](/img/user/2-World/Hubs/Neverwinter.md)"],"Connected_Quests":["[Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"sc":null,"dg-path":"World/People/Other/Up the Beanstalk/Teanna Aethelos.md","permalink":"/world/people/other/up-the-beanstalk/teanna-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Giantess Teanna","Giantess Teanna Aethelos","Teanna"],"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Female","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Aurum Aethelos](/img/user/2-Quests/Up%20the%20Beanstalk.md)"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"sc":null}}
 ---
 
 
@@ -42,7 +42,7 @@ Teanna treats visitors — especially mortals — as fragile beings in need of p
 
 # Connections
 
-**Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
+**Quests:** [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]
 **Groups:**  None
 
 ### Associated Handouts

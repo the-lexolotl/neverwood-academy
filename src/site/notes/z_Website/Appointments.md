@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-inline-title":false,"dg-hide":false,"dg-show-backlinks":false,"dg-show-local-graph":false,"dg-path":"Appointments.md","permalink":"/appointments/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-inline-title":false,"dg-hide":false,"dg-show-backlinks":false,"dg-show-local-graph":false,"dg-path":"Appointments.md","permalink":"/appointments/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Book an Appointment

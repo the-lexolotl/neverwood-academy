@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Blacklake District.md|Blacklake District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The lucid Dreamer.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls]]"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwinter/The Lucid Dreamer.md","permalink":"/world/points-of-interest/neverwinter/the-lucid-dreamer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[Blacklake District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The lucid Dreamer.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Places/Blacklake%20District.md)"],"dg-show-backlinks":true,"dg-path":"World/Points of Interest/Neverwinter/The Lucid Dreamer.md","permalink":"/world/points-of-interest/neverwinter/the-lucid-dreamer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/PointofInterest"],"MyContainer":["[Blacklake District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Tavern","obsidianUIMode":"preview","image":"The lucid Dreamer.jpg","Connected_Quests":["[[2-Quests/The Pub That Crawls|The Pub That Crawls](/img/user/2-World/Places/Blacklake%20District.md)"]}}
 ---
 
 
@@ -37,8 +37,8 @@ currency here is spectacle, and anyone can try their hand at becoming the headli
 # People
 | File                                                                               | Race      | Gender | Role           |
 | ---------------------------------------------------------------------------------- | --------- | ------ | -------------- |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]] | Changling | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                     | Owlin     | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]] | Changling | Female | Tavern Founder |
 
 { .block-language-dataview}
 

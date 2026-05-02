@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":["Academic College"],"obsidianUIMode":"preview","image":"map-1.4-quandrix-campus.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Quandrix Campus.md","permalink":"/world/places/quandrix-campus/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":"[Neverwood Academy]]","MyCategory":["Academic College"],"obsidianUIMode":"preview","image":"map-1.4-quandrix-campus.jpg","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Quandrix Campus.md","permalink":"/world/places/quandrix-campus/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Place"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":["Academic College"],"obsidianUIMode":"preview","image":"map-1.4-quandrix-campus.jpg"}}
 ---
 
 
@@ -58,8 +58,8 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
 | [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
+| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
 
 { .block-language-dataview}

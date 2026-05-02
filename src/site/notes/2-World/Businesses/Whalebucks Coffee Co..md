@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Coffee Franchise","image":"New Whalebucks Logo.png","obsidianUIMode":"preview","leader":"[[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]]","Founders":["[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]","[[Borlen Whalewake]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-show-backlinks":true,"dg-path":"World/Businesses/Whalebucks Coffee Co..md","permalink":"/world/businesses/whalebucks-coffee-co/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Business"],"MyContainer":"[Toril]]","MyCategory":"Coffee Franchise","image":"New Whalebucks Logo.png","obsidianUIMode":"preview","leader":"[[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake](/img/user/2-World/Planets/Toril.md)","Founders":["[Deryn Whalewake]]","[[Borlen Whalewake]]"],"staff":null,"apprentices":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Whalebucks"],"dg-show-backlinks":true,"dg-path":"World/Businesses/Whalebucks Coffee Co..md","permalink":"/world/businesses/whalebucks-coffee-co/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Business"],"MyContainer":"[[2-World/Planets/Toril\|Toril]]","MyCategory":"Coffee Franchise","image":"New Whalebucks Logo.png","obsidianUIMode":"preview","leader":"[[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake](/img/user/2-World/People/Other/Whalebucks/Deryn%20Whalewake.md)","Founders":["[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]","[[Borlen Whalewake]]"],"staff":null,"apprentices":null,"primary_contact":null,"aliases":["Whalebucks"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # Whalebucks Coffee Co.
 > ![New Whalebucks Logo.png](/img/user/z_Assets/Whalebucks/New%20Whalebucks%20Logo.png)
 > ###### General Info
-> | Location | [[2-World/Planets/Toril.md|Toril]] |
+> | Location | [[2-World/Planets/Toril\|Toril]] |
 > | ----------------- | -------------------------- |
 > | Category: | Coffee Franchise |
 > ###### Hierarchy
@@ -20,7 +20,7 @@
 
 # History
 ## Founding & Early History (pre-1215 DR)
-In the early 13th century DR, two half-seafolk brothers — [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] and [[Deryn Whalewake]]—operated a modest bait-and-tackle shop aboard their sea-skiff, *The Whalebuck’s Folly*. Sailing the coasts of [[2-World/Continents/Faerûn\|Faerûn]], they peddled lures, nets, and (when no one was looking) the occasional bit of stolen treasure to fellow sailors and dockside wanderers.
+In the early 13th century DR, two half-seafolk brothers — [[2-World/People/Other/Whalebucks/Borlen Whalewake\|Borlen]] and [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]—operated a modest bait-and-tackle shop aboard their sea-skiff, *The Whalebuck’s Folly*. Sailing the coasts of [[2-World/Continents/Faerûn\|Faerûn]], they peddled lures, nets, and (when no one was looking) the occasional bit of stolen treasure to fellow sailors and dockside wanderers.
 
 As a mark of hospitality, they gave out small tin mugs of dark, invigorating coffee—an exotic brew they had begun trading for with southern Faerûnian merchants. Sailors grew to love the drink almost as much as the gear, and word of *“the coffee boat”* spread from port to port.
 
@@ -43,7 +43,7 @@ By 2024 DR, Whalebucks had become the largest coffee franchise in the multiverse
 
 ## Legacy
 
-The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
+The original brothers passed away about thirty years ago. Their respective businesses were passed down to their eldest sons: [[2-World/People/Other/Whalebucks/Merrick Whalewake\|Merrick Whalewake]], now CEO of Whalebucks Coffee Co., and [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]], who still sails the *Whalebuck’s Folly II*, trading bait, tackle, and tales of the sea.
 
 # People
 The following people are associated with this business.  

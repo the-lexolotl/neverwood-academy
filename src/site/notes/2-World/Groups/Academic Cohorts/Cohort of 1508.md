@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":1,"grad_year":1512,"join_year":"1508","dg-path":"World/Groups/Academic Cohorts/Cohort of 1508.md","permalink":"/world/groups/academic-cohorts/cohort-of-1508/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":1,"grad_year":1512,"join_year":"1508","dg-path":"World/Groups/Academic Cohorts/Cohort of 1508.md","permalink":"/world/groups/academic-cohorts/cohort-of-1508/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":1,"grad_year":1512,"join_year":"1508"}}
 ---
 
 
@@ -34,8 +34,8 @@ Cohorts are typically overseen by assigned staff members, such as Guidance Couns
 The following people are members of this group.  
 | File                                                                                                                         | Gender | Race            | Role    | College     |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female | Dhampir         | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]                                   | Female | Hexblood        | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female | Dhampir         | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]                                         | Male   | Loxodon         | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Male   | Gnome           | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                                 | Male   | Elf             | Student | Quandrix    |
@@ -52,9 +52,9 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Female | Dryad           | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Male   | Shadar-Kai      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male   | Human           | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Female | Gnome           | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Female | Human           | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Female | Owlin           | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Female | Human           | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Female | Gnome           | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Female | Human           | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Male   | Half-Orc        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Male   | Fire Genasi     | Student | Prismari    |
@@ -67,10 +67,10 @@ The following people are members of this group.
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Male   | Minotaur        | Player  | Lorehold    |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                                                       | Female | Dragonborn      | Player  | Lorehold    |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                                           | Male   | Dragonborn      | Player  | Quandrix    |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
-| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                                         | Female | Eladrin         | Player  | Witherbloom |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
+| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                                         | Female | Eladrin         | Player  | Witherbloom |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                                                 | Male   | Dragonborn      | Player  | Silverquill |
 
 { .block-language-dataview}

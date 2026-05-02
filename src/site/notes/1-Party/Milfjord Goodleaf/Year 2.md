@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Milfjord Goodleaf/Year 2.md","permalink":"/party/milfjord-goodleaf/year-2/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Milfjord Goodleaf/Year 2.md","permalink":"/party/milfjord-goodleaf/year-2/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Academics"],"obsidianUIMode":"preview"}}
 ---
 
 # Timetable

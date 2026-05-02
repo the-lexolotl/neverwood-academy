@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Teanna Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Up the Beanstalk/Aurum Aethelos.md","permalink":"/world/people/other/up-the-beanstalk/aurum-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Teanna Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Up the Beanstalk/Aurum Aethelos.md","permalink":"/world/people/other/up-the-beanstalk/aurum-aethelos/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"None","MyCategory":null,"image":"Template_Person_Placeholder.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Giant","char_gender":"Male","char_role":"Other","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":["[[Teanna Aethelos]]"],"Connected_Quests":["[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]"],"Connected_Groups":null}}
 ---
 
 
@@ -40,7 +40,7 @@ Despite his suffering, Aurum Aethelos remains deeply tied to the balance of the 
 
 # Connections
 
-**Quests:** [[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]
+**Quests:** [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]
 **Groups:**  None
 
 ### Associated Handouts

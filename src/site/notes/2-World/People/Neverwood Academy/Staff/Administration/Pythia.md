@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"07-017.oracle-of-strixhaven.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Female","char_role":"Oracle","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Administration/Pythia.md","permalink":"/world/people/neverwood-academy/staff/administration/pythia/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"07-017.oracle-of-strixhaven.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Female","char_role":"Oracle","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Central%20Campus.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Administration/Pythia.md","permalink":"/world/people/neverwood-academy/staff/administration/pythia/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"07-017.oracle-of-strixhaven.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Female","char_role":"Oracle","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Central%20Campus.md)"]}}
 ---
 
 
@@ -25,7 +25,7 @@ The current Oracle, Pythia, is an elderly human and a graduate of Quandrix Colle
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[Neverwood Academy|Neverwood Academy]]","[[2-World/Places/Central Campus.md|Central Campus]]"],"MyCategory":null,"image":"Orvlo.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Orvlo"],"NoteStatus":"❓","char_status":"Alive","char_race":"Vedalken","char_gender":"Male","char_role":"General Studies Professor","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/General/Quentis Orvlo.md","permalink":"/world/people/neverwood-academy/staff/general/quentis-orvlo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Neverwood Academy]]","[[2-World/Places/Central Campus.md|Central Campus]]"],"MyCategory":null,"image":"Orvlo.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Orvlo"],"NoteStatus":"❓","char_status":"Alive","char_race":"Vedalken","char_gender":"Male","char_role":"General Studies Professor","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Hubs/Neverwood%20Academy.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/General/Quentis Orvlo.md","permalink":"/world/people/neverwood-academy/staff/general/quentis-orvlo/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Neverwood Academy]]","[[2-World/Places/Central Campus.md|Central Campus]]"],"MyCategory":null,"image":"Orvlo.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Orvlo"],"NoteStatus":"❓","char_status":"Alive","char_race":"Vedalken","char_gender":"Male","char_role":"General Studies Professor","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Hubs/Neverwood%20Academy.md)"]}}
 ---
 
 
@@ -27,7 +27,7 @@ Orvlo values earnest effort and focused study above all else. They are unimpress
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

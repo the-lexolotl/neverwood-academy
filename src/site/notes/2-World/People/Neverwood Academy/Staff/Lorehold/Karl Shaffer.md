@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Karl Shaffer.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer.md","permalink":"/world/people/neverwood-academy/staff/lorehold/karl-shaffer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Karl Shaffer.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls](/img/user/2-World/Places/Lorehold%20Campus.md)"],"Connected_Groups":["[Neverwood Staff]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer.md","permalink":"/world/people/neverwood-academy/staff/lorehold/karl-shaffer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Places/Lorehold Campus.md|Lorehold Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Karl Shaffer.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Professor of Chaos","char_college":"Lorehold","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls](/img/user/2-World/Groups/Neverwood%20Staff.md)"],"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"]}}
 ---
 
 
@@ -27,8 +27,8 @@ Approachable and eager to talk shop, Professor Shaffer is always happy to help s
 
 # Connections
 
-**Quests:** [[2-Quests/The Pub That Crawls.md|The Pub That Crawls]]
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]],[[2-World/Groups/Colleges/Lorehold College.md|Lorehold College]]
+**Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
 
 ### Associated Handouts
 | File | Date Obtained |

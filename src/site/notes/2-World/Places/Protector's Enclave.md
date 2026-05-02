@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Administrative District","Civic District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Protector's Enclave.md","permalink":"/world/places/protector-s-enclave/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":["[Neverwinter]]","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Administrative District","Civic District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Places/Protector's Enclave.md","permalink":"/world/places/protector-s-enclave/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Place"],"MyContainer":["[[2-World/Hubs/Neverwinter.md|Neverwinter](/img/user/2-World/Hubs/Neverwinter.md)","[[2-World/Regions/The North.md|The North]]"],"MyCategory":["Administrative District","Civic District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png"}}
 ---
 
 
@@ -74,8 +74,8 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 | ------------------------------------------------------------------------------------ | -------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                             | Human    | Male   | Shop Manager   |
 | [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                               | Half-Elf | Female | Shop Manager   |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph    | Female | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf      | Female | Tavern Founder |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph    | Female | Tavern Manager |
 
 { .block-language-dataview}
 
@@ -84,8 +84,8 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwinter/Mira’s Marginalia\|Mira’s Marginalia]]     |
-| [[2-World/Points of Interest/Neverwinter/The Amber Lens\|The Amber Lens]]           |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
+| [[2-World/Points of Interest/Neverwinter/The Amber Lens\|The Amber Lens]]           |
 | [[2-World/Points of Interest/Neverwinter/The Silver Shuttle\|The Silver Shuttle]]   |
 
 { .block-language-dataview}

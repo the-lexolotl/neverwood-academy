@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Chef Curtie Axechucker.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Tavern Chef","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Hospitality and Retail/Curtie Axechucker.md","permalink":"/world/people/neverwood-academy/staff/hospitality-and-retail/curtie-axechucker/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Bow's End Tavern]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Chef Curtie Axechucker.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Tavern Chef","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Bow's%20End%20Tavern.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Hospitality and Retail/Curtie Axechucker.md","permalink":"/world/people/neverwood-academy/staff/hospitality-and-retail/curtie-axechucker/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Bow's End Tavern]]","[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Chef Curtie Axechucker.webp","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Tavern Chef","char_college":"None","char_items":null,"char_age":"Elder","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Points%20of%20Interest/Neverwood%20Academy/Bow's%20End%20Tavern.md)"]}}
 ---
 
 
@@ -18,14 +18,14 @@
 > College | None |
 
 # Biography
-Curtie Axechucker is the chaotic and much-loved chef who keeps [[Bow's End Tavern]] fed, loud, and full of character. Viewing cooking as a living art rather than a science, she teaches her student staff to rely on instinct, emotion, and bold choices instead of measurements or recipes. Under her guidance, no two meals are ever the same—and Curtie insists that this is precisely the point.
+Curtie Axechucker is the chaotic and much-loved chef who keeps [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] fed, loud, and full of character. Viewing cooking as a living art rather than a science, she teaches her student staff to rely on instinct, emotion, and bold choices instead of measurements or recipes. Under her guidance, no two meals are ever the same—and Curtie insists that this is precisely the point.
 
 Rumours persist that she enhances her dishes with a touch of magic, though Curtie claims it’s simply “good food made with feeling.” Her signature cries of “Make it spicy!” and “It needs more love!” regularly echo from the kitchen into the tavern’s overflow seating. As the sole authority on hiring student cooks, Curtie expects anyone seeking kitchen work to approach her directly—and to bring enthusiasm, not hesitation.
 
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

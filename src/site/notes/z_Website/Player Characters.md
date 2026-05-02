@@ -1,5 +1,5 @@
 ---
-{"dg-hide":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-path":"Player Characters.md","permalink":"/player-characters/","hide":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-hide":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-path":"Player Characters.md","permalink":"/player-characters/","hide":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

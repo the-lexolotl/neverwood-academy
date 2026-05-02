@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":["Residential District","Noble District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Blacklake"],"dg-path":"World/Places/Blacklake District.md","permalink":"/world/places/blacklake-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Place"],"MyContainer":"[Neverwinter]]","MyCategory":["Residential District","Noble District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Blacklake"],"dg-path":"World/Places/Blacklake District.md","permalink":"/world/places/blacklake-district/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Place"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter](/img/user/2-World/Hubs/Neverwinter.md)","MyCategory":["Residential District","Noble District"],"obsidianUIMode":"preview","image":"Template_Place_Placeholder.png","aliases":["Blacklake"]}}
 ---
 
 
@@ -78,8 +78,8 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 # People
 | File                                                                                 | Race      | Gender | Role           |
 | ------------------------------------------------------------------------------------ | --------- | ------ | -------------- |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]           | Loxodon   | Male   | Tavern Manager |

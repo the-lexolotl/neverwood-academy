@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Protector's Enclave.md|Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":null,"dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwinter/Mira’s Marginalia.md","permalink":"/world/points-of-interest/neverwinter/mira-s-marginalia/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Protector's Enclave.md|Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":null,"dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Points of Interest/Neverwinter/Mira’s Marginalia.md","permalink":"/world/points-of-interest/neverwinter/mira-s-marginalia/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/PointofInterest"],"MyContainer":["[[2-World/Places/Protector's Enclave.md|Protector's Enclave]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"MyCategory":"Shop","obsidianUIMode":"preview","image":null}}
 ---
 
 

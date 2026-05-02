@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Places/Central Campus.md|Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zoei.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["characters other name"],"NoteStatus":"❓","char_status":"Alive","char_race":"Satyr","char_gender":"Female","char_role":"Student Life Administrator","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Administration/Zoei.md","permalink":"/world/people/neverwood-academy/staff/administration/zoei/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zoei.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["characters other name"],"NoteStatus":"❓","char_status":"Alive","char_race":"Satyr","char_gender":"Female","char_role":"Student Life Administrator","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Central%20Campus.md)"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwood Academy/Staff/Administration/Zoei.md","permalink":"/world/people/neverwood-academy/staff/administration/zoei/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[Central Campus]]","[[Neverwood Academy|Neverwood Academy]]"],"MyCategory":null,"image":"Zoei.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["characters other name"],"NoteStatus":"❓","char_status":"Alive","char_race":"Satyr","char_gender":"Female","char_role":"Student Life Administrator","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Neverwood Staff\|Neverwood Staff](/img/user/2-World/Places/Central%20Campus.md)"]}}
 ---
 
 
@@ -27,7 +27,7 @@ Zoei is also responsible for organising social events across campus, from formal
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Neverwood Staff.md|Neverwood Staff]]
+**Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]
 
 ### Associated Handouts
 | File | Date Obtained |

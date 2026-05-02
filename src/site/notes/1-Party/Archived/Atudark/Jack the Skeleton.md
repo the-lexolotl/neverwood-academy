@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Familiar"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Archived/Atudark/Jack the Skeleton.md","permalink":"/party/archived/atudark/jack-the-skeleton/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Familiar"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Archived/Atudark/Jack the Skeleton.md","permalink":"/party/archived/atudark/jack-the-skeleton/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Familiar"],"obsidianUIMode":"preview"}}
 ---
 
 ![Pasted image 20251216133044.png](/img/user/z_Assets/creatures/Pasted%20image%2020251216133044.png)

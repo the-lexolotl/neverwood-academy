@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"dg-hide":true,"dg-path":"Group Cup Challenge.md","permalink":"/group-cup-challenge/","hide":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-show-toc":true,"dg-hide":true,"dg-path":"Group Cup Challenge.md","permalink":"/group-cup-challenge/","hide":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Group Cup Winner - Group 1

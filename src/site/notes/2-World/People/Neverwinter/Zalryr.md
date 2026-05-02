@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Zalryr.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Elf","char_gender":"Male","char_role":"Cult Leader","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":["[[The Whispered One]]"],"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwinter/Zalryr.md","permalink":"/world/people/neverwinter/zalryr/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Zalryr.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Elf","char_gender":"Male","char_role":"Cult Leader","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":["[[The Whispered One](/img/user/2-World/Hubs/Neverwinter.md)"],"siblings":null,"partner":null,"Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Neverwinter/Zalryr.md","permalink":"/world/people/neverwinter/zalryr/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Zalryr.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Half-Elf","char_gender":"Male","char_role":"Cult Leader","char_college":"None","char_items":null,"char_age":"Adult","parents":null,"children":null,"enemies":null,"allies":["[[The Whispered One](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)"],"siblings":null,"partner":null,"Connected_Quests":["[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":null}}
 ---
 
 
@@ -29,7 +29,7 @@ Zalryr believes themselves chosen—an instrument of a greater will. Whether thi
 
 # Connections
 
-**Quests:** [[2-Quests/Nest of the Eldritch Eye.md|Nest of the Eldritch Eye]]
+**Quests:** [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 **Groups:**  None
 
 ### Associated Handouts

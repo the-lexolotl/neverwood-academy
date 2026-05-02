@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Hub"],"MyContainer":"[[2-World/Regions/The North.md|The North]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!]]"],"dg-show-backlinks":true,"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Hub"],"MyContainer":"[The North]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!](/img/user/2-World/Regions/The%20North.md)"],"dg-show-backlinks":true,"dg-path":"World/Hubs/Xvart Village.md","permalink":"/world/hubs/xvart-village/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Hub"],"MyContainer":"[The North]]","MyCategory":"Village +80","obsidianUIMode":"preview","image":"Xvart Camp.webp","Connected_Quests":["[[Miaukier Must Die!|Miaukier Must Die!](/img/user/2-World/Regions/The%20North.md)"]}}
 ---
 
 

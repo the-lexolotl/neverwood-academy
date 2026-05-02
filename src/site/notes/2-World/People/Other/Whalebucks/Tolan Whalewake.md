@@ -1,5 +1,5 @@
 ---
-{"MyContainer":["[[2-World/Continents/Faerûn.md|Faerûn]]"],"MyCategory":null,"image":"Tolan Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Tolan"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Author","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]"],"children":null,"enemies":null,"allies":["[[Merrick Whalewake]]","[[Borlen Whalewake]]"],"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Businesses/Folly Guides\|Folly Guides]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Whalebucks/Tolan Whalewake.md","permalink":"/world/people/other/whalebucks/tolan-whalewake/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"MyContainer":["[Faerûn]]"],"MyCategory":null,"image":"Tolan Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Tolan"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Author","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake](/img/user/2-World/Continents/Faer%C3%BBn.md)"],"children":null,"enemies":null,"allies":["[[Merrick Whalewake]]","[[Borlen Whalewake]]"],"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Businesses/Folly Guides\|Folly Guides]]"],"Connected_Quests":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/People/Other/Whalebucks/Tolan Whalewake.md","permalink":"/world/people/other/whalebucks/tolan-whalewake/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Continents/Faerûn.md|Faerûn]]"],"MyCategory":null,"image":"Tolan Whalewake.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Tolan"],"NoteStatus":"❓","char_status":"Alive","char_race":"Human","char_gender":"Male","char_role":"Author","char_college":"None","char_items":null,"char_age":"Adult","parents":["[[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]]"],"children":null,"enemies":null,"allies":["[[Merrick Whalewake]]","[[Borlen Whalewake]]"],"siblings":null,"partner":null,"Connected_Groups":["[[2-World/Businesses/Folly Guides\|Folly Guides]]"],"Connected_Quests":null}}
 ---
 
 
@@ -19,7 +19,7 @@
 
 # Biography
 ### Early Life (Born ca. 1450 DR)
-[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] was born aboard his father’s vessel, the _Whalebuck’s Folly II_, during a routine coastal run along the Sword Coast. The son of [[Deryn Whalewake]], Tolan’s childhood was spent between docks, decks, and tide charts rather than classrooms or counting houses.
+[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] was born aboard his father’s vessel, the _Whalebuck’s Folly II_, during a routine coastal run along the Sword Coast. The son of [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]], Tolan’s childhood was spent between docks, decks, and tide charts rather than classrooms or counting houses.
 Deryn, having remained at sea after the famous Whalewake family split, raised his son among sailors, traders, and the occasional adventurer looking for passage. From an early age, Tolan learned to read maps, judge weather, spot dishonest merchants, and recognise when a “perfectly safe route” was anything but.
 He received little formal education, but absorbed practical knowledge quickly — ports that overcharged, inns that watered down ale, towns where outsiders vanished, and which local customs were actually enforced versus merely threatened.
 
@@ -57,7 +57,7 @@ Among travellers, his name has become synonymous with preparation — and with t
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Businesses/Folly Guides.md|Folly Guides]]
+**Groups:**  [[2-World/Businesses/Folly Guides\|Folly Guides]]
 
 ### Associated Handouts
 | File                                                                                 | Date Obtained |

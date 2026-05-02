@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"Complete","questGiver":"[[Jimmy Pyre|Jimmy Pyre]]","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Ballad of Chasey Lain.md","permalink":"/quests/the-ballad-of-chasey-lain/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"tags":["Category/Quest"],"MyContainer":["[Neverwood Academy]]"],"MyCategory":null,"image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"Complete","questGiver":"[[Jimmy Pyre|Jimmy Pyre](/img/user/2-World/Hubs/Neverwood%20Academy.md)","questLocationObtained":"[Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Quests/The Ballad of Chasey Lain.md","permalink":"/quests/the-ballad-of-chasey-lain/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":["[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Hellhoung Gang Logo.png","obsidianUIMode":"preview","questObtained":"2025-10-11","questStatus":"Complete","questGiver":"[[Jimmy Pyre|Jimmy Pyre](/img/user/2-World/Hubs/Neverwood%20Academy.md)","questLocationObtained":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","questSessionObtained":"[[2025-10-11 - Session 14|2025-10-11 - Session 14]]","questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > # The Ballad of Chasey Lain
 > ![Hellhoung Gang Logo.png](/img/user/z_Assets/character_art/NPCs/Hellhoung%20Gang%20Logo.png)
 > ###### Basic Info
-> | Date Obtained: | 2025-10-11T00:00:00.000+01:00 |
+> | Date Obtained: | 11/10/2025 |
 | ----------------- | -------------------------- |
 | Status: | Complete |
 | Quest Giver: | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]] |
@@ -78,9 +78,9 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf             | Female | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn      | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome           | Male   | Student |
-| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter         | Male   | Student |
+| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc        | Male   | Student |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                           | Human           | Male   | Player  |
 | [[1-Party/Her/Her\|Her]]                                                                  | Tiefling        | Female | Player  |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                 | Variant Aasimar | Female | Player  |
