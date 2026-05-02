@@ -173,8 +173,19 @@ body {
     --dg-filetree-width: 250px;
     --dg-filetree-min-width: 250px;
     --dg-filetree-gap: 40px;
-    --dg-filetree-padding: 10px 20px 10px 20px;
+    --dg-filetree-padding: 10px 10px 10px 12px;
     --dg-filetree-logo-height: 80px;
+}
+
+/* --- Left padding on filetree wrapper so content doesn't touch screen edge --- */
+.filetree-wrapper {
+    padding-left: 10px !important;
+}
+
+/* --- Move filetree scrollbar to the right edge of the sidebar panel --- */
+.filetree-sidebar > .folder {
+    scrollbar-gutter: stable;
+    padding-right: 4px;
 }
 
 /* --- Add logo image to top of left sidebar --- */
