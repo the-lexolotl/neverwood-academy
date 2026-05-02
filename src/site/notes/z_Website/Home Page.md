@@ -106,3 +106,5 @@ FantasyCalendar({
 
 ---
 *Disclaimer: A degree from Neverwood Academy does not provide protection from magic missiles, fireballs, freezing spheres, or any other deleterious effects spellcasters might generate. If you create deleterious effects, Neverwood kindly requests you refrain from invoking any names, symbols, or other references to the academy should you find yourself in a confrontation. Neverwood Academy does not take responsibility for any injury of any nature sustained in the course of anything, magical or otherwise.*
+
+This site is proudly powered by [Obsidian](https://vaults.obsidian-community.com) and [Digital Garden](https://docs.forestry.md)
