@@ -27,9 +27,9 @@ Those who demonstrate initiative may be invited to join more advanced expedition
 The following people are members of this group.  
 | File                                                                                     | Gender | Race       | Role    | College  |
 | ---------------------------------------------------------------------------------------- | ------ | ---------- | ------- | -------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon    | Student | Lorehold |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]] | Male   | Triton     | Student | Prismari |
 | [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]     | Male   | Half-Elf   | Student | Quandrix |
-| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon    | Student | Lorehold |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                       | Male   | Dragonborn | Player  | Quandrix |
 
 { .block-language-dataview}

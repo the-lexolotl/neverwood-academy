@@ -27,10 +27,10 @@ Experienced members may lead discussions or organise events aligned with their t
 The following people are members of this group.  
 | File                                                                                             | Gender | Race    | Role    | College     |
 | ------------------------------------------------------------------------------------------------ | ------ | ------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad   | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Female | Firbolg | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Female | Satyr   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Female | Aasimar | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad   | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin   | Student | Silverquill |
 
 { .block-language-dataview}

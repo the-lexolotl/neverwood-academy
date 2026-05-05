@@ -74,8 +74,8 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 | ------------------------------------------------------------------------------------ | -------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                             | Human    | Male   | Shop Manager   |
 | [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                               | Half-Elf | Female | Shop Manager   |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf      | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph    | Female | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf      | Female | Tavern Founder |
 
 { .block-language-dataview}
 

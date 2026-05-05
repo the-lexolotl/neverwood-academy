@@ -48,10 +48,10 @@ The campus carries an atmosphere of quiet intensity. Every stone feels significa
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg     | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome       | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human       | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin       | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                           | Half-Elf    | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |
+| [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Owlin       | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg     | Non-binary | Student            |
+| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin      | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin       | Male       | Veteran            |
 

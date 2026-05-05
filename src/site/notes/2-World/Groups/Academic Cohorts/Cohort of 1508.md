@@ -49,13 +49,13 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]]                                 | Male   | Tiefling        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                                                 | Male   | Dryad           | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]                                 | Female | Reborn          | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Female | Dryad           | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                                     | Male   | Shadar-Kai      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male   | Human           | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Female | Owlin           | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]                                 | Female | Human           | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Female | Gnome           | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]                                     | Female | Dryad           | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]]                             | Female | Owlin           | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]                                           | Female | Human           | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]]                   | Female | Gnome           | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]                                   | Male   | Half-Orc        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]                                           | Male   | Fire Genasi     | Student | Prismari    |
 | [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                                                                          | Female | Kobold          | Player  | Silverquill |
@@ -67,10 +67,10 @@ The following people are members of this group.
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Male   | Minotaur        | Player  | Lorehold    |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                                                       | Female | Dragonborn      | Player  | Lorehold    |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                                           | Male   | Dragonborn      | Player  | Quandrix    |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
-| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
 | [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                                         | Female | Eladrin         | Player  | Witherbloom |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                                                 | Male   | Dragonborn      | Player  | Silverquill |
 
 { .block-language-dataview}

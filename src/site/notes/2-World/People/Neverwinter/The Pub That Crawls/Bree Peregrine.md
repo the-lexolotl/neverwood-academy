@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Bree Peregrine
-> ![Ellina Tanglewood.webp](/img/user/z_Assets/character_art/NPCs/Staff/Ellina%20Tanglewood.webp)
+> ![Bree Peregrine.png](/img/user/z_Assets/character_art/NPCs/Bree%20Peregrine.png)
 > ###### Basic Info
 > Type |  Stat |
 > ---|---|

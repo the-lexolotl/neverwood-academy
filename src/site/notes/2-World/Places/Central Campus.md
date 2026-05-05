@@ -36,8 +36,8 @@ Though it appears open and accessible, the Central Campus is subtly structured t
 | [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]]                               | Neverwood Campus Guide | Male   | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Brik-E\|Brik-E]]                                   | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Burn-E\|Burn-E]]                                   | Automaton              | Other  | Automaton                  |
-| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
+| [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]]                                      | Orc                    | Male   | Coach                      |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Lidbrix Teawillow\|Lidbrix Teawillow]]         | Owlin                  | Male   | Dean of Admissions         |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]                 | Human                  | Male   | Former Deputy Head Teacher |
@@ -62,8 +62,8 @@ Though it appears open and accessible, the Central Campus is subtly structured t
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
-| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
+| [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |
 | [[2-World/Points of Interest/Neverwood Academy/Firejolt Café\|Firejolt Café]]                           |
 | [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]]                   |
 

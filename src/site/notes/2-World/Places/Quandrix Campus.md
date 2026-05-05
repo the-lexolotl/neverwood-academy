@@ -58,8 +58,8 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
 
 { .block-language-dataview}

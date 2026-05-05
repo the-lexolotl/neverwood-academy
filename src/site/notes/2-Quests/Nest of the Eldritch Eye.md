@@ -78,10 +78,10 @@ The following people are associated with this quest.
 | ------------------------------------------------------------------------------ | --------------- | ------ | ----------------------------- |
 | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]]         | Human           | Male   | Lord Protector of Neverwinter |
 | [[2-World/People/Neverwinter/Chanelle Hallwinter\|Chanelle Hallwinter]]     | Human           | Female | Ghost                         |
-| [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]]         | Human           | Male   | City Watch                    |
 | [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]]         | Human           | Female | City Watch                    |
-| [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]         | Deity           | Male   | Mage                          |
+| [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]]         | Human           | Male   | City Watch                    |
 | [[2-World/People/Neverwinter/Zalryr\|Zalryr]]                               | Half-Elf        | Male   | Cult Leader                   |
+| [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]         | Deity           | Male   | Mage                          |
 | [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                            | Kobold          | Female | Player                        |
 | [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]] | Halfling        | Male   | Player                        |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]             | Human           | Male   | Player                        |
