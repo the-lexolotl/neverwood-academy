@@ -34,14 +34,14 @@ The eyeball is more than it appears - it is both a compass and a key, pointing t
 - [x] ~~Descend into the western catacombs beneath Neverwinter~~
 - [x] ~~Navigate the flooded chamber - build a makeshift skiff or wade through~~
 - [x] ~~Survive or bypass the creature lurking in the flooded tunnel~~
-- [ ] Discover the ghost haunting the Cinerary Rotunda
-- [ ] Uncover the ghost's identity through clues hidden in the nearby tombs
-- [ ] Restore the ghost's memories by speaking her name aloud - earn her aid
+- [x] ~~Discover the ghost haunting the Cinerary Rotunda~~
+- [x] ~~Uncover the ghost's identity through clues hidden in the nearby tombs~~
+- [x] ~~Restore the ghost's memories by speaking her name aloud - earn her aid~~
 ### Deeper Darkness
-- [ ] Push deeper into the catacombs past sewers and ruined crypts
-- [ ] Deal with the undead creatures swarming the desecrated crypt
-- [ ] Optionally rededicate the defiled shrine to Oghma to bring down the undead
-- [ ] Use the desiccated eyeball to unlock the sealed door deeper in the catacombs
+- [x] ~~Push deeper into the catacombs past sewers and ruined crypts~~
+- [x] ~~Deal with the undead creatures swarming the desecrated crypt~~
+- [x] ~~Optionally rededicate the defiled shrine to Oghma to bring down the undead~~
+- [x] ~~Use the desiccated eyeball to unlock the sealed door deeper in the catacombs~~
 ### The Cult's Sanctum
 - [ ] Infiltrate the cult's hidden sanctuary below the sealed door
 - [ ] Sneak past or subdue the sleeping cultists in their quarters
