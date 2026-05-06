@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Games & Recreational |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Deception |
+> **Skill 2:** | Investigation |
 
 # Description
 The Dragonchess Club is dedicated to the mastery of Dragonchess, a complex and multilayered strategy game that tests intellect, foresight, and adaptability. Played across multiple boards or planes, the game requires players to think several moves ahead while accounting for shifting conditions and magical interference.
@@ -27,13 +29,13 @@ Dedication and patience are highly valued, as mastery of Dragonchess is consider
 The following people are members of this group.  
 | File                                                                                         | Gender     | Race     | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ---------- | -------- | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]             | Male       | Aasimar  | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]     | Female     | Half-Elf | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Male       | Tiefling | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Non-binary | Kenku    | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]   | Female     | Hexblood | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]         | Male       | Loxodon  | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]] | Female     | Reborn   | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]           | Female     | Human    | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]             | Male       | Aasimar  | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Male       | Tiefling | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]     | Female     | Half-Elf | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]   | Non-binary | Kenku    | Student | Quandrix    |
 
 { .block-language-dataview}

@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Academic & Scholarly |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Insight |
+> **Skill 2:** | Religion |
 
 # Description
 The Student-Mages of Faith is a gathering of students dedicated to the exploration of divine magic, spirituality, and belief. The group provides a space for respectful discussion, shared practice, and mutual understanding among followers of different deities and philosophies.
@@ -27,10 +29,10 @@ Experienced members may lead discussions or organise events aligned with their t
 The following people are members of this group.  
 | File                                                                                             | Gender | Race    | Role    | College     |
 | ------------------------------------------------------------------------------------------------ | ------ | ------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad   | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Female | Firbolg | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                 | Female | Satyr   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Female | Aasimar | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad   | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin   | Student | Silverquill |
 
 { .block-language-dataview}

@@ -37,7 +37,17 @@
 > **Climbing** | 15 ft | **Running High Jump** | 4 ft |
 
 ## Biography
-*Insert Character Biography Here*
+Eremis Varr is a young kobold cleric whose life began in ruin, yet was shaped into one of compassion, discipline, and unwavering belief in peace.
+Born to a kobold clan on the [[Stormwreck Isles\|Stormwreck Isles]], Eremis was never meant to survive. Her kin were devoted followers of a destructive cult, worshippers of Eldamir and Tiamat, whose ambitions ultimately led to their annihilation at the hands of the [[Eldathi Peace Corps\|Eldathi Peace Corps]]. In the aftermath, among the shattered remains of the clan, a single unhatched egg was discovered—Eremis.
+Taken in by the Peace Corps and brought to their monastery on the Chultan peninsula, Eremis was raised not as a remnant of a fallen cult, but as a child of peace. Her upbringing was structured yet warm, guided by the teachings of Eldath and the firm but compassionate leadership of [[Sister Hregar\|Sister Hregar]], an orc paladin who would become both mentor and moral compass.
+Though devoted to peace, Eremis has never been without her... peculiarities. At the age of six, she famously consumed ten live chickens from the monastery coop before falling asleep mid-feast—an incident that remains both a source of embarrassment and quiet amusement among the clergy. Food, in many ways, became her love language: a comfort, a craft, and eventually a skill she would hone into remarkable culinary talent.
+Her formal training began at eight, when she undertook her first pilgrimage. During this journey, a dinosaur attack tested the resolve of her group. Though no lives were lost, the encounter left a lasting impression on Eremis, igniting a desire not just to heal—but to protect. From that moment, she set her sights on becoming a Peace Officer.
+Despite choosing a more combat-oriented path, Eremis displayed an exceptional affinity for restorative magic. Recognising her rare balance of resilience and empathy, her mentors guided her toward the role of a combat medic—one who could stand at the front lines of conflict while embodying the ideals of peace.
+Her world broadened further at fourteen, when she accompanied Sister Hregar to [[2-World/Hubs/Neverwinter\|Neverwinter]]. There, she first learned of the great magical academies, including [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] - a place where her talents could be refined beyond the monastery’s teachings.
+At sixteen, Eremis undertook her most defining journey: an unguided pilgrimage alongside a small group of fellow trainees. For a year, they travelled the wild and troubled regions surrounding Chult, offering aid, mending wounds, and resolving conflict wherever they could. It was here that Eremis truly came into her own—not just as a healer, but as a unifier.
+Now a student of [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]], Eremis blends her clerical training with the art of expression, using words, presence, and magic alike to disarm hostility and foster understanding. She believes peace is not passive—it is something to be actively created, defended, and, when necessary, fought for.
+Ever motivated by her love of food, Eremis continues to cook wherever she travels, often experimenting with exotic—and occasionally dangerous—ingredients. Whether tending wounds on the battlefield or preparing a shared meal after, she brings people together in the ways she knows best.
+To those who meet her, Eremis Varr is a contradiction: a creature born of a violent legacy, who chose instead to become a quiet force for peace.
 
 ## Appearance
 

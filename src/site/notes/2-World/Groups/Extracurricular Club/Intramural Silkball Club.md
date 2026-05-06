@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Sports & Physical Activities |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Athletics |
+> **Skill 2:** | Intimidation |
 
 # Description
 The Intramural Silkball Club centres around one of Neverwood’s most popular and fast-paced sports. Silkball is a dynamic game that combines precision, teamwork, and controlled magical influence, often played in shifting arenas where the environment itself may change mid-match.
@@ -27,12 +29,12 @@ Regular tournaments and inter-cohort games provide opportunities for recognition
 The following people are members of this group.  
 | File                                                                                         | Gender     | Race         | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                 | Male       | Dryad        | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]           | Female     | Human        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Male       | Tiefling     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Male       | Owlin        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                         | Non-binary | Earth Genasi | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]             | Female     | Halfling     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]         | Female     | Leonin       | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                 | Male       | Dryad        | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]           | Female     | Human        | Student | Quandrix    |
 
 { .block-language-dataview}

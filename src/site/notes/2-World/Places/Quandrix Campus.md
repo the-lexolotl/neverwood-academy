@@ -35,20 +35,20 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Tanazir Quandrix\|Tanazir Quandrix]]      | Dragon     | Female     | Founder Dragon         |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]]                            | Triton     | Non-binary | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Clem Greenthumb\|Clem Greenthumb]]        | Fairy      | Female     | Professor of Substance |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfoot\|Jazzack Quickfoot]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Ruxa\|Ruxa]]                              | Brown Bear | Male       | Professor of Substance |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfoot\|Jazzack Quickfoot]]    | Harengon   | Male       | Professor of Substance |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Bildra Forheim\|Bildra Forheim]]          | Dwarf      | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Deekah\|Deekah]]                          | Human      | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]]                                | Triton     | Non-binary | Professor of Theory    |
-| [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Rixy\|Rixy]]                              | Changling  | Female     | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]]      | Tiefling   | Female     | Professor of Theory    |
+| [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]]          | Human      | Male       | Professor of Theory    |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Owlin      | Female     | Student                |
-| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]     | Minotaur   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]] | Halfling   | Female     | Student                |
+| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]     | Minotaur   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Human      | Female     | Student                |
-| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]           | Half-Elf   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]             | Orc        | Male       | Student                |
+| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]           | Half-Elf   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Kenku      | Non-binary | Student                |
 | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                       | Human      | Male       | Student                |
 
@@ -58,8 +58,8 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
 | [[2-World/Points of Interest/Neverwood Academy/The Cultivarium\|The Cultivarium]]   |
+| [[2-World/Points of Interest/Neverwood Academy/The Arithmodrome\|The Arithmodrome]] |
 | [[2-World/Points of Interest/Neverwood Academy/Torus Hall\|Torus Hall]]             |
 
 { .block-language-dataview}

@@ -93,8 +93,8 @@ Today, in the early **1500s DR**, the Sword Coast stands as a beacon of commerce
 # Hubs
 | File                                               | Category   |
 | -------------------------------------------------- | ---------- |
-| [[2-World/Hubs/Daggerford\|Daggerford]]         | Town +200  |
 | [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] | Hamlet <80 |
+| [[2-World/Hubs/Daggerford\|Daggerford]]         | Town +200  |
 
 { .block-language-dataview}
 

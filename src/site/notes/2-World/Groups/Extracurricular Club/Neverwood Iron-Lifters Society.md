@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Sports & Physical Activities |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Athletics |
+> **Skill 2:** | Medicine |
 
 # Description
 The Neverwood Iron-Lifters Society is dedicated to the pursuit of strength, endurance, and physical resilience. Members train using a combination of traditional methods and magically enhanced techniques, pushing the limits of what the body can achieve.
@@ -27,10 +29,10 @@ Participation can be casual or highly dedicated, depending on individual ambitio
 The following people are members of this group.  
 | File                                                                                     | Gender     | Race         | Role    | College     |
 | ---------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Male       | Fire Genasi  | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                     | Non-binary | Earth Genasi | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]         | Female     | Halfling     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Calla Fernbrook\|Calla Fernbrook]]   | Female     | Satyr        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Female     | Dwarf        | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                     | Non-binary | Earth Genasi | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Male       | Fire Genasi  | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]         | Female     | Halfling     | Student | Prismari    |
 
 { .block-language-dataview}

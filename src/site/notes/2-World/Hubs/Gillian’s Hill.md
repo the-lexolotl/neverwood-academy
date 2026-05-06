@@ -96,10 +96,10 @@ Though small, Gillian’s Hill is not defenceless.
 { .block-language-dataview}
 
 # NPCs
-| File                                                                      | Race  | Gender | Role  |
-| ------------------------------------------------------------------------- | ----- | ------ | ----- |
-| [[2-World/People/Other/Family/Reynard Blackstone\|Reynard Blackstone]] | Human | Male   | Other |
-| [[2-World/People/Other/Family/Adalynn Blackstone\|Adalynn Blackstone]] | Human | Female | Other |
+| File                                                                      | Race  | Gender | Role    |
+| ------------------------------------------------------------------------- | ----- | ------ | ------- |
+| [[2-World/People/Other/Family/Adalynn Blackstone\|Adalynn Blackstone]] | Human | Female | Other   |
+| [[2-World/People/Other/Family/Reynard Blackstone\|Reynard Blackstone]] | Human | Male   | Retired |
 
 { .block-language-dataview}
 

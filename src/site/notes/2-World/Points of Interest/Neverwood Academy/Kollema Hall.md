@@ -28,8 +28,8 @@ The hall’s stepped design allows students to gather in vast numbers while main
 # Quests
 | File                                                                             |
 | -------------------------------------------------------------------------------- |
-| [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] |
 | [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               |
+| [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] |
 
 { .block-language-dataview}
 

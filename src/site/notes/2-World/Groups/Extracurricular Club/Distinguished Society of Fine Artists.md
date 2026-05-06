@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Arts & Performance |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Performance |
+> **Skill 2:** | Slight of Hand |
 
 # Description
 The Distinguished Society of Fine Artists is a collective of students dedicated to the pursuit of artistic excellence across a wide range of mediums. From traditional painting and sculpture to magically infused installations, the Society encourages experimentation, expression, and refinement of craft.
@@ -27,12 +29,12 @@ Those who demonstrate exceptional talent or dedication may have their work featu
 The following people are members of this group.  
 | File                                                                                                               | Gender | Race       | Role    | College     |
 | ------------------------------------------------------------------------------------------------------------------ | ------ | ---------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Male   | Elf        | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Female | Air Genasi | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male   | Gnome      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Female | Loxodon    | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male   | Gnome      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male   | Human      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Female | Human      | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Male   | Elf        | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Female | Air Genasi | Student | Prismari    |
 | [[1-Party/Her/Her\|Her]]                                                                                        | Female | Tiefling   | Player  | Prismari    |
 
 { .block-language-dataview}

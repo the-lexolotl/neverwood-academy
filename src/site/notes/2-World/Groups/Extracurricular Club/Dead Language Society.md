@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Academic & Scholarly |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Athletics |
+> **Skill 2:** | History |
 
 # Description
 The Dead Language Society is devoted to the study, preservation, and occasional reconstruction of ancient and forgotten languages. Members work with fragmented texts, enchanted inscriptions, and relics whose meanings have been lost to time, piecing together linguistic puzzles that often hold magical significance.
@@ -27,14 +29,14 @@ Participation ranges from casual attendance at meetings to deep involvement in l
 The following people are members of this group.  
 | File                                                                                                                         | Gender | Race     | Role    | College     |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Male   | Gnome    | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Male   | Elf      | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male   | Human    | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                                             | Male   | Aasimar  | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Male   | Minotaur | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                             | Female | Satyr    | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                                     | Male   | Human    | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                               | Male   | Elf      | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]                                 | Male   | Gnome    | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]                                       | Male   | Elf      | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male   | Human    | Student | Prismari    |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti  | Player  | Witherbloom |
 
 { .block-language-dataview}

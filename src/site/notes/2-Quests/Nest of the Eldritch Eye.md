@@ -82,10 +82,11 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]]         | Human           | Male   | City Watch                    |
 | [[2-World/People/Neverwinter/Zalryr\|Zalryr]]                               | Half-Elf        | Male   | Cult Leader                   |
 | [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]         | Deity           | Male   | Mage                          |
-| [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                            | Kobold          | Female | Player                        |
 | [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]] | Halfling        | Male   | Player                        |
+| [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                            | Kobold          | Female | Player                        |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]             | Human           | Male   | Player                        |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                   | Variant Aasimar | Female | Player                        |
+| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]          | Minotaur        | Male   | Player                        |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]             | Dragonborn      | Male   | Player                        |
 
 { .block-language-dataview}

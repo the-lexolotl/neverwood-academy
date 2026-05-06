@@ -92,8 +92,8 @@ The Endless Ice Sea lies to the north of Faerûn, Kara-Tur and Maztica. The “s
 | File                                                           |
 | -------------------------------------------------------------- |
 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]       |
-| [[2-World/Hubs/Daggerford\|Daggerford]]                     |
 | [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]]             |
+| [[2-World/Hubs/Daggerford\|Daggerford]]                     |
 | [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                   |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]               |

@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Sports & Physical Activities |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Athletics |
+> **Skill 2:** | Intimidation |
 
 # Description
 The Wrestling Society offers students the opportunity to engage in controlled combat, combining physical technique with discipline and, at times, carefully regulated magical enhancement. Matches emphasise skill, control, and respect, rather than brute force alone.
@@ -29,7 +31,7 @@ The following people are members of this group.
 | -------------------------------------------------------------------------------------------- | ------ | ----------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Male   | Owlin       | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]     | Male   | Fire Genasi | Student | Lorehold    |
-| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                       | Female | Dragonborn  | Player  | Lorehold    |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                 | Male   | Dragonborn  | Player  | Silverquill |
+| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                       | Female | Dragonborn  | Player  | Lorehold    |
 
 { .block-language-dataview}

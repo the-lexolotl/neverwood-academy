@@ -16,7 +16,7 @@
 | Acquired Loot:    | None |
 
 # Backstory
-When the [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]] announces auditions for its newest production, The Merchant of Moons, Lyra Everlight finds her name at the top of the contenders list. The opportunity could restore her reputation after recent disciplinary trouble — but all that glitters is not applause.
+When the [[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]] announces auditions for its newest production, The Merchant of Moons, Lyra Everlight finds her name at the top of the contenders list. The opportunity could restore her reputation after recent disciplinary trouble — but all that glitters is not applause.
 
 As rehearsals begin, Lyra discovers her family’s wealth has secretly bankrolled the production through the Everlight Trust, and that the script itself hides financial ledgers and coded accusations. Under the watchful eye of Professor Dramitia, truth and theatre intertwine until Lyra must decide what kind of story she wants to tell — and who will pay the price.
 

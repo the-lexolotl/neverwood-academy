@@ -19,7 +19,7 @@
 > **Threats & Hazards:** | The Grinder asteroid field, magical dead zones, dark stars, hostile spelljammers, and extreme environmental conditions |
 
 # Description
-Greyspace is the crystal sphere that contains the world of [[2-World/Planets/Oerth\|Oerth]] and its surrounding celestial system within the Prime Material Plane. Unlike most known spheres, Greyspace is geocentric, with Oerth at the centre and all other celestial bodies—including its sun—orbiting it.
+Greyspace is the crystal sphere that contains the world of [[2-World/Planets/Oerth\|Oerth]] and its surrounding celestial system within the [[2-World/Realms/Prime Material plane\|Prime Material plane]]. Unlike most known spheres, Greyspace is geocentric, with Oerth at the centre and all other celestial bodies—including its sun—orbiting it.
 Encased within a crystal shell suspended in the phlogiston, Greyspace contains a diverse array of celestial bodies, including spherical planets, irregular worlds, asteroid clusters, and even flatworlds.
 To spelljammers, Greyspace is considered both stable and strange: a relatively navigable sphere, yet filled with unusual cosmological phenomena and unpredictable hazards.
 

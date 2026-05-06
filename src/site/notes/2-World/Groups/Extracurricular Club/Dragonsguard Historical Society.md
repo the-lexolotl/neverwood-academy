@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Academic & Scholarly |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Arcana |
+> **Skill 2:** | History |
 
 # Description
 The Dragonsguard Historical Society is devoted to the study of ancient history, with a particular focus on legendary conflicts, draconic influence, and the guardians who shaped the world’s past. Members delve into archives, oral traditions, and archaeological sites to uncover truths that are often obscured by time or myth.
@@ -27,9 +29,9 @@ Those who demonstrate initiative may be invited to join more advanced expedition
 The following people are members of this group.  
 | File                                                                                     | Gender | Race       | Role    | College  |
 | ---------------------------------------------------------------------------------------- | ------ | ---------- | ------- | -------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon    | Student | Lorehold |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]] | Male   | Triton     | Student | Prismari |
 | [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]     | Male   | Half-Elf   | Student | Quandrix |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon    | Student | Lorehold |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                       | Male   | Dragonborn | Player  | Quandrix |
 
 { .block-language-dataview}

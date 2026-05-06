@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Leadership & Professional Development |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Insight |
+> **Skill 2:** | Persuasion |
 
 # Description
 The Future Entrepreneurs of Neverwood is a forward-thinking organisation for students interested in commerce, innovation, and the practical application of magic in the wider world. Members collaborate to develop business ideas, explore magical markets, and experiment with entrepreneurial ventures.
@@ -27,10 +29,10 @@ Highly successful projects may attract attention from faculty or external contac
 The following people are members of this group.  
 | File                                                                                           | Gender     | Race     | Role    | College     |
 | ---------------------------------------------------------------------------------------------- | ---------- | -------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]     | Female     | Hexblood | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Male       | Human    | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Male       | Elf      | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]     | Non-binary | Kenku    | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]     | Female     | Orc      | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]     | Female     | Hexblood | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Male       | Human    | Student | Silverquill |
 
 { .block-language-dataview}

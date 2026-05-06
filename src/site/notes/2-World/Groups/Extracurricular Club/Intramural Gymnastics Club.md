@@ -12,6 +12,8 @@
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Sports & Physical Activities |
 > **Primary Contact:** | Unknown |
+> **Skill 1:** | Acrobatics |
+> **Skill 2:** | Performance |
 
 # Description
 The Intramural Gymnastics Club is dedicated to the pursuit of agility, balance, and physical precision, often enhanced through subtle applications of magic. Members train in a variety of disciplines, from traditional floor routines and apparatus work to enchanted performances that defy gravity and physical limitation.
