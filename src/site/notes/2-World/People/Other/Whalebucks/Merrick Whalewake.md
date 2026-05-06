@@ -52,7 +52,7 @@ Merrick is acutely aware of the contrast between himself and his forebears:
 - Deryn embodied restraint
 - Merrick maintains equilibrium
 He respects his father deeply, admires his uncle’s integrity, and feels quietly responsible for reconciling the two philosophies within a single, sprawling organisation.
-His relationship with [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] is courteous but distant. Merrick considers Folly Guides useful, occasionally inconvenient, and fundamentally outside Whalebucks’ control — a fact he has learned to accept.
+His relationship with [[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] is courteous but distant. Merrick considers [[2-World/Businesses/Folly Guides\|Folly Guides]] useful, occasionally inconvenient, and fundamentally outside Whalebucks’ control — a fact he has learned to accept.
 
 ### Personality & Public Image
 Merrick is calm, precise, and measured. He speaks carefully, chooses words for effect, and dislikes improvisation in public settings.

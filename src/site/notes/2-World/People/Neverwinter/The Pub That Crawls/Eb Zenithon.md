@@ -18,7 +18,7 @@
 > College | Quandrix |
 
 # Biography
-Eb Zenithon was widely regarded as one of the most gifted students Neverwood Academy ever produced. A Quandrix wizard with a talent for conjuration and an unconventional approach to problem-solving, Eb possessed a mind that constantly searched for patterns others overlooked. Where many relied on raw magical force, Eb preferred careful planning, elegant solutions, and the quiet satisfaction of things working exactly as intended.
+Eb Zenithon was widely regarded as one of the most gifted students [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] ever produced. A Quandrix wizard with a talent for conjuration and an unconventional approach to problem-solving, Eb possessed a mind that constantly searched for patterns others overlooked. Where many relied on raw magical force, Eb preferred careful planning, elegant solutions, and the quiet satisfaction of things working exactly as intended.
 
 Reserved and precise in both speech and manner, Eb often expressed himself through puzzles, diagrams, and half-finished theories rather than direct conversation. Those who knew him well described a subtle wistfulness beneath his meticulous exterior—a sense that for all his brilliance, he struggled with the messier, less predictable elements of life.
 

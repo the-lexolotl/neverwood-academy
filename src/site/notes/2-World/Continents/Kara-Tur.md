@@ -12,16 +12,16 @@
 > **Planet:** | [[2-World/Planets/Toril\|Toril]] | 
 > **Deities of Note:** | Regional pantheons, ancestral spirits, and celestial powers; in some regions, gods of the wider world such as Akadi and Grumbar are acknowledged |
 > **Primary Exports:** | Silk, spices, ceramics, rare herbs, philosophy, martial traditions |
-> **Threats:** | Regional warlords, imperial conflict, spiritual imbalance, supernatural creatures, isolation from western Faerûn |
+> **Threats:** | Regional warlords, imperial conflict, spiritual imbalance, supernatural creatures, isolation from western [[2-World/Continents/Faerûn\|Faerûn]] |
 > **Political Structure:** | Dominated by large, centralised empires and rigid hierarchies, often influenced by tradition, bureaucracy, and divine or celestial mandate |
 
 # Description
-The great eastern continent of Toril, **Kara-Tur** lies beyond the lands of Faerûn, past the Hordelands and the towering **Mountains of the East**. A land of sprawling empires, ancient traditions, and immense natural beauty, Kara-Tur is a continent steeped in history and mysticism. Its cultures draw from countless centuries of dynasties, clans, and kingdoms—each shaped by spirits, ancestors, and the ever-turning Celestial Bureaucracy.
+The great eastern continent of [[2-World/Planets/Toril\|Toril]], **Kara-Tur** lies beyond the lands of [[2-World/Continents/Faerûn\|Faerûn]], past the Hordelands and the towering **Mountains of the East**. A land of sprawling empires, ancient traditions, and immense natural beauty, Kara-Tur is a continent steeped in history and mysticism. Its cultures draw from countless centuries of dynasties, clans, and kingdoms—each shaped by spirits, ancestors, and the ever-turning Celestial Bureaucracy.
 
 From the disciplined legions of **Shou Lung** to the shamanic tribes of **Tabot**, Kara-Tur is a realm where honor, tradition, and balance shape every facet of life. Great rivers carve through its heartlands, sacred peaks pierce the clouds, and seas both stormy and serene cradle its island nations.
 
 # Geography of Kara-Tur
-Kara-Tur stretches from the forbidding mountain borders of Faerûn to the endless seas of the far east. Its climate ranges from frozen tundra in the north to lush jungles in the south, and from temperate plains to wind-scoured deserts. Trade routes like the **Golden Way** and the **Celestial Road** link its far-flung regions, while myths speak of dragon spirits and celestial guardians watching over its balance.
+Kara-Tur stretches from the forbidding mountain borders of [[2-World/Continents/Faerûn\|Faerûn]] to the endless seas of the far east. Its climate ranges from frozen tundra in the north to lush jungles in the south, and from temperate plains to wind-scoured deserts. Trade routes like the **Golden Way** and the **Celestial Road** link its far-flung regions, while myths speak of dragon spirits and celestial guardians watching over its balance.
 
 The continent can be divided into broad cultural and geographic regions: the imperial heartlands of the east, the rugged northern steppes, the southern jungles and archipelagos, and the mystic highlands of the west.
 
@@ -33,7 +33,7 @@ Harsh, wind-swept, and steeped in ancient war, the northern lands of Kara-Tur ar
 * **Yaimunnahar** – A western frontier region between the Wastes and Shou Lung, famed for its fortified passes.
 * **Kozakura Uplands** – Windswept highlands and ancient ruins of forgotten empires.
 * **Kuong Jungle (North)** – The northernmost reaches of the dense southern jungles.
-* **Mountains of the East** – A formidable range marking the border with the Hordelands and Faerûn.
+* **Mountains of the East** – A formidable range marking the border with the Hordelands and [[2-World/Continents/Faerûn\|Faerûn]].
 
 ## East Kara-Tur
 The imperial heart of the continent—rich, orderly, and ancient beyond reckoning. The east is defined by its massive empires, powerful bureaucracies, and intricate philosophies. It is here that the Celestial Emperor’s influence shines brightest.
@@ -67,14 +67,14 @@ Dense rainforests, ancient ruins, and isolated kingdoms mark this vast southern 
 
 ## West Kara-Tur
 
-The western frontier where Kara-Tur meets the Hordelands and Faerûn. Mountain passes and caravan routes define this rugged region, often called “the roof of the world.”
+The western frontier where Kara-Tur meets the Hordelands and [[2-World/Continents/Faerûn\|Faerûn]]. Mountain passes and caravan routes define this rugged region, often called “the roof of the world.”
 
 **Notable Areas:**
 * **Tabot Highlands** – Snow-capped peaks and spiritual monasteries hidden among the clouds.
 * **The Hordelands** – Technically west of Kara-Tur, but culturally linked through trade and migration.
 * **Kao Shan Lands** – Remote territories where mystics and martial hermits dwell.
 * **Shan States** – Small, warring principalities vying for trade and influence.
-* **The Great Road** – A historic trade route connecting Kara-Tur with Faerûn via the Endless Wastes.
+* **The Great Road** – A historic trade route connecting Kara-Tur with [[2-World/Continents/Faerûn\|Faerûn]] via the Endless Wastes.
 
 ## Central Kara-Tur
 A land of fertile plains, vast river valleys, and ancient capitals. It is here that the cultures of north, south, east, and west collide—an eternal crossroads of trade, faith, and conquest.
@@ -87,14 +87,14 @@ A land of fertile plains, vast river valleys, and ancient capitals. It is here t
 * **Kao Shan Forest** – Ancient woodland where spirits, elves, and tengu dwell in uneasy balance.
 
 ## The Underdark of Kara-Tur
-Far beneath Kara-Tur lies a shadowed reflection of its surface world—an underrealm of ancient horrors, forgotten kingdoms, and alien deities. While less mapped than Faerûn’s Underdark, it is no less perilous.
+Far beneath Kara-Tur lies a shadowed reflection of its surface world—an underrealm of ancient horrors, forgotten kingdoms, and alien deities. While less mapped than [[2-World/Continents/Faerûn\|Faerûn]]’s Underdark, it is no less perilous.
 
 **Notable Areas:**
 * **Kyorlin Deep** – A drow enclave beneath Shou Lung, steeped in forbidden magic.
 * **The Jade Warrens** – A network of caverns filled with phosphorescent fungi and ancient carvings.
 * **Nisura Hollow** – An illithid dominion that manipulates surface politics through dreams.
 * **The Silent Temples** – Collapsed shrines of long-dead gods, haunted by restless oni and shadows.
-* **The Deep Rivers** – Subterranean waterways connecting to the Underdark of Faerûn.
+* **The Deep Rivers** – Subterranean waterways connecting to [[2-World/Realms/The Underdark\|the Underdark]] of [[2-World/Continents/Faerûn\|Faerûn]].
 
 ## The Spirit Realms
 Beyond mortal sight, Kara-Tur overlaps with spirit worlds where the Celestial Bureaucracy, ancestral ghosts, and elemental kami dwell. These realms influence the natural world and the destiny of nations.

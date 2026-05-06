@@ -33,8 +33,8 @@ A Neverwood professor has been missing for a year now. He seemingly disappeared 
 # Quest Handouts
 | File                                                                                                                 | Date Obtained | Category        | Associated NPCs                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]]                                                | 09 Aug, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1507/Mina Lee.md\\|Mina Lee]]</li></ul>                                                                                  |
 | [[2-Player Handouts/Others/The Joy of Extradimensional Spaces (book)\|The Joy of Extradimensional Spaces (book)]] | 09 Aug, 2025  | Book            | <ul><li>[[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous.md\\|Matreous]]</li><li>[[2-World/People/Other/Fistandrias Mansion/Fistandria.md\\|Fistandria]]</li></ul> |
+| [[2-Player Handouts/Neverwood Times/Volume XXVIII\|Volume XXVIII]]                                                | 09 Aug, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1507/Mina Lee.md\\|Mina Lee]]</li></ul>                                                                                  |
 
 { .block-language-dataview}
 
@@ -52,15 +52,15 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Augusta Tullus\|Augusta Tullus]] | Human           | Female | College Dean       |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]             | Human           | Male   | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                 | Orc             | Male   | College Dean       |
-| [[2-World/People/Other/Fistandrias Mansion/Cumin\|Cumin]]                          | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandrias Mansion/Coriander\|Coriander]]                  | Homunculi       | Other  | Butler             |
-| [[2-World/People/Other/Fistandrias Mansion/Freyot\|Freyot]]                        | Human           | Male   | Mage               |
+| [[2-World/People/Other/Fistandrias Mansion/Cumin\|Cumin]]                          | Homunculi       | Other  | Butler             |
 | [[2-World/People/Other/Fistandrias Mansion/Fistandria\|Fistandria]]                | Human           | Female | Mage               |
+| [[2-World/People/Other/Fistandrias Mansion/Freyot\|Freyot]]                        | Human           | Male   | Mage               |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                    | Human           | Male   | Player             |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                          | Variant Aasimar | Female | Player             |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                       | Aarakocra       | Female | Player             |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                      | Yuan-Ti         | Male   | Player             |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                    | Dragonborn      | Male   | Player             |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                      | Yuan-Ti         | Male   | Player             |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                       | Aarakocra       | Female | Player             |
 
 { .block-language-dataview}
 

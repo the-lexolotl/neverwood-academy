@@ -20,6 +20,6 @@
     src="https://www.canva.com/design/DAG-8r8fcvU/6mE4MnSH0daud-6He0_rzg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG-8r8fcvU&#x2F;6mE4MnSH0daud-6He0_rzg&#x2F;view?utm_content=DAG-8r8fcvU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Neverwinter - Folly Guide</a> ©lexsdungeon
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG-8r8fcvU&#x2F;6mE4MnSH0daud-6He0_rzg&#x2F;view?utm_content=DAG-8r8fcvU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">[[2-World/Hubs/Neverwinter\|Neverwinter]] - Folly Guide</a> ©lexsdungeon
 
 ***Note - This guide is not complete. Additional pages will be added as the campaign progresses.***

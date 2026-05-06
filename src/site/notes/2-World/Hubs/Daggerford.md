@@ -16,12 +16,12 @@
 > **Threats:** | Bandits along the Trade Way, lizardfolk and trolls from the Lizard Marsh, raiders from the High Moor, and political tension between nearby city-states |
 
 # General
-Nestled along the **Trade Way** between **[[Waterdeep\|Waterdeep]]** and **[[Baldur’s Gate\|Baldur’s Gate]]**, the **Duchy of Daggerford** is a small but storied settlement on the **[[2-World/Regions/Sword Coast\|Sword Coast]]**. Built around the ruins of a long-fallen castle, Daggerford stands as both a frontier outpost and a vital stop for merchants, pilgrims, and adventurers travelling the coast. Though modest in size, its position on the **River Delimbiyr** grants it wealth and strategic importance far greater than its population suggests.
+Nestled along the **Trade Way** between **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and **[[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]]**, the **Duchy of Daggerford** is a small but storied settlement on the **[[2-World/Regions/Sword Coast\|Sword Coast]]**. Built around the ruins of a long-fallen castle, Daggerford stands as both a frontier outpost and a vital stop for merchants, pilgrims, and adventurers travelling the coast. Though modest in size, its position on the **River Delimbiyr** grants it wealth and strategic importance far greater than its population suggests.
 
-Once part of the elven realm of **Illefarn**, the area now thrives under the rule of **Duke Morwen Daggerford**, whose pragmatic leadership and alliance with **[[Waterdeep\|Waterdeep]]** help keep the duchy secure. Daggerford’s people are proud, hardworking, and accustomed to danger — from trolls in the moors to bandits on the roads.
+Once part of the elven realm of **Illefarn**, the area now thrives under the rule of **Duke Morwen Daggerford**, whose pragmatic leadership and alliance with **[[2-World/Hubs/Waterdeep\|Waterdeep]]** help keep the duchy secure. Daggerford’s people are proud, hardworking, and accustomed to danger — from trolls in the moors to bandits on the roads.
 
 # **Geography**
-Daggerford lies in the temperate, mist-laden lowlands of the **Delimbiyr Vale**, bordered by forests, moors, and rivers. The duchy is surrounded by farmland and scattered hamlets that rely on the city’s protection. The **Lizard Marsh** to the west and the **High Moor** to the east mark its wild borders, both teeming with ancient ruins and monsters.
+Daggerford lies in the temperate, mist-laden lowlands of the **[[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]]**, bordered by forests, moors, and rivers. The duchy is surrounded by farmland and scattered hamlets that rely on the city’s protection. The **Lizard Marsh** to the west and the **High Moor** to the east mark its wild borders, both teeming with ancient ruins and monsters.
 
 The settlement itself sits on a small rise overlooking a ford in the River Delimbiyr — once a strategic crossing that gave the town its name. A sturdy wall, the old castle keep, and a few stone towers provide modest but reliable defences.
 
@@ -33,9 +33,9 @@ The settlement itself sits on a small rise overlooking a ford in the River Delim
 * **Ardeep Forest** – A remnant of old elven lands, still patrolled by sylvan guardians and fey creatures.
 
 ## **Geographical Features**
-* **River Delimbiyr** – Known as the “Shining River,” it flows westward toward the Sea of Swords and serves as a major trade route.
+* **River Delimbiyr** – Known as the “Shining River,” it flows westward toward the [[2-World/Regions/Sea of Swords\|Sea of Swords]] and serves as a major trade route.
 * **Shining Hills** – Rolling countryside southeast of town, rich in wildflowers and small mines.
-* **Way Inn** – A fortified rest stop halfway between Daggerford and Waterdeep, frequented by merchants and travelers.
+* **Way Inn** – A fortified rest stop halfway between Daggerford and [[2-World/Hubs/Waterdeep\|Waterdeep]], frequented by merchants and travelers.
 * **The Trade Way** – The main coastal road linking the duchy with major cities north and south.
 
 # **Major Cities and Settlements**
@@ -62,13 +62,13 @@ Though called a “duchy,” Daggerford rules over only a handful of small settl
 # Culture and Politics
 Though small, Daggerford is a proud and independent realm with a strong sense of civic identity. Its people value hard work, honesty, and community. Festivals, open markets, and public feasts are common, reflecting both its agricultural roots and its strategic role on the Trade Way.
 
-The duchy is governed from **Daggerford Castle** by **Duke Morwen Daggerford**, advised by a small council of elders, priests, and guild leaders. While loyal to **[[Waterdeep\|Waterdeep]]** and the **[[Lords’ Alliance\|Lords’ Alliance]]**, Daggerford maintains its own guard, laws, and militia. Adventurers are welcomed — sometimes even deputized — to aid against trolls, bandits, and the occasional dragon sighting.
+The duchy is governed from **Daggerford Castle** by **Duke Morwen Daggerford**, advised by a small council of elders, priests, and guild leaders. While loyal to **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and the **[[Lords’ Alliance\|Lords’ Alliance]]**, Daggerford maintains its own guard, laws, and militia. Adventurers are welcomed — sometimes even deputized — to aid against trolls, bandits, and the occasional dragon sighting.
 
 ## Major Powers
 * **House Daggerford** – The ruling noble line, tracing its heritage back to the founding of the town.
-* **The Lords’ Alliance** – Daggerford is a junior member, often receiving aid and trade protection from Waterdeep.
+* **The Lords’ Alliance** – Daggerford is a junior member, often receiving aid and trade protection from [[2-World/Hubs/Waterdeep\|Waterdeep]].
 * **The Church of Chauntea** – The most prominent faith in the duchy, blessing the harvest and guiding local farmers.
-* **The Order of the Silver Gauntlet** – A small group of knights sworn to defend the duchy and the Delimbiyr Vale.
+* **The Order of the Silver Gauntlet** – A small group of knights sworn to defend the duchy and the [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]].
 * **The Harpers** – Maintain quiet watch over the region, opposing corruption and tyranny.
 
 # History
@@ -79,7 +79,7 @@ Daggerford stands atop the ruins of an ancient castle built by the fallen elves 
 The Daggerford family rose to prominence when **Duke Conan Daggerford** united the local hamlets under one banner, establishing the duchy that still bears his name.
 
 ## Age of Strife
-Throughout the centuries, Daggerford endured invasions from orcs, cultists, and even dragons from the High Moor. Yet the duchy survived, thanks to alliances with **Waterdeep** and the steadfast courage of its people.
+Throughout the centuries, Daggerford endured invasions from orcs, cultists, and even dragons from the High Moor. Yet the duchy survived, thanks to alliances with **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and the steadfast courage of its people.
 
 The **Trollwars** of the 14th century DR devastated the surrounding lands, but Daggerford’s defenses held firm — a victory still celebrated during the “Troll Run” festival each year.
 

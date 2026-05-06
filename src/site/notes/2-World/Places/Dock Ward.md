@@ -15,9 +15,9 @@
 > **Overview:** | A bustling and often rough waterfront district focused on shipping, trade, and maritime industry |
 
 # Description
-The Dock Ward is the restless, salt-stained gateway of Neverwinter. Ships from across the Sword Coast arrive daily, bringing cargo, coin, rumours, and trouble in equal measure. If [[2-World/Places/Protector's Enclave\|Protector's Enclave]] is the city’s face and [[2-World/Places/Blacklake District\|Blacklake]] its guarded heart, the Dock Ward is its pulse.
+The Dock Ward is the restless, salt-stained gateway of [[2-World/Hubs/Neverwinter\|Neverwinter]]. Ships from across the [[2-World/Regions/Sword Coast\|Sword Coast]] arrive daily, bringing cargo, coin, rumours, and trouble in equal measure. If [[2-World/Places/Protector's Enclave\|Protector's Enclave]] is the city’s face and [[2-World/Places/Blacklake District\|Blacklake]] its guarded heart, the Dock Ward is its pulse.
 Here, trade happens loudly. Sailors drink hard after long voyages. Warehouses crowd the waterfront. Cranes swing overhead, and gulls circle constantly. The district thrives on movement — of goods, of people, of secrets.
-For many visitors, the Dock Ward is their first impression of Neverwinter. It is rarely a quiet one.
+For many visitors, the Dock Ward is their first impression of [[2-World/Hubs/Neverwinter\|Neverwinter]]. It is rarely a quiet one.
 
 ## District Character
 **Architecture:**  
@@ -38,7 +38,7 @@ Energetic, volatile, and opportunistic. Deals are struck quickly. Arguments esca
 ## The Harbour
 The harbour waters are busy from dawn until well past midnight. Merchant vessels, fishing boats, and private ships compete for space along the docks. Harbourmasters maintain order — officially.
 Unofficially, certain ships dock without paperwork.
-Fog rolling in from the Sea of Swords can turn the piers into shifting silhouettes, perfect cover for clandestine meetings.
+Fog rolling in from the [[2-World/Regions/Sea of Swords\|Sea of Swords]] can turn the piers into shifting silhouettes, perfect cover for clandestine meetings.
 
 ## Notable Locations
 - Primary cargo docks  
@@ -47,7 +47,7 @@ Fog rolling in from the Sea of Swords can turn the piers into shifting silhouett
 - Seafarers’ guild halls  
 - Numerous taverns and inns  
 - Informal hiring boards for adventuring work  
-- Designated GRIFFT coastal landing platform  
+- Designated [[2-World/Businesses/Grifft\|GRIFFT]] coastal landing platform  
 
 ## People You Might Encounter
 - Sailors and ship captains  

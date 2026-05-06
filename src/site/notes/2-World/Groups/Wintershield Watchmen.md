@@ -15,8 +15,8 @@
 
 # Description
 ### **Overview**
-The Wintershield Watchmen serve as the primary law enforcement force of Neverwinter. Formed during the city’s post-cataclysm reconstruction, they operate under the authority of the Lord Protector’s administration, tasked with maintaining order, enforcing civic law, and protecting citizens and trade within the city’s rebuilt districts.
-Their name derives from the “Wintershield” doctrine—an early reconstruction-era mandate focused on protecting vulnerable communities during Neverwinter’s recovery years, when lawlessness and instability were at their peak.
+The Wintershield Watchmen serve as the primary law enforcement force of [[2-World/Hubs/Neverwinter\|Neverwinter]]. Formed during the city’s post-cataclysm reconstruction, they operate under the authority of the Lord Protector’s administration, tasked with maintaining order, enforcing civic law, and protecting citizens and trade within the city’s rebuilt districts.
+Their name derives from the “Wintershield” doctrine—an early reconstruction-era mandate focused on protecting vulnerable communities during [[2-World/Hubs/Neverwinter\|Neverwinter]]’s recovery years, when lawlessness and instability were at their peak.
 
 ### **Structure & Organisation**
 The Wintershield Watchmen are organised into district-based companies, each responsible for a defined section of the city. While nominally uniform in function, operational autonomy varies by district depending on crime levels, reconstruction activity, and political sensitivity.
@@ -45,7 +45,7 @@ Standard issue equipment includes:
 Elite units may be equipped with enchanted warding sigils or anti-magic restraints, though such resources are limited.
 
 ### **Authority & Conduct**
-The Wintershield Watchmen operate under civil authority tied to the Lord Protector’s government. While officially tasked with impartial enforcement of law, their conduct is often influenced by political priorities within Neverwinter’s leadership structure.
+The Wintershield Watchmen operate under civil authority tied to the Lord Protector’s government. While officially tasked with impartial enforcement of law, their conduct is often influenced by political priorities within [[2-World/Hubs/Neverwinter\|Neverwinter]]’s leadership structure.
 They are expected to uphold:
 * Protection of civilian life and property
 * Maintenance of public order
@@ -58,7 +58,7 @@ However, enforcement is not always even-handed. Wealthier or politically connect
 * **Criminal elements:** Viewed as effective but unevenly distributed in presence
 * **Merchants:** Considered necessary stabilisers of trade
 * **Dissenting factions:** Often seen as instruments of the Lord Protector’s control
-Within Neverwinter, the Watch are both a symbol of recovery and a reminder of continued centralised authority.
+Within [[2-World/Hubs/Neverwinter\|Neverwinter]], the Watch are both a symbol of recovery and a reminder of continued centralised authority.
 
 # Enemies/Allies
 **Enemies:** Unknown
@@ -69,7 +69,7 @@ The following people are members of this group.
 | File                                                                   | Gender | Race  | Role                          | College |
 | ---------------------------------------------------------------------- | ------ | ----- | ----------------------------- | ------- |
 | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]] | Male   | Human | Lord Protector of Neverwinter | None    |
-| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] | Female | Human | City Watch                    | None    |
 | [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]] | Male   | Human | City Watch                    | None    |
+| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] | Female | Human | City Watch                    | None    |
 
 { .block-language-dataview}

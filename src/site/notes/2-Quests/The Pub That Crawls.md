@@ -16,7 +16,7 @@
 | Acquired Loot:    | Decanter of Endless Spirits, Pyroconverger, Everbright Lantern, Phil's Top Hat |
 
 # Backstory
-Among Neverwood Academy’s many student legends, none are as persistent as the tale of The Pub That Crawls — a mythical tavern said to walk on wooden legs through the Neverwood Marshes, appearing only to those who have proven themselves “worthy drinkers of five worlds.” Centuries ago, a group of eccentric students discovered the secret of the moving pub and, after falling out over how to use it, each founded their own establishment somewhere between Neverwinter and the Academy grounds. These five pubs — the Tall Tale, the Frothing Flask, the Lucid Dreamer, the Rambling Toad, and the Beauty’s Mirror — became local icons, their founders sealing within them fragments of the magic needed to summon the sixth and final tavern.
+Among Neverwood Academy’s many student legends, none are as persistent as the tale of The Pub That Crawls — a mythical tavern said to walk on wooden legs through the Neverwood Marshes, appearing only to those who have proven themselves “worthy drinkers of five worlds.” Centuries ago, a group of eccentric students discovered the secret of the moving pub and, after falling out over how to use it, each founded their own establishment somewhere between [[2-World/Hubs/Neverwinter\|Neverwinter]] and the Academy grounds. These five pubs — the Tall Tale, the Frothing Flask, the Lucid Dreamer, the Rambling Toad, and the Beauty’s Mirror — became local icons, their founders sealing within them fragments of the magic needed to summon the sixth and final tavern.
 
 Now, rumours have resurfaced after a strange notebook fell from the shelves of the Biblioplex, its pages bearing the mark of one Eb Zenithon, one of the original founders. The book speaks of a potion brewed from five signature drinks that, when consumed in a single night, opens the way to The Pub That Crawls. Whether the promise is treasure, knowledge, or simply glory, no student has ever completed the challenge — and the opportunity may come but once in a lifetime. For the party, uncovering the truth of the Crawling Pub isn’t just a test of endurance; it’s a chance to solve one of Neverwood’s oldest mysteries and perhaps claim the secrets of a pub that walks between worlds.
 
@@ -41,10 +41,10 @@ Now, rumours have resurfaced after a strange notebook fell from the shelves of t
 | File                                                                                   | Location                                                                                                                                | Type       |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] | <ul><li>[[2-World/Places/Protector's Enclave.md\\|Protector's Enclave]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul> | Tavern     |
-| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]]   | <ul><li>[[2-World/Places/River District.md\\|River District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>           | Tavern     |
-| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]]     | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]] | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                            | Tavern     |
+| [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]]     | <ul><li>[[2-World/Places/The Chasm.md\\|The Chasm]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>                     | Tavern     |
 | [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]             | <ul><li>[[2-World/Places/Blacklake District.md\\|Blacklake District]]</li><li>[[2-World/Hubs/Neverwinter.md\\|Neverwinter]]</li></ul>   | Tavern     |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                           | [[2-World/Regions/The North\|The North]]                                                                                             | City +1500 |
 
@@ -55,29 +55,29 @@ The following people are associated with this quest.
 | Character                                                                                 | Race            | Gender | Role                       |
 | ----------------------------------------------------------------------------------------- | --------------- | ------ | -------------------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]        | Changling       | Female | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                            | Owlin           | Male   | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]                    | Sylph           | Female | Tavern Manager             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Boyan\|Boyan]]                        | Human           | Male   | Tavern Manager             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]]      | Elf             | Female | Tavern Founder             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]]      | Kor             | Male   | Tavern Ghost               |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]]      | Orc             | Male   | Tavern Ghost               |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]      | Human           | Male   | Tavern Founder             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]            | Elf             | Male   | Tavern Founder             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                          | Burrog          | Male   | Other                      |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]]      | Human           | Male   | Tavern Founder             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]                    | Vampire         | Male   | Tavern Manager             |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                          | Burrog          | Male   | Other                      |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]                | Loxodon         | Male   | Tavern Manager             |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]]      | Half-Orc        | Male   | Tavern Founder             |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]                          | Automaton       | Other  | Tavern Manager             |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]]         | Human           | Male   | Professor of Chaos         |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Senestrine Darou\|Senestrine Darou]] | Tiefling        | Female | Professor of Theory        |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] | Human           | Male   | Former Deputy Head Teacher |
-| [[1-Party/Her/Her\|Her]]                                                               | Tiefling        | Female | Player                     |
+| [[1-Party/H'er/H'er\|H'er]]                                                            | Tiefling        | Female | Player                     |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                              | Variant Aasimar | Female | Player                     |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                     | Minotaur        | Male   | Player                     |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                           | Aarakocra       | Female | Player                     |
-| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                              | Dragonborn      | Male   | Player                     |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                    | Dragonborn      | Female | Player                     |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                        | Dragonborn      | Male   | Player                     |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                           | Aarakocra       | Female | Player                     |
+| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                              | Dragonborn      | Male   | Player                     |
 
 { .block-language-dataview}
 

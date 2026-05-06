@@ -16,7 +16,7 @@
 > **Category:** | Shop |
 
 # Description
-Located along one of the immaculate, flower-box-lined streets of the [[2-World/Places/Protector's Enclave\|Protector's Enclave]] in Neverwinter, The Silver Shuttle caters to those who wish to look intentional.
+Located along one of the immaculate, flower-box-lined streets of the [[2-World/Places/Protector's Enclave\|Protector's Enclave]] in [[2-World/Hubs/Neverwinter\|Neverwinter]], The Silver Shuttle caters to those who wish to look intentional.
 The frontage is pristine: polished glass, understated silver lettering, and seasonal window displays featuring elegantly dressed mannequins posed mid-conversation. Inside, the atmosphere is calm, controlled, and faintly perfumed with pressed linen and cedarwood.
 This is not an armourer.
 It is not a costume shop.

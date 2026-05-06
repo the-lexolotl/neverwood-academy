@@ -15,7 +15,7 @@
 > **Overview:** | A heavily damaged and partially reclaimed district, long associated with catastrophe and ongoing rebuilding efforts |
 
 # Description
-The River District lies along the banks of the Neverwinter River and bears the clearest scars of the city’s near-destruction. Once a thriving residential and commercial quarter, the district was heavily damaged during the eruption of Mount Hotenow and the chaos that followed.
+The River District lies along the banks of the [[2-World/Hubs/Neverwinter\|Neverwinter]] River and bears the clearest scars of the city’s near-destruction. Once a thriving residential and commercial quarter, the district was heavily damaged during the eruption of Mount Hotenow and the chaos that followed.
 Although reconstruction efforts continue, the River District remains a patchwork of restored buildings, abandoned shells, scaffolding, and opportunistic redevelopment. It is a place where ambition meets ruin — and not always cleanly.
 Where [[2-World/Places/Protector's Enclave\|Protector's Enclave]] displays order and [[2-World/Places/Blacklake District\|Blacklake]] guards privilege, the River District reveals the cost of survival.
 
@@ -36,7 +36,7 @@ Restless and transitional. There is opportunity here — but also instability. L
 - Occasional rot from unrecovered ruins  
 
 ## The Neverwinter River
-The river itself remains a lifeline to the district. Barges and smaller vessels move goods inland, and river docks serve as secondary trade points outside the Dock Ward’s heavier oversight.
+The river itself remains a lifeline to the district. Barges and smaller vessels move goods inland, and river docks serve as secondary trade points outside the [[2-World/Places/Dock Ward\|Dock Ward]]’s heavier oversight.
 At night, portions of the riverbank grow quiet — too quiet — and stories circulate of shapes moving beneath the water.
 
 ## Notable Locations
@@ -62,7 +62,7 @@ At night, portions of the riverbank grow quiet — too quiet — and stories cir
 - Quiet observers monitoring redevelopment contracts  
 
 ## Rumours
-- “Some of the old cellars connect all the way to the Chasm.”  
+- “Some of the old cellars connect all the way to [[2-World/Places/The Chasm\|the Chasm]].”  
 - “The river glows faintly on certain nights.”  
 - “There are still people living in the ruins who refuse to leave.”  
 - “The eruption didn’t destroy everything — some things survived.”  

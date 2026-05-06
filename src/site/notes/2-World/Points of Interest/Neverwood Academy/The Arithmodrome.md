@@ -13,7 +13,7 @@
 > **Category:** | Academy Building |
 
 # Description
-Hidden within a perfectly stable cubic enclosure of enchanted water on the Quandrix campus lies the Arithmodrome, a vast theoretical space that defies conventional physical law. From the outside, it appears as a simple, suspended cube of water roughly ten feet in each dimension, held in place by precise geometric enchantments. In reality, it contains an internal expanse of effectively infinite mathematical abstraction.
+Hidden within a perfectly stable cubic enclosure of enchanted water on the [[2-World/Places/Quandrix Campus\|Quandrix campus]] lies the Arithmodrome, a vast theoretical space that defies conventional physical law. From the outside, it appears as a simple, suspended cube of water roughly ten feet in each dimension, held in place by precise geometric enchantments. In reality, it contains an internal expanse of effectively infinite mathematical abstraction.
 Inside the Arithmodrome, spatial rules collapse into structured probability fields. Distances may expand or contract based on conceptual rather than physical logic, and objects often exist in multiple states of mathematical possibility simultaneously. Quandrix scholars use the space to explore high-level theory, test equations in controlled reality simulations, and visualise otherwise impossible geometric constructs.
 Access is tightly regulated, as prolonged exposure can cause perceptual drift, where students begin to interpret reality itself through abstract numerical frameworks. Despite its risks, the Arithmodrome remains one of the most important research tools on campus, representing the purest intersection of mathematics and magic.
 

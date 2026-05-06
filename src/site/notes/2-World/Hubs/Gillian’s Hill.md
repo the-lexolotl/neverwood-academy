@@ -33,10 +33,10 @@ A half-day’s ride south of [[2-World/Hubs/Daggerford\|Daggerford]], Gillian’
 Beneath the mound lies a vast **ancient tomb**, sealed by enchantments that punish trespassers with violent storms of lightning until disturbed soil is replaced. Even the strongest spellcasters of the region have failed to unravel its wards.
 
 ## Economy & Trade
-Gillian’s Hill functions as a local **agricultural hub**, where surrounding farmers meet to trade and distribute goods north toward [[2-World/Hubs/Daggerford\|Daggerford]] and Waterdeep.
+Gillian’s Hill functions as a local **agricultural hub**, where surrounding farmers meet to trade and distribute goods north toward [[2-World/Hubs/Daggerford\|Daggerford]] and [[2-World/Hubs/Waterdeep\|Waterdeep]].
 
 Common exports include:
-* **Churlgo Cheese** (a Daggerford delicacy)
+* **Churlgo Cheese** (a [[2-World/Hubs/Daggerford\|Daggerford]] delicacy)
 * **Corn, grains, flour, fruits, and cider**
 * **Fresh milk and beef**
 
@@ -44,14 +44,14 @@ Distributors such as **Sejellus Krimp** ensure the hamlet’s wares reach larger
 
 ## Defences
 Though small, Gillian’s Hill is not defenceless.
-* The **tomb beneath the hill** is magically trapped, deterring would-be grave robbers or invaders from the Underdark.
-* The **signal cairn** on the summit once served to alert Daggerford of danger, though it has since been repurposed (and occasionally occupied by bandits).
+* The **tomb beneath the hill** is magically trapped, deterring would-be grave robbers or invaders from [[2-World/Realms/The Underdark\|the Underdark]].
+* The **signal cairn** on the summit once served to alert [[2-World/Hubs/Daggerford\|Daggerford]] of danger, though it has since been repurposed (and occasionally occupied by bandits).
 * **Lizardfolk raiders** from nearby **Lizard Marsh** are a recurring nuisance, pilfering tools, livestock, and anything resembling a weapon.
 
 ## History
 * **c. 1346 DR** — A colony of **illithids** established a hidden lair in the tomb beneath the hill, preying on passing caravans. Adventurers eventually cleared them out.
 * **c. 1367 DR** — Harpers reported **phaerimm** activity within the same tomb.
-* **c. 1372 DR** — Gillian’s Hill suffered a **mysterious plague** marked by insomnia, fever, and delirium. Cleric **Liam Sunmist** of Daggerford believed it to be an outbreak of **vampirism**, linked to the local crypts and an alleged creature named **Gothma**.
+* **c. 1372 DR** — Gillian’s Hill suffered a **mysterious plague** marked by insomnia, fever, and delirium. Cleric **Liam Sunmist** of [[2-World/Hubs/Daggerford\|Daggerford]] believed it to be an outbreak of **vampirism**, linked to the local crypts and an alleged creature named **Gothma**.
 * **c. 1372 DR** — Bandits seized the fire cairn tower, extorting merchants along the Trade Way.
 * **Late 14th century DR** — Sculptor **Yujist Glemp** gifted the village a statue of himself, later vandalized. His unfinished second attempt — and his sudden disappearance — remain unsolved.
 
@@ -61,7 +61,7 @@ Though small, Gillian’s Hill is not defenceless.
 * **The Tomb Beneath the Hill:**
 	An ancient passage to the **Underdark**, spell-locked and perilous. Formerly held by illithids; now warded by lightning enchantments.
 * **Torleth’s Treasures:**
-	An antique shop operated by **Torleth Mindulspeer**, known for feuds with Daggerford merchants and keeping the defaced *Glemp in Granite* statue.
+	An antique shop operated by **Torleth Mindulspeer**, known for feuds with [[2-World/Hubs/Daggerford\|Daggerford]] merchants and keeping the defaced *Glemp in Granite* statue.
 * **Yentai’s Shop:**
 	A short-lived general store that trafficked in stolen goods and counterfeit produce.
 
@@ -69,7 +69,7 @@ Though small, Gillian’s Hill is not defenceless.
 
 | Name                    | Description                                           |
 | ----------------------- | ----------------------------------------------------- |
-| **Hadeshah**            | Priestess of Chauntea; later relocated to Daggerford. |
+| **Hadeshah**            | Priestess of Chauntea; later relocated to [[2-World/Hubs/Daggerford\|Daggerford]]. |
 | **Torleth Mindulspeer** | Antiques dealer and rival merchant.                   |
 | **Sejellus Krimp**      | Cheese distributor tied to Churlgo trade.             |
 | **Mabda**               | Eccentric hermit healer; claimed *Gothma* was real.   |
@@ -98,8 +98,8 @@ Though small, Gillian’s Hill is not defenceless.
 # NPCs
 | File                                                                      | Race  | Gender | Role    |
 | ------------------------------------------------------------------------- | ----- | ------ | ------- |
-| [[2-World/People/Other/Family/Adalynn Blackstone\|Adalynn Blackstone]] | Human | Female | Other   |
 | [[2-World/People/Other/Family/Reynard Blackstone\|Reynard Blackstone]] | Human | Male   | Retired |
+| [[2-World/People/Other/Family/Adalynn Blackstone\|Adalynn Blackstone]] | Human | Female | Other   |
 
 { .block-language-dataview}
 

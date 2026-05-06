@@ -16,7 +16,7 @@
 > **Skill 2:** | Persuasion |
 
 # Description
-The Mage Tower Cheer Squad is the beating heart of school spirit at Neverwood Academy. Combining athleticism, performance, and magical flair, the Squad supports intramural teams and major events with high-energy routines designed to inspire and entertain.
+The Mage Tower Cheer Squad is the beating heart of school spirit at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]. Combining athleticism, performance, and magical flair, the Squad supports intramural teams and major events with high-energy routines designed to inspire and entertain.
 Performances often feature synchronised movement, acrobatics, and carefully controlled spellwork, creating dazzling displays of light, sound, and motion. The Squad plays a central role in fostering unity and enthusiasm across the Academy, particularly during competitive events.
 Though outwardly celebratory, membership requires dedication, precision, and a strong sense of teamwork.
 

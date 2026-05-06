@@ -25,7 +25,7 @@
 Reynard Blackstone is a man defined by precision, restraint, and the quiet weight of unresolved loss. Once a respected academic of [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]’s [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]], he now lives in self-imposed retirement in the remote settlement of [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]], where his work continues—albeit far from prying eyes.
 
 ### Early Life & Education
-Born in the city of [[Waterdeep\|Waterdeep]], Reynard displayed an early aptitude for structured thinking and cautious decision-making—traits that drew the attention of a wizard who took him on as an apprentice. Under this mentor, Reynard developed a disciplined approach to magic, favouring predictability, logic, and control over reckless experimentation.
+Born in the city of [[2-World/Hubs/Waterdeep\|Waterdeep]], Reynard displayed an early aptitude for structured thinking and cautious decision-making—traits that drew the attention of a wizard who took him on as an apprentice. Under this mentor, Reynard developed a disciplined approach to magic, favouring predictability, logic, and control over reckless experimentation.
 This philosophy led him naturally to [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]] at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], where the mathematical and theoretical approach to magic closely aligned with his training. Reynard excelled, eventually joining the academy as a member of staff and dedicating himself to magical research and education.
 
 ### Academic Career
@@ -47,7 +47,7 @@ Though not an expressive man, Reynard proved a capable—if distant—guardian a
 ### Personality & Conflict
 Reynard is defined by three traits:
 **Secrecy. Stubbornness. Paranoia.**
-These qualities, once strengths in his academic life, now shape his relationships—particularly with Harry. Reynard firmly believes that withholding information about Harry’s mother is an act of protection. In his mind, knowledge is a path—and some paths must remain hidden.
+These qualities, once strengths in his academic life, now shape his relationships—particularly with [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]]. Reynard firmly believes that withholding information about Harry’s mother is an act of protection. In his mind, knowledge is a path—and some paths must remain hidden.
 Harry, however, sees only silence.
 This unresolved tension forms the central fracture in their relationship:
 * Reynard believes he is preventing history from repeating itself

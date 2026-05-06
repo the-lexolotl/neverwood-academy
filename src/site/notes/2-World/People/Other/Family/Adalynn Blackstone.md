@@ -29,9 +29,9 @@ Under Reynard’s guidance, Ada received a broad magical education spanning all 
 Though talented in both, Ada made a deliberate choice to focus primarily on Illusion. She understands the ethical dangers of enchantment - and while she is not above bending the rules, she prefers not to break minds to do so.
 That said, Reynard’s influence is still evident in her spellwork, particularly in her surprising proficiency with **evocation magic**, especially lightning-based spells.
 
-### The Tomb & The Underdark
+### The Tomb & [[2-World/Realms/The Underdark\|The Underdark]]
 [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] sits atop something ancient - and Ada was never going to ignore that.
-Her curiosity led her into the tomb beneath her home at a young age, where she discovered winding passages that connect to the [[Underdark\|Underdark]]. What began as exploration quickly became habit.
+Her curiosity led her into the tomb beneath her home at a young age, where she discovered winding passages that connect to the [[2-World/Realms/The Underdark\|The Underdark]]. What began as exploration quickly became habit.
 Now, Ada frequently:
 * Joins passing adventuring parties
 * Guides groups into the tomb and beyond
@@ -48,8 +48,8 @@ One notable trait: Ada has **no interest in her birth parents**. Unlike [[1-Part
 ### Relationship with Harry
 Ada’s most important relationship is with her brother, [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]].
 They are, in many ways, opposites - and that is precisely why they work.
-* Ada draws Harry out of isolation, grounding him socially
-* Harry anchors Ada’s impulses with a strong moral compass
+* Ada draws [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] out of isolation, grounding him socially
+* [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] anchors Ada’s impulses with a strong moral compass
 Together, they balance each other. Apart, they risk becoming exaggerated versions of their worst traits.
 That said, they share two dangerous qualities:
 * **Obsessive curiosity**

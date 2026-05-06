@@ -13,7 +13,7 @@
 > **Category:** | Shop |
 
 # Description
-Tucked neatly between a respectable cobbler and a discreet tea room in the [[2-World/Places/Protector's Enclave\|Protector's Enclave]] of Neverwinter, The Amber Lens is easy to miss — unless its window display has decided otherwise.
+Tucked neatly between a respectable cobbler and a discreet tea room in the [[2-World/Places/Protector's Enclave\|Protector's Enclave]] of [[2-World/Hubs/Neverwinter\|Neverwinter]], The Amber Lens is easy to miss — unless its window display has decided otherwise.
 The display changes every few days. Sometimes it features faintly glowing stones arranged in geometric patterns. Sometimes a single ornate monocle on velvet. Occasionally an object that hums softly if one lingers too long.
 Inside, the shop is small but densely arranged. Glass cases hold charms and minor enchanted items. Shelves carry labelled curiosities in a wide variety of handwriting styles. Nothing appears overtly cursed. Nothing is actively dangerous.
 Probably.

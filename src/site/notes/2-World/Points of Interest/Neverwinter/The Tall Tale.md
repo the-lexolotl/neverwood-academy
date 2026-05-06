@@ -15,7 +15,7 @@
 > **Category:** | Tavern |
 
 # Description
-This sturdy pub looks like it was plucked out of a picturesque hamlet. Its weathered stones and timbers appear to have weathered the ages. Of course, this pub looked historic when it was brand new. It was designed to emulate the quintessential adventurer’s tavern from Neverwinter’s past. From the upstairs lodgings to the bulletin board of timely quests, the Tall Tale has everything a would-be adventurer needs to get started. One need not even travel far for adventure, as the pub’s cellar connects to an ancient catacomb full of angry spirits eager for battle.
+This sturdy pub looks like it was plucked out of a picturesque hamlet. Its weathered stones and timbers appear to have weathered the ages. Of course, this pub looked historic when it was brand new. It was designed to emulate the quintessential adventurer’s tavern from [[2-World/Hubs/Neverwinter\|Neverwinter]]’s past. From the upstairs lodgings to the bulletin board of timely quests, the Tall Tale has everything a would-be adventurer needs to get started. One need not even travel far for adventure, as the pub’s cellar connects to an ancient catacomb full of angry spirits eager for battle.
 
 # Travel
 *Based on 8 hrs walking per day with Exhaustion Level 0*
@@ -37,8 +37,8 @@ This sturdy pub looks like it was plucked out of a picturesque hamlet. Its weath
 | ------------------------------------------------------------------------------------ | -------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor      | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc      | Male   | Tavern Ghost   |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]           | Loxodon  | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc | Male   | Tavern Founder |
 
 { .block-language-dataview}
 

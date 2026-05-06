@@ -60,7 +60,7 @@ A lingering heat, a curious fog, and a vault older than the academy itself set t
 
 ### The Infinite Staircase
 * At one point in the corridor, the students approach a door marked “staircase.” Opening it, they are blinded by a bright white light and step into the Infinite Staircase — a twisting, extradimensional highway that defies physics and sense.
-* Steps spiral upward and downward in impossible orientations, gravity shifts unpredictably, and doors line each landing, each portal leading to a different plane, from the material world to the Feywild and beyond.
+* Steps spiral upward and downward in impossible orientations, gravity shifts unpredictably, and doors line each landing, each portal leading to a different plane, from the material world to the [[2-World/Realms/Feywild\|Feywild]] and beyond.
 * The Infinite Staircase’s hum resonates through the mind, a faint chord of cosmic motion felt between thoughts, emphasizing the scale and danger of the vault’s deeper chambers.
 * Despite the temptation to explore, Harry and Marionette return to their mission: containing the mephit and investigating the black goo.
 

@@ -146,7 +146,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 > Wand of Pyrotechnics
 > Book of Arcane Theory
 > School Uniform
-> A book on Aganazzar of Neverwinter (Evocation specialist)
+> A book on Aganazzar of [[2-World/Hubs/Neverwinter\|Neverwinter]] (Evocation specialist)
 > A notebook with handwritten notes on animating objects
 > "Goops, Goos and Gunk" – a book on magical slimes and oozes
 > Burning hands spell scroll (1st level)

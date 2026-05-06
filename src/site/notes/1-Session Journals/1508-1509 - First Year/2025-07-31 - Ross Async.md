@@ -57,7 +57,7 @@ Harry retrieved:
 * "Goops, Goos and Gunk" – a book on magical slimes and oozes  
 * A notebook with handwritten notes on animating objects  
 * A history of Dragonborn tribes in Tymanther  
-* And, despite being over-encumbered, grabbed a book on Aganazzar of Neverwinter (Evocation specialist)
+* And, despite being over-encumbered, grabbed a book on Aganazzar of [[2-World/Hubs/Neverwinter\|Neverwinter]] (Evocation specialist)
 
 No windows were available, and the magically reinforced walls were blast-proof — there was no easy exit.
 

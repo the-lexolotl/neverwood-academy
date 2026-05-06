@@ -20,18 +20,18 @@
 # Backstory
 As part of their summer work experience with [[2-World/Groups/Wintershield Watchmen\|The Wintershield Watchmen]], the students of [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] are assigned to street patrol in [[2-World/Hubs/Neverwinter\|Neverwinter]] - a chance to put their academic training to real-world use. What begins as a routine posting takes a dark turn when a man is found dead in an alley, a withered eyeball rolling from his lifeless hand. The dead man is [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]], an undercover investigator who had been probing cult activity in the city. His sister [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori]], herself a Watchman operative, begs the students to take up where Delvin left off.
 
-The eyeball is more than it appears - it is both a compass and a key, pointing the way to a hidden catacomb entrance in Neverwinter's ruined [[2-World/Places/River District\|River District]]. Within, a sect of worshippers have made their lair, conducting profane experiments to siphon secrets from mortal souls. Their leader, a fanatic named [[2-World/People/Neverwinter/Zalryr\|Zalryr]], answers to [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]] himself. As the students descend deeper, they will find that this is no ordinary work placement - and he is already taking notice.
+The eyeball is more than it appears - it is both a compass and a key, pointing the way to a hidden catacomb entrance in [[2-World/Hubs/Neverwinter\|Neverwinter]]'s ruined [[2-World/Places/River District\|River District]]. Within, a sect of worshippers have made their lair, conducting profane experiments to siphon secrets from mortal souls. Their leader, a fanatic named [[2-World/People/Neverwinter/Zalryr\|Zalryr]], answers to [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]] himself. As the students descend deeper, they will find that this is no ordinary work placement - and he is already taking notice.
 
 # Objectives
 ### First Day on the Job
-- [x] ~~Begin your patrol assignment with the [[2-World/Groups/Wintershield Watchmen\|Wintershield Watchmen]] in Neverwinter~~
+- [x] ~~Begin your patrol assignment with the [[2-World/Groups/Wintershield Watchmen\|Wintershield Watchmen]] in [[2-World/Hubs/Neverwinter\|Neverwinter]]~~
 - [x] ~~Respond to a scream in a nearby alley and discover [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart's]] body~~
 - [x] ~~Speak with [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] and learn of the undercover cult investigation~~
 - [x] ~~Examine the desiccated eyeball found in the dead man's hand~~
 - [x] ~~Activate the eyeball compass by speaking the phrase "Hail the Undying"~~
 - [x] ~~Follow the eyeball's directions to the catacomb entrance in the western ruins~~
 ### Into the Catacombs
-- [x] ~~Descend into the western catacombs beneath Neverwinter~~
+- [x] ~~Descend into the western catacombs beneath [[2-World/Hubs/Neverwinter\|Neverwinter]]~~
 - [x] ~~Navigate the flooded chamber - build a makeshift skiff or wade through~~
 - [x] ~~Survive or bypass the creature lurking in the flooded tunnel~~
 - [x] ~~Discover the ghost haunting the Cinerary Rotunda~~
@@ -78,12 +78,12 @@ The following people are associated with this quest.
 | ------------------------------------------------------------------------------ | --------------- | ------ | ----------------------------- |
 | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]]         | Human           | Male   | Lord Protector of Neverwinter |
 | [[2-World/People/Neverwinter/Chanelle Hallwinter\|Chanelle Hallwinter]]     | Human           | Female | Ghost                         |
-| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]]         | Human           | Female | City Watch                    |
 | [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]]         | Human           | Male   | City Watch                    |
-| [[2-World/People/Neverwinter/Zalryr\|Zalryr]]                               | Half-Elf        | Male   | Cult Leader                   |
+| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]]         | Human           | Female | City Watch                    |
 | [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]         | Deity           | Male   | Mage                          |
-| [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]] | Halfling        | Male   | Player                        |
+| [[2-World/People/Neverwinter/Zalryr\|Zalryr]]                               | Half-Elf        | Male   | Cult Leader                   |
 | [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                            | Kobold          | Female | Player                        |
+| [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]] | Halfling        | Male   | Player                        |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]             | Human           | Male   | Player                        |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                   | Variant Aasimar | Female | Player                        |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]          | Minotaur        | Male   | Player                        |

@@ -34,9 +34,9 @@
 
 A new student arrives at Neverwood Academy — Vith, heir to a powerful lineage and certain that the world already knows his name. His first day, however, proves that the academy has a way of humbling even the most confident of arrivals. From charming bartenders to explosive quills, Vith’s introduction to life at Neverwood is nothing short of spectacular.
 
-### Arrival at Neverwinter Station
+### Arrival at [[2-World/Hubs/Neverwinter\|Neverwinter]] Station
 
-* The story begins at Neverwinter Train Station, bustling with travellers and students alike.  
+* The story begins at [[2-World/Hubs/Neverwinter\|Neverwinter]] Train Station, bustling with travellers and students alike.  
 * Among the crowd stands a Campus Automaton (Model M7) in a trench coat and fedora, holding a sign: *“Vith – Neverwood Academy.”*  
 * Vith makes a flamboyant entrance, loudly announcing himself before being quietly escorted out by the automaton.  
 * Their journey takes them out of the city and into the deep woods, where a magical barrier shimmers between two oak trees.  

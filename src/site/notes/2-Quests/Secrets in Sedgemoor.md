@@ -69,13 +69,13 @@ What the students find there may not only cleanse the waters... but reveal the f
 The following people are associated with this quest.
 | Character                                                                              | Race            | Gender | Role                |
 | -------------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad           | Female | Professor of Growth |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human           | Male   | Professor of Shadow |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                     | Human           | Male   | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                           | Variant Aasimar | Female | Player              |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                  | Minotaur        | Male   | Player              |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                        | Aarakocra       | Female | Player              |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                 | Dragonborn      | Female | Player              |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                        | Aarakocra       | Female | Player              |
 
 { .block-language-dataview}
 

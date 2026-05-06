@@ -13,7 +13,7 @@
 > **Category:** | Landmark |
 
 # Description
-The Lorehold campus centres around Pillardrop, a vast chasm filled with layered architecture, ancient ruins, and newly constructed academic spaces. Built into the cliff faces and descending terraces, the district blends excavation site, living museum, and functioning university quarter into a single sprawling environment.
+The [[2-World/Places/Lorehold Campus\|Lorehold campus]] centres around Pillardrop, a vast chasm filled with layered architecture, ancient ruins, and newly constructed academic spaces. Built into the cliff faces and descending terraces, the district blends excavation site, living museum, and functioning university quarter into a single sprawling environment.
 Bridges of stone, rope, and enchanted material connect the various levels, often passing directly through colossal statues or partially unearthed relics. These monuments depict historical figures from across magical history, and many are still being actively studied by Lorehold scholars. The environment is constantly shifting as new discoveries are made and older structures are reinforced or repurposed.
 Pillardrop is as dangerous as it is inspiring. Collapses, unstable pathways, and unpredictable magical echoes are common, and every student carries at least one story of a near miss. Yet it is also a place of extraordinary intervention, where animated statues or lingering spirits are known to appear in moments of crisis, sometimes saving students from disaster at the last possible instant.
 

@@ -19,7 +19,7 @@
 
 # Biography
 ### Early Life (Born ca. 1450 DR)
-[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] was born aboard his father’s vessel, the _Whalebuck’s Folly II_, during a routine coastal run along the Sword Coast. The son of [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]], Tolan’s childhood was spent between docks, decks, and tide charts rather than classrooms or counting houses.
+[[2-World/People/Other/Whalebucks/Tolan Whalewake\|Tolan Whalewake]] was born aboard his father’s vessel, the _Whalebuck’s Folly II_, during a routine coastal run along the [[2-World/Regions/Sword Coast\|Sword Coast]]. The son of [[2-World/People/Other/Whalebucks/Deryn Whalewake\|Deryn Whalewake]], Tolan’s childhood was spent between docks, decks, and tide charts rather than classrooms or counting houses.
 Deryn, having remained at sea after the famous Whalewake family split, raised his son among sailors, traders, and the occasional adventurer looking for passage. From an early age, Tolan learned to read maps, judge weather, spot dishonest merchants, and recognise when a “perfectly safe route” was anything but.
 He received little formal education, but absorbed practical knowledge quickly — ports that overcharged, inns that watered down ale, towns where outsiders vanished, and which local customs were actually enforced versus merely threatened.
 
@@ -32,26 +32,26 @@ These journals were blunt, practical, and often dryly sarcastic. Fellow travelle
 Recognising a demand for honesty, Tolan compiled his notes into a small, cheaply bound booklet:  
 **_The Mini Folly Guide to Neverwinter_**.
 Sold directly to sailors, merchants, and adventurers, the guide avoided flowery language in favour of clear warnings, pricing estimates, and cultural realities. It sold far better than expected.
-Encouraged by its success, Tolan formally founded **Folly Guides**, naming the company after the ship that had raised him. Unlike his uncle’s rapidly expanding coffee empire, Folly Guides was never intended to be glamorous — only useful.
+Encouraged by its success, Tolan formally founded **[[2-World/Businesses/Folly Guides\|Folly Guides]]**, naming the company after the ship that had raised him. Unlike his uncle’s rapidly expanding coffee empire, [[2-World/Businesses/Folly Guides\|Folly Guides]] was never intended to be glamorous — only useful.
 
 ### Editorial Philosophy & Reputation (1480–Present)
 Tolan’s approach to publishing is uncompromising:
 - No paid praise
 - No softened language for powerful patrons
 - No removal of warnings at a city’s request
-He insists on firsthand sources, repeat verification, and clear attribution. Contributors range from sailors and couriers to adventurers and disgruntled locals. While Folly Guides pays modestly, contributors are credited openly — a rarity that has earned Tolan loyalty and a steady flow of information.
-This honesty has not gone unnoticed. Several cities have banned Folly Guides outright. Others quietly keep copies behind counters “for staff use only.”
+He insists on firsthand sources, repeat verification, and clear attribution. Contributors range from sailors and couriers to adventurers and disgruntled locals. While [[2-World/Businesses/Folly Guides\|Folly Guides]] pays modestly, contributors are credited openly — a rarity that has earned Tolan loyalty and a steady flow of information.
+This honesty has not gone unnoticed. Several cities have banned [[2-World/Businesses/Folly Guides\|Folly Guides]] outright. Others quietly keep copies behind counters “for staff use only.”
 
 ### Relationship to the Whalewake Legacy
 Though proud of his family name, Tolan maintains a polite distance from **Whalebucks Coffee Co.** He acknowledges the company’s success — and its usefulness — but openly criticises what he sees as corporate gloss and marketing over truth.
-Despite this, Whalebucks cafés often stock Folly Guides discreetly, particularly near universities and adventuring hubs. Tolan has never publicly commented on this arrangement.
+Despite this, Whalebucks cafés often stock [[2-World/Businesses/Folly Guides\|Folly Guides]] discreetly, particularly near universities and adventuring hubs. Tolan has never publicly commented on this arrangement.
 
 ### Personality & Appearance
 Tolan is practical, observant, and quietly opinionated. He speaks plainly, dresses for utility rather than status, and distrusts anyone who oversells themselves or a destination.
 He is not unkind, but rarely indulgent. Compliments from Tolan are sparse — which makes them valuable.
 
 ### Current Status
-As of the early 16th century DR, Tolan Whalewake is alive and actively involved in Folly Guides, overseeing editorial decisions and occasionally travelling to verify disputed claims himself.
+As of the early 16th century DR, Tolan Whalewake is alive and actively involved in [[2-World/Businesses/Folly Guides\|Folly Guides]], overseeing editorial decisions and occasionally travelling to verify disputed claims himself.
 Among travellers, his name has become synonymous with preparation — and with the uncomfortable realisation that some journeys may not be worth taking after all.
 
 # Connections

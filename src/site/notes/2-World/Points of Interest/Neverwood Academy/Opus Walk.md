@@ -13,7 +13,7 @@
 > **Category:** | Park |
 
 # Description
-Winding through the central Prismari campus is Opus Walk, a living gallery of magical artistry and experimental expression. The path is lined with sculptures, illusions, and enchanted installations created by generations of student artists, each piece reflecting a moment of creative breakthrough or personal discovery.
+Winding through the central [[2-World/Places/Prismari Campus\|Prismari campus]] is Opus Walk, a living gallery of magical artistry and experimental expression. The path is lined with sculptures, illusions, and enchanted installations created by generations of student artists, each piece reflecting a moment of creative breakthrough or personal discovery.
 Some artworks along Opus Walk are permanent fixtures, maintained and preserved through ongoing enchantment. Others are transient, existing only briefly before dissolving into light, sound, or elemental residue. The Walk is never the same twice, and students often return daily to see what has changed.
 Beyond being a display space, Opus Walk functions as a form of open-air education. Students are encouraged to study, critique, and interact with the works, making it both a gallery and a continuously evolving dialogue of artistic expression.
 

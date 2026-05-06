@@ -10,7 +10,7 @@
 > ###### General Information
 > **Parent Star System:**  |  [[2-World/Star Systems/Greyspace\|Greyspace]] |
 > ---|---|
-> **Cosmic Classification:** | Prime Material world within Greyspace; the geocentric primary of its crystal sphere | 
+> **Cosmic Classification:** | Prime Material world within [[2-World/Star Systems/Greyspace\|Greyspace]]; the geocentric primary of its crystal sphere | 
 > **Major Continents / Regions:** | Flanaess (part of Oerik), Hepmonaland, Telchuria, and other distant or lesser-known landmasses |
 > **Inhabitants:** | Humans, elves, dwarves, halflings, orcs, goblinoids, and numerous other mortal races alongside dragons, fiends, and extraplanar beings |
 > **Global Characteristics:** | A magically active world with strong divine influence, diverse climates, and a long history of empires, wars, and arcane development |
@@ -23,7 +23,7 @@ Magic and divine influence are deeply embedded in Oerth’s fabric. Gods are act
 
 # Planet Details
 Oerth is approximately Earth-sized, with a comparable circumference and gravity. It rotates on its axis once every 24 hours, creating a standard day-night cycle, while the orbit of Liga defines the year at roughly 364 days.
-As the centre of a geocentric system, Oerth remains stationary relative to the other celestial bodies of Greyspace. Its two primary moons, Kule (Celene) and Raenei (Luna), orbit the planet and are visible in its night sky.
+As the centre of a geocentric system, Oerth remains stationary relative to the other celestial bodies of [[2-World/Star Systems/Greyspace\|Greyspace]]. Its two primary moons, Kule (Celene) and Raenei (Luna), orbit the planet and are visible in its night sky.
 The planet features a wide range of climates, from frozen northern wastes to tropical jungles and arid deserts. Seasonal variation is influenced by Liga’s orbit, producing relatively stable but regionally varied weather patterns.
 Oerth’s surface is divided between vast oceans and large continental landmasses, though much of the world remains unmapped or poorly understood by its inhabitants.
 

@@ -20,7 +20,7 @@
 
 # Biography
 ### Early Life (1474–1492 DR)
-Alex Fallowridge was born on the outskirts of Neverwinter to a family of teamsters and stable hands who worked the roads between the city and its surrounding settlements. From a young age, Alex learned the practical realities of transport: broken wheels, bad weather, unreliable animals, and the ever-present risk of bandits or monsters.
+Alex Fallowridge was born on the outskirts of [[2-World/Hubs/Neverwinter\|Neverwinter]] to a family of teamsters and stable hands who worked the roads between the city and its surrounding settlements. From a young age, Alex learned the practical realities of transport: broken wheels, bad weather, unreliable animals, and the ever-present risk of bandits or monsters.
 What set Alex apart was not strength or magic, but obsession. He was fascinated by **efficiency** — which routes were fastest, which loads caused strain, how weather changed travel times. As a teenager, he spent more time sketching maps and timing deliveries than he did actually riding the wagons.
 His first encounter with a trained griffin — used by a noble courier — was a turning point. Watching a message arrive in minutes rather than days left a permanent mark.
 
@@ -35,7 +35,7 @@ He never learned to ride _well_ at first — a fact he now cheerfully admits —
 By 1500 DR, Alex had a workable plan, a small network of contacts, and just enough capital to attempt something foolish.
 
 ### Founding GRIFFT (1501 DR)
-GRIFFT was born out of equal parts ambition and stubbornness. Alex pooled his savings, sold off nearly everything he owned, and secured three trained griffins on long-term contracts. The early months were rough:
+[[2-World/Businesses/Grifft\|GRIFFT]] was born out of equal parts ambition and stubbornness. Alex pooled his savings, sold off nearly everything he owned, and secured three trained griffins on long-term contracts. The early months were rough:
 - Weather delays
 - Skeptical clients
 - One memorable incident involving a griffin, a cabbage cart, and a city fountain
@@ -47,7 +47,7 @@ He is known for:
 - Personally vetting new riders and handlers
 - Treating griffins as partners, not property
 - Being quietly furious with magical teleportation guilds that dismiss his work as “quaint”
-Alex has no immediate plans to expand beyond Neverwinter and its surrounding areas, believing that “getting it right here” matters more than overreaching.
+Alex has no immediate plans to expand beyond [[2-World/Hubs/Neverwinter\|Neverwinter]] and its surrounding areas, believing that “getting it right here” matters more than overreaching.
 
 ## **Personality & Reputation**
 - **Practical, driven, and quietly idealistic**

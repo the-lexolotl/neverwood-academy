@@ -25,7 +25,7 @@ The company earned its name from the legendary **owlbear mascot** — a half-owl
 
 ## Expansion & Diversification (1350–1450 DR)
 
-By the mid-14th century, Owlbear Books had established itself in major trade cities across [[2-World/Continents/Faerûn\|Faerûn]], including Baldur’s Gate, Waterdeep, and Neverwinter. Its catalogue expanded to include:
+By the mid-14th century, Owlbear Books had established itself in major trade cities across [[2-World/Continents/Faerûn\|Faerûn]], including [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]], [[2-World/Hubs/Waterdeep\|Waterdeep]], and [[2-World/Hubs/Neverwinter\|Neverwinter]]. Its catalogue expanded to include:
 - Adventure manuals and field guides
 - Children’s storybooks and nursery tales
 - Illustrated comics
@@ -76,6 +76,6 @@ Owlbear Books produces a wide range of publications for multiple audiences and p
 - Interactive books with illusions, pop-up maps, or minor planar portals
 
 ## Partnerships
-- **Folly Guides**: Owlbear Books handles printing and distribution of Folly Guides volumes
+- **[[2-World/Businesses/Folly Guides\|Folly Guides]]**: Owlbear Books handles printing and distribution of [[2-World/Businesses/Folly Guides\|Folly Guides]] volumes
 - **Neverwood Academy & Other Institutions**: provides textbooks and academic compendiums
 

@@ -16,12 +16,12 @@
 > **Current Academic Year** | 4 |
 
 # Description
-Academic Cohorts are the primary social and academic units within Neverwood Academy, grouping students together by year and shared experience. Each cohort represents a distinct stage in a student’s journey, shaping not only their studies but also their place within the wider Academy.
+Academic Cohorts are the primary social and academic units within [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], grouping students together by year and shared experience. Each cohort represents a distinct stage in a student’s journey, shaping not only their studies but also their place within the wider Academy.
 More than simple class groupings, cohorts foster camaraderie, rivalry, and identity. Students within the same cohort attend key lectures together, face shared challenges, and are often judged collectively during major events such as exams, projects, and Academy-wide competitions. Over time, cohorts develop their own reputations - some known for brilliance, others for chaos, ambition, or infamy.
 Cohorts also serve as a support network, with students relying on one another to navigate the pressures of magical study and the unpredictable dangers that often accompany life at Neverwood.
 
 ## Membership
-Students are assigned to an Academic Cohort upon enrolment at Neverwood Academy. This assignment typically corresponds to their year of study, progressing annually as they advance through the Academy.
+Students are assigned to an Academic Cohort upon enrolment at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]. This assignment typically corresponds to their year of study, progressing annually as they advance through the Academy.
 Each cohort consists of a diverse mix of students from different magical disciplines and colleges, encouraging collaboration across specialisations. While students may align themselves strongly with their chosen college, their cohort remains their constant throughout the academic year.
 Membership is generally fixed, though exceptions may occur under unusual circumstances, such as:
 - Students repeating a year or resitting examinations

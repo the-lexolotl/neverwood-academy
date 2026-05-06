@@ -71,6 +71,7 @@ Each exam consists of 2 ability checks.
 To attempt cheating, the player must succeed on:
 - A Deception check
 - A Sleight of Hand check
+
 Failure consequences are at DM discretion (typically higher than normal failure outcomes).
 
 # Final Grades
@@ -78,7 +79,8 @@ At the end of the year, each subject gives you a final percentage grade, based o
 - Homework
 - Exams
 - Labs
-(Weighting varies by class.)
+
+*(Weighting varies by class.)*
 
 ## Grade Bands
 Your required passing grade depends on your year:
@@ -103,6 +105,6 @@ At the end of the academic year, rewards are based on your overall performance:
 - Higher grades may result in better or additional rewards (at your DM’s discretion)
 ##### Additional Rewards
 You may also earn rewards from:
-The [[z_Website/Group Cup Challenge\|Group Cup Challenge]]
-Special events, festivals, or competitions
-Story-based achievements during the year
+- The [[z_Website/Group Cup Challenge\|Group Cup Challenge]]
+- Special events, festivals, or competitions
+- Story-based achievements during the year

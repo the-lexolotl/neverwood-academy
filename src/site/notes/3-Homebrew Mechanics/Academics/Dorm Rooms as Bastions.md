@@ -99,6 +99,7 @@ On a Bastion Turn, you may:
 - Issue the Maintain Order to your entire Bastion
 - Allow your Bastion to operate autonomously
 - Maintain Order
+
 When you issue Maintain, your Bastion runs itself for the next tenday.
 - Hirelings handle upkeep and operations
 - No new orders are issued during this time
@@ -109,6 +110,7 @@ After a Bastion enters Maintain, the DM rolls once on the Bastion Events table.
 - One roll per Bastion per tenday
 - Additional rolls if multiple Bastions are maintained separately
 - Events occur even if the player is away
+
 Bastion Events represent:
 - Unexpected visitors
 - Internal dorm developments

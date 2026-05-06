@@ -13,7 +13,7 @@
 > **Category:** | Landmark |
 
 # Description
-On the outskirts of the Prismari campus lies Furygale, a volatile expanse of magical instability formed from centuries of discarded or failed artistic experimentation. What was once a controlled testing ground has evolved into an uncontrolled convergence of elemental energy, where wind, flame, ice, and raw arcane force collide without warning.
+On the outskirts of the [[2-World/Places/Prismari Campus\|Prismari campus]] lies Furygale, a volatile expanse of magical instability formed from centuries of discarded or failed artistic experimentation. What was once a controlled testing ground has evolved into an uncontrolled convergence of elemental energy, where wind, flame, ice, and raw arcane force collide without warning.
 Magical wards and warning barriers encircle the region, though these are as much symbolic as practical. Within Furygale, reality itself becomes unpredictable, with shifting terrain, spontaneous elemental manifestations, and rogue elemental entities appearing without pattern. Despite its danger, it remains officially tolerated due to its value as a source of raw inspiration.
 Students occasionally enter Furygale under supervision for controlled duelling or artistic experimentation. For many Prismari mages, it represents the ultimate creative challenge: to impose structure upon chaos, or to find beauty within uncontrolled destruction.
 

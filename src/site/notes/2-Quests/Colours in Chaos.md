@@ -16,7 +16,7 @@
 | Acquired Loot:    | None |
 
 # Backstory
-The [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] hosts its annual exhibition — a dazzling showcase where students infuse raw magic into living art. As the halls bloom with sound and colour, [[1-Party/Her/Her\|H'er's]] work stands among the most captivating pieces: a prismatic construct that responds to her emotions.
+The [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] hosts its annual exhibition — a dazzling showcase where students infuse raw magic into living art. As the halls bloom with sound and colour, [[1-Party/H'er/H'er\|H'er's]] work stands among the most captivating pieces: a prismatic construct that responds to her emotions.
 
 But when the exhibition descends into chaos and sabotage threatens to unravel the event, H’er must navigate the line between creation and destruction, emotion and control, and love and power.
 Her choices will define not only her art but her place in [[2-World/Groups/Colleges/Prismari College\|Prismari's]] legacy.
@@ -48,7 +48,7 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]     | Elf        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Air Genasi | Female | Student |
-| [[1-Party/Her/Her\|Her]]                                                                      | Tiefling   | Female | Player  |
+| [[1-Party/H'er/H'er\|H'er]]                                                                   | Tiefling   | Female | Player  |
 
 { .block-language-dataview}
 

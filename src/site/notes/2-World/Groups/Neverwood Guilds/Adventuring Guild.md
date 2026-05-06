@@ -58,7 +58,7 @@ Applications are reviewed at the beginning of the academic year. Selection prior
 - High Group Cup earning potential
 
 # Description
-The Adventuring Guild serves as Neverwood Academy’s primary outlet for practical field experience. Founded to bridge the gap between theoretical study and real-world application, the guild dispatches student parties to investigate threats, recover artefacts, and assist with matters deemed too dangerous - or too inconvenient - for standard faculty involvement.
+The Adventuring Guild serves as [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]’s primary outlet for practical field experience. Founded to bridge the gap between theoretical study and real-world application, the guild dispatches student parties to investigate threats, recover artefacts, and assist with matters deemed too dangerous - or too inconvenient - for standard faculty involvement.
 The guild has a long and storied history within the academy, with many notable adventurers beginning their careers within its ranks. While officially sanctioned, its operations are often loosely supervised, leading to a reputation for both heroism and chaos in equal measure.
 The culture within the guild is one of camaraderie forged under pressure. Success is celebrated loudly; failure is... survived, where possible.
 

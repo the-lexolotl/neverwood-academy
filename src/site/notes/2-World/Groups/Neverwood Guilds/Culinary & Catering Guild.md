@@ -58,7 +58,7 @@ Applications are reviewed at the beginning of the academic year. Limited spaces 
 - Potential crossover with external culinary establishments
 
 # Description
-The Culinary & Catering Guild oversees all food-related operations across Neverwood Academy. From daily dining services to elaborate banquet feasts, the guild combines culinary skill with arcane technique to create meals that nourish both body and spirit.
+The Culinary & Catering Guild oversees all food-related operations across [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]. From daily dining services to elaborate banquet feasts, the guild combines culinary skill with arcane technique to create meals that nourish both body and spirit.
 Originally formed to support academy events, the guild has since evolved into a respected institution in its own right. Its members experiment with magical ingredients, develop innovative recipes, and ensure that every gathering is accompanied by exceptional cuisine.
 The guild’s atmosphere is fast-paced and demanding, where precision, timing, and creativity are essential to success.
 

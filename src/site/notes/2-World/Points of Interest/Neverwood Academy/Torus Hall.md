@@ -13,7 +13,7 @@
 > **Category:** | Academy Building |
 
 # Description
-Torus Hall is the central academic structure of the Quandrix campus, positioned at the end of a carefully aligned series of geometric walkways that converge in ascending ramps leading into its monumental entrance. The building’s architecture is a constantly evolving mathematical construct, mapped onto a living three-dimensional grid that subtly reconfigures itself over time.
+Torus Hall is the central academic structure of the [[2-World/Places/Quandrix Campus\|Quandrix campus]], positioned at the end of a carefully aligned series of geometric walkways that converge in ascending ramps leading into its monumental entrance. The building’s architecture is a constantly evolving mathematical construct, mapped onto a living three-dimensional grid that subtly reconfigures itself over time.
 Inside, corridors curve in impossible loops, staircases connect in non-linear sequences, and rooms shift their relative positions depending on underlying arcane variables. Despite this instability, the structure remains functionally navigable—though only by those willing to adapt their understanding of spatial logic.
 Some faculty members caution against extended stays within Torus Hall, warning that prolonged exposure to its shifting geometry can alter a student’s perception of physical reality. There are persistent rumours of students who entered the hall during one configuration and emerged days later into a completely different architectural arrangement, still insisting nothing had changed.
 

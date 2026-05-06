@@ -22,7 +22,7 @@
 > College | None |
 
 # Biography
-Mira Solt has lived in Neverwinter her entire life. She knows its streets, its shifting neighbourhood politics, and which alleyways to avoid after dusk. Her manner is sharp, dry, and faintly harried — the natural condition of someone who has spent decades rescuing first editions from careless hands.
+Mira Solt has lived in [[2-World/Hubs/Neverwinter\|Neverwinter]] her entire life. She knows its streets, its shifting neighbourhood politics, and which alleyways to avoid after dusk. Her manner is sharp, dry, and faintly harried — the natural condition of someone who has spent decades rescuing first editions from careless hands.
 She is deeply protective of her stock and will not volunteer assistance.
 However, if asked a direct question, she becomes unexpectedly helpful and impressively knowledgeable.
 She remembers who bought what, when, and why.
@@ -33,7 +33,7 @@ She remembers who bought what, when, and why.
 - Suspicious of browsers
 - Secretly fond of serious students
 
-### On Neverwinter
+### On [[2-World/Hubs/Neverwinter\|Neverwinter]]
 If asked what is worth seeing in the city, Mira replies:
 “Depends what you're after. The [[2-World/Places/Protector's Enclave\|Protector's Enclave]] if you want to spend money. The [[2-World/Places/Blacklake District\|Blacklake]] if you want to feel smug about not spending money. The docks if you want to lose something.”
 She does not elaborate unless pressed.

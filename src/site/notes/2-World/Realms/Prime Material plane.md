@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Realms/Prime Material plane.md","permalink":"/world/realms/prime-material-plane/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png"}}
+{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Material Plane"],"dg-path":"World/Realms/Prime Material plane.md","permalink":"/world/realms/prime-material-plane/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","aliases":["Material Plane"]}}
 ---
 
 > [!infobox|left]+
@@ -8,13 +8,13 @@
 > ###### General Information
 > Stat  |  Value |
 > ---|---|
-> **Nature of the Plane** | The central plane of existence where mortal worlds (such as Toril) exist; balanced between opposing cosmic forces |
+> **Nature of the Plane** | The central plane of existence where mortal worlds (such as [[2-World/Planets/Toril\|Toril]]) exist; balanced between opposing cosmic forces |
 > **Inhabitants:** | Mortals of all kinds, including humanoids, beasts, and dragons; visited or influenced by extraplanar beings |
 > **Planar Traits:** | Generally stable reality with consistent physical laws; supports life, magic, and divine influence without extreme planar distortion |
 > **Connections & Influence:** | Linked to all other planes; serves as the primary stage for divine influence, soul generation, and planar interaction |
 
 # Description
-The **Prime Material Plane** (commonly referred to as the **Material Plane**) is the primary realm of mortal existence and the plane upon which Neverwood Academy and the wider world are situated. It is the most stable and comprehensible of the planes, governed by consistent physical laws and shaped by both natural forces and magic.
+The **Prime Material Plane** (commonly referred to as the **Material Plane**) is the primary realm of mortal existence and the plane upon which [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] and the wider world are situated. It is the most stable and comprehensible of the planes, governed by consistent physical laws and shaped by both natural forces and magic.
 
 Unlike the Outer Planes, which embody philosophical and moral ideals, or the Inner Planes, which consist of raw elemental substance, the Prime Material Plane represents a balanced state between these extremes. It is here that civilisations rise and fall, histories are written, and heroes are born.
 
@@ -54,7 +54,7 @@ Direct contact between the Prime Material Plane and the Outer Planes is rare and
 ### Transitive Planes
 Two planes serve as conduits between the Prime Material Plane and others:
 - **The Ethereal Plane**, which borders the Material and allows incorporeal or phased creatures to coexist alongside it  
-- **The Astral Plane**, which links worlds and divine realms across vast planar distances  
+- **The [[2-World/Realms/Astral Plane\|Astral Plane]]**, which links worlds and divine realms across vast planar distances  
 
 ## Magic on the Prime Material Plane
 Magic is a defining but uneven force across the Prime Material Plane.
@@ -95,7 +95,7 @@ The Prime Material Plane is not a single unified world, but a category of worlds
 - Others are largely isolated from the gods  
 - Certain realms suffer long-term magical devastation  
 - Others exist in relative stability  
-Neverwood Academy’s world is considered a high-magic environment with established planar theory and recorded extraplanar contact.
+[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]’s world is considered a high-magic environment with established planar theory and recorded extraplanar contact.
 
 ## Planar Travel
 Travel beyond the Prime Material Plane is rare and dangerous.

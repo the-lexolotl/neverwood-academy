@@ -35,6 +35,6 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Female | Human      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Male   | Elf        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]]                   | Female | Air Genasi | Student | Prismari    |
-| [[1-Party/Her/Her\|Her]]                                                                                        | Female | Tiefling   | Player  | Prismari    |
+| [[1-Party/H'er/H'er\|H'er]]                                                                                     | Female | Tiefling   | Player  | Prismari    |
 
 { .block-language-dataview}

@@ -13,7 +13,7 @@
 > **Category:** | Academy Building |
 
 # Description
-At the heart of the Prismari campus stands Conjurot Hall, a soaring structure of glass, arcane steel, and ever-shifting elemental currents. Spiralling strands of fire, water, air, and earth coil around its exterior, constantly reforming into new patterns that reflect the moods and works of its resident artists. The building itself feels alive, reacting subtly to the creative energy within.
+At the heart of the [[2-World/Places/Prismari Campus\|Prismari campus]] stands Conjurot Hall, a soaring structure of glass, arcane steel, and ever-shifting elemental currents. Spiralling strands of fire, water, air, and earth coil around its exterior, constantly reforming into new patterns that reflect the moods and works of its resident artists. The building itself feels alive, reacting subtly to the creative energy within.
 The upper observation levels are open to students and faculty, offering panoramic views across the campus and surrounding landscape. From these heights, many works of magical art are conceived, sketched, or first tested before being realised in full scale. The shifting elemental displays outside the windows often serve as inspiration, producing unpredictable but striking artistic results.
 Conjurot Hall functions as both a studio and a performance space, where experimentation is encouraged and failure is treated as part of the creative process. It is widely regarded as the symbolic centre of Prismari philosophy: that art is not static, but a living force shaped by emotion, chaos, and disciplined expression.
 

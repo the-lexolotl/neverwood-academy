@@ -13,7 +13,7 @@
 > **Category:** | Landmark |
 
 # Description
-Effigy Row stretches along one of the most historically significant approaches to the Lorehold campus, forming a grand procession of carved monuments, memorials, and arcane replicas of influential figures from magical history. Each effigy is carefully maintained by Lorehold scholars and student apprentices, many of whom specialise in restoration magic and historical reconstruction.
+Effigy Row stretches along one of the most historically significant approaches to the [[2-World/Places/Lorehold Campus\|Lorehold campus]], forming a grand procession of carved monuments, memorials, and arcane replicas of influential figures from magical history. Each effigy is carefully maintained by Lorehold scholars and student apprentices, many of whom specialise in restoration magic and historical reconstruction.
 The row is not merely decorative; it functions as an open-air archive. Many of the effigies are enchanted with residual memory magic, allowing them to echo fragments of speech, battle cries, or scholarly discourse from the individuals they represent. Passing students often find themselves overhearing whispered remnants of past lectures or long-forgotten debates carried on the wind.
 Over time, additional effigies have been added to commemorate more recent figures, including faculty members and notable graduates of Neverwood. As a result, Effigy Row is constantly evolving, blending ancient history with contemporary legacy. It is both a place of reverence and a reminder that history at Neverwood is always in motion.
 

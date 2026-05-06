@@ -20,7 +20,7 @@
 # Biography
 Captain Raymous Dapplewing was an accomplished owlin mage and decorated military veteran who held faculty appointments in both Lorehold and Silverquill Colleges. Seeking a quiet retreat from academic and martial life, he used his substantial military pension to construct a manor on campus, envisioning it as a place for peaceful evenings and refined intellectual exchange. The manor quickly became known for its lavish dinner parties that often evolved into spirited colloquiums, blending strategy, rhetoric, and magical theory.
 
-Following his death, Captain Dapplewing bequeathed the manor to Neverwood Academy. In recognition of his service and scholarly contributions, the university preserved the house largely as he left it, maintaining its original furnishings and naming it in his honour. Today, Dapplewing Manor stands as both a memorial and a reminder of a life devoted to discipline, learning, and thoughtful debate.
+Following his death, Captain Dapplewing bequeathed the manor to [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]. In recognition of his service and scholarly contributions, the university preserved the house largely as he left it, maintaining its original furnishings and naming it in his honour. Today, Dapplewing Manor stands as both a memorial and a reminder of a life devoted to discipline, learning, and thoughtful debate.
 
 # Connections
 

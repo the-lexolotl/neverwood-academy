@@ -13,7 +13,7 @@
 > **Category:** | Academy Building |
 
 # Description
-The Rose Stage is a circular, rotating performance platform located on the Silverquill campus, framed by enchanted rose motifs crafted from ever-shifting ink. These roses are not static decorations; they bloom, fade, and re-form in response to emotional energy and audience engagement, creating a living backdrop for performances.
+The Rose Stage is a circular, rotating performance platform located on the [[2-World/Places/Silverquill Campus\|Silverquill campus]], framed by enchanted rose motifs crafted from ever-shifting ink. These roses are not static decorations; they bloom, fade, and re-form in response to emotional energy and audience engagement, creating a living backdrop for performances.
 The stage itself is designed for versatility, accommodating theatrical performances, rhetorical duels, musical spellcasting, and formal honour challenges. Its rotation allows audiences to view performances from shifting perspectives, ensuring that no single viewpoint dominates the experience.
 Faculty frequently attend events at the Rose Stage, offering critique, mentorship, or formal evaluation. It is widely regarded as one of the most prestigious informal arenas for student expression, where reputation can be made—or broken—through a single performance.
 

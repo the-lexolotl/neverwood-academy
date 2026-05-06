@@ -15,7 +15,7 @@
 > **Overview:** | A massive rift left by the eruption of Mount Hotenow, filled with magical instability and dangerous anomalies |
 
 # Description
-The Chasm District is Neverwinter’s most visible wound.
+The Chasm District is [[2-World/Hubs/Neverwinter\|Neverwinter]]’s most visible wound.
 When catastrophe tore through the city, a vast rift split this quarter apart, swallowing streets, towers, and entire lives. What remains is a district divided — part stabilised reconstruction, part abandoned ruin, and part open scar that no mason can simply mortar closed.
 By 1509 DR, efforts to reclaim sections of the Chasm have begun in earnest. Reinforced bridges now span narrower gaps. Certain outer streets have been cleared and rebuilt. Guard patrols operate along secured perimeters.
 Yet at its heart, the Chasm remains a jagged abyss — unstable, dangerous, and deeply wrong.
@@ -74,7 +74,7 @@ Funding for the project remains politically sensitive, with debates ongoing abou
 - Hidden cult activity in deeper sections  
 
 ## Rumours
-- “The Chasm goes all the way to the Underdark.”  
+- “The Chasm goes all the way to [[2-World/Realms/The Underdark\|the Underdark]].”  
 - “Something breathes down there.”  
 - “The wards aren’t holding.”  
 - “There’s a city beneath the city.”  
@@ -89,8 +89,8 @@ Funding for the project remains politically sensitive, with debates ongoing abou
 | File                                                                                 | Race    | Gender | Role           |
 | ------------------------------------------------------------------------------------ | ------- | ------ | -------------- |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Giovanni Uncuf\|Giovanni Uncuf]] | Human   | Male   | Tavern Founder |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                     | Burrog  | Male   | Other          |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Grayson\|Grayson]]               | Vampire | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Kask\|Kask]]                     | Burrog  | Male   | Other          |
 
 { .block-language-dataview}
 

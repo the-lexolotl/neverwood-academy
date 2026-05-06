@@ -16,7 +16,7 @@
 > **Threats:** | Ambushes, traps, overwhelming numbers, erratic leadership |
 
 # Description
-Hidden deep within the tangled heart of Neverwinter Wood lies a small, ramshackle xvart village ruled by the self-proclaimed “King” [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]. The settlement consists of crude mud huts, tattered banners, and smoky fire pits that reek of half-cooked vermin. Though its population rarely exceeds a few dozen, the xvarts here live in fearful devotion to [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh]]—who demands constant offerings of food, shiny trinkets, and praise for his “divine wisdom.”
+Hidden deep within the tangled heart of [[2-World/Places/Neverwinter Woods\|Neverwinter Wood]] lies a small, ramshackle xvart village ruled by the self-proclaimed “King” [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]. The settlement consists of crude mud huts, tattered banners, and smoky fire pits that reek of half-cooked vermin. Though its population rarely exceeds a few dozen, the xvarts here live in fearful devotion to [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh]]—who demands constant offerings of food, shiny trinkets, and praise for his “divine wisdom.”
 
 Few outsiders ever stumble upon the place, and fewer still find reason to linger. Beyond the endless squabbling of its inhabitants and the occasional crude idol to Raxivort, there’s little of importance in the village—save, perhaps, for the eerie silence that falls whenever Krzrzrgh’s booming laugh echoes through the trees.
 

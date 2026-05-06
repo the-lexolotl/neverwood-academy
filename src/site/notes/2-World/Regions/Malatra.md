@@ -31,7 +31,7 @@ Countless rivers carve through the jungle, feeding into hidden lagoons and delta
 * **The Obsidian Peaks** – Volcanic mountains along the western rim, home to fire-worshipping cults and ancient draconic lairs.
 * **The River of Spears** – A mighty river that divides warring tribal lands; its name comes from the countless battles fought along its banks.
 * **The Shrouded Coast** – A treacherous coastal jungle haunted by pirates, yuan-ti enclaves, and the ruins of serpent empires.
-* **The Malatran Plateau** – An elevated rainforest home to isolated highland tribes and strange flora unseen elsewhere in **Toril**.
+* **[[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]]** – An elevated rainforest home to isolated highland tribes and strange flora unseen elsewhere in **[[2-World/Planets/Toril\|Toril]]**.
 
 ## **Geographical Features**
 * **The Emerald Sea** – A dense inland swamp whose phosphorescent algae glows faintly at night, said to be cursed by the spirits of drowned cities.
@@ -82,11 +82,11 @@ Before mortal civilisation, Malatra was a land of titanic beasts and serpent-kin
 Human settlers from the north founded the **Kuong Kingdom**, uniting dozens of tribes under a divine monarch. This golden age saw the rise of vast temple-cities, mastery of herbal alchemy, and the codification of spirit worship. Trade with **[[2-World/Continents/Kara-Tur\|Kara-Tur]]** and **Zakhara** briefly flourished before isolation returned.
 
 ## **Recent Centuries**
-The jungles have reclaimed much of Malatra’s former glory, yet the Kuong Kingdom endures. Expeditions from **Shou Lung**, **Durpar**, and **Faerûn** have attempted to chart and exploit the region, often meeting ruin.
+The jungles have reclaimed much of Malatra’s former glory, yet the Kuong Kingdom endures. Expeditions from **Shou Lung**, **Durpar**, and **[[2-World/Continents/Faerûn\|Faerûn]]** have attempted to chart and exploit the region, often meeting ruin.
 * **The Coming of the Spirit Plague (1380s DR)** – A wave of madness spread through the jungle as ancient spirits awoke; entire tribes vanished overnight.
 * **The Sundering (1480s DR)** – Shifts in the Weave brought new islands to Malatra’s coast and reawakened the serpent ruins.
 * **The Time of Returning (1500s DR)** – Recently, divine signs and omens suggest the old serpent gods are stirring once more, while explorers whisper of new civilisations emerging deep within the canopy.
-In the current age — around **1508 DR** — Malatra remains one of Toril’s last great wildernesses: a land of danger, discovery, and divine mystery where few outsiders tread and fewer return.
+In the current age — around **1508 DR** — Malatra remains one of [[2-World/Planets/Toril\|Toril]]’s last great wildernesses: a land of danger, discovery, and divine mystery where few outsiders tread and fewer return.
 
 # Hubs
 | File                                                           |

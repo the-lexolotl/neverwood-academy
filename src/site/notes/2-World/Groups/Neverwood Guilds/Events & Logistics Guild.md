@@ -58,7 +58,7 @@ All applications are reviewed at the beginning of the academic year. Positions a
 - Recognition for successful large-scale operations
 
 # Description
-The Events & Logistics Guild is responsible for the seamless execution of life at Neverwood Academy. From grand festivals and ceremonial gatherings to smaller student-led functions, the guild ensures that every detail is accounted for.
+The Events & Logistics Guild is responsible for the seamless execution of life at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]. From grand festivals and ceremonial gatherings to smaller student-led functions, the guild ensures that every detail is accounted for.
 Established alongside the academy’s earliest traditions, the guild has become an essential pillar of campus life. Its members operate behind the scenes, coordinating schedules, managing resources, and resolving crises before they can disrupt proceedings.
 Despite its polished exterior, the guild thrives in controlled chaos, where quick thinking and adaptability are just as valuable as careful planning.
 

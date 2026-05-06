@@ -28,7 +28,7 @@ A whispered legend among students for decades, Sassy Sally Jane is a pink‑hair
 Once beloved by jokesters and pranksters, Sally Jane was used extensively to torment faculty and staff before finally being confiscated. She has remained locked away in the attic of [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] ever since, alongside other broken, malfunctioning, or forbidden items.
 
 ### An Exclusive Enclave
-[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] serves as a learning annex for esteemed dual‑college faculty and their favoured students. The two‑story manor sits on the central campus, connected by a well‑lit path and surrounded by carefully maintained grounds.
+[[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] serves as a learning annex for esteemed dual‑college faculty and their favoured students. The two‑story manor sits on the [[2-World/Places/Central Campus\|central campus]], connected by a well‑lit path and surrounded by carefully maintained grounds.
 The manor functions as:
 - Faculty offices
 - A venue for lavish dinner parties

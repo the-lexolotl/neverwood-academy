@@ -18,20 +18,20 @@
 > ## [View the Neverwinter Interactive Map](https://www.neverwood.co.uk/neverwinter-map/)
 
 ## Description
-Neverwinter, also called the *City of Skilled Hands*, is a major city-state in [[2-World/Regions/The North\|The North]] of [[2-World/Continents/Faerûn\|Faerûn]]. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in the North.
+Neverwinter, also called the *City of Skilled Hands*, is a major city-state in [[2-World/Regions/The North\|The North]] of [[2-World/Continents/Faerûn\|Faerûn]]. Renowned for its artisans, gardens, and enduring warmth even in the depths of winter, Neverwinter stands as a beacon of civilization and craft in [[2-World/Regions/The North\|the North]].
 
 Once called **Eigersstor** by its Illuskan founders, the name “Neverwinter” derives from the city’s ability to remain vibrant through the cold months — its river never freezing thanks to elemental heat flowing from Mount Hotenow.
 
 Elminster described it best:
 
-> “Neverwinter is a friendly city of craftsmen, who trade extensively via the great merchants of Waterdeep. Their water-clocks and multi-hued lamps can be found throughout the Realms.”
+> “Neverwinter is a friendly city of craftsmen, who trade extensively via the great merchants of [[2-World/Hubs/Waterdeep\|Waterdeep]]. Their water-clocks and multi-hued lamps can be found throughout the Realms.”
 
 The city is famed for its multi-coloured glasswork, intricate jewellry, and flourishing gardens that remain green even through snow.
 
 ## Geography
-Neverwinter lies between **Waterdeep** and **Luskan**, nestled at the mouth of the **Neverwinter River**. To the east rise the volcanic slopes of **Mount Hotenow**, while to the west the **Sea of Swords** meets the city’s busy harbor. The surrounding region enjoys a perpetual mildness caused by the river’s elemental warmth, which keeps the city’s port ice-free year-round.
+Neverwinter lies between **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and **Luskan**, nestled at the mouth of the **Neverwinter River**. To the east rise the volcanic slopes of **Mount Hotenow**, while to the west the **[[2-World/Regions/Sea of Swords\|Sea of Swords]]** meets the city’s busy harbor. The surrounding region enjoys a perpetual mildness caused by the river’s elemental warmth, which keeps the city’s port ice-free year-round.
 
-Nearby landmarks include **Helm’s Hold**, a fortified monastery to the southeast, and the mystical **Neverwinter Wood**, known for its fey-touched glades and ancient ruins of the elven realm **Iliyanbruen**.
+Nearby landmarks include **Helm’s Hold**, a fortified monastery to the southeast, and the mystical **[[2-World/Places/Neverwinter Woods\|Neverwinter Wood]]**, known for its fey-touched glades and ancient ruins of the elven realm **Iliyanbruen**.
 
 ## History
 Neverwinter was built upon the ruins of the elven city **Iliyanbruen** after its fall to orc invasions. The first human settlement, **Eigersstor**, eventually became known as Neverwinter — a cosmopolitan centre of art, learning, and trade.
@@ -40,7 +40,7 @@ The city endured many calamities:
 * **1372 DR:** The *Wailing Death* plague devastated its population.
 * **1385 DR:** The *Spellplague* struck [[2-World/Continents/Faerûn\|Faerûn]], further destabilizing the city.
 * **1451 DR:** *Mount Hotenow* erupted, destroying much of Neverwinter and killing the ruling **Alagondar line**.
-* **1468 DR onward:** *Lord Dagult Neverember* of Waterdeep rebuilt the city, naming himself *Lord Protector* and founding what became known as *New Neverwinter*.
+* **1468 DR onward:** *Lord Dagult Neverember* of [[2-World/Hubs/Waterdeep\|Waterdeep]] rebuilt the city, naming himself *Lord Protector* and founding what became known as *New Neverwinter*.
 
 By the late 15th century DR, Neverwinter had regained much of its former prosperity — though its people remain wary and fiercely proud, hardened by tragedy and rebirth.
 
@@ -50,9 +50,9 @@ Neverwinter was historically ruled by the **Alagondar family**, beginning with *
 After the eruption of Mount Hotenow, **Lord Dagult Neverember** claimed descent from the Alagondars and took control. His rule restored stability but came at the cost of heavier taxes and stricter law. Modern Neverwinter is governed by the **Protector’s Enclave**, with **General Sabine** and **Mayor Soman Galt** overseeing civic administration.
 
 ## Defences
-Neverwinter’s armies are among the most disciplined in the North. The city’s defenders include:
+Neverwinter’s armies are among the most disciplined in [[2-World/Regions/The North\|the North]]. The city’s defenders include:
 * **The Neverwinter Guard** – professional soldiers, once bolstered by mercenaries from Mintarn.
-* **The Wintershield Watchmen** – local peacekeepers who replaced many of the foreign troops.
+* **[[2-World/Groups/Wintershield Watchmen\|The Wintershield Watchmen]]** – local peacekeepers who replaced many of the foreign troops.
 * **The Many-Starred Cloak** – an order of mages serving the city’s rulers.
 * **The Neverwinter Nine** – elite champions bound to protect the city’s leadership.
 
@@ -73,7 +73,7 @@ Faith plays a vital role in Neverwinter’s daily life.
 Today, nearly every major faith of the [[2-World/Regions/The North\|The North]] has a presence within the city walls.
 
 ## Trade & Craftsmanship
-Neverwinter thrives on trade with **Waterdeep**, **Gauntlgrym**, and coastal settlements. It exports glassware, clocks, jewelry, and fine crafts, and imports lumber and ores from the North.
+Neverwinter thrives on trade with **[[2-World/Hubs/Waterdeep\|Waterdeep]]**, **Gauntlgrym**, and coastal settlements. It exports glassware, clocks, jewelry, and fine crafts, and imports lumber and ores from [[2-World/Regions/The North\|the North]].
 
 The city’s economy remains guild-free by decree of Lord Neverember, allowing merchants and artisans to work independently. Its workshops are renowned for innovation in both mundane and magical craftwork.
 

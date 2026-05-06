@@ -17,17 +17,17 @@
 
 # Description
 
-The **Malatran Plateau** is a vast mountainous landform rising thousands of feet above the jungles of **[[2-World/Regions/Malatra\|Malatra]]**, in the heart of southern Kara-Tur. Shaped by alien sorcery in a forgotten age, it remains one of the most enigmatic and isolated regions of the world.
+The **Malatran Plateau** is a vast mountainous landform rising thousands of feet above the jungles of **[[2-World/Regions/Malatra\|Malatra]]**, in the heart of southern [[2-World/Continents/Kara-Tur\|Kara-Tur]]. Shaped by alien sorcery in a forgotten age, it remains one of the most enigmatic and isolated regions of the world.
 
 ## Geography
 
-Like much of Malatra, the Malatran Plateau is cloaked in dense, humid jungle. However, its northwestern and northeastern reaches open into broad, sparsely forested plains where the jungle canopy thins and the land rolls beneath a blazing sun. From these highlands, waterfalls tumble into the mists far below, marking the edge of the plateau’s immense rise.
+Like much of [[2-World/Regions/Malatra\|Malatra]], the Malatran Plateau is cloaked in dense, humid jungle. However, its northwestern and northeastern reaches open into broad, sparsely forested plains where the jungle canopy thins and the land rolls beneath a blazing sun. From these highlands, waterfalls tumble into the mists far below, marking the edge of the plateau’s immense rise.
 
 ## History
 
 The first inhabitants of the land that would become the plateau were the **bamboo** and **river spirit folk**, ancient beings who would later give rise to the race known as the **tam’hi**.
 
-Long before the **Time of Troubles**, and even before **Abeir-Toril                          ** was divided, a faction of a humanoid race called the **ancient Nubari** arrived from another crystal sphere aboard spelljamming vessels. Fleeing a devastating war, they sought refuge in Malatra’s jungles — a region dismissed as inhospitable by its native peoples. Using their formidable arcane arts, the Nubari raised the ground itself, lifting their new homeland high above the jungle canopy to form the **Malatran Plateau**.
+Long before the **Time of Troubles**, and even before **Abeir-[[2-World/Planets/Toril\|Toril]]                          ** was divided, a faction of a humanoid race called the **ancient Nubari** arrived from another crystal sphere aboard spelljamming vessels. Fleeing a devastating war, they sought refuge in [[2-World/Regions/Malatra\|Malatra]]’s jungles — a region dismissed as inhospitable by its native peoples. Using their formidable arcane arts, the Nubari raised the ground itself, lifting their new homeland high above the jungle canopy to form the **Malatran Plateau**.
 
 Unintentionally, this act caused the collapse of underground homes belonging to nearby **korobokuru**, forcing those peoples to the surface.
 
@@ -35,7 +35,7 @@ Unintentionally, this act caused the collapse of underground homes belonging to 
 
 The Nubari vowed never to repeat the mistakes that destroyed their old world. They swore to live without war and to avoid interference in the natural growth of other species. The spirit folk chose seclusion over confrontation, and the timid **shu** likewise withdrew, leaving the Nubari to pursue their dream of a peaceful utopia.
 
-They built a network of vast magical domes across the plateau, weaving permanent enchantments of *hallucinatory terrain* and *antipathy* into the very fabric of the land. These wards rendered the plateau invisible and unapproachable from below, ensuring their civilization remained hidden from the rest of Malatra.
+They built a network of vast magical domes across the plateau, weaving permanent enchantments of *hallucinatory terrain* and *antipathy* into the very fabric of the land. These wards rendered the plateau invisible and unapproachable from below, ensuring their civilization remained hidden from the rest of [[2-World/Regions/Malatra\|Malatra]].
 
 When the predatory **garuda** began decimating the plateau’s gorilla population, the Nubari took pity on the beasts, gifting them intelligence, speech, and the use of tools. These transformed beings became known as the **saru**, who later served the Nubari as laborers and companions after the garuda’s banishment.
 

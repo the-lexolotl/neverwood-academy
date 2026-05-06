@@ -17,7 +17,7 @@
 > **Category:** | Shop |
 
 # Description
-Situated in the more practical stretches of the [[2-World/Places/Blacklake District\|Blacklake District]] in Neverwinter, **Carver & Thread** is the sort of shop that assumes you know what you’re about — or are willing to learn quickly.
+Situated in the more practical stretches of the [[2-World/Places/Blacklake District\|Blacklake District]] in [[2-World/Hubs/Neverwinter\|Neverwinter]], **Carver & Thread** is the sort of shop that assumes you know what you’re about — or are willing to learn quickly.
 
 The frontage is sturdy rather than charming. The paint is intact, the hinges are oiled, and the sign above the door reads:
 

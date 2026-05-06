@@ -26,7 +26,7 @@ He sold the first pamphlets himself from his ship, the _Folly’s Watch_, under 
 ## Official Launch & Early Titles (1480–1490 DR)
 Encouraged by positive reception, Tolan formally founded **Folly Guides** as a company dedicated to producing honest, reliable travel guides. The first bound titles included:
 - _[[2-Player Handouts/Others/Folly Guide - Neverwinter\|The Mini Folly Guide to Neverwinter]]_ (still available in-game!)
-- _Baldur’s Gate: What They Don’t Tell You_
+- _[[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]]: What They Don’t Tell You_
 - _Sword Coast Survival Notes_
 Unlike traditional guides, Folly Guides did not try to charm or flatter its subjects. Each edition included maps, survival tips, pricing estimates, social etiquette warnings, and Tolan’s characteristic wry commentary.
 

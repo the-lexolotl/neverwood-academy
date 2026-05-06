@@ -13,10 +13,10 @@
 > **Parent Location:** | [[2-World/Hubs/Neverwinter\|Neverwinter]] | 
 > **Category:** | Residential District,Noble District |
 > **Notable Features:** | Blacklake itself, manor houses, upscale residences |
-> **Overview:** | A more affluent district of Neverwinter centred around Blacklake, historically favoured by nobility and wealthier citizens |
+> **Overview:** | A more affluent district of [[2-World/Hubs/Neverwinter\|Neverwinter]] centred around Blacklake, historically favoured by nobility and wealthier citizens |
 
 # Description
-Blacklake District is the seat of wealth and influence within Neverwinter. Built around the deep, dark waters of Blacklake itself, the district is home to noble families, influential merchants, and those who prefer their power exercised behind closed doors rather than from public squares.
+Blacklake District is the seat of wealth and influence within [[2-World/Hubs/Neverwinter\|Neverwinter]]. Built around the deep, dark waters of Blacklake itself, the district is home to noble families, influential merchants, and those who prefer their power exercised behind closed doors rather than from public squares.
 Unlike [[2-World/Places/Protector's Enclave\|Protector's Enclave]], which performs authority openly, Blacklake cultivates exclusivity. High walls, wrought-iron gates, and manicured gardens conceal sprawling estates and private towers. Here, politics is conducted over fine wine, contracts are sealed in drawing rooms, and reputations are crafted with precision.
 Blacklake is not loud. It does not need to be.
 
@@ -43,7 +43,7 @@ The lake is deep and unusually dark, its waters reflecting little light even at 
 Rumours persist that parts of the lakebed conceal relics from before the eruption of Mount Hotenow — or older still.
 
 ## Notable Locations
-- Noble estates of long-standing Neverwinter families  
+- Noble estates of long-standing [[2-World/Hubs/Neverwinter\|Neverwinter]] families  
 - Private arcane towers  
 - Exclusive dining halls and wine salons  
 - Discreet meeting houses for merchant consortiums  
@@ -57,7 +57,7 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 - Skilled servants who know far more than they reveal  
 
 ## Factions Present
-- Noble Houses of Neverwinter  
+- Noble Houses of [[2-World/Hubs/Neverwinter\|Neverwinter]]  
 - Merchant Consortiums  
 - Private Arcane Circles  
 - Discreet agents of the Lord Protector  
@@ -82,8 +82,8 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Kor\|Cedric the Kor]] | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |
-| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc  | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Marcellus\|Marcellus]]           | Loxodon   | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/The Pub That Crawls/Orestes Alaris\|Orestes Alaris]] | Half-Orc  | Male   | Tavern Founder |
 
 { .block-language-dataview}
 

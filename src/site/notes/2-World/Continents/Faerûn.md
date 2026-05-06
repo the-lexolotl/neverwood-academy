@@ -18,22 +18,22 @@
 > ## [Visit the Faerûn Interactive Map](https://www.neverwood.co.uk/faerun-map)
 
 # Description
-The most famous continent on Toril, the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]], Baldur’s Gate, Calimport and Waterdeep, and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
+The most famous continent on [[2-World/Planets/Toril\|Toril]], the home of note worthies such as Elminster of Shadowdale and Drizzt Do’Urden, and the location of cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]], Calimport and [[2-World/Hubs/Waterdeep\|Waterdeep]], and nations such as Cormyr, Halruaa, Calimshan, Mulhorand, Sossal and Thay. Faerûn makes up the western portion of a larger supercontinent and also contains offshore islands such as the Moonshaes, Lantan and Nimbral.
 
 # Geography of Faerûn
 The continent features terrain as varied as any other. Alongside the western and southern coastlines, the most dominant feature is the **Sea of Fallen Stars**. This irregular inland sea keeps the interior lands fertile, connects the western and eastern regions of Faerûn, and serves as a major trade route for many of the bordering nations.
 
-The **Shaar** follows in significance — a broad region of southern grasslands which, together with the **Lake of Steam**, separates the inland sea from the southern coastal nations. To the east lies a vast region of steppes stretching from Kara-Tur, while the north holds massive glaciers (Pelvuria and Reghed) and wide tundra. South of the continent, across the Great Sea, is the sub-tropical land of **Zakhara**.
+The **Shaar** follows in significance — a broad region of southern grasslands which, together with the **Lake of Steam**, separates the inland sea from the southern coastal nations. To the east lies a vast region of steppes stretching from [[2-World/Continents/Kara-Tur\|Kara-Tur]], while the north holds massive glaciers (Pelvuria and Reghed) and wide tundra. South of the continent, across the Great Sea, is the sub-tropical land of **Zakhara**.
 
 ## Northwest Faerûn
-A region of wilderness, harsh winter weather, orc hordes, and barbarian tribes, this area is often called [[2-World/Regions/The North\|The North]]. It is largely untamed, lying between the vast **Anauroch Desert** in the east and the **Sea of Swords** in the west, north of the High Moor.
+A region of wilderness, harsh winter weather, orc hordes, and barbarian tribes, this area is often called [[2-World/Regions/The North\|The North]]. It is largely untamed, lying between the vast **Anauroch Desert** in the east and the **[[2-World/Regions/Sea of Swords\|Sea of Swords]]** in the west, north of the High Moor.
 
 **Notable Areas:**
 * **High Forest** – Traditional home of the elves.
 * **Frozenfar** – The frigid north, containing Icewind Dale, the Spine of the World, and the Sea of Moving Ice.
 * **Savage Frontier** – A rugged frontier attracting settlers and those who live off the land.
 * **Silver Marches** – A confederation of humans, dwarves, and elves, centered on Silverymoon.
-* **Coastal North** – A dangerous coastal region with major cities, including Waterdeep and [[2-World/Hubs/Neverwinter\|Neverwinter]].
+* **Coastal North** – A dangerous coastal region with major cities, including [[2-World/Hubs/Waterdeep\|Waterdeep]] and [[2-World/Hubs/Neverwinter\|Neverwinter]].
 
 ## North Faerûn
 Stretching from the **Anauroch Desert** in the west to the Moonsea in the east, this region is one of stark contrasts.
@@ -55,11 +55,11 @@ This remote region begins at the icy lands along the great northern glaciers and
 * **The Hordelands** – The vast, barren homeland of the Tuigan horde.
 * **Narfell** – Expansive frigid plains, home to nomadic tribes.
 * **Rashemen** – A rugged realm of berserker clans and sorceress witches.
-* **Thesk** – A mercantile land along the Golden Way, acting as a gateway to Kara-Tur.
+* **Thesk** – A mercantile land along the Golden Way, acting as a gateway to [[2-World/Continents/Kara-Tur\|Kara-Tur]].
 * **Vaasa** – A frozen tundra, bleak yet resource-rich.
 
 ## West Faerûn
-South of Waterdeep and north of the Shining Sea, this region covers most of the **Sword Coast** and the **Lands of Intrigue**.
+South of [[2-World/Hubs/Waterdeep\|Waterdeep]] and north of the Shining Sea, this region covers most of the **[[2-World/Regions/Sword Coast\|Sword Coast]]** and the **Lands of Intrigue**.
 
 **Notable Areas:**
 * **Evermeet** – Island homeland of many elves after the Retreat.
@@ -68,9 +68,9 @@ South of Waterdeep and north of the Shining Sea, this region covers most of the 
 * **Calimshan** – A kingdom of wealth and mercantilism, founded by genies.
 * **Tethyr** – An arid land wracked by wars and intrigue, also home to elven forests.
 * **Moonshae Isles** – Harsh and rugged islands off the western coast.
-* **Nelanther Isles** – Pirate-dominated islands that raid the Sword Coast.
+* **Nelanther Isles** – Pirate-dominated islands that raid the [[2-World/Regions/Sword Coast\|Sword Coast]].
 * **Nimbral** – A mysterious island realm of wizards and aerial knights.
-* **[[2-World/Regions/Sword Coast\|Sword Coast]]** – A rich coastline of trade and adventure, with Waterdeep and Baldur’s Gate as major hubs.
+* **[[2-World/Regions/Sword Coast\|Sword Coast]]** – A rich coastline of trade and adventure, with [[2-World/Hubs/Waterdeep\|Waterdeep]] and [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] as major hubs.
 * **Western Heartlands** – Farmlands and cities stretching between Cormyr and the western coast.
 
 ## Interior Faerûn
@@ -136,7 +136,7 @@ Located south and east of the Shaar along the Great Sea.
 * **Utter East** – The land of the Five Kingdoms.
 * **Veldorn** – The Land of Monsters, ruled by beast-chieftains.
 
-## The Underdark
+## [[2-World/Realms/The Underdark\|The Underdark]]
 Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 
 **Notable Cities:**
@@ -149,7 +149,7 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 * **Sshamath** – A rare drow city ruled by male wizards.
 * **Blingdenstone** – Former svirfneblin city, later resettled.
 
-The Underdark also hosts kuo-toa, illithid, and beholder cities, hidden in its endless depths.
+[[2-World/Realms/The Underdark\|The Underdark]] also hosts kuo-toa, illithid, and beholder cities, hidden in its endless depths.
 
 # Regions
 | File                                                  |
@@ -157,11 +157,14 @@ The Underdark also hosts kuo-toa, illithid, and beholder cities, hidden in its e
 | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]] |
 | [[2-World/Regions/Sword Coast\|Sword Coast]]       |
 | [[2-World/Regions/The North\|The North]]           |
+| [[2-World/Regions/Sea of Swords\|Sea of Swords]]   |
 
 { .block-language-dataview}
 # Capital Cities
-| File                                         |
-| -------------------------------------------- |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+| File                                             |
+| ------------------------------------------------ |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]     |
+| [[2-World/Hubs/Waterdeep\|Waterdeep]]         |
+| [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] |
 
 { .block-language-dataview}

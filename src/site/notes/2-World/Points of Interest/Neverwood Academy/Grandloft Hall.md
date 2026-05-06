@@ -13,7 +13,7 @@
 > **Category:** | Academy Building |
 
 # Description
-The Silverquill campus is anchored by Grandloft Hall, a vast and ornate structure designed for performance, debate, and magical rhetoric. Shafts of enchanted light pour through its towering stained glass windows, shifting in colour and intensity to match the tone of ongoing performances within.
+The [[2-World/Places/Silverquill Campus\|Silverquill campus]] is anchored by Grandloft Hall, a vast and ornate structure designed for performance, debate, and magical rhetoric. Shafts of enchanted light pour through its towering stained glass windows, shifting in colour and intensity to match the tone of ongoing performances within.
 Inside, the hall is a layered maze of balconies, stages, booths, and elevated platforms. Every space is designed to accommodate both audience and performer, allowing speeches, debates, and magical displays to unfold in dynamic and immersive ways. The acoustics are carefully enchanted, ensuring every word carries both literal and emotional weight.
 High above, Inkling mascots flutter through the rafters, responding to emotional intensity and magical output. When powerful spells or compelling rhetoric are delivered, enchanted spotlights automatically converge on the speaker, amplifying their presence and turning even small performances into dramatic events.
 
