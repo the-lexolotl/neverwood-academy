@@ -16,7 +16,6 @@
     "Safety Tools"
   ],
   "/Party": [
-    "Archived",
     "Eremis Varr",
     "Ferbinious Refubical",
     "Harry Blackstone",
@@ -25,43 +24,8 @@
     "Milfjord Goodleaf",
     "Redrnic Udertaken",
     "Suraax Smith",
-    "Vigilius Palamas"
-  ],
-  "/Party/Archived": [
-    "Atudark",
-    "Cyinth Agora",
-    "Guiloip Guhloo",
-    "Marionette Moonbeam",
-    "Vith Pahlok"
-  ],
-  "/Party/Archived/Atudark": [
-    "Atudark",
-    "ɘɿɘʜɈollɘH",
-    "Jack the Skeleton",
-    "Year 1"
-  ],
-  "/Party/Archived/Cyinth Agora": [
-    "Cyinth Agora",
-    "Hornfellow the Grand",
-    "Mr Muffin",
-    "T.1.T.4.N",
-    "Year 1"
-  ],
-  "/Party/Archived/Guiloip Guhloo": [
-    "Guiloip Guhloo",
-    "Buhuiop",
-    "Cynthia",
-    "Year 1"
-  ],
-  "/Party/Archived/Marionette Moonbeam": [
-    "Marionette Moonbeam",
-    "Shroom",
-    "Year 1"
-  ],
-  "/Party/Archived/Vith Pahlok": [
-    "Vith Pahlok",
-    "Folass",
-    "Year 1"
+    "Vigilius Palamas",
+    "Archived"
   ],
   "/Party/Eremis Varr": [
     "Eremis Varr",
@@ -108,6 +72,42 @@
     "Vigilius Palamas",
     "Year 1",
     "Year 2"
+  ],
+  "/Party/Archived": [
+    "Atudark",
+    "Cyinth Agora",
+    "Guiloip Guhloo",
+    "Marionette Moonbeam",
+    "Vith Pahlok"
+  ],
+  "/Party/Archived/Atudark": [
+    "Atudark",
+    "ɘɿɘʜɈollɘH",
+    "Jack the Skeleton",
+    "Year 1"
+  ],
+  "/Party/Archived/Cyinth Agora": [
+    "Cyinth Agora",
+    "Hornfellow the Grand",
+    "Mr Muffin",
+    "T.1.T.4.N",
+    "Year 1"
+  ],
+  "/Party/Archived/Guiloip Guhloo": [
+    "Guiloip Guhloo",
+    "Buhuiop",
+    "Cynthia",
+    "Year 1"
+  ],
+  "/Party/Archived/Marionette Moonbeam": [
+    "Marionette Moonbeam",
+    "Shroom",
+    "Year 1"
+  ],
+  "/Party/Archived/Vith Pahlok": [
+    "Vith Pahlok",
+    "Folass",
+    "Year 1"
   ],
   "/Session Journals": [
     "1508-1509 - First Year"
@@ -172,18 +172,26 @@
     "Monsters",
     "Murgaxor",
     "Neverwood Times",
-    "Others",
-    "Whalebucks"
+    "Whalebucks",
+    "Others"
   ],
   "/Player Handouts/Academic Information": [
     "Extracurricular Clubs",
-    "1st Year Courses",
-    "2nd Year Courses",
-    "Code of Conduct"
+    "Code of Conduct",
+    "Course Options",
+    "Student Jobs"
   ],
   "/Player Handouts/Academic Information/Extracurricular Clubs": [
     "Extracurriculars List",
     "Starting a Student Society"
+  ],
+  "/Player Handouts/Academic Information/Course Options": [
+    "First Year Courses",
+    "Second Year Courses"
+  ],
+  "/Player Handouts/Academic Information/Student Jobs": [
+    "First Year Student Jobs",
+    "Second Year Student Jobs"
   ],
   "/Player Handouts/Academy Events": [
     "The Merchant of Moons Poster",
@@ -192,10 +200,7 @@
   "/Player Handouts/Help Sheets": [
     "Combat",
     "Conditions",
-    "Dorm Rooms as Bastions",
-    "Exams & Grading",
     "Exploration",
-    "Neverwood Academy General Information",
     "Playing the Game"
   ],
   "/Player Handouts/Monsters": [
@@ -213,6 +218,12 @@
     "Volume XXX",
     "Volume XXXIII"
   ],
+  "/Player Handouts/Whalebucks": [
+    "Autumn Specialty Menu 1508",
+    "Spring Specialty Menu 1509",
+    "Summer Specialty Menu 1509",
+    "Winter Specialty Menu 1508"
+  ],
   "/Player Handouts/Others": [
     "Crumpled Paper",
     "Folly Guide - Neverwinter",
@@ -221,12 +232,6 @@
     "Notes on The Pub that Crawls Compiled by E. Zenithon.",
     "Professor Lang's List",
     "The Joy of Extradimensional Spaces (book)"
-  ],
-  "/Player Handouts/Whalebucks": [
-    "Autumn Specialty Menu 1508",
-    "Spring Specialty Menu 1509",
-    "Summer Specialty Menu 1509",
-    "Winter Specialty Menu 1508"
   ],
   "/Quests": [
     "Campus Daredevils",
@@ -277,7 +282,8 @@
     "Neverwood Staff",
     "The Hellhound Gang",
     "The Silent Equation",
-    "Wintershield Watchmen"
+    "Wintershield Watchmen",
+    "Neverwood Guilds"
   ],
   "/World/Groups/Academic Cohorts": [
     "Cohort of 1309",
@@ -304,14 +310,19 @@
     "Intramural Gymnastics Club",
     "Intramural Silkball Club",
     "Intramural Water-Dancing Club",
-    "Live-Action Roleplaying Guild",
     "Mage Tower Cheer Squad",
     "Neverwood Iron-Lifters Society",
     "Neverwood Show Band Association",
     "Neverwood Times",
-    "Play Actors Drama Guild",
     "Student-Mages of Faith",
-    "Wrestling Society"
+    "Wrestling Society",
+    "Live-Action Roleplaying Society",
+    "Performing Arts Society"
+  ],
+  "/World/Groups/Neverwood Guilds": [
+    "Adventuring Guild",
+    "Culinary & Catering Guild",
+    "Events & Logistics Guild"
   ],
   "/World/Hubs": [
     "Daggerford",
@@ -608,7 +619,8 @@
     "Witherbloom Campus"
   ],
   "/World/Planets": [
-    "Toril"
+    "Toril",
+    "Oerth"
   ],
   "/World/Points of Interest": [
     "Neverwinter",
@@ -662,12 +674,23 @@
     "The North"
   ],
   "/World/Star Systems": [
-    "Realmspace"
+    "Realmspace",
+    "Greyspace"
   ],
   "/Mechanics": [
+    "Academics",
     "Feats",
     "Spells",
     "Other"
+  ],
+  "/Mechanics/Academics": [
+    "Neverwood Academic System",
+    "Student Skills System",
+    "Student Dice System",
+    "Relationships System",
+    "Free Time System",
+    "Dorm Rooms as Bastions",
+    "Dorm Room - Special Facilities"
   ],
   "/Mechanics/Feats": [
     "First Year Honours",
