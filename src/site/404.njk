@@ -2,26 +2,143 @@
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
     <head>
-        <title>Nothing here</title>
+        <title>Nothing here — Neverwood Academy</title>
         <link href="/styles/digital-garden-base.css" rel="stylesheet">
         {%-if meta.themeStyle%}
             <link href="/styles/obsidian-base.css" rel="stylesheet">
-    	    <link href="{{meta.themeStyle}}" rel="stylesheet">
+            <link href="{{meta.themeStyle}}" rel="stylesheet">
         {% else %}
             <link href="/styles/style.css" rel="stylesheet">
         {%endif%}
-
         <link href="/styles/custom-style.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+        <style>
+            body.nw-404 {
+                margin: 0;
+                min-height: 100vh;
+                background: #2a1f3d;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-family: 'Lato', sans-serif;
+                position: relative;
+                overflow: hidden;
+            }
+            .nw-star {
+                position: absolute;
+                border-radius: 50%;
+                background: #fff;
+                opacity: 0;
+                animation: nw-twinkle 3s infinite;
+            }
+            @keyframes nw-twinkle {
+                0%, 100% { opacity: 0; transform: scale(0.8); }
+                50% { opacity: 0.6; transform: scale(1.2); }
+            }
+            .nw-content {
+                text-align: center;
+                position: relative;
+                z-index: 2;
+                max-width: 520px;
+                padding: 2rem;
+            }
+            .nw-logo {
+                width: 180px;
+                margin-bottom: 1.5rem;
+                animation: nw-float 4s ease-in-out infinite;
+            }
+            @keyframes nw-float {
+                0%, 100% { transform: translateY(0); }
+                50% { transform: translateY(-10px); }
+            }
+            .nw-num {
+                font-family: 'Cinzel', serif;
+                font-size: 96px;
+                font-weight: 600;
+                color: #c9a84c;
+                line-height: 1;
+                letter-spacing: 0.1em;
+                margin: 0;
+            }
+            .nw-title {
+                font-family: 'Cinzel', serif;
+                font-size: 22px;
+                color: #e8d9b5;
+                margin: 0.5rem 0 1.25rem;
+                letter-spacing: 0.05em;
+            }
+            .nw-scroll {
+                background: rgba(255, 255, 255, 0.04);
+                border: 1px solid rgba(201, 168, 76, 0.25);
+                border-radius: 8px;
+                padding: 1.25rem 1.5rem;
+                margin: 1.25rem 0;
+                color: #c4b89a;
+                font-size: 15px;
+                line-height: 1.75;
+                font-style: italic;
+            }
+            .nw-scroll strong {
+                color: #e8d9b5;
+                font-style: normal;
+            }
+            .nw-divider {
+                color: rgba(201, 168, 76, 0.5);
+                font-size: 13px;
+                letter-spacing: 0.2em;
+                margin: 1rem 0;
+            }
+            .nw-sub {
+                color: #c4b89a;
+                font-size: 14px;
+                margin: 0.5rem 0 1.25rem;
+                line-height: 1.6;
+            }
+            .nw-btn {
+                display: inline-block;
+                font-family: 'Cinzel', serif;
+                font-size: 14px;
+                letter-spacing: 0.08em;
+                color: #2a1f3d;
+                background: #c9a84c;
+                border-radius: 6px;
+                padding: 0.75rem 2.25rem;
+                text-decoration: none;
+                transition: background 0.2s;
+            }
+            .nw-btn:hover {
+                background: #e0bc62;
+            }
+            .nw-footnote {
+                color: rgba(196, 184, 154, 0.4);
+                font-size: 12px;
+                margin-top: 1.5rem;
+                letter-spacing: 0.06em;
+            }
+        </style>
     </head>
-    <body class="theme-{{meta.baseTheme}} markdown-preview-view">
-        <div class="content centered">
+    <body class="nw-404">
+        <span class="nw-star" style="width:2px;height:2px;top:8%;left:12%;animation-delay:0s"></span>
+        <span class="nw-star" style="width:3px;height:3px;top:15%;left:75%;animation-delay:0.7s"></span>
+        <span class="nw-star" style="width:2px;height:2px;top:60%;left:88%;animation-delay:1.2s"></span>
+        <span class="nw-star" style="width:2px;height:2px;top:80%;left:20%;animation-delay:0.4s"></span>
+        <span class="nw-star" style="width:3px;height:3px;top:35%;left:5%;animation-delay:1.8s"></span>
+        <span class="nw-star" style="width:2px;height:2px;top:25%;left:90%;animation-delay:2.3s"></span>
+        <span class="nw-star" style="width:2px;height:2px;top:70%;left:55%;animation-delay:0.9s"></span>
 
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
+        <div class="nw-content">
+            <img class="nw-logo" src="/img/user/z_Assets/website/Light%20tran%20logo.png" alt="Neverwood Academy" />
+            <p class="nw-num">404</p>
+            <p class="nw-title">Page Not Found</p>
+            <div class="nw-scroll">
+                Dear wandering student — it appears this page has been enchanted with an
+                <strong>invisibility charm</strong>, or perhaps it never existed at all.
+                Even the enchanted map of Neverwood Academy cannot locate it.
+            </div>
+            <div class="nw-divider">✦ &nbsp; ✦ &nbsp; ✦</div>
+            <p class="nw-sub">If you followed a link here, this note may not yet have been made public.</p>
+            <a class="nw-btn" href="/">Return to the Home Page</a>
+            <p class="nw-footnote">Neverwood Academy &middot; Est. in the age of the First Enchanters</p>
         </div>
     </body>
 </html>
