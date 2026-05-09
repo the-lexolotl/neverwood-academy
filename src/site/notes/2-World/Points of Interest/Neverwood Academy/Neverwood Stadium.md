@@ -13,7 +13,7 @@
 > **Category:** | Sports Arena |
 
 # Description
-Neverwood Stadium is the academy’s premier sporting venue, located near [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] and visible from much of the surrounding campus. It hosts large-scale Mage Tower matches, competitive tournaments, and ceremonial events that draw spectators from across the academy.
+Neverwood Stadium is the academy’s premier sporting venue, located near [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]] and visible from much of the surrounding campus. It hosts large-scale [[3-Homebrew Mechanics/Other/Mage Tower\|Mage Tower]] matches, competitive tournaments, and ceremonial events that draw spectators from across the academy.
 The stadium is designed for spectacle as much as sport, with floating observation platforms, shifting terrain modules, and layered seating that accommodates thousands. Magical scoreboards and announcer enchantments ensure that even the most chaotic matches remain comprehensible to spectators.
 While primarily used for official competition, the stadium occasionally hosts interdisciplinary events, blending sport with performance magic, illusion, and elemental display. It stands as one of the most recognisable symbols of student achievement and competitive spirit.
 

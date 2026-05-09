@@ -67,10 +67,10 @@ The following people are members of this group.
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Male   | Minotaur        | Player  | Lorehold    |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                                                       | Female | Dragonborn      | Player  | Lorehold    |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                                           | Male   | Dragonborn      | Player  | Quandrix    |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
 | [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                                         | Female | Eladrin         | Player  | Witherbloom |
-| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                                                 | Male   | Dragonborn      | Player  | Silverquill |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
 
 { .block-language-dataview}

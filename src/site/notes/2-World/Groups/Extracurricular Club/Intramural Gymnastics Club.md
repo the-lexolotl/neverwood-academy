@@ -27,9 +27,10 @@ Members who demonstrate exceptional skill may be selected to perform in official
 
 # People
 The following people are members of this group.  
-| File                                                                                         | Gender | Race        | Role    | College  |
-| -------------------------------------------------------------------------------------------- | ------ | ----------- | ------- | -------- |
-| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]] | Male   | Tiefling    | Student | Prismari |
-| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]           | Male   | Fire Genasi | Student | Prismari |
+| File                                                                                         | Gender     | Race        | Role    | College  |
+| -------------------------------------------------------------------------------------------- | ---------- | ----------- | ------- | -------- |
+| [[2-World/People/Neverwood Academy/Students/1506/Bramble Quickthorn\|Bramble Quickthorn]] | Non-binary | Sprite      | Student | Quandrix |
+| [[2-World/People/Neverwood Academy/Students/1508/Lysander Frostbane\|Lysander Frostbane]] | Male       | Tiefling    | Student | Prismari |
+| [[2-World/People/Neverwood Academy/Students/1508/Zanther Brown\|Zanther Brown]]           | Male       | Fire Genasi | Student | Prismari |
 
 { .block-language-dataview}

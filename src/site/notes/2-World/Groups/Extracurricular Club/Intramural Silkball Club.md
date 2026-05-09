@@ -29,6 +29,8 @@ Regular tournaments and inter-cohort games provide opportunities for recognition
 The following people are members of this group.  
 | File                                                                                         | Gender     | Race         | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]       | Male       | Earth Genasi | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1506/Vexaroth Drathis\|Vexaroth Drathis]]     | Non-binary | Dragonborn   | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Male       | Tiefling     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Male       | Owlin        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                         | Non-binary | Earth Genasi | Student | Witherbloom |

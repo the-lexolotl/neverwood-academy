@@ -100,9 +100,9 @@ FantasyCalendar({
 
 ---
 ## 🔐 Table Utilities
-| ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                                 | ![Rules.png](/img/user/z_Assets/website/Rules.png)  | ![Downtime.png](/img/user/z_Assets/website/Downtime.png)       | ![Safety.png](/img/user/z_Assets/website/Safety.png)  |
-| -------------------------------------------------------------------- | --------------- | ----------------------- | ---------------- |
-| **[Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join)** | **[[z_Website/House Rules\|House Rules]]** | **[[z_Website/Downtime Activities\|Downtime Activities]]** | **[[z_Website/Safety Tools\|Safety Tools]]** |
+| ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                                     | ![Rules.png](/img/user/z_Assets/website/Rules.png)      | ![Homebrew Mechanics.png](/img/user/z_Assets/website/Homebrew%20Mechanics.png) | ![Downtime.png](/img/user/z_Assets/website/Downtime.png)           | ![Safety.png](/img/user/z_Assets/website/Safety.png)      |
+| ------------------------------------------------------------------------ | ------------------- | --------------------------- | --------------------------- | -------------------- |
+| **[Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join)** | **[[z_Website/House Rules\|House Rules]]** | **[[z_Website/Homebrew Mechanics\|Homebrew Mechanics]]**  | **[[z_Website/Downtime Activities\|Downtime Activities]]** | **[[z_Website/Safety Tools\|Safety Tools]]** |
 
 ---
 *Disclaimer: A degree from Neverwood Academy does not provide protection from magic missiles, fireballs, freezing spheres, or any other deleterious effects spellcasters might generate. If you create deleterious effects, Neverwood kindly requests you refrain from invoking any names, symbols, or other references to the academy should you find yourself in a confrontation. Neverwood Academy does not take responsibility for any injury of any nature sustained in the course of anything, magical or otherwise.*

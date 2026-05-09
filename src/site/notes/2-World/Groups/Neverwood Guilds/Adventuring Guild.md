@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":["Perception"],"Skill3":"Survival","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"guildType":"Student Guild","dg-path":"World/Groups/Neverwood Guilds/Adventuring Guild.md","permalink":"/world/groups/neverwood-guilds/adventuring-guild/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":"Athletics","Skill2":["Perception"],"Skill3":"Survival","guildType":"Student Guild"}}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":"[[Lumia Starbloom](/img/user/2-World/Hubs/Neverwood%20Academy.md)","Skill1":"Athletics","Skill2":["Perception"],"Skill3":"Survival","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"guildType":"Student Guild","dg-path":"World/Groups/Neverwood Guilds/Adventuring Guild.md","permalink":"/world/groups/neverwood-guilds/adventuring-guild/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":"[[Lumia Starbloom](/img/user/2-World/Hubs/Neverwood%20Academy.md)","Skill1":"Athletics","Skill2":["Perception"],"Skill3":"Survival","guildType":"Student Guild"}}
 ---
 
 
@@ -11,7 +11,7 @@
 > ---|---|
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Student Guild |
-> **Primary Contact:** | Unknown |
+> **Primary Contact:** | [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]] |
 > **Skill 1:** | Athletics |
 > **Skill 2:** | Perception |
 > **Skill 3:** | Survival |
@@ -64,10 +64,14 @@ The culture within the guild is one of camaraderie forged under pressure. Succes
 
 # People
 The following people are members of this guild.  
-| File | Gender | Race | Role | College |
-| ---- | ------ | ---- | ---- | ------- |
+| File                                                                                     | Gender | Race        | Role    | College     | School Year |
+| ---------------------------------------------------------------------------------------- | ------ | ----------- | ------- | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]   | Female | Eladrin     | Student | Lorehold    | 4           |
+| [[2-World/People/Neverwood Academy/Students/1506/Elric Duskvale\|Elric Duskvale]]     | Male   | Half-Elf    | Student | Silverquill | 4           |
+| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]         | Female | Satyr       | Student | Silverquill | 3           |
+| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Male   | Fire Genasi | Student | Lorehold    | 3           |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon     | Student | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Female | Dwarf       | Student | Lorehold    | 2           |
 
 { .block-language-dataview}
-
-
 

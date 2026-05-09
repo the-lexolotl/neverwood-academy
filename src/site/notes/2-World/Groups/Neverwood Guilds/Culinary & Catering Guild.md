@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":["Slight of Hand"],"Skill2":["Performance"],"Skill3":["Nature"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"guildType":"Student Guild","dg-path":"World/Groups/Neverwood Guilds/Culinary & Catering Guild.md","permalink":"/world/groups/neverwood-guilds/culinary-and-catering-guild/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":null,"Skill1":["Slight of Hand"],"Skill2":["Performance"],"Skill3":["Nature"],"guildType":"Student Guild"}}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":"[[Sariah Moonshadow](/img/user/2-World/Hubs/Neverwood%20Academy.md)","Skill1":["Slight of Hand"],"Skill2":["Performance"],"Skill3":["Nature"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"guildType":"Student Guild","dg-path":"World/Groups/Neverwood Guilds/Culinary & Catering Guild.md","permalink":"/world/groups/neverwood-guilds/culinary-and-catering-guild/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Extracurricular Club","image":"Template_Galaxy_Placeholder.png","obsidianUIMode":"preview","leaders":null,"staff":null,"members":null,"initiates":null,"primary_contact":"[[Sariah Moonshadow](/img/user/2-World/Hubs/Neverwood%20Academy.md)","Skill1":["Slight of Hand"],"Skill2":["Performance"],"Skill3":["Nature"],"guildType":"Student Guild"}}
 ---
 
 
@@ -11,7 +11,7 @@
 > ---|---|
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Student Guild |
-> **Primary Contact:** | Unknown |
+> **Primary Contact:** | [[2-World/People/Neverwood Academy/Students/1506/Sariah Moonshadow\|Sariah Moonshadow]] |
 > **Skill 1:** | Slight of Hand |
 > **Skill 2:** | Performance |
 > **Skill 3:** | Nature |
@@ -64,8 +64,14 @@ The guild’s atmosphere is fast-paced and demanding, where precision, timing, a
 
 # People
 The following people are members of this guild.  
-| File | Gender | Race | Role | College |
-| ---- | ------ | ---- | ---- | ------- |
+| File                                                                                             | Gender     | Race       | Role    | College     | School Year |
+| ------------------------------------------------------------------------------------------------ | ---------- | ---------- | ------- | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1506/Rowan Greengale\|Rowan Greengale]]           | Non-binary | Elf        | Student | Quandrix    | 4           |
+| [[2-World/People/Neverwood Academy/Students/1506/Sariah Moonshadow\|Sariah Moonshadow]]       | Female     | Shadar-Kai | Student | Witherbloom | 4           |
+| [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                       | Female     | Half-Orc   | Student | Witherbloom | 3           |
+| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]       | Non-binary | Kenku      | Student | Quandrix    | 3           |
+| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Female     | Air Genasi | Student | Prismari    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]         | Female     | Dryad      | Student | Witherbloom | 2           |
 
 { .block-language-dataview}
 

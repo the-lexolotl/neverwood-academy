@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[Neverwood Academy]]","MyCategory":null,"image":"03-008.aurora.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Aurora"],"NoteStatus":"❓","char_status":"Alive","char_race":"Dhampir","char_gender":"Female","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Hubs/Neverwood%20Academy.md)","[Neverwood Show Band Association]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":1,"dg-path":"World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr.md","permalink":"/world/people/neverwood-academy/students/1508/aurora-luna-wyntherstarr/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-008.aurora.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Aurora"],"NoteStatus":"❓","char_status":"Alive","char_race":"Dhampir","char_gender":"Female","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Groups/Extracurricular%20Club/Neverwood%20Show%20Band%20Association.md)","[[Neverwood Show Band Association|Neverwood Show Band Association]]"],"school_year":1}}
+{"MyContainer":"[Neverwood Academy]]","MyCategory":null,"image":"03-008.aurora.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Aurora"],"NoteStatus":"❓","char_status":"Alive","char_race":"Dhampir","char_gender":"Female","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Hubs/Neverwood%20Academy.md)","[Witherbloom College]]","[[2-World/Groups/Neverwood Guilds/Events & Logistics Guild\|Events & Logistics Guild]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":2,"dg-path":"World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr.md","permalink":"/world/people/neverwood-academy/students/1508/aurora-luna-wyntherstarr/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-008.aurora.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Aurora"],"NoteStatus":"❓","char_status":"Alive","char_race":"Dhampir","char_gender":"Female","char_role":"Student","char_college":"Witherbloom","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Groups/Colleges/Witherbloom%20College.md)","[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]","[[2-World/Groups/Neverwood Guilds/Events & Logistics Guild\|Events & Logistics Guild]]"],"school_year":2}}
 ---
 
 
@@ -16,7 +16,7 @@
 > Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 > Role | Student |
 > College | Witherbloom |
-> Academic Year | 1 |
+> Academic Year | 2 |
 
 # Biography
 *You haven't spoken to this student yet. Talk to them to learn more about them.*
@@ -24,7 +24,7 @@
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]],[[2-World/Groups/Neverwood Guilds/Events & Logistics Guild\|Events & Logistics Guild]]
 
 ### Associated Handouts
 | File | Date Obtained |

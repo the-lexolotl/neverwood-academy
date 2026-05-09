@@ -1,0 +1,46 @@
+---
+{"MyContainer":["[Silverquill Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Zyrelis Starweaver.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Zyrelis \"Zy\" Starweaver","Zy Starweaver"],"NoteStatus":"❓","char_status":"Alive","char_race":"Aasimar","char_gender":"MtF","char_role":"Student","char_college":"Silverquill","char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506](/img/user/2-World/Places/Silverquill%20Campus.md)","[Silverquill College]]","[[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]","[[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":4,"dg-path":"World/People/Neverwood Academy/Students/1506/Zyrelis Starweaver.md","permalink":"/world/people/neverwood-academy/students/1506/zyrelis-starweaver/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":["[[2-World/Places/Silverquill Campus.md|Silverquill Campus]]","[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]"],"MyCategory":null,"image":"Zyrelis Starweaver.jpg","tags":["Category/People"],"obsidianUIMode":"preview","aliases":["Zyrelis \"Zy\" Starweaver","Zy Starweaver"],"NoteStatus":"❓","char_status":"Alive","char_race":"Aasimar","char_gender":"MtF","char_role":"Student","char_college":"Silverquill","char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":null,"siblings":null,"partner":null,"Connected_Quests":null,"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506](/img/user/2-World/Groups/Colleges/Silverquill%20College.md)","[[Silverquill College|Silverquill College]]","[[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]","[[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]"],"school_year":4}}
+---
+
+
+
+
+
+
+> [!infobox|left]+
+> # Zyrelis Starweaver
+> ![Zyrelis Starweaver.jpg](/img/user/z_Assets/character_art/NPCs/Cohort%20of%201506/Zyrelis%20Starweaver.jpg)
+> ###### Basic Info
+> Type |  Stat |
+> ---|---|
+> Status | Alive |
+> Race | Aasimar |
+> Gender | MtF |
+> Age | Young Adult |
+> Location | [[2-World/Places/Silverquill Campus\|Silverquill Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
+> Role | Student |
+> College | Silverquill |
+> Academic Year | 4 |
+
+# Biography
+*You haven't spoken to this student yet. Talk to them to learn more about them.*
+
+# Connections
+
+**Quests:** None
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]],[[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]],[[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]
+
+### Associated Handouts
+| File | Date Obtained |
+| ---- | ------------- |
+
+{ .block-language-dataview}
+
+# Relationships
+**Parents** - None/Unknown
+**Siblings** - None/Unknown
+**Partner** - None/Unknown
+**Children** - None/Unknown
+**Allies** - None/Unknown
+**Enemies** - None/Unknown
+

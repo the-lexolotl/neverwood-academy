@@ -1,5 +1,5 @@
 ---
-{"MyContainer":"[Neverwood Academy]]","MyCategory":null,"image":"03-013.greta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Student","char_college":"Lorehold","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Lyra Everlight"],"siblings":["Grog"],"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Hubs/Neverwood%20Academy.md)","[Neverwood Iron-Lifters Society]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":1,"dg-path":"World/People/Neverwood Academy/Students/1508/Greta Gorunn.md","permalink":"/world/people/neverwood-academy/students/1508/greta-gorunn/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-013.greta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Student","char_college":"Lorehold","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Lyra Everlight"],"siblings":["Grog"],"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Groups/Extracurricular%20Club/Neverwood%20Iron-Lifters%20Society.md)","[[Neverwood Iron-Lifters Society|Neverwood Iron-Lifters Society]]"],"school_year":1}}
+{"MyContainer":"[Neverwood Academy]]","MyCategory":null,"image":"03-013.greta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Student","char_college":"Lorehold","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Lyra Everlight"],"siblings":["Grog"],"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Hubs/Neverwood%20Academy.md)","[Lorehold College]]","[[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]]"],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"school_year":2,"dg-path":"World/People/Neverwood Academy/Students/1508/Greta Gorunn.md","permalink":"/world/people/neverwood-academy/students/1508/greta-gorunn/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"MyContainer":"[[Neverwood Academy|Neverwood Academy]]","MyCategory":null,"image":"03-013.greta.png","tags":["Category/People"],"obsidianUIMode":"preview","aliases":null,"NoteStatus":"❓","char_status":"Alive","char_race":"Dwarf","char_gender":"Female","char_role":"Student","char_college":"Lorehold","char_items":null,"char_age":"Young Adult","parents":null,"children":null,"enemies":null,"allies":["Lyra Everlight"],"siblings":["Grog"],"partner":null,"Connected_Quests":null,"Connected_Groups":["[[Cohort of 1508|Cohort of 1508](/img/user/2-World/Groups/Colleges/Lorehold%20College.md)","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]","[[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]]"],"school_year":2}}
 ---
 
 
@@ -16,7 +16,7 @@
 > Location | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] |
 > Role | Student |
 > College | Lorehold |
-> Academic Year | 1 |
+> Academic Year | 2 |
 
 # Biography
 *You haven't spoken to this student yet. Talk to them to learn more about them.*
@@ -24,7 +24,7 @@
 # Connections
 
 **Quests:** None
-**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]],[[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]]
 
 ### Associated Handouts
 | File | Date Obtained |
