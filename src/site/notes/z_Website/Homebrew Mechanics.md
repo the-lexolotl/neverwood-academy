@@ -3,20 +3,20 @@
 ---
 
 # Academics
-| File                                                                                                 |
+| Name                                                                                                 |
 | ---------------------------------------------------------------------------------------------------- |
+| [[3-Homebrew Mechanics/Academics/Student Skills System\|Student Skills System]]                   |
 | [[3-Homebrew Mechanics/Academics/Student Dice System\|Student Dice System]]                       |
+| [[3-Homebrew Mechanics/Academics/Relationships System\|Relationships System]]                     |
 | [[3-Homebrew Mechanics/Academics/Neverwood Academic System\|Neverwood Academic System]]           |
+| [[3-Homebrew Mechanics/Academics/Free Time System\|Free Time System]]                             |
 | [[3-Homebrew Mechanics/Academics/Dorm Room - Special Facilities\|Dorm Room - Special Facilities]] |
 | [[3-Homebrew Mechanics/Academics/Dorm Rooms as Bastions\|Dorm Rooms as Bastions]]                 |
-| [[3-Homebrew Mechanics/Academics/Free Time System\|Free Time System]]                             |
-| [[3-Homebrew Mechanics/Academics/Student Skills System\|Student Skills System]]                   |
-| [[3-Homebrew Mechanics/Academics/Relationships System\|Relationships System]]                     |
 
 { .block-language-dataview}
 
 # Feats
-| File                                                                         |
+| Name                                                                         |
 | ---------------------------------------------------------------------------- |
 | [[3-Homebrew Mechanics/Feats/Halloobabrew Crafter\|Halloobabrew Crafter]] |
 | [[3-Homebrew Mechanics/Feats/Modular\|Modular]]                           |
@@ -28,14 +28,14 @@
 { .block-language-dataview}
 
 # Spells
-| File                                                            |
+| Name                                                            |
 | --------------------------------------------------------------- |
 | [[3-Homebrew Mechanics/Spells/Piss Yourself\|Piss Yourself]] |
 
 { .block-language-dataview}
 
 # Other
-| File                                                                               |
+| Name                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[3-Homebrew Mechanics/Other/Alcohol and Intoxicants\|Alcohol and Intoxicants]] |
 | [[3-Homebrew Mechanics/Other/Mage Tower\|Mage Tower]]                           |

@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":1,"grad_year":1512,"join_year":"1508","dg-path":"World/Groups/Academic Cohorts/Cohort of 1508.md","permalink":"/world/groups/academic-cohorts/cohort-of-1508/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":1,"grad_year":1512,"join_year":"1508"}}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":2,"grad_year":1512,"join_year":"1508","dg-path":"World/Groups/Academic Cohorts/Cohort of 1508.md","permalink":"/world/groups/academic-cohorts/cohort-of-1508/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1508.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":2,"grad_year":1512,"join_year":"1508"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > **Category:** | Academic Cohort |
 > **Joining Year** | 1508 |
 > **Graduating Year** | 1512 | 
-> **Current Academic Year** | 1 |
+> **Current Academic Year** | 2 |
 
 # Description
 Academic Cohorts are the primary social and academic units within [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], grouping students together by year and shared experience. Each cohort represents a distinct stage in a student’s journey, shaping not only their studies but also their place within the wider Academy.
@@ -67,10 +67,10 @@ The following people are members of this group.
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                                                        | Male   | Minotaur        | Player  | Lorehold    |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                                                       | Female | Dragonborn      | Player  | Lorehold    |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                                                           | Male   | Dragonborn      | Player  | Quandrix    |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                                             | Male   | Yuan-Ti         | Player  | Witherbloom |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                                              | Female | Aarakocra       | Player  | Lorehold    |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
 | [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]                                         | Female | Eladrin         | Player  | Witherbloom |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                                                 | Male   | Dragonborn      | Player  | Silverquill |
-| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                                                        | Male   | Triton          | Player  | Witherbloom |
 
 { .block-language-dataview}

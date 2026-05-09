@@ -69,7 +69,7 @@ The following people are members of this group.
 | File                                                                   | Gender | Race  | Role                          | College |
 | ---------------------------------------------------------------------- | ------ | ----- | ----------------------------- | ------- |
 | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]] | Male   | Human | Lord Protector of Neverwinter | None    |
-| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] | Female | Human | City Watch                    | None    |
 | [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]] | Male   | Human | City Watch                    | None    |
+| [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] | Female | Human | City Watch                    | None    |
 
 { .block-language-dataview}

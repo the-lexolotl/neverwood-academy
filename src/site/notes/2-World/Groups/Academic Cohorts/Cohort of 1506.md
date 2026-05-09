@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":3,"grad_year":1510,"join_year":"1506","dg-path":"World/Groups/Academic Cohorts/Cohort of 1506.md","permalink":"/world/groups/academic-cohorts/cohort-of-1506/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":3,"grad_year":1510,"join_year":"1506"}}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":4,"grad_year":1510,"join_year":"1506","dg-path":"World/Groups/Academic Cohorts/Cohort of 1506.md","permalink":"/world/groups/academic-cohorts/cohort-of-1506/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1506.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":4,"grad_year":1510,"join_year":"1506"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > **Category:** | Academic Cohort |
 > **Joining Year** | 1506 |
 > **Graduating Year** | 1510 | 
-> **Current Academic Year** | 3 |
+> **Current Academic Year** | 4 |
 
 # Description
 Academic Cohorts are the primary social and academic units within [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], grouping students together by year and shared experience. Each cohort represents a distinct stage in a student’s journey, shaping not only their studies but also their place within the wider Academy.
@@ -45,8 +45,8 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1506/Garrik Stormfang\|Garrik Stormfang]]         | Male       | Orc          | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]             | Male       | Dwarf        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]           | Female     | Eladrin      | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]             | Female     | Goliath      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Milo Quickbranch\|Milo Quickbranch]]         | Male       | Halfling     | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]             | Female     | Goliath      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]           | Male       | Earth Genasi | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]       | Female     | Harengon     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]]       | Male       | Fire Genasi  | Student | Prismari    |

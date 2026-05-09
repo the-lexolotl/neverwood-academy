@@ -117,12 +117,12 @@ Today, in the years around **1508 DR**, the Delimbiyr Vale stands once again as 
 | [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]]             | 11 Oct, 2025  | Complete    |
 | [[2-Quests/The Merchant of Moons\|The Merchant of Moons]]                     | 24 Oct, 2025  | In Progress |
 | [[2-Quests/The Missing Professor\|The Missing Professor]]                     | 09 Aug, 2025  | Complete    |
-| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]                         | 01 Nov, 2025  | Complete    |
 | [[2-Quests/The Price of Integrity\|The Price of Integrity]]                   | 15 Oct, 2025  | Complete    |
-| [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | 13 Dec, 2025  | Complete    |
+| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]                         | 01 Nov, 2025  | Complete    |
 | [[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]] | 03 Jan, 2026  | Complete    |
-| [[2-Quests/Whos goo\|Whos goo]]                                               | 12 Jul, 2025  | In Progress |
+| [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]                               | 13 Dec, 2025  | Complete    |
 | [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | 08 Nov, 2025  | Complete    |
+| [[2-Quests/Whos goo\|Whos goo]]                                               | 12 Jul, 2025  | In Progress |
 | [[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]                       | 18 Apr, 2026  | Complete    |
 | [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]               | 25 Apr, 2026  | In Progress |
 

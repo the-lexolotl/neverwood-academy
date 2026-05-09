@@ -50,8 +50,8 @@ The atmosphere is calm but intellectually intense. Conversations often drift int
 | [[2-World/People/Neverwood Academy/Students/1506/Tobin Nettlewick\|Tobin Nettlewick]]         | Gnome      | FtM        | Student                |
 | [[2-World/People/Neverwood Academy/Students/1506/Zinnia Brightpetal\|Zinnia Brightpetal]]     | Fairy      | Female     | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]               | Owlin      | Female     | Student                |
-| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]       | Minotaur   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]   | Halfling   | Female     | Student                |
+| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]       | Minotaur   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]     | Human      | Female     | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]             | Half-Elf   | Male       | Student                |
 | [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]               | Orc        | Male       | Student                |

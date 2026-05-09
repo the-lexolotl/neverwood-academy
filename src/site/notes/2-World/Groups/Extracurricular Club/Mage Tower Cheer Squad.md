@@ -29,7 +29,7 @@ Members who excel may take on leadership roles within routines or represent the 
 The following people are members of this group.  
 | File                                                                                       | Gender     | Race            | Role    | College     |
 | ------------------------------------------------------------------------------------------ | ---------- | --------------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]   | Female     | Elf             | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]   | Female     | Elf             | Alumni  | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]       | Male       | Dwarf           | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]] | Male       | Fire Genasi     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]       | Non-binary | Firbolg         | Student | Lorehold    |

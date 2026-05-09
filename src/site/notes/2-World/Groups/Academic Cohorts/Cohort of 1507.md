@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1507.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":2,"grad_year":1511,"join_year":"1507","dg-path":"World/Groups/Academic Cohorts/Cohort of 1507.md","permalink":"/world/groups/academic-cohorts/cohort-of-1507/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1507.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":2,"grad_year":1511,"join_year":"1507"}}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Academic Cohort","image":"class of 1507.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"CohortStatus":"Current","school_year":3,"grad_year":1511,"join_year":"1507","dg-path":"World/Groups/Academic Cohorts/Cohort of 1507.md","permalink":"/world/groups/academic-cohorts/cohort-of-1507/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[Neverwood Academy|Neverwood Academy](/img/user/2-World/Hubs/Neverwood%20Academy.md)","MyCategory":"Academic Cohort","image":"class of 1507.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"benefits":[{"standing":1,"reward":"What do they get at level 1?"},{"standing":2,"reward":"What do they get at level 2?"},{"standing":3,"reward":"What do they get at level 3?"}],"CohortStatus":"Current","school_year":3,"grad_year":1511,"join_year":"1507"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > **Category:** | Academic Cohort |
 > **Joining Year** | 1507 |
 > **Graduating Year** | 1511 | 
-> **Current Academic Year** | 2 |
+> **Current Academic Year** | 3 |
 
 # Description
 Academic Cohorts are the primary social and academic units within [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], grouping students together by year and shared experience. Each cohort represents a distinct stage in a student’s journey, shaping not only their studies but also their place within the wider Academy.
@@ -39,13 +39,13 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                   | Non-binary | Orc          | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                                 | Female     | Owlin        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                           | Male       | Triton       | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                         | Male       | Minotaur     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                     | Female     | Halfling     | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                         | Male       | Minotaur     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Female     | Loxodon      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male       | Gnome        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                   | Female     | Satyr        | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                           | Male       | Human        | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male       | Human        | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                           | Male       | Human        | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Female     | Human        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                               | Male       | Tiefling     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                           | Female     | Half-Elf     | Student | Lorehold    |

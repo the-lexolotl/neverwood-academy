@@ -112,7 +112,7 @@ Guild membership occupies **2 Free Time Slots** per tenday.
 | File                                                                                        |
 | ------------------------------------------------------------------------------------------- |
 | [[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]]                 |
-| [[2-World/Groups/Neverwood Guilds/Culinary & Catering Guild\|Culinary & Catering Guild]] |
 | [[2-World/Groups/Neverwood Guilds/Events & Logistics Guild\|Events & Logistics Guild]]   |
+| [[2-World/Groups/Neverwood Guilds/Culinary & Catering Guild\|Culinary & Catering Guild]] |
 
 { .block-language-dataview}

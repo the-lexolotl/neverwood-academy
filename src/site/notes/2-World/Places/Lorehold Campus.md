@@ -40,8 +40,8 @@ The campus carries an atmosphere of quiet intensity. Every stone feels significa
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]]                      | Halfling     | Male       | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Matreous\|Matreous]]                                          | Human        | Male       | Professor of Chaos |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]]                          | Owlin        | Male       | Professor of Chaos |
-| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf        | Male       | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Hazkira Ravenfang\|Hazkira Ravenfang]]                        | Halfling     | Female     | Professor of Order |
+| [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]]                          | Dwarf        | Male       | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]          | Giant        | Male       | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin        | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome        | Female     | Professor of Order |
@@ -49,8 +49,8 @@ The campus carries an atmosphere of quiet intensity. Every stone feels significa
 | [[2-World/People/Neverwood Academy/Students/1506/Garrik Stormfang\|Garrik Stormfang]]                           | Orc          | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]                               | Dwarf        | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]                             | Eladrin      | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]                               | Goliath      | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1506/Milo Quickbranch\|Milo Quickbranch]]                           | Halfling     | Male       | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]                               | Goliath      | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]                             | Earth Genasi | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg      | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome        | Male       | Student            |

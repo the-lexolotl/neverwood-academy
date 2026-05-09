@@ -155,8 +155,8 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 | File                                                  |
 | ----------------------------------------------------- |
 | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]] |
-| [[2-World/Regions/The North\|The North]]           |
 | [[2-World/Regions/Sword Coast\|Sword Coast]]       |
+| [[2-World/Regions/The North\|The North]]           |
 | [[2-World/Regions/Sea of Swords\|Sea of Swords]]   |
 
 { .block-language-dataview}
