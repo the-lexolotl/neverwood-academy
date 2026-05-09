@@ -13,13 +13,14 @@
     "Group Cup Challenge",
     "House Rules",
     "Player Characters",
-    "Safety Tools"
+    "Safety Tools",
+    "Homebrew Mechanics"
   ],
   "/Party": [
     "Eremis Varr",
     "Ferbinious Refubical",
     "Harry Blackstone",
-    "Her",
+    "H'er",
     "Lyra Everlight",
     "Milfjord Goodleaf",
     "Redrnic Udertaken",
@@ -41,8 +42,8 @@
     "Year 1",
     "Year 2"
   ],
-  "/Party/Her": [
-    "Her",
+  "/Party/H'er": [
+    "H'er",
     "Year 1",
     "Year 2"
   ],
@@ -330,7 +331,11 @@
     "Neverwinter",
     "Neverwood Academy",
     "The Malatran Plateau",
-    "Xvart Village"
+    "Xvart Village",
+    "Baldur’s Gate",
+    "Phandalin",
+    "Stormwreck Isle",
+    "Waterdeep"
   ],
   "/World/People": [
     "Neverwinter",
@@ -386,7 +391,8 @@
     "Pythia",
     "Ricard Ruanad",
     "Taiva Loreweaver",
-    "Zoei"
+    "Zoei",
+    "Brindlewick Cogspindle"
   ],
   "/World/People/Neverwood Academy/Staff/Automatons": [
     "Brik-E",
@@ -501,7 +507,41 @@
     "Infernal Houndfist",
     "Jimmy Pyre",
     "Lupus Thunderpelt",
-    "Torin Grimwhisper"
+    "Torin Grimwhisper",
+    "Ariella Nightgale",
+    "Bramble Quickthorn",
+    "Cassian Veyne",
+    "Dain Callister",
+    "Elric Duskvale",
+    "Ezekiel Ironbrand",
+    "Fenwick Bristlebrook",
+    "Garrik Stormfang",
+    "Ignatius Burnscar",
+    "Izzik Brightspark",
+    "Jasper Fairweather",
+    "Korrin Ironjaw",
+    "Lazareth Hollowvein",
+    "Lirien Emberlace",
+    "Lumia Starbloom",
+    "Milo Quickbranch",
+    "Mira Wintersky",
+    "Nerissa Deepbrook",
+    "Nyx Veldrith",
+    "Oona Mistfeather",
+    "Orin Blackstone",
+    "Quentin Rooke",
+    "Rowan Greengale",
+    "Sable Darkroot",
+    "Sariah Moonshadow",
+    "Selka Tideborn",
+    "Solin Duskwind",
+    "Tasha Voidsong",
+    "Tobin Nettlewick",
+    "Vesra Thornwhisper",
+    "Vexaroth Drathis",
+    "Viala Gravesend",
+    "Zinnia Brightpetal",
+    "Zyrelis Starweaver"
   ],
   "/World/People/Neverwood Academy/Students/1507": [
     "Adriel Kevadirtinu",
@@ -665,13 +705,18 @@
     "Wiltroot Hall"
   ],
   "/World/Realms": [
-    "Prime Material plane"
+    "Prime Material plane",
+    "Astral Plane",
+    "Feywild",
+    "Pocket Dimensions",
+    "The Underdark"
   ],
   "/World/Regions": [
     "Delimbiyr Vale",
     "Malatra",
     "Sword Coast",
-    "The North"
+    "The North",
+    "Sea of Swords"
   ],
   "/World/Star Systems": [
     "Realmspace",
