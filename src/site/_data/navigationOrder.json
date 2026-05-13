@@ -14,7 +14,8 @@
     "House Rules",
     "Player Characters",
     "Safety Tools",
-    "Homebrew Mechanics"
+    "Homebrew Mechanics",
+    "0-Scratch Notes"
   ],
   "/Party": [
     "Eremis Varr",
@@ -164,7 +165,9 @@
     "2026-04-11 - Session 36",
     "2026-04-18 - Session 37",
     "2026-04-25 - Session 38",
-    "End of Year Summary 1508-1509"
+    "End of Year Summary 1508-1509",
+    "2026-05-02 - Session 39",
+    "2026-05-09 - Session 40"
   ],
   "/Player Handouts": [
     "Academic Information",
@@ -183,8 +186,8 @@
     "Student Jobs"
   ],
   "/Player Handouts/Academic Information/Extracurricular Clubs": [
-    "Extracurriculars List",
-    "Starting a Student Society"
+    "Starting a Student Society",
+    "Extracurriculars & Guilds"
   ],
   "/Player Handouts/Academic Information/Course Options": [
     "First Year Courses",
@@ -270,7 +273,8 @@
     "Folly Guides",
     "Grifft",
     "Owlbear Books",
-    "Whalebucks Coffee Co."
+    "Whalebucks Coffee Co.",
+    "The Kindled Mind Project"
   ],
   "/World/Continents": [
     "Faerûn",
@@ -284,7 +288,9 @@
     "The Hellhound Gang",
     "The Silent Equation",
     "Wintershield Watchmen",
-    "Neverwood Guilds"
+    "Neverwood Guilds",
+    "Arcane Council",
+    "Lords' Alliance"
   ],
   "/World/Groups/Academic Cohorts": [
     "Cohort of 1309",
@@ -335,7 +341,13 @@
     "Baldur’s Gate",
     "Phandalin",
     "Stormwreck Isle",
-    "Waterdeep"
+    "Waterdeep",
+    "Citadel Adbar",
+    "Luskan",
+    "Mintarn",
+    "Mithral Hall",
+    "Moonshae Isles",
+    "Morgrave University"
   ],
   "/World/People": [
     "Neverwinter",
@@ -611,7 +623,9 @@
     "Murgaxor",
     "Unspecified",
     "Up the Beanstalk",
-    "Whalebucks"
+    "Whalebucks",
+    "Halvrix Solthane",
+    "Maris Velloran"
   ],
   "/World/People/Other/Family": [
     "Adalynn Blackstone",
@@ -660,7 +674,8 @@
   ],
   "/World/Planets": [
     "Toril",
-    "Oerth"
+    "Oerth",
+    "Eberron"
   ],
   "/World/Points of Interest": [
     "Neverwinter",
@@ -709,14 +724,20 @@
     "Astral Plane",
     "Feywild",
     "Pocket Dimensions",
-    "The Underdark"
+    "The Underdark",
+    "Domains of Dread",
+    "Eberron Material Plane",
+    "Ethereal Plane",
+    "Shadowfell"
   ],
   "/World/Regions": [
     "Delimbiyr Vale",
     "Malatra",
     "Sword Coast",
     "The North",
-    "Sea of Swords"
+    "Sea of Swords",
+    "Ravenloft",
+    "Trackless Sea"
   ],
   "/World/Star Systems": [
     "Realmspace",
@@ -750,5 +771,8 @@
   ],
   "/Mechanics/Other": [
     "Alcohol and Intoxicants"
+  ],
+  "/0-Scratch Notes": [
+    "pages"
   ]
 }
