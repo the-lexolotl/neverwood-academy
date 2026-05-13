@@ -53,7 +53,7 @@ The Sword Coast’s cities and roads remain vibrant crossroads of peoples and cu
 | -------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Humans**                 | Widespread             | Found in every city and hamlet; most speak **Chondathan**, the regional tongue.                               |
 | **Elves & Half-Elves**     | Common                 | Many trace their roots to ancient **Illefarn**; some dwell in Ardeep Forest or among humans in [[2-World/Hubs/Waterdeep\|Waterdeep]].     |
-| **Dwarves**                | Common                 | Especially shield and gold dwarves from **Mithral Hall**, **Citadel Adbar**, and **Gauntlgrym** in the North. |
+| **Dwarves**                | Common                 | Especially shield and gold dwarves from **[[2-World/Hubs/Mithral Hall\|Mithral Hall]]**, **[[2-World/Hubs/Citadel Adbar\|Citadel Adbar]]**, and **Gauntlgrym** in the North. |
 | **Halflings**              | Frequent               | Peaceful travelers and innkeepers found along every trade route.                                              |
 | **Gnomes**                 | Uncommon               | Skilled artisans and scholars, often hailing from **Lantan** or isolated enclaves.                            |
 | **Tieflings & Dragonborn** | Growing                | Once rare, now accepted in cosmopolitan cities such as [[2-World/Hubs/Waterdeep\|Waterdeep]] and [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]].                           |
@@ -65,12 +65,12 @@ Other peoples — including genasi, aasimar, tabaxi, and yuan-ti — can be enco
 The Sword Coast is **not a nation**, but a patchwork of free cities, realms, and alliances bound by trade and necessity. Merchant caravans and ships connect [[2-World/Hubs/Waterdeep\|Waterdeep]] and [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] to the interior, while adventurers and mercenaries roam freely between.
 
 ## Major Powers
-* **The Lords’ Alliance** – A coalition of city-states including **[[2-World/Hubs/Waterdeep\|Waterdeep]]**, **[[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]]**, [[2-World/Hubs/Daggerford\|Daggerford]], and several cities of **[[2-World/Regions/The North\|The North]]** (such as [[2-World/Hubs/Neverwinter\|Neverwinter]]). It promotes mutual defence, peace, and prosperity.
+* **The [[2-World/Groups/Lords' Alliance\|Lords' Alliance]]** – A coalition of city-states including **[[2-World/Hubs/Waterdeep\|Waterdeep]]**, **[[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]]**, [[2-World/Hubs/Daggerford\|Daggerford]], and several cities of **[[2-World/Regions/The North\|The North]]** (such as [[2-World/Hubs/Neverwinter\|Neverwinter]]). It promotes mutual defence, peace, and prosperity.
 * **The Harpers** – A semi-secret network of spies and idealists dedicated to balance and the opposition of tyranny.
 * **The Zhentarim** – A mercantile and paramilitary organization seeking power through wealth and subterfuge.
 * **The Xanathar Guild** – A criminal network based in Skullport beneath [[2-World/Hubs/Waterdeep\|Waterdeep]], led by the paranoid beholder **Xanathar**.
 * **The Cult of the Dragon** – Worshipers and manipulators of dragons and dracoliches, whose influence waxes and wanes through the ages.
-* **Najara** – Though not an official power within the Lords’ Alliance, this serpent realm’s ambitions threaten the region’s balance.
+* **Najara** – Though not an official power within the [[2-World/Groups/Lords' Alliance\|Lords' Alliance]], this serpent realm’s ambitions threaten the region’s balance.
 
 # History
 ## The Dawn Ages
@@ -107,8 +107,9 @@ Today, in the early **1500s DR**, the Sword Coast stands as a beacon of commerce
 { .block-language-dataview}
 
 # Groups
-| File | Category |
-| ---- | -------- |
+| File                                                   | Category                      |
+| ------------------------------------------------------ | ----------------------------- |
+| [[2-World/Groups/Lords' Alliance\|Lords' Alliance]] | Political & Military Alliance |
 
 { .block-language-dataview}
 

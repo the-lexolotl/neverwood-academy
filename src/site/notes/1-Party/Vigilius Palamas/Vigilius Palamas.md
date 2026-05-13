@@ -1,5 +1,5 @@
 ---
-{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":5,"coin_gp":192,"coin_ep":4,"coin_sp":135,"coin_cp":97,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":3,"hp":18,"max_hp":18,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor](/img/user/2-Quests/The%20Missing%20Professor.md)","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":5,"coin_gp":192,"coin_ep":4,"coin_sp":135,"coin_cp":97,"groupCup":"[[Group Cup Challenge|Group 3]]"}}
+{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":4,"hp":23,"max_hp":23,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":2,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":5,"coin_gp":315,"coin_ep":4,"coin_sp":138,"coin_cp":100,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Vigilius Palamas/Vigilius Palamas.md","permalink":"/party/vigilius-palamas/vigilius-palamas/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Kristy","Vigilius"],"tags":["Category/Player"],"Player":"Kristy","Role":"Player","char_role":"Player","image":"Kristy.png","level":4,"hp":23,"max_hp":23,"ac":15,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Draconic","Primordial"],"char_race":"Dragonborn","char_class":"Monk","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor](/img/user/2-Quests/The%20Missing%20Professor.md)","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Price of Integrity|The Price of Integrity]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]","[[Dragonsguard Historical Society|Dragonsguard Historical Society]]"],"parents":["Corven Palamas","Elara Palamas"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":["Kabo Palamas","Eliania Palamas"],"obsidianUIMode":"preview","char_college":"Quandrix","subclass":["Warrior of Mercy"],"speed_walk":"40 ft","speed_fly":null,"speed_swim":"20 ft","speed_climb":"20 ft","jump_stand_long":"6 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":2,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":5,"coin_gp":315,"coin_ep":4,"coin_sp":138,"coin_cp":100,"groupCup":"[[Group Cup Challenge|Group 3]]"}}
 ---
 
 
@@ -11,22 +11,22 @@
 > ---|---|---|---|
 > **Race** | Dragonborn | **Gender** | Male |
 > **Class** | Monk | **Subclass** | Warrior of Mercy | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Common Sign Language,Draconic,Primordial 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Quandrix | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 3]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Jazzack Quickfoot\|Jazzack Quickfoot]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Renald Rothton\|Renald Rothton]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 18 | **Passive Perception** | 13 |
-> **AC** | 15 | **Passive Insight** | 16 |
+> **Max HP** | 23 | **Passive Perception** | 13 |
+> **AC** | 15 | **Passive Insight** | 15 |
 > **Initiative** | 2 | **Passive Investigation** | 9 |
 > **Proficiency** | 2 | **Darkvision** | 60 ft |
 > ###### Movement
@@ -67,7 +67,7 @@ Looking ahead, Vigilius no longer seeks answers buried in the past, but purpose 
 
 |              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
-|    Score     |    13    |    15     |      10      |      8       |   17   |    12    |
+|    Score     |    13    |    15     |      11      |      8       |   17   |    12    |
 | Ability Mod  |    +1    |    +2     |      +0      |      -1      |   +3   |    +1    |
 | Saving Throw |   ● +3   |   ● +4    |      +0      |      -1      |   +3   |    +1    |
 
@@ -97,7 +97,7 @@ Looking ahead, Vigilius no longer seeks answers buried in the past, but purpose 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +3        |        -1        |  0   |     +1     |
+|        +2        |        +3        |        -1        |  0   |     +1     |
 #### Boons 
 **Applied Learning:** You start each exam with one reroll available.
 
@@ -114,7 +114,7 @@ Looking ahead, Vigilius no longer seeks answers buried in the past, but purpose 
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 5 | 192 | 4 | 135 | 97 |
+| 5 | 315 | 4 | 138 | 100 |
 ### Items
 > [!example]- Equipment (25)
 > [[3-Mechanics/CLI/items/potion-of-pugilism-xdmg\|Potion of Pugilism]]
@@ -152,7 +152,7 @@ Looking ahead, Vigilius no longer seeks answers buried in the past, but purpose 
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]],[[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Price of Integrity\|The Price of Integrity]],[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk\|Up the Beanstalk]],[[2-Quests/The Restoration of Kollema Hall\|The Restoration of Kollema Hall]],[[2-Quests/The Pub That Crawls\|The Pub That Crawls]],[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 

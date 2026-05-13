@@ -16,7 +16,7 @@
 # Description
 Pocket dimensions are small extradimensional spaces created through powerful magic, planar manipulation, or naturally occurring arcane phenomena. Unlike true planes of existence such as the [[2-World/Realms/Astral Plane\|Astral Plane]] or the [[2-World/Realms/Feywild\|Feywild]], pocket dimensions are usually artificial spaces formed within or between the boundaries of larger planes.
 These spaces are commonly used for magical storage, hidden sanctuaries, secure vaults, transportation, or private demiplanes. Some are temporary and unstable, while others endure for centuries as fully developed miniature worlds.
-Well-known examples include **[[Fistandia’s Mansion\|Fistandia’s Mansion]]**, the extradimensional spaces created by **Mordenkainen’s Magnificent Mansion**, and the storage realms contained within **Bags of Holding** and **Portable Holes**.
+Well-known examples include **[[Fistandria’s Mansion\|Fistandria’s Mansion]]**, the extradimensional spaces created by **Mordenkainen’s Magnificent Mansion**, and the storage realms contained within **Bags of Holding** and **Portable Holes**.
 
 ## Overview
 Pocket dimensions vary enormously in size and complexity. Some consist of little more than a cramped magical container, while others contain fully furnished mansions, ecosystems, or settlements.
@@ -90,8 +90,8 @@ Powerful spellcasters sometimes create personal demiplanes as laboratories, sanc
 ## Variations by World
 Different worlds and magical traditions create pocket dimensions in different ways.
 In [[2-World/Continents/Faerûn\|Faerûn]], extradimensional spaces are commonly associated with Netherese magic, powerful wizards, and magical items.
-On [[Eberron\|Eberron]], artificers and dragonmarked houses sometimes use advanced arcane engineering to create secure extradimensional vaults.
-Within [[Ravenloft\|Ravenloft]], pocket dimensions may become twisted prison realms shaped by fear, curses, or dark powers.
+On [[2-World/Planets/Eberron\|Eberron]], artificers and dragonmarked houses sometimes use advanced arcane engineering to create secure extradimensional vaults.
+Within [[2-World/Regions/Ravenloft\|Ravenloft]], pocket dimensions may become twisted prison realms shaped by fear, curses, or dark powers.
 Some worlds treat extradimensional magic as rare and dangerous, while others incorporate it into everyday magical practice.
 
 ## Planar Travel

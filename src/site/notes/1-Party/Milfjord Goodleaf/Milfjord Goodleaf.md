@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":3,"hp":27,"max_hp":27,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"allies":["[[Althea Nightshade](/img/user/2-Quests/Whos%20goo.md)","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":1,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":0,"coin_gp":173,"coin_ep":1,"coin_sp":30,"coin_cp":7,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/milfjord-goodleaf/milfjord-goodleaf/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":3,"hp":27,"max_hp":27,"ac":13,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":1,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":0,"coin_gp":173,"coin_ep":1,"coin_sp":30,"coin_cp":7,"groupCup":"[[Group Cup Challenge|Group 2]]"}}
+{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":4,"hp":35,"max_hp":35,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"allies":["[[Althea Nightshade](/img/user/2-Quests/Whos%20goo.md)","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":2,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":0,"coin_gp":296,"coin_ep":1,"coin_sp":33,"coin_cp":10,"groupCup":"[[Group Cup Challenge|Group 2]]","dg-path":"Party/Milfjord Goodleaf/Milfjord Goodleaf.md","permalink":"/party/milfjord-goodleaf/milfjord-goodleaf/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Theo","Milfjord"],"tags":["Category/Player"],"Player":"Theo","Role":"Player","level":4,"hp":35,"max_hp":35,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Druidic","Dwarvish","Goblin","Halfling"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Halfling","char_class":"Druid","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]","[[Fantastical Horticulture Club|Fantastical Horticulture Club]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Theo.png","char_role":"Player","char_college":"Witherbloom","allies":["[[Althea Nightshade]]","[[Ivy Drake]]"],"pets":["Mossy"],"subclass":["Circle of Spores"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":11,"pasinvest":12,"darkvis":null,"school_year":2,"prof":1,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":0,"coin_gp":296,"coin_ep":1,"coin_sp":33,"coin_cp":10,"groupCup":"[[Group Cup Challenge|Group 2]]"}}
 ---
 
 > [!infobox|left]+
@@ -10,22 +10,22 @@
 > ---|---|---|---|
 > **Race** | Halfling | **Gender** | Male |
 > **Class** | Druid | **Subclass** | Circle of Spores | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Druidic,Dwarvish,Goblin,Halfling 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Witherbloom | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 2]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Kojil the Tamer\|Kojil the Tamer]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 27 | **Passive Perception** | 11 |
-> **AC** | 13 | **Passive Insight** | 11 |
+> **Max HP** | 35 | **Passive Perception** | 11 |
+> **AC** | 11 | **Passive Insight** | 11 |
 > **Initiative** | 1 | **Passive Investigation** | 12 |
 > **Proficiency** | 1 | **Darkvision** | None |
 > ###### Movement
@@ -67,7 +67,7 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 
 |              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
-|    Score     |    8     |    13     |      16      |      14      |   13   |    11    |
+|    Score     |    8     |    13     |      17      |      14      |   13   |    11    |
 | Ability Mod  |    -1    |    +1     |      +3      |      +2      |   +1   |    +0    |
 | Saving Throw |    -1    |    +1     |      +3      |     ● +4     |  ● +3  |    +0    |
 
@@ -94,7 +94,10 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        0         |        +2        |        +2        |  0   |     +1     |
+|        -1        |        +2        |        +3        |  0   |     +1     |
+#### Boons 
+**Extracurriculars:** Your student die from Extracurriculars is now a d8. Gain one additional student dice each week.
+
 # Student Dice
 ### Extracurricular - Once per tenday
 - [ ] 
@@ -108,7 +111,7 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | 173 | 1 | 30 | 7 |
+| `= this.coin_pp` | 296 | 1 | 33 | 10 |
 ### Items
 > [!example]- Equipment (23)
 > [[3-Mechanics/CLI/items/staff-of-fire-xdmg\|Staff of Fire]] (Modified, no recharge)
@@ -153,9 +156,9 @@ Milfjord dreams of returning home one day as a community leader, guiding others 
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]],[[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]
 
-**Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]
+**Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 
 # Relationships
 **Pets:** Mossy

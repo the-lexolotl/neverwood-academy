@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye.md|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Socks](/img/user/2-Quests/The%20Missing%20Professor.md)"],"grandparents":["[[Reynard Blackstone]]"],"subclass":["Order of Scribes"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":13,"pasinvest":17,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":5,"coin_gp":29,"coin_ep":4,"coin_sp":0,"coin_cp":94,"groupCup":"[[Group Cup Challenge|Group 1]]","dg-path":"Party/Harry Blackstone/Harry Blackstone.md","permalink":"/party/harry-blackstone/harry-blackstone/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree.md|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk.md|Up the Beanstalk]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye.md|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","pets":["[[Socks]]"],"grandparents":["[[Reynard Blackstone]]"],"subclass":["Order of Scribes"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":13,"pasinvest":17,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":5,"coin_gp":29,"coin_ep":4,"coin_sp":0,"coin_cp":94,"groupCup":"[[Group Cup Challenge|Group 1]]"}}
+{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":4,"hp":26,"max_hp":26,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Socks](/img/user/2-Quests/The%20Missing%20Professor.md)"],"grandparents":["[[Reynard Blackstone]]"],"subclass":["Order of Scribes"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":13,"pasinvest":17,"darkvis":null,"school_year":3,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":5,"coin_gp":152,"coin_ep":4,"coin_sp":3,"coin_cp":97,"groupCup":"[[Group Cup Challenge|Group 1]]","dg-path":"Party/Harry Blackstone/Harry Blackstone.md","permalink":"/party/harry-blackstone/harry-blackstone/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Ross","Harry"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":4,"hp":26,"max_hp":26,"ac":11,"modifier":1,"pasperc":11,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Human","char_class":"Wizard","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[Sigma Mail|Sigma Mail]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]","[[Neverwood Times|Neverwood Times]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Cadoras Damellawar]]"],"siblings":["[[Adalynn Blackstone]]"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ross.png","char_role":"Player","char_college":"Quandrix","pets":["[[Socks]]"],"grandparents":["[[Reynard Blackstone]]"],"subclass":["Order of Scribes"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":13,"pasinvest":17,"darkvis":null,"school_year":3,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":5,"coin_gp":152,"coin_ep":4,"coin_sp":3,"coin_cp":97,"groupCup":"[[Group Cup Challenge|Group 1]]"}}
 ---
 
 
@@ -11,21 +11,21 @@
 > ---|---|---|---|
 > **Race** | Human | **Gender** | Male |
 > **Class** | Wizard | **Subclass** | Order of Scribes | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Common Sign Language 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Quandrix | 
-> **Academic Year** | 1 |
+> **Academic Year** | 3 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 1]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Adrix\|Adrix]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Quandrix/Nev\|Nev]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 20 | **Passive Perception** | 11 |
+> **Max HP** | 26 | **Passive Perception** | 11 |
 > **AC** | 11 | **Passive Insight** | 13 |
 > **Initiative** | 1 | **Passive Investigation** | 17 |
 > **Proficiency** | 2 | **Darkvision** | None |
@@ -70,21 +70,21 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 |              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
-|    Score     |    8     |    13     |      14      |      17      |   12   |    13    |
-| Ability Mod  |    -1    |    +1     |      +2      |      +3      |   +1   |    +1    |
-| Saving Throw |    -1    |    +1     |      +2      |     ● +5     |  ● +3  |    +1    |
+|    Score     |    8     |    13     |      14      |      18      |   12   |    13    |
+| Ability Mod  |    -1    |    +1     |      +2      |      +4      |   +1   |    +1    |
+| Saving Throw |    -1    |    +1     |      +2      |     ● +6     |  ● +3  |    +1    |
 
 |     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
 | --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
 | ○   | Dex | Acrobatics      | +1    |     | ○   | Wis | Medicine       | +1    |
-| ○   | Wis | Animal Handling | +1    |     | ●   | Int | Nature         | +5    |
-| ●   | Int | Arcana          | +5    |     | ○   | Wis | Perception     | +1    |
+| ○   | Wis | Animal Handling | +1    |     | ●   | Int | Nature         | +6    |
+| ●   | Int | Arcana          | +6    |     | ○   | Wis | Perception     | +1    |
 | ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +1    |
 | ○   | Cha | Deception       | +1    |     | ○   | Cha | Persuasion     | +1    |
-| ○   | Int | History         | +3    |     | ○   | Int | Religion       | +3    |
+| ○   | Int | History         | +4    |     | ○   | Int | Religion       | +4    |
 | ●   | Wis | Insight         | +3    |     | ○   | Dex | Slight of Hand | +1    |
 | ○   | Cha | Intimidation    | +1    |     | ●   | Dex | Stealth        | +3    |
-| ★   | Int | Investigation   | +7    |     | ○   | Wis | Survival       | +1    |
+| ★   | Int | Investigation   | +8    |     | ○   | Wis | Survival       | +1    |
 ## Other Skills/Proficiencies 
 - Simple Weapons 
 - Alchemist's Supplies 
@@ -95,7 +95,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 |:----------------:|:----------------:|:----------------:|:----:|:----------:|
-|        +3        |        +3        |        0         |  +1  |     -3     |
+|        +3        |        +3        |        0         |  +2  |     -3     |
 
 #### Boons 
 **Studied Learning:** You are devoted to studying and doing homework assignments. You may opt to work on one homework assignment between classes.
@@ -117,7 +117,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 5 | 29 | 4 | `= this.coin_sp` | 94 |
+| 5 | 152 | 4 | 3 | 97 |
 ### Items
 > [!example]- Equipment (25)
 > Potion of Gaseous Form
@@ -157,9 +157,9 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 # Connections
 
-**Quests:** [[2-Quests/Whos goo\|Whos goo]], [[2-Quests/The Missing Professor\|The Missing Professor]], [[2-Quests/Heist the Records Room\|Heist the Records Room]], [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]], [[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]], [[2-Quests/Sigma Mail\|Sigma Mail]], [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]], [[2-Quests/Up the Beanstalk\|Up the Beanstalk]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Quandrix College\|Quandrix College]],[[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]], [[Group 2\|Group 2]], [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]
+**Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/Sigma Mail\|Sigma Mail]],[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk\|Up the Beanstalk]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]],[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 
 
 # Relationships

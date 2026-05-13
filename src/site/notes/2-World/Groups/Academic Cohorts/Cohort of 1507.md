@@ -39,13 +39,13 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                   | Non-binary | Orc          | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                                 | Female     | Owlin        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                           | Male       | Triton       | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                     | Female     | Halfling     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                         | Male       | Minotaur     | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                     | Female     | Halfling     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Female     | Loxodon      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male       | Gnome        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                   | Female     | Satyr        | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male       | Human        | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                           | Male       | Human        | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male       | Human        | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Female     | Human        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                               | Male       | Tiefling     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                           | Female     | Half-Elf     | Student | Lorehold    |

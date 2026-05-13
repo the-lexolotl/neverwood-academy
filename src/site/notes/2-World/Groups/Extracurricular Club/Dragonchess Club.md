@@ -29,12 +29,12 @@ Dedication and patience are highly valued, as mastery of Dragonchess is consider
 The following people are members of this group.  
 | File                                                                                         | Gender | Race     | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ------ | -------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1506/Quentin Rooke\|Quentin Rooke]]           | Male   | Human    | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Zyrelis Starweaver\|Zyrelis Starweaver]] | MtF    | Aasimar  | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]       | Female | Reborn   | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]             | Male   | Aasimar  | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]         | Male   | Tiefling | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]     | Female | Half-Elf | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1506/Quentin Rooke\|Quentin Rooke]]           | Male   | Human    | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Zyrelis Starweaver\|Zyrelis Starweaver]] | MtF    | Aasimar  | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]       | Female | Reborn   | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]   | Female | Hexblood | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]] | Female | Reborn   | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Tilana Kapule\|Tilana Kapule]]           | Female | Human    | Student | Quandrix    |

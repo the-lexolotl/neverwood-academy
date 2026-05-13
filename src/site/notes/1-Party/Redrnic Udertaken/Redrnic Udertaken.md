@@ -1,5 +1,5 @@
 ---
-{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Pub That Crawls]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":0,"coin_gp":52,"coin_ep":0,"coin_sp":35,"coin_cp":20,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-Quests/The%20Pub%20That%20Crawls.md)","dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Pub That Crawls]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","level":3,"char_race":"Minotaur","char_college":"Lorehold","school_year":1,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":31,"max_hp":31,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":0,"coin_gp":52,"coin_ep":0,"coin_sp":35,"coin_cp":20,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-Quests/The%20Pub%20That%20Crawls.md)"}}
+{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Pub That Crawls]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-pinned":true,"level":4,"char_race":"Minotaur","char_college":"Lorehold","school_year":2,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":39,"max_hp":39,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":0,"coin_gp":175,"coin_ep":0,"coin_sp":38,"coin_cp":23,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-Quests/The%20Pub%20That%20Crawls.md)","dg-path":"Party/Redrnic Udertaken/Redrnic Udertaken.md","permalink":"/party/redrnic-udertaken/redrnic-udertaken/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Redrnic","Red"],"tags":["Category/Player"],"Player":"Cameron","Role":"Player","Status":"Active","PlayerKnownLanguages":["Common","Goblin"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Pub That Crawls]]","[[Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Redrnic 1.png","level":4,"char_race":"Minotaur","char_college":"Lorehold","school_year":2,"char_class":["Barbarian","Blood Hunter"],"subclass":null,"ac":12,"hp":39,"max_hp":39,"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8.5 ft","jump_run_long":"17 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasperc":9,"pasinvest":11,"pasinsight":9,"darkvis":null,"prof":2,"modifier":0,"carry_cap":"255 lbs","push_cap":"510 lbs","coin_pp":0,"coin_gp":175,"coin_ep":0,"coin_sp":38,"coin_cp":23,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-Quests/The%20Pub%20That%20Crawls.md)"}}
 ---
 
 
@@ -11,21 +11,21 @@
 > ---|---|---|---|
 > **Race** | Minotaur | **Gender** | Male |
 > **Class** | Barbarian,Blood Hunter | **Subclass** | `= this.subclass` | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Goblin 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Lorehold | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 2]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Tervis Sharpwing\|Tervis Sharpwing]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 31 | **Passive Perception** | 9 |
+> **Max HP** | 39 | **Passive Perception** | 9 |
 > **AC** | 12 | **Passive Insight** | 9 |
 > **Initiative** | `= this.modifier` | **Passive Investigation** | 11 |
 > **Proficiency** | 2 | **Darkvision** | None |
@@ -74,6 +74,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | Ability Mod  |    +3    |    +0     |      +2      |      +1      |   -1   |    +1    |
 | Saving Throw |   ● +5   |    +0     |     ● +4     |      +1      |   -1   |    +1    |
 
+*Advantage on STR while Rage is active.*
 *Advantage on DEX unless Incapacitated.*
 
 |      | Mod | Skill           | Bonus |     |      | Mod | Skill          | Bonus |
@@ -81,7 +82,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 | ○    | Dex | Acrobatics      | +0    |     | ●    | Wis | Medicine       | +1    |
 | ○    | Wis | Animal Handling | -1    |     | ●(A) | Int | Nature         | +3    |
 | ○(A) | Int | Arcana          | +1    |     | ○    | Wis | Perception     | -1    |
-| ●    | Str | Athletics       | +5    |     | ○    | Cha | Performance    | +1    |
+| ●(A) | Str | Athletics       | +5    |     | ○    | Cha | Performance    | +1    |
 | ○    | Cha | Deception       | +1    |     | ○    | Cha | Persuasion     | +1    |
 | ○(A) | Int | History         | +1    |     | ●(A) | Int | Religion       | +1    |
 | ○    | Wis | Insight         | -1    |     | ○    | Dex | Slight of Hand | +0    |
@@ -101,7 +102,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        3         |        -1        |  0   |     3      |
+|        -1        |        3         |        -1        |  0   |     4      |
 #### Boons
 **Applied Learning:** You start each exam with one reroll available.
 
@@ -120,7 +121,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | 52 | `= this.coin_ep` | 35 | 20 |
+| `= this.coin_pp` | 175 | `= this.coin_ep` | 38 | 23 |
 ### Items
 > [!example]- Equipment (16)
 > [[3-Mechanics/CLI/items/bullseye-lantern-xphb\|Bullseye Lantern]]
@@ -152,7 +153,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]],[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 

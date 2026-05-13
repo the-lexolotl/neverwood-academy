@@ -53,7 +53,7 @@ Though called a “duchy,” Daggerford rules over only a handful of small settl
 | -------------------------- | -------- | ----------------------------------------------------------------------- |
 | **Humans**                 | Dominant | Mostly Chondathan and Illuskan; farmers, traders, and soldiers.         |
 | **Halflings**              | Common   | Many live along the riverbanks and work as ferrymen and brewers.        |
-| **Dwarves**                | Common   | Traders and masons from **[[Mithral Hall\|Mithral Hall]]** and **[[Citadel Adbar\|Citadel Adbar]]**. |
+| **Dwarves**                | Common   | Traders and masons from **[[2-World/Hubs/Mithral Hall\|Mithral Hall]]** and **[[2-World/Hubs/Citadel Adbar\|Citadel Adbar]]**. |
 | **Elves & Half-Elves**     | Uncommon | Some remain from the old Illefarn lineages in **Ardeep Forest**.        |
 | **Gnomes**                 | Uncommon | Tinkerers and miners in the Shining Hills.                              |
 | **Tieflings & Dragonborn** | Rare     | Usually adventurers passing through or serving as guards.               |
@@ -62,11 +62,11 @@ Though called a “duchy,” Daggerford rules over only a handful of small settl
 # Culture and Politics
 Though small, Daggerford is a proud and independent realm with a strong sense of civic identity. Its people value hard work, honesty, and community. Festivals, open markets, and public feasts are common, reflecting both its agricultural roots and its strategic role on the Trade Way.
 
-The duchy is governed from **Daggerford Castle** by **Duke Morwen Daggerford**, advised by a small council of elders, priests, and guild leaders. While loyal to **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and the **[[Lords’ Alliance\|Lords’ Alliance]]**, Daggerford maintains its own guard, laws, and militia. Adventurers are welcomed — sometimes even deputized — to aid against trolls, bandits, and the occasional dragon sighting.
+The duchy is governed from **Daggerford Castle** by **Duke Morwen Daggerford**, advised by a small council of elders, priests, and guild leaders. While loyal to **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and the **[[2-World/Groups/Lords' Alliance\|Lords' Alliance]]**, Daggerford maintains its own guard, laws, and militia. Adventurers are welcomed — sometimes even deputized — to aid against trolls, bandits, and the occasional dragon sighting.
 
 ## Major Powers
 * **House Daggerford** – The ruling noble line, tracing its heritage back to the founding of the town.
-* **The Lords’ Alliance** – Daggerford is a junior member, often receiving aid and trade protection from [[2-World/Hubs/Waterdeep\|Waterdeep]].
+* **The [[2-World/Groups/Lords' Alliance\|Lords' Alliance]]** – Daggerford is a junior member, often receiving aid and trade protection from [[2-World/Hubs/Waterdeep\|Waterdeep]].
 * **The Church of Chauntea** – The most prominent faith in the duchy, blessing the harvest and guiding local farmers.
 * **The Order of the Silver Gauntlet** – A small group of knights sworn to defend the duchy and the [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]].
 * **The Harpers** – Maintain quiet watch over the region, opposing corruption and tyranny.

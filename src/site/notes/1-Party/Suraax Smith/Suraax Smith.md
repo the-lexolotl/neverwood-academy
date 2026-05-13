@@ -1,5 +1,5 @@
 ---
-{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[Cohort of 1508]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[Secrets in Sedgemoor]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":0,"coin_gp":43,"coin_ep":0,"coin_sp":7,"coin_cp":32,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-World/Groups/Academic%20Cohorts/Cohort%20of%201508.md)","dg-path":"Party/Suraax Smith/Suraax Smith.md","permalink":"/party/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":3,"hp":25,"max_hp":25,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[Cohort of 1508]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[Secrets in Sedgemoor]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":0,"coin_gp":43,"coin_ep":0,"coin_sp":7,"coin_cp":32,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-World/Groups/Academic%20Cohorts/Cohort%20of%201508.md)"}}
+{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":4,"hp":32,"max_hp":32,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[Secrets in Sedgemoor]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":2,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":0,"coin_gp":43,"coin_ep":0,"coin_sp":7,"coin_cp":32,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-World/Groups/Academic%20Cohorts/Cohort%20of%201508.md)","dg-path":"Party/Suraax Smith/Suraax Smith.md","permalink":"/party/suraax-smith/suraax-smith/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Suraax \"Axe\" Smith","Suraax"],"tags":["Category/Player"],"Player":"Ross","Role":"Player","level":4,"hp":32,"max_hp":32,"ac":16,"modifier":0,"pasperc":11,"Status":"Inactive","PlayerKnownLanguages":["Common","Draconic"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_role":"Player","char_college":"Lorehold","char_race":"Dragonborn","char_class":"Paladin","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Groups":["[Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]","[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]"],"Connected_Quests":["[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[Secrets in Sedgemoor]]"],"parents":["Chicxulub Smith","Karaax Smith"],"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"pets":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Suraax Smith.png","subclass":["Oath of Glory"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"8 ft","jump_run_long":"16 ft","jump_stand_high":"3 ft","jump_run_high":"6 ft","pasinsight":11,"pasinvest":9,"darkvis":"60 ft","school_year":2,"prof":2,"carry_cap":"240 lbs","push_cap":"480 lbs","coin_pp":0,"coin_gp":43,"coin_ep":0,"coin_sp":7,"coin_cp":32,"groupCup":"[[Group Cup Challenge|Group 2](/img/user/2-World/Groups/Academic%20Cohorts/Cohort%20of%201508.md)"}}
 ---
 
 
@@ -11,21 +11,21 @@
 > ---|---|---|---|
 > **Race** | Dragonborn | **Gender** | Female |
 > **Class** | Paladin | **Subclass** | Oath of Glory | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Draconic 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Lorehold | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 2]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Karl Shaffer\|Karl Shaffer]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 25 | **Passive Perception** | 11 |
+> **Max HP** | 32 | **Passive Perception** | 11 |
 > **AC** | 16 | **Passive Insight** | 11 |
 > **Initiative** | `= this.modifier` | **Passive Investigation** | 9 |
 > **Proficiency** | 2 | **Darkvision** | 60 ft |
@@ -83,13 +83,13 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 | --- | --- | --------------- | ----- | --- | ---- | --- | -------------- | ----- |
 | ○   | Dex | Acrobatics      | +0    |     | ●    | Wis | Medicine       | +3    |
 | ○   | Wis | Animal Handling | +1    |     | ○    | Int | Nature         | -1    |
-| ○   | Int | Arcana          | -1    |     | ○    | Wis | Perception     | +1    |
+| ●   | Int | Arcana          | +1    |     | ○    | Wis | Perception     | +1    |
 | ●   | Str | Athletics       | +5    |     | ○    | Cha | Performance    | +3    |
-| ○   | Cha | Deception       | +3    |     | ○    | Cha | Persuasion     | +3    |
+| ○   | Cha | Deception       | +3    |     | ●    | Cha | Persuasion     | +5    |
 | ●   | Int | History         | +1    |     | ●    | Int | Religion       | +1    |
 | ○   | Wis | Insight         | +1    |     | ○    | Dex | Slight of Hand | +0    |
 | ○   | Cha | Intimidation    | +3    |     | ○(D) | Dex | Stealth        | +0    |
-| ○   | Int | Investigation   | -1    |     | ○    | Wis | Survival       | +1    |
+| ●   | Int | Investigation   | +1    |     | ○    | Wis | Survival       | +1    |
 ## Other Skills/Proficiencies 
 - Resistance against Lightning damage
 - Heavy Armour 
@@ -103,7 +103,9 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        -1        |        +2        |        +2        |  +1  |     0      |
+|        -1        |        +3        |        +2        |  +1  |     0      |
+#### Boons
+**Applied Learning:** You start each exam with one reroll available.
 
 # Student Dice
 ### Extracurricular - Once per tenday
@@ -142,7 +144,7 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]
 
-**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]
+**Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]],[[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]
 
 # Relationships
 **Pets:** None/Unknown

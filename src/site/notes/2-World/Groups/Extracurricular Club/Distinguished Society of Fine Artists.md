@@ -29,13 +29,13 @@ Those who demonstrate exceptional talent or dedication may have their work featu
 The following people are members of this group.  
 | File                                                                                                               | Gender     | Race     | Role    | College     |
 | ------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]                               | Male       | Dwarf    | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1506/Oona Mistfeather\|Oona Mistfeather]]                           | Female     | Owlin    | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Sable Darkroot\|Sable Darkroot]]                               | Non-binary | Dhampir  | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Female     | Loxodon  | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male       | Gnome    | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male       | Human    | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Female     | Human    | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]                               | Male       | Dwarf    | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1506/Oona Mistfeather\|Oona Mistfeather]]                           | Female     | Owlin    | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1506/Sable Darkroot\|Sable Darkroot]]                               | Non-binary | Dhampir  | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]                       | Male       | Elf      | Student | Quandrix    |
 | [[1-Party/H'er/H'er\|H'er]]                                                                                     | Female     | Tiefling | Player  | Prismari    |
 

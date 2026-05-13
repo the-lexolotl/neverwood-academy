@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Biblioplex
-> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ![Biblioplex.webp](/img/user/z_Assets/Maps/Biblioplex.webp)
 > ###### General Information
 > Stat  |  Value |
 > ---|---|
@@ -36,8 +36,8 @@ Radiating outward from the Biblioplex are the Torches of Enlightenment, five vas
 | ------------------------------------------------------------------------------------------------------- | --------- | ------ | -------------- |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Aisla Fitzbottom\|Aisla Fitzbottom]] | Gnome     | Female | Cafe Manager   |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Groff Lundquist\|Groff Lundquist]]   | Human     | Male   | Shop Manager   |
-| [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                 | Automaton | Other  | Automaton      |
 | [[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]]                              | Treant    | Female | Head Librarian |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                 | Automaton | Other  | Automaton      |
 
 { .block-language-dataview}
 

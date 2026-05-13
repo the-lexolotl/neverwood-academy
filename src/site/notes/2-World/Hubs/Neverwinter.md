@@ -29,7 +29,7 @@ Elminster described it best:
 The city is famed for its multi-coloured glasswork, intricate jewellry, and flourishing gardens that remain green even through snow.
 
 ## Geography
-Neverwinter lies between **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and **Luskan**, nestled at the mouth of the **Neverwinter River**. To the east rise the volcanic slopes of **Mount Hotenow**, while to the west the **[[2-World/Regions/Sea of Swords\|Sea of Swords]]** meets the city’s busy harbor. The surrounding region enjoys a perpetual mildness caused by the river’s elemental warmth, which keeps the city’s port ice-free year-round.
+Neverwinter lies between **[[2-World/Hubs/Waterdeep\|Waterdeep]]** and **[[2-World/Hubs/Luskan\|Luskan]]**, nestled at the mouth of the **Neverwinter River**. To the east rise the volcanic slopes of **Mount Hotenow**, while to the west the **[[2-World/Regions/Sea of Swords\|Sea of Swords]]** meets the city’s busy harbor. The surrounding region enjoys a perpetual mildness caused by the river’s elemental warmth, which keeps the city’s port ice-free year-round.
 
 Nearby landmarks include **Helm’s Hold**, a fortified monastery to the southeast, and the mystical **[[2-World/Places/Neverwinter Woods\|Neverwinter Wood]]**, known for its fey-touched glades and ancient ruins of the elven realm **Iliyanbruen**.
 
@@ -51,7 +51,7 @@ After the eruption of Mount Hotenow, **Lord Dagult Neverember** claimed descent 
 
 ## Defences
 Neverwinter’s armies are among the most disciplined in [[2-World/Regions/The North\|the North]]. The city’s defenders include:
-* **The Neverwinter Guard** – professional soldiers, once bolstered by mercenaries from Mintarn.
+* **The Neverwinter Guard** – professional soldiers, once bolstered by mercenaries from [[2-World/Hubs/Mintarn\|Mintarn]].
 * **[[2-World/Groups/Wintershield Watchmen\|The Wintershield Watchmen]]** – local peacekeepers who replaced many of the foreign troops.
 * **The Many-Starred Cloak** – an order of mages serving the city’s rulers.
 * **The Neverwinter Nine** – elite champions bound to protect the city’s leadership.
@@ -110,10 +110,10 @@ Neverwinter’s emblem is three white snowflakes enclosed in silver and blue hal
 |             | 🕓:         |
 
 # Quests
-| File                                                               | Status      | Date Obtained |
-| ------------------------------------------------------------------ | ----------- | ------------- |
-| [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]] | In Progress | 25 Apr, 2026  |
-| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]           | Complete    | 01 Nov, 2025  |
+| File                                                               | Status   | Date Obtained |
+| ------------------------------------------------------------------ | -------- | ------------- |
+| [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]] | Complete | 25 Apr, 2026  |
+| [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]           | Complete | 01 Nov, 2025  |
 
 { .block-language-dataview}
 

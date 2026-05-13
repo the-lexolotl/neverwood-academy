@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Material Plane"],"dg-path":"World/Realms/Prime Material plane.md","permalink":"/world/realms/prime-material-plane/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Template_Galaxy_Placeholder.png","aliases":["Material Plane"]}}
+{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Pasted image 20260202173207.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"aliases":["Material Plane"],"dg-path":"World/Realms/Prime Material plane.md","permalink":"/world/realms/prime-material-plane/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Realm"],"obsidianUIMode":"preview","MyContainer":null,"image":"Pasted image 20260202173207.png","aliases":["Material Plane"]}}
 ---
 
 > [!infobox|left]+

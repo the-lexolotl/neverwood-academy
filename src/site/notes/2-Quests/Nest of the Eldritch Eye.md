@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Quest"],"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"In Progress","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember](/img/user/2-World/Hubs/Neverwinter.md)"],"questLocationObtained":["[River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Nest of the Eldritch Eye.md","permalink":"/quests/nest-of-the-eldritch-eye/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"In Progress","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember](/img/user/2-World/Places/River%20District.md)"],"questLocationObtained":["[[2-World/Places/River District.md|River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
+{"tags":["Category/Quest"],"MyContainer":"[Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"Complete","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember](/img/user/2-World/Hubs/Neverwinter.md)","[Kevori Fearnehart]]"],"questLocationObtained":["[[2-World/Places/River District.md|River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Quests/Nest of the Eldritch Eye.md","permalink":"/quests/nest-of-the-eldritch-eye/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Quest"],"MyContainer":"[[2-World/Hubs/Neverwinter.md|Neverwinter]]","MyCategory":null,"image":"Pasted image 20260423140831.png","obsidianUIMode":"preview","questObtained":"2026-04-25","questStatus":"Complete","questGiver":["[[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember](/img/user/2-World/People/Neverwinter/Kevori%20Fearnehart.md)","[[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]]"],"questLocationObtained":["[[2-World/Places/River District.md|River District]]","[[2-World/Hubs/Neverwinter.md|Neverwinter]]"],"questSessionObtained":["[[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]]"],"questNotes":null,"questLootAvail":null,"questLookEarned":null,"NoteIcon":"quest"}}
 ---
 
 
@@ -11,8 +11,8 @@
 > ###### Basic Info
 > | Date Obtained: | 25/04/2026 |
 | ----------------- | -------------------------- |
-| Status: | In Progress |
-| Quest Giver: | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]] |
+| Status: | Complete |
+| Quest Giver: | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]],[[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] |
 | Quest Location:   | [[2-World/Places/River District\|River District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
 | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]] |
 | Acquired Loot:    | None |
@@ -43,20 +43,20 @@ The eyeball is more than it appears - it is both a compass and a key, pointing t
 - [x] ~~Optionally rededicate the defiled shrine to Oghma to bring down the undead~~
 - [x] ~~Use the desiccated eyeball to unlock the sealed door deeper in the catacombs~~
 ### The Cult's Sanctum
-- [ ] Infiltrate the cult's hidden sanctuary below the sealed door
-- [ ] Sneak past or subdue the sleeping cultists in their quarters
-- [ ] Interrogate captured cultists to learn about their leader, their god, and Delvin's fate
-- [ ] Search the cult's library and uncover the full scope of their experiments
+- [x] ~~Infiltrate the cult's hidden sanctuary below the sealed door~~
+- [x] ~~Sneak past or subdue the sleeping cultists in their quarters~~
+- [x] ~~Interrogate captured cultists to learn about their leader, their god, and Delvin's fate~~
+- [x] ~~Search the cult's library and uncover the full scope of their experiments~~
 ### Confronting Zalryr
-- [ ] Enter the ritual chamber and interrupt [[2-World/People/Neverwinter/Zalryr\|Zalryr]]'s soul-siphoning experiment
-- [ ] Defeat the cultists and shadow entities conjured by the ritual
-- [ ] Force Zalryr's surrender or defeat him - capturing him alive earns a greater reward
-- [ ] Witness [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]'s apparition and receive his unsettling supernatural gift
+- [x] ~~Enter the ritual chamber and interrupt [[2-World/People/Neverwinter/Zalryr\|Zalryr]]'s soul-siphoning experiment~~
+- [x] ~~Defeat the cultists and shadow entities conjured by the ritual~~
+- [x] ~~Force Zalryr's surrender or defeat him - capturing him alive earns a greater reward~~
+- [x] ~~Witness [[2-World/People/Neverwinter/The Whispered One\|The Whispered One]]'s apparition and receive his unsettling supernatural gift~~
 ### Report & Resolution
-- [ ] Return to the surface with any captives and intelligence gathered
-- [ ] Report back to [[2-World/Groups/Wintershield Watchmen\|The Wintershield Watchmen]] and [[2-World/People/Neverwinter/Dagult Neverember\|Lord Neverember]]
-- [ ] Deliver word that other cult sects are still at large in the city
-- [ ] Collect your reward - and reflect on quite the work placement
+- [x] ~~Return to the surface with any captives and intelligence gathered~~
+- [x] ~~Report back to [[2-World/Groups/Wintershield Watchmen\|The Wintershield Watchmen]] and [[2-World/People/Neverwinter/Dagult Neverember\|Lord Neverember]]~~
+- [x] ~~Deliver word that other cult sects are still at large in the city~~
+- [x] ~~Collect your reward - and reflect on quite the work placement~~
 
 # Quest Handouts
 | File | Date Obtained | Category | Associated NPCs |
@@ -86,6 +86,7 @@ The following people are associated with this quest.
 | [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]] | Halfling        | Male   | Player                        |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]             | Human           | Male   | Player                        |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                   | Variant Aasimar | Female | Player                        |
+| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]          | Halfling        | Male   | Player                        |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]          | Minotaur        | Male   | Player                        |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]             | Dragonborn      | Male   | Player                        |
 

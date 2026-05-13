@@ -67,7 +67,7 @@ South of [[2-World/Hubs/Waterdeep\|Waterdeep]] and north of the Shining Sea, thi
 * **Amn** – A powerful, wealthy human nation.
 * **Calimshan** – A kingdom of wealth and mercantilism, founded by genies.
 * **Tethyr** – An arid land wracked by wars and intrigue, also home to elven forests.
-* **Moonshae Isles** – Harsh and rugged islands off the western coast.
+* **[[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]** – Harsh and rugged islands off the western coast.
 * **Nelanther Isles** – Pirate-dominated islands that raid the [[2-World/Regions/Sword Coast\|Sword Coast]].
 * **Nimbral** – A mysterious island realm of wizards and aerial knights.
 * **[[2-World/Regions/Sword Coast\|Sword Coast]]** – A rich coastline of trade and adventure, with [[2-World/Hubs/Waterdeep\|Waterdeep]] and [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] as major hubs.
@@ -158,6 +158,7 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 | [[2-World/Regions/Sword Coast\|Sword Coast]]       |
 | [[2-World/Regions/The North\|The North]]           |
 | [[2-World/Regions/Sea of Swords\|Sea of Swords]]   |
+| [[2-World/Regions/Trackless Sea\|Trackless Sea]]   |
 
 { .block-language-dataview}
 # Capital Cities
@@ -166,5 +167,8 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]     |
 | [[2-World/Hubs/Waterdeep\|Waterdeep]]         |
 | [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] |
+| [[2-World/Hubs/Luskan\|Luskan]]               |
+| [[2-World/Hubs/Mithral Hall\|Mithral Hall]]   |
+| [[2-World/Hubs/Citadel Adbar\|Citadel Adbar]] |
 
 { .block-language-dataview}

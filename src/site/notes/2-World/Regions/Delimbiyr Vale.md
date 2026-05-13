@@ -51,7 +51,7 @@ Though predominantly human, the Vale’s long and storied past makes it one of t
 | ---------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Humans**             | Widespread | Farmers, traders, and riverfolk dominate the Vale’s settlements, especially around Secomber and Loudwater.                           |
 | **Elves & Half-Elves** | Common     | Many descend from the fallen realm of **Eaerlann** or dwell within the nearby **High Forest**.                                       |
-| **Dwarves**            | Uncommon   | Travelers and traders from **Mithral Hall** and **Citadel Adbar** pass through; some maintain hidden holds in the surrounding hills. |
+| **Dwarves**            | Uncommon   | Travelers and traders from **[[2-World/Hubs/Mithral Hall\|Mithral Hall]]** and **[[2-World/Hubs/Citadel Adbar\|Citadel Adbar]]** pass through; some maintain hidden holds in the surrounding hills. |
 | **Halflings**          | Frequent   | Found in nearly every hamlet; often serve as river guides, farmers, and innkeepers.                                                  |
 | **Gnomes**             | Rare       | A few rock gnome tinker families operate mills and workshops along the upper river.                                                  |
 | **Half-Orcs**          | Scattered  | Descendants of frontier settlers and mercenaries; most integrate into mixed communities or live on the edge of the Vale.             |
@@ -63,7 +63,7 @@ The Delimbiyr Vale has **no single ruler or unified government**. Its settlement
 Most trade and communication flow between **Secomber** and **Loudwater**, with the Vale’s people valuing self-reliance and local tradition.
 
 ## Major Powers
-* **The Lords’ Alliance** – Exerts influence through **Secomber** and nearby **[[2-World/Hubs/Daggerford\|Daggerford]]**, ensuring the safety of the Trade Way and river routes.
+* **The [[2-World/Groups/Lords' Alliance\|Lords' Alliance]]** – Exerts influence through **Secomber** and nearby **[[2-World/Hubs/Daggerford\|Daggerford]]**, ensuring the safety of the Trade Way and river routes.
 * **The Harpers** – Maintain hidden agents in the Vale to watch for threats from the High Moor and to preserve ancient elven sites.
 * **The Zhentarim** – Formerly controlled **Llorkh**, and still operate smuggling routes along the eastern trade roads.
 * **Elves of the High Forest** – A quiet but potent presence; they occasionally intervene to protect sacred lands or fey crossings.
@@ -124,7 +124,7 @@ Today, in the years around **1508 DR**, the Delimbiyr Vale stands once again as 
 | [[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]] | 08 Nov, 2025  | Complete    |
 | [[2-Quests/Whos goo\|Whos goo]]                                               | 12 Jul, 2025  | In Progress |
 | [[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]                       | 18 Apr, 2026  | Complete    |
-| [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]               | 25 Apr, 2026  | In Progress |
+| [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]               | 25 Apr, 2026  | Complete    |
 
 { .block-language-dataview}
 

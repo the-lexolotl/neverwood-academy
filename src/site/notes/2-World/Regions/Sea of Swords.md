@@ -15,22 +15,6 @@
 > **Primary Exports:** | Maritime trade goods, fish, naval services, shipbuilding |
 > **Threats:** | Pirates, sea monsters, sahuagin, violent storms |
 > **Political Structure:** | Controlled by independent coastal city-states, naval powers, and merchant fleets |
-# Description
-> [!infobox|left]+
->
-> # Sea of Swords
->
-> ![[SeaOfSwords.webp\|SeaOfSwords.webp]]
->
-> ###### General Information
->
-> | Stat                     | Value                                                                            |
-> | ------------------------ | -------------------------------------------------------------------------------- |
-> | **Parent Location:**     | [[Trackless Sea\|Trackless Sea]]                                                                |
-> | **Deities of Note:**     | Umberlee, Valkur, Selûne, Tempus                                                 |
-> | **Primary Exports:**     | Maritime trade goods, fish, naval services, shipbuilding                         |
-> | **Threats:**             | Pirates, sea monsters, sahuagin, violent storms                                  |
-> | **Political Structure:** | Controlled by independent coastal city-states, naval powers, and merchant fleets |
 
 # Description
 The Sea of Swords is the vast western sea bordering the [[2-World/Regions/Sword Coast\|Sword Coast]] of [[2-World/Continents/Faerûn\|Faerûn]]. It serves as one of the most important maritime trade routes in the Realms, connecting major ports such as [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Hubs/Waterdeep\|Waterdeep]], and [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]].
@@ -40,7 +24,7 @@ Merchant vessels, fishing fleets, naval ships, pirates, and adventurers constant
 The Sea of Swords forms a major part of life along the [[2-World/Regions/Sword Coast\|Sword Coast]], shaping the culture, economy, and politics of the surrounding regions.
 
 # **Geography**
-The Sea of Swords stretches along the western coastline of [[2-World/Continents/Faerûn\|Faerûn]], forming part of the larger [[Trackless Sea\|Trackless Sea]]. Its waters range from the cold northern seas near [[Luskan\|Luskan]] to the warmer southern waters near Amn and Calimshan.
+The Sea of Swords stretches along the western coastline of [[2-World/Continents/Faerûn\|Faerûn]], forming part of the larger [[2-World/Regions/Trackless Sea\|Trackless Sea]]. Its waters range from the cold northern seas near [[2-World/Hubs/Luskan\|Luskan]] to the warmer southern waters near Amn and Calimshan.
 The coastline includes cliffs, beaches, natural harbours, islands, and rocky shoals. Trade routes crisscross the sea between major ports and island settlements.
 Numerous smaller islands, shipwrecks, and underwater ruins can also be found throughout the region.
 
@@ -50,9 +34,9 @@ Major ports and islands include:
 * [[2-World/Hubs/Waterdeep\|Waterdeep]] – the largest trade city on the [[2-World/Regions/Sword Coast\|Sword Coast]].
 * [[2-World/Hubs/Neverwinter\|Neverwinter]] – famed for craftsmanship and its warm river.
 * [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] – major centre of trade and mercenary activity.
-* [[Luskan\|Luskan]] – pirate-controlled northern port city.
-* [[Mintarn\|Mintarn]] – island known for mercenary companies.
-* [[Moonshae Isles\|Moonshae Isles]] – island chain west of the [[2-World/Regions/Sword Coast\|Sword Coast]].
+* [[2-World/Hubs/Luskan\|Luskan]] – pirate-controlled northern port city.
+* [[2-World/Hubs/Mintarn\|Mintarn]] – island known for mercenary companies.
+* [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]] – island chain west of the [[2-World/Regions/Sword Coast\|Sword Coast]].
 * [[2-World/Hubs/Stormwreck Isle\|Stormwreck Isle]] – remote island associated with dragons and storms.
 
 # **Common Races**
@@ -77,7 +61,7 @@ Faith also plays an important role in maritime life. Sailors commonly pray to **
 
 # **History**
 For centuries, the Sea of Swords has served as the primary maritime route of western [[2-World/Continents/Faerûn\|Faerûn]]. Merchant fleets transported goods, travellers, soldiers, and ideas between the North and southern kingdoms.
-The sea has witnessed countless naval battles, pirate conflicts, monster attacks, and magical disasters. Raiders from [[Luskan\|Luskan]], sahuagin invasions, and storms have repeatedly threatened coastal settlements.
+The sea has witnessed countless naval battles, pirate conflicts, monster attacks, and magical disasters. Raiders from [[2-World/Hubs/Luskan\|Luskan]], sahuagin invasions, and storms have repeatedly threatened coastal settlements.
 Despite these dangers, trade upon the Sea of Swords continued to grow throughout the late 15th and early 16th centuries DR as cities such as [[2-World/Hubs/Neverwinter\|Neverwinter]] recovered from earlier catastrophes and maritime commerce expanded once more.
 
 # Hubs

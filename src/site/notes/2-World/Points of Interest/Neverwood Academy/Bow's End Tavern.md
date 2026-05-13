@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Bow's End Tavern
-> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ![Bow's End Tavern.webp](/img/user/z_Assets/Maps/Bow's%20End%20Tavern.webp)
 > ###### General Information
 > Stat  |  Value |
 > ---|---|

@@ -77,7 +77,7 @@ Many philosophers believe the Astral Plane reflects consciousness itself.
 
 ## Variations by World
 Different settings interpret the Astral Plane differently.
-In [[0-Scratch Notes/Spelljammer\|Spelljammer]] cosmology, Wildspace systems drift within the Astral Sea.
+In [[Spelljammer\|Spelljammer]] cosmology, Wildspace systems drift within the Astral Sea.
 
 Some worlds treat the Astral Plane as a spiritual afterlife pathway, while others emphasise its role in planar travel and psychic projection.
 

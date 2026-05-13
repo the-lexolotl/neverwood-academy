@@ -21,7 +21,7 @@ The world of the Forgotten Realms is an Earth-sized planet formerly known as Abe
 # Planet Details
 Toril’s equatorial circumference is approximately 24,000 miles, with a surface area somewhat less than 197 million square miles. Toril is the third of eight planets circling its sun, with Anadia and Coliar (the Dawn Heralds) orbiting inside Toril’s orbit and Karpri, Chandos, Glyth, Garden and H’Catha (the Five Wanderers) orbiting beyond it. Toril has one large moon, Selûne (also the name of the goddess of the night sky), and a string of asteroids orbiting in its wake, known as the Tears of Selûne. Toril orbits its sun once every 365¼ days (with an extra leap day added every fourth year) and rotates on its axis once every 24 hours.
 
-Toril possesses enormous ice caps which extend well into the temperate zones. During the hottest summers, the frozen ocean around the north coast of [[2-World/Continents/Faerûn\|Faerûn]] sometimes breaks up and permits travel from the Trackless Sea to the Great Ice Sea (with ships from far Sossal occasionally seen in [[2-World/Regions/Sword Coast\|Sword Coast]] ports). There appear to be no continents or landmasses at either the north nor south poles.
+Toril possesses enormous ice caps which extend well into the temperate zones. During the hottest summers, the frozen ocean around the north coast of [[2-World/Continents/Faerûn\|Faerûn]] sometimes breaks up and permits travel from the [[2-World/Regions/Trackless Sea\|Trackless Sea]] to the Great Ice Sea (with ships from far Sossal occasionally seen in [[2-World/Regions/Sword Coast\|Sword Coast]] ports). There appear to be no continents or landmasses at either the north nor south poles.
 # Continents
 Toril is divided into multiple continents, although the exact number of continents and even the definition of a continent (versus a large island) are fiercely debated between sages and cartographers. Still, the following continents are generally accepted as being extant:
 
@@ -33,7 +33,7 @@ The largest and most populous continent on Toril, located to the east of [[2-Wor
 Zakhara: The Land of Fate is the southern-most part of the main supercontinent and forms a large peninsula extending south-west from [[2-World/Continents/Kara-Tur\|Kara-Tur]]. It is dominated by vast deserts, ancient ruins and great cities such as Golden Huzuz, the City of Delights. The continent also includes the vast island chains of the Crowded Sea.
 
 #### Maztica: 
-Known to its inhabitants as the True World and to Faerûnian as the New World, this continent is located some three thousand miles to the west, across the Trackless Sea. Maztica was “discovered” in the year 1361 DR (Dalereckoning) by explorers from Amn and colony-states were established (the people who actually live there “discovered” it some considerable time earlier, of course), but clashes between the native gods and the Faerûnian pantheon resulted in demarcation lines being established and full-scale colonisation of the continent was subsequently averted. Maztica vanished during the cataclysmic event known as the Spellplague and returned a century later; its fate during the intervening period is unclear.
+Known to its inhabitants as the True World and to Faerûnian as the New World, this continent is located some three thousand miles to the west, across the [[2-World/Regions/Trackless Sea\|Trackless Sea]]. Maztica was “discovered” in the year 1361 DR (Dalereckoning) by explorers from Amn and colony-states were established (the people who actually live there “discovered” it some considerable time earlier, of course), but clashes between the native gods and the Faerûnian pantheon resulted in demarcation lines being established and full-scale colonisation of the continent was subsequently averted. Maztica vanished during the cataclysmic event known as the Spellplague and returned a century later; its fate during the intervening period is unclear.
 
 #### Katashaka: 
 A vast jungle continent to the south of Maztica, south-west across the Great Sea from [[2-World/Continents/Faerûn\|Faerûn]]. Unvisited by Faerûnians, but some Katashakans have visited [[2-World/Continents/Faerûn\|Faerûn]] and settled there.
@@ -62,8 +62,8 @@ Additional large islands or small continents are located north-west of Maztica, 
 
 Toril possesses several notable oceans:
 
-#### The Trackless Sea
-The Trackless Sea lies to the west of [[2-World/Continents/Faerûn\|Faerûn]], separating it from Maztica and the islands of Anchôromé. Marginal seas of this ocean including the Sea of Moving Ice (off the north-west coast), the [[2-World/Regions/Sea of Swords\|Sea of Swords]] (between the coast and the Moonshae Isles) and the Shining Sea (between Calimshan and the Chultan Peninsula). The Bay of Balduran and the Sea of Azul lie off the coast of Maztica. Chult and the island of Nimbral mark the southern end of this ocean.
+#### The [[2-World/Regions/Trackless Sea\|Trackless Sea]]
+The [[2-World/Regions/Trackless Sea\|Trackless Sea]] lies to the west of [[2-World/Continents/Faerûn\|Faerûn]], separating it from Maztica and the islands of Anchôromé. Marginal seas of this ocean including the Sea of Moving Ice (off the north-west coast), the [[2-World/Regions/Sea of Swords\|Sea of Swords]] (between the coast and the [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]) and the Shining Sea (between Calimshan and the Chultan Peninsula). The Bay of Balduran and the Sea of Azul lie off the coast of Maztica. Chult and the island of Nimbral mark the southern end of this ocean.
 
 #### The Great Sea
 The Great Sea lies to the south of [[2-World/Continents/Faerûn\|Faerûn]], separating it from Zakhara to the south and Katashaka to the south-west.
@@ -94,12 +94,18 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]       |
 | [[2-World/Hubs/Daggerford\|Daggerford]]                     |
 | [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]]             |
+| [[2-World/Hubs/Morgrave University\|Morgrave University]]   |
 | [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |
 | [[2-World/Hubs/Waterdeep\|Waterdeep]]                       |
 | [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]]               |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                   |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]               |
 | [[2-World/Hubs/Phandalin\|Phandalin]]                       |
+| [[2-World/Hubs/Luskan\|Luskan]]                             |
+| [[2-World/Hubs/Mithral Hall\|Mithral Hall]]                 |
+| [[2-World/Hubs/Citadel Adbar\|Citadel Adbar]]               |
+| [[2-World/Hubs/Mintarn\|Mintarn]]                           |
+| [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]             |
 | [[2-World/Hubs/Stormwreck Isle\|Stormwreck Isle]]           |
 
 { .block-language-dataview}

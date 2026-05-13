@@ -24,7 +24,7 @@
 # Biography
 ### **Rise to Power (1460–1489 DR)**
 Dagult Neverember was born into the minor noble Neverember line, a cadet branch of Waterdhavian aristocracy known for wealth rather than prestige. From an early age, he distinguished himself not through martial prowess or magical talent, but through financial acumen and political instinct.
-He rose steadily through the merchant-administrative networks of the [[2-World/Regions/Sword Coast\|Sword Coast]], accumulating influence within the **Lords’ Alliance** through trade contracts, military provisioning, and civic reconstruction projects. His defining opportunity came after the devastation of [[2-World/Hubs/Neverwinter\|Neverwinter]], where he positioned himself as both financier and stabilising authority during the city’s recovery.
+He rose steadily through the merchant-administrative networks of the [[2-World/Regions/Sword Coast\|Sword Coast]], accumulating influence within the **[[2-World/Groups/Lords' Alliance\|Lords' Alliance]]** through trade contracts, military provisioning, and civic reconstruction projects. His defining opportunity came after the devastation of [[2-World/Hubs/Neverwinter\|Neverwinter]], where he positioned himself as both financier and stabilising authority during the city’s recovery.
 By leveraging emergency powers, economic leverage, and strategic alliances, Dagult secured appointment as Open Lord of [[2-World/Hubs/Waterdeep\|Waterdeep]]—a position he would hold for over a decade.
 
 ### **Open Lord of Waterdeep (1480–1489 DR)**

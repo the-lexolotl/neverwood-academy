@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Archway Commons
-> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ![Tier 1 - Archway Commons - Day - 4000x4000 - 40x40 - 100px - grid.webp](/img/user/z_Assets/Maps/Tier%201%20-%20Archway%20Commons%20-%20Day%20-%204000x4000%20-%2040x40%20-%20100px%20-%20grid.webp)
 > ###### General Information
 > Stat  |  Value |
 > ---|---|

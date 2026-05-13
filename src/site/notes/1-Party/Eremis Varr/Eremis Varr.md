@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":17,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","dg-publish":true,"dg-pinned":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":0,"coin_gp":62,"coin_ep":0,"coin_sp":0,"coin_cp":30,"groupCup":"[[Group Cup Challenge|Group 1](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)","dg-path":"Party/Eremis Varr/Eremis Varr.md","permalink":"/party/eremis-varr/eremis-varr/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":17,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":15,"pasinvest":9,"darkvis":"60 ft","school_year":1,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":0,"coin_gp":62,"coin_ep":0,"coin_sp":0,"coin_cp":30,"groupCup":"[[Group Cup Challenge|Group 1](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)"}}
+{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":4,"hp":23,"max_hp":23,"ac":17,"modifier":2,"pasperc":14,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","dg-publish":true,"dg-pinned":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":2,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":0,"coin_gp":185,"coin_ep":0,"coin_sp":3,"coin_cp":33,"groupCup":"[[Group Cup Challenge|Group 1](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)","dg-path":"Party/Eremis Varr/Eremis Varr.md","permalink":"/party/eremis-varr/eremis-varr/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Eremis","Catarina"],"tags":["Category/Player"],"Player":"Catarina","Role":"Player","level":4,"hp":23,"max_hp":23,"ac":17,"modifier":2,"pasperc":14,"Status":"Active","PlayerKnownLanguages":["Common","Draconic","Primordial","Sylvan"],"char_role":"Player","char_college":"Silverquill","char_race":"Kobold","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":null,"Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Eremis Varr.png","subclass":["Peace Domain"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"6.5 ft","jump_run_long":"13 ft","jump_stand_high":"2 ft","jump_run_high":"4 ft","pasinsight":16,"pasinvest":9,"darkvis":"60 ft","school_year":2,"prof":2,"carry_cap":"195 lbs","push_cap":"390 lbs","coin_pp":0,"coin_gp":185,"coin_ep":0,"coin_sp":3,"coin_cp":33,"groupCup":"[[Group Cup Challenge|Group 1](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)"}}
 ---
 
 > [!infobox|left]+
@@ -10,22 +10,22 @@
 > ---|---|---|---|
 > **Race** | Kobold | **Gender** | Female |
 > **Class** | Cleric | **Subclass** | Peace Domain | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Draconic,Primordial,Sylvan 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Silverquill | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 1]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 18 | **Passive Perception** | 13 |
-> **AC** | 17 | **Passive Insight** | 15 |
+> **Max HP** | 23 | **Passive Perception** | 14 |
+> **AC** | 17 | **Passive Insight** | 16 |
 > **Initiative** | 2 | **Passive Investigation** | 9 |
 > **Proficiency** | 2 | **Darkvision** | 60 ft |
 > ###### Movement
@@ -71,26 +71,28 @@ To those who meet her, Eremis Varr is a contradiction: a creature born of a viol
 
 |              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
-|    Score     |    13    |    14     |      10      |      8       |   17   |    13    |
-| Ability Mod  |    +1    |    +2     |      +0      |      -1      |   +3   |    +1    |
-| Saving Throw |    +1    |    +2     |      +0      |      -1      |  ● +5  |   ● +3   |
+|    Score     |    13    |    14     |      10      |      8       |   18   |    13    |
+| Ability Mod  |    +1    |    +2     |      +0      |      -1      |   +4   |    +1    |
+| Saving Throw |    +1    |    +2     |      +0      |      -1      |  ● +6  |   ● +3   |
 
 |     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
 | --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
-| ○   | Dex | Acrobatics      | +2    |     | ●   | Wis | Medicine       | +5    |
-| ○   | Wis | Animal Handling | +3    |     | ○   | Int | Nature         | -1    |
-| ○   | Int | Arcana          | +2    |     | ○   | Wis | Perception     | +3    |
+| ○   | Dex | Acrobatics      | +2    |     | ●   | Wis | Medicine       | +6    |
+| ○   | Wis | Animal Handling | +4    |     | ○   | Int | Nature         | -1    |
+| ○   | Int | Arcana          | +3    |     | ○   | Wis | Perception     | +4    |
 | ○   | Str | Athletics       | +1    |     | ○   | Cha | Performance    | +1    |
 | ○   | Cha | Deception       | +1    |     | ●   | Cha | Persuasion     | +3    |
-| ○   | Int | History         | -1    |     | ●   | Int | Religion       | +4    |
-| ●   | Wis | Insight         | +5    |     | ○   | Dex | Slight of Hand | +2    |
+| ○   | Int | History         | -1    |     | ●   | Int | Religion       | +5    |
+| ●   | Wis | Insight         | +6    |     | ○   | Dex | Slight of Hand | +2    |
 | ●   | Cha | Intimidation    | +3    |     | ○   | Dex | Stealth        | +2    |
-| ○   | Int | Investigation   | -1    |     | ○   | Wis | Survival       | +3    |
+| ○   | Int | Investigation   | -1    |     | ○   | Wis | Survival       | +4    |
 ## Student Skill Points 
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +2        |        +2        |        0         |  0   |     0      |
+|        +3        |        +2        |        0         |  0   |     0      |
+#### Boons 
+**Studied Learning:** You are devoted to studying and doing homework assignments. You may opt to work on one homework assignment between classes.
 
 ## Other Skills/Proficiencies 
 - Advantage to avoid or end the frightened condition
@@ -112,7 +114,7 @@ To those who meet her, Eremis Varr is a contradiction: a creature born of a viol
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| `= this.coin_pp` | 62 | `= this.coin_ep` | `= this.coin_sp` | 30 |
+| `= this.coin_pp` | 185 | `= this.coin_ep` | 3 | 33 |
 ### Items
 > [!example]- Equipment (5)
 > Chain Shirt
@@ -134,7 +136,7 @@ Tinderbox
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
 
 **Quests:** [[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 

@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Aerojaunt Field
-> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ![Tier 1 - Aerojaunt Field - 48x64 - 3072x4096 - 64px - grid.webp](/img/user/z_Assets/Maps/Tier%201%20-%20Aerojaunt%20Field%20-%2048x64%20-%203072x4096%20-%2064px%20-%20grid.webp)
 > ###### General Information
 > Stat  |  Value |
 > ---|---|

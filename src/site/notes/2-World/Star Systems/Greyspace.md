@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[Prime Material plane]]","image":"Pasted image 20260505131628.png","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Star Systems/Greyspace.md","permalink":"/world/star-systems/greyspace/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[2-World/Realms/Prime Material plane\|Prime Material plane](/img/user/2-World/Realms/Prime%20Material%20plane.md)","image":"Pasted image 20260505131628.png"}}
+{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[Prime Material Plane]]","image":"Pasted image 20260505131628.png","dg-publish":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"World/Star Systems/Greyspace.md","permalink":"/world/star-systems/greyspace/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material Plane|Prime Material Plane](/img/user/2-World/Realms/Prime%20Material%20plane.md)","image":"Pasted image 20260505131628.png"}}
 ---
 
 
@@ -11,7 +11,7 @@
 > # Greyspace
 > ![Pasted image 20260505131628.png](/img/user/z_Assets/Pasted%20image%2020260505131628.png)
 > ###### General Information
-> **Parent Realm:**  |  [[2-World/Realms/Prime Material plane\|Prime Material plane]] |
+> **Parent Realm:**  |  [[2-World/Realms/Prime Material plane\|Prime Material Plane]] |
 > ---|---|
 > **Primary Bodies:** | [[2-World/Planets/Oerth\|Oerth]] (system primary), Kule, Raenei, Liga (the Sun), The Grinder, Edill, Gnibile, Conatha, Ginsel, Borka, Greela, The Spectre | 
 > **Inhabitants:** | Humans and other mortals (primarily on [[2-World/Planets/Oerth\|Oerth]]), elves (notably on Celene), dwarves, humanoids, and spacefaring peoples |
@@ -19,7 +19,7 @@
 > **Threats & Hazards:** | The Grinder asteroid field, magical dead zones, dark stars, hostile spelljammers, and extreme environmental conditions |
 
 # Description
-Greyspace is the crystal sphere that contains the world of [[2-World/Planets/Oerth\|Oerth]] and its surrounding celestial system within the [[2-World/Realms/Prime Material plane\|Prime Material plane]]. Unlike most known spheres, Greyspace is geocentric, with [[2-World/Planets/Oerth\|Oerth]] at the centre and all other celestial bodies—including its sun—orbiting it.
+Greyspace is the crystal sphere that contains the world of [[2-World/Planets/Oerth\|Oerth]] and its surrounding celestial system within the [[2-World/Realms/Prime Material plane\|Prime Material Plane]]. Unlike most known spheres, Greyspace is geocentric, with [[2-World/Planets/Oerth\|Oerth]] at the centre and all other celestial bodies—including its sun—orbiting it.
 Encased within a crystal shell suspended in the phlogiston, Greyspace contains a diverse array of celestial bodies, including spherical planets, irregular worlds, asteroid clusters, and even flatworlds.
 To spelljammers, Greyspace is considered both stable and strange: a relatively navigable sphere, yet filled with unusual cosmological phenomena and unpredictable hazards.
 

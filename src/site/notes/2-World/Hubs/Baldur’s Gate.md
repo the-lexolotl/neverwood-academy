@@ -79,7 +79,7 @@ The city is broadly divided into:
 * **The Guild** – criminal network controlling much of the underworld.
 * **The Harpers**
 * **The Zhentarim**
-* **The Lords’ Alliance**
+* **The [[2-World/Groups/Lords' Alliance\|Lords' Alliance]]**
 
 ## Symbol
 Baldur’s Gate’s heraldry commonly depicts a city gate and anchor, symbolising commerce, maritime power, and opportunity.

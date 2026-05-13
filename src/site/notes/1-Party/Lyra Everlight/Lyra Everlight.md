@@ -1,5 +1,5 @@
 ---
-{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Performing Arts Society|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Midnight](/img/user/2-Quests/The%20Missing%20Professor.md)","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":10,"coin_gp":143,"coin_ep":4,"coin_sp":108,"coin_cp":127,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Lyra Everlight/Lyra Everlight.md","permalink":"/party/lyra-everlight/lyra-everlight/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":3,"hp":18,"max_hp":18,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[Performing Arts Society|Play Actors Drama Guild]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","pets":["[[Midnight]]","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":1,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":10,"coin_gp":143,"coin_ep":4,"coin_sp":108,"coin_cp":127,"groupCup":"[[Group Cup Challenge|Group 3]]"}}
+{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":4,"hp":23,"max_hp":23,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]","[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","dg-pinned":true,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"pets":["[[Midnight](/img/user/2-Quests/The%20Missing%20Professor.md)","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":2,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":10,"coin_gp":266,"coin_ep":4,"coin_sp":111,"coin_cp":130,"groupCup":"[[Group Cup Challenge|Group 3]]","dg-path":"Party/Lyra Everlight/Lyra Everlight.md","permalink":"/party/lyra-everlight/lyra-everlight/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Megan","Lyra"],"tags":["Category/Player"],"Player":"Megan","Role":"Player","level":4,"hp":23,"max_hp":23,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Elvish","Primordial"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_race":"Variant Aasimar","char_class":"Cleric","char_gender":"Female","char_status":"Alive","char_age":"Young Adult","char_items":[],"Connected_Quests":["[[The Missing Professor|The Missing Professor]]","[[Whos goo|Whos goo]]","[[Heist the Records Room|Heist the Records Room]]","[[Miaukier Must Die!|Miaukier Must Die!]]","[[The Ballad of Chasey Lain|The Ballad of Chasey Lain]]","[[The Merchant of Moons|The Merchant of Moons]]","[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]]","[[2-Quests/Up the Beanstalk\|Up the Beanstalk]]","[[2-Quests/The Pub That Crawls\|The Pub That Crawls]]","[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]","[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]"],"Connected_Groups":["[[Cohort of 1508|Cohort of 1508]]","[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]","[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]","[[Mage Tower Cheer Squad|Mage Tower Cheer Squad]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":["[[Greta Gorunn]]"],"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"megan.png","char_role":"Player","char_college":"Silverquill","pets":["[[Midnight]]","[[Orion]]"],"subclass":["Twilight Domain"],"speed_walk":"30 ft","speed_fly":"30 ft","speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"4 ft","jump_run_long":"8 ft","jump_stand_high":"1 ft","jump_run_high":"2 ft","pasinsight":14,"pasinvest":11,"darkvis":"300 ft","school_year":2,"prof":2,"carry_cap":"120 lbs","push_cap":"240 lbs","coin_pp":10,"coin_gp":266,"coin_ep":4,"coin_sp":111,"coin_cp":130,"groupCup":"[[Group Cup Challenge|Group 3]]"}}
 ---
 
 
@@ -11,21 +11,21 @@
 > ---|---|---|---|
 > **Race** | Variant Aasimar | **Gender** | Female |
 > **Class** | Cleric | **Subclass** | Twilight Domain | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Celestial,Common,Elvish,Primordial 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Silverquill | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 3]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 18 | **Passive Perception** | 12 |
+> **Max HP** | 23 | **Passive Perception** | 12 |
 > **AC** | 11 | **Passive Insight** | 14 |
 > **Initiative** | 1 | **Passive Investigation** | 11 |
 > **Proficiency** | 2 | **Darkvision** | 300 ft |
@@ -71,20 +71,20 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 |              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
-|    Score     |    8     |    13     |      10      |      12      |   15   |    17    |
-| Ability Mod  |    -1    |    +1     |      +0      |      +1      |   +2   |    +3    |
-| Saving Throw |    -1    |    +1     |      +0      |      +1      |  ● +4  |   ● +5   |
+|    Score     |    8     |    13     |      10      |      12      |   15   |    19    |
+| Ability Mod  |    -1    |    +1     |      +0      |      +1      |   +2   |    +4    |
+| Saving Throw |    -1    |    +1     |      +0      |      +1      |  ● +4  |   ● +6   |
 
 |     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
 | --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
 | ○   | Dex | Acrobatics      | +1    |     | ●   | Wis | Medicine       | +4    |
 | ○   | Wis | Animal Handling | +2    |     | ○   | Int | Nature         | +1    |
 | ○   | Int | Arcana          | +1    |     | ○   | Wis | Perception     | +2    |
-| ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +3    |
-| ○   | Cha | Deception       | +3    |     | ●   | Cha | Persuasion     | +5    |
+| ○   | Str | Athletics       | -1    |     | ○   | Cha | Performance    | +4    |
+| ○   | Cha | Deception       | +4    |     | ●   | Cha | Persuasion     | +6    |
 | ○   | Int | History         | +1    |     | ○   | Int | Religion       | +1    |
 | ●   | Wis | Insight         | +4    |     | ○   | Dex | Slight of Hand | +1    |
-| ●   | Cha | Intimidation    | +5    |     | ○   | Dex | Stealth        | +1    |
+| ●   | Cha | Intimidation    | +6    |     | ○   | Dex | Stealth        | +1    |
 | ○   | Int | Investigation   | +1    |     | ○   | Wis | Survival       | +2    |
 ## Other Skills/Proficiencies 
 - Resistance against Necrotic damage
@@ -100,7 +100,7 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 | Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
 | :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +1        |        +1        |        -1        |  0   |     +3     |
+|        +2        |        +1        |        -1        |  0   |     +3     |
 #### Boons
 **Popularity:** Your threshold for friendships is lowered by two points per extra point of popularity above 2, and your threshold for rivals is increased by two points per extra point of popularity. For example, a popularity of 4 has thresholds at 6 and -14.
 
@@ -117,7 +117,7 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 10 | 143 | 4 | 108 | 127 |
+| 10 | 266 | 4 | 111 | 130 |
 ### Items
 > [!example]- Equipment (23)
 > [[3-Mechanics/CLI/items/driftglobe-xdmg\|Driftglobe]]
@@ -156,7 +156,7 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 # Connections
 
-**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Play Actors Drama Guild]],[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]
+**Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]],[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]],[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]
 
 **Quests:** [[2-Quests/The Missing Professor\|The Missing Professor]],[[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]],[[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]],[[2-Quests/The Ballad of Chasey Lain\|The Ballad of Chasey Lain]],[[2-Quests/The Merchant of Moons\|The Merchant of Moons]],[[2-Quests/What Happens Under The Oak Tree\|What Happens Under The Oak Tree]],[[2-Quests/Up the Beanstalk\|Up the Beanstalk]],[[2-Quests/The Pub That Crawls\|The Pub That Crawls]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]],[[2-Quests/Nest of the Eldritch Eye\|Nest of the Eldritch Eye]]
 

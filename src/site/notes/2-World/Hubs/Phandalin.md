@@ -80,7 +80,7 @@ Phandalin is small enough that it has no formal districts, though key locations 
 ## Factions & Organizations
 * **The Harpers**
 * **The Zhentarim**
-* **The Lords’ Alliance**
+* **The [[2-World/Groups/Lords' Alliance\|Lords' Alliance]]**
 * **Order of the Gauntlet**
 
 ## Symbol

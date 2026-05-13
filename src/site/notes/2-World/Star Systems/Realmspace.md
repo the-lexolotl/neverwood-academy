@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material plane|Prime Material plane](/img/user/2-World/Realms/Prime%20Material%20plane.md)","image":"realmspace-2023.png"}}
+{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[Prime Material plane]]","image":"realmspace-2023.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"World/Star Systems/Realmspace.md","permalink":"/world/star-systems/realmspace/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/StarSystem"],"obsidianUIMode":"preview","MyContainer":"[[Prime Material Plane|Prime Material plane](/img/user/2-World/Realms/Prime%20Material%20plane.md)","image":"realmspace-2023.png"}}
 ---
 
 

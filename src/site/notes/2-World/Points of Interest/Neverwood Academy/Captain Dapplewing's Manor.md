@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Captain Dapplewing's Manor
-> ![Template_Place_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Place_Placeholder.png)
+> ![Dapplewings Manor.webp](/img/user/z_Assets/Maps/Dapplewings%20Manor.webp)
 > ###### General Information
 > Stat  |  Value |
 > ---|---|
