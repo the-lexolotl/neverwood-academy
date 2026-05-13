@@ -16,7 +16,7 @@
 > | Current CEO: | [[2-World/People/Other/Maris Velloran\|Maris Velloran]] |
 > | Staff:   | Licensed Arcanists, Behavioural Specialists, Custodial Wardens |
 > | Apprentices: | Junior Practitioners & Observational Interns |
-> | Primary Contact | Unknown |
+> | Primary Contact | Regional Intake Offices |
 
 # History
 ## Founding & Early Development (late 1490s DR)

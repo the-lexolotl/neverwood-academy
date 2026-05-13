@@ -13,7 +13,7 @@
 **Session Obtained:** Unknown
 
 ---
-Students at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] are encouraged to pursue part-time employment or join [[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars List\|Extracurricular Clubs]] as part of their development outside of formal study.
+Students at [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] are encouraged to pursue part-time employment or join [[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars & Guilds\|Extracurricular Clubs]] as part of their development outside of formal study.
 These activities provide income, experience, and opportunities for social and academic growth.
 Second-year students may take on campus employment at a base rate of **6gp per tenday**.
 	This income can be increased through [[3-Homebrew Mechanics/Academics/Student Skills System\|Student Skill Points]] invested in the Jobs category.

@@ -52,7 +52,7 @@ You may fill these with:
 * Student Dice from **Exams** are **one-time use bonuses**
 
 ### How to Gain Student Dice
-* Joining an **[[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars List\|Extracurricular Club]]**
+* Joining an **[[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars & Guilds\|Extracurricular Club]]**
 * Joining a **Guild**
 * **Performing well in [[3-Homebrew Mechanics/Academics/Neverwood Academic System\|Exams]]**
 

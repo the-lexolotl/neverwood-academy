@@ -6,7 +6,7 @@
 A Student Die is a **1d4 bonus die** that can be added to skill checks.
 
 # Sources of Student Dice
-- [[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars List\|Extracurricular Clubs]]
+- [[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars & Guilds\|Extracurricular Clubs]]
 - Guild Membership
 - Successful [[3-Homebrew Mechanics/Academics/Neverwood Academic System\|Exams]]
 

@@ -31,7 +31,7 @@ You learn best through doing and repetition.
 
 ### Extracurriculars
 You thrive outside the classroom in [[3-Homebrew Mechanics/Academics/Free Time System\|clubs and activities]].
-* Your [[3-Homebrew Mechanics/Academics/Student Dice System\|Student Die]] from [[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars List\|Extracurriculars]] increases in size per Extracurriculars Skill Point (e.g. 1d4 → 1d6 → 1d8)
+* Your [[3-Homebrew Mechanics/Academics/Student Dice System\|Student Die]] from [[2-Player Handouts/Academic Information/Extracurricular Clubs/Extracurriculars & Guilds\|Extracurriculars]] increases in size per Extracurriculars Skill Point (e.g. 1d4 → 1d6 → 1d8)
 * You gain **one additional Student Die source per week** (from clubs/extracurricular involvement)
 
 ### Jobs
