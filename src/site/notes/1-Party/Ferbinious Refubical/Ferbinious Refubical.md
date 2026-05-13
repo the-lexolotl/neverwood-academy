@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ferbinious","Ferb","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":1,"coin_gp":43,"coin_ep":0,"coin_sp":15,"coin_cp":12,"groupCup":"[[Group Cup Challenge|Group 3](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)","dg-pinned":true,"dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Ferbinious","Ferb","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":3,"hp":20,"max_hp":20,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null,"image":"Ferbinious.png","subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":14,"pasinvest":12,"darkvis":null,"school_year":1,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":1,"coin_gp":43,"coin_ep":0,"coin_sp":15,"coin_cp":12,"groupCup":"[[Group Cup Challenge|Group 3](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)"}}
+{"aliases":["Ferbinious","Ferb","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":4,"max_hp":26,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"image":"Ferbinious.png","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-show-toc":true,"subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":16,"pasinvest":13,"darkvis":null,"school_year":2,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":1,"coin_gp":143,"coin_ep":0,"coin_sp":15,"coin_cp":12,"groupCup":"[[Group Cup Challenge|Group 3](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)","dg-pinned":true,"studiedLearning":2,"appliedLearning":3,"extracurricular":0,"jobs":0,"popularity":0,"dg-path":"Party/Ferbinious Refubical/Ferbinious Refubical.md","permalink":"/party/ferbinious-refubical/ferbinious-refubical/","pinned":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Ferbinious","Ferb","Joel"],"tags":["Category/Player"],"Player":"Joel","Role":"Player","level":4,"max_hp":26,"ac":11,"modifier":1,"pasperc":12,"Status":"Active","PlayerKnownLanguages":["Common","Common Sign Language","Dwarvish","Giant","Gnomish"],"char_role":"Player","char_college":"Lorehold","char_race":"Halfling","char_class":"Sorcerer","char_gender":"Male","char_status":"Alive","char_age":"Young Adult","Connected_Quests":["[Nest of the Eldritch Eye]]"],"Connected_Groups":["[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]","[[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]"],"parents":null,"partner":null,"children":null,"enemies":null,"allies":null,"siblings":null,"image":"Ferbinious.png","subclass":["Aberrant Sorcery"],"speed_walk":"30 ft","speed_fly":null,"speed_swim":"15 ft","speed_climb":"15 ft","jump_stand_long":"5 ft","jump_run_long":"10 ft","jump_stand_high":"1.5 ft","jump_run_high":"3 ft","pasinsight":16,"pasinvest":13,"darkvis":null,"school_year":2,"prof":2,"carry_cap":"150 lbs","push_cap":"300 lbs","coin_pp":1,"coin_gp":143,"coin_ep":0,"coin_sp":15,"coin_cp":12,"groupCup":"[[Group Cup Challenge|Group 3](/img/user/2-Quests/Nest%20of%20the%20Eldritch%20Eye.md)","studiedLearning":2,"appliedLearning":3,"extracurricular":0,"jobs":0,"popularity":0}}
 ---
 
 > [!infobox|left]+
@@ -10,23 +10,23 @@
 > ---|---|---|---|
 > **Race** | Halfling | **Gender** | Male |
 > **Class** | Sorcerer | **Subclass** | Aberrant Sorcery | 
-> **Level** | 3 | **Status** | Alive |
+> **Level** | 4 | **Status** | Alive |
 > 
 > **Languages:** Common,Common Sign Language,Dwarvish,Giant,Gnomish 
 >  ###### Academic Information
 > Stat  |  Value |
 > ---|---|
 > **College** | Lorehold | 
-> **Academic Year** | 1 |
+> **Academic Year** | 2 |
 > **Cup Challenge:** | [[z_Website/Group Cup Challenge\|Group 3]] |
 > **Counsellor 1:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Hofri Ghostforge\|Hofri Ghostforge]] | 
 > **Counsellor 2:** | [[2-World/People/Neverwood Academy/Staff/Lorehold/Marrick Deepfinder\|Marrick Deepfinder]] |
 > ###### Stats & Senses
 > Stat  |  Value | Sense | Value |
 > ---|---|---|---|
-> **Max HP** | 20 | **Passive Perception** | 12 |
-> **AC** | 11 | **Passive Insight** | 14 |
-> **Initiative** | 1 | **Passive Investigation** | 12 |
+> **Max HP** | 26 | **Passive Perception** | 12 |
+> **AC** | 11 | **Passive Insight** | 16 |
+> **Initiative** | 1 | **Passive Investigation** | 13 |
 > **Proficiency** | 2 | **Darkvision** | None |
 > ###### Movement
 > Travel Type | Distance | Jump Type | Distance |
@@ -71,21 +71,21 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 
 |              | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | :----------: | :------: | :-------: | :----------: | :----------: | :----: | :------: |
-|    Score     |    10    |    12     |      15      |      15      |   15   |    8     |
-| Ability Mod  |    +0    |    +1     |      +2      |      +2      |   +2   |    -1    |
-| Saving Throw |    +0    |    +1     |     ● +4     |      +2      |   +2   |   ● +1   |
+|    Score     |    10    |    12     |      15      |      16      |   15   |    8     |
+| Ability Mod  |    +0    |    +1     |      +2      |      +3      |   +2   |    -1    |
+| Saving Throw |    +0    |    +1     |     ● +4     |      +3      |   +2   |   ● +1   |
 
 |     | Mod | Skill           | Bonus |     |     | Mod | Skill          | Bonus |
 | --- | --- | --------------- | ----- | --- | --- | --- | -------------- | ----- |
 | ○   | Dex | Acrobatics      | +1    |     | ○   | Wis | Medicine       | +2    |
-| ○   | Wis | Animal Handling | +2    |     | ○   | Int | Nature         | +2    |
-| ●   | Int | Arcana          | +4    |     | ○   | Wis | Perception     | +2    |
+| ○   | Wis | Animal Handling | +2    |     | ○   | Int | Nature         | +3    |
+| ●   | Int | Arcana          | +5    |     | ○   | Wis | Perception     | +2    |
 | ○   | Str | Athletics       | +0    |     | ○   | Cha | Performance    | -1    |
 | ○   | Cha | Deception       | -1    |     | ○   | Cha | Persuasion     | -1    |
-| ●   | Int | History         | +4    |     | ●   | Int | Religion       | +4    |
-| ●   | Wis | Insight         | +4    |     | ○   | Dex | Slight of Hand | +1    |
+| ●   | Int | History         | +5    |     | ●   | Int | Religion       | +5    |
+| ★   | Wis | Insight         | +6    |     | ○   | Dex | Slight of Hand | +1    |
 | ○   | Cha | Intimidation    | -1    |     | ○   | Dex | Stealth        | +1    |
-| ○   | Int | Investigation   | +2    |     | ○   | Wis | Survival       | +2    |
+| ○   | Int | Investigation   | +3    |     | ○   | Wis | Survival       | +2    |
 
 ## Other Skills/Proficiencies 
 - Advantage to avoid or end the Frightened condition
@@ -93,9 +93,12 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 
 ## Student Skill Points
 
-| Studied Learning | Applied Learning | Extracurriculars | Jobs | Popularity |
-| :--------------: | :--------------: | :--------------: | :--: | :--------: |
-|        +2        |        +2        |        0         |  0   |     0      |
+|    Studied Learning     |    Applied Learning     |    Extracurriculars     |     Jobs     |     Popularity     |
+| :---------------------: | :---------------------: | :---------------------: | :----------: | :----------------: |
+| 2 | 3 | `=this.extracurricular` | `=this.jobs` | `=this.popularity` |
+#### Boons 
+**Applied Learning:** You start each exam with one reroll available.
+
 # Student Dice
 ### Extracurricular - Once per tenday
 - [ ] 
@@ -109,7 +112,7 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 
 | Platinum (pp)    | Gold (gp)        | Electrum (ep)    | Silver (sp)      | Copper (cp)      |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| 1 | 43 | `= this.coin_ep` | 15 | 12 |
+| 1 | 143 | `= this.coin_ep` | 15 | 12 |
 ### Items
 > [!example]- Equipment (10)
 > Crystal
