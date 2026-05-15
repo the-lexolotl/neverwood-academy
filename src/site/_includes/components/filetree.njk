@@ -66,6 +66,15 @@
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
+<pre style="color:red;font-size:11px;">
+FILETREE KEYS:
+{%- for fileOrFolderName, fileOrFolder in filetree -%}
+  {{ fileOrFolderName }}
+{%- endfor -%}
+
+ROOT NAV ORDER:
+{{ navigationOrder["/"] | dump }}
+</pre>
          <div class="folder" x-data="{isOpen: true}">
                {%- set rootOrder = navigationOrder["/"] -%}
                {%- if rootOrder -%}
