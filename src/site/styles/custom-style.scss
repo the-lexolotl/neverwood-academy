@@ -274,8 +274,9 @@ body {
 }
 
 body, p, a, button, .btn, h1, h2, h3, h4, h5, h6,
-.garden-card, .note-card, .block {
-    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease !important;
+.garden-card, .note-card, .block,
+.img-btn, .img-btn img {
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.25s ease, box-shadow 0.25s ease !important;
 }
 
 /* Ensure graph containers have no transitions */
@@ -413,7 +414,7 @@ body:has(.homepage) .content {
     background-size: cover;
     background-position: center bottom;
     background-repeat: no-repeat;
-    margin-bottom: -350px;
+    margin-bottom: -320px;
     border-radius: 0;
 }
 
@@ -433,4 +434,90 @@ body:has(.homepage) .content {
 .homepage th,
 .homepage td {
     width: auto;
+}
+
+/* ==============================
+   CALLOUT COLOUR VARIANTS
+============================== */
+
+/* --- [!info] — standard infobox, dark background --- */
+.callout[data-callout="info"] {
+    background-color: #252535 !important;
+    border-left-color: #5c5ca0 !important;
+}
+.callout[data-callout="info"] .callout-title {
+    color: #9b9d79 !important;
+}
+.callout[data-callout="info"] .callout-title-inner,
+.callout[data-callout="info"] p,
+.callout[data-callout="info"] li {
+    color: #d8deb9 !important;
+}
+
+/* --- [!success] — reward/green --- */
+.callout[data-callout="success"] {
+    background-color: #1b2b1e !important;
+    border-left-color: #4a7c52 !important;
+}
+.callout[data-callout="success"] .callout-title {
+    color: #6aaa72 !important;
+}
+.callout[data-callout="success"] .callout-title-inner,
+.callout[data-callout="success"] p,
+.callout[data-callout="success"] li {
+    color: #a8d5ab !important;
+}
+
+/* --- [!warning] — amber/red --- */
+.callout[data-callout="warning"] {
+    background-color: #2b1a14 !important;
+    border-left-color: #b85c2a !important;
+}
+.callout[data-callout="warning"] .callout-title {
+    color: #d97840 !important;
+}
+.callout[data-callout="warning"] .callout-title-inner,
+.callout[data-callout="warning"] p,
+.callout[data-callout="warning"] li {
+    color: #e8b99a !important;
+}
+
+/* --- [!abstract] — Notice Board, parchment --- */
+.callout[data-callout="abstract"] {
+    background-color: #c5c1a7 !important;
+    border-left: 4px solid #9b9779 !important;
+    border-radius: 8px;
+    font-style: normal !important;  /* override global blockquote italic */
+}
+.callout[data-callout="abstract"] .callout-title,
+.callout[data-callout="abstract"] .callout-title-inner,
+.callout[data-callout="abstract"] p,
+.callout[data-callout="abstract"] li,
+.callout[data-callout="abstract"] em,
+.callout[data-callout="abstract"] strong {
+    color: #323244 !important;
+    font-style: normal !important;
+}
+.callout[data-callout="abstract"] a {
+    color: #3b3b6e !important;
+}
+
+/* ==============================
+   INFOBOX COLLAPSE FIX
+   When [!infobox|left]+ or [!infobox|right]+ is collapsed,
+   drop the float so body text reflows to fill the space.
+============================== */
+
+.callout[data-callout="infobox"].is-collapsed {
+    float: none !important;
+    clear: none !important;
+    width: auto !important;
+    max-width: 350px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* When collapsed, siblings no longer need flow-root containment */
+.callout[data-callout="infobox"].is-collapsed ~ * {
+    display: revert !important;
 }
