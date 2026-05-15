@@ -350,10 +350,12 @@ input[type="checkbox"]:checked::after {
     width: 500px;
     margin-right: 1rem;
     margin-bottom: 1rem;
-    background-color: #1a1a28 !important;
+    background-color: #2e2e48 !important;
     border-left-color: #5c5ca0 !important;
 }
-.callout[data-callout="infobox"] .callout-title {
+.callout[data-callout="infobox"] .callout-title,
+.callout[data-callout="infobox"] .callout-title-inner,
+.callout[data-callout="infobox"] .callout-title span {
     color: #9b9d79 !important;
 }
 .callout[data-callout="infobox"] .callout-title-inner,
@@ -428,7 +430,7 @@ body:has(.homepage) .content {
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     margin-top: 0;
-    height: 600px;
+    height: 550px;
     aspect-ratio: 1700/1250;
     background-image: url('/img/Banner.png');
     background-size: cover;
@@ -461,11 +463,12 @@ body:has(.homepage) .content {
 ============================== */
 
 /* --- [!info] — standard infobox, dark background --- */
-.callout[data-callout="info"] {
-    background-color: #1a1a28 !important;
+    background-color: #2e2e48 !important;
     border-left-color: #5c5ca0 !important;
 }
-.callout[data-callout="info"] .callout-title {
+.callout[data-callout="info"] .callout-title,
+.callout[data-callout="info"] .callout-title-inner,
+.callout[data-callout="info"] .callout-title span {
     color: #9b9d79 !important;
 }
 .callout[data-callout="info"] .callout-title-inner,
@@ -479,7 +482,9 @@ body:has(.homepage) .content {
     background-color: #111d13 !important;
     border-left-color: #4a7c52 !important;
 }
-.callout[data-callout="success"] .callout-title {
+.callout[data-callout="success"] .callout-title,
+.callout[data-callout="success"] .callout-title-inner,
+.callout[data-callout="success"] .callout-title span {
     color: #6aaa72 !important;
 }
 .callout[data-callout="success"] .callout-title-inner,
@@ -493,7 +498,9 @@ body:has(.homepage) .content {
     background-color: #1e100a !important;
     border-left-color: #b85c2a !important;
 }
-.callout[data-callout="warning"] .callout-title {
+.callout[data-callout="warning"] .callout-title,
+.callout[data-callout="warning"] .callout-title-inner,
+.callout[data-callout="warning"] .callout-title span {
     color: #d97840 !important;
 }
 .callout[data-callout="warning"] .callout-title-inner,
@@ -511,6 +518,7 @@ body:has(.homepage) .content {
 }
 .callout[data-callout="abstract"] .callout-title,
 .callout[data-callout="abstract"] .callout-title-inner,
+.callout[data-callout="abstract"] .callout-title span,
 .callout[data-callout="abstract"] p,
 .callout[data-callout="abstract"] li,
 .callout[data-callout="abstract"] em,
