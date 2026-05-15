@@ -1,42 +1,51 @@
 {% macro renderTree(tree, currentPath="/") %}
 
-  {# Get ordering for this level, or empty array if none exists #}
   {% set childOrder = navigationOrder[currentPath] or [] %}
 
   <ul>
-    {# --- FIRST PASS: render items in defined order --- #}
+
+    {# --- FIRST PASS: ordered items --- #}
     {% for orderedName in childOrder %}
       {% for key, fileOrFolder in tree %}
-        {% if fileOrFolder.name == orderedName %}
+
+        {# Safely determine display name #}
+        {% set name = fileOrFolder.name or key | replace(".md", "") | replace(".md", "") %}
+
+        {% if name == orderedName %}
           <li>
             {% if fileOrFolder.children %}
               <details>
-                <summary>{{ fileOrFolder.name }}</summary>
-                {{ renderTree(fileOrFolder.children, currentPath + "/" + fileOrFolder.name) }}
+                <summary>{{ name }}</summary>
+                {{ renderTree(fileOrFolder.children, currentPath + "/" + name) }}
               </details>
             {% else %}
-              <a href="{{ fileOrFolder.url }}">{{ fileOrFolder.name }}</a>
+              <a href="{{ fileOrFolder.url }}">{{ name }}</a>
             {% endif %}
           </li>
         {% endif %}
+
       {% endfor %}
     {% endfor %}
 
-    {# --- SECOND PASS: render anything NOT in order list --- #}
+    {# --- SECOND PASS: everything else --- #}
     {% for key, fileOrFolder in tree %}
-      {% if fileOrFolder.name not in childOrder %}
+
+      {% set name = fileOrFolder.name or key | replace(".md", "") | replace(".md", "") %}
+
+      {% if name not in childOrder %}
         <li>
           {% if fileOrFolder.children %}
             <details>
-              <summary>{{ fileOrFolder.name }}</summary>
-              {{ renderTree(fileOrFolder.children, currentPath + "/" + fileOrFolder.name) }}
-            </details>
-          {% else %}
-            <a href="{{ fileOrFolder.url }}">{{ fileOrFolder.name }}</a>
-          {% endif %}
-        </li>
+              <summary>{{ name }}</summary>
+              {{ renderTree(fileOrFolder.children, currentPath + "/" + name) }}
+            {% else %}
+              <a href="{{ fileOrFolder.url }}">{{ name }}</a>
+            {% endif %}
+          </li>
       {% endif %}
+
     {% endfor %}
+
   </ul>
 
 {% endmacro %}
