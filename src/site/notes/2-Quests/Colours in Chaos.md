@@ -8,12 +8,12 @@
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 23/10/2025 |
-| ----------------- | -------------------------- |
-| Status: | In Progress |
-| Quest Giver: | Unknown |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]], [[2-World/Places/Prismari Campus\|Prismari Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-23 - Rain Async\|2025-10-23 - Rain Async]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | In Progress |
+> | Quest Giver: | Unknown |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Conjurot Hall\|Conjurot Hall]], [[2-World/Places/Prismari Campus\|Prismari Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-23 - Rain Async\|2025-10-23 - Rain Async]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 The [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] hosts its annual exhibition — a dazzling showcase where students infuse raw magic into living art. As the halls bloom with sound and colour, [[1-Party/H'er/H'er\|H'er's]] work stands among the most captivating pieces: a prismatic construct that responds to her emotions.

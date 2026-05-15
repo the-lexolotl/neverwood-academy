@@ -10,12 +10,12 @@
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 10/01/2026 |
-| ----------------- | -------------------------- |
-| Status: | Not Started |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]], [[2-World/Places/Central Campus\|Central Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-01-10 - Session 25\|2026-01-10 - Session 25]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Not Started |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]], [[2-World/Places/Central Campus\|Central Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-01-10 - Session 25\|2026-01-10 - Session 25]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 A short while after their second Magical Physiologies Exam, one of the characters is intercepted by a familiar face. [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]], a confident second-year student, rushes past, presses a crumpled, slightly damp note into their hand, gives an exaggerated wink, and vanishes back into the crowd.
