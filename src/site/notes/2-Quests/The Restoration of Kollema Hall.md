@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # The Restoration of Kollema Hall
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 03/01/2026 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-01-03 - Session 24\|2026-01-03 - Session 24]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-01-03 - Session 24\|2026-01-03 - Session 24]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 On the 12th of Alturiak, 1509, a magically induced beanstalk was grown on academy grounds without proper authorisation or structural planning. The growth erupted through [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], damaging multiple floors, destabilising ward networks, and rendering the building temporarily unsafe for use.

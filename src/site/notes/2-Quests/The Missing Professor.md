@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # The Missing Professor
 > ![009-02-001.book.webp](/img/user/z_Assets/The%20Joy%20of%20Extra/009-02-001.book.webp)
 > ###### Basic Info
 > | Date Obtained: | 09/08/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | Unknown |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]], [[2-World/Places/Lorehold Campus\|Lorehold Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-09 - Session 5\|2025-08-09 - Session 5]] |
-| Acquired Loot:    | Driftglobe |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | Unknown |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Pillardrop\|Pillardrop]], [[2-World/Places/Lorehold Campus\|Lorehold Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-09 - Session 5\|2025-08-09 - Session 5]] |
+> | Acquired Loot:    | Driftglobe |
 
 # Backstory
 A Neverwood professor has been missing for a year now. He seemingly disappeared from his office with not trace.

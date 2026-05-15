@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # The Merchant of Moons
 > ![Merchants of the Moon.png](/img/user/z_Assets/Posters/Merchants%20of%20the%20Moon.png)
 > ###### Basic Info
 > | Date Obtained: | 24/10/2025 |
-| ----------------- | -------------------------- |
-| Status: | In Progress |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]] |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]], [[2-World/Places/Silverquill Campus\|Silverquill Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Megan Async\|2025-10-24 - Megan Async]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | In Progress |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]] |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]], [[2-World/Places/Silverquill Campus\|Silverquill Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Megan Async\|2025-10-24 - Megan Async]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 When the [[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]] announces auditions for its newest production, The Merchant of Moons, Lyra Everlight finds her name at the top of the contenders list. The opportunity could restore her reputation after recent disciplinary trouble — but all that glitters is not applause.

@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # The Pub That Crawls
 > ![TPTC.png](/img/user/z_Assets/The%20Pub%20That%20Crawls/TPTC.png)
 > ###### Basic Info
 > | Date Obtained: | 01/11/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]], [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]],  [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|2025-11-01 - Session 17]] |
-| Acquired Loot:    | Decanter of Endless Spirits, Pyroconverger, Everbright Lantern, Phil's Top Hat |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] |
+> | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Neverwinter\|Neverwinter]], [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]], [[2-World/Points of Interest/Neverwinter/The Frothing Flask\|The Frothing Flask]],  [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]], [[2-World/Points of Interest/Neverwinter/The Rambling Toad\|The Rambling Toad]], [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-01 - Session 17\|2025-11-01 - Session 17]] |
+> | Acquired Loot:    | Decanter of Endless Spirits, Pyroconverger, Everbright Lantern, Phil's Top Hat |
 
 # Backstory
 Among Neverwood Academy’s many student legends, none are as persistent as the tale of The Pub That Crawls — a mythical tavern said to walk on wooden legs through the Neverwood Marshes, appearing only to those who have proven themselves “worthy drinkers of five worlds.” Centuries ago, a group of eccentric students discovered the secret of the moving pub and, after falling out over how to use it, each founded their own establishment somewhere between [[2-World/Hubs/Neverwinter\|Neverwinter]] and the Academy grounds. These five pubs — the Tall Tale, the Frothing Flask, the Lucid Dreamer, the Rambling Toad, and the Beauty’s Mirror — became local icons, their founders sealing within them fragments of the magic needed to summon the sixth and final tavern.

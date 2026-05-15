@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Miaukier Must Die!
 > ![Pasted image 20250911161923.png](/img/user/z_Assets/character_art/NPCs/Pasted%20image%2020250911161923.png)
 > ###### Basic Info
 > | Date Obtained: | 13/09/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Xvart Village\|Xvart Village]], [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]], [[2-World/Places/Neverwinter Woods\|Neverwinter Woods]] |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-09-13 - Session 10\|2025-09-13 - Session 10]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] |
+> | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]], [[2-World/Hubs/Xvart Village\|Xvart Village]], [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]], [[2-World/Places/Neverwinter Woods\|Neverwinter Woods]] |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-09-13 - Session 10\|2025-09-13 - Session 10]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] was out looking for spell ingredients when he was attacked by small blue goblin-like creatures. They stole his cat [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]].

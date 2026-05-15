@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Sigma Mail
 > ![The Silent Equation.png](/img/user/z_Assets/website/The%20Silent%20Equation.png)
 > ###### Basic Info
 > | Date Obtained: | 24/10/2025 |
-| ----------------- | -------------------------- |
-| Status: | In Progress |
-| Quest Giver: | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] |
-| Quest Location:   | [[2-World/Places/Quandrix Campus\|Quandrix Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Ross Async\|2025-10-24 - Ross Async]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | In Progress |
+> | Quest Giver: | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] |
+> | Quest Location:   | [[2-World/Places/Quandrix Campus\|Quandrix Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Ross Async\|2025-10-24 - Ross Async]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] approaches [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] after receiving a mysterious payment on behalf of an organization called [[2-World/Groups/The Silent Equation\|The Silent Equation]]. The envelope contains platinum and a request: meet their representative at the old observatory to assist in decoding an ancient, coded spellbook. The task seems simple at first, but the nature of the book and the organization is unclear — and the opportunity is too intriguing to ignore.

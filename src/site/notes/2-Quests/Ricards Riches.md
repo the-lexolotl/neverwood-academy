@@ -5,17 +5,17 @@
 
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Ricards Riches
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 07/11/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-07 - Cat Async\|2025-11-07 - Cat Async]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-07 - Cat Async\|2025-11-07 - Cat Async]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 Deputy Head [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] has lost something in the Root Archives. Marionette just happens to be looking for a job. What a coincidence...

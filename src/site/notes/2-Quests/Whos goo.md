@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Whos goo
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 12/07/2025 |
-| ----------------- | -------------------------- |
-| Status: | In Progress |
-| Quest Giver: | Unknown |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-07-12 - Session 1\|2025-07-12 - Session 1]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | In Progress |
+> | Quest Giver: | Unknown |
+> | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-07-12 - Session 1\|2025-07-12 - Session 1]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 Across Neverwood Academy, strange and seemingly unrelated incidents have begun to surface.

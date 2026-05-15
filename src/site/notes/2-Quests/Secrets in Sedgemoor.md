@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Secrets in Sedgemoor
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 18/04/2026 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]],[[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 As part of their ongoing studies at Neverwood Academy, the students are dispatched to Sedgemoor under the supervision of Professor Lang, who requires fresh biological components for her Magical Physiologies course. What should be a routine field exercise quickly becomes something far more concerning.

@@ -5,17 +5,17 @@
 
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Nest of the Eldritch Eye
 > ![VECNA Nest.png](/img/user/z_Assets/VECNA%20Nest.png)
 > ###### Basic Info
 > | Date Obtained: | 25/04/2026 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]],[[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] |
-| Quest Location:   | [[2-World/Places/River District\|River District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwinter/Dagult Neverember\|Dagult Neverember]],[[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori Fearnehart]] |
+> | Quest Location:   | [[2-World/Places/River District\|River District]], [[2-World/Hubs/Neverwinter\|Neverwinter]] |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-04-25 - Session 38\|2026-04-25 - Session 38]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 As part of their summer work experience with [[2-World/Groups/Wintershield Watchmen\|The Wintershield Watchmen]], the students of [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] are assigned to street patrol in [[2-World/Hubs/Neverwinter\|Neverwinter]] - a chance to put their academic training to real-world use. What begins as a routine posting takes a dark turn when a man is found dead in an alley, a withered eyeball rolling from his lifeless hand. The dead man is [[2-World/People/Neverwinter/Delvin Fearnehart\|Delvin Fearnehart]], an undercover investigator who had been probing cult activity in the city. His sister [[2-World/People/Neverwinter/Kevori Fearnehart\|Kevori]], herself a Watchman operative, begs the students to take up where Delvin left off.

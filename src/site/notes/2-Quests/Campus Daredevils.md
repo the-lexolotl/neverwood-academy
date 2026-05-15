@@ -3,9 +3,7 @@
 ---
 
 
-
-
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Campus Daredevils
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info

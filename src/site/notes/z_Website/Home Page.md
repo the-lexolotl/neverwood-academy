@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":false,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"banner":"![z_Assets/website/Banner.png](/img/user/z_Assets/website/Banner.png)","content-start":1,"banner-fade":-25,"banner-height":490,"dg-path":"Home Page.md","permalink":"/home-page/","contentClasses":"homepage","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"cssclasses":"homepage","banner":"![z_Assets/website/Banner.png](/img/user/z_Assets/website/Banner.png)","content-start":1,"banner-fade":-25,"banner-height":490}}
+{"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":false,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"banner":"![z_Assets/website/Banner.png](/img/user/z_Assets/website/Banner.png)","content-start":11,"banner-height":540,"banner-fade":-40,"dg-path":"Home Page.md","permalink":"/home-page/","contentClasses":"homepage","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"cssclasses":"homepage","banner":"![z_Assets/website/Banner.png](/img/user/z_Assets/website/Banner.png)","content-start":11,"banner-height":540,"banner-fade":-40}}
 ---
 
 # Neverwood Academy: *The Ruined Syllabus*

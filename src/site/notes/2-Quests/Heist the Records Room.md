@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Heist the Records Room
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 23/08/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | Unknown |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]], [[2-World/Places/Prismari Campus\|Prismari Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-23 - Session 7\|2025-08-23 - Session 7]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | Unknown |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Opus Walk\|Opus Walk]], [[2-World/Places/Prismari Campus\|Prismari Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-08-23 - Session 7\|2025-08-23 - Session 7]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 Strange things have been happening on campus. The party has been tipped off about a expelled student but they need more information

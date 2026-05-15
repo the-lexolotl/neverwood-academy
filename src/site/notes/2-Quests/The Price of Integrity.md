@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # The Price of Integrity
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 15/10/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] |
-| Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] |
+> | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]], [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-15 - Kristy Async\|2025-10-15 - Kristy Async]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 After evidence links [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius]] to the Administration Office break-in, Professor [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] offers him a chance to make amends — not through punishment, but through purpose.

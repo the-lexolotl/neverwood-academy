@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # The Ballad of Chasey Lain
 > ![Hellhoung Gang Logo.png](/img/user/z_Assets/character_art/NPCs/Hellhoung%20Gang%20Logo.png)
 > ###### Basic Info
 > | Date Obtained: | 11/10/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]] |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-11 - Session 14\|2025-10-11 - Session 14]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]] |
+> | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-11 - Session 14\|2025-10-11 - Session 14]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 During the Winter Dance, [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]] performs their latest song, The Ballad of Chasey Lain. The crowd loves it—except for one person: [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne "Chasey" Lain]] herself. Mortified by the lyrics (which are flattering, explicit, and wildly exaggerated), Chasey storms out of the hall.

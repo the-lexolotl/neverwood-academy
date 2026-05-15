@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # Up the Beanstalk
 > ![Template_Quest_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Quest_Placeholder.png)
 > ###### Basic Info
 > | Date Obtained: | 13/12/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete (sorta...) |
-| Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-12-13 - Session 22\|2025-12-13 - Session 22]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete (sorta...) |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
+> | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-12-13 - Session 22\|2025-12-13 - Session 22]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.

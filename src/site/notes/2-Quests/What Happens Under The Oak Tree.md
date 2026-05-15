@@ -3,17 +3,17 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Quest Details
 > # What Happens Under The Oak Tree
 > ![Pasted image 20251010011732.png](/img/user/z_Assets/website/Pasted%20image%2020251010011732.png)
 > ###### Basic Info
 > | Date Obtained: | 08/11/2025 |
-| ----------------- | -------------------------- |
-| Status: | Complete |
-| Quest Giver: | Unknown |
-| Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
-| Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-08 - Session 18\|2025-11-08 - Session 18]] |
-| Acquired Loot:    | None |
+> | ----------------- | -------------------------- |
+> | Status: | Complete |
+> | Quest Giver: | Unknown |
+> | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
+> | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-11-08 - Session 18\|2025-11-08 - Session 18]] |
+> | Acquired Loot:    | None |
 
 # Backstory
 At the heart of Neverwood Academy’s Feasthall stands the ancient tree, home to the Star of Remembrance—a magical relic that preserves the memories, achievements, and bonds of every student. When a powerful Wintergeist steals the Star, the Academy’s protective magic falters, the forest grows restless, and dark forces begin to stir.
