@@ -350,7 +350,7 @@ input[type="checkbox"]:checked::after {
     width: 500px;
     margin-right: 1rem;
     margin-bottom: 1rem;
-    background-color: #2e2e48 !important;
+    background-color: #252538 !important;
     border-left-color: #5c5ca0 !important;
 }
 .callout[data-callout="infobox"] .callout-title,
@@ -464,7 +464,7 @@ body:has(.homepage) .content {
 
 /* --- [!info] — standard infobox, dark background --- */
 .callout[data-callout="info"] {
-    background-color: #2e2e48 !important;
+    background-color: #252538 !important;
     border-left-color: #5c5ca0 !important;
 }
 .callout[data-callout="info"] .callout-title,
