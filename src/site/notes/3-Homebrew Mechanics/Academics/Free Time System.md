@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","House-Rules"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Mechanics/Academics/Free Time System.md","permalink":"/mechanics/academics/free-time-system/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules"]}}
+{"tags":["Homebrew","House-Rules","Category/Mechanic"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-path":"Mechanics/Academics/Free Time System.md","permalink":"/mechanics/academics/free-time-system/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules","Category/Mechanic"]}}
 ---
 
 # Free Time Slots

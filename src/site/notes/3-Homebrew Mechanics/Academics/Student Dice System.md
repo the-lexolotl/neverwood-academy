@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","House-Rules"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Student Die","Student Dice"],"dg-path":"Mechanics/Academics/Student Dice System.md","permalink":"/mechanics/academics/student-dice-system/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules"],"aliases":["Student Die","Student Dice"]}}
+{"tags":["Homebrew","House-Rules","Category/Mechanic"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Student Die","Student Dice"],"dg-path":"Mechanics/Academics/Student Dice System.md","permalink":"/mechanics/academics/student-dice-system/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules","Category/Mechanic"],"aliases":["Student Die","Student Dice"]}}
 ---
 
 # What is a Student Die?

@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":false,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Neverwood Initiate.md","permalink":"/mechanics/feats/neverwood-initiate/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat"]}}
+{"tags":["Homebrew","Feat","Category/Mechanic"],"dg-publish":true,"dg-show-toc":false,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Neverwood Initiate.md","permalink":"/mechanics/feats/neverwood-initiate/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat","Category/Mechanic"]}}
 ---
 
 *General Feat · Level 1+*

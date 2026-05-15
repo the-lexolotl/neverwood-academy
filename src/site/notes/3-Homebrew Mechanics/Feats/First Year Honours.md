@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/First Year Honours.md","permalink":"/mechanics/feats/first-year-honours/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat"]}}
+{"tags":["Homebrew","Feat","Category/Mechanic"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/First Year Honours.md","permalink":"/mechanics/feats/first-year-honours/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat","Category/Mechanic"]}}
 ---
 
 *Academic Feat · Level 3+ · Completion of First Year at Neverwood Academy*

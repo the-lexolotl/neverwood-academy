@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","House-Rules"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Exams"],"dg-path":"Mechanics/Academics/Neverwood Academic System.md","permalink":"/mechanics/academics/neverwood-academic-system/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules"],"aliases":["Exams"]}}
+{"tags":["Homebrew","House-Rules","Category/Mechanic"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":["Exams"],"dg-path":"Mechanics/Academics/Neverwood Academic System.md","permalink":"/mechanics/academics/neverwood-academic-system/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules","Category/Mechanic"],"aliases":["Exams"]}}
 ---
 
 At Neverwood Academy, your academic success is measured across three areas:

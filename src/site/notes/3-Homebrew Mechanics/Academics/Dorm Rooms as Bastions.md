@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","House-Rules"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":null,"dg-path":"Mechanics/Academics/Dorm Rooms as Bastions.md","permalink":"/mechanics/academics/dorm-rooms-as-bastions/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules"],"aliases":null}}
+{"tags":["Homebrew","House-Rules","Category/Mechanic"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"aliases":null,"dg-path":"Mechanics/Academics/Dorm Rooms as Bastions.md","permalink":"/mechanics/academics/dorm-rooms-as-bastions/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","House-Rules","Category/Mechanic"],"aliases":null}}
 ---
 
 Dorm Rooms at Neverwood Academy function as personal Bastions, using a modified version of the 2024 Bastion rules (5.5e). Each student’s dorm evolves over time, reflecting academic progression, magical training, and personal development.

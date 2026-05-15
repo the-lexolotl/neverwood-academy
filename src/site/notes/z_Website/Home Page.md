@@ -6,9 +6,7 @@
 ### *The Ruined Syllabus*
 *An arcane institution in good standing. Mostly.*..
 
-Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. 
-
-These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. 
+Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. 
 
 ---
 ![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
@@ -17,11 +15,6 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 
 ## 📚 Student Portal
 
-| ![Player Characters.png](/img/user/z_Assets/website/Player%20Characters.png) |     ![Group Cup.png](/img/user/z_Assets/website/Group%20Cup.png)      |           ![Appointments.png](/img/user/z_Assets/website/Appointments.png)           |
-| :------------------------: | :-------------------------: | :---------------------------------------: |
-| **[[z_Website/Player Characters\|Player Characters]]**  | **[[z_Website/Group Cup Challenge\|Group Cup Challenge]]** | **[[z_Website/Appointments\|Book an Appointment]]** |
-| ![Session Journals.png](/img/user/z_Assets/website/Session%20Journals.png)  |       ![Quests.png](/img/user/z_Assets/website/Quests.png)       |             ![Handouts.png](/img/user/z_Assets/website/Handouts.png)             |
-|  **[[z_Website/Session Journals\|Session Journals]]**  |       **[[z_Website/Quests\|Quests]]**        |          **[[z_Website/Player Handouts\|Player Handouts]]**          |
 <div class="img-grid cols-3">
   <a href="/player-characters/" class="img-btn"><img src="/img/Homepage%20Buttons/Player%20Characters.png" alt="Player Characters"></a>
   <a href="/group-cup-challenge/" class="img-btn"><img src="/img/Homepage%20Buttons/Group%20Cup.png" alt="Group Cup Challenge"></a>
@@ -30,7 +23,6 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
   <a href="/quests/" class="img-btn"><img src="/img/Homepage%20Buttons/Quests.png" alt="Quests"></a>
   <a href="/player-handouts/" class="img-btn"><img src="/img/Homepage%20Buttons/Handouts.png" alt="Player Handouts"></a>
 </div>
-
 
 ---
 > [!abstract]+ Notice Board Highlights
@@ -44,10 +36,6 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ---
 ## 🗺️ Interactive Maps
 
-|                         ![Neverwood Map.png](/img/user/z_Assets/website/Neverwood%20Map.png)                          |                  ![Neverwinter Map.png](/img/user/z_Assets/website/Neverwinter%20Map.png)                   |                ![Faerun Map.png](/img/user/z_Assets/website/Faerun%20Map.png)                |
-| :---------------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------: |
-| [Neverwood Academy](https://www.neverwood.co.uk/neverwood-academy-map/) | [Neverwinter](https://www.neverwood.co.uk/neverwinter-map/) | [Faerûn](https://www.neverwood.co.uk/faerun-map/) |
-
 <div class="img-grid cols-3">
   <a href="https://www.neverwood.co.uk/neverwood-academy-map/" class="img-btn" target="_blank" rel="noopener"><img src="/img/Homepage%20Buttons/Neverwood%20Map.png" alt="Neverwood Academy Map"></a>
   <a href="https://www.neverwood.co.uk/neverwinter-map/" class="img-btn" target="_blank" rel="noopener"><img src="/img/Homepage%20Buttons/Neverwinter%20Map.png" alt="Neverwinter City Map"></a>
@@ -57,9 +45,6 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 ---
 ## 🏛️ World Lore
 
-|   ![Neverwood sq.png](/img/user/z_Assets/website/Neverwood%20sq.png)   |     ![Staff.png](/img/user/z_Assets/website/Staff.png)      | ![Neverwinter square.png](/img/user/z_Assets/website/Neverwinter%20square.png) | ![The North.png](/img/user/z_Assets/website/The%20North.png) | ![z_Assets/website/Faerûn.png](/img/user/z_Assets/website/Faer%C3%BBn.png) |                               |
-|:-------------------------:|:-----------------------:|:---------------------------:|:------------------:|:--------------------------------:| ----------------------------- |
-| **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]** | **[[2-World/Groups/Neverwood Staff\|Neverwood Staff]]** |     **[[2-World/Hubs/Neverwinter\|Neverwinter]]**     | **[[2-World/Regions/The North\|The North]]**  |          **[[2-World/Continents/Faerûn\|Faerûn]]**          |
 <div class="img-grid cols-5">
   <a href="/neverwood-academy/" class="img-btn"><img src="/img/Homepage%20Buttons/Neverwood%20sq.png" alt="Neverwood Academy"></a>
   <a href="/neverwood-staff/" class="img-btn"><img src="/img/Homepage%20Buttons/Staff.png" alt="Neverwood Staff"></a>
@@ -121,9 +106,6 @@ FantasyCalendar({
 
 ---
 ## 🔐 Table Utilities
-| ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                                     | ![Rules.png](/img/user/z_Assets/website/Rules.png)      | ![Homebrew Mechanics.png](/img/user/z_Assets/website/Homebrew%20Mechanics.png) | ![Downtime.png](/img/user/z_Assets/website/Downtime.png)           | ![Safety.png](/img/user/z_Assets/website/Safety.png)      |
-| ------------------------------------------------------------------------ | ------------------- | --------------------------- | --------------------------- | -------------------- |
-| **[Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join)** | **[[z_Website/House Rules\|House Rules]]** | **[[z_Website/Homebrew Mechanics\|Homebrew Mechanics]]**  | **[[z_Website/Downtime Activities\|Downtime Activities]]** | **[[z_Website/Safety Tools\|Safety Tools]]** |
 
 <div class="img-grid cols-5">
   <a href="https://neverwood-academy.eu.forge-vtt.com/join" class="img-btn" target="_blank" rel="noopener"><img src="/img/Homepage%20Buttons/VTT.png" alt="Virtual Table Top"></a>
@@ -133,8 +115,8 @@ FantasyCalendar({
   <a href="/safety-tools/" class="img-btn"><img src="/img/Homepage%20Buttons/Safety.png" alt="Safety Tools"></a>
 </div>
 
-
 ---
-*Disclaimer: A degree from Neverwood Academy does not provide protection from magic missiles, fireballs, freezing spheres, or any other deleterious effects spellcasters might generate. If you create deleterious effects, Neverwood kindly requests you refrain from invoking any names, symbols, or other references to the academy should you find yourself in a confrontation. Neverwood Academy does not take responsibility for any injury of any nature sustained in the course of anything, magical or otherwise.*
+> [!warning]+ Disclaimer:
+> *A degree from Neverwood Academy does not provide protection from magic missiles, fireballs, freezing spheres, or any other deleterious effects spellcasters might generate. If you create deleterious effects, Neverwood kindly requests you refrain from invoking any names, symbols, or other references to the academy should you find yourself in a confrontation. Neverwood Academy does not take responsibility for any injury of any nature sustained in the course of anything, magical or otherwise.*
 
 This site is proudly powered by [Obsidian](https://vaults.obsidian-community.com) and [Digital Garden](https://docs.forestry.md)

@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Spell"],"dg-publish":true,"dg-show-toc":null,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Spells/Piss Yourself.md","permalink":"/mechanics/spells/piss-yourself/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Spell"]}}
+{"tags":["Homebrew","Spell","Category/Mechanic"],"dg-publish":true,"dg-show-toc":null,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Spells/Piss Yourself.md","permalink":"/mechanics/spells/piss-yourself/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Spell","Category/Mechanic"]}}
 ---
 
 

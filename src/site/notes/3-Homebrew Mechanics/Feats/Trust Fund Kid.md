@@ -1,5 +1,5 @@
 ---
-{"tags":["Homebrew","Feat"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Trust Fund Kid.md","permalink":"/mechanics/feats/trust-fund-kid/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat"]}}
+{"tags":["Homebrew","Feat","Category/Mechanic"],"dg-publish":true,"dg-show-toc":true,"dg-show-backlinks":null,"dg-show-local-graph":null,"dg-show-inline-title":true,"dg-path":"Mechanics/Feats/Trust Fund Kid.md","permalink":"/mechanics/feats/trust-fund-kid/","dgShowInlineTitle":true,"dgShowToc":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Homebrew","Feat","Category/Mechanic"]}}
 ---
 
 *General Feat · Level 1+ · Prerequisite: Requires a Charisma score of 13 or higher*
