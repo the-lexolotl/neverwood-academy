@@ -2,9 +2,11 @@
 {"dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":false,"dg-show-backlinks":false,"dg-show-toc":false,"cssclasses":"homepage","dg-hide":false,"dg-path":"Home Page.md","permalink":"/home-page/","contentClasses":"homepage","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"cssclasses":"homepage"}}
 ---
 
-# Neverwood Academy  
-# *The Ruined Syllabus*
+# Neverwood Academy: *The Ruined Syllabus*
+
 <br>
+<br>
+
 ### *An arcane institution in good standing. Mostly.*..
 
 Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. 
