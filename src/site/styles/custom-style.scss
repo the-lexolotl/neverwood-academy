@@ -98,7 +98,7 @@ blockquote, .callout {
     padding-left: 1em;
     font-style: italic;
     margin: 1em 0;
-    background-color: #2f2f4f;
+    background-color: #23233a;
     border-radius: 6px;
     color: #c5c7a1 !important;
 }
@@ -350,6 +350,26 @@ input[type="checkbox"]:checked::after {
     width: 500px;
     margin-right: 1rem;
     margin-bottom: 1rem;
+    background-color: #1a1a28 !important;
+    border-left-color: #5c5ca0 !important;
+}
+.callout[data-callout="infobox"] .callout-title {
+    color: #9b9d79 !important;
+}
+.callout[data-callout="infobox"] .callout-title-inner,
+.callout[data-callout="infobox"] p,
+.callout[data-callout="infobox"] li,
+.callout[data-callout="infobox"] td,
+.callout[data-callout="infobox"] th {
+    color: #c5c1a7 !important;
+}
+.callout[data-callout="infobox"] h1,
+.callout[data-callout="infobox"] h2,
+.callout[data-callout="infobox"] h3,
+.callout[data-callout="infobox"] h4,
+.callout[data-callout="infobox"] h5,
+.callout[data-callout="infobox"] h6 {
+    color: #9b9d79 !important;
 }
 .callout[data-callout="infobox"][data-callout-metadata*="right"] {
     float: right;
@@ -414,7 +434,7 @@ body:has(.homepage) .content {
     background-size: cover;
     background-position: center bottom;
     background-repeat: no-repeat;
-    margin-bottom: -280px;
+    margin-bottom: -260px;
     border-radius: 0;
 }
 
@@ -442,7 +462,7 @@ body:has(.homepage) .content {
 
 /* --- [!info] — standard infobox, dark background --- */
 .callout[data-callout="info"] {
-    background-color: #252535 !important;
+    background-color: #1a1a28 !important;
     border-left-color: #5c5ca0 !important;
 }
 .callout[data-callout="info"] .callout-title {
@@ -451,12 +471,12 @@ body:has(.homepage) .content {
 .callout[data-callout="info"] .callout-title-inner,
 .callout[data-callout="info"] p,
 .callout[data-callout="info"] li {
-    color: #d8deb9 !important;
+    color: #c5c1a7 !important;
 }
 
 /* --- [!success] — reward/green --- */
 .callout[data-callout="success"] {
-    background-color: #1b2b1e !important;
+    background-color: #111d13 !important;
     border-left-color: #4a7c52 !important;
 }
 .callout[data-callout="success"] .callout-title {
@@ -465,12 +485,12 @@ body:has(.homepage) .content {
 .callout[data-callout="success"] .callout-title-inner,
 .callout[data-callout="success"] p,
 .callout[data-callout="success"] li {
-    color: #a8d5ab !important;
+    color: #c5c1a7 !important;
 }
 
 /* --- [!warning] — amber/red --- */
 .callout[data-callout="warning"] {
-    background-color: #2b1a14 !important;
+    background-color: #1e100a !important;
     border-left-color: #b85c2a !important;
 }
 .callout[data-callout="warning"] .callout-title {
@@ -479,7 +499,7 @@ body:has(.homepage) .content {
 .callout[data-callout="warning"] .callout-title-inner,
 .callout[data-callout="warning"] p,
 .callout[data-callout="warning"] li {
-    color: #e8b99a !important;
+    color: #c5c1a7 !important;
 }
 
 /* --- [!abstract] — Notice Board, parchment --- */
