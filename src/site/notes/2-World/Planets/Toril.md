@@ -83,8 +83,8 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 # Continents
 | File                                         |
 | -------------------------------------------- |
-| [[2-World/Continents/Faerûn\|Faerûn]]     |
 | [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
+| [[2-World/Continents/Faerûn\|Faerûn]]     |
 
 { .block-language-dataview}
 
@@ -92,8 +92,8 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 | File                                                           |
 | -------------------------------------------------------------- |
 | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]       |
-| [[2-World/Hubs/Daggerford\|Daggerford]]                     |
 | [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]]             |
+| [[2-World/Hubs/Daggerford\|Daggerford]]                     |
 | [[2-World/Hubs/Morgrave University\|Morgrave University]]   |
 | [[2-World/Hubs/The Malatran Plateau\|The Malatran Plateau]] |
 | [[2-World/Hubs/Waterdeep\|Waterdeep]]                       |
@@ -104,8 +104,8 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 | [[2-World/Hubs/Luskan\|Luskan]]                             |
 | [[2-World/Hubs/Mithral Hall\|Mithral Hall]]                 |
 | [[2-World/Hubs/Citadel Adbar\|Citadel Adbar]]               |
-| [[2-World/Hubs/Mintarn\|Mintarn]]                           |
 | [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]             |
+| [[2-World/Hubs/Mintarn\|Mintarn]]                           |
 | [[2-World/Hubs/Stormwreck Isle\|Stormwreck Isle]]           |
 
 { .block-language-dataview}

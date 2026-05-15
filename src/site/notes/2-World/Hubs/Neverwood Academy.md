@@ -124,37 +124,37 @@ Within Neverwood’s ivy-clad towers, knowledge is both the light that guides an
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | [[2-World/Groups/Neverwood Staff\|Neverwood Staff]]                                                                  | Academy Staff        |
 | [[2-World/Groups/The Hellhound Gang\|The Hellhound Gang]]                                                            | Band                 |
-| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]                                                   | Academic Cohort      |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]                                                   | Academic Cohort      |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1509\|Cohort of 1509]]                                                   | Academic Cohort      |
+| [[2-World/Groups/The Silent Equation\|The Silent Equation]]                                                          | Religious Order      |
 | [[2-World/Groups/Colleges/Lorehold College\|Lorehold College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Quandrix College\|Quandrix College]]                                                       | College              |
-| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
+| [[2-World/Groups/Colleges/Prismari College\|Prismari College]]                                                       | College              |
 | [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]                                                 | College              |
-| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
+| [[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]                                                 | College              |
 | [[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]] | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Dead Language Society\|Dead Language Society]]                                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonsguard Historical Society\|Dragonsguard Historical Society]]             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Dragonchess Club\|Dragonchess Club]]                                           | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Future Entrepreneurs of Neverwood\|Future Entrepreneurs of Neverwood]]         | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Fantastical Horticulture Club\|Fantastical Horticulture Club]]                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Intramural Silkball Club\|Intramural Silkball Club]]                           | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Intramural Gymnastics Club\|Intramural Gymnastics Club]]                       | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Society\|Live-Action Roleplaying Society]]             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Intramural Water-Dancing Club\|Intramural Water-Dancing Club]]                 | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Neverwood Show Band Association\|Neverwood Show Band Association]]             | Extracurricular Club |
-| [[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club |
+| [[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]                             | Extracurricular Club |
 | [[2-World/Groups/Extracurricular Club/Wrestling Society\|Wrestling Society]]                                         | Extracurricular Club |
 | [[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]]                                             | Student Guild        |
-| [[2-World/Groups/Neverwood Guilds/Events & Logistics Guild\|Events & Logistics Guild]]                               | Student Guild        |
 | [[2-World/Groups/Neverwood Guilds/Culinary & Catering Guild\|Culinary & Catering Guild]]                             | Student Guild        |
+| [[2-World/Groups/Neverwood Guilds/Events & Logistics Guild\|Events & Logistics Guild]]                               | Student Guild        |
 
 { .block-language-dataview}
 

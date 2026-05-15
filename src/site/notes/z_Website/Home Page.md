@@ -103,6 +103,13 @@ FantasyCalendar({
 | ![Pasted image 20250929163117.png](/img/user/z_Assets/website/Pasted%20image%2020250929163117.png)                                     | ![Rules.png](/img/user/z_Assets/website/Rules.png)      | ![Homebrew Mechanics.png](/img/user/z_Assets/website/Homebrew%20Mechanics.png) | ![Downtime.png](/img/user/z_Assets/website/Downtime.png)           | ![Safety.png](/img/user/z_Assets/website/Safety.png)      |
 | ------------------------------------------------------------------------ | ------------------- | --------------------------- | --------------------------- | -------------------- |
 | **[Virtual Table Top](https://neverwood-academy.eu.forge-vtt.com/join)** | **[[z_Website/House Rules\|House Rules]]** | **[[z_Website/Homebrew Mechanics\|Homebrew Mechanics]]**  | **[[z_Website/Downtime Activities\|Downtime Activities]]** | **[[z_Website/Safety Tools\|Safety Tools]]** |
+<div class="img-grid cols-5">
+  <a href="https://neverwood-academy.eu.forge-vtt.com/join" class="img-btn" target="_blank" rel="noopener"><img src="/img/user/z_Assets/website/Pasted%20image%2020250929163117.png" alt="Virtual Table Top"></a>
+  <a href="/house-rules/" class="img-btn"><img src="/img/user/z_Assets/website/Rules.png" alt="House Rules"></a>
+  <a href="/homebrew-mechanics/" class="img-btn"><img src="/img/user/z_Assets/website/Homebrew%20Mechanics.png" alt="Homebrew Mechanics"></a>
+  <a href="/downtime-activities/" class="img-btn"><img src="/img/user/z_Assets/website/Downtime.png" alt="Downtime Activities"></a>
+  <a href="/safety-tools/" class="img-btn"><img src="/img/user/z_Assets/website/Safety.png" alt="Safety Tools"></a>
+</div>
 
 ---
 *Disclaimer: A degree from Neverwood Academy does not provide protection from magic missiles, fireballs, freezing spheres, or any other deleterious effects spellcasters might generate. If you create deleterious effects, Neverwood kindly requests you refrain from invoking any names, symbols, or other references to the academy should you find yourself in a confrontation. Neverwood Academy does not take responsibility for any injury of any nature sustained in the course of anything, magical or otherwise.*

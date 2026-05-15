@@ -35,7 +35,7 @@ You may fill these with:
 	* **[[3-Homebrew Mechanics/Academics/Student Dice System\|Student Die]] (1d4)**
 	* Choose **1 of 3 skills**
 	* Access to **guild jobs (extra pay)**
-	* Opportunities to earn **[[Group Cup Points\|Group Cup Points]]**
+	* Opportunities to earn **[[z_Website/Group Cup Challenge\|Group Cup Points]]**
 * Base Pay:
 	* **6gp per tenday**
 	* **+ additional pay** for completing guild jobs

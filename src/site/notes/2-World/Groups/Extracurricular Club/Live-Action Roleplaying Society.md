@@ -29,8 +29,8 @@ The society thrives on collaboration, with every participant contributing to the
 The following people are members of this group.  
 | File                                                                                                       | Gender     | Race         | Role    | College     |
 | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Female     | Owlin        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Male       | Triton       | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Female     | Owlin        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]                       | Female     | Water Genasi | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]                       | Non-binary | Kenku        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Tasha Voidsong\|Tasha Voidsong]]                       | Female     | Hexblood     | Student | Silverquill |

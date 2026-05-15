@@ -9,9 +9,9 @@
 | [[3-Homebrew Mechanics/Academics/Student Dice System\|Student Dice System]]                       |
 | [[3-Homebrew Mechanics/Academics/Relationships System\|Relationships System]]                     |
 | [[3-Homebrew Mechanics/Academics/Neverwood Academic System\|Neverwood Academic System]]           |
-| [[3-Homebrew Mechanics/Academics/Free Time System\|Free Time System]]                             |
-| [[3-Homebrew Mechanics/Academics/Dorm Room - Special Facilities\|Dorm Room - Special Facilities]] |
 | [[3-Homebrew Mechanics/Academics/Dorm Rooms as Bastions\|Dorm Rooms as Bastions]]                 |
+| [[3-Homebrew Mechanics/Academics/Dorm Room - Special Facilities\|Dorm Room - Special Facilities]] |
+| [[3-Homebrew Mechanics/Academics/Free Time System\|Free Time System]]                             |
 
 { .block-language-dataview}
 

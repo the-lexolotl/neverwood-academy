@@ -109,7 +109,7 @@ Unauthorised planar travel is commonly restricted by arcane authorities due to t
 # Star Systems
 | File                                               |
 | -------------------------------------------------- |
-| [[2-World/Star Systems/Realmspace\|Realmspace]] |
 | [[2-World/Star Systems/Greyspace\|Greyspace]]   |
+| [[2-World/Star Systems/Realmspace\|Realmspace]] |
 
 { .block-language-dataview}
