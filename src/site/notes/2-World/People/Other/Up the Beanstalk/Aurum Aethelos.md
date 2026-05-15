@@ -13,7 +13,7 @@
 > Race | Giant |
 > Gender | Male |
 > Age | Adult |
-> Location | [[Skyberry House\|Skyberry House]] |
+> Location | [[2-World/Points of Interest/Skyberry House\|Skyberry House]] |
 > Role | Other |
 > College | None |
 

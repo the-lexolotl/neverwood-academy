@@ -16,7 +16,7 @@
 # Description
 Pocket dimensions are small extradimensional spaces created through powerful magic, planar manipulation, or naturally occurring arcane phenomena. Unlike true planes of existence such as the [[2-World/Realms/Astral Plane\|Astral Plane]] or the [[2-World/Realms/Feywild\|Feywild]], pocket dimensions are usually artificial spaces formed within or between the boundaries of larger planes.
 These spaces are commonly used for magical storage, hidden sanctuaries, secure vaults, transportation, or private demiplanes. Some are temporary and unstable, while others endure for centuries as fully developed miniature worlds.
-Well-known examples include **[[Fistandria’s Mansion\|Fistandria’s Mansion]]**, the extradimensional spaces created by **Mordenkainen’s Magnificent Mansion**, and the storage realms contained within **Bags of Holding** and **Portable Holes**.
+Well-known examples include **[[2-World/Points of Interest/Fistandria’s Mansion\|Fistandria’s Mansion]]**, the extradimensional spaces created by **Mordenkainen’s Magnificent Mansion**, and the storage realms contained within **Bags of Holding** and **Portable Holes**.
 
 ## Overview
 Pocket dimensions vary enormously in size and complexity. Some consist of little more than a cramped magical container, while others contain fully furnished mansions, ecosystems, or settlements.

@@ -155,6 +155,8 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Points of Interest/Neverwood Academy/Sedgemoor\|Sedgemoor]]                                   | <ul><li>[[2-World/Places/Witherbloom Campus.md\\|Witherbloom Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> |
 | [[2-World/Points of Interest/Neverwood Academy/Widdershins Hall\|Widdershins Hall]]                     | <ul><li>[[2-World/Places/Witherbloom Campus.md\\|Witherbloom Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> |
 | [[2-World/Points of Interest/Neverwood Academy/Wiltroot Hall\|Wiltroot Hall]]                           | <ul><li>[[2-World/Places/Witherbloom Campus.md\\|Witherbloom Campus]]</li><li>[[2-World/Hubs/Neverwood Academy.md\\|Neverwood Academy]]</li></ul> |
+| [[2-World/Points of Interest/Skyberry House\|Skyberry House]]                                           | <ul><li>[[2-World/Realms/Cloud Realm.md\\|Cloud Realm]]</li></ul>                                                                                 |
+| [[2-World/Points of Interest/Fistandria’s Mansion\|Fistandria’s Mansion]]                               | <ul><li>[[2-World/Realms/Fistandria’s Pocket Dimension.md\\|Fistandria’s Pocket Dimension]]</li></ul>                                             |
 | [[2-World/Points of Interest/Neverwinter/The Pub That Crawls\|The Pub That Crawls]]                     | [[2-World/Hubs/Neverwinter\|Neverwinter]]                                                                                                      |
 
 { .block-language-dataview}

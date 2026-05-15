@@ -13,7 +13,7 @@
 > Race | Giant |
 > Gender | Female |
 > Age | Adult |
-> Location | [[2-World/Hubs/Neverwinter\|Neverwinter]], Previously [[Skyberry House\|Skyberry House]] |
+> Location | [[2-World/Hubs/Neverwinter\|Neverwinter]], Previously [[2-World/Points of Interest/Skyberry House\|Skyberry House]] |
 > Role | Other |
 > College | None |
 

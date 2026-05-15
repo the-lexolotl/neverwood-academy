@@ -32,9 +32,9 @@ Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Lorew
 
 ### Exploring the Sky Realm
 - [x] ~~Explore the floating realm~~
-- [x] ~~Investigate Skyberry House~~
+- [x] ~~Investigate [[2-World/Points of Interest/Skyberry House\|Skyberry House]]~~
 - [x] ~~Find [[2-World/People/Other/Up the Beanstalk/Teanna Aethelos\|Giantess Teanna]] in the kitchen~~
-- [x] ~~Explore the rest of Skyberry House~~
+- [x] ~~Explore the rest of [[2-World/Points of Interest/Skyberry House\|Skyberry House]]~~
 
 ### The Sky-King’s Domain
 - [x] ~~Enter the Treasure Hall~~
