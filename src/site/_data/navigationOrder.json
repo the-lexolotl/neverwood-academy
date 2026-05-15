@@ -14,8 +14,7 @@
     "House Rules",
     "Player Characters",
     "Safety Tools",
-    "Homebrew Mechanics",
-    "0-Scratch Notes"
+    "Homebrew Mechanics"
   ],
   "/Party": [
     "Eremis Varr",
@@ -115,6 +114,7 @@
     "1508-1509 - First Year"
   ],
   "/Session Journals/1508-1509 - First Year": [
+    "End of Year Summary 1508-1509",
     "2025-07-12 - Session 1",
     "2025-07-19 - Session 2",
     "2025-07-26 - Session 3",
@@ -165,7 +165,6 @@
     "2026-04-11 - Session 36",
     "2026-04-18 - Session 37",
     "2026-04-25 - Session 38",
-    "End of Year Summary 1508-1509",
     "2026-05-02 - Session 39",
     "2026-05-09 - Session 40"
   ],
@@ -680,7 +679,8 @@
   "/World/Points of Interest": [
     "Neverwinter",
     "Neverwood Academy",
-    "Xvart Ritual Dungeon"
+    "Xvart Ritual Dungeon",
+    "Fistandria’s Mansion"
   ],
   "/World/Points of Interest/Neverwinter": [
     "Carver & Thread",
@@ -728,7 +728,9 @@
     "Domains of Dread",
     "Eberron Material Plane",
     "Ethereal Plane",
-    "Shadowfell"
+    "Shadowfell",
+    "Cloud Realm",
+    "Fistandria’s Pocket Dimension"
   ],
   "/World/Regions": [
     "Delimbiyr Vale",
@@ -771,8 +773,5 @@
   ],
   "/Mechanics/Other": [
     "Alcohol and Intoxicants"
-  ],
-  "/0-Scratch Notes": [
-    "pages"
   ]
 }
