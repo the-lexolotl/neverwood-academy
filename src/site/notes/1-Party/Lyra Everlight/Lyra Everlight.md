@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Profile
 > # Player Name:  Megan
 > ![megan.png](/img/user/z_Assets/character_art/Players/megan.png)
 > ###### Basic Information

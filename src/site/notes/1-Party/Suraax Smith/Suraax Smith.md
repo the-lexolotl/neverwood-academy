@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Profile
 > # Player Name:  Ross
 > ![z_Assets/character_art/Players/Suraax Smith.png](/img/user/z_Assets/character_art/Players/Suraax%20Smith.png)
 > ###### Basic Information

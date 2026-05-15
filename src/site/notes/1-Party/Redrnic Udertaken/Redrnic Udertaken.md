@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Profile
 > # Player Name:  Cameron
 > ![Redrnic 1.png](/img/user/z_Assets/character_art/Players/Redrnic%201.png)
 > ###### Basic Information

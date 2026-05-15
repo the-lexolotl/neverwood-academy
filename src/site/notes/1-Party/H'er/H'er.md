@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Profile
 > # Player Name:  Rain
 > ![Rain.png](/img/user/z_Assets/character_art/Players/Rain.png)
 > ###### Basic Information

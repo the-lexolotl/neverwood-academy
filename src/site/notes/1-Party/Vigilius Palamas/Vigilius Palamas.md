@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Profile
 > # Player Name:  Kristy
 > ![Kristy.png](/img/user/z_Assets/character_art/Players/Kristy.png)
 > ###### Basic Information

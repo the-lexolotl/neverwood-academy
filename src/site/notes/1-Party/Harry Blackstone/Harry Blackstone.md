@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|left]+
+> [!infobox|left]+ Profile
 > # Player Name:  Ross
 > ![Ross.png](/img/user/z_Assets/character_art/Players/Ross.png)
 > ###### Basic Information

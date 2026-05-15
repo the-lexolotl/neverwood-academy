@@ -8,7 +8,7 @@
 
 Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. 
 
-These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. ![Construction Bot.png\|200](/img/user/z_Assets/website/Construction%20Bot.png)
+These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. 
 
 ---
 ![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
@@ -25,11 +25,11 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 
 
 ---
-## 🗞️ Notice Board Highlights
-- 📌 All students are reminded that the new academic year begins 16th Eleasias — late arrivals will be noted
-- ⚠️  The East Wing remains closed pending structural assessment. Students are advised not to investigate
-- 🕯️ The library's restricted section will be accessible by appointment only this term
-- ☕ Whalebucks summer specials available now!
+> [!abstract]+ Notice Board Highlights
+> - 📌 All students are reminded that the new academic year begins 16th Eleasias — late arrivals will be noted
+> - ⚠️ The East Wing remains closed pending structural assessment. Students are advised not to investigate
+> - 🕯️ The library's restricted section will be accessible by appointment only this term
+> - ☕ Whalebucks summer specials available now!
 
 ### *Failure to read notices is not an excuse.*
 
@@ -56,12 +56,12 @@ These records catalogue student cohorts, faculty, academic proceedings, and offi
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1509\|Cohort of 1509]]** — First Years 
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]]** — Second Years 
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]]** — Third Years 
-- **[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]** — Forth Years 
+- **[[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]]** — Fourth Years 
 #### Previous Intakes
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1505\|Cohort of 1505]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1410\|Cohort of 1410]]**
 - **[[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]]**
-### Advancement is not guaranteed. Survival is encouraged.  ![Construction Bot.png\|200](/img/user/z_Assets/website/Construction%20Bot.png)
+### Advancement is not guaranteed. Survival is encouraged. 
 
 ---
 ## 📆 Academic Calendar
