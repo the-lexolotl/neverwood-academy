@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"MyAllies":["[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar](/img/user/2-World/Hubs/Neverwood%20Academy.md)"],"dg-path":"World/Groups/The Silent Equation.md","permalink":"/world/groups/the-silent-equation/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":null,"MyAllies":["[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar](/img/user/2-World/Hubs/Neverwood%20Academy.md)"]}}
+{"tags":["Category/Group"],"MyContainer":"[Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":"[[Professor Delta](/img/user/2-World/Hubs/Neverwood%20Academy.md)","dg-publish":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-show-backlinks":true,"MyAllies":["[Cadoras Damellawar]]"],"dg-path":"World/Groups/The Silent Equation.md","permalink":"/world/groups/the-silent-equation/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Group"],"MyContainer":"[[2-World/Hubs/Neverwood Academy.md|Neverwood Academy]]","MyCategory":"Religious Order","image":"The Silent Equation.png","obsidianUIMode":"preview","leader":null,"officers":null,"members":null,"initiates":null,"faction":null,"primary_contact":"[[Professor Delta](/img/user/2-World/People/Neverwood%20Academy/Students/1508/Cadoras%20Damellawar.md)","MyAllies":["[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 > ---|---|
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Religious Order |
-> **Primary Contact:** | Unknown |
+> **Primary Contact:** | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] |
 
 # Description
 The Silent Equation is a highly selective student circle associated with advanced Quandrix studies. Unlike typical clubs, membership is by invitation only — students cannot apply or request to join.
@@ -62,8 +62,8 @@ New recruits often start with simple tasks, giving them a chance to prove themse
 The following people are members of this group.  
 | File                                                                                         | Gender | Race  | Role    | College  |
 | -------------------------------------------------------------------------------------------- | ------ | ----- | ------- | -------- |
-| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Male   | Human | Student | Quandrix |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] | Male   | Elf   | Student | Quandrix |
+| [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Male   | Human | Student | Quandrix |
 
 { .block-language-dataview}
 

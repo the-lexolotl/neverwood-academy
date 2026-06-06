@@ -151,6 +151,15 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 > [[3-Mechanics/CLI/items/torch-xphb\|Torch]]
 > [[3-Mechanics/CLI/items/waterskin-xphb\|Waterskin]]
 
+## Vault 
+### Coin
+
+| Platinum (pp) | Gold (gp) | Electrum (ep) | Silver (sp) | Copper (cp) |
+| :-----------: | :-------: | :-----------: | :---------: | :---------: |
+|       0       |     0     |       0       |      0      |      0      |
+### Items
+> [!example]- Vault (0/20)
+> This vault is empty
 
 # Connections
 

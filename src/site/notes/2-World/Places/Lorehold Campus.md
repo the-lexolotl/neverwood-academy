@@ -45,6 +45,13 @@ The campus carries an atmosphere of quiet intensity. Every stone feels significa
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Osgir, the Reconstructor\|Osgir, the Reconstructor]]          | Giant        | Male       | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Riri Brighteye\|Riri Brighteye]]                              | Owlin        | Female     | Professor of Order |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Xyla Langning\|Xyla Langning]]                                | Gnome        | Female     | Professor of Order |
+| [[2-World/People/Neverwood Academy/Students/1506/Dain Callister\|Dain Callister]]                               | Human        | Male       | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Garrik Stormfang\|Garrik Stormfang]]                           | Orc          | Male       | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]                               | Dwarf        | Male       | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]                             | Eladrin      | Female     | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Milo Quickbranch\|Milo Quickbranch]]                           | Halfling     | Male       | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]                               | Goliath      | Female     | Student            |
+| [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]                             | Earth Genasi | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Firbolg      | Female     | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Gnome        | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Human        | Female     | Student            |
@@ -53,13 +60,6 @@ The campus carries an atmosphere of quiet intensity. Every stone feels significa
 | [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Fire Genasi  | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                               | Firbolg      | Non-binary | Student            |
 | [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Leonin       | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Dain Callister\|Dain Callister]]                               | Human        | Male       | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Garrik Stormfang\|Garrik Stormfang]]                           | Orc          | Male       | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Korrin Ironjaw\|Korrin Ironjaw]]                               | Dwarf        | Male       | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]                             | Eladrin      | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Milo Quickbranch\|Milo Quickbranch]]                           | Halfling     | Male       | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]                               | Goliath      | Female     | Student            |
-| [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]                             | Earth Genasi | Male       | Student            |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Raymous Dapplewing\|Raymous Dapplewing]]                      | Owlin        | Male       | Veteran            |
 
 { .block-language-dataview}

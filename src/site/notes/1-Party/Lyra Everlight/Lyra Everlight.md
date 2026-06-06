@@ -155,6 +155,16 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 > [!example]- Pouch (0)
 > 
 
+## Vault 
+### Coin
+
+| Platinum (pp) | Gold (gp) | Electrum (ep) | Silver (sp) | Copper (cp) |
+| :-----------: | :-------: | :-----------: | :---------: | :---------: |
+|       0       |    450    |       0       |      0      |      0      |
+### Items
+> [!example]- Vault (0/20)
+> This vault is empty
+
 # Connections
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]],[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]],[[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]

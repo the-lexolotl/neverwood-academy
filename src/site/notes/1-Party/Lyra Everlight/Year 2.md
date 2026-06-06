@@ -1,5 +1,5 @@
 ---
-{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":true,"dg-path":"Party/Lyra Everlight/Year 2.md","permalink":"/party/lyra-everlight/year-2/","dgShowBacklinks":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Academics"],"obsidianUIMode":"preview"}}
+{"tags":["Category/Academics"],"obsidianUIMode":"preview","dg-publish":true,"dg-show-local-graph":false,"dg-show-inline-title":true,"dg-show-backlinks":false,"dg-path":"Party/Lyra Everlight/Year 2.md","permalink":"/party/lyra-everlight/year-2/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"dg-note-properties":{"tags":["Category/Academics"],"obsidianUIMode":"preview"}}
 ---
 
 # Timetable

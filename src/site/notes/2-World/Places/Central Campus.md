@@ -59,8 +59,8 @@ Though it appears open and accessible, the Central Campus is subtly structured t
 
 | File                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
+| [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |

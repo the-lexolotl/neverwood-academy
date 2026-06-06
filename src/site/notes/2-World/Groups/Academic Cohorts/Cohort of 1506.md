@@ -47,14 +47,14 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]           | Female     | Eladrin      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Milo Quickbranch\|Milo Quickbranch]]         | Male       | Halfling     | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]             | Female     | Goliath      | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]       | Female     | Harengon     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]           | Male       | Earth Genasi | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]]       | Male       | Fire Genasi  | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]       | Female     | Harengon     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Izzik Brightspark\|Izzik Brightspark]]       | Male       | Kobold       | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]]       | Male       | Fire Genasi  | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Jasper Fairweather\|Jasper Fairweather]]     | Male       | Satyr        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Nerissa Deepbrook\|Nerissa Deepbrook]]       | MtF        | Triton       | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]             | Female     | Water Genasi | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]             | Non-binary | Kenku        | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]             | Female     | Water Genasi | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Vexaroth Drathis\|Vexaroth Drathis]]         | Non-binary | Dragonborn   | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Bramble Quickthorn\|Bramble Quickthorn]]     | Non-binary | Sprite       | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1506/Fenwick Bristlebrook\|Fenwick Bristlebrook]] | Non-binary | Halfling     | Student | Quandrix    |

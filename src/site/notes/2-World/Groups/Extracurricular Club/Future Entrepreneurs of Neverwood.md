@@ -29,11 +29,11 @@ Highly successful projects may attract attention from faculty or external contac
 The following people are members of this group.  
 | File                                                                                           | Gender | Race     | Role    | College     |
 | ---------------------------------------------------------------------------------------------- | ------ | -------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Male   | Elf      | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]     | Female | Orc      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Nerissa Deepbrook\|Nerissa Deepbrook]]     | MtF    | Triton   | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Zyrelis Starweaver\|Zyrelis Starweaver]]   | MtF    | Aasimar  | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Lirien Emberlace\|Lirien Emberlace]]       | Female | Firbolg  | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Male   | Elf      | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]     | Female | Orc      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Althea Nightshade\|Althea Nightshade]]     | Female | Hexblood | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Male   | Human    | Student | Silverquill |
 

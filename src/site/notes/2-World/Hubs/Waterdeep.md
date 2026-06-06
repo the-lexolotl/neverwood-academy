@@ -34,12 +34,12 @@ Key landmarks include:
 
 # History
 Waterdeep began as a small trading settlement and gradually grew into the dominant city of the [[2-World/Regions/Sword Coast\|Sword Coast]]. Over centuries it became renowned for commerce, naval power, and political influence.
-The city survived numerous crises, including wars, dragon attacks, magical disasters, and political conspiracies. By the early 16th century DR, Waterdeep remains stable under the leadership of **Open Lord Laeral Silverhand**, one of the famed Seven Sisters.
+The city survived numerous crises, including wars, dragon attacks, magical disasters, and political conspiracies. By the early 16th century DR, Waterdeep remains stable under the leadership of **Open Lord [[Laeral Silverhand\|Laeral Silverhand]]**, one of the famed Seven Sisters.
 Waterdeep’s influence extends far beyond its walls, shaping trade and politics across [[2-World/Regions/The North\|The North]] and the wider [[2-World/Regions/Sword Coast\|Sword Coast]].
 
 # Government
 Waterdeep is governed by the **Lords of Waterdeep**, a secretive council whose identities are largely hidden from the public.
-The city’s visible ruler is the **Open Lord**, currently **Laeral Silverhand**, who oversees diplomacy and administration. Beneath the Lords operate numerous magistrates, guild officials, and civic institutions responsible for maintaining order.
+The city’s visible ruler is the **Open Lord**, currently **[[Laeral Silverhand\|Laeral Silverhand]]**, who oversees diplomacy and administration. Beneath the Lords operate numerous magistrates, guild officials, and civic institutions responsible for maintaining order.
 Waterdeep’s laws are strict but generally fair, and the city maintains one of the most sophisticated legal systems in [[2-World/Continents/Faerûn\|Faerûn]].
 
 # Defences
@@ -91,7 +91,7 @@ Waterdeep is divided into major wards:
 Many influential groups operate within Waterdeep:
 * **The Harpers** – covert agents working for balance and justice.
 * **The Zhentarim** – mercenary and criminal network.
-* **The [[Lords’ Alliance\|Lords’ Alliance]]** – coalition of major cities and rulers.
+* **The [[2-World/Groups/Lords' Alliance\|Lords' Alliance]]** – coalition of major cities and rulers.
 * **Force Grey** – secret protectors of the city.
 * **The Xanathar Guild** – criminal organisation operating beneath the city.
 

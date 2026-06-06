@@ -141,6 +141,16 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 > [!example]- Pouch (0)
 > 
 
+## Vault 
+### Coin
+
+| Platinum (pp) | Gold (gp) | Electrum (ep) | Silver (sp) | Copper (cp) |
+| :-----------: | :-------: | :-----------: | :---------: | :---------: |
+|       0       |     0     |       0       |      0      |      0      |
+### Items
+> [!example]- Vault (0/20)
+> This vault is empty
+
 # Connections
 
 **Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]

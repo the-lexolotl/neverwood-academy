@@ -93,10 +93,10 @@ Today, in the early **1500s DR**, the Sword Coast stands as a beacon of commerce
 # Hubs
 | File                                               | Category   |
 | -------------------------------------------------- | ---------- |
-| [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] | Hamlet <80 |
 | [[2-World/Hubs/Daggerford\|Daggerford]]         | Town +200  |
-| [[2-World/Hubs/Waterdeep\|Waterdeep]]           | City +1500 |
+| [[2-World/Hubs/Gillian’s Hill\|Gillian’s Hill]] | Hamlet <80 |
 | [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]]   | City +1500 |
+| [[2-World/Hubs/Waterdeep\|Waterdeep]]           | City +1500 |
 
 { .block-language-dataview}
 

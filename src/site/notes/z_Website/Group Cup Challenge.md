@@ -31,48 +31,22 @@
 <div style="margin-top:1.5rem;font-family:'Diphylleia',serif;font-size:12px;color:#888;font-style:italic;">Scores subject to revision by the Dean&rsquo;s office.</div>
 </div>
 
-# Group 1 
-### Members
-- [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]
-- [[1-Party/H'er/H'er\|H'er]]
-- [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]
+# points tracking
 
-### Points
+<iframe 
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDAXkPJWPwwFaGklrC1xWByP1bWfHOWPGnxwKng0JzNe_wNStlRH9QxpKpdUTKNOHHnszvFQJHz0oX/pubhtml?gid=137548808&amp;single=true&amp;widget=true&amp;headers=false"
+  width="100%"
+  height="500">
+  </iframe>
 
-| Date | Awarded For  |   Awarded To   | Points |
-| :--- | :----------- | :------------: | :----: |
-|      | Example Text | Example Person |  +/-   |
-|      |              |                |        |
-|      |              | Total Points:  |        |
+# Teams 
 
-# Group 2
-### Members
-- [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]
-- [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]
-- [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]
+|       Group 1        |        Group 2        |         Group 3          |
+| :------------------: | :-------------------: | :----------------------: |
+|   [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]    | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]] | [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]] |
+|       [[1-Party/H'er/H'er\|H'er]]       | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]] |    [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]    |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]] |   [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]    |   [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]   |
 
-### Points
-
-| Date | Awarded For  |   Awarded To   | Points |
-| :--- | :----------- | :------------: | :----: |
-|      | Example Text | Example Person |  +/-   |
-|      |              |                |        |
-|      |              | Total Points:  |        |
-
-
-# Group 3
-### Members
-- [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]]
-- [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]
-- [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]
-
-### Points
-
-| Date | Awarded For  |   Awarded To   | Points |
-| :--- | :----------- | :------------: | :----: |
-|      | Example Text | Example Person |  +/-   |
-|      |              |                |        |
-|      |              | Total Points:  |        |
 
 ---
 # First Year - Results 

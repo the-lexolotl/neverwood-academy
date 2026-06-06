@@ -41,23 +41,23 @@ Despite its apparent chaos, the Prismari Campus operates on a foundation of disc
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Ahkwa\|Ahkwa]]                              | Tortle       | Female     | Professor of Perfection |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Veyran\|Veyran]]                            | Water Genasi | Female     | Professor of Perfection |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Zaph\|Zaph]]                                | Air Genasi   | FtM        | Professor of Perfection |
+| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]]     | Dragonborn   | Male       | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                 | Gnome        | Male       | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]]     | Half-Orc     | Male       | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]       | Harengon     | Female     | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Izzik Brightspark\|Izzik Brightspark]]       | Kobold       | Male       | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]]       | Fire Genasi  | Male       | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Jasper Fairweather\|Jasper Fairweather]]     | Satyr        | Male       | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Nerissa Deepbrook\|Nerissa Deepbrook]]       | Triton       | MtF        | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]             | Kenku        | Non-binary | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]             | Water Genasi | Female     | Student                 |
+| [[2-World/People/Neverwood Academy/Students/1506/Vexaroth Drathis\|Vexaroth Drathis]]         | Dragonborn   | Non-binary | Student                 |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                 | Aasimar      | Male       | Student                 |
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]] | Orc          | Non-binary | Student                 |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Triton       | Male       | Student                 |
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon      | Female     | Student                 |
 | [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                   | Human        | Female     | Student                 |
 | [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]                 | Halfling     | Female     | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]]     | Dragonborn   | Male       | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]                 | Gnome        | Male       | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]]     | Half-Orc     | Male       | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]       | Harengon     | Female     | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]]       | Fire Genasi  | Male       | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Izzik Brightspark\|Izzik Brightspark]]       | Kobold       | Male       | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Jasper Fairweather\|Jasper Fairweather]]     | Satyr        | Male       | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Nerissa Deepbrook\|Nerissa Deepbrook]]       | Triton       | MtF        | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]             | Water Genasi | Female     | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]             | Kenku        | Non-binary | Student                 |
-| [[2-World/People/Neverwood Academy/Students/1506/Vexaroth Drathis\|Vexaroth Drathis]]         | Dragonborn   | Non-binary | Student                 |
 
 { .block-language-dataview}
 

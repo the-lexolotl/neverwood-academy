@@ -155,8 +155,8 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 | File                                                  |
 | ----------------------------------------------------- |
 | [[2-World/Regions/Delimbiyr Vale\|Delimbiyr Vale]] |
-| [[2-World/Regions/Sword Coast\|Sword Coast]]       |
 | [[2-World/Regions/The North\|The North]]           |
+| [[2-World/Regions/Sword Coast\|Sword Coast]]       |
 | [[2-World/Regions/Sea of Swords\|Sea of Swords]]   |
 | [[2-World/Regions/Trackless Sea\|Trackless Sea]]   |
 
@@ -165,8 +165,8 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 | File                                             |
 | ------------------------------------------------ |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]     |
-| [[2-World/Hubs/Waterdeep\|Waterdeep]]         |
 | [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] |
+| [[2-World/Hubs/Waterdeep\|Waterdeep]]         |
 | [[2-World/Hubs/Luskan\|Luskan]]               |
 | [[2-World/Hubs/Mithral Hall\|Mithral Hall]]   |
 | [[2-World/Hubs/Citadel Adbar\|Citadel Adbar]] |

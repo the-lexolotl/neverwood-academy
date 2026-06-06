@@ -28,8 +28,9 @@ Although she comes across as peaceful and understanding, Mavinda should not be u
 **Groups:**  [[2-World/Groups/Neverwood Staff\|Neverwood Staff]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
 
 ### Associated Handouts
-| File | Date Obtained |
-| ---- | ------------- |
+| File                                                                      | Date Obtained |
+| ------------------------------------------------------------------------- | ------------- |
+| [[2-Player Handouts/Neverwinter Mage Battle\|Neverwinter Mage Battle]] | 13 Jun, 2026  |
 
 { .block-language-dataview}
 

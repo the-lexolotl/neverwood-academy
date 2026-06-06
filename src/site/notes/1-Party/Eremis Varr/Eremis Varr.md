@@ -135,6 +135,16 @@ Tinderbox
 > [!example]- Pouch (0)
 > This is my text 
 
+## Vault 
+### Coin
+
+| Platinum (pp) | Gold (gp) | Electrum (ep) | Silver (sp) | Copper (cp) |
+| :-----------: | :-------: | :-----------: | :---------: | :---------: |
+|       0       |     0     |       0       |      0      |      0      |
+### Items
+> [!example]- Vault (0/20)
+> This vault is empty
+
 # Connections
 
 **Groups:** [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]],[[2-World/Groups/Colleges/Silverquill College\|Silverquill College]]
