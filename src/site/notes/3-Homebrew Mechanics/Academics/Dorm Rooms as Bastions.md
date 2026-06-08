@@ -4,7 +4,7 @@
 
 Dorm Rooms at Neverwood Academy function as personal Bastions, using a modified version of the 2024 Bastion rules (5.5e). Each student’s dorm evolves over time, reflecting academic progression, magical training, and personal development.
 Bastion activity is measured in tendays (10-day cycles)
-.
+ 
 ## Year 1: Level 1 to 3
 All students begin with a Dorm Room consisting of:
 - Roomy Bedroom (Basic Facility)
