@@ -164,11 +164,11 @@ Beneath Faerûn lies the immense Underdark, a labyrinth of caverns and tunnels.
 # Capital Cities
 | File                                             |
 | ------------------------------------------------ |
-| [[2-World/Hubs/Neverwinter\|Neverwinter]]     |
 | [[2-World/Hubs/Baldur’s Gate\|Baldur’s Gate]] |
-| [[2-World/Hubs/Waterdeep\|Waterdeep]]         |
-| [[2-World/Hubs/Luskan\|Luskan]]               |
-| [[2-World/Hubs/Mithral Hall\|Mithral Hall]]   |
 | [[2-World/Hubs/Citadel Adbar\|Citadel Adbar]] |
+| [[2-World/Hubs/Luskan\|Luskan]]               |
+| [[2-World/Hubs/Neverwinter\|Neverwinter]]     |
+| [[2-World/Hubs/Mithral Hall\|Mithral Hall]]   |
+| [[2-World/Hubs/Waterdeep\|Waterdeep]]         |
 
 { .block-language-dataview}

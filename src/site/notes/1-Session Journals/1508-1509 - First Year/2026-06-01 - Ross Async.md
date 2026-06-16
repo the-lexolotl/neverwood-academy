@@ -33,7 +33,7 @@
 ## Summary
 During the break between major events, [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]] withdraws from social life and throws himself into magical study and work. Through scroll scribing, experimentation, and the decoding of a mysterious spellbook, he begins engaging with unstable and unfamiliar magic tied to a group known as **The Silent Equation**.
 
-This culminates in a clandestine meeting with [[2-World/People/Other/Unspecified/Professor Delta\|"Professor Delta"]], where Harry delivers completed work in exchange for payment, further deepening his involvement in something he does not yet fully understand.
+This culminates in a clandestine meeting with [[2-World/People/Other/Professor Delta\|"Professor Delta"]], where Harry delivers completed work in exchange for payment, further deepening his involvement in something he does not yet fully understand.
 
 ### Withdrawal and Focus
 * Following recent events, Harry becomes increasingly isolated:
@@ -127,7 +127,7 @@ This culminates in a clandestine meeting with [[2-World/People/Other/Unspecified
 	* Harry prioritises magical knowledge over wealth
 
 ### The Meeting with Delta
-* Harry arranges a meeting with [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]:
+* Harry arranges a meeting with [[2-World/People/Other/Professor Delta\|Professor Delta]]:
 	* Location: **Cultivarium on Quandrix campus**
 	* Cadoras observes from a distance under magical concealment
 * Harry delivers the completed scrolls:

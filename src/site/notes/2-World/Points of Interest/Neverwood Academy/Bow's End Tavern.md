@@ -15,7 +15,7 @@
 # Description
 At the western terminus of the Dawnbow, where the star arch meets the ground, stands Bow’s End Tavern, one of the most recognisable gathering places for older students. Though modest in exterior, the tavern is perpetually lively, its windows glowing warmly at all hours and its interior filled with music, laughter, and the occasional burst of magical mischief.
 The tavern is known for its hearty food, inexpensive drinks, and ever-changing roster of live performances. Many students come here simply to unwind after exams or intense practical sessions, while others arrive seeking a more competitive atmosphere. The back lot has earned a reputation as an unofficial duelling ground, where disputes are occasionally settled under loosely observed codes of honour and spectacle.
-Bow’s End is managed by [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Tulk Tusktooth\|Tulk “the Bulk” Tusktooth]], an orc known for his intimidating presence and unexpectedly gentle temperament. He maintains strict control over the establishment while quietly tolerating the more chaotic traditions that have grown around it. Under his watch, Bow’s End remains both a social hub and a pressure valve for the academy’s more volatile students.
+Bow’s End is managed by [[2-World/People/Neverwood Academy/Staff/Tulk Tusktooth\|Tulk “the Bulk” Tusktooth]], an orc known for his intimidating presence and unexpectedly gentle temperament. He maintains strict control over the establishment while quietly tolerating the more chaotic traditions that have grown around it. Under his watch, Bow’s End remains both a social hub and a pressure valve for the academy’s more volatile students.
 
 # Travel
 *Based on 8 hrs walking per day with Exhaustion Level 0*
@@ -34,8 +34,10 @@ Bow’s End is managed by [[2-World/People/Neverwood Academy/Staff/Hospitality a
 # People
 | File                                                                                                      | Race  | Gender | Role           |
 | --------------------------------------------------------------------------------------------------------- | ----- | ------ | -------------- |
+| [[2-World/People/Neverwood Academy/Staff/Curtie Axechucker\|Curtie Axechucker]]                        | Dwarf | Female | Tavern Chef    |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Curtie Axechucker\|Curtie Axechucker]] | Dwarf | Female | Tavern Chef    |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Tulk Tusktooth\|Tulk Tusktooth]]       | Orc   | Male   | Tavern Manager |
+| [[2-World/People/Neverwood Academy/Staff/Tulk Tusktooth\|Tulk Tusktooth]]                              | Orc   | Male   | Tavern Manager |
 
 { .block-language-dataview}
 

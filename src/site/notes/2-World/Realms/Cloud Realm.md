@@ -15,7 +15,7 @@
 
 # Description
 ### Overview
-This vast cloudbound demiplane is home to the Storm King **[[2-World/People/Other/Up the Beanstalk/Aurum Aethelos\|Aurum Aethelos]]** and his giant kin. Unlike constructed demiplanes, it is a naturally occurring pocket of reality shaped by elemental air and ancient giant magic.
+This vast cloudbound demiplane is home to the Storm King **[[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]** and his giant kin. Unlike constructed demiplanes, it is a naturally occurring pocket of reality shaped by elemental air and ancient giant magic.
 
 ## Physical Properties
 The realm consists of:
@@ -35,7 +35,7 @@ Air and storm magic are greatly enhanced. Lightning, wind, and weather-based spe
 
 ## Inhabitants
 * **Cloud Giants** – artisans, nobles, and scholars
-* **Storm Giants** – including [[2-World/People/Other/Up the Beanstalk/Aurum Aethelos\|Aurum Aethelos]] himself
+* **Storm Giants** – including [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]] himself
 * Lesser servants, creatures of air, and possibly bound elementals
 
 ## Cosmological Role

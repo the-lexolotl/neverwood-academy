@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Events & Logistics Guild
-> ![Template_Group_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Group_Placeholder.png)
+> ![Events & Logistics.png](/img/user/z_Assets/Posters/Events%20&%20Logistics.png)
 > ###### General Information
 > Motto:  |  “Precision, Planning, Perfection.” |
 > ---|---|
@@ -66,12 +66,12 @@ Despite its polished exterior, the guild thrives in controlled chaos, where quic
 The following people are members of this guild.  
 | File                                                                                                                         | Gender     | Race      | Role    | College     | School Year |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | ------- | ----------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female     | Dhampir   | Student | Witherbloom | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male       | Human     | Student | Prismari    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1506/Jasper Fairweather\|Jasper Fairweather]]                                 | Male       | Satyr     | Student | Prismari    | 4           |
 | [[2-World/People/Neverwood Academy/Students/1506/Nyx Veldrith\|Nyx Veldrith]]                                             | Non-binary | Changling | Student | Silverquill | 4           |
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Non-binary | Orc       | Student | Prismari    | 3           |
 | [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Male       | Minotaur  | Student | Quandrix    | 3           |
-| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female     | Dhampir   | Student | Witherbloom | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male       | Human     | Student | Prismari    | 2           |
 
 { .block-language-dataview}
 

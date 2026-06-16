@@ -9,7 +9,7 @@
 
 **Associated Groups:** None
 **Associated Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Secrets in Sedgemoor\|Secrets in Sedgemoor]]
-**Associated NPCs:** [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]
+**Associated NPCs:** [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]
 **Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-04-18 - Session 37\|2026-04-18 - Session 37]]
 
 ---

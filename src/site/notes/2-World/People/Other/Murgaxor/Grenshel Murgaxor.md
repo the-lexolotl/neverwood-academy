@@ -26,9 +26,8 @@
 **Groups:**  [[2-World/Groups/Academic Cohorts/Cohort of 1309\|Cohort of 1309]],[[2-World/Groups/Colleges/Witherbloom College\|Witherbloom College]]
 
 ### Associated Handouts
-| File                                                                                                   | Date Obtained |
-| ------------------------------------------------------------------------------------------------------ | ------------- |
-| [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  |
+| File | Date Obtained |
+| ---- | ------------- |
 
 { .block-language-dataview}
 

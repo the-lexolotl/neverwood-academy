@@ -5,7 +5,7 @@
 
 > [!infobox|left]+
 > # Adventuring Guild
-> ![Template_Group_Placeholder.png](/img/user/z_Assets/Placeholder%20Images/Template_Group_Placeholder.png)
+> ![Adventuring.png](/img/user/z_Assets/Posters/Adventuring.png)
 > ###### General Information
 > Motto:  |  “Learn by doing. Survive by luck.” |
 > ---|---|
@@ -66,12 +66,12 @@ The culture within the guild is one of camaraderie forged under pressure. Succes
 The following people are members of this guild.  
 | File                                                                                     | Gender | Race        | Role    | College     | School Year |
 | ---------------------------------------------------------------------------------------- | ------ | ----------- | ------- | ----------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]   | Female | Eladrin     | Student | Lorehold    | 4           |
-| [[2-World/People/Neverwood Academy/Students/1506/Elric Duskvale\|Elric Duskvale]]     | Male   | Half-Elf    | Student | Silverquill | 4           |
-| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]         | Female | Satyr       | Student | Silverquill | 3           |
-| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Male   | Fire Genasi | Student | Lorehold    | 3           |
 | [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon     | Student | Lorehold    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Female | Dwarf       | Student | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1506/Elric Duskvale\|Elric Duskvale]]     | Male   | Half-Elf    | Student | Silverquill | 4           |
+| [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]   | Female | Eladrin     | Student | Lorehold    | 4           |
+| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]         | Female | Satyr       | Student | Silverquill | 3           |
+| [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Male   | Fire Genasi | Student | Lorehold    | 3           |
 
 { .block-language-dataview}
 

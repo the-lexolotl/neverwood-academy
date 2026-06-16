@@ -34,6 +34,7 @@ Cohorts are typically overseen by assigned staff members, such as Guidance Couns
 The following people are members of this group.  
 | File                                                                      | Gender | Race     | Role   | College     |
 | ------------------------------------------------------------------------- | ------ | -------- | ------ | ----------- |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]          | Male   | Bullywug | Alumni | Witherbloom |
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]] | Male   | Bullywug | Alumni | Witherbloom |
 
 { .block-language-dataview}

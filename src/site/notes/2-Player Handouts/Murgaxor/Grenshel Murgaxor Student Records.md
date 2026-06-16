@@ -8,7 +8,7 @@
 
 **Associated Groups:** None
 **Associated Quests:** [[2-Quests/Whos goo\|Whos goo]],[[2-Quests/Heist the Records Room\|Heist the Records Room]]
-**Associated NPCs:** [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]
+**Associated NPCs:** [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]
 **Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2025-09-06 - Session 9\|2025-09-06 - Session 9]]
 
 ---

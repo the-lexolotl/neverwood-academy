@@ -76,6 +76,8 @@ At night, portions of the riverbank grow quiet — too quiet — and stories cir
 # People
 | File                                                                           | Race      | Gender | Role           |
 | ------------------------------------------------------------------------------ | --------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                     | Elf       | Male   | Tavern Founder |
+| [[2-World/People/Neverwinter/Vani\|Vani]]                                   | Automaton | Other  | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] | Elf       | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]               | Automaton | Other  | Tavern Manager |
 

@@ -31,11 +31,11 @@ Though it appears open and accessible, the Central Campus is subtly structured t
 # People
 | File                                                                                                      | Race                   | Gender | Role                       |
 | --------------------------------------------------------------------------------------------------------- | ---------------------- | ------ | -------------------------- |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Brik-E\|Brik-E]]                                   | Automaton              | Other  | Automaton                  |
+| [[2-World/People/Neverwood Academy/Staff/Automatons/Burn-E\|Burn-E]]                                   | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Cleaner\|Cleaner]]                                 | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/Construct V339\|Construct V339]]                   | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Automatons/The Earl\|The Earl]]                               | Neverwood Campus Guide | Male   | Automaton                  |
-| [[2-World/People/Neverwood Academy/Staff/Automatons/Brik-E\|Brik-E]]                                   | Automaton              | Other  | Automaton                  |
-| [[2-World/People/Neverwood Academy/Staff/Automatons/Burn-E\|Burn-E]]                                   | Automaton              | Other  | Automaton                  |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Aisla Fitzbottom\|Aisla Fitzbottom]]   | Gnome                  | Female | Cafe Manager               |
 | [[2-World/People/Neverwood Academy/Staff/Hospitality and Retail/Ellina Tanglewood\|Ellina Tanglewood]] | Elf                    | Female | Cafe Manager               |
 | [[2-World/People/Neverwood Academy/Staff/General/Shtomp\|Shtomp]]                                      | Orc                    | Male   | Coach                      |
@@ -59,8 +59,8 @@ Though it appears open and accessible, the Central Campus is subtly structured t
 
 | File                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Aerojaunt Field\|Aerojaunt Field]]                       |
+| [[2-World/Points of Interest/Neverwood Academy/Archway Commons\|Archway Commons]]                       |
 | [[2-World/Points of Interest/Neverwood Academy/Biblioplex\|Biblioplex]]                                 |
 | [[2-World/Points of Interest/Neverwood Academy/Bow's End Tavern\|Bow's End Tavern]]                     |
 | [[2-World/Points of Interest/Neverwood Academy/Captain Dapplewing's Manor\|Captain Dapplewing's Manor]] |

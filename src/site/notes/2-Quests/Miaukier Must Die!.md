@@ -16,19 +16,19 @@
 > | Acquired Loot:    | None |
 
 # Backstory
-[[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] was out looking for spell ingredients when he was attacked by small blue goblin-like creatures. They stole his cat [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]].
+[[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] was out looking for spell ingredients when he was attacked by small blue goblin-like creatures. They stole his cat [[2-World/People/Other/Miaukier\|Miaukier]].
 
 # Objectives
 - [x]  ~~Speak to [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]] about his missing cat~~ 
-- [x]  ~~Agree to find [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]~~
+- [x]  ~~Agree to find [[2-World/People/Other/Miaukier\|Miaukier]]~~
 - [x]  ~~Investigate the "little blue creatures"~~
 - [x]  ~~Head to the [[3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm\|Xvart]] Village~~
 - [x]  ~~Find a way into the Village~~
-- [x]  ~~Talk to the King [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]~~
+- [x]  ~~Talk to the King [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]~~
 - [x]  ~~Bribe the King~~ 
 - [x]  ~~Investigate the Sharman's cave~~ 
-- [x]  ~~Save [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]] before the ritual is complete~~
-- [x]  ~~Return [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]] to [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]~~
+- [x]  ~~Save [[2-World/People/Other/Miaukier\|Miaukier]] before the ritual is complete~~
+- [x]  ~~Return [[2-World/People/Other/Miaukier\|Miaukier]] to [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]~~
 
 # Quest Handouts
 | File                                                                       | Date Obtained | Category | Associated NPCs |
@@ -52,15 +52,17 @@ The following people are associated with this quest.
 | ------------------------------------------------------------------------------------------ | --------------- | ---------- | ------- |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]     | Human           | Male       | Veteran |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]               | Cat             | Male       | Other   |
+| [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]             | Xvart           | Non-binary | Other   |
+| [[2-World/People/Other/Miaukier\|Miaukier]]                                             | Cat             | Male       | Other   |
 | [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
-| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                         | Human           | Male       | Player  |
-| [[1-Party/H'er/H'er\|H'er]]                                                             | Tiefling        | Female     | Player  |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                               | Variant Aasimar | Female     | Player  |
-| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                      | Halfling        | Male       | Player  |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                         | Dragonborn      | Male       | Player  |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                           | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                            | Aarakocra       | Female     | Player  |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                      | Triton          | Male       | Player  |
+| [[1-Party/H'er/H'er\|H'er]]                                                             | Tiefling        | Female     | Player  |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                         | Human           | Male       | Player  |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                               | Variant Aasimar | Female     | Player  |
+| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                      | Halfling        | Male       | Player  |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                         | Dragonborn      | Male       | Player  |
 
 { .block-language-dataview}
 

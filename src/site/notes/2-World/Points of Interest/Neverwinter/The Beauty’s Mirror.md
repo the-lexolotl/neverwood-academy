@@ -37,6 +37,8 @@ encrusted with iridescent coral. It offers intoxicating drinks to spur the imagi
 # People
 | File                                                                                 | Race  | Gender | Role           |
 | ------------------------------------------------------------------------------------ | ----- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]                     | Elf   | Female | Tavern Founder |
+| [[2-World/People/Neverwinter/Bellana\|Bellana]]                                   | Sylph | Female | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph | Female | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bree Peregrine\|Bree Peregrine]] | Elf   | Female | Tavern Founder |
 

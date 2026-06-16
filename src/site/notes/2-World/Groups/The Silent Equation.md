@@ -11,7 +11,7 @@
 > ---|---|
 > **Location:** | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]] | 
 > **Category:** | Religious Order |
-> **Primary Contact:** | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] |
+> **Primary Contact:** | [[2-World/People/Other/Professor Delta\|Professor Delta]] |
 
 # Description
 The Silent Equation is a highly selective student circle associated with advanced Quandrix studies. Unlike typical clubs, membership is by invitation only — students cannot apply or request to join.
@@ -63,6 +63,7 @@ The following people are members of this group.
 | File                                                                                         | Gender | Race  | Role    | College  |
 | -------------------------------------------------------------------------------------------- | ------ | ----- | ------- | -------- |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] | Male   | Elf   | Student | Quandrix |
+| [[2-World/People/Other/Professor Delta\|Professor Delta]]                                 | Male   | Human | Student | Quandrix |
 | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Male   | Human | Student | Quandrix |
 
 { .block-language-dataview}

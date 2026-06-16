@@ -21,10 +21,10 @@ A shifting, unnatural substance appears on objects without explanation. Creature
 At first, these incidents are dismissed as minor magical anomalies - unfortunate side effects of student spellwork, or environmental quirks of the surrounding wilds.
 But patterns begin to emerge.
 The same viscous substance. The same unnatural adaptations. The same quiet sense that something is not just changing... but learning.
-Through investigation, the students uncover the name [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]] - an applicant from their own year, 1508 DR.
+Through investigation, the students uncover the name [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]] - an applicant from their own year, 1508 DR.
 Her records show that she was denied entry to Neverwood Academy.
 The reason is buried in administrative notes:
-Her grandfather, [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]], and her father, [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]], were both previously associated with the Academy. Their work, once promising, became controversial, then dangerous. Records reference misuse of magic, unethical experimentation, and eventual removal from academic circles.
+Her grandfather, [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]], and her father, [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]], were both previously associated with the Academy. Their work, once promising, became controversial, then dangerous. Records reference misuse of magic, unethical experimentation, and eventual removal from academic circles.
 Veyra’s application was rejected on those grounds alone.
 No interview. No appeal. No second chance.
 Yet despite never setting foot inside Neverwood as a student… her name keeps resurfacing.
@@ -84,13 +84,16 @@ And at the centre of it all, a name that should have remained nothing more than 
 - [ ] Confirm Murgaxor's connection to the tainted balm
 
 # Quest Handouts
-| File                                                                                                   | Date Obtained | Category        | Associated NPCs                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------ | ------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                    | 26 Jul, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere.md\\|Grayson Wildemere]]</li><li>[[2-World/People/Neverwood Academy/Students/1507/Francis Farlight.md\\|Francis Farlight]]</li></ul> |
-| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>                                                                                                                        |
-| [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul>                                                                                                                    |
-| [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                          |
-| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]                                   | 18 Apr, 2026  | Book            | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                          |
+| File                                                                                                                   | Date Obtained | Category        | Associated NPCs                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Neverwood Times/Volume XXVII\|Volume XXVII]]                                                    | 26 Jul, 2025  | Neverwood Times | <ul><li>[[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere.md\\|Grayson Wildemere]]</li><li>[[2-World/People/Neverwood Academy/Students/1507/Francis Farlight.md\\|Francis Farlight]]</li></ul> |
+| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]                     | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>                                                                                                                                 |
+| [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]]                 | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul>                                                                                                                             |
+| [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]                       | 06 Sep, 2025  | Loot            | <ul><li>[[2-World/People/Other/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                                   |
+| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot            | \-                                                                                                                                                                                                              |
+| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot            | \-                                                                                                                                                                                                              |
+| [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot            | \-                                                                                                                                                                                                              |
+| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]                                                   | 18 Apr, 2026  | Book            | <ul><li>[[2-World/People/Other/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                                                                                                                                   |
 
 { .block-language-dataview}
 
@@ -104,20 +107,24 @@ And at the centre of it all, a name that should have remained nothing more than 
 The following people are associated with this quest.
 | Character                                                                                      | Race            | Gender | Role                  |
 | ---------------------------------------------------------------------------------------------- | --------------- | ------ | --------------------- |
+| [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                           | Treant          | Female | Grounds Keeper        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]         | Human           | Male   | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]] | Owlin           | Female | Professor of Radiance |
-| [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]                           | Treant          | Female | Grounds Keeper        |
+| [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]                                   | Treant          | Female | Grounds Keeper        |
+| [[2-World/People/Other/Daniel Murgaxor\|Daniel Murgaxor]]                                   | Half-Bullywug   | Male   | Alumni                |
+| [[2-World/People/Other/Grenshel Murgaxor\|Grenshel Murgaxor]]                               | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Daniel Murgaxor\|Daniel Murgaxor]]                          | Half-Bullywug   | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Grenshel Murgaxor\|Grenshel Murgaxor]]                      | Bullywug        | Male   | Alumni                |
 | [[2-World/People/Other/Murgaxor/Veyra Murgaxor\|Veyra Murgaxor]]                            | Halfling        | Female | Applicant             |
-| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Human           | Male   | Player                |
-| [[1-Party/H'er/H'er\|H'er]]                                                                 | Tiefling        | Female | Player                |
-| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
-| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
+| [[2-World/People/Other/Veyra Murgaxor\|Veyra Murgaxor]]                                     | Halfling        | Female | Applicant             |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Yuan-Ti         | Male   | Player                |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                                | Aarakocra       | Female | Player                |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                          | Triton          | Male   | Player                |
+| [[1-Party/H'er/H'er\|H'er]]                                                                 | Tiefling        | Female | Player                |
+| [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Human           | Male   | Player                |
+| [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                   | Variant Aasimar | Female | Player                |
+| [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Halfling        | Male   | Player                |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                             | Dragonborn      | Male   | Player                |
 
 { .block-language-dataview}
 

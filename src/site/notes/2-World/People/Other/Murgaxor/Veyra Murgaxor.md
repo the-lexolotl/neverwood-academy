@@ -26,10 +26,8 @@
 **Groups:**  None
 
 ### Associated Handouts
-| File                                                                                             | Date Obtained |
-| ------------------------------------------------------------------------------------------------ | ------------- |
-| [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]] | 06 Sep, 2025  |
-| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]                             | 18 Apr, 2026  |
+| File | Date Obtained |
+| ---- | ------------- |
 
 { .block-language-dataview}
 

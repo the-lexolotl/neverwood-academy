@@ -10,7 +10,7 @@
 > | Date Obtained: | 24/10/2025 |
 > | ----------------- | -------------------------- |
 > | Status: | In Progress |
-> | Quest Giver: | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]] |
+> | Quest Giver: | [[2-World/People/Other/Professor Delta\|Professor Delta]] |
 > | Quest Location:   | [[2-World/Places/Quandrix Campus\|Quandrix Campus]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
 > | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-10-24 - Ross Async\|2025-10-24 - Ross Async]] |
 > | Acquired Loot:    | None |
@@ -26,7 +26,7 @@
 
 ### Meeting the Representative
 - [x] ~~Arrive at the observatory at midnight.~~
-- [x] ~~Meet [[2-World/People/Other/Unspecified/Professor Delta\|"Professor Delta"]], the representative of The Silent Equation.~~
+- [x] ~~Meet [[2-World/People/Other/Professor Delta\|"Professor Delta"]], the representative of The Silent Equation.~~
 - [x] ~~Accept the assignment: decode the ancient spellbook and copy its spells onto scrolls.~~
 - [x] ~~Take note of the unusual properties of the book.~~
 
@@ -68,6 +68,7 @@ The following people are associated with this quest.
 | Character                                                                                    | Race  | Gender | Role    |
 | -------------------------------------------------------------------------------------------- | ----- | ------ | ------- |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]] | Elf   | Male   | Student |
+| [[2-World/People/Other/Professor Delta\|Professor Delta]]                                 | Human | Male   | Student |
 | [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]                     | Human | Male   | Student |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                           | Human | Male   | Player  |
 

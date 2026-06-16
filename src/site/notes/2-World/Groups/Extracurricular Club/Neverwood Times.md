@@ -29,17 +29,17 @@ Those who demonstrate initiative may lead major investigations or help shape the
 The following people are members of this group.  
 | File                                                                                           | Gender     | Race       | Role    | College     |
 | ---------------------------------------------------------------------------------------------- | ---------- | ---------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]     | Non-binary | Shadar-Kai | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Garrik Stormfang\|Garrik Stormfang]]       | Male       | Orc        | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Male       | Human      | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]     | Male       | Half-Orc   | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Ignatius Burnscar\|Ignatius Burnscar]]     | Male       | Hobgoblin  | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1506/Garrik Stormfang\|Garrik Stormfang]]       | Male       | Orc        | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]     | Non-binary | Shadar-Kai | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Tobin Nettlewick\|Tobin Nettlewick]]       | FtM        | Gnome      | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]     | Female     | Loxodon    | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]       | Male       | Human      | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]] | Female     | Human      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                       | Female     | Human      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]           | Non-binary | Firbolg    | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1508/Grayson Wildemere\|Grayson Wildemere]]     | Male       | Human      | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]     | Male       | Half-Orc   | Student | Lorehold    |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                             | Male       | Human      | Player  | Quandrix    |
 
 { .block-language-dataview}

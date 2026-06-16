@@ -45,9 +45,9 @@ Her choices will define not only her art but her place in [[2-World/Groups/Colle
 The following people are associated with this quest.
 | Character                                                                                        | Race       | Gender | Role    |
 | ------------------------------------------------------------------------------------------------ | ---------- | ------ | ------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]     | Elf        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Air Genasi | Female | Student |
+| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]       | Loxodon    | Female | Student |
 | [[1-Party/H'er/H'er\|H'er]]                                                                   | Tiefling   | Female | Player  |
 
 { .block-language-dataview}

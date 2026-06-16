@@ -30,9 +30,8 @@ After the dissolution of his adventuring group, Eb turned his focus inward, pour
 **Groups:**  None
 
 ### Associated Handouts
-| File                                                                                                                                         | Date Obtained |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[2-Player Handouts/Others/Notes on The Pub that Crawls Compiled by E. Zenithon.\|Notes on The Pub that Crawls Compiled by E. Zenithon.]] | 24 Jan, 2026  |
+| File | Date Obtained |
+| ---- | ------------- |
 
 { .block-language-dataview}
 

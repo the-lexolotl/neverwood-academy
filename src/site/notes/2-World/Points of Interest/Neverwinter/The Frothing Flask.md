@@ -37,6 +37,8 @@ bubbling over. The Frothing Flask is for those who desire to carry out an intell
 # People
 | File                                                                           | Race      | Gender | Role           |
 | ------------------------------------------------------------------------------ | --------- | ------ | -------------- |
+| [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]                     | Elf       | Male   | Tavern Founder |
+| [[2-World/People/Neverwinter/Vani\|Vani]]                                   | Automaton | Other  | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]] | Elf       | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Vani\|Vani]]               | Automaton | Other  | Tavern Manager |
 

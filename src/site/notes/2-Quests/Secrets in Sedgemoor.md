@@ -53,8 +53,8 @@ What the students find there may not only cleanse the waters... but reveal the f
 # Quest Handouts
 | File                                                                         | Date Obtained | Category | Associated NPCs                                                                                         |
 | ---------------------------------------------------------------------------- | ------------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]         | 18 Apr, 2026  | Book     | <ul><li>[[2-World/People/Other/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                           |
 | [[2-Player Handouts/Others/Professor Lang's List\|Professor Lang's List]] | 18 Apr, 2026  | Note     | <ul><li>[[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang.md\\|Verelda Lang]]</li></ul> |
-| [[2-Player Handouts/Murgaxor/Murgaxor's Diary\|Murgaxor's Diary]]         | 18 Apr, 2026  | Book     | <ul><li>[[2-World/People/Other/Murgaxor/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>                  |
 
 { .block-language-dataview}
 
@@ -71,11 +71,11 @@ The following people are associated with this quest.
 | -------------------------------------------------------------------------------------- | --------------- | ------ | ------------------- |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]] | Human           | Male   | Professor of Shadow |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]   | Dryad           | Female | Professor of Growth |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                        | Aarakocra       | Female | Player              |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                     | Human           | Male   | Player              |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                           | Variant Aasimar | Female | Player              |
 | [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                  | Minotaur        | Male   | Player              |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                 | Dragonborn      | Female | Player              |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                        | Aarakocra       | Female | Player              |
 
 { .block-language-dataview}
 

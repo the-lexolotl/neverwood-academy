@@ -5,13 +5,13 @@
 # Academics
 | Name                                                                                                 |
 | ---------------------------------------------------------------------------------------------------- |
-| [[3-Homebrew Mechanics/Academics/Student Skills System\|Student Skills System]]                   |
-| [[3-Homebrew Mechanics/Academics/Student Dice System\|Student Dice System]]                       |
-| [[3-Homebrew Mechanics/Academics/Relationships System\|Relationships System]]                     |
-| [[3-Homebrew Mechanics/Academics/Neverwood Academic System\|Neverwood Academic System]]           |
-| [[3-Homebrew Mechanics/Academics/Free Time System\|Free Time System]]                             |
 | [[3-Homebrew Mechanics/Academics/Dorm Room - Special Facilities\|Dorm Room - Special Facilities]] |
+| [[3-Homebrew Mechanics/Academics/Free Time System\|Free Time System]]                             |
 | [[3-Homebrew Mechanics/Academics/Dorm Rooms as Bastions\|Dorm Rooms as Bastions]]                 |
+| [[3-Homebrew Mechanics/Academics/Neverwood Academic System\|Neverwood Academic System]]           |
+| [[3-Homebrew Mechanics/Academics/Relationships System\|Relationships System]]                     |
+| [[3-Homebrew Mechanics/Academics/Student Dice System\|Student Dice System]]                       |
+| [[3-Homebrew Mechanics/Academics/Student Skills System\|Student Skills System]]                   |
 
 { .block-language-dataview}
 
@@ -20,10 +20,10 @@
 | ---------------------------------------------------------------------------- |
 | [[3-Homebrew Mechanics/Feats/Halloobabrew Crafter\|Halloobabrew Crafter]] |
 | [[3-Homebrew Mechanics/Feats/Modular\|Modular]]                           |
-| [[3-Homebrew Mechanics/Feats/Trust Fund Kid\|Trust Fund Kid]]             |
 | [[3-Homebrew Mechanics/Feats/First Year Honours\|First Year Honours]]     |
-| [[3-Homebrew Mechanics/Feats/Neverwood Initiate\|Neverwood Initiate]]     |
 | [[3-Homebrew Mechanics/Feats/Neverwood Mascot\|Neverwood Mascot]]         |
+| [[3-Homebrew Mechanics/Feats/Neverwood Initiate\|Neverwood Initiate]]     |
+| [[3-Homebrew Mechanics/Feats/Trust Fund Kid\|Trust Fund Kid]]             |
 
 { .block-language-dataview}
 

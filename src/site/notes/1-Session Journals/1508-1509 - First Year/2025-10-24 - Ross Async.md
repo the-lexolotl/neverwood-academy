@@ -22,7 +22,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]],[[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]]
+[[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]],[[2-World/People/Other/Professor Delta\|Professor Delta]]
 
 ## Session Handouts
 | File | Category | Associated NPCs | Associated Quests |
@@ -44,7 +44,7 @@ After the disciplinary summons from the Head Teacher, Harry Blackstone finds him
 
 ### The Meeting at the Observatory
 * The ruined observatory stands under fractured glass and moonlight, its walls pulsing faintly with residual warding magic. Cadoras arrives early, the two exchanging nervous jokes before beginning their investigation.
-* While Harry searches, a robed figure materialises behind him — a tall scholar wearing a smooth wooden mask painted with the ∑ sigil. He introduces himself as [[2-World/People/Other/Unspecified/Professor Delta\|Professor Delta]], representative of *[[2-World/Groups/The Silent Equation\|The Silent Equation]]*.
+* While Harry searches, a robed figure materialises behind him — a tall scholar wearing a smooth wooden mask painted with the ∑ sigil. He introduces himself as [[2-World/People/Other/Professor Delta\|Professor Delta]], representative of *[[2-World/Groups/The Silent Equation\|The Silent Equation]]*.
 * Delta’s manner is unnervingly calm, his words precise: “Each theorem conceals a spell — fragments of equilibrium itself. Decode the book and present us with the relevant scrolls.”
 * He hands over a tome titled *Proofs of Correction*, then vanishes in a flare of blue-green light before Harry can respond.
 

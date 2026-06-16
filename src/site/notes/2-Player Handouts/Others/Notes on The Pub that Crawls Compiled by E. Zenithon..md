@@ -9,7 +9,7 @@
 
 **Associated Groups:** None
 **Associated Quests:** [[2-Quests/The Pub That Crawls\|The Pub That Crawls]]
-**Associated NPCs:** [[2-World/People/Neverwinter/The Pub That Crawls/Eb Zenithon\|Eb Zenithon]]
+**Associated NPCs:** [[2-World/People/Neverwinter/Eb Zenithon\|Eb Zenithon]]
 **Session Obtained:** [[1-Session Journals/1508-1509 - First Year/2026-01-24 - Session 27\|2026-01-24 - Session 27]]
 
 ---

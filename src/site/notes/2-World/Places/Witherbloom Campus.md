@@ -36,6 +36,7 @@ The atmosphere is heavy, humid, and deeply alive. Sounds carry strangely through
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                         | Vampire      | Male       | College Dean        |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Beledros Witherbloom\|Beledros Witherbloom]] | Dragon       | Female     | Founder Dragon      |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Miaukier\|Miaukier]]                         | Cat          | Male       | Other               |
+| [[2-World/People/Other/Miaukier\|Miaukier]]                                                       | Cat          | Male       | Other               |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Serafina Onyx\|Serafina Onyx]]               | Human        | Female     | Professor of Decay  |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Tivash\|Tivash]]                             | Human        | Male       | Professor of Decay  |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Venoc Plaguescale\|Venoc Plaguescale]]       | Dragonborn   | Male       | Professor of Decay  |
@@ -48,10 +49,10 @@ The atmosphere is heavy, humid, and deeply alive. Sounds carry strangely through
 | [[2-World/People/Neverwood Academy/Students/1506/Cassian Veyne\|Cassian Veyne]]                   | Dhampir      | Non-binary | Student             |
 | [[2-World/People/Neverwood Academy/Students/1506/Lazareth Hollowvein\|Lazareth Hollowvein]]       | Undead       | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1506/Lirien Emberlace\|Lirien Emberlace]]             | Firbolg      | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Sable Darkroot\|Sable Darkroot]]                 | Dhampir      | Non-binary | Student             |
 | [[2-World/People/Neverwood Academy/Students/1506/Sariah Moonshadow\|Sariah Moonshadow]]           | Shadar-Kai   | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Vesra Thornwhisper\|Vesra Thornwhisper]]         | Tiefling     | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Sable Darkroot\|Sable Darkroot]]                 | Dhampir      | Non-binary | Student             |
 | [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]               | Reborn       | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Vesra Thornwhisper\|Vesra Thornwhisper]]         | Tiefling     | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]             | Human        | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                 | Tiefling     | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                           | Half-Orc     | Female     | Student             |

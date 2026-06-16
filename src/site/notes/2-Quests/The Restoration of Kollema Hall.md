@@ -10,7 +10,7 @@
 > | Date Obtained: | 03/01/2026 |
 > | ----------------- | -------------------------- |
 > | Status: | Complete |
-> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]] |
 > | Quest Location:   | [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
 > | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2026-01-03 - Session 24\|2026-01-03 - Session 24]] |
 > | Acquired Loot:    | None |
@@ -18,7 +18,7 @@
 # Backstory
 On the 12th of Alturiak, 1509, a magically induced beanstalk was grown on academy grounds without proper authorisation or structural planning. The growth erupted through [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], damaging multiple floors, destabilising ward networks, and rendering the building temporarily unsafe for use.
 Although no lives were lost, the incident caused significant disruption to classes, displaced faculty offices, and compromised several long-standing protective enchantments woven into the hall’s foundations.
-Following a formal disciplinary hearing chaired by Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]], the responsible students were assigned a Supervised Structural Responsibility Exercise in lieu of expulsion or fines. The intent of the sanction was not punishment, but education: to ensure the students understood the consequences of uncontrolled magic and took direct responsibility for repairing the harm caused.
+Following a formal disciplinary hearing chaired by Head Teacher [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]], the responsible students were assigned a Supervised Structural Responsibility Exercise in lieu of expulsion or fines. The intent of the sanction was not punishment, but education: to ensure the students understood the consequences of uncontrolled magic and took direct responsibility for repairing the harm caused.
 The project places the students under faculty supervision and forms part of their mandatory Independent Study Period for the remainder of Alturiak.
 
 # Objectives
@@ -70,16 +70,17 @@ The project places the students under faculty supervision and forms part of thei
 The following people are associated with this quest.
 | Character                                                                                       | Race        | Gender | Role                  |
 | ----------------------------------------------------------------------------------------------- | ----------- | ------ | --------------------- |
+| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human       | Female | Head Teacher          |
 | [[2-World/People/Neverwood Academy/Staff/Lorehold/Plargg\|Plargg]]                           | Orc         | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Prismari/Nassari\|Nassari]]                         | Fire Genasi | Other  | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Quandrix/Imbraham\|Imbraham]]                       | Owlin       | Male   | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]  | Owlin       | Female | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]    | Owlin       | Female | College Dean          |
+| [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                | Human       | Female | Head Teacher          |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Valentin\|Valentin]]                    | Vampire     | Male   | College Dean          |
-| [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human       | Female | Head Teacher          |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn  | Male   | Player                |
-| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]            | Eladrin     | Female | Player                |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                           | Triton      | Male   | Player                |
+| [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]            | Eladrin     | Female | Player                |
+| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                              | Dragonborn  | Male   | Player                |
 
 { .block-language-dataview}
 

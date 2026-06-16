@@ -29,12 +29,12 @@ Those who excel may take on leading roles in performances or assist in choreogra
 The following people are members of this group.  
 | File                                                                                           | Gender     | Race      | Role    | College     |
 | ---------------------------------------------------------------------------------------------- | ---------- | --------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]       | Female     | Gorgon    | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]     | Female     | Harengon  | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1506/Zinnia Brightpetal\|Zinnia Brightpetal]]   | Female     | Fairy     | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1506/Cassian Veyne\|Cassian Veyne]]             | Non-binary | Dhampir   | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Female     | Human     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Gethrick Ironbranch\|Gethrick Ironbranch]] | Male       | Warforged | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Larine Arneza\|Larine Arneza]]             | Female     | Human     | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]       | Female     | Gorgon    | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Ariella Nightgale\|Ariella Nightgale]]     | Female     | Harengon  | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1506/Cassian Veyne\|Cassian Veyne]]             | Non-binary | Dhampir   | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Zinnia Brightpetal\|Zinnia Brightpetal]]   | Female     | Fairy     | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]   | Female     | Human     | Student | Quandrix    |
 
 { .block-language-dataview}
