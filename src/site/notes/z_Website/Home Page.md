@@ -17,7 +17,7 @@
 Welcome to the authorised archive of **Neverwood Academy**, a centre of magical learning situated at the edge of Neverwinter and the wider North of Faerûn. These records catalogue student cohorts, faculty, academic proceedings, and officially acknowledged incidents. 
 
 ---
-![Under Construction Banner.png](/img/user/z_Assets/Under%20Construction%20Banner.png)
+![Welcome Back.png](/img/user/z_Assets/website/Welcome%20Back.png)
 
 ---
 
