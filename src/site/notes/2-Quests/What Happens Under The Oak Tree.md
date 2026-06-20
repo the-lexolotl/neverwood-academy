@@ -85,8 +85,8 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Owlin           | Female | Student             |
 | [[2-World/People/Other/Vormor\|Vormor]]                                                       | Half-Giant      | Male   | Other               |
 | [[2-World/People/Other/Unspecified/Vormor\|Vormor]]                                           | Half-Giant      | Male   | Other               |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                 | Yuan-Ti         | Male   | Player              |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                            | Triton          | Male   | Player              |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                                 | Yuan-Ti         | Male   | Player              |
 | [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette Moonbeam]]             | Eladrin         | Female | Player              |
 | [[1-Party/H'er/H'er\|H'er]]                                                                   | Tiefling        | Female | Player              |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                               | Human           | Male   | Player              |

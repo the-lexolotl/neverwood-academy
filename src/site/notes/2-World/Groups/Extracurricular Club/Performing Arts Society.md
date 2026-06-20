@@ -30,12 +30,12 @@ The following people are members of this group.
 | File                                                                                             | Gender     | Race            | Role    | College     |
 | ------------------------------------------------------------------------------------------------ | ---------- | --------------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                         | Female     | Tiefling        | Coach   | None        |
+| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Non-binary | Elf             | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]       | Non-binary | Changling       | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Rubina Larkingdale\|Rubina Larkingdale]]     | Female     | Human           | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Tobias Thornfield\|Tobias Thornfield]]       | Male       | Half-Orc        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Oona Mistfeather\|Oona Mistfeather]]         | Female     | Owlin           | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Tobin Nettlewick\|Tobin Nettlewick]]         | FtM        | Gnome           | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]] | Non-binary | Elf             | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]       | Non-binary | Changling       | Student | Silverquill |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                     | Female     | Variant Aasimar | Player  | Silverquill |
 
 { .block-language-dataview}

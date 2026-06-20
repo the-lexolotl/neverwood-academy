@@ -45,20 +45,20 @@ The atmosphere is heavy, humid, and deeply alive. Sounds carry strangely through
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verelda Lang\|Verelda Lang]]                 | Dryad        | Female     | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Verooja\|Verooja]]                           | Loxodon      | Male       | Professor of Growth |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Willowdusk\|Willowdusk]]                     | Treant       | Female     | Professor of Growth |
-| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]             | Gorgon       | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Cassian Veyne\|Cassian Veyne]]                   | Dhampir      | Non-binary | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Lazareth Hollowvein\|Lazareth Hollowvein]]       | Undead       | Male       | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Lirien Emberlace\|Lirien Emberlace]]             | Firbolg      | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Sariah Moonshadow\|Sariah Moonshadow]]           | Shadar-Kai   | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Sable Darkroot\|Sable Darkroot]]                 | Dhampir      | Non-binary | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]               | Reborn       | Female     | Student             |
-| [[2-World/People/Neverwood Academy/Students/1506/Vesra Thornwhisper\|Vesra Thornwhisper]]         | Tiefling     | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]             | Human        | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                 | Tiefling     | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                           | Half-Orc     | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                                 | Earth Genasi | Non-binary | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]       | Elf          | Male       | Student             |
 | [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]             | Orc          | Male       | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Calypso Virellis\|Calypso Virellis]]             | Gorgon       | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Cassian Veyne\|Cassian Veyne]]                   | Dhampir      | Non-binary | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Lazareth Hollowvein\|Lazareth Hollowvein]]       | Undead       | Male       | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Lirien Emberlace\|Lirien Emberlace]]             | Firbolg      | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Sable Darkroot\|Sable Darkroot]]                 | Dhampir      | Non-binary | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Sariah Moonshadow\|Sariah Moonshadow]]           | Shadar-Kai   | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Vesra Thornwhisper\|Vesra Thornwhisper]]         | Tiefling     | Female     | Student             |
+| [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]               | Reborn       | Female     | Student             |
 | [[2-World/People/Neverwood Academy/Staff/Witherbloom/Theodore Moss\|Theodore Moss]]               | Human        | Male       | Veteran             |
 
 { .block-language-dataview}

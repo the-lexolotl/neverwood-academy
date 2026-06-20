@@ -55,9 +55,9 @@ The following people are associated with this quest.
 | [[2-World/People/Other/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]]             | Xvart           | Non-binary | Other   |
 | [[2-World/People/Other/Miaukier\|Miaukier]]                                             | Cat             | Male       | Other   |
 | [[2-World/People/Other/Unspecified/Krzrzrgh the Fat-bellied\|Krzrzrgh the Fat-bellied]] | Xvart           | Non-binary | Other   |
-| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                           | Yuan-Ti         | Male       | Player  |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                            | Aarakocra       | Female     | Player  |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                      | Triton          | Male       | Player  |
+| [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                           | Yuan-Ti         | Male       | Player  |
 | [[1-Party/H'er/H'er\|H'er]]                                                             | Tiefling        | Female     | Player  |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                         | Human           | Male       | Player  |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                               | Variant Aasimar | Female     | Player  |

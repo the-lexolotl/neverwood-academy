@@ -29,11 +29,11 @@ Participation can be casual or highly dedicated, depending on individual ambitio
 The following people are members of this group.  
 | File                                                                                         | Gender     | Race         | Role    | College     |
 | -------------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
+| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                         | Non-binary | Earth Genasi | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]             | Female     | Halfling     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Calla Fernbrook\|Calla Fernbrook]]       | Female     | Satyr        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Bramble Quickthorn\|Bramble Quickthorn]] | Non-binary | Sprite       | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1506/Dain Callister\|Dain Callister]]         | Male       | Human        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Nerissa Deepbrook\|Nerissa Deepbrook]]   | MtF        | Triton       | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                         | Non-binary | Earth Genasi | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]             | Female     | Halfling     | Student | Prismari    |
 
 { .block-language-dataview}

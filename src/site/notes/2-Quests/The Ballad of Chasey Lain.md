@@ -75,12 +75,12 @@ Moments later, Jimmy, clearly panicking, rushes to the party for help. He didnâ€
 The following people are associated with this quest.
 | Character                                                                                    | Race            | Gender | Role    |
 | -------------------------------------------------------------------------------------------- | --------------- | ------ | ------- |
+| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf             | Female | Alumni  |
 | [[2-World/People/Neverwood Academy/Students/1506/Denis Dragontongue\|Denis Dragontongue]] | Dragonborn      | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/DJ Dirgebyte\|DJ Dirgebyte]]             | Gnome           | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter         | Male   | Student |
-| [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]     | Elf             | Female | Alumni  |
 | [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                              | Aarakocra       | Female | Player  |
 | [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                        | Triton          | Male   | Player  |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                 | Dragonborn      | Male   | Player  |

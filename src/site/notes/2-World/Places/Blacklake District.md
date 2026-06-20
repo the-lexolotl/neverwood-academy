@@ -82,8 +82,8 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 | [[2-World/People/Neverwinter/Baz\|Baz]]                                           | Owlin     | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/Cedric the Kor\|Cedric the Kor]]                     | Kor       | Male   | Tavern Ghost   |
 | [[2-World/People/Neverwinter/Cedric the Orc\|Cedric the Orc]]                     | Orc       | Male   | Tavern Ghost   |
-| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                     | Half-Orc  | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/Marcellus\|Marcellus]]                               | Loxodon   | Male   | Tavern Manager |
+| [[2-World/People/Neverwinter/Orestes Alaris\|Orestes Alaris]]                     | Half-Orc  | Male   | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Alise Thallas\|Alise Thallas]]   | Changling | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Baz\|Baz]]                       | Owlin     | Male   | Tavern Manager |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Cedric the Orc\|Cedric the Orc]] | Orc       | Male   | Tavern Ghost   |
@@ -98,8 +98,8 @@ Rumours persist that parts of the lakebed conceal relics from before the eruptio
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwinter/Carver & Thread\|Carver & Thread]]     |
-| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]         |
 | [[2-World/Points of Interest/Neverwinter/The Lucid Dreamer\|The Lucid Dreamer]] |
+| [[2-World/Points of Interest/Neverwinter/The Tall Tale\|The Tall Tale]]         |
 
 { .block-language-dataview}
 

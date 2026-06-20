@@ -72,8 +72,8 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 # People
 | File                                                                                 | Race     | Gender | Role           |
 | ------------------------------------------------------------------------------------ | -------- | ------ | -------------- |
-| [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]                     | Elf      | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/Bellana\|Bellana]]                                   | Sylph    | Female | Tavern Manager |
+| [[2-World/People/Neverwinter/Bree Peregrine\|Bree Peregrine]]                     | Elf      | Female | Tavern Founder |
 | [[2-World/People/Neverwinter/Davo Pesch\|Davo Pesch]]                             | Human    | Male   | Shop Manager   |
 | [[2-World/People/Neverwinter/Mira Solt\|Mira Solt]]                               | Half-Elf | Female | Shop Manager   |
 | [[2-World/People/Neverwinter/The Pub That Crawls/Bellana\|Bellana]]               | Sylph    | Female | Tavern Manager |
@@ -86,8 +86,8 @@ Orderly, proud, and slightly performative. Guards are visible but not oppressive
 | File                                                                                   |
 | -------------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwinter/The Amber Lens\|The Amber Lens]]           |
-| [[2-World/Points of Interest/Neverwinter/Mira’s Marginalia\|Mira’s Marginalia]]     |
 | [[2-World/Points of Interest/Neverwinter/The Beauty’s Mirror\|The Beauty’s Mirror]] |
+| [[2-World/Points of Interest/Neverwinter/Mira’s Marginalia\|Mira’s Marginalia]]     |
 | [[2-World/Points of Interest/Neverwinter/The Silver Shuttle\|The Silver Shuttle]]   |
 
 { .block-language-dataview}

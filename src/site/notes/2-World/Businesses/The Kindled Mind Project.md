@@ -84,8 +84,8 @@ Despite this, the programme continues to operate widely, supported by contracts,
 The following people are associated with this business.  
 | File                                                           | Gender | Race     | Role                          | College |
 | -------------------------------------------------------------- | ------ | -------- | ----------------------------- | ------- |
-| [[2-World/People/Other/Maris Velloran\|Maris Velloran]]     | Female | Half-Elf | Chief Executive Officer       | None    |
 | [[2-World/People/Other/Halvrix Solthane\|Halvrix Solthane]] | Male   | Human    | Founder & Curriculum Overseer | None    |
+| [[2-World/People/Other/Maris Velloran\|Maris Velloran]]     | Female | Half-Elf | Chief Executive Officer       | None    |
 
 { .block-language-dataview}
 
