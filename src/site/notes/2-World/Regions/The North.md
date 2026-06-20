@@ -192,7 +192,6 @@ In recent decades, giantkind has stirred once more, waging battles that toppled 
 | [[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]]                               | Extracurricular Club          |
 | [[2-World/Groups/Extracurricular Club/Live-Action Roleplaying Society\|Live-Action Roleplaying Society]]             | Extracurricular Club          |
 | [[2-World/Groups/Extracurricular Club/Neverwood Iron-Lifters Society\|Neverwood Iron-Lifters Society]]               | Extracurricular Club          |
-| [[2-World/Groups/Extracurricular Club/Play Actors Drama Guild\|Play Actors Drama Guild]]                             | Extracurricular Club          |
 | [[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]                             | Extracurricular Club          |
 | [[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]]                               | Extracurricular Club          |
 | [[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]]                                             | Extracurricular Club          |

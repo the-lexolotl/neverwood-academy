@@ -35,6 +35,5 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]           | Female     | Reborn     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Male       | Triton     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]             | Male       | Half-Elf   | Student | Quandrix    |
-| [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Male       | Dragonborn | Player  | Quandrix    |
 
 { .block-language-dataview}

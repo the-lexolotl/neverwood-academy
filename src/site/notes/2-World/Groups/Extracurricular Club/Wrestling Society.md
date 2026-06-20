@@ -31,6 +31,5 @@ The following people are members of this group.
 | -------------------------------------------------------------------------------------------- | ------ | ---------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]] | Male   | Owlin      | Student | Lorehold    |
 | [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                 | Male   | Dragonborn | Player  | Silverquill |
-| [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                       | Female | Dragonborn | Player  | Lorehold    |
 
 { .block-language-dataview}
