@@ -111,7 +111,8 @@
     "Year 1"
   ],
   "/Session Journals": [
-    "1508-1509 - First Year"
+    "1508-1509 - First Year",
+    "1509-1510 - Second Year"
   ],
   "/Session Journals/1508-1509 - First Year": [
     "End of Year Summary 1508-1509",
@@ -166,7 +167,11 @@
     "2026-04-18 - Session 37",
     "2026-04-25 - Session 38",
     "2026-05-02 - Session 39",
-    "2026-05-09 - Session 40"
+    "2026-05-09 - Session 40",
+    "2026-06-01 - Ross Async"
+  ],
+  "/Session Journals/1509-1510 - Second Year": [
+    "2026-06-13 - Session 41"
   ],
   "/Player Handouts": [
     "Academic Information",
@@ -186,7 +191,8 @@
   ],
   "/Player Handouts/Academic Information/Extracurricular Clubs": [
     "Starting a Student Society",
-    "Extracurriculars & Guilds"
+    "Extracurriculars & Guilds",
+    "Extracurriculars List"
   ],
   "/Player Handouts/Academic Information/Course Options": [
     "First Year Courses",
@@ -198,13 +204,17 @@
   ],
   "/Player Handouts/Academy Events": [
     "The Merchant of Moons Poster",
-    "Winter Solstice Dance"
+    "Winter Solstice Dance",
+    "Neverwinter Mage Battle"
   ],
   "/Player Handouts/Help Sheets": [
     "Combat",
     "Conditions",
     "Exploration",
-    "Playing the Game"
+    "Playing the Game",
+    "Dorm Rooms as Bastions",
+    "Exams & Grading",
+    "Neverwood Academy General Information"
   ],
   "/Player Handouts/Monsters": [
     "Xvart Textbook Page"
@@ -240,6 +250,7 @@
     "Campus Daredevils",
     "Colours in Chaos",
     "Heist the Records Room",
+    "Manthrak’s Malicious Steamroller",
     "Miaukier Must Die!",
     "Nest of the Eldritch Eye",
     "Ricards Riches",
@@ -323,7 +334,8 @@
     "Student-Mages of Faith",
     "Wrestling Society",
     "Live-Action Roleplaying Society",
-    "Performing Arts Society"
+    "Performing Arts Society",
+    "Live-Action Roleplaying Guild"
   ],
   "/World/Groups/Neverwood Guilds": [
     "Adventuring Guild",
@@ -415,6 +427,7 @@
   "/World/People/Neverwood Academy/Staff/General": [
     "Dramitia",
     "Isabrough",
+    "Manthrak",
     "Melvi Le Donto",
     "Quentis Orvlo",
     "Shtomp",
@@ -470,7 +483,8 @@
     "Rixy",
     "Ruxa",
     "Senestrine Darou",
-    "Tanazir Quandrix"
+    "Tanazir Quandrix",
+    "Jazzack Quickfood"
   ],
   "/World/People/Neverwood Academy/Staff/Silverquill": [
     "Breena",
@@ -624,7 +638,23 @@
     "Up the Beanstalk",
     "Whalebucks",
     "Halvrix Solthane",
-    "Maris Velloran"
+    "Maris Velloran",
+    "Adalynn Blackstone",
+    "Arcturus Vell",
+    "Aurum Aethelos",
+    "Coriander",
+    "Cumin",
+    "Daniel Murgaxor",
+    "Fistandria",
+    "Freyot",
+    "Grenshel Murgaxor",
+    "Krzrzrgh the Fat-bellied",
+    "Miaukier",
+    "Professor Delta",
+    "Reynard Blackstone",
+    "Teanna Aethelos",
+    "Veyra Murgaxor",
+    "Vormor"
   ],
   "/World/People/Other/Family": [
     "Adalynn Blackstone",
@@ -679,8 +709,9 @@
   "/World/Points of Interest": [
     "Neverwinter",
     "Neverwood Academy",
-    "Xvart Ritual Dungeon",
-    "Fistandria’s Mansion"
+    "Fistandria’s Mansion",
+    "Manthrak's Tower",
+    "Xvart Ritual Dungeon"
   ],
   "/World/Points of Interest/Neverwinter": [
     "Carver & Thread",
@@ -772,6 +803,7 @@
     "Piss Yourself"
   ],
   "/Mechanics/Other": [
-    "Alcohol and Intoxicants"
+    "Alcohol and Intoxicants",
+    "Mage Tower"
   ]
 }
