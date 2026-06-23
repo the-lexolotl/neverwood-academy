@@ -104,7 +104,7 @@ To those who meet her, Eremis Varr is a contradiction: a creature born of a viol
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Athletics ([[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]])
 ### Single Use
 - [ ] 
 

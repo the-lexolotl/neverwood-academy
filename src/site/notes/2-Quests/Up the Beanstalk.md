@@ -10,7 +10,7 @@
 > | Date Obtained: | 13/12/2025 |
 > | ----------------- | -------------------------- |
 > | Status: | Complete (sorta...) |
-> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]] |
+> | Quest Giver: | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] |
 > | Quest Location:   | [[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]      |
 > | Session Obtained: | [[1-Session Journals/1508-1509 - First Year/2025-12-13 - Session 22\|2025-12-13 - Session 22]] |
 > | Acquired Loot:    | None |
@@ -18,12 +18,12 @@
 # Backstory
 [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]], curious and hungry, ate one of the magical beans. A beanstalk immediately began growing from his mouth. The staff rushed him to the Medical Wing of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]] and carefully placed the still-growing stalk into a large metal crate for containment.
 However, later that day, [[1-Party/Archived/Marionette Moonbeam/Marionette Moonbeam\|Marionette]], [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Glue]], [[1-Party/Harry Blackstone/Harry Blackstone\|Harry]], and [[1-Party/Archived/Atudark/Atudark\|Atudark]] broke into the Medical Wing and opened the crate. The beanstalk erupted violently, smashing through the floors of [[2-World/Points of Interest/Neverwood Academy/Kollema Hall\|Kollema Hall]], rupturing the roof, and continuing to grow into the sky. Snow and frost drifted down from the gaping hole, and whispers spread across campus that Jack had climbed the stalk and was now missing somewhere above.
-Head Teacher [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]] demands that the students contain the chaos, retrieve anything dangerous, and shut the sky portal before more harm comes to the school or its students.
+Head Teacher [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] demands that the students contain the chaos, retrieve anything dangerous, and shut the sky portal before more harm comes to the school or its students.
 
 # Objectives
 ### The Great Beanstalk Breach
 * [x] ~~Witness the beanstalk erupt through the top floors of Kollema Hall~~
-* [x] ~~Receive [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]’s instructions to investigate and contain the breach~~
+* [x] ~~Receive [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]]’s instructions to investigate and contain the breach~~
 
 ### Climbing the Beanstalk
 * [x] Ascend the towering beanstalk into the sky
@@ -70,7 +70,6 @@ The following people are associated with this quest.
 | Character                                                                                       | Race            | Gender | Role         |
 | ----------------------------------------------------------------------------------------------- | --------------- | ------ | ------------ |
 | [[2-World/People/Neverwood Academy/Staff/Administration/Taiva Loreweaver\|Taiva Loreweaver]] | Human           | Female | Head Teacher |
-| [[2-World/People/Neverwood Academy/Staff/Taiva Loreweaver\|Taiva Loreweaver]]                | Human           | Female | Head Teacher |
 | [[2-World/People/Other/Aurum Aethelos\|Aurum Aethelos]]                                      | Giant           | Male   | Other        |
 | [[2-World/People/Other/Teanna Aethelos\|Teanna Aethelos]]                                    | Giant           | Female | Other        |
 | [[2-World/People/Other/Up the Beanstalk/Teanna Aethelos\|Teanna Aethelos]]                   | Giant           | Female | Other        |

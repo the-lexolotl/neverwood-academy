@@ -110,7 +110,7 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Athletics ([[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]])
 ### Single Use
 - [ ] 
 

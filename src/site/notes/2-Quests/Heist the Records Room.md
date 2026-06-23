@@ -42,14 +42,11 @@ Strange things have been happening on campus. The party has been tipped off abou
 - [x] ~~Escape Without Being Spotted~~
 
 # Quest Handouts
-| File                                                                                                                   | Date Obtained | Category | Associated NPCs                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------- | -------- | ----------------------------------------------------------------------------------- |
-| [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]                       | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>       |
-| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]                     | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>     |
-| [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]]                 | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul> |
-| [[2-Player Handouts/Murgaxor Student Records/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot     | \-                                                                                  |
-| [[2-Player Handouts/Murgaxor Student Records/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot     | \-                                                                                  |
-| [[2-Player Handouts/Murgaxor Student Records/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot     | \-                                                                                  |
+| File                                                                                                   | Date Obtained | Category | Associated NPCs                                                                     |
+| ------------------------------------------------------------------------------------------------------ | ------------- | -------- | ----------------------------------------------------------------------------------- |
+| [[2-Player Handouts/Murgaxor/Veyra Murgaxor Student Records\|Veyra Murgaxor Student Records]]       | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Veyra Murgaxor.md\\|Veyra Murgaxor]]</li></ul>       |
+| [[2-Player Handouts/Murgaxor/Daniel Murgaxor Student Records\|Daniel Murgaxor Student Records]]     | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Daniel Murgaxor.md\\|Daniel Murgaxor]]</li></ul>     |
+| [[2-Player Handouts/Murgaxor/Grenshel Murgaxor Student Records\|Grenshel Murgaxor Student Records]] | 06 Sep, 2025  | Loot     | <ul><li>[[2-World/People/Other/Grenshel Murgaxor.md\\|Grenshel Murgaxor]]</li></ul> |
 
 { .block-language-dataview}
 

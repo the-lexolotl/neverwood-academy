@@ -102,7 +102,7 @@ Despite being a social outcast, Ferbinious remains optimistic about the future. 
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ] Athletics ([[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]])
 ### Single Use
 - [ ] 
 

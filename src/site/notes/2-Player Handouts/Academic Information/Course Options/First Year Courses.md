@@ -80,7 +80,7 @@ Classes are large, strictly lecture-based, and allow no time for questions. Thro
 
 ## General Studies
 #### Basking in the Glow: Basic Magical Auras
-*Professor [[2-World/People/Neverwood Academy/Staff/Quentis Orvlo\|Quentis Orvlo]]*
+*Professor [[2-World/People/Neverwood Academy/Staff/General/Quentis Orvlo\|Quentis Orvlo]]*
 > [!success]- Reward  
 > Detect Magic
 

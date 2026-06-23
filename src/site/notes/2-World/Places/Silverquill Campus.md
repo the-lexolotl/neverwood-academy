@@ -31,7 +31,6 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | File                                                                                               | Race       | Gender     | Role                  |
 | -------------------------------------------------------------------------------------------------- | ---------- | ---------- | --------------------- |
 | [[2-World/People/Neverwood Academy/Students/1505/Chaselienne Lain\|Chaselienne Lain]]           | Elf        | Female     | Alumni                |
-| [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]]                                   | Tiefling   | Female     | Coach                 |
 | [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]]                           | Tiefling   | Female     | Coach                 |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Embrose Lu\|Embrose Lu]]                   | Human      | Male       | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]       | Owlin      | Female     | College Dean          |

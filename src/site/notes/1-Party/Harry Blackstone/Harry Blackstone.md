@@ -106,7 +106,7 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Investigation ([[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]])
 ### Single Use
 - [ ] 
 

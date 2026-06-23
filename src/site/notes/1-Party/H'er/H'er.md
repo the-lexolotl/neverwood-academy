@@ -94,7 +94,7 @@
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Slight of Hand ([[2-World/Groups/Extracurricular Club/Distinguished Society of Fine Artists\|Distinguished Society of Fine Artists]])
 ### Single Use
 - [ ] 
 

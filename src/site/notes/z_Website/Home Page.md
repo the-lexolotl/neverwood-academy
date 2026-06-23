@@ -34,9 +34,9 @@ Welcome to the authorised archive of **Neverwood Academy**, a centre of magical 
 
 ---
 > [!abstract]+ Notice Board Highlights
-> - 📌 All students are reminded that the new academic year begins 16th Eleasias — late arrivals will be noted
-> - ⚠️ The East Wing remains closed pending structural assessment. Students are advised not to investigate
+> - ⚠️ The East Wing of Torus Hall remains closed pending structural assessment. Students are advised not to investigate
 > - 🕯️ The library's restricted section will be accessible by appointment only this term
+> - ⚙️ Visiting specialist Professor Manthrak the Meticulous will deliver a guest lecture and live demonstration on mechanomancy and artifice at his field workshop on the western edge of Neverwinter Woods. Attendance optional but encouraged. Sturdy boots advised; nothing flammable, please
 > - ☕ Whalebucks summer specials available now!
 
 ### *Failure to read notices is not an excuse.*

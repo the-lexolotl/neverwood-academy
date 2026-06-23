@@ -22,7 +22,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]]
+[[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]]
 
 ## Session Handouts
 | File | Category | Associated NPCs | Associated Quests |
@@ -50,7 +50,7 @@ A lingering heat, a curious fog, and a vault older than the academy itself set t
 
 ### Acknowledging the Vault’s Magic
 * Marionette discovers a small sigil embedded in the door, meaning “request entry” in old druidic druidic shorthand. Pressing it awakens the door, and the surrounding fog reacts violently to Harry’s attempted elemental manipulation. He feels a sharp, almost physical recoil from the magic in the roots — a warning that the vault is aware of their presence.
-* The groundskeeper, [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]], emerges from the mist, her bark-textured skin and moss-draped form rooted to the bog. She assesses the students, noting the residual heat in Harry and the burns on Marionette’s hands. Recognition and authority temper her approach.
+* The groundskeeper, [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]], emerges from the mist, her bark-textured skin and moss-draped form rooted to the bog. She assesses the students, noting the residual heat in Harry and the burns on Marionette’s hands. Recognition and authority temper her approach.
 * A root forms the proper key, opening the vault with roots and stone shifting to allow passage. She grants them five minutes inside, emphasizing they must not interfere with the creatures or cast magic.
 
 ### Inside the Creature Vaults
@@ -65,7 +65,7 @@ A lingering heat, a curious fog, and a vault older than the academy itself set t
 * Despite the temptation to explore, Harry and Marionette return to their mission: containing the mephit and investigating the black goo.
 
 ### Containment and Care
-* The students exit the cell with the mephit, [[2-World/People/Neverwood Academy/Staff/Yedora\|Yedora]] guiding them back through the foggy [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]] as the vault doors close behind them.
+* The students exit the cell with the mephit, [[2-World/People/Neverwood Academy/Staff/General/Yedora\|Yedora]] guiding them back through the foggy [[2-World/Points of Interest/Neverwood Academy/Detention Bog\|Detention Bog]] as the vault doors close behind them.
 * The groundskeeper heals Marionette’s hands fully, leaving her skin smooth and unscarred. She cautions Harry to keep control over the residual heat within him.
 * Harry and Marionette reflect on the vault, its rules, and the creatures contained within — a place older than the academy itself, where curiosity is tempered by caution.
 

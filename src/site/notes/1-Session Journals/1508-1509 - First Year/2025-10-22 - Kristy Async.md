@@ -5,7 +5,7 @@
 # Kristy Async - The Price of Integrity
 ## Roster 
 
-[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]],[[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]],[[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]
+[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]],[[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]],[[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]
 
 # Session Overview
 
@@ -21,7 +21,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]], [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]], [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]
+[[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]], [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]], [[2-World/People/Neverwood Academy/Students/1508/Mirella Blackbriar\|Mirella Blackbriar]]
 
 ## Session Handouts
 | File | Category | Associated NPCs | Associated Quests |
@@ -30,10 +30,10 @@
 { .block-language-dataview}
 
 ## Summary
-A quiet day of reflection turns into a rescue mission when Vigilius answers [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Professor Sharpbeak's]] call to find a missing Witherbloom student in the forbidden Root Archives. Ignoring a tempting note from [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]] offering payment for “anything valuable,” Vigilius proves that integrity can burn brighter than ambition — quite literally, as he faces the living roots of the Archives themselves to free a terrified classmate from their grasp.
+A quiet day of reflection turns into a rescue mission when Vigilius answers [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Professor Sharpbeak's]] call to find a missing Witherbloom student in the forbidden Root Archives. Ignoring a tempting note from [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]] offering payment for “anything valuable,” Vigilius proves that integrity can burn brighter than ambition — quite literally, as he faces the living roots of the Archives themselves to free a terrified classmate from their grasp.
 
 ### The Tempting Offer
-* The morning after a scolding from the Head Teacher, Vigilius finds an unsigned note on his desk — a proposition from [[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]], offering gold for any “valuable” discoveries made during her errand for [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Professor Sharpbeak]].  
+* The morning after a scolding from the Head Teacher, Vigilius finds an unsigned note on his desk — a proposition from [[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]], offering gold for any “valuable” discoveries made during her errand for [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Professor Sharpbeak]].  
 * Choosing conscience over coin, Vigilius ignores the note and sets off for [[2-World/Places/Witherbloom Campus\|Witherbloom Campus]], determined to find the missing student.
 
 ### Descent into the Root Archives
@@ -52,7 +52,7 @@ A quiet day of reflection turns into a rescue mission when Vigilius answers [[2-
 * As the adrenaline fades, Vigilius returns to his dorm to reflect. The past few days — and the student he saved — leave him with a new resolve: to stop chasing ghosts of his past and start living in the present.
 
 ### Ongoing Threads
-* **[[2-World/People/Neverwood Academy/Staff/Ricard Ruanad\|Ricard Ruanad]]’s Note** – His proposition went unanswered, but it’s unlikely he’ll forget Vigilius’s refusal. What “valuables” did he truly seek in the Root Archives?  
+* **[[2-World/People/Neverwood Academy/Staff/Administration/Ricard Ruanad\|Ricard Ruanad]]’s Note** – His proposition went unanswered, but it’s unlikely he’ll forget Vigilius’s refusal. What “valuables” did he truly seek in the Root Archives?  
 * **The Sealed Chest** – Left behind in the chamber, its sap-frosted surface hints at lingering magic — and unfinished business.  
 * **Mavinda’s Favour** – The Silver Ink Charm marks Mavinda’s trust; future assignments from her may follow.  
 * **Vigilius’s Resolve** – His experience in the Archives has changed his outlook — but will that conviction hold when temptation comes calling again?

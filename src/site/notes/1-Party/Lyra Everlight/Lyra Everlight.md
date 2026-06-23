@@ -107,7 +107,8 @@ Lyra’s ambition is simple in spirit, if not in practice: to become someone who
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Perception ([[2-World/Groups/Extracurricular Club/Mage Tower Cheer Squad\|Mage Tower Cheer Squad]])
+- [ ]  Arcana ([[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]g)
 ### Single Use
 - [ ] 
 

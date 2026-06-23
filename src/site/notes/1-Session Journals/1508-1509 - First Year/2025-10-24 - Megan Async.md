@@ -23,7 +23,7 @@
 
 ## NPC's
 
-[[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]],[[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]],[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]
+[[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]],[[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]],[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]
 
 ## Session Handouts
 | File | Category | Associated NPCs | Associated Quests |
@@ -35,7 +35,7 @@
 A glittering opportunity turns into a web of intrigue when Lyra Everlight is summoned to audition for *The Merchant of Moons*, Silverquill’s most prestigious annual production. What begins as a simple performance quickly reveals hidden ledgers, forged signatures, and family secrets lurking beneath the stage’s polished veneer. Caught between reputation, manipulation, and a mysterious truth-binding sigil, Lyra’s debut becomes a play scripted by forces far larger — and far closer — than she imagined.
 
 ### The Call to Audition
-* A sealed letter from the **[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]** invites Lyra to audition for *The Merchant of Moons*, a [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]] Grand Production “strongly encouraged” by Professor [[2-World/People/Neverwood Academy/Staff/Dramitia\|Dramitia]] herself.
+* A sealed letter from the **[[2-World/Groups/Extracurricular Club/Performing Arts Society\|Performing Arts Society]]** invites Lyra to audition for *The Merchant of Moons*, a [[2-World/Groups/Colleges/Silverquill College\|Silverquill College]] Grand Production “strongly encouraged” by Professor [[2-World/People/Neverwood Academy/Staff/General/Dramitia\|Dramitia]] herself.
 * Rumours whisper through the campus — this year’s play has a **mysterious benefactor**, someone with deep pockets and a vested interest in its cast.
 * Upon arriving at the amphitheatre, Lyra’s name already gleams on the callboard: *Lead Contender — “The Merchant of Moons.”*
 
@@ -57,7 +57,7 @@ When the group disperses, Lyra glimpses a ledger marked *“Accounts”* in Dram
 * When Lyra tries to distract it, the quill lashes out, burning a **silver sigil** into her forearm — a mark that pulses faintly under her skin.
 
 ### Truth Sigil
-* Back in her dorm, Lyra investigates the mark to no avail. The next morning, she visits **[[2-World/People/Neverwood Academy/Staff/Isabrough\|Isabrough]]**, the head librarian, and learns it is a **Truth Sigil** — a form of magic that compels honesty, manipulates words, or exposes secrets.
+* Back in her dorm, Lyra investigates the mark to no avail. The next morning, she visits **[[2-World/People/Neverwood Academy/Staff/General/Isabrough\|Isabrough]]**, the head librarian, and learns it is a **Truth Sigil** — a form of magic that compels honesty, manipulates words, or exposes secrets.
 * The book warns that such sigils cannot be easily removed:
   *“Without Divine Intervention, one can only Wish for its removal.”*
 

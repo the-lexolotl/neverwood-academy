@@ -111,7 +111,7 @@ Redrnic’s ultimate ambition is to return to the holy order not as a penitent, 
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Athletics/Perception/Survival ([[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]])
 ### Single Use
 - [ ] 
 

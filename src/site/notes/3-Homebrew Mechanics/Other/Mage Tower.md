@@ -3,7 +3,7 @@
 ---
 
 # Overview
-Mage Tower is one of the most popular and chaotic student games at **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**, blending teamwork, strategy, and just a touch of magical mayhem. While the game itself is played year-round between student groups, its pinnacle is the **[[2-Player Handouts/Neverwinter Mage Battle\|Neverwinter Mage Battle]]**—a major intramural event held in [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]] for prestige, bragging rights, and valuable Group Cup recognition.
+Mage Tower is one of the most popular and chaotic student games at **[[2-World/Hubs/Neverwood Academy\|Neverwood Academy]]**, blending teamwork, strategy, and just a touch of magical mayhem. While the game itself is played year-round between student groups, its pinnacle is the **[[2-Player Handouts/Academy Events/Neverwinter Mage Battle\|Neverwinter Mage Battle]]**—a major intramural event held in [[2-World/Points of Interest/Neverwood Academy/Neverwood Stadium\|Neverwood Stadium]] for prestige, bragging rights, and valuable Group Cup recognition.
 
 Each team represents their chosen Neverwood mascot, sending their finest students onto the field in a fast-paced contest of agility, spellcraft, and coordination. Though the rules are simple, the execution rarely is.
 
@@ -34,7 +34,7 @@ Each team must choose one of the following mascots to represent them in Mage Tow
 
 ---
 # The Neverwood Mage Battle Event
-Leading up to the [[2-Player Handouts/Neverwinter Mage Battle\|Neverwinter Mage Battle]], student groups are given time to prepare—settling rivalries, refining tactics, and, most importantly, choosing their mascot.
+Leading up to the [[2-Player Handouts/Academy Events/Neverwinter Mage Battle\|Neverwinter Mage Battle]], student groups are given time to prepare—settling rivalries, refining tactics, and, most importantly, choosing their mascot.
 Teams must bring their chosen mascot with them to Neverwood Stadium on the day of the event.
 Win the game.
 Claim the glory.

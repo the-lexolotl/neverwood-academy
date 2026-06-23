@@ -104,7 +104,7 @@ Looking ahead, Vigilius no longer seeks answers buried in the past, but purpose 
 
 # Student Dice
 ### Extracurricular - Once per tenday
-- [ ] 
+- [ ]  Religion ([[2-World/Groups/Extracurricular Club/Student-Mages of Faith\|Student-Mages of Faith]])
 ### Single Use
 - [ ] 
 

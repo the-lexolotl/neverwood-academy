@@ -38,6 +38,7 @@ Despite these risks, the Neverwinter Woods remain an important resource for both
 | File                                                                         |
 | ---------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] |
+| [[2-World/Points of Interest/Manthrak's Tower\|Manthrak's Tower]]         |
 
 { .block-language-dataview}
 
