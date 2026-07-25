@@ -7,8 +7,8 @@
 | Cohort                                                                | Current Academic Year | Graduating Year |
 | --------------------------------------------------------------------- | --------------------- | --------------- |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1506\|Cohort of 1506]] | 4                     | 1510            |
-| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]] | 3                     | 1511            |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1508\|Cohort of 1508]] | 2                     | 1512            |
+| [[2-World/Groups/Academic Cohorts/Cohort of 1507\|Cohort of 1507]] | 3                     | 1511            |
 | [[2-World/Groups/Academic Cohorts/Cohort of 1509\|Cohort of 1509]] | 1                     | 1513            |
 
 { .block-language-dataview}

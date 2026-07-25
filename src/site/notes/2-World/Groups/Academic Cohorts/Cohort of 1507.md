@@ -37,36 +37,36 @@ The following people are members of this group.
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]                       | Female     | Firbolg      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]                                   | Male       | Aasimar      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                   | Non-binary | Orc          | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                     | Female     | Halfling     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                                 | Female     | Owlin        | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                           | Male       | Triton       | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                         | Male       | Minotaur     | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Female     | Loxodon      | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]]                     | Female     | Halfling     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Enitix Traziver Salben Xalbis\|Enitix Traziver Salben Xalbis]] | Male       | Gnome        | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                   | Female     | Satyr        | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                           | Male       | Human        | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Emeline Redstream\|Emeline Redstream]]                         | Female     | Loxodon      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]                     | Male       | Human        | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Gilmirie Runlithmae\|Gilmirie Runlithmae]]                     | Female     | Human        | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]                           | Male       | Human        | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                                   | Female     | Satyr        | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Henry Woodleaf\|Henry Woodleaf]]                               | Male       | Tiefling     | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Male       | Owlin        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Inding Kithollal\|Inding Kithollal]]                           | Female     | Half-Elf     | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                                         | Female     | Half-Orc     | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Javenesh Stoutclaw\|Javenesh Stoutclaw]]                       | Male       | Owlin        | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]                   | Non-binary | Elf          | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                                           | Female     | Human        | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Lindsey Stonesworn\|Lindsey Stonesworn]]                       | Female     | Human        | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                                           | Female     | Human        | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                                         | Female     | Half-Orc     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Nora Ann Wu\|Nora Ann Wu]]                                     | Female     | Human        | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                                               | Non-binary | Earth Genasi | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Rhys Oakhollow\|Rhys Oakhollow]]                               | Non-binary | Firbolg      | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Pebble\|Pebble]]                                               | Non-binary | Earth Genasi | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]]                           | Male       | Fire Genasi  | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]                               | Male       | Half-Elf     | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1507/Rose Mugwort\|Rose Mugwort]]                                   | Female     | Halfling     | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]                         | Non-binary | Kenku        | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                     | Male       | Elf          | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                           | Male       | Orc          | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Rowan Montagu\|Rowan Montagu]]                                 | Male       | Orc          | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]]                     | Male       | Elf          | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]                         | Female     | Aasimar      | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                         | Non-binary | Changling    | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]                               | Male       | Half-Elf     | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]                         | Non-binary | Kenku        | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]                           | Male       | Orc          | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Urzoth Clanripper\|Urzoth Clanripper]]                         | Female     | Orc          | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Zeraphis Duskrain\|Zeraphis Duskrain]]                         | Non-binary | Changling    | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Valka Runeclaw\|Valka Runeclaw]]                               | Female     | Leonin       | Student | Lorehold    |
 
 { .block-language-dataview}

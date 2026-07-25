@@ -29,19 +29,19 @@ Participation can range from casual gardening sessions to intensive study of pla
 The following people are members of this group.  
 | File                                                                                           | Gender     | Race         | Role    | College     |
 | ---------------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]   | Female     | Firbolg      | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]] | Female     | Halfling     | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Female     | Owlin        | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]       | Male       | Orc          | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]     | Female     | Aasimar      | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]       | Male       | Shadar-Kai   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1506/Lazareth Hollowvein\|Lazareth Hollowvein]] | Male       | Undead       | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1506/Mira Wintersky\|Mira Wintersky]]           | Female     | Goliath      | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Orin Blackstone\|Orin Blackstone]]         | Male       | Earth Genasi | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]           | Female     | Water Genasi | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]           | Non-binary | Kenku        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Tasha Voidsong\|Tasha Voidsong]]           | Female     | Hexblood     | Student | Silverquill |
-| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                          | Male       | Triton       | Player  | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]           | Non-binary | Kenku        | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]       | Male       | Shadar-Kai   | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]   | Female     | Firbolg      | Student | Lorehold    |
+| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]             | Female     | Owlin        | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Elowen Quickwhisper\|Elowen Quickwhisper]] | Female     | Halfling     | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]     | Female     | Aasimar      | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1507/Urzmaktok Grojsh\|Urzmaktok Grojsh]]       | Male       | Orc          | Student | Witherbloom |
 | [[1-Party/Milfjord Goodleaf/Milfjord Goodleaf\|Milfjord Goodleaf]]                          | Male       | Halfling     | Player  | Witherbloom |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                          | Male       | Triton       | Player  | Witherbloom |
 
 { .block-language-dataview}

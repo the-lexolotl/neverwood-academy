@@ -102,8 +102,8 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 | [[2-World/Hubs/Luskan\|Luskan]]                             |
 | [[2-World/Hubs/Mithral Hall\|Mithral Hall]]                 |
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                   |
-| [[2-World/Hubs/Xvart Village\|Xvart Village]]               |
 | [[2-World/Hubs/Phandalin\|Phandalin]]                       |
+| [[2-World/Hubs/Xvart Village\|Xvart Village]]               |
 | [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]             |
 | [[2-World/Hubs/Mintarn\|Mintarn]]                           |
 | [[2-World/Hubs/Stormwreck Isle\|Stormwreck Isle]]           |

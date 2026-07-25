@@ -29,11 +29,11 @@ Those who demonstrate initiative may be invited to join more advanced expedition
 The following people are members of this group.  
 | File                                                                                             | Gender     | Race       | Role    | College     |
 | ------------------------------------------------------------------------------------------------ | ---------- | ---------- | ------- | ----------- |
-| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Male       | Triton     | Student | Prismari    |
-| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]             | Male       | Half-Elf   | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1506/Fenwick Bristlebrook\|Fenwick Bristlebrook]] | Non-binary | Halfling   | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1506/Milo Quickbranch\|Milo Quickbranch]]         | Male       | Halfling   | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1506/Vexaroth Drathis\|Vexaroth Drathis]]         | Non-binary | Dragonborn | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Viala Gravesend\|Viala Gravesend]]           | Female     | Reborn     | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]         | Male       | Triton     | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Ronald Caskbow\|Ronald Caskbow]]             | Male       | Half-Elf   | Student | Quandrix    |
 
 { .block-language-dataview}

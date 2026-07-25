@@ -81,13 +81,13 @@ The following people are associated with this quest.
 | [[2-World/People/Neverwood Academy/Students/1506/Infernal Houndfist\|Infernal Houndfist]] | Half-Orc        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                 | Tiefling        | Male   | Student |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]   | Shifter         | Male   | Student |
-| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                              | Aarakocra       | Female | Player  |
-| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                        | Triton          | Male   | Player  |
-| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                 | Dragonborn      | Male   | Player  |
 | [[1-Party/H'er/H'er\|H'er]]                                                               | Tiefling        | Female | Player  |
 | [[1-Party/Harry Blackstone/Harry Blackstone\|Harry Blackstone]]                           | Human           | Male   | Player  |
 | [[1-Party/Lyra Everlight/Lyra Everlight\|Lyra Everlight]]                                 | Variant Aasimar | Female | Player  |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                           | Dragonborn      | Male   | Player  |
+| [[1-Party/Archived/Guiloip Guhloo/Guiloip Guhloo\|Guiloip Guhloo]]                        | Triton          | Male   | Player  |
+| [[1-Party/Archived/Vith Pahlok/Vith Pahlok\|Vith Pahlok]]                                 | Dragonborn      | Male   | Player  |
+| [[1-Party/Archived/Cyinth Agora/Cyinth Agora\|Cyinth Agora]]                              | Aarakocra       | Female | Player  |
 
 { .block-language-dataview}
 

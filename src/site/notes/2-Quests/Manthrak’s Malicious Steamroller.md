@@ -24,20 +24,20 @@ Manthrak's tower - his home, laboratory, and life's work - has gone rogue. A mal
 
 # Objectives
 ### First Day on the Job
-- [ ] Attend Professor Manthrak's guest lecture on the edge of Neverwinter Woods
-- [ ] Make your way through the Woods as the trees react to a distant, growing disturbance
-- [ ] Reach Manthrak's workshop and discover it in ruins
-- [ ] Investigate the wreckage and find Manthrak's half-finished warning
-- [ ] Defeat the creature rampaging through the workshop
-- [ ] Recover the strange crystal among the wreckage
-- [ ] Follow the rumbling sound to a clearing deeper in the Woods
+- [x] ~~Attend Professor Manthrak's guest lecture on the edge of Neverwinter Woods~~
+- [x] ~~Make your way through the Woods as the trees react to a distant, growing disturbance~~
+- [x] ~~Reach Manthrak's workshop and discover it in ruins~~
+- [x] ~~Investigate the wreckage and find Manthrak's half-finished warning~~
+- [x] ~~Defeat the creature rampaging through the workshop~~
+- [x] ~~Recover the strange crystal among the wreckage~~
+- [x] ~~Follow the rumbling sound to a clearing deeper in the Woods~~
 
 ### Into the Tower
-- [ ] Discover Manthrak's tower rolling endlessly on its side
-- [ ] Find a way through the tower's only entrance as it rolls past
-- [ ] Navigate the tower's interior as it continues to turn beneath your feet
-- [ ] Investigate the source of an unsettling, high-pitched keening sound
-- [ ] Silence the keening and put a stop to whatever is causing it
+- [x] ~~Discover Manthrak's tower rolling endlessly on its side~~
+- [x] ~~Find a way through the tower's only entrance as it rolls past~~
+- [x] ~~Navigate the tower's interior as it continues to turn beneath your feet~~
+- [x] ~~Investigate the source of an unsettling, high-pitched keening sound~~
+- [x] ~~Silence the keening and put a stop to whatever is causing it~~
 
 ### The Warehouse Floor
 - [ ] Push further upward through a floor crammed with locked cabinets and bound suits of armour
