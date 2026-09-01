@@ -108,7 +108,8 @@ When he imagines the future, Harry sees himself as a scholar and protector, honi
 ### Extracurricular - Once per tenday
 - [ ]  Investigation ([[2-World/Groups/Extracurricular Club/Neverwood Times\|Neverwood Times]])
 ### Single Use
-- [ ] 
+- [ ] Investigation - Scrawl to the Wall: Exam 1
+- [ ] Arcana - Scrawl to the Wall: Exam 1
 
 # Inventory
 *Carrying Capacity: 120 lbs*

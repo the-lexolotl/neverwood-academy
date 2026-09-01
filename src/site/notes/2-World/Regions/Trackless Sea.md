@@ -65,8 +65,8 @@ Control of its routes means wealth — or ruin.
 # Hubs
 | File                                               |
 | -------------------------------------------------- |
-| [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]] |
 | [[2-World/Hubs/Mintarn\|Mintarn]]               |
+| [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]] |
 
 { .block-language-dataview}
 

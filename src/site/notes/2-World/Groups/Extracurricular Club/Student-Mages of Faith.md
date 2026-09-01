@@ -31,10 +31,10 @@ The following people are members of this group.
 | ------------------------------------------------------------------------------------------------ | ------ | ---------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Lazareth Hollowvein\|Lazareth Hollowvein]]   | Male   | Undead     | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1506/Vesra Thornwhisper\|Vesra Thornwhisper]]     | Female | Tiefling   | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad      | Student | Witherbloom |
-| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin      | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Adriel Kevadirtinu\|Adriel Kevadirtinu]]     | Female | Firbolg    | Student | Lorehold    |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]       | Female | Aasimar    | Student | Silverquill |
+| [[2-World/People/Neverwood Academy/Students/1508/Melwythorn\|Melwythorn]]                     | Male   | Dryad      | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Shuvadri Glintmantle\|Shuvadri Glintmantle]] | Female | Owlin      | Student | Silverquill |
 | [[1-Party/Vigilius Palamas/Vigilius Palamas\|Vigilius Palamas]]                               | Male   | Dragonborn | Player  | Quandrix    |
 
 { .block-language-dataview}

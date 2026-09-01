@@ -21,9 +21,10 @@ The woods themselves are far from empty. They are home to a wide range of creatu
 Despite these risks, the Neverwinter Woods remain an important resource for both the city and the academy. Students occasionally venture into its outer reaches under supervision to study its ecology, gather materials, or test survival skills. Yet even these controlled excursions carry an undercurrent of uncertainty, for the woods are not entirely passive. Paths shift, sounds travel strangely, and there is a persistent sense that something within the forest is always watching—aware of those who pass through it, and perhaps aware of the hidden academy it protects.
 
 # Quests
-| File                                                   | Status   | Date Obtained |
-| ------------------------------------------------------ | -------- | ------------- |
-| [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]] | Complete | 13 Sep, 2025  |
+| File                                                                               | Status      | Date Obtained |
+| ---------------------------------------------------------------------------------- | ----------- | ------------- |
+| [[2-Quests/Manthrak’s Malicious Steamroller\|Manthrak’s Malicious Steamroller]] | In Progress | 27 Jun, 2026  |
+| [[2-Quests/Miaukier Must Die!\|Miaukier Must Die!]]                             | Complete    | 13 Sep, 2025  |
 
 { .block-language-dataview}
 
@@ -37,8 +38,8 @@ Despite these risks, the Neverwinter Woods remain an important resource for both
 
 | File                                                                         |
 | ---------------------------------------------------------------------------- |
-| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] |
 | [[2-World/Points of Interest/Manthrak's Tower\|Manthrak's Tower]]         |
+| [[2-World/Points of Interest/Xvart Ritual Dungeon\|Xvart Ritual Dungeon]] |
 
 { .block-language-dataview}
 

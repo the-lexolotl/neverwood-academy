@@ -31,12 +31,12 @@ The following people are members of this group.
 | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Selka Tideborn\|Selka Tideborn]]                       | Female     | Water Genasi | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Tasha Voidsong\|Tasha Voidsong]]                       | Female     | Hexblood     | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]                       | Non-binary | Kenku        | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Vesra Thornwhisper\|Vesra Thornwhisper]]               | Female     | Tiefling     | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Solin Duskwind\|Solin Duskwind]]                       | Non-binary | Kenku        | Student | Prismari    |
+| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Female     | Owlin        | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Male       | Triton       | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1508/Cadoras Damellawar\|Cadoras Damellawar]]               | Male       | Elf          | Student | Quandrix    |
 | [[2-World/People/Neverwood Academy/Students/1508/Orion Duskmantle\|Orion Duskmantle]]                   | Male       | Shadar-Kai   | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1508/Rosimyffenbip Wuzfeddlims\|Rosimyffenbip Wuzfeddlims]] | Female     | Gnome        | Student | Lorehold    |
-| [[2-World/People/Neverwood Academy/Students/1507/Diana Fenwick\|Diana Fenwick]]                         | Female     | Owlin        | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1507/Dorian Wavecrest\|Dorian Wavecrest]]                   | Male       | Triton       | Student | Prismari    |
 
 { .block-language-dataview}

@@ -112,7 +112,7 @@ Until that day — which she firmly believes will never come — Suraax Smith wi
 ### Extracurricular - Once per tenday
 - [ ]  Athletics ([[2-World/Groups/Neverwood Guilds/Adventuring Guild\|Adventuring Guild]])
 ### Single Use
-- [ ] 
+- [ ] Arcana  - Scrawl to the Wall: Exam 1
 
 # Inventory
 *Carrying Capacity: 240 lbs*

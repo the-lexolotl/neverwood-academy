@@ -68,10 +68,10 @@ The following people are members of this guild.
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | ------- | ----------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Jasper Fairweather\|Jasper Fairweather]]                                 | Male       | Satyr     | Student | Prismari    | 4           |
 | [[2-World/People/Neverwood Academy/Students/1506/Nyx Veldrith\|Nyx Veldrith]]                                             | Non-binary | Changling | Student | Silverquill | 4           |
-| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female     | Dhampir   | Student | Witherbloom | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male       | Human     | Student | Prismari    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Derthag Shadowslayer\|Derthag Shadowslayer]]                             | Non-binary | Orc       | Student | Prismari    | 3           |
 | [[2-World/People/Neverwood Academy/Students/1507/Drazhomir Yarnask\|Drazhomir Yarnask]]                                   | Male       | Minotaur  | Student | Quandrix    | 3           |
+| [[2-World/People/Neverwood Academy/Students/1508/Aurora Luna Wyntherstarr\|Aurora Luna Wyntherstarr]]                     | Female     | Dhampir   | Student | Witherbloom | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Quentillius Antiphiun Melentor III\|Quentillius Antiphiun Melentor III]] | Male       | Human     | Student | Prismari    | 2           |
 
 { .block-language-dataview}
 

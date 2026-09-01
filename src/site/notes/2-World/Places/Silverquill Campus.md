@@ -36,15 +36,15 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shaile Talonrook\|Shaile Talonrook]]       | Owlin      | Female     | College Dean          |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Shadrix SIlverquill\|Shadrix SIlverquill]] | Dragon     | Male       | Founder Dragon        |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Mavinda Sharpbeak\|Mavinda Sharpbeak]]     | Owlin      | Female     | Professor of Radiance |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]           | Leonin     | Male       | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Nils\|Nils]]                               | Human      | Male       | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Sace Solindiel\|Sace Solindiel]]           | Half-Elf   | Female     | Professor of Radiance |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Helioz Sunmane\|Helioz Sunmane]]           | Leonin     | Male       | Professor of Radiance |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Smart Mouth\|Smart Mouth]]                 | Kenku      | Non-binary | Professor of Radiance |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Breena\|Breena]]                           | Owlin      | Female     | Professor of Shadow   |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Brenneth Blackstone\|Brenneth Blackstone]] | Dhampir    | Male       | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Fain\|Fain]]                               | Human      | Male       | Professor of Shadow   |
-| [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Staff/Silverquill/Luc Brandford\|Luc Brandford]]             | Human      | Male       | Professor of Shadow   |
+| [[2-World/People/Neverwood Academy/Staff/Silverquill/Liv Brandford\|Liv Brandford]]             | Human      | Female     | Professor of Shadow   |
 | [[2-World/People/Neverwood Academy/Students/1506/Elric Duskvale\|Elric Duskvale]]               | Half-Elf   | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1506/Jimmy Pyre\|Jimmy Pyre]]                       | Tiefling   | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1506/Lupus Thunderpelt\|Lupus Thunderpelt]]         | Shifter    | Male       | Student               |
@@ -54,8 +54,8 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | [[2-World/People/Neverwood Academy/Students/1506/Tasha Voidsong\|Tasha Voidsong]]               | Hexblood   | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1506/Torin Grimwhisper\|Torin Grimwhisper]]         | Shadar-Kai | Non-binary | Student               |
 | [[2-World/People/Neverwood Academy/Students/1506/Zyrelis Starweaver\|Zyrelis Starweaver]]       | Aasimar    | MtF        | Student               |
-| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]                   | Satyr      | Female     | Student               |
+| [[2-World/People/Neverwood Academy/Students/1507/Geoffrey Writingham\|Geoffrey Writingham]]     | Human      | Male       | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Lemmaegli Aeraagamae\|Lemmaegli Aeraagamae]]   | Elf        | Non-binary | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Mina Lee\|Mina Lee]]                           | Human      | Female     | Student               |
 | [[2-World/People/Neverwood Academy/Students/1507/Thalia Everbright\|Thalia Everbright]]         | Aasimar    | Female     | Student               |
@@ -69,8 +69,8 @@ The atmosphere is charged but controlled. Students are constantly aware of being
 | File                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [[2-World/Points of Interest/Neverwood Academy/Grandloft Hall\|Grandloft Hall]] |
-| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
 | [[2-World/Points of Interest/Neverwood Academy/The Rose Stage\|The Rose Stage]] |
+| [[2-World/Points of Interest/Neverwood Academy/The Dramarium\|The Dramarium]]   |
 
 { .block-language-dataview}
 

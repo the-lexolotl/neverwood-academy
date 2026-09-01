@@ -30,8 +30,9 @@ Most who have entered describe the experience as deeply disorientating, on accou
 |                       | 🕓:         |
 
 # Quests
-| File |
-| ---- |
+| File                                                                               |
+| ---------------------------------------------------------------------------------- |
+| [[2-Quests/Manthrak’s Malicious Steamroller\|Manthrak’s Malicious Steamroller]] |
 
 { .block-language-dataview}
 

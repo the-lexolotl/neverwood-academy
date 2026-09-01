@@ -83,8 +83,8 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 # Continents
 | File                                         |
 | -------------------------------------------- |
-| [[2-World/Continents/Faerûn\|Faerûn]]     |
 | [[2-World/Continents/Kara-Tur\|Kara-Tur]] |
+| [[2-World/Continents/Faerûn\|Faerûn]]     |
 
 { .block-language-dataview}
 
@@ -104,8 +104,8 @@ The Endless Ice Sea lies to the north of [[2-World/Continents/Faerûn\|Faerûn]]
 | [[2-World/Hubs/Neverwinter\|Neverwinter]]                   |
 | [[2-World/Hubs/Phandalin\|Phandalin]]                       |
 | [[2-World/Hubs/Xvart Village\|Xvart Village]]               |
-| [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]             |
 | [[2-World/Hubs/Mintarn\|Mintarn]]                           |
+| [[2-World/Hubs/Moonshae Isles\|Moonshae Isles]]             |
 | [[2-World/Hubs/Stormwreck Isle\|Stormwreck Isle]]           |
 
 { .block-language-dataview}

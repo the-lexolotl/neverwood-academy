@@ -68,14 +68,14 @@ The following people are members of this guild.
 | ---------------------------------------------------------------------------------------- | ------ | ----------- | ------- | ----------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Elric Duskvale\|Elric Duskvale]]     | Male   | Half-Elf    | Student | Silverquill | 4           |
 | [[2-World/People/Neverwood Academy/Students/1506/Lumia Starbloom\|Lumia Starbloom]]   | Female | Eladrin     | Student | Lorehold    | 4           |
-| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon     | Student | Lorehold    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Female | Dwarf       | Student | Lorehold    | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Fay McKinnon\|Fay McKinnon]]         | Female | Satyr       | Student | Silverquill | 3           |
 | [[2-World/People/Neverwood Academy/Students/1507/Pyrus Flintbrand\|Pyrus Flintbrand]] | Male   | Fire Genasi | Student | Lorehold    | 3           |
+| [[2-World/People/Neverwood Academy/Students/1508/Bhedum Sooviij\|Bhedum Sooviij]]     | Male   | Loxodon     | Student | Lorehold    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Greta Gorunn\|Greta Gorunn]]         | Female | Dwarf       | Student | Lorehold    | 2           |
 | [[1-Party/Eremis Varr/Eremis Varr\|Eremis Varr]]                                      | Female | Kobold      | Player  | Silverquill | 2           |
 | [[1-Party/Ferbinious Refubical/Ferbinious Refubical\|Ferbinious Refubical]]           | Male   | Halfling    | Player  | Lorehold    | 2           |
-| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                    | Male   | Minotaur    | Player  | Lorehold    | 2           |
 | [[1-Party/Suraax Smith/Suraax Smith\|Suraax Smith]]                                   | Female | Dragonborn  | Player  | Lorehold    | 2           |
+| [[1-Party/Redrnic Udertaken/Redrnic Udertaken\|Redrnic Udertaken]]                    | Male   | Minotaur    | Player  | Lorehold    | 2           |
 
 { .block-language-dataview}
 

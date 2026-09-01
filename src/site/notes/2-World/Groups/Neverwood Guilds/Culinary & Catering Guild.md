@@ -68,10 +68,10 @@ The following people are members of this guild.
 | ------------------------------------------------------------------------------------------------ | ---------- | ---------- | ------- | ----------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Rowan Greengale\|Rowan Greengale]]           | Non-binary | Elf        | Student | Quandrix    | 4           |
 | [[2-World/People/Neverwood Academy/Students/1506/Sariah Moonshadow\|Sariah Moonshadow]]       | Female     | Shadar-Kai | Student | Witherbloom | 4           |
-| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Female     | Air Genasi | Student | Prismari    | 2           |
-| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]         | Female     | Dryad      | Student | Witherbloom | 2           |
 | [[2-World/People/Neverwood Academy/Students/1507/Ivy Drake\|Ivy Drake]]                       | Female     | Half-Orc   | Student | Witherbloom | 3           |
 | [[2-World/People/Neverwood Academy/Students/1507/Thorn Hollowbrook\|Thorn Hollowbrook]]       | Non-binary | Kenku      | Student | Quandrix    | 3           |
+| [[2-World/People/Neverwood Academy/Students/1508/Elandra Stormwhisper\|Elandra Stormwhisper]] | Female     | Air Genasi | Student | Prismari    | 2           |
+| [[2-World/People/Neverwood Academy/Students/1508/Nyssa Willowmere\|Nyssa Willowmere]]         | Female     | Dryad      | Student | Witherbloom | 2           |
 
 { .block-language-dataview}
 

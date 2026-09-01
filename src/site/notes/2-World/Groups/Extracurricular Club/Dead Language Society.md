@@ -31,14 +31,14 @@ The following people are members of this group.
 | ---------------------------------------------------------------------------------------------- | ------ | ----------- | ------- | ----------- |
 | [[2-World/People/Neverwood Academy/Students/1506/Ezekiel Ironbrand\|Ezekiel Ironbrand]]     | Male   | Fire Genasi | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Ignatius Burnscar\|Ignatius Burnscar]]     | Male   | Hobgoblin   | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1506/Izzik Brightspark\|Izzik Brightspark]]     | Male   | Kobold      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Lirien Emberlace\|Lirien Emberlace]]       | Female | Firbolg     | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1506/Izzik Brightspark\|Izzik Brightspark]]     | Male   | Kobold      | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1506/Quentin Rooke\|Quentin Rooke]]             | Male   | Human       | Student | Silverquill |
-| [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]   | Male   | Gnome       | Student | Quandrix    |
-| [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]         | Male   | Elf         | Student | Silverquill |
 | [[2-World/People/Neverwood Academy/Students/1507/Dain Montagu\|Dain Montagu]]               | Male   | Aasimar     | Student | Prismari    |
 | [[2-World/People/Neverwood Academy/Students/1507/Francis Farlight\|Francis Farlight]]       | Male   | Human       | Student | Witherbloom |
 | [[2-World/People/Neverwood Academy/Students/1507/Solren Verdantbloom\|Solren Verdantbloom]] | Male   | Elf         | Student | Witherbloom |
+| [[2-World/People/Neverwood Academy/Students/1508/Briswick Goldpenny\|Briswick Goldpenny]]   | Male   | Gnome       | Student | Quandrix    |
+| [[2-World/People/Neverwood Academy/Students/1508/Kealen Starfury\|Kealen Starfury]]         | Male   | Elf         | Student | Silverquill |
 | [[1-Party/Archived/Atudark/Atudark\|Atudark]]                                               | Male   | Yuan-Ti     | Player  | Witherbloom |
 
 { .block-language-dataview}
